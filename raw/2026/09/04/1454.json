@@ -1,289 +1,11 @@
 {
-  "date": "2026-09-04",
-  "keywords": {
-    "노동조합": {
-      "count": 2,
-      "maxTraffic": 1000,
-      "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
-      "news": [
-        {
-          "title": "삼성전자 '노조 미가입자 정보 유출' 직원 6명 불구속 송치",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6849591_36918.html",
-          "source": "MBC 뉴스",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "경찰, 삼성전자 ‘노조 블랙리스트’ 의혹 초기업노조 위원장 등 6명 송치",
-          "url": "https://v.daum.net/v/20260904142700056",
-          "source": "Daum",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "삼성전자 직원 6명 검찰 송치…노조 가입 조회·개인정보 대량 수집 혐의",
-          "url": "https://www.kyeonggi.com/article/20260904580094",
-          "source": "경기일보",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "경찰, 삼성전자 '노조 블랙리스트' 초기업노조 위원장 송치",
-          "url": "https://v.daum.net/v/20260904120556677",
-          "source": "Daum",
-          "date": "2026-09-04"
-        }
-      ]
-    },
-    "정우주": {
-      "count": 2,
-      "maxTraffic": 200,
-      "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
-      "news": [
-        {
-          "title": "[영상] 보기 안쓰러운 정우주…볼넷, 악송구, 폭투",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8654939",
-          "source": "KBS 뉴스",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "최근 10G ERA 19.13 '지독한 2년 차 징크스'…정우주 또 흔들렸다, 한화 9연패",
-          "url": "https://www.nocutnews.co.kr/news/6573011",
-          "source": "노컷뉴스",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "김서현·정우주 계속되는 시련, 그러나 이제 겨우 22살·20살일 뿐이다 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/04/2026090412284098756",
-          "source": "머니투데이",
-          "date": "2026-09-04"
-        }
-      ]
-    },
-    "교과": {
-      "count": 2,
-      "maxTraffic": 1000,
-      "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
-      "news": [
-        {
-          "title": "호남대, 2027학년도 수시모집 1천575명 선발",
-          "url": "https://www.yna.co.kr/view/AKR20260903147700054",
-          "source": "연합뉴스",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "K-웰니스 특성화 대학' 광주여대, 2027학년도 수시 855명 선발",
-          "url": "https://www.etnews.com/20260904000151",
-          "source": "전자신문",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "광주여대, 2027학년도 수시 855명 선발… 신입생 등록금 전액 감면 혜택",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1402838",
-          "source": "데일리한국",
-          "date": "2026-09-04"
-        }
-      ]
-    },
-    "네팔": {
-      "count": 2,
-      "maxTraffic": 10000,
-      "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
-      "news": [
-        {
-          "title": "수력발전소 터널서 네팔인 직원 2명 구조…참사 9일만",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260904132411Keb",
-          "source": "연합뉴스TV",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "네팔 참사 9일만에 발전소 터널서 네팔인 2명 구조",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6849636_36925.html",
-          "source": "MBC ���스",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "네팔 대홍수 9일 만에 수력발전소서 네팔인 직원 2명 구조",
-          "url": "https://www.chosun.com/national/national_general/2026/09/04/XVLXXMKUABBA7PNB6S3VMHN2FM/",
-          "source": "조선일보",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "네팔 대홍수 9일만의 기적…발전소 터널서 네팔인 2명 구조(종합)",
-          "url": "https://v.daum.net/v/20260904134256664",
-          "source": "Daum",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "'시야 1m' 악천후에 회항...한국인 9명 수색 난항 [뉴스퀘어 2PM]",
-          "url": "https://www.ytn.co.kr/_ln/0104_202609041418419574",
-          "source": "YTN",
-          "date": "2026-09-04"
-        }
-      ]
-    },
-    "서울 지하철 2호선": {
-      "count": 2,
-      "maxTraffic": 200,
-      "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
-      "news": [
-        {
-          "title": "[속보]지하철 2호선서 女 뒤에 딱붙어…SNS 달군 50대男 체포",
-          "url": "https://www.munhwa.com/article/11614404",
-          "source": "문화일보",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "“나도 봤는데, 여성 뒤만 노려 바짝”…50대 ‘2호선 밀착남’ 잠복 경찰이 체포",
-          "url": "https://v.daum.net/v/20260903205127374",
-          "source": "Daum",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "서울 2호선 지하철에서 여성 추행‥50대 남성 체포",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6849479_36918.html",
-          "source": "MBC 뉴스",
-          "date": "2026-09-04"
-        }
-      ]
-    },
-    "배영만": {
-      "count": 2,
-      "maxTraffic": 1000,
-      "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
-      "news": [
-        {
-          "title": "배영만 \"아침에 방긋 웃던 딸 사망 후 집안 풍비박산…이혼 후 세 남매 키워\"",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6279645",
-          "source": "뉴스1",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "“아침에 방긋 웃던 딸이”…딸 잃고 집안 풍비박산, 이혼 후 삼남매 홀로 키운 코미디언",
-          "url": "https://v.daum.net/v/20260904110214944",
-          "source": "Daum",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "배영만 \"어린 딸 잃고 이혼…홀로 세 자녀 키운 20년\"",
-          "url": "https://www.newsis.com/view/NISX20260904_0003775809",
-          "source": "뉴시스",
-          "date": "2026-09-04"
-        }
-      ]
-    },
-    "유카타": {
-      "count": 2,
-      "maxTraffic": 1000,
-      "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
-      "news": [
-        {
-          "title": "BTS RM·뷔 만나며 “한국 문화 좋다”더니···‘유카타’ 입고 등장한 배우, 일본인 아내 때문?",
-          "url": "https://www.khan.co.kr/article/202609040943001",
-          "source": "경향신문",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "할리우드 스타 엘고트, 서울 K컬처 행사에 日 '유카타' 옷…주최측 말도 무시",
-          "url": "https://www.news1.kr/society/general-society/6279732",
-          "source": "뉴스1",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "안셀 엘고트, 애 엄마도 일본인..일본 좋아하는건 알겠지만 [스타이슈]",
-          "url": "https://v.daum.net/v/20260904114811106",
-          "source": "Daum",
-          "date": "2026-09-04"
-        }
-      ]
-    },
-    "세종문화회관": {
-      "count": 2,
-      "maxTraffic": 200,
-      "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
-      "news": [
-        {
-          "title": "김동률을 보기 위한 관문…4일 ‘오래된 노래’ 예매 오픈",
-          "url": "https://www.munhwa.com/article/11614526",
-          "source": "문화일보",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "김동률, 오케스트라 없는 첫 단독 콘서트…오늘(4일) 티켓 오픈",
-          "url": "https://v.daum.net/v/20260904103842930",
-          "source": "Daum",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "김동률, “더 늦기 전에 용기 냈다” 7년 만의 세종대극장 컴백",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16182800",
-          "source": "톱스타뉴스",
-          "date": "2026-09-04"
-        }
-      ]
-    },
-    "안철수": {
-      "count": 1,
-      "maxTraffic": 500,
-      "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:48:00+09:00",
-      "news": [
-        {
-          "title": "'종이뭉치' 날아든 출근길‥여권도 '우려' 계속",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6849514_37012.html",
-          "source": "MBC 뉴스",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "민주, 용혜인 ‘거리두기’…당내서 “빨리 사퇴해야” 공개 압박",
-          "url": "https://v.daum.net/v/20260904141210606",
-          "source": "Daum",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "\"기생충 정당 양산하는 국고보조금 폐지\" 용혜인 과거 주장도 ‘파묘’",
-          "url": "https://news.jtbc.co.kr/article/NB12316695",
-          "source": "JTBC",
-          "date": "2026-09-04"
-        }
-      ]
-    },
-    "피의자": {
-      "count": 1,
-      "maxTraffic": 100,
-      "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:48:00+09:00",
-      "news": [
-        {
-          "title": "[속보] '中유학생 살해' 피의자 정창성, 사이코패스 기준 미달",
-          "url": "https://v.daum.net/v/20260904085003688",
-          "source": "Daum",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "'中유학생 살해·시신훼손' 중국��� 대학강사 정창성 구속송치(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20260904034300053",
-          "source": "연합뉴스",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "[속보] 靑 \"한미 투자이슈 반도체도 논의 대상…장애요인 안 되게 노력\"",
-          "url": "https://www.hankyung.com/article/2026090441827",
-          "source": "한국경제",
-          "date": "2026-09-04"
-        }
-      ]
-    },
-    "서용주": {
-      "count": 1,
-      "maxTraffic": 100,
-      "firstSeen": "2026-09-04T14:54:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
+  "at": "2026-09-04T14:54:00+09:00",
+  "trends": [
+    {
+      "keyword": "서용주",
+      "traffic": "100+",
+      "trafficNum": 100,
+      "pubDate": "Thu, 3 Sep 2026 21:50:00 -0700",
       "news": [
         {
           "title": "조국 \"은혜 갚으려 경고하니 오물 투척.. 李 지지율에 도움 안 될 것\"",
@@ -305,11 +27,167 @@
         }
       ]
     },
-    "사고": {
-      "count": 1,
-      "maxTraffic": 5000,
-      "firstSeen": "2026-09-04T14:54:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
+    {
+      "keyword": "노동조합",
+      "traffic": "1000+",
+      "trafficNum": 1000,
+      "pubDate": "Thu, 3 Sep 2026 21:40:00 -0700",
+      "news": [
+        {
+          "title": "경찰, 삼성전자 '노조 블랙리스트' 초기업노조 위원장 송치",
+          "url": "https://v.daum.net/v/20260904120556677",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "삼성전자 '노조 미가입자 정보 유출' 직원 6명 불구속 송치",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6849591_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "삼성전자 직원 6명 검찰 송치…노조 가입 조회·개인정보 대량 수집 혐의",
+          "url": "https://www.kyeonggi.com/article/20260904580094",
+          "source": "경기일보",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    {
+      "keyword": "정우주",
+      "traffic": "200+",
+      "trafficNum": 200,
+      "pubDate": "Thu, 3 Sep 2026 21:30:00 -0700",
+      "news": [
+        {
+          "title": "[영상] 보기 안쓰러운 정우주…볼넷, 악송구, 폭투",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8654939",
+          "source": "KBS 뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "최근 10G ERA 19.13 '지독한 2년 차 징크스'…정우주 또 흔들렸다, 한화 9연패",
+          "url": "https://www.nocutnews.co.kr/news/6573011",
+          "source": "노컷뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "김서현·정우주 계속되는 시련, 그러나 이제 겨우 22살·20살일 뿐이다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/04/2026090412284098756",
+          "source": "머니투데이",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    {
+      "keyword": "교과",
+      "traffic": "1000+",
+      "trafficNum": 1000,
+      "pubDate": "Thu, 3 Sep 2026 21:20:00 -0700",
+      "news": [
+        {
+          "title": "호남대, 2027학년도 수시모집 1천575명 선발",
+          "url": "https://www.yna.co.kr/view/AKR20260903147700054",
+          "source": "연합뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "K-웰니스 특성화 대학' 광주여대, 2027학년도 수시 855명 선발",
+          "url": "https://www.etnews.com/20260904000151",
+          "source": "전자신문",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "광주여대, 2027학년도 수시 855명 선발… 신입생 등록금 전액 감면 혜택",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1402838",
+          "source": "데일리한국",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    {
+      "keyword": "네팔",
+      "traffic": "10000+",
+      "trafficNum": 10000,
+      "pubDate": "Thu, 3 Sep 2026 21:10:00 -0700",
+      "news": [
+        {
+          "title": "네팔 대홍수 9일만의 기적…발전소 터널서 네팔인 2명 구조(종합)",
+          "url": "https://v.daum.net/v/20260904134256664",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "수력발전소 터널서 네팔인 직원 2명 구조…참사 9일만",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260904132411Keb",
+          "source": "연합뉴스TV",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "'시야 1m' 악천후에 회항...한국인 9명 수색 난항 [뉴스퀘어 2PM]",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609041418419574",
+          "source": "YTN",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    {
+      "keyword": "서울 지하철 2호선",
+      "traffic": "200+",
+      "trafficNum": 200,
+      "pubDate": "Thu, 3 Sep 2026 21:10:00 -0700",
+      "news": [
+        {
+          "title": "[속보]지하철 2호선서 女 뒤에 딱붙어…SNS 달군 50대男 체포",
+          "url": "https://www.munhwa.com/article/11614404",
+          "source": "문화일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "“나도 봤는데, 여성 뒤만 노려 바짝”…50대 ‘2호선 밀착남’ 잠복 경찰이 체포",
+          "url": "https://v.daum.net/v/20260903205127374",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "서울 2호선 지하철에서 여성 추행‥50대 남성 체포",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6849479_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    {
+      "keyword": "배영만",
+      "traffic": "1000+",
+      "trafficNum": 1000,
+      "pubDate": "Thu, 3 Sep 2026 21:00:00 -0700",
+      "news": [
+        {
+          "title": "배영만 \"아침에 방긋 웃던 딸 사망 후 집안 풍비박산…이혼 후 세 남매 키워\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6279645",
+          "source": "뉴스1",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "“아침에 방긋 웃던 딸이”…딸 잃고 집안 풍비박산, 이혼 후 삼남매 홀로 키운 코미디언",
+          "url": "https://v.daum.net/v/20260904110214944",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "배영만 \"어린 딸 잃고 이혼…홀로 세 자녀 키운 20년\"",
+          "url": "https://www.newsis.com/view/NISX20260904_0003775809",
+          "source": "뉴시스",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    {
+      "keyword": "사고",
+      "traffic": "5000+",
+      "trafficNum": 5000,
+      "pubDate": "Thu, 3 Sep 2026 20:50:00 -0700",
       "news": [
         {
           "title": "갑자기 왜 ‘급우회전’ 했나···‘6명 실종’ 부산 침몰 예인선, 컨테이너선 CCTV에 잡힌 정황",
@@ -330,9 +208,61 @@
           "date": "2026-09-04"
         }
       ]
+    },
+    {
+      "keyword": "유카타",
+      "traffic": "1000+",
+      "trafficNum": 1000,
+      "pubDate": "Thu, 3 Sep 2026 20:50:00 -0700",
+      "news": [
+        {
+          "title": "BTS RM·뷔 만나며 “한국 문화 좋다”더니···‘유카타’ 입고 등장한 배우, 일본인 아내 때문?",
+          "url": "https://www.khan.co.kr/article/202609040943001",
+          "source": "경향신문",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "할리우드 스��� 엘고트, 서울 K컬처 행사에 日 '유카타' 옷…주최측 말도 무시",
+          "url": "https://www.news1.kr/society/general-society/6279732",
+          "source": "뉴스1",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "안셀 엘고트, 애 엄마도 일본인..일본 좋아하는건 알겠지만 [스타이슈]",
+          "url": "https://v.daum.net/v/20260904114811106",
+          "source": "Daum",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    {
+      "keyword": "세종문화회관",
+      "traffic": "200+",
+      "trafficNum": 200,
+      "pubDate": "Thu, 3 Sep 2026 20:50:00 -0700",
+      "news": [
+        {
+          "title": "김동률을 보기 위한 관문…4일 ‘오래된 노래’ 예매 오픈",
+          "url": "https://www.munhwa.com/article/11614526",
+          "source": "문화일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "김동률, 오케스트라 없는 첫 ���독 콘서트…오늘(4일) 티켓 오픈",
+          "url": "https://v.daum.net/v/20260904103842930",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "김동률, “더 늦기 전에 용기 냈다” 7년 만의 세종대극장 컴백",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16182800",
+          "source": "톱스타뉴스",
+          "date": "2026-09-04"
+        }
+      ]
     }
-  },
-  "sections": {
+  ],
+  "news": {
     "BUSINESS": [
       {
         "title": "산은·수은·기은 등 금융노조 오늘 총파업···“당사자 협의 없는 지방이전 안 돼”",
@@ -341,7 +271,7 @@
         "date": "2026-09-03"
       },
       {
-        "title": "[뉴욕증시] 금리 동결에 힘 싣는 연준 인사들…1%대 강세 마감",
+        "title": "[뉴욕증시] 금리 동결에 힘 싣는 ���준 인사들…1%대 강세 마감",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vUWdnbk1vSnZXSFdwbnZrQ3BTT0xmZDJOVkl6eE5JMzlqa3kxbkpTa05mZHZUU0N2TnBCd1RHWExRSk9lcWtqWUx6OGpVT3NEUWdyV05pMjh5ZzRIUXZaeWdfcnQtWW5iREhtWS1XSzc?oc=5",
         "source": "연합인포맥스",
         "date": "2026-09-03"
@@ -353,21 +283,21 @@
         "date": "2026-09-04"
       },
       {
-        "title": "[속보] 7월 경상수지 421억달러 흑자…반도체 호황에 동월 역대 최대",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uRHNsbmNMOXllbFQ3bVAxbWUtdVlhbDNORnJxQThaNExaV3JlUkk5R29odzloVTVtc0I4emJ5UjJoWEk2Wjd2bTg5d2k2dmlJd2g1WU52ZDNoZw?oc=5",
-        "source": "한국경제",
-        "date": "2026-09-03"
-      },
-      {
         "title": "[보도자료] 민주노총 \"노동쟁의 대상 시행지침은 반노동·재벌편향\" 철회 요구",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtWWw3RXJlcmlYMGl4QmhJal9rdTZWRWRWdEJJcktLYTVac0NuNWlMNVhQdGRjOTF4REhVdl9CRnBqUURfT1VmQ1BuTWQ?oc=5",
         "source": "민주노총",
         "date": "2026-09-04"
       },
       {
+        "title": "[속보] 7월 경상수지 421억달러 흑자…반도체 호황에 동월 역대 최대",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uRHNsbmNMOXllbFQ3bVAxbWUtdVlhbDNORnJxQThaNExaV3JlUkk5R29odzloVTVtc0I4emJ5UjJoWEk2Wjd2bTg5d2k2dmlJd2g1WU52ZDNoZw?oc=5",
+        "source": "hankyung.com",
+        "date": "2026-09-03"
+      },
+      {
         "title": "집 짓고 바다 탐험한다…붉은사막 첫 DLC 10월 16일 출시",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12SlNveW9XOHhpSjRYOGJIcGZpcHlkSEpianFvdzhueUFLaktyaXBFaUZvQkxKNEFPRVYzdmtpa2kzUC03Ml91VlVHTFpqX1JPaE52TTBKdmgtdjjSAWBBVV95cUxOTEY3STZoMFpaNE8yazBfN3FaTk84QVgyTk4yNzFvNWd6OVgtWmpidTNqSjRwSVVoU3dHdGtId1F1X1NiOUFoSk41cHZ3Q1ZDclJmLVFfOHlQVHd4cWJqbE0?oc=5",
-        "source": "yna.co.kr",
+        "source": "연합뉴스",
         "date": "2026-09-04"
       },
       {
@@ -449,33 +379,33 @@
         "date": "2026-09-04"
       },
       {
-        "title": "삼성전자, 독일 IFA서 'AI 방탈출'…크리에이터 허브 운영",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00TS16UmRzenNWQlFPNnF0ckl4RmhEQ3VYX2g0b0RiWU9tM1pmOGhwLVJuVzdPSENiZkhtM0RsM1lpZmpPTl9yMmxnU0lNRWRDRUNZOEstTGluajTSAWBBVV95cUxQWU11X3MtSUhCZlVOS2l0MGlMQVlwREpGM3prdzFta0xGMmg0NXJmdUxfMHZHMWZHR2s3TTVnNFVlaWFuYnRnNmtTRzBTRnN5SHA4d1Y4RDBEQ2hJcXpJT24?oc=5",
-        "source": "yna.co.kr",
-        "date": "2026-09-03"
-      },
-      {
         "title": "[2026년 9월4일(금)] 배추·쪽파·양파·고구마·포도 경락값 분석",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyRkJWS1ZmSVhlU19vQ1lUSEFadk5wZ3JtQVlpNmlyaVdGaFBUMi1LczViaGpjbHZEcXg0SWFvcmVhYlFkcHlJa1NQN0VpTW5Ib25XM2plTU1wQQ?oc=5",
         "source": "농민신문",
         "date": "2026-09-04"
       },
       {
+        "title": "삼성전자, 독일 IFA서 'AI 방탈출'…크리에이터 허브 운영",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00TS16UmRzenNWQlFPNnF0ckl4RmhEQ3VYX2g0b0RiWU9tM1pmOGhwLVJuVzdPSENiZkhtM0RsM1lpZmpPTl9yMmxnU0lNRWRDRUNZOEstTGluajTSAWBBVV95cUxQWU11X3MtSUhCZlVOS2l0MGlMQVlwREpGM3prdzFta0xGMmg0NXJmdUxfMHZHMWZHR2s3TTVnNFVlaWFuYnRnNmtTRzBTRnN5SHA4d1Y4RDBEQ2hJcXpJT24?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-09-03"
+      },
+      {
         "title": "삼전·닉스 자사주 매입 수급이 이끄는 코스피 강세…코스닥은 하락",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkRGFnUUlpRnhIOWR6dnZUekg3dzlyeThvdVJlQlU4Z2ZuNVNsM1U3b0gyaVRfeEVKeDFPaE5PZkQwNTlCMG1WZloxcGV3YmF4RHFIZmhUT1M4dw?oc=5",
-        "source": "한국경제",
+        "source": "hankyung.com",
         "date": "2026-09-03"
       },
       {
         "title": "티빙 “정보 유출 사과”…피해자 모두에게 1만원 상당 보상 제공",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMy02NGZKVzdPWTVEZ0lJb0c1QmRlMVpYRTFhaE1xYk14MV9jaXdiWDREM2dfWkZwaGJSNmc3MlBpTUk5WlVHaWU2Q0F6cTV0T2c4LUxSZzhsUGxxSWh6RQ?oc=5",
         "source": "한겨레",
-        "date": "2026-09-04"
+        "date": "2026-09-03"
       },
       {
-        "title": "'구광모 파양' 패소한 양모‥\"모자관계 어렵다\" 입술 꽉",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QQk1SYjRWR1BEd3VmejVFLW02Y2w5LThINFFRaTlOdVFiZjFKVFFpTHpxdklNVnVKMUN5NElWXzFGZFlkeVdZTEJjaEZlMm9SQ1lUOFFJYnpWUWw0QUpEcWlldGVtVEczZklhTmYwTkFXWTY3WFhn0gF3QVVfeXFMUG12c01GN1JEWWNjOXQ1NGJpbWVJWThLMDFINGViQkpnT085aVZtcW1wVHpNNjdFME9KZm5aVVZ3RnEyaDRpQVdmMG8talJiUG5WMWVvMDRaMkpGWk53VTVyeUFPcjkxLS1BLW00dXBzdFlSdFFDQVU?oc=5",
-        "source": "MBC 뉴스",
+        "title": "차륜형 이어 궤도형까지… 한화 K9 자주포, 美 시장 재차 조준 - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPalpSOTBLWHZXdHUtRmV3bGlRWDJvZkJCcDdtZlIydVlUVWo3M0dXQWU3R0dETmhlamhRdXFJV3JjdDZ6cGtoRTRWY2tCVnFEZkxiTmtrdzlGdEIwUUptMXZkbUx2WWJOME5BNzVFMTZLQUVFYmdjaGMzRVlaelJ0cXVWekTSAZgBQVVfeXFMT2U4aWFXcHdoNllJWlljdUJLZzA2SE5lU0hGOG1hWmIyaUV1cGl5Z1poNFU1MVBxLTdpR2ZPZi1OX1NmenhlaVVORm0yaE1tb194c2t5SVZ2UllfNXhCNXZ3TkNFaC1DUEtOOVduY080UkNmVDYzc3JaalVZY3VCbDZSd0NOZ1lzZGQwT1A4TzVKN2FtTkJKNWk?oc=5",
+        "source": "Chosunbiz",
         "date": "2026-09-04"
       },
       {
@@ -485,21 +415,27 @@
         "date": "2026-09-03"
       },
       {
-        "title": "한은, 외환보유액 순위 25년 만에 돌연 비공개로 돌려···8월 증가폭 ‘역대 최대’",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yQTQxTTJzOGFyQlJZYXFKQ0pyaDg4dTE5c2hWaDg5OW5ZSGVmV05BLVZ0bk1FSWw4YXBMZnhwR2dXUHJHWmVURE5sYWdEZUsyYVRYeHFYNGs4QdIBX0FVX3lxTE9BaW5vemRaSjU4RHpDZXdtaWJwaXVyRFQ1Zm9PM2tGcWRrWm5EWnRfemFtbVMyQkdRZEJTc001NkttSVRmVEJQZmV1cEdENEU3LWh5cG5RXzdfd08ta05R?oc=5",
-        "source": "경향신문",
-        "date": "2026-09-02"
+        "title": "'구광모 파양' 패소한 양모‥\"모자관계 어렵다\" 입술 꽉",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QQk1SYjRWR1BEd3VmejVFLW02Y2w5LThINFFRaTlOdVFiZjFKVFFpTHpxdklNVnVKMUN5NElWXzFGZFlkeVdZTEJjaEZlMm9SQ1lUOFFJYnpWUWw0QUpEcWlldGVtVEczZklhTmYwTkFXWTY3WFhn0gF3QVVfeXFMUG12c01GN1JEWWNjOXQ1NGJpbWVJWThLMDFINGViQkpnT085aVZtcW1wVHpNNjdFME9KZm5aVVZ3RnEyaDRpQVdmMG8talJiUG5WMWVvMDRaMkpGWk53VTVyeUFPcjkxLS1BLW00dXBzdFlSdFFDQVU?oc=5",
+        "source": "MBC 뉴스",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "세계 AI 서비스 이례적 동시 장애…챗GPT부터 클로드, 그록까지 줄줄이 '먹통'",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzdTVUS2p4djlPRnp0bGlPdFdMRjZpWndFZE1HZDRkd2I5VFFyUTNkX0FaWlFMakZBMHd1aFgtOWdfZXFfY1IwOV9VRzZOUDFHZW1qcVVRSnhveUhfX0hEVw?oc=5",
+        "source": "asiae.co.kr",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "'땡큐 삼전닉스'…\"한은에 달러가 차고 넘친다\" 행복한 비명",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DRVZiZVVOSzJSOUo2V3VYTURiV2pYUkxMUGhYNFBVYkw5ckhYb0dfYXE4OGJySFYyLTNmWjdOVE9LRnFJZHllZmRjMTFCX05uYjFoVFJwY2JxZw?oc=5",
+        "source": "hankyung.com",
+        "date": "2026-09-03"
       },
       {
         "title": "오픈AI, 'GPT-6 아스트라' 출시…“AGI 시대 진입”",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LNUNDeFVTNGI2OGgzdlRXT1lvOEFGMkY2eUNsTW9NTm45bUsweW5hMVdTZm93UHBTcVJRSDNTOU0yUmkzYVhiUE9BelY3QQ?oc=5",
         "source": "전자신문",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "챗GPT·클로드·그록, 한때 일제히 '먹통'…이례적 동시 장애",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xRldrOVJsbGtWTTZoTW0wOWFfbjJuS1FFaVM5VzNOOXplZVVFc0ZOZkF0bjcwVEJSRWJhS0tMMXQ4ZkhMMEE2VVBZQnJvUG9SbjBqT2Q2alp3REHSAWBBVV95cUxPQW0td3VOeXBKNnJPUHNmWnJYYUpMOFFVWFZBUDhlUkc0eHI3Nlc3N3NNNUtYVVJReEh5VXNjTzhiRmlYVDk0WXh2T1ZsYXpBbHdON0dRcERDak9HNHJEZFg?oc=5",
-        "source": "yna.co.kr",
         "date": "2026-09-03"
       },
       {
@@ -509,19 +445,13 @@
         "date": "2026-09-03"
       },
       {
-        "title": "드론 연계한 K9 자주포…한화에어로, 미래 자주포 운용개념 제시",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51MUZKb2lRLVBWNVJGaWJtV2NfQ09ETGNJR09Ud082Z1N3NU1sdlZ4Ynd1eEU3UjJ0OHpmUzg3d2VFVzFwbzVGakJhVVBMQlR5S3JTOUdzM1RWdFHSAWBBVV95cUxQYTdkRDUxeFFxM2wyVlhsLWtkdnFpQV9WWnVDakllbzA5YkdXd1RiQlY3SzhZc0U4ekhEQ2hRdFJRTE02cUd2QTJhdFBMam04X184ZUlOb3RwRVVsMUFqVkI?oc=5",
-        "source": "yna.co.kr",
+        "title": "찍고, 고치고, 확인하고…한 손에서 끝내는 '갤럭시Z 폴드8 울트라'",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HWDRVQUVKNEhjVk5KUXZDenhhUHpabVJ2T05nRE1yU18zekZDY1VCdFpsaHJzT1BocnBLUmxLRFJhdnhfbkdObGt0Sy1aWEExODhMY2Nn?oc=5",
+        "source": "지디넷코리아",
         "date": "2026-09-03"
       },
       {
-        "title": "\"용혜인 지명되자마자\"…195% 뛰더니 돌연 주가 급락한 '이 종목'",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pQl9EUHJxNEIwN1FxbVl4VUl5VS1lODBPVHdyeENFaDlSQWZJTkFJQnNLZEd3bUdaVDhIODRFNkl2WVllZVZGWWR0NENraHM?oc=5",
-        "source": "v.daum.net",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "비트코인, 美 금리 인상 우려 완화에 급등... 3개월 만에 8만1000달러 돌파",
+        "title": "비트코인, 美 금리 인상 우려 완화에 급등... 3개월 만��� 8만1000달러 돌파",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdU9YUE90VXk4VkFiOXhUV2RsOWltTG9hQjVTWl82bUdZN2taX2xsMVUwaFpSSEZGRTM2V1Y5NjI5VTlGTm9mb2hKU1JWNEVUNV92ZjZfNFZpblpYVjZNaW8yWS1wY3ZOeXlHNkJOaWg1REtNcGlhX2lveVdzZm93RQ?oc=5",
         "source": "조선일보",
         "date": "2026-09-04"
@@ -539,9 +469,15 @@
         "date": "2026-09-03"
       },
       {
+        "title": "'뉴스 보고 왔습니다'…난데없이 테마주 된 '혜인' 급등 [종목+]",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kZWkyZ1RxaGVzaE9hUTB4djNMNFhHMjlVdTgydlp0d0tzWjhoWjBxV2lfUmwxYi1vaFpsdjRsVEUwcjczbGVGMXFOeTRsZmVxNFRNQ3p5X05hUQ?oc=5",
+        "source": "hankyung.com",
+        "date": "2026-09-04"
+      },
+      {
         "title": "엔비디아, 허깅페이스 17.5조원에 인수…개방형 AI허브 계열화",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HbWdIaXVodmF6Tk11Qm82MnlrMFJrbzJjRmlqRXBUN2JNbk1DZWUzQ0hFZXQ2VDhRZ2FvQlZ6SDZWampuUF9jSC1QcWRseGI2dFV6SDE5Vjh5RkHSAWBBVV95cUxPT3oxTGczSHB5bXI2LXVfZDhNOVctNmZuWGp0Ui1EekVET2ZFN2sxdl9saFFseXp0dGtMZ1g1MF9RSHhheGNXMDhyRm5jY1dMemxiZDJUV2ZRdVBFZU9Hb1k?oc=5",
-        "source": "yna.co.kr",
+        "source": "연합뉴스",
         "date": "2026-09-03"
       },
       {
@@ -557,9 +493,9 @@
         "date": "2026-09-03"
       },
       {
-        "title": "“삼성전자, 연내 자사주 매입 소각·현금 배당 등 추가 주주환원 기대”",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhc0VWdFFXR2ZIT2c4SlEzOGYzOGZNekY3SW8wQjNkN1dHclJmRkN6cjVxTUJ1Vk9ySzdoNG5qTFpjUEZoV192dHZrQk5feVJWYVE?oc=5",
-        "source": "매일경제",
+        "title": "삼성전자 2분기 HBM 점유율 21→33%…SK하이닉스 1위",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xUjBGTDlHVWVKekdKblFmcVVVZHJQbHd2S19Za1FXU1lCZWpEaENSMUlTYTg3aFZlMkpSZm1RUDlZdlVZbzhUczVyMDA5c0xnblpEOE9KOHhDaEJiN1U0eDBubmNGaFk?oc=5",
+        "source": "연합뉴스TV",
         "date": "2026-09-03"
       },
       {
@@ -569,10 +505,16 @@
         "date": "2026-09-03"
       },
       {
-        "title": "삼성전자 2분기 HBM 점유율 21→33%…SK하이닉스 1위",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xUjBGTDlHVWVKekdKblFmcVVVZHJQbHd2S19Za1FXU1lCZWpEaENSMUlTYTg3aFZlMkpSZm1RUDlZdlVZbzhUczVyMDA5c0xnblpEOE9KOHhDaEJiN1U0eDBubmNGaFk?oc=5",
-        "source": "연합뉴스TV",
+        "title": "“삼성전자, 연내 자사주 매입 소각·현금 배당 등 추가 주주환원 기대”",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhc0VWdFFXR2ZIT2c4SlEzOGYzOGZNekY3SW8wQjNkN1dHclJmRkN6cjVxTUJ1Vk9ySzdoNG5qTFpjUEZoV192dHZrQk5feVJWYVE?oc=5",
+        "source": "매일경제",
         "date": "2026-09-03"
+      },
+      {
+        "title": "프리즈에 모인 유통 오너들… 정용진·정유경 남매도 나란히 참석",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2t5aU1wTUU1blpjNE95THlBSjlabmQ4MzlkS1VROWNNUzBjbFc2cUNRZFdyaWkxbUd5WEtfczIxSktuLWVLZHdsLUhNQnltVEZKeFpBY0kxOWpmSTF2M2hjd01Ma2Flcjdwd0Y1cVJjOXFYcElGTlBMbUNWdXRNc1IyMHU0RWFhOXNnVzg4VQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-02"
       },
       {
         "title": "'겨울은 오고 전쟁은 안 끝나고'…유럽 천연가스, 2023년 1월 이후 최고치",
@@ -581,22 +523,16 @@
         "date": "2026-09-02"
       },
       {
-        "title": "“초봉 7000만원 주면 뭐 하나”…채용 인원 급감에 속 타는 ‘금취생’",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RWFI2MW1fTjdid2ZwQkJkVHUxVW90WGhETE83UUJiOXNFQld4elBGT2pCSFBBOFdZb1BtcWtQR2lyZFJsUlBGMkFIZnFiWUZ2anNBRQ?oc=5",
-        "source": "매일경제",
-        "date": "2026-09-04"
-      },
-      {
         "title": "브로드컴, 실적 호조에도 가이던스 실망…시간외서 주가 급락(상보)",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VVER6bkxDVVIzMFBFZ0xxa09lUHlLME9GbkxHOWp6RVc1ZGR2LWtwcWtLUnQtVkFSTUxldXB0dmM3OUJseXFFbG5jRGNCQ3UzdlMwUHllQ3VKNEgtUW1QM2FvZk5qSTBvRlJwc3lPV2I?oc=5",
         "source": "연합인포맥스",
         "date": "2026-09-02"
       },
       {
-        "title": "프리즈에 모인 유통 오너들… 정용진·정유경 남매도 나란히 참석",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2t5aU1wTUU1blpjNE95THlBSjlabmQ4MzlkS1VROWNNUzBjbFc2cUNRZFdyaWkxbUd5WEtfczIxSktuLWVLZHdsLUhNQnltVEZKeFpBY0kxOWpmSTF2M2hjd01Ma2Flcjdwd0Y1cVJjOXFYcElGTlBMbUNWdXRNc1IyMHU0RWFhOXNnVzg4VQ?oc=5",
-        "source": "조선일보",
-        "date": "2026-09-02"
+        "title": "[AI는 지금] 오픈AI·앤트로픽·구글·메타, 9월 신모델 러시…AI 경쟁, '성능·효율'로 확전",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CWW9hZVYyZlU0UXVIVHI3Z09zYTB6cjlfNzhHODN2MU9ZS2wzemdKZ3VZQXJ5ci12Z2dHTWZOS1N6dDRURUNOSEk4YzkxdEtBLVFuRlJ3?oc=5",
+        "source": "지디넷코리아",
+        "date": "2026-09-03"
       },
       {
         "title": "[단독] 캐시워크 돈버는퀴즈 정답 9월 4일",
@@ -611,16 +547,52 @@
         "date": "2026-09-03"
       },
       {
-        "title": "[AI는 지금] 오픈AI·앤트로픽·구글·메타, 9월 신모델 러시…AI 경쟁, '성능·효율'로 확전",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CWW9hZVYyZlU0UXVIVHI3Z09zYTB6cjlfNzhHODN2MU9ZS2wzemdKZ3VZQXJ5ci12Z2dHTWZOS1N6dDRURUNOSEk4YzkxdEtBLVFuRlJ3?oc=5",
+        "title": "[AI데이터센터의 대가] ②미국에서 급증하�� 전력망 불안…'뒷문' 열어준 한국",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JN2otV2llUFMwU0JCY2VYbGg2dkpMVjB2OUF5WnYtMnhDdlBUdWFnZXhkN3ZEOEZXUW5fMHEzTmh2QUlId2FTOEdn?oc=5",
+        "source": "뉴스타파",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "K바이오 기술 수출 벌써 21兆…역대 최대 실적 기대 - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOHFkc1hCTkkwckRya25obTI4YUZ6WVNGY2VHbVZwZEgyMFFsU2FmeVQ0YVJXQWxnNzZDNnJncUs5OGgyX2l0djBaTmNHV2ota2wtSGpQVlQ2RFlhOUVaMXhzbkNadVhZOGhpQTBBOWVWT2FIYS1wLTlOMjIyem1LR1AwSEFQR2fSAZsBQVVfeXFMTkVwc1dDMTNoWFpLUlRQYS1idzNqbGx4VjBOYUwtMzZic1ZaRF81ZDZTdVRIaVpfOHN3V2IzZTJ4bkNteUh3NWNhT19KR3dHNHpiSWl0MDNNM1MzX1d4ZmE3eUJmc2YydjM3VTA5dWgtV19uMnp0S1dWN1c5dGVnWFh0dVltTzh0eldLOUo2MkJ3YjdWanVGNDBrVG8?oc=5",
+        "source": "Chosunbiz",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "\"요즘 日국민들, 한국 경제에 초조해 하면서 실시간 이것 체크해\"",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZklyV2I0bU85VnNVcXJNQ00wNWIxTjRVM3ZKenJWdzNlOW9hMzNwMFpMWHlwX3o4RGRoMXF2YXl3c0NoN3JVNUVHQWJzbFJUYjNRUVc0bS1zTE9LSERQbndSS1FRRmdTbFFwd1VULXhQeU1XdlBZdHVZZlBrZm00cA?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "뚫려버린 다중 인증(MFA)… 미국·유럽 기업 노리는 M365 세션 하이재킹 공격 기승",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tVlFiZENkcE9FZ0dhN0NCMjg3TGpEcDFtUTRKRVVSdHhpVDdmQzRSaW53NTdjZDRaOWgwVEJ4eEIxMnJlS21SNC1jMmtZcXh0UnQ1WkdBbkxTZGxlTkZqUWVMN2ZFRkRUaFBV?oc=5",
+        "source": "보안뉴스",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "삼성전자, '갤럭시 S26 FE' 국내 출시...104만원대",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QOC1wMk5BRmxTMUtWbHlGOXdycDdOLVRyZVQ5eUZRVDY5WnJzZDlreGZVSGF2UlViQUhsOERrT0RUVlhoVUd6WmVPbUpZSFVVT2JreGd3?oc=5",
         "source": "지디넷코리아",
         "date": "2026-09-03"
       },
       {
-        "title": "[AI데이터센터의 대가] ②미국에서 급증하는 전력망 불안…'뒷문' 열어준 한국",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JN2otV2llUFMwU0JCY2VYbGg2dkpMVjB2OUF5WnYtMnhDdlBUdWFnZXhkN3ZEOEZXUW5fMHEzTmh2QUlId2FTOEdn?oc=5",
-        "source": "뉴스타파",
-        "date": "2026-09-02"
+        "title": "“한화오션 주가 무슨 일인가 했더니”…사흘새 2조어치 일감 따냈다",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWOTltTWxGMFBWeG91UE56eTB4VTBIVHM0N2hEenMweG5VWW9ZZXRNRjh5bUMyUWtOTF9iUHhudkZocGhydWI4MzUxVlBfOFB4TWxINkR3?oc=5",
+        "source": "매일경제",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "삼성바이오, 3조 유증 택한 이유…‘노사·수주’에 주가 달렸다 - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPemp4dDdscXJjMzBrT3A1NEFaT01jSTQ2UHNCYVhqZFVqQUREUFpGN1FLZzctWENtSC1PZW1yY1NvSm5kallIaW9NaEltNXVxc1NyWk5GTTlGVHhFYnZQLXdfRFZyTnpjNXVyQllCemttMDFoWTlLbWtzbUtFNHNDNzNmSjZyajDSAZsBQVVfeXFMTl8yclFBRTZSYWJ1dWVyYWl6X0F1TlBFZlZQeWRJMC14VEJGcHdxX3dMZnlKMGtNMjJQQ3Q0cnAyUGQ0QWxlUFEtZXBfaVk5THJPWDNLSG9pNHJKRV85YTI2MHZxQ1g5SFg2R3kzWTZKcTNkRUNWZnR3UFczeEZGZFFCcXBoZkVmdk1oeWV5a0VKWGhOb2M2U2hhanc?oc=5",
+        "source": "Chosunbiz",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "4조 넣은 키옥시아, 이젠 생산동맹?…SK하이닉스 日투자 셈법은",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rRkkyOXdlSURrRTUwMmh2QlFlT1hfcFhKc0tteTgwNXZCMG4zOW5lLWRlWlpRX2NJOHFWcFhxUHN5THlwOFItRl9qOG5vTHVPNFhadXUyZVJsNnR0YjVYQ3dzMnY5eXhERllhTW5QS1U?oc=5",
+        "source": "연합인포맥스",
+        "date": "2026-09-03"
       },
       {
         "title": "‘만성 적자’ 공항공사 사장, 또 경찰 출신",
@@ -629,10 +601,88 @@
         "date": "2026-09-02"
       },
       {
-        "title": "\"요즘 日국민들, 한국 경제에 초조해 하면서 실시간 이것 체크해\"",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZklyV2I0bU85VnNVcXJNQ00wNWIxTjRVM3ZKenJWdzNlOW9hMzNwMFpMWHlwX3o4RGRoMXF2YXl3c0NoN3JVNUVHQWJzbFJUYjNRUVc0bS1zTE9LSERQbndSS1FRRmdTbFFwd1VULXhQeU1XdlBZdHVZZlBrZm00cA?oc=5",
-        "source": "조선일보",
+        "title": "‘1억6200만원 vs 1700만원’ 대기업 급여도 빈부격차",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Gc3RxazBSQy05bmVFRWFRTkEzNlF3blFfaVM4eWUzMm9aQU91VzRWbUU4WWx6M2UzZWJJZkFZR2dCUDZMZnV6b2lLV1lURGg0?oc=5",
+        "source": "문화일보",
         "date": "2026-09-03"
+      },
+      {
+        "title": "원화 질주에 '추풍낙엽' 엔·위안…환율 방향 바뀌나",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKTXJuaVlmdi1pNThzVWktRmMwcEd1WGZiZkFsdVRoOFZIZGFvRm8wVjVHSi0yLXJNd0xBV0xvN1BaNk5QZ3ozRXpqWDQ5ZndobkJLWEhXcWJYNG8wdURCanRkdVl3Zi1ob3lNclR3LTU?oc=5",
+        "source": "연합인포맥스",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "“머리카락 나자 주가 500% 급등”…미국서 ‘먹는 탈모약’ 나올까? [잇슈 머니]",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CMExQeVU4S2xZV3YySkJyZ2JfLU5NT1N0Tjh5Q20zLUxocmluLXlxMF92OG13Y2tOOE9nN3JxWThjMndvOTRQbTY0dWtfYS1OTjdvYnVVVHhiN0E?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "한미반도체, 대만 파운드리 기업에 패키징 장비 대량 공급…양산 라인 확보",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05Uk5VanlYdHljWnhSb3dUUkFVb2RIOHFtMm40ZWZqUWxycVhYNFhYNTNuNjNtaFlEV0lrbVZsMG1tWkZlQmpWaWhaVlU2UQ?oc=5",
+        "source": "전자신문",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "미국-캐나다 운전면허증 1억 5300만건 다크웹 유출... 신분증 인증 솔루션 기업이 유출 진원지?",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95VWVBSmJxYlh1TnhYcDZuQUQtbzNzSkhPRHhqcU55WmhieEpIRVJabmExa3FIX3VhcV91TUFyYVEwekJXbThOam1hX3ZHNlVxSFc1RkdWTEd5ZzJKNno4MEt3WC13R0w5N3o0?oc=5",
+        "source": "보안뉴스",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "[미래 헬스케어 트렌드] 동아ST·대웅제약 등 의료현장 파고드는 AI·디지털헬스 한자리에",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNNEkxMDJ2SDVzeVNzOUprd0JLYUxjRnFmbU03bDNoTllVc09ZUTQ5WTZyd1EtNzI3WW9EY2d1ajNib2JOMkZlTl9McFZGWlZxakRkQ25JQQ?oc=5",
+        "source": "MEDI:GATE NEWS",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "“‘미국 가는 게 빠르겠다’…강남 치폴레에 왜 이렇게 줄 설까”",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fNTN6MVNDVTRoOHVEZ2lGa1VYeVljSTNuV1loU1JLcW5vVHByTkVTb1dnNXI4Mmp5T1hkUk1QSmR1b2hkd2FtaVRlUnZUYWxxaThpN2xmNTR4M25YLUE?oc=5",
+        "source": "주간경향",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "\"아이폰 울트라, 17프로보다 80% 비싸…가격도 울트라\"",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxMS1rUFhMOElTczctNW4zdGxQNC1VUFZhTkRHMkZxdTVCeFM2WVVycDg2aDFrdUdUbGJMZFZpdWJrMzdLWlllRmZDcDF4S1FvVU1GZHhn?oc=5",
+        "source": "지디넷코리아",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "“성수 말고 여기서 놀자”···2030 몰려들어 ‘북적북적’ 남대문 시장, 왜?",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uNklFdnlsaU8zTGc5aU1fblZNVzNUak5aNDNzdVdVZy1oV1RsQVVTZXZacF9TZXZXbVBHWWg3Ty1YczNscUFuNEk2NlhVSVNhNE5Sa3VKUlFyQdIBX0FVX3lxTE52bVpnUGJQTUF1bS1ycFRfTHhFRmNwVVR2MzBjeFhQWWk3ZHZwdlgwZjQwRmhLb0NVbk9sWmRyTmpRY3lNMnhNYWJ3cm5hdzdhSU42UmZ6OHdPal9zdFhV?oc=5",
+        "source": "경향신문",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "인천도시공사, 검암역 푸르지오 프라베뉴 1순위 최고 경쟁률 ‘132대 1’",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RNnQ2M2owVXp5SEt0Q1hENjFRTTJhSk5BVnVIQUNTLWV6RUpoa2E1azlFdDg5VG5HVF9CSFUtREg1S19LalhNejVFN1g4SVNFUDNEajNZZER0Q3c?oc=5",
+        "source": "경기일보",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "M&A 기획자로 변모하는 회계법인…자문수수료 100억대 거래���",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaU1GYUItaXlSeERtdHEyM2E0SW9JTm92dElaVEVubnI2MnpKaUt1ZEx5Wk9vOVRCMTRTVEhXcUlySWdCQ2FQU2hiX2ViTWN4ZzFtUG1HQXlodGNHUE5qTFA5bl9ZOUpNdXN5eFpGRWE3clBCLVgtVzVoZVF2U004NEVMZw?oc=5",
+        "source": "인베스트조선",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "세무조사에 발목 잡힌 IPO 시장...상장예심 질적평가 '변수'",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdVRjUWoyWG9RSlhfUXZJVF80SzhSN2ZOTGVKZmdvcHNmbEJzUVhRVUNManhnXzQwVm1jbXpFbVR5eU1ORjZxSzFLMVFnQnRhR2dUcXAwTFpZTjVqVlBDMmJvc2dpNjZ3dGZaOXI1cC1ySmt5NmVQZXlZRmdMcnpGaEM2WQ?oc=5",
+        "source": "인베스트조선",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "모건스탠리PE, '메디필' 스킨이데아 MBK에 매각",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWUZ1ZW1Hb2tzaU13NEp1WF9iQWJlRld5Uzl6MWtjeEZNU2FGbERUYkx6SVlodlpSV213MlM4cTNSSFpfUWNwd0JFU3Y0QVAzNHgtZzliNE5lTXRMYUlLb3NHei05Z2g3WnJJeW9TVENwTjIyR2Z3ekV2QkFqUDIzdWtSNA?oc=5",
+        "source": "인베스트조선",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "한도 2배 늘었다! '안심통장 4호' 출시…기존 이용자도 신청 가능",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MU2hOUkY3RU9vZjdjOVZWNGdKeTNNY1FULWN4RkZoRDUxUU0zSXdjakctZ3pCcDZWSlo5SlVKUXZqYkRSWnktRFdkbEh3MlEteDJmOHhhYmw?oc=5",
+        "source": "서울시청",
+        "date": "2026-09-02"
       }
     ],
     "TECHNOLOGY": [
@@ -663,13 +713,13 @@
       {
         "title": "\"정부가 로봇 200대 사준다\"…증권가가 찍은 수혜주는? [분석+]",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBncU5qejlKaTZPUlZKbXhyLUdYOVN2dTZ3Q2NNakprVThZdExadnMyX3RyWmU4TExxTEktN1hMMzh4RWRIeUJ4VWVrSmM1eVZxNHJRZFdibGtJZw?oc=5",
-        "source": "한국경제",
+        "source": "hankyung.com",
         "date": "2026-09-03"
       },
       {
         "title": "핸들·페달 없는 금빛 테슬라 무인택시…머스크 \"사이버캡 폭풍\"",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IYUFxbXl2dFhQZE5ucWZzRUg5MkhpS180WVhva0RLTVdjZW0tdlk1MzF2MzdkV0RjUF96cFZSeGFJUmRZdUk1SGRnY0hFMmNFZnZfVE5GaUR2Tk3SAWBBVV95cUxPYmRqdXBrdk5TYTZha0VsaDVVbTNiNFJYaFZKVW1NeE9YUlNjVnFEX3h1U2YxczF6VmRZc3N1M0tXUjdDRGRXbUFjWWV4UWR0U1VfdVY2WERtZENpREdJVUY?oc=5",
-        "source": "yna.co.kr",
+        "source": "연합뉴스",
         "date": "2026-09-03"
       },
       {
@@ -687,7 +737,7 @@
       {
         "title": "[단독]'모두의 AI' 카카오·SKT·KT 100억 받는다…네이버는 500억 - 머니투데이",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84ejRWMjVOUFRvY0c1TUo5TW9yUEhDb1ZDWlU4ekhoc1ExeXBTTGZPOUJpZkJFaVJrQXl4U2YzdTZXYldSeUFIRVhpRzBuNW5mdklzMDBSbHdKcnA4cXhNb3ZOaEk2X2_SAWxBVV95cUxQWjI1Q1RFbnRKdEdpWXJJQVZ1SzRieGRVdVpFS3ZvM3VwTURiaVdYYUJSb0J1WEREUF84aEZXRUEwNjFiVS1uOGEwanhaMURSR1laVVEwR19kNGVZZGEzTkFiZHc2UjloN1JsMU8?oc=5",
-        "source": "머니투데이",
+        "source": "mt.co.kr",
         "date": "2026-09-04"
       },
       {
@@ -699,13 +749,13 @@
       {
         "title": "비트코인 $8.1만 돌파…트럼프, 이란 전쟁 종식 검토",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BVlV2eUQyWGtqTXJGOUgxWDVxVUdyT0kyRVFxUTFJal9RUkNhNmhDdlNhUU84ekkyUGRLNW1JaXBMempFeFJxNDFrNVNDRmxPa3NMUTAwcC1tUmltM29rWGdJY0xMaWJjN0pVZmswR3BrR1Nu?oc=5",
-        "source": "BeInCrypto",
+        "source": "kr.beincrypto.com",
         "date": "2026-09-03"
       },
       {
         "title": "잠든 승객 휴대전화 슬쩍... 지하철 소매치기 일당 검거",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV1l4Y3RfcGY4NEU4d29Famk0V3ZOOXA1UkJtRGZ2d04tX1ZyX2VqZGFyTDBfdFZHSXI2ZEdhN2RTWGRCVjBWUDM2dmRkbl9jWmgtR1VhdTZhaVVnRnBLNnlhOFMxanhDRF85WThzMDJQem9saEd4UG5TX1ZWcm13Z2hBU3dBVEpQSU9IN19DeGY?oc=5",
-        "source": "조선일���",
+        "source": "조선일보",
         "date": "2026-09-04"
       },
       {
@@ -723,7 +773,7 @@
       {
         "title": "비트코인, 겨우 살았는데 또 떨어진다고?…\"11월 다시 저점 찍을 수도\"",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJN2tsVVROcFpudk1WaG5NSHROMU9XUnp5dEJxVkRtcXdHMU5KeGNpS2xRTlM3cXB1QS1TSGFxTmFvS2FiaW5wa3BLUnVHM3hIc0xOeGRCX1JZaXBnRmI2bXVybDU2TkJCRm5pUkgzMWpSYWc?oc=5",
-        "source": "��지털투데이",
+        "source": "디지털투데이",
         "date": "2026-09-04"
       },
       {
@@ -751,21 +801,21 @@
         "date": "2026-09-03"
       },
       {
-        "title": "🎯9/4(금) 장시작전 핵심뉴스 및 관련주",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON2RBNGMtMEJJVlZlV19aeDk5OXczcG51bEVnVEtxby1qODRLTFBMT2otM0dma3V5SS0wbk5ROWp2MUk2RlFGWXRweVBwWW00Q0FDMXZTWVZ1UlFDOWxLcF8tVmZWbXNfWlhyekZaRnk4c2stTWVoalhWckxXWEx0cHVsb2JLV1hmSm9Z?oc=5",
-        "source": "네이버 프리미엄콘텐츠",
-        "date": "2026-09-03"
-      },
-      {
         "title": "[단독] 갤럭시 성능 제한 ‘GOS’ 사태 공정위 판단은 ‘강제 조치’ - 조선비즈",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPem1yMUV6VllSTUFDTEd3cmtWWmdvbnktS3V6QXA0dV82YnFtaVo0UzhFTFpQYUN2VW5IUGo4UlN3aWpRVlZpTUFPNzZUUkhHRmdJSjl1Q3RZemxuTXBPUG55S2ViM2pFWm9DRERxbWFVSDZoZ1NQZjFwbDJPX3hka3l30gGWAUFVX3lxTE85TnNLYU54bkNYaTRiTkZxTThiSWg3TjJBdUdjRGp2R2tvaU1wVDRILV8yVC1BeWthanB1MEFidGhNeFlPNTJpdk5zVlBHRk53VWo5U0pEREVDMlBuZE84VkRqSE45U19OZ2lwYmtMYVdTQmVOcm9LWkpZWThGWUNaeEJ6b1Bsa2FLRE1JaGNNbzNUZkc0Zw?oc=5",
         "source": "Chosunbiz",
         "date": "2026-09-03"
       },
       {
+        "title": "🎯9/4(금) 장시작전 핵심뉴스 및 관련주",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON2RBNGMtMEJJVlZlV19aeDk5OXczcG51bEVnVEtxby1qODRLTFBMT2otM0dma3V5SS0wbk5ROWp2MUk2RlFGWXRweVBwWW00Q0FDMXZTWVZ1UlFDOWxLcF8tVmZWbXNfWlhyekZaRnk4c2stTWVoalhWckxXWEx0cHVsb2JLV1hmSm9Z?oc=5",
+        "source": "네이버 프리미엄콘텐츠",
+        "date": "2026-09-03"
+      },
+      {
         "title": "세계 AI 서비스 이례적 동시 장애…챗GPT부터 클로드, 그록까지 줄줄이 '먹통'",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzdTVUS2p4djlPRnp0bGlPdFdMRjZpWndFZE1HZDRkd2I5VFFyUTNkX0FaWlFMakZBMHd1aFgtOWdfZXFfY1IwOV9VRzZOUDFHZW1qcVVRSnhveUhfX0hEVw?oc=5",
-        "source": "아시아경제",
+        "source": "asiae.co.kr",
         "date": "2026-09-03"
       },
       {
@@ -789,7 +839,7 @@
       {
         "title": "윌리우, 비트코인 반감기 대신 6~8년 전통금융 주기 전환 전망",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85MUQxbGVJR3NZN08tMmVSVktoSnQ0ZjVCdTBxU2hOV1Eyak5sMnM3N21ScmxVbG1jd09YM1N2X3NGT0JUYXdKM3M4UG9ISW0wS3JUV01iM0hVWll2c0RGR1VSNlJnRUdy?oc=5",
-        "source": "BeInCrypto",
+        "source": "kr.beincrypto.com",
         "date": "2026-09-04"
       },
       {
@@ -823,27 +873,21 @@
         "date": "2026-09-03"
       },
       {
-        "title": "8월 고용 5만3000명 전망, 연준 물가 판단도 걸렸다",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XeHFaeGFsOWpxNExrcmtwVEhUNF9QYVctVGRlSlFuZ1N0TVBjQUJJR2I0V2ZvT0ZqUklYcjYtNTN4X2NfZWNGN0NmWDVlNEJvMF9NTlZORdIBXEFVX3lxTE9ROGhYNWh0c1VONnEwZ0lOeVNueTgyQml0cW1CaUZxWjJzSXl1ZVg0SkUwcndWRm5FT3JCNUpZM282aFp1a0tlZmVLQzBHbXNmbFFxM05OM1dEeFh6?oc=5",
-        "source": "tokenpost.kr",
-        "date": "2026-09-03"
-      },
-      {
         "title": "북미 아이폰 신작 호재 탔다… 비에이치, 고부가가치 FPCB 수주 대박",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WMXJHTzBlYWJ3Wkk0dXFudEFTMmZKYnZLbmVpRzJqbGRoQkhPZEpjckFwQVNPclp5R0xXUkF2d19nTDU5ako3VGVTQWlwME4tWmxKUVdYeGpTcDlkeGswa1RZQ2xtSjFLOFVuelJVMFdUdUnSAXdBVV95cUxNSnNGY2RXTnFNbGUzWW5pWngyWmhiNC1oOHY1eGNsREt3NEdmREJHd2gxUU1NRVprbnhxWk8tT1NaV0tpYWpkdXRtM3R2RVc5SmJib0RMZHNOR3praThYNmFCME9ldFpvcS1EZXBlRjhXOEFqVHVpaw?oc=5",
         "source": "핀포인트뉴스",
         "date": "2026-09-04"
       },
       {
-        "title": "7000만달러 비트코인 영화, 라이트 논란 다시 불렀다",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NRE1TRENEbUNOcDdWWEVDSnlsRVBYN1lsSjJ3MTU2blRtdjVjVV9LSE5YZ1BCN0otX04zbVNvbDRTQjZYazMxVW1BVU4tZnN2YXFMclJPVVVDRnQySzExWdIBZkFVX3lxTFBEal92R0dTMkktbmlOTklRQXZ4UTZpSnBMTVVSTGlnUU9yQlc0bVZIWFZDU3VpMGgxYmlRNEJDNmgtWlZ5ejIzNXhXOVQ4Vm03ZDF1WXJZT0l1Wi1vT0tYU0gweFlkdw?oc=5",
+        "title": "8월 고용 5만3000명 전망, 연준 물가 판단도 걸렸다",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XeHFaeGFsOWpxNExrcmtwVEhUNF9QYVctVGRlSlFuZ1N0TVBjQUJJR2I0V2ZvT0ZqUklYcjYtNTN4X2NfZWNGN0NmWDVlNEJvMF9NTlZORdIBXEFVX3lxTE9ROGhYNWh0c1VONnEwZ0lOeVNueTgyQml0cW1CaUZxWjJzSXl1ZVg0SkUwcndWRm5FT3JCNUpZM282aFp1a0tlZmVLQzBHbXNmbFFxM05OM1dEeFh6?oc=5",
         "source": "tokenpost.kr",
         "date": "2026-09-03"
       },
       {
-        "title": "삼성전자, 2분기 HBM 점유율 33%…하이닉스 맹추격",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yQk5BakpDTW5YdFd3ckdwU1dLZVRMOWhrYjE4b0JnMEV2QUpDeWdnNC1OVmJVcklSS09zRUZnSUZrRWdTcXE1YXBhYUprUTdwS2fSAVNBVV95cUxQYmVFaHJRTmF6NkhSNDF0MG5Zd043SFNsWFdzLWZnUUI4eG1DX2t3UF9FaEhpSFdhbUJEQVV6dHdLb0hMVW84SUVab25TNmNVU1c4Yw?oc=5",
-        "source": "서울경제",
+        "title": "7000만달러 비트코인 영화, 라이트 논란 다시 불렀다",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NRE1TRENEbUNOcDdWWEVDSnlsRVBYN1lsSjJ3MTU2blRtdjVjVV9LSE5YZ1BCN0otX04zbVNvbDRTQjZYazMxVW1BVU4tZnN2YXFMclJPVVVDRnQySzExWdIBZkFVX3lxTFBEal92R0dTMkktbmlOTklRQXZ4UTZpSnBMTVVSTGlnUU9yQlc0bVZIWFZDU3VpMGgxYmlRNEJDNmgtWlZ5ejIzNXhXOVQ4Vm03ZDF1WXJZT0l1Wi1vT0tYU0gweFlkdw?oc=5",
+        "source": "tokenpost.kr",
         "date": "2026-09-03"
       },
       {
@@ -853,9 +897,15 @@
         "date": "2026-09-03"
       },
       {
+        "title": "삼성전자, 2분기 HBM 점유율 33%…하이닉스 맹추격",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yQk5BakpDTW5YdFd3ckdwU1dLZVRMOWhrYjE4b0JnMEV2QUpDeWdnNC1OVmJVcklSS09zRUZnSUZrRWdTcXE1YXBhYUprUTdwS2fSAVNBVV95cUxQYmVFaHJRTmF6NkhSNDF0MG5Zd043SFNsWFdzLWZnUUI4eG1DX2t3UF9FaEhpSFdhbUJEQVV6dHdLb0hMVW84SUVab25TNmNVU1c4Yw?oc=5",
+        "source": "서울경제",
+        "date": "2026-09-03"
+      },
+      {
         "title": "美 SMR 기업 테라파워, 공급망 구축에 속도...12개 업체와 계약 맺어",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SRmxRd0tsNEZxbWZUaEctUmJWSFRnV2xVTWF1anF6TXFEcXE0R3FzQk9SV0lSa2ZaWk9BZW4yckJYYkxUbHFKLTFDbGpFQktuLTg5OWNqc1FRN21TZU9pcHlpSQ?oc=5",
-        "source": "더구루",
+        "source": "theguru.co.kr",
         "date": "2026-09-03"
       },
       {
@@ -897,7 +947,13 @@
       {
         "title": "육군, 로봇 아틀라스 도입 연내 현실화될까",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83T3NVWHEzUGtHU2hiZTJyb1A1S0R1dHFYdW8xbVdERzRBOTQtRG4tNWtmMkpzT3lnQ1FUS01NbW1PLWFkQV96b1hCYzZkSzZ6U0NaVmhiamdWQQ?oc=5",
-        "source": "한국경제",
+        "source": "hankyung.com",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "‘옥스-알파’ 정체는 ‘GLM-5.3-플래시’",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FaHJnZUVxaW5CZlhoc3RrN0pLLVRYV2VfMEN2ZllXTzVUNmxFUy1QTmR1d0xlZGd1VEtGaWlkdG5oa1pMRHlJbzc4RmxvMHBCdnk3RFJTSW5ZT01NQzdXb3l6ZEk5QQ?oc=5",
+        "source": "BI KOREA",
         "date": "2026-09-04"
       },
       {
@@ -905,12 +961,6 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JdUZDMV9LT0RzY2E4bHNGdFI0Q1hnc0NKNnQzTVFVVk9LUzdabURkMjNhaXN2VGpGN1gxX2NXWlVEY0VSTFNTQlFKQXFWempsY0FOYlNKRDAzYmPSAWBBVV95cUxQems3UWs4YWMwNW95Ql9KWjEtWGExMGJ4NkVRQWpzOTJuT05ySlNTZDFOclJtXzVtYW4tblVrSFlqSUdHSEd0VmdIV293ejhpeExyVWZYQjZHNUVyM0Z0ZVo?oc=5",
         "source": "tokenpost.kr",
         "date": "2026-09-03"
-      },
-      {
-        "title": "‘옥스-알파’ 정체는 ‘GLM-5.3-플래시’",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FaHJnZUVxaW5CZlhoc3RrN0pLLVRYV2VfMEN2ZllXTzVUNmxFUy1QTmR1d0xlZGd1VEtGaWlkdG5oa1pMRHlJbzc4RmxvMHBCdnk3RFJTSW5ZT01NQzdXb3l6ZEk5QQ?oc=5",
-        "source": "bikorea.net",
-        "date": "2026-09-04"
       },
       {
         "title": "장줘얼, 비트코인 전량 8만2050달러에 매도",
@@ -941,14 +991,20 @@
       {
         "title": "“날 지켜준 여자 처음”…변요한, ♥티파니와 결혼 결심한 이유",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tM0ZMaEVUcldsblZyVEFNT203RGZpdmp6NHZBTGlFN2V6Szl2WVBqTnFFRjJweFNmYkFjR2g1dXJocHByMk5CZFBySHJoZkNjSWpxMUx3WDVmM2JnNm5PcGxGeExqTENMbUozbdIBYkFVX3lxTFBTUHc2TWlDSE0zUTZLcTRwYXF5UzhPc1pHRlpDS2ZMUnhwTHQwb0hMU2NFcXFFNHJ5Zy1OLVlPS1ZsdXJaUkxUVVBlZVE5bkdjVDhwaDFRRk5ab2pjYWNMd3hR?oc=5",
-        "source": "donga.com",
+        "source": "동아일보",
         "date": "2026-09-04"
       },
       {
         "title": "아이유, 10일 새 디지털 싱글로 컴백…'바이, 썸머' 이후 1년만",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4MkFieFVseGdHVWk3RUJfazFSbzBDSTZqaHBmQVJYOERFY2p6bE9sOWtQc3NVM3phdVBhMU1CeVRMb1g1cVJTaDFhclZtaGRObVV5RldaOFhPZFdE?oc=5",
-        "source": "newspim.com",
+        "source": "뉴스핌",
         "date": "2026-09-03"
+      },
+      {
+        "title": "몬스타엑스, 새 앨범 '더 페이즈' 발매",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lTjJVS3RBMEczSjltbnQxb0dqQm9PZmxoMGg0NzNSMnBmanhGV3NUMU9udEUtaTJiTzhraTFKbmJlNWVwSlAxSnFqQnlKdk5UQ3EwUWhIOW5DbVBXeVRDVA?oc=5",
+        "source": "asiae.co.kr",
+        "date": "2026-09-04"
       },
       {
         "title": "도 넘은 악성 댓글…'공개 열애' 중인 아옳이, 악플러에 경고",
@@ -957,27 +1013,21 @@
         "date": "2026-09-04"
       },
       {
-        "title": "몬스타엑스, 새 앨범 '더 페이즈' 발매",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lTjJVS3RBMEczSjltbnQxb0dqQm9PZmxoMGg0NzNSMnBmanhGV3NUMU9udEUtaTJiTzhraTFKbmJlNWVwSlAxSnFqQnlKdk5UQ3EwUWhIOW5DbVBXeVRDVA?oc=5",
-        "source": "아시아경제",
+        "title": "영웅시대, 임영웅 만날 준비됐나…하늘빛 축제 시작 [투데이픽]",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41YXU3dGF6cFBwaEptYVh0VklZS21JcE44dWlyT3RncS1fdmhBMnpUTnh2QzZMRHMybDZjSlY5c1NGNnRPcGUwU2dhc0xobFNPbFc0RXpiT1ZuLU9pQy16aA?oc=5",
+        "source": "iMBC 연예",
         "date": "2026-09-04"
       },
       {
-        "title": "임영웅, 특별한 10주년…신곡과 함께 고양 스타디움 입성",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXRm1xSVpPMk13OWp5VFdGbkNremJPdk0zUVd1eWdmN0FtVUE4THJGUnc2TjZXeG0tVmRhd28wSjNLN3dlTWM0dnI1TjNqRnZtS0NnUURYVnNsZzB4bmJyS195WXg5V0dOaHY1dkk1VHRtNmFtSDd1TGU2LXBJUQ?oc=5",
-        "source": "donga.com",
+        "title": "배영만 \"딸 사망 후 집안 풍비박산, 이혼 후 홀로 세 자녀 키워\"…눈물 고백",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Fd19vMURUUk9STXk5YXFaZmRsZzNBQTNPblpBRjVlX0dRTXJidzRFUzF4a3dsajM4RUhqanlNNmZ3cm9TS2dGNnp1SVNOVVE?oc=5",
+        "source": "v.daum.net",
         "date": "2026-09-04"
-      },
-      {
-        "title": "배영만 \"아침에 방긋 웃던 딸 사망 후 집안 풍비박산…이혼 후 세 남매 키워\"",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KcTRfdmhybkRmMGdTam5leFctb3E2TFFIUWxYaldMeDJkaklhNXVSYW5HQ1Vja2N4UEduQTZrNXNfZWNYbUN3eS00d0lPVmhnem5zSzIwSTE0UQ?oc=5",
-        "source": "파이낸셜뉴스",
-        "date": "2026-09-03"
       },
       {
         "title": "이창동 감독, 밀밸리영화제 어터상 수상",
         "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOX1h4blF4YlFXd1NqRmdfblJENVdfQWU3TnNkRVY1Mm4xcUs4Z083aVVOeUY4Z1dyeWFLTEpUcWVrSmhlanVjWjhwbmo4TXBQb0h4NHBRclVkYWdzMGRXM0V3Sk5abkFwbkhEU0R3YmpDU0dPa3hfNW1EWEZPdzhaLTMtdURGYmc5ZDJQcFV6TEpDUk83dWFUeW9EYy1YNXJPUU8yeUlpMVpFMzdFS3hKNkNqSU9FMm01TDlESXpmbWlhTEc2N19tVzg2UFFfTTJYSTA3UmlBMWdCR1UzN3RBU1Jfc056cktzSm9fbVE5M1lBNVA2S19rLThEQzBhUXJ2Q3Rqc2hqcWRhVTNSbHFrenh3?oc=5",
-        "source": "vogue.co.kr",
+        "source": "Vogue korea",
         "date": "2026-09-03"
       },
       {
@@ -999,7 +1049,7 @@
         "date": "2026-09-03"
       },
       {
-        "title": "'홀로서기 1년' 블랙핑크 리사 다큐, 토론토영화제서 �� 공개",
+        "title": "'홀로서기 1년' 블랙핑크 리사 다큐, 토론토영화제서 첫 공개",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQNllMRUZyeDJkaEJsejMwbkZXTUctdEs5N3lxZzZjMXFVN1pBeFAtWXAzZ1gtWEdMMGRRTXVPX2pPYmRPMDdWX2RFM1BPRmIyTnpfaTBqWEZJanBIYlRwa2JFeXF3cEpnM0N4Yw?oc=5",
         "source": "재외동포신문",
         "date": "2026-09-04"
@@ -1023,16 +1073,16 @@
         "date": "2026-09-03"
       },
       {
-        "title": "[오늘의 운세] 2026년 9월 4일 오행별 행운의 컬러",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nSWQ2SHh3RDhhUUFiQjZRNkNHUnQ0YmxyU0hPU1JIcDItdFM5b3F2cmc2T3E4LVhFVkNDMmdMYXRlUU0waUNVOG96RDdHNEFJd3N3cTYyZEIwQQ?oc=5",
-        "source": "한국경제",
+        "title": "“100억 저택 오해받아” 기은세, 엘베 없는 30년 구축 뜯어고친 집",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qVmJOZjU0bzc5S0Y0WmlRekU0X2U1TjJ4Sjl3Q2tUV3RXLWppYVVnV3Z0NFFHUEdZOFNpcFc1VUp1Uk9zS3FSUktpeS1weG1VMzRWdXhpeHY?oc=5",
+        "source": "스포츠서울",
         "date": "2026-09-03"
       },
       {
-        "title": "영화 ‘오디세이’, 이번 주말 ‘천만 영화’···‘왕과 사는 남자’에 이어 2번째",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ib01nVXI3eEljWVhsMW5lNk93VURrdzJFNS1HQXBYYnQ5LVlITlZsUEhreWdoQW9jTFFVcGdpTmhySmhHTkp3ZXI5LVhtRmgzZkFmU0RxUFAxU09NRnc?oc=5",
-        "source": "주간경향",
-        "date": "2026-09-04"
+        "title": "[오늘의 운세] 2026년 9월 4일 오행별 행운의 컬러",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nSWQ2SHh3RDhhUUFiQjZRNkNHUnQ0YmxyU0hPU1JIcDItdFM5b3F2cmc2T3E4LVhFVkNDMmdMYXRlUU0waUNVOG96RDdHNEFJd3N3cTYyZEIwQQ?oc=5",
+        "source": "hankyung.com",
+        "date": "2026-09-03"
       },
       {
         "title": "'욕망의 덫' 장서희, 비극 진실 감추려 결단…진짜 배후 드러날까",
@@ -1041,10 +1091,22 @@
         "date": "2026-09-04"
       },
       {
+        "title": "영화 ‘오디세이’, 이번 주말 ‘천만 영화’···‘왕과 사는 남자’에 이어 2번째",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ib01nVXI3eEljWVhsMW5lNk93VURrdzJFNS1HQXBYYnQ5LVlITlZsUEhreWdoQW9jTFFVcGdpTmhySmhHTkp3ZXI5LVhtRmgzZkFmU0RxUFAxU09NRnc?oc=5",
+        "source": "주간경향",
+        "date": "2026-09-04"
+      },
+      {
         "title": "코엑스에서 보내는 마지막 9월, 프리즈·키아프에서 멈춰야 할 부스 2",
         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPLVpHVkp6OXhNaUR0a0V3dnU5TVRWa1NmY2pMY21QWDZFU0lta0NOdm5OZF85YUVNQUU3ODktNGVuWjEtSjJhcEVadkdDaVZONjQ3YUZydWFwMzdlemhseVlHMjkwSFJneG0tQ0ZOTUpFNUg0cHVPa1ZzZTVfb1huMTVSZXJOTDNuVHJXMzVaUHZJN3h5a2VBU3d0aTk0ZWhZX3p1a1NpTWRyaWFuZHpQZUtZT1BYNWRmdnI4Uk03N0FPOUtYN0JUd1Q1dHlTZURIb3lIbW43N0FQRGdiTkxnSGVsS2o2RHBoWDZmZEhQSUw3ZTJlNmJCYUNCeUNSY2dteWF4amNHLUo5S0VHeVptVzFZOVd5YzB0WXloT1puUC1MTTJXY25GUmxFRjNYdHJLLWtUUUNURGNmdy14ZXY5dXFUaHhLdnlJMmtldFZXRmVfOHNJ?oc=5",
-        "source": "vogue.co.kr",
+        "source": "Vogue korea",
         "date": "2026-09-03"
+      },
+      {
+        "title": "K컬처 행사에 유카타 입고 온 할리우드 배우…서경덕 교수 \"무례한 짓\"",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QbFBKZG1Od0dVSnZrYTA4SDBHdmVQYU5GRC1tOHMwYnBzcmJ6bHlGWWl3YmxvZXotanFWQmJ1WHVyVy15bi1Kb05rVFlxV3l1ZXdhWHJLTnUxUDFBdkEw?oc=5",
+        "source": "YTN",
+        "date": "2026-09-04"
       },
       {
         "title": "[잇슈 컬처] 제53회 한국방송대상…허남준·임영웅 등 수상",
@@ -1053,34 +1115,16 @@
         "date": "2026-09-03"
       },
       {
-        "title": "K컬처 행사에 유카타 입고 온 할리우드 배우…서경덕 교수 \"무례한 짓\"",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QbFBKZG1Od0dVSnZrYTA4SDBHdmVQYU5GRC1tOHMwYnBzcmJ6bHlGWWl3YmxvZXotanFWQmJ1WHVyVy15bi1Kb05rVFlxV3l1ZXdhWHJLTnUxUDFBdkEw?oc=5",
-        "source": "star.ytn.co.kr",
-        "date": "2026-09-04"
-      },
-      {
         "title": "NCT 127의 찬란 존재감…한터차트 美·日·中 3관왕",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tVTNHWEFzQk9xeWlxc05SZFNkbk9RRnV2WjgzWTBOdGZDVDA4c2RpR3B4alJGdURQWGNkZXJDOVF1MGplM3lRR0d0Y2QxQQ?oc=5",
         "source": "전자신문",
         "date": "2026-09-04"
       },
       {
-        "title": "\"내 방 거실\" 이다인 언니답네..이유비 첫 자취집, 초호화 '금수저' 스케일 [기이안 연애][★밤TView]",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UNzV3LWI4TTF3ckhKblJmZ3ROY21zeUhPOGZtOUtDNkxNNWU3NjVISW1yTy0tMWF3eXhJNEUwcW1LaGZ2eEFjRGgyR1hCSFE?oc=5",
-        "source": "v.daum.net",
-        "date": "2026-09-03"
-      },
-      {
         "title": "손담비 딸 해이, 금수저 인생 벌써부터 시작···스위스 가구 의자 눈길 - 조선비즈",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc29ZRFhkYWlQY2FuU3NNVzJuMTR3Qm9xa2RVU3NrQ1d5Q29ISFhMSTlHNkdKN0tmN2xNSk5reWdGeGlsQmtFOWpOVGVQbEgxa19CM1h6WGR3Vm0wcHhwMGl5N0Q0aFc1VFFfSHFBdVp3M0s4akk5V2tfWm5oVTFwUk5PdFRtNzNTNVRwTmdQQWpVLW_SAacBQVVfeXFMTTc2RHBNOXkxOVhhSVU3YlFoUHBKdEtZQ0FPZmtJc0FsWE5kVW9VTDl3VnpQajgteXFjd3ZILUJGUC1RSTkwZVJ1WG1lT3hsMlFKNWhsV1NyQ2t3c09mMnM0RFZmaF9xRlRGWmw1OEVDdkgwVWNvd2tXbHRQVUxscHpfcU81VmpfYzNXWXNQeW1zS1dTbzIxbHJJa3JEbmlJaWxxSm5qc3c?oc=5",
         "source": "Chosunbiz",
         "date": "2026-09-03"
-      },
-      {
-        "title": "’나혼자산다’ 전현무 카자흐스탄 편, 결국 방미심위 심의 받는다",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50N0J0Mzd5eERhVWN6bE1IUVFhMnZkRl9fLU9ZdVFrTlBEWmY3ZndPdDNPdEY1SjhuWmdKVUd5QnpUUVBkQU1NeGlSRkdUY19WRk03T2tYRHFXa0loTlRJT1NmNnBlbVU?oc=5",
-        "source": "연합뉴스TV",
-        "date": "2026-09-04"
       },
       {
         "title": "전장연, 박위에 손 내밀었다…“이제 같이 싸우자”",
@@ -1095,10 +1139,22 @@
         "date": "2026-09-03"
       },
       {
-        "title": "\"가해자 누나가 KBS 드라마 출연\"…부산 추락사 유족 시청자 게시판 청원 [어떻게 생각하세요]",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FVExwR2VodXgtOWt2Q1F5cWNtcjYwbXQwZjZCOXZoWjBXLWZmelo1YzhpVW5lbXhMOWNfOTBSbHJ5dXFrQU5GRlBaS1J2a244dGJxMERLQ241dw?oc=5",
-        "source": "파이낸셜뉴스",
+        "title": "김건모 \"28년 쌓은 탑, 무너지는 데 오래 걸리지 않더라\" 심경고백",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TRWZUcWVVd3c0Q3dqaXVDOVNWWU1BY0hrcnNxakNNUzdkMkhqdWVBODVRUnhaZlRKRjAxWFdVeHJhdENobkdmaXNxMzB3QUJCMmYxTXFUYm50Mmd1akZxWkpVV2VTZw?oc=5",
+        "source": "마이데일리",
         "date": "2026-09-03"
+      },
+      {
+        "title": "’나혼자산다’ 전현무 카자흐스탄 편, 결국 방미심위 심의 받는다",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50N0J0Mzd5eERhVWN6bE1IUVFhMnZkRl9fLU9ZdVFrTlBEWmY3ZndPdDNPdEY1SjhuWmdKVUd5QnpUUVBkQU1NeGlSRkdUY19WRk03T2tYRHFXa0loTlRJT1NmNnBlbVU?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "[속보]“내 딸 뺏아간 가해자 누나, TV 화면서 울고 웃어”",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yM3FXLTc2UXJBTmlrYnNOdmdwMHhpWUVIemxKUE1jSjE5NFVKaGhGUlEyTWd0bmlBWmVRSW9xNGdmb1FBS0NlcXlJRFNrMVIx?oc=5",
+        "source": "문화일보",
+        "date": "2026-09-04"
       },
       {
         "title": "“아파트 78채 값, 15억6천 받았는데”…한푼도 안쓴 귀순용사 이웅평, 왜?",
@@ -1107,22 +1163,10 @@
         "date": "2026-09-03"
       },
       {
-        "title": "'12월 결혼' 지예은, ♥바타도 기뻐할 트로피…믿고 보는 예능 치트키",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2E3bFNrNkxINk9LWDJfT3dvcVBzSjVlcmt1TXpGX0JOcmtlS19sQVdvTkdqNHBBcHUydFVia2Vvd21paE1DZHltLWp3MlBsajl2QzJINWlMQXRnWlV5Z29SdHV5VHBGTWtTRzVsbDNtaVlJcE9uaHJBU1VvZGotRW0zaUlpSUtsRUVkajgwQQ?oc=5",
-        "source": "조선일보",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "김건모 \"28년 쌓은 탑, 무너지는 데 오래 걸리지 않더라\" 심경고백",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TRWZUcWVVd3c0Q3dqaXVDOVNWWU1BY0hrcnNxakNNUzdkMkhqdWVBODVRUnhaZlRKRjAxWFdVeHJhdENobkdmaXNxMzB3QUJCMmYxTXFUYm50Mmd1akZxWkpVV2VTZw?oc=5",
-        "source": "마이데일리",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "대성, 14억5000만원에 산 한강뷰 아파트 100억 됐다",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ajVVclBKQkxEak0xUU5hTEExdjd1YlhmZE1tdUZ3X1lhX1A2ZUUyTFhYX3JiWmdyMFVmUDdNZ0dWZjVCWk0zQ2VjeDNweEEtOUZzTGU4SzdaUQ?oc=5",
-        "source": "파이낸셜뉴스",
-        "date": "2026-09-03"
+        "title": "지예은, ♥바타와 12월 결혼→겹경사 터졌다…‘올해의 엔터테이너’ 선정",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Kc2oxZ3VJM2o3N1V4UzdwWW05aDNxR3hKcUFxZnBOLWtabzRidWkzaldwaDJVSEtyVkpJRGtHeDUtRVZDbnctQVhnR1U5TDBvUkVFVGpLUEtGc1E?oc=5",
+        "source": "일간스포츠",
+        "date": "2026-09-04"
       },
       {
         "title": "하영 하차로 숨돌린 ‘중증’, ‘승산’은 ‘디어엠’ 되나[스경연예연구소]",
@@ -1131,16 +1175,16 @@
         "date": "2026-09-03"
       },
       {
-        "title": "‘이숙캠’ 사파리 부부 “복수극이라더니 외도 맞았다” 거짓말 난무한 역대급 막장 사연",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIZFJ3RVBwdjFHWWR4U0xZOUJGYnd3QnNYMDdkVi0xeV82S3QwRTlsejVidWlYWFRUWDRlNS11MXM4OTBOTGxBMHN1WnpKNDBMMkZKS0N3bmtnYXNnZkHSAWNBVV95cUxQczFsSkQ3Z0dBUTNaZS1MTF9tamRBQ2lldXdXUDhtVmlNdU5qM3VVNHdmNXdBd2tfN3hoZjhUTGg1Q2FBVDlVeUVnSzZGT081Yi1JNTV0Z1ZuWXhfQkViOVFBUEE?oc=5",
-        "source": "스포츠경향",
-        "date": "2026-09-03"
+        "title": "김민종에 고소 당한 MC몽 “한 두 번 당하냐···나���트나 가자”",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhMkcwVnRkdkxkZWhXWXBWbVBpUVNMMTJvd3Q3NzBLS0tLN2hLSDlQZ1YwU0ZrQnRVcWE0Tm8wMUVyemgzY2VGekFxbGdXM01OVDhzcWNfc1lqeEVMQUHSAWNBVV95cUxQWk1URC1GdFJ5Yy00T1RmSFA4T085S0l6bzIxM0FaMm85RnVIanhCT05xYU0zUDNTMC1DWVVRbDFRcEJkbmFadTVwRzdwU2djczdsSGVadUtZUzBXYWFDZVhELWc?oc=5",
+        "source": "sports.khan.co.kr",
+        "date": "2026-09-02"
       },
       {
-        "title": "MC몽, 김민종 ‘명예훼손’ 고소에도 태연…“나이트서 부킹이나 하자” - 스타투데이",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wN2hCc1ZjcUJnRms1UjM1S2NQZ0NCbGlzYzl3RG5lUFRaTFE1Skk2NnpGdFlPMXJKdUJMcGIwcVZZZVMxSUJDeE5uMjU4ZGk5VnF3eThBR1A?oc=5",
-        "source": "매일경제",
-        "date": "2026-09-02"
+        "title": "‘이숙캠’ 사파리 부부 “복수극이라더니 외도 맞았다” 거짓말 난무한 역대급 막장 사연",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIZFJ3RVBwdjFHWWR4U0xZOUJGYnd3QnNYMDdkVi0xeV82S3QwRTlsejVidWlYWFRUWDRlNS11MXM4OTBOTGxBMHN1WnpKNDBMMkZKS0N3bmtnYXNnZkHSAWNBVV95cUxQczFsSkQ3Z0dBUTNaZS1MTF9tamRBQ2lldXdXUDhtVmlNdU5qM3VVNHdmNXdBd2tfN3hoZjhUTGg1Q2FBVDlVeUVnSzZGT081Yi1JNTV0Z1ZuWXhfQkViOVFBUEE?oc=5",
+        "source": "sports.khan.co.kr",
+        "date": "2026-09-03"
       },
       {
         "title": "이재룡, 뺑소니 사고 직후 식당 이동해 50분간 또 음주",
@@ -1149,10 +1193,10 @@
         "date": "2026-09-03"
       },
       {
-        "title": "집착이 공포가 될 때···유튜버 출신 99년생 감독의 ‘젠지감성’ 공포영화 ‘옵세션’",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzTzFNTEkwRDlWY2E3T2ZjR3hwUmUtYnV1UU5CZzd2T0NSQy01ZGczQVlRMjcyMDYydG9mSmNGRWpZNEVGbGVYTTJvX1R5MEp1ck1jSzJMOHFFZ9IBX0FVX3lxTFBoTkJYTTVkN21UdTh4blJpSWdtdXJZS0hKendkSU9nMm4tb2tLMHlqbXMycW1PSFlQY2tQVXdub3N0VlJaTGpqSHFCd3V3SGxyM1pRd3RMX2thN0pEMGVZ?oc=5",
-        "source": "경향신문",
-        "date": "2026-09-02"
+        "title": "남보라, 갑작스러운 응급 수술…“너무 무서워” 눈물 (편스토랑)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HWEh0RWxEYWpvQUpkOEU2djZpV2ZYM291djVBc2Y1cjB2LTlZR3ZNbVp1RFAzS2VWbk9NWU5hQTBwV3pOYUxpTGp6dnpEaUpfX2J4cmFJa1UwNlRLVDIyc0JtNkxKWmpUMmVfUERB?oc=5",
+        "source": "sports.donga.com",
+        "date": "2026-09-03"
       },
       {
         "title": "'웹툰 원작' 들쥐 결말은? 엇갈린 후기에 평점 어땠나",
@@ -1173,16 +1217,16 @@
         "date": "2026-09-02"
       },
       {
-        "title": "권은비에게 '워터밤'이란 [인터뷰+]",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93c3paUmRreWFuVlRPdm8xTHQ2QU1pZk1lQmpERkVrN1hkdWtLNVdIdVNCVm9ZUTRneXFlbi1kbm1peU9xcEx3a0htZUhaVVRqSFJVLWtLTko3UQ?oc=5",
-        "source": "한국경제",
+        "title": "집착이 공포가 될 때···유튜버 출신 99년생 감독의 ‘젠지감성’ 공포영화 ‘옵세션’",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzTzFNTEkwRDlWY2E3T2ZjR3hwUmUtYnV1UU5CZzd2T0NSQy01ZGczQVlRMjcyMDYydG9mSmNGRWpZNEVGbGVYTTJvX1R5MEp1ck1jSzJMOHFFZ9IBX0FVX3lxTFBoTkJYTTVkN21UdTh4blJpSWdtdXJZS0hKendkSU9nMm4tb2tLMHlqbXMycW1PSFlQY2tQVXdub3N0VlJaTGpqSHFCd3V3SGxyM1pRd3RMX2thN0pEMGVZ?oc=5",
+        "source": "경향신문",
         "date": "2026-09-02"
       },
       {
-        "title": "남보라, 갑작스러운 응급 수술…“너무 무서워” 눈물 (편스토랑)",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HWEh0RWxEYWpvQUpkOEU2djZpV2ZYM291djVBc2Y1cjB2LTlZR3ZNbVp1RFAzS2VWbk9NWU5hQTBwV3pOYUxpTGp6dnpEaUpfX2J4cmFJa1UwNlRLVDIyc0JtNkxKWmpUMmVfUERB?oc=5",
-        "source": "sports.donga.com",
-        "date": "2026-09-03"
+        "title": "권은비에게 '워터밤'이란 [인터뷰+]",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93c3paUmRreWFuVlRPdm8xTHQ2QU1pZk1lQmpERkVrN1hkdWtLNVdIdVNCVm9ZUTRneXFlbi1kbm1peU9xcEx3a0htZUhaVVRqSFJVLWtLTko3UQ?oc=5",
+        "source": "hankyung.com",
+        "date": "2026-09-02"
       },
       {
         "title": "\"Happy birthday bro\" '다정둥이' 방탄소년단 진, 정국 생일 축하 훈훈 투샷",
@@ -1191,27 +1235,33 @@
         "date": "2026-09-02"
       },
       {
+        "title": "배영만 \"후두암 걸려 수술 두 번\"…술·담배 끊고 아침 차렸다 [특종세상]",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nU2c0UmVkVWdfNDZ2RF9RdF91aERtRkJsY1NvUjFQRF8za25nWk5PVG9Eb2FTSnlaUjVZa1NWQ1VoOHRDdjhFVC0yMFhZUjYxRWh0UEdSNks5SDdIaERjZVZmYzgzUQ?oc=5",
+        "source": "마이데일리",
+        "date": "2026-09-03"
+      },
+      {
         "title": "남규리, 1984년생 미모가 어떻게 이래? 주름 하나 안 보여",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qUjdVSzB6SzJVWmh4bFA5eU82SjZzTkp2aU5FYXRnOHVSdnRTNjlzbHJ3TG1Fd2RXLWM3eTFybDJtcnZZT3ZBUWN5NUpqSmtqQ1kxUmpoSERSZklvYzFHUnNJbGRodw?oc=5",
         "source": "마이데일리",
         "date": "2026-09-02"
       },
       {
-        "title": "\"中서 100억대 광고 제안\"…블랙핑크 로제, 거절한 사유는",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85SkJmXzhaUDlaeS1jZGxVX2xOM1A2RlFWZEdjak82VTZfSkk4ck1sLUpmX0JkS2dJaWV0Z3ZjUWl2OWxSVm93UVptNUk3aXpjMHpoTHRXZWRpeGMwem5raTZR?oc=5",
-        "source": "이코노미스트",
-        "date": "2026-09-03"
+        "title": "위상 달라지긴 했네…로제, 100억대 중국 광고 거절설",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WUHlldDkxenZsM0V4OHNKQjRvbWVTbnN5Q1k5azZ1QnNfRUFTZEJTZFJEV0FOa3ZOMUc3bVVPbXRvUEJHTUlhRUdxdFA5UEpsekZaOQ?oc=5",
+        "source": "매일경제",
+        "date": "2026-09-02"
       },
       {
-        "title": "백일섭, 건강 이상으로 119 실려 갔다...\"소·대변 3일 내내 안 나와\"",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQckNXTDZtVHRld3dMekIwdXd1TUVWYjlab1RsbWRfVVE1MEdscmpRY2lkZmZlcV8tSjNXQkpqRU1LRzNsYW56UHlLM3NxR3lvZGRsM19aREdxcnp2dGN2NG9UeTF4RENrUmpnMm1sS2ZQSlo4cHpDWS0yZlVJWE1QU2M5Vmw?oc=5",
-        "source": "스포츠조선",
-        "date": "2026-09-02"
+        "title": "소녀시대 유리, 25년 몸담은 SM과 이별에 눈물…“사랑했었다”",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lUzhuXzFobEV2c2pFbEk0TlRnWFYtUTdsVC1NYWw3ZGU0VDBlc05mYWVuTURRUEFlZUtOSExyUUpjUm1QVVNFWGhQUVNnYzhxNkRuMXdYOVBCS3BlSWNxdTk3R09yd2l1UFp1c19B?oc=5",
+        "source": "sports.donga.com",
+        "date": "2026-09-03"
       },
       {
         "title": "현빈♥손예진, 9월엔 OTT `부부 싸움`…9일 차 흥행 맞대결 [MD이슈]",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6QTdMOUlVcGpsUVBPODQzTWJ6NEsyem9mWlJfd1hnLTBQWGZ6SzA2MzA5dUF4TGVKMEVYaWJsWW01ZzBpTUhoNHZMYV9wSTBHU3RuR0hoamVSaEs0YXpxeTdrZ2xqQQ?oc=5",
-        "source": "마이���일리",
+        "source": "마이데일리",
         "date": "2026-09-02"
       },
       {
@@ -1221,30 +1271,156 @@
         "date": "2026-09-03"
       },
       {
-        "title": "“100억 저택 오해받아” 기은세, 엘베 없는 30년 구축 뜯어고친 집",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qVmJOZjU0bzc5S0Y0WmlRekU0X2U1TjJ4Sjl3Q2tUV3RXLWppYVVnV3Z0NFFHUEdZOFNpcFc1VUp1Uk9zS3FSUktpeS1weG1VMzRWdXhpeHY?oc=5",
-        "source": "sportsseoul.com",
-        "date": "2026-09-03"
+        "title": "‘뉴진스 퇴출’ 다니엘 여유로운 근황...“함께 여행할래?” - 스타투데이",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOYkx3T3RNQTZZcE9hUjVuVUJLaDhXMFN1a2JBZ0VmMDNOLXhlaTFGQmJlZndqUDFIemJxZ3pqM1d4Z0ltYmdwaVdXVXczZFdLeVVFMmtBa0g?oc=5",
+        "source": "매일경제",
+        "date": "2026-09-02"
       },
       {
         "title": "정미조, 故 앙드레김과 황당 스캔들 “어떻게 그런 관계로…” (데이앤나잇)",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9leUwxYXlVb3dEbFVpOXh1bHQydWJjRkhnb3YtWGQwdi01V01VNmQ1ZWVUSWRlWkdIWlpEQzEtNk5iaC1seTJ4RHpXZmZyQmxpWDNxVDVxTkdIdEtvNHM3SVlxODNka0JvYnd6bGFB?oc=5",
         "source": "sports.donga.com",
         "date": "2026-09-03"
+      },
+      {
+        "title": "[영웅 신문] 임영웅, '가슴으로 듣는 노래'…그냥 한번 들어보면 된다",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LYzBCbHQ3R0wxYVYxVkg1TWpyR21aNVlyaXdaV1NpUG9MV05EdUkyalZiakJ2aFZCa2FyUEtQcDl2bWpDQnpkVmd3bmxQRV94UDRWQ0xwQzlac0Mwb0lxUHFnYTAtTFY3QkZnY2RQM1FPZw?oc=5",
+        "source": "톱스타뉴스",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "“양다리도 용서할 외모?” 15기 정숙, 가족 반대 뚫고 결혼한 남편 공개",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBicWJnR2RFYllYUy1tWTU4eGVJUmwxS1RFZjlMNkxNN25LT2ZXWVNpTFpKM3U2VEpObm04WXhlVm1ydnJPd0FGRmlmbDRsWklGa1Y4SXoxNWFYdGhNd2fSAWNBVV95cUxOeHYwNDhUaDBJc2kwU3ZPdUVFZ2lKMDZ6VEJzYlVrbUVqMmMwRUJabkhWcmp1UTd5UUtWSkRiNS1FWlV6MTdkN2x6V0lRSUVFSmNGU2JFbVpkb1BmcFRnTGUwd0U?oc=5",
+        "source": "sports.khan.co.kr",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "고은아 맞아? 적나라한 뱃살 공개…\"나이 드니까 배 안 들어가\" [마데핫리뷰]",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CZzFTRHFvLVZnLXJMSlYySVkzYXZTMzRCSVZ2OEM1ZWRhbEsySmZVck9IM196Nkpfa25wMVJaWGgwQmJPQWtla1pONGRldWd3Y3ZBM09EbDFmb0gtYzhCNVI5NjRhdw?oc=5",
+        "source": "마이데일리",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "'이병헌♥' 이민정, 드레스 노출 사진 SNS에 공개 박제한 이유 [종합]",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uMENNRjVnZ2EycmpPZVBPYUlBVnBiZ0pIUWRnSllJSUJhbEFuUjJ6N09FZy1GMlZjV09qcmZQT2k2dk9udnhKY3dyS29QVzU1RlpVZGNRdS13SnNxSTNlcVM2TzBkcDFmQXpvMEhhOG5jZTg?oc=5",
+        "source": "starnewskorea.com",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "BTS 정국, 먹는 약만 수십 개…\"간수치 높아 처방, 건강 챙긴다\" [마데핫리뷰]",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mODJNbmhmXzN3OWszR0VjZFp1SXRod192MnN5TEFaQ2hrQzFPRTZPVGVLMG14dkc2N0JaQUpmODMzcHNuVjh4V2xNemVSdTdmNnZVZGpPWlRsdGVVdGVkNjJqaGpkdw?oc=5",
+        "source": "마이데일리",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "\"AI·합성 아니고 실제 사진\"..'노처녀 탈출' 한윤서, 9시간 걸린 웨딩화보 공개 [스타이슈]",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DY3hJdVV0WmV6djNRZDM4X2JxSTl6ZlpWOENOQmx4Z3R4ZUxQd2s3bkNmZXdGejBXMFNrYWtod2Ruby1xdXRCQUFPYmRudVF6SmItT21FdWExSFhBVHdoLTlhVUZHMG10STR1Z1Btd3RZQ28?oc=5",
+        "source": "starnewskorea.com",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "임영웅, 9월 광고모델 브랜드평판 톱3",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90eUVNU0d3d1IyWVpzTUNHT3pzVUFVRkZYSTZQNjJic3k1Z3VvTnBJQVotZUQyN29mako3WkozNHE3S3VkTUFScVVIazBTbmx0WWcxTUZCNnM0T1c3aFgyc2NQLW9xYi1PQWNuNG9qSkFhWW8?oc=5",
+        "source": "starnewskorea.com",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "\"웃는게 웃는게 아니다\"..황정음, 싱글맘 아픔 건드린 오현경에 눈물 펑펑",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUklhQld3ZFl4eXF2RFdXX1J2bi1TajRPb1BVSWhyNFhsSl9BcUxTcGhvaXl1bksyMHJoYWpob0VDb2dMZEVyejVjVFhBTnV1bmdfdGIzcjVMRE9SMGFsbFUwckFxUzZEOVM4NXpoNTFvZFhITk1kSmZmamtzYnlQeXZVb1o?oc=5",
+        "source": "스포츠조선",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "나니와단시·다영·성한빈·아워벌스데이·원필·채령·코르티스·튜이드, 'AAA 2026' 빛낸다 [공식]",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lanJQc3pqLXUybVJJUEpsY2NFc1BmN1NQU25UdXFTRk5tTDVhTTZLLWpRMUk5OGxrZnZILTdtaTBGSFRwbE5Rc0RaMHdnY3VfMG9YOTV6VWZHakRkR3hycndWLWhWM0h4X2hjTGVHRzhRUjFK?oc=5",
+        "source": "starnewskorea.com",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "김새롬, 이혼 10년 차에도 `돌싱녀` 꼬리표…\"내 잘못, 싫지만 이해\" [마데핫리뷰]",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56ZEt6T2tMZHB2WXdPdUxNOU0zWjl3Z0FfSjItRVNiOTV5dXhEekdZdnB0VEFJcW1fZU5SeDZtOFZJNF83cFdlQXFIRGZrZGFkZnlyU0dUUmluVmgxQUYyR3J5UnNtUQ?oc=5",
+        "source": "마이데일리",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "노홍철, 48세에 찾아온 씁쓸한 변화...\"노화로 휴대폰 가까이 있으면 안 보여\"",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaURPai1BV0FsMlZZX3hyY2dncHpZS2RxTEU2UFAtNEZqOC1hMkVFTFI0U3JRZTZnems2TWRiN0RVcVhpWnFGVnEzVjBhbW9Rei0tczl6ZkJSVEhHUlhteWh6YWZYZENNbzEzcDBUbVRfR0NVRk9tWFgyVFFZTEJZWEdUWjg?oc=5",
+        "source": "스포츠조선",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "60년간 10만컷… 한국에 빠진 일본인이 담은 현대史",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS0JQT3FUd1g0Uk1lWUZORFJDTjZHR1RmLU9vWmxBZE5DVmliYVBjWDdDN3dBVWd0cVN2ZkJpNS12WkpjYVVQZUdKV3RkajB6Tk93OHhqcnZYaldFc29pbUx1V25vaXhlTzRLM1ZocWt6TTQteXdaYUtwWXNEYkY3TFFVOE5aUGd3a2ZwcE9ObmhzNW1x?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "신정환, 구치소서 연쇄살인마 강호순 만났다…\"침 튈 정도로 가까이\" (닭터신)",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93b0FwNk55aTJVbTc2SVpqMkRtREJvdkVrYkc2MVpiTFRUcW5YMllCMUhRSVdlOHpjZGhyVU9EeVVzdng3VDltUmdFcGNQdFpUenJuNg?oc=5",
+        "source": "xportsnews.com",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "'달리기만으로는 못 막아' 박재홍 아나 덮친 뇌경색의 공포 [건강!톡]",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaVXVnckNRa3hFYW9zN3d0dG04YVdGVmdkUTlucWhwX01ac0l3RGQwdzZRQ1JMYngycDBMTF9wcVhUdUJiaHpXMm9vQ00zLVFSYkQ2SGtvYUQ0dw?oc=5",
+        "source": "hankyung.com",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "김혜수 미담 어디까지…후배 17년 먹여 살리더니, 15명 수강료 다 내줬다 [마데핫리뷰]",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45NG9Qd0J1OF81X0VVaFFWRVpVbGNKZ2ZtMldXUnNNbDk3cnlnbll5eHluc0EzbklINGZieFREbnlWMWE4ZkVBN2dGb1lmNnNEeE8weWpzSi1fOWdQd0tiVlRnSnZTZw?oc=5",
+        "source": "마이데일리",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "“성욕 때문” 지하철 여고생 20분 넘게 성추행 20대男 체포[아하일본]",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxcm5SbG9IMnFwbDlTNEJIdW5US24xdURJWm9JeGEwVEc0NGRrajUtcTFFZDFQdmp1ZEF4SWo3UHd0dXFfVnk0TG01NVFOS0lh?oc=5",
+        "source": "문화일보",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "‘전처 외도·폭행 논란’ 윤딴딴, 활동 재개...“털면 먼지 나는 사람, 잘 정리하며 살 것”",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJWGRNWVEzZlFtODN4cTRpdGp3d1FJUVAxMHo1bWc0djJPa01sY2dhWWlnRE1YbjVZNEUwTlBIUGowZS12eHRKQzNPSk1ZOW12OTdoQmJ0UnpGeGc?oc=5",
+        "source": "일간스포츠",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "'백발' 포착 배용준, 과거 미담까지…류승수 \"주얼리 풀세트 선물\" [엑's 이슈]",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TkUtWi1SWjhOdVF4anpVMnNvTnhBczhvbjdRQXRpZlRaakZrTnJMVElXbWZqME0yaFdEekVBeW1ma0VOVkpHa3FTQXZYQkR2N2QzRQ?oc=5",
+        "source": "xportsnews.com",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "“허공에 ‘여보 나왔어’ 외쳐”…이엘·김광규가 울컥한 4050 1인 가구의 그늘",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XTzgwM1dfY2dwd0hQcHBJMWpXcEpXMW4welZDTklCM0xJT3pNVEdNZ1lkWkJfRlI5TzNiWEJJY3dIM29nNjZMcC1JenVUYnB5emJKaE5QMm_SAVRBVV95cUxNbml2Q0JCQkRSMjZKQTBPMU9KZ2pFcGFBemtycC1iaFdyVy05T1NDSzItZFpBSTI4ZEJ1aTk0eDVJMHdjOElWRU1Bb3BOY3NIUEdoMm0?oc=5",
+        "source": "segye.com",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "‘이상윤♥’ 기희현, 공개 열애 3개월만 결혼 언급 “급할 이유 뭐 있나”",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fWl9vX0FIcmRnMlJ6NEx0LVppV0lIYUdIdzNTbHJqM3cwb2JoYVZGaTI3eVpkOWZSS3B5SXExSHVOTzZ2QXQ5a3J3SFU3aVYzVUh0RUJ5bmVmazA?oc=5",
+        "source": "일간스포츠",
+        "date": "2026-09-03"
       }
     ],
     "SPORTS": [
       {
-        "title": "이정후, 피츠버그전 대타로 나와 1타점 2루타…네 경기 만에 안타 적립",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wQnpKc0ZNU3Ryem9Pci1SQlBLWFFzSE5udWgzMXdHWWlrZGowekxlcFczSDhXZTc4ZDlRa3Mydml1bGtleWxKMlJmODRFbndreWFIbmgzMXE2bHNoSHdjSHMzWGdsWDA?oc=5",
-        "source": "연합뉴스TV",
-        "date": "2026-09-03"
+        "title": "이정후, 대타로 나서 1타점 2루타…타율 0.283",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoa0VqOHJoc0tBZ29vN2lzczFpY185X0RBLXA1bjhuYmlzOVprb196Z2VJUUVqQktuelJsMW5zYVBWdTE3Z05ZbTZoR1kzRnZCbW9FMkVBZTNTSzA?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-09-04"
       },
       {
-        "title": "‘돌아온 우승 마무리’ 고우석…“미국에서 겸손함 배웠다”",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91R0RmeDQ4dHVwemJZNDI1NmhndjFzOWkzM25KWHR5U0d1cm15cGdkRnNGSUtmYWVHaG04VzcyTGpUVmd1SkY5QnZ2ck42QlJ3QzF5WW0ybGt4UFE?oc=5",
-        "source": "KBS 뉴스",
-        "date": "2026-09-03"
+        "title": "정조대왕 유니폼 입은 힐리어드…kt wiz, 수원 역사·문화 담았다",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwTTZVdU9uWmNkd3BSdnFuUVN0V2NhenJKRHdLUUFqTzlEZ3JITWtyekQwOGJZcGZMejlmMUxRVWtMdUlUN194bUVFUDI2c3FLZm8yWmQ3U0xPLU0?oc=5",
+        "source": "경기일보",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "“1위 못 뒤집을 승차 아냐” 고우석 한마디에 LG가 결집한다→오스틴도 격하게 환영 “고우석 가세, 엄청난 도움 될 것” - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ObHctcFYzTEpLVW9JNXh6TENJcVBmV081aXEyRExGRWhpSDYxM1V2bzBxUktSc0lxNzNRaVVLZ242MWZVNW5KRWNIb0FZd0k1SFByOEF4VktLRFpKZHR5RzFxc19oLWVUNXfSAW9BVV95cUxOSW1CMGhPQVhXVlBzNnlJVGU0TkU2MXlkNXdBbk5YQmg4UFQxVVhJbTFjdmlpWUwyaGlTMS1MRHJGRjNyWk0xNGxsNlg4dHUxdzluMlV2LXVId3FYd3E3YWFfRExUU1hyNDlHN0lyVUU?oc=5",
+        "source": "mt.co.kr",
+        "date": "2026-09-04"
       },
       {
         "title": "배드민턴: 안세영, 김가은 꺾고 야마구치와 준결승 맞대결 – 중국 마스터즈 2026",
@@ -1261,7 +1437,7 @@
       {
         "title": "[현장 포커스] 3연투 투혼 LG 손주영-빛 잃은 역투 두산 곽빈...엇갈린 잠실벌 투혼",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xTWgxNWZGMUJVRjItd1ZPWnFQb1JjLVJIVzFvRGt0dWZCbjZ1eHRZM1dDTEJjWnBiMXkxMURrdVJKUWp1bGZFUVo0aGw4Rkl5M0FuNXpVc1hWUk9p?oc=5",
-        "source": "newspim.com",
+        "source": "뉴스핌",
         "date": "2026-09-03"
       },
       {
@@ -1271,165 +1447,9 @@
         "date": "2026-09-04"
       },
       {
-        "title": "정조대왕 유니폼 입은 힐리어드…kt wiz, 수원 역사·문화 담았다",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwTTZVdU9uWmNkd3BSdnFuUVN0V2NhenJKRHdLUUFqTzlEZ3JITWtyekQwOGJZcGZMejlmMUxRVWtMdUlUN194bUVFUDI2c3FLZm8yWmQ3U0xPLU0?oc=5",
-        "source": "경기일보",
-        "date": "2026-09-04"
-      },
-      {
-        "title": "나이 넘어선 뜨거운 레이스… 2026 대구세계마스터즈육상경기대회 폐막",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGZ28wUGlKbWJiUDMtdDJEVmV3MEZoNTZvalN6LVpxekJWVDRQc1FJQ3N2RGRRalJ6VGRZS0xwVGdGVWRWeTdrZHFzWDJrcUtFVlh6eTRRVjZiNTFjeWJoQUJ5TTh6Zw?oc=5",
-        "source": "이로운넷",
-        "date": "2026-09-04"
-      },
-      {
         "title": "축구대표팀 모레노 임시 감독 \"경기장에서 보여줄 것\"",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YZDNIel9QQWF1UDZPWFZDVGRudDRaOFExWDVRdDVhc1FSNXZpOXhldTFkSVVJQ2RyNzVxWU8wNXhnMUNTX0EyZm42Y0ttXzNWWGhTX2gxX0xyRGJqRUE?oc=5",
         "source": "YTN",
-        "date": "2026-09-04"
-      },
-      {
-        "title": "'홍명보 선임 개입 의혹' 정몽규, 12시간 경찰 조사 마쳐",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EaTFoaUw3dDlWenZmQlc1d3hpVEFSX0tlSXVGaFVmb2I0bHRDV2RGa21HdGxPSldLRHAzUUtscUs1blAwaFFDczZva2p0cUVNVWg1Z00zai1QT00xcDNCZEhTYW1jVGwtQ3VGZnlWdjNHeGE2ZjdRS3BEV1BSLU0?oc=5",
-        "source": "TV조선뉴스",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "괴력의 안현민 연타석 홈런, 주저앉은 왕옌청",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80ay1LVm5JN1FaclBPWHVFTjZkcXpaNjJPdklKMWRIbWRjeTVTRkpNcG1XVmdGMXNva0pRekRNS195eTBEeW1jazNRZjQwVXBRaUhKd2tJU2VFa2s?oc=5",
-        "source": "KBS 뉴스",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "35초 남기고 '버저비터 이적'! '샬케 뉴 7번' 황희찬, 첫 훈련+'인디안밥' 신고식까지...샬케팬들은 엇갈린 반응",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV0pPWDRIQ2N4TXNWS0pWR2pGT3FtRVdXVU9lMXdoZ2FlNWhhUmluaU15eG1oVkJhVnRTbzFCS2ZGemlzd0diUXJrODAzdEZId1RNOF9rbm9XcUY1bjEzbEpGN1UzQXZVd3RfS1FEaVdCelUyeGU1a2pDOUlLQ1JYbjNad1RfaVVJa19j?oc=5",
-        "source": "조선일보",
-        "date": "2026-09-04"
-      },
-      {
-        "title": "[스경x현장] 중계카메라가 타석까지 졸졸 따라다니는 김도영…“의식하지 않겠다” 했는데, 지금 무엇과 싸워야 하나",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OODBYY1B1UnhlMUtEam5HVVlYS0s3bWFxcERheUZUel9uQ0F5QzBsYnhFZ01UUEU2bHE3aHZMcHAtRXgwREg3eW9NSzhnX3BmeFRxLVpJZlppcHlwSVHSAWNBVV95cUxPWnFob3hkc2ZMS3dzNTk4MGtBTUtMT3lxQWJyR01tWE8zQlkwaUFnM2lBc3gyT2tCWThWZE5udDhJc2ppekp1QWhpNWc5WFNDM1lYWldxZ2pvYjJ3bkpBRHAtRXM?oc=5",
-        "source": "스포츠경향",
-        "date": "2026-09-04"
-      },
-      {
-        "title": "‘尹 호위무사’ 이용, 6년 만에 썰매판 복귀…대표팀 총감독으로",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10bGZnWFc1aVZHVHdSN2NtUFl0aF9aM01iRnZfWnRkVW4zQnk1cGFZQVJYUXVYaE4wVEdnZ292dDJNV2tLczJvcE4tMmV1czdlRXk0MVdZT2ZlMFJMR2doQVBwczZnWV90eWoyQkM1LWgxSEZVallR0gFmQVVfeXFMUDkxenNack1sWDFmMmJqMTJKX0tCTDlMYXg4cEdmZkFQVHdTUy1VNmk3VERPZE9NMGtZZmhkYW9iMVRxVjItSEV5VGRmZU9RRDNvdGRyRzVWNXRCanM1N0RYN1V1a3d3?oc=5",
-        "source": "donga.com",
-        "date": "2026-09-04"
-      },
-      {
-        "title": "\"삼성에서 다시 뛸 수 있다\" 보스 절규에 박진만 감독의 화답, 단 두가지 전제 조건이 있다",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcEczLUdVN2FDYmlFSWJ3MGVPMkVaX3NSaW9tVnh4MGxUSlZlMS1pWWZ5X0xGYl9sM21ZeGV1VGswalduT180aHB3VkFvbWxvdXVtaGRoNWtxVUxPUWRfM3YtS2xOd0paR01SOHFEbE9SRk53b1RFZ2dEMnJDS1ZGcXFVWQ?oc=5",
-        "source": "조선일보",
-        "date": "2026-09-04"
-      },
-      {
-        "title": "이승현이 돌아본 알수와일렘과의 맞대결 “키로 하는 농구가 아니었다”",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14WjgtMk1QVVg5YTRzNHZkcmx5ek1nWUt4SjNFT1ZhUlNsbjBCWTMwSWEyTTY3YUlmWnYwMGJLNzlvUk5sQ1Z6Q0JRQzJWbXFJQlpEaWs5dGRWNXA5c0ZQVHNLU3NNQ3N5OWI1QW9oXzM?oc=5",
-        "source": "점프볼",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "'예견된 참사' 북중미월드컵 대실패, 한국 축구 어디서부터 무너졌나 [창간 ①]",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93NV9wbTVObjRRaHNfVGI0cWdqSGt4ZDVZT0V2NUNKdnRzeDJ4VEVETXV4NjFMTnJ6SkFtb1Vuai01VzNsNzFlNi16QTVaS2R6UUx6Qkt6ZDJNZUpEME1iVVg2UDliY21SS1JaOU15X1BnZy1PaFE?oc=5",
-        "source": "starnewskorea.com",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "지소연에 ‘걸스데이’ 발언 주심…축구협회 “징계 건의 대상, 협회 공정위로 이첩”",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54YkVOS055RkN5ZmhRN0hjYnZwRnYzeUJkSDl4UEFfWWxoLTRUOXdxUjZOMkplV2gzUUs5TjFBQlEyakpkbzFVYnFPUGlFQmRCMV8zU0NWbzNMMlItT3dIRDRNYkJpa3lya0otQXdvUQ?oc=5",
-        "source": "서울신문",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "OK저축은행 읏맨오픈 출전 철회한 박현경 프로 [KLPGA]",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pNTRxVkNya2ZENzRZMkdLTndmbVlYb1dsT3dwYWpka2lyNElJUGpTdl9FeFVZQ0R6ZHA1cmRFMVU2ckFXQWM5VTJpUktybDY1VzZtV0ZHak1Ed3FLUWp3S3hpa3dad093TDk5UnRKbHVXU1pnX2NQbdIBfEFVX3lxTE1CVU1YRlNsaEVsWDBkMjQzWFZONDl0T3UyU0hnZ1pjdmo4aTRUYjJsWGhxS0RiRnNUdFh2emtsMWdsVGZTLXBCLWVYaTZBMnYtb01Oa1NoVXJEb0E1ZFhUX0JTOEhSRFNIQkExM3g3bndnV2U3VXNiaHFYM2s?oc=5",
-        "source": "골프한국",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "\"감독과 성관계 거부하면 출전 시간 줄였다\"…美 대학 소프트볼 뒤흔든 '충격 소송'→女 감독, 女 선수에게 집요한 연락+호텔 호출 강요 의혹",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmRENtR0d3bW4zVGhyNXBwZjBEWGZJT01hcW1kS2djeV8wZ3I0R3FRbWwzeUxLYW5sd2RONmJxSlYxRzZuZ3RBaDc2Z1lPRndoR1QzTw?oc=5",
-        "source": "xportsnews.com",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "“AI인줄 알았는데”…‘176cm 9등신’ 극찬 쏟아진 일본여성의 정체",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94Y081VmxFSk5PemNfNGlNUDQzSkVQT1ZINVNtbGtpQ3Bva3V4dGlYRGY2WDUwSGFQWXZYbE00NWRCTUphZU9TY1djSkI0eHpEZ2c?oc=5",
-        "source": "매일경제",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "日 피겨 여신 안도 미키 \"만난 남성들 외도…대부분 차였다\"",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BSzdVVG5OREFYZ0VNZTR1bHBiT1ZtcGNGcGJFRDhmZllCZ29YRVIzUldtWVh5TVo4NWo2cXVlQnBKaHZOQ1BGMVVyOVd5dUJmSEwydFkyT254UQ?oc=5",
-        "source": "한국경제",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "'역시 안세영 라이벌' 日 야마구치 벽 높았다...심유진, 0-2 패배로 中 마스터스 16강 탈락→상대전적 5전 5패",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1NGc2E2eVlmb08yZFdXUWp3WC1MNmhfbkdHendKbG1MUjlJb01BTFZwYlFWdUNfNWdJWmd3aDBEcXVvaDZVRjJZNEZhQlVnSExxYllJT0xEaVFjSk96c0dWd2pvQTFqempFX1JZeW1QMm1QVzNPQlZ1OWFBa20tc1NZMFVsV2ttRy1j?oc=5",
-        "source": "조선일보",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "'김민재 잘못이 아니다'…2부리그 팀에 충격 실점에도 바이에른 뮌헨 콤파니 감독 두둔",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPRFlaUFJWR1lWT01ZeGVGNWRaNktyb0NucEdKSElDZG40eS1yV1J2bFh0XzdzQjJXYzJBSVdTNXJYZkhPeDB6dU5kWVlMX2NNMmhMTHltSC1oVzdj?oc=5",
-        "source": "네이트",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "`강인아 고마워` 지난 시즌과 달리 득점력 폭발, 라리가 주간 베스트11 선정",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMNDJjLW94b05ldjFHLUVnb0hFdGFaUjExckZnSTRoWUxOUERLS1RBVi00aTE1eTR3TEZwTEk1Ti1SNDd4NS1fUkYxVmV0T1llUUxudURmX0YxeXR2RlJac2VQV0dtUQ?oc=5",
-        "source": "마이데일리",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "'학폭' 한국 떠난 이재영, 유럽서 새출발?...근황 보니 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94U0lPZ0s5WE5JMEpTMWJ4LTJ0NUFPVWdhX1RYX0RET1dHdkxyQnQ5MmJXQVQwbzRZR0JBZlVQLVBBZlhoSUhZVHF6ckJCSW5nS3BZSElYeG9kSG1RVno5T1hQZGFyWHpwSUHSAW9BVV95cUxOZ3FRV2JodlRVUmtsRlA2OWpNZXVNNWVnQkZwWE5GRXU5ZXVtdEpINWtPX3FuMUdadTVWSkZ1TDhOc0d4d0JOMXNjSGJKWXVDWmRmLXozdENIem1VYXd3Zi1keW5NdUdqYUVPekM0enc?oc=5",
-        "source": "머니투데이",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "[사진]우규민에 미소 보이는 이강철 감독",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45Zjgzc2F3U1JiMXA1d3Qtb1k4Y05jZGNiV2tsQkx4RFNFbFN6bGRBMERzZEwzVWRUZWlUWmh6S1pKeWt3UHNRZ0MtTGwyTF91N1dhUQ?oc=5",
-        "source": "OSEN",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "11년째 하위권 구단이 40억달러… ‘요���경’ MLB",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pYXRfUU9ockdwb3dsVDZ5dVl1V2VIeG52dm00U3JGSVRYT1JZWnJ3dGk0WjhHZHZtVGlWdEplampteXpnRmZmUUhFZEI1amV0NFI5YVZIYThqcXNuMDYyMS12bkxfRV91dk9ycnhlYjNZdWJM0gFmQVVfeXFMT0FPV1Z6bEdJOHByOGJCbVhESklYVVYzelVnX041NFo1dktvOXRxVWp6TW5mU1otcERSWW9MeWV4SGlzaXZiT0dXbGZHcE56bi1GVFJzZDJDSWxXQ2NRNWFsM0VhVzRB?oc=5",
-        "source": "donga.com",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "손흥민, 4년 만에 패션 사업 접는다…“남은 시간 축구에 온전히 집중”",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ualBhVEVkVmoyUUE3V0szWXNFNGc3ZjM3SmtocHBKSXZDcW04LVprZzRyWEFZdVhXcEJwWkl0QjBFd3YzZF9YZ2lmM3VMdzRPZDN1Xw?oc=5",
-        "source": "매일경제",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "좋은 선수 원해? EPL선 ‘큰거 1장’이 기본",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb01NYUZYZW5naWFtMnBQV3A0RlNEUDhwdHJrQ18wdThHXzhMZlIyWmZwU3NfT1NsYXJxbUpIOWx0U0xKQUNON0s0WmhOdlZmWkFRU3VPUWxWbWxNcEFCSVo1X2F4dHA4dC1UZ3h6MHY0cXFIeTN4U1lnb0pUaGpEUmJhTHRYZVExQnBF?oc=5",
-        "source": "조선일보",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "김혜성 재능 이대로 썩나, 다저스 동료도 냉정한 평가 \"수비는 GG급인데…타격 안 되면 자리 없다\"",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVjFtSGx4ZHU0YWxqMVhXVUZXRUZDbjlvekppSXNxdkU3OTN0MXZMbzF1SkI5cTJ1SklsTkxod1pscUloNy0wbVJ3SjhuaHVxdDdHUFJuU2Z1MlZaOE9XdU5wNzYxWGpDNVZSUWdPd0VsSk00VVRVVGZEU2pRX25qU1gyOTNtazZYWV9J?oc=5",
-        "source": "조선일보",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "이정후, 대타로 나서 1타점 2루타…타율 0.283",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoa0VqOHJoc0tBZ29vN2lzczFpY185X0RBLXA1bjhuYmlzOVprb196Z2VJUUVqQktuelJsMW5zYVBWdTE3Z05ZbTZoR1kzRnZCbW9FMkVBZTNTSzA?oc=5",
-        "source": "KBS 뉴스",
-        "date": "2026-09-04"
-      },
-      {
-        "title": "“1위 못 뒤집을 승차 아냐” 고우석 한마디에 LG가 결집한다→오스틴도 격하게 환영 “고우석 가세, 엄청난 도움 될 것” - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ObHctcFYzTEpLVW9JNXh6TENJcVBmV081aXEyRExGRWhpSDYxM1V2bzBxUktSc0lxNzNRaVVLZ242MWZVNW5KRWNIb0FZd0k1SFByOEF4VktLRFpKZHR5RzFxc19oLWVUNXfSAW9BVV95cUxOSW1CMGhPQVhXVlBzNnlJVGU0TkU2MXlkNXdBbk5YQmg4UFQxVVhJbTFjdmlpWUwyaGlTMS1MRHJGRjNyWk0xNGxsNlg4dHUxdzluMlV2LXVId3FYd3E3YWFfRExUU1hyNDlHN0lyVUU?oc=5",
-        "source": "mt.co.kr",
         "date": "2026-09-04"
       },
       {
@@ -1445,9 +1465,21 @@
         "date": "2026-09-02"
       },
       {
+        "title": "괴력의 안현민 연타석 홈런, 주저앉은 왕옌청",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80ay1LVm5JN1FaclBPWHVFTjZkcXpaNjJPdklKMWRIbWRjeTVTRkpNcG1XVmdGMXNva0pRekRNS195eTBEeW1jazNRZjQwVXBRaUhKd2tJU2VFa2s?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-09-03"
+      },
+      {
         "title": "박항서, 작심 비판…\"학연보다 센 축협 카르펠, 그들만의 세상\"",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QeVByZU9kTlNRMk1sc1pVQ0c3S2oycDJnbmhHM2R0WmV6NFQwNTVvS3NJMTFKcUtjVlNaaEhLTGMyT0JqdzZVVzZsVFBpcnlyTTdMSQ?oc=5",
         "source": "JTBC",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "35초 남기고 '버저비터 이적'! '샬케 뉴 7번' 황희찬, 첫 훈련+'인디안밥' 신고식까지...샬케팬들은 엇갈린 반응",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV0pPWDRIQ2N4TXNWS0pWR2pGT3FtRVdXVU9lMXdoZ2FlNWhhUmluaU15eG1oVkJhVnRTbzFCS2ZGemlzd0diUXJrODAzdEZId1RNOF9rbm9XcUY1bjEzbEpGN1UzQXZVd3RfS1FEaVdCelUyeGU1a2pDOUlLQ1JYbjNad1RfaVVJa19j?oc=5",
+        "source": "조선일보",
         "date": "2026-09-04"
       },
       {
@@ -1472,6 +1504,12 @@
         "title": "[영상] 보기 안쓰러운 정우주…볼넷, 악송구, 폭투",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13a3VhS09yNkIyeVRoSGZDYUl6M1VBLUdPWTRiYTllN2xUUG56WHBHUEh5ajl4WWVwTmVkR0NiZXdqVmR6aXpyOWRWeVRTTlloajRfTnQ2WUtaZlE?oc=5",
         "source": "KBS 뉴스",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "‘尹 호위무사’ 이용, 6년 만에 썰매판 복귀…대표팀 총감독으로",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10bGZnWFc1aVZHVHdSN2NtUFl0aF9aM01iRnZfWnRkVW4zQnk1cGFZQVJYUXVYaE4wVEdnZ292dDJNV2tLczJvcE4tMmV1czdlRXk0MVdZT2ZlMFJMR2doQVBwczZnWV90eWoyQkM1LWgxSEZVallR0gFmQVVfeXFMUDkxenNack1sWDFmMmJqMTJKX0tCTDlMYXg4cEdmZkFQVHdTUy1VNmk3VERPZE9NMGtZZmhkYW9iMVRxVjItSEV5VGRmZU9RRDNvdGRyRzVWNXRCanM1N0RYN1V1a3d3?oc=5",
+        "source": "동아일보",
         "date": "2026-09-04"
       },
       {
@@ -1515,6 +1553,60 @@
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JSy1VTXJkZ24yRjdtZ211RVh4UkRNY1lxcEt0Zk1lcUZqdUh5ZGhjN0c0dmV0djlHcS1odTNKekVUSlJjTmNwVmwtOTRZWDBpVHJiVXpXRdIBXEFVX3lxTE0xVGszQ3RpZVExcExKU2o1dDIxSlN2SXNtb29nTTEtQkU1aUhsc3dEN3lZRTF5RmJMWWRMTy12NUEyaktWbzNlMk5IM0RUYlEyRnZ0bXEzWE5hZDN4?oc=5",
         "source": "뉴스1",
         "date": "2026-09-04"
+      },
+      {
+        "title": "\"감독과 성관계 거부하면 출전 시간 줄였다\"…美 대학 소프트볼 뒤흔든 '충격 소송'→女 감독, 女 선수에게 집요한 연락+호텔 호출 강요 의혹",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmRENtR0d3bW4zVGhyNXBwZjBEWGZJT01hcW1kS2djeV8wZ3I0R3FRbWwzeUxLYW5sd2RONmJxSlYxRzZuZ3RBaDc2Z1lPRndoR1QzTw?oc=5",
+        "source": "xportsnews.com",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "“AI인줄 알았는데”…‘176cm 9등신’ 극찬 쏟아진 일본여성의 정체",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94Y081VmxFSk5PemNfNGlNUDQzSkVQT1ZINVNtbGtpQ3Bva3V4dGlYRGY2WDUwSGFQWXZYbE00NWRCTUphZU9TY1djSkI0eHpEZ2c?oc=5",
+        "source": "매일경제",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "日 피겨 여신 안도 미키 \"만난 남성들 외도…대부분 차였다\"",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BSzdVVG5OREFYZ0VNZTR1bHBiT1ZtcGNGcGJFRDhmZllCZ29YRVIzUldtWVh5TVo4NWo2cXVlQnBKaHZOQ1BGMVVyOVd5dUJmSEwydFkyT254UQ?oc=5",
+        "source": "hankyung.com",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "'김민재 잘못이 아니다'…2부리그 팀에 충격 실점에도 바이에른 뮌헨 콤파니 감독 두둔",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPRFlaUFJWR1lWT01ZeGVGNWRaNktyb0NucEdKSElDZG40eS1yV1J2bFh0XzdzQjJXYzJBSVdTNXJYZkhPeDB6dU5kWVlMX2NNMmhMTHltSC1oVzdj?oc=5",
+        "source": "네이트",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "'역시 안세영 라이벌' 日 야마구치 벽 높았다...심유진, 0-2 패배로 中 마스터스 16강 탈락→상대전적 5전 5패",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1NGc2E2eVlmb08yZFdXUWp3WC1MNmhfbkdHendKbG1MUjlJb01BTFZwYlFWdUNfNWdJWmd3aDBEcXVvaDZVRjJZNEZhQlVnSExxYllJT0xEaVFjSk96c0dWd2pvQTFqempFX1JZeW1QMm1QVzNPQlZ1OWFBa20tc1NZMFVsV2ttRy1j?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "`강인아 고마워` 지난 시즌과 달리 득점력 폭발, 라리가 주간 베스트11 선정",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMNDJjLW94b05ldjFHLUVnb0hFdGFaUjExckZnSTRoWUxOUERLS1RBVi00aTE1eTR3TEZwTEk1Ti1SNDd4NS1fUkYxVmV0T1llUUxudURmX0YxeXR2RlJac2VQV0dtUQ?oc=5",
+        "source": "마이데일리",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "'학폭' 한국 떠난 이재영, 유럽서 새출발?...근황 보니 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94U0lPZ0s5WE5JMEpTMWJ4LTJ0NUFPVWdhX1RYX0RET1dHdkxyQnQ5MmJXQVQwbzRZR0JBZlVQLVBBZlhoSUhZVHF6ckJCSW5nS3BZSElYeG9kSG1RVno5T1hQZGFyWHpwSUHSAW9BVV95cUxOZ3FRV2JodlRVUmtsRlA2OWpNZXVNNWVnQkZwWE5GRXU5ZXVtdEpINWtPX3FuMUdadTVWSkZ1TDhOc0d4d0JOMXNjSGJKWXVDWmRmLXozdENIem1VYXd3Zi1keW5NdUdqYUVPekM0enc?oc=5",
+        "source": "mt.co.kr",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "11년째 하위권 구단이 40억달러… ‘요지경’ MLB",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pYXRfUU9ockdwb3dsVDZ5dVl1V2VIeG52dm00U3JGSVRYT1JZWnJ3dGk0WjhHZHZtVGlWdEplampteXpnRmZmUUhFZEI1amV0NFI5YVZIYThqcXNuMDYyMS12bkxfRV91dk9ycnhlYjNZdWJM0gFmQVVfeXFMT0FPV1Z6bEdJOHByOGJCbVhESklYVVYzelVnX041NFo1dktvOXRxVWp6TW5mU1otcERSWW9MeWV4SGlzaXZiT0dXbGZHcE56bi1GVFJzZDJDSWxXQ2NRNWFsM0VhVzRB?oc=5",
+        "source": "동아일보",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "김혜성 재능 이대로 썩나, 다저스 동료도 냉정한 평가 \"수비는 GG급인데…타격 안 되면 자리 없다\"",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVjFtSGx4ZHU0YWxqMVhXVUZXRUZDbjlvekppSXNxdkU3OTN0MXZMbzF1SkI5cTJ1SklsTkxod1pscUloNy0wbVJ3SjhuaHVxdDdHUFJuU2Z1MlZaOE9XdU5wNzYxWGpDNVZSUWdPd0VsSk00VVRVVGZEU2pRX25qU1gyOTNtazZYWV9J?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-02"
       },
       {
         "title": "아이유·수지도 입은 ‘손흥민 티셔츠’… NOS7, 4년만에 폐업, 왜",
