@@ -848,6 +848,266 @@
           "date": "2026-09-04"
         }
       ]
+    },
+    "뱀": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-05T07:12:00+09:00",
+      "lastSeen": "2026-09-05T07:12:00+09:00",
+      "news": [
+        {
+          "title": "'1박 2일' 촬영 중 뱀 출몰..김종민 \"이거 코브라야\" 흥분",
+          "url": "https://v.daum.net/v/20260904080607642",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "‘1박 2일’ 태백 몸보신 투어…‘태양의 후예’ 세트장 미션",
+          "url": "https://enter.etoday.co.kr/news/view/301939",
+          "source": "비즈엔터",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "‘1박2일’ 김종민X딘딘, 촬영 중 실제 뱀 등장에 혼비백산",
+          "url": "https://m.newsen.com/news_view.php?uid=202609040930150410",
+          "source": "뉴스엔",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "중앙일보": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-05T07:12:00+09:00",
+      "lastSeen": "2026-09-05T07:12:00+09:00",
+      "news": [
+        {
+          "title": "(설명) 중앙일보,\"검찰 지휘 사라지는데...특사경 사건은 60% 급증했다\" 기사 관련",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148971178",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "조국혁신당, 법무부 '수사준칙 입법예고'에 \"檢 부활 조항 삭제·수정해야\"",
+          "url": "https://www.newsis.com/view/NISX20260904_0003776767",
+          "source": "뉴시스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "檢 수사요청해도 警 입건 검토만?… ‘암장 방지책’ 유명무실 논란",
+          "url": "https://v.daum.net/v/20260903190552887",
+          "source": "Daum",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "지상렬": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T07:12:00+09:00",
+      "lastSeen": "2026-09-05T07:12:00+09:00",
+      "news": [
+        {
+          "title": "'인천 토박이' 지상렬, 16세 연하 ♥신보람 위해 서울로?...\"날 움직이게 할 사람 생겨\" (양락1번지)",
+          "url": "https://v.daum.net/v/Qn1M3WAitl",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "지상렬 \"♥'16세 연하' 신보람, 날 움직이게 하는 사람\" 애정 폭발 (양락1번지)",
+          "url": "https://news.nate.com/view/20260903n16860",
+          "source": "네이트",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "지상렬, '16세 연하♥' 신보람과 결혼하나..\"서울로 이사할 수도, 날 움직이게 한 사람\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-03/202609030100020970001201",
+          "source": "스포츠조선",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "реал бетис – реал мадрид": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T07:12:00+09:00",
+      "lastSeen": "2026-09-05T07:12:00+09:00",
+      "news": [
+        {
+          "title": "«Реал» проиграл «Бетису» в Ла Лиге, Мбаппе не забил с пенальти на 90+4-й минуте",
+          "url": "https://www.championat.ru/football/news-6608270-betis-real-madrid-rezultat-matcha-4-sentyabrya-2026-schet-1-0-4-j-tur-la-ligi-2026-2027.html",
+          "source": "https://www.championat.ru/",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "«Бетис» — «Реал»: где смотреть прямую трансляцию матча чемпионата Испании 4 сентября",
+          "url": "https://matchtv.ru/football/matchtvnews_NI2361451_Betis__Real_gde_smotret_pramuju_translaciju_matcha_chempionata_Ispanii_4_sentabra",
+          "source": "Матч ТВ",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Ла Лига. Драма с нереализованным пенальти Мбаппе на 90+4 минуте: Реал сенсационно проиграл Бетису",
+          "url": "https://www.ua-football.com/foreign/spain/1788554004-la-liga-drama-s-nerealizovannym-penalti-mbappe-na-904-minute-real-sensacionno-proigral-betisu.html",
+          "source": "UA-Football",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "중대범죄수사청": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T07:12:00+09:00",
+      "lastSeen": "2026-09-05T07:12:00+09:00",
+      "news": [
+        {
+          "title": "초대 중수청장 후보에 문홍주·이윤제 전 특검보 등 4명 올라",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6849720_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "중대범죄수사청 후보추천위원회 관련 브리핑",
+          "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156780329&pWise=sub&pWiseSub=J2",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "초대 중수청장 후보자 4명 압축...검찰 출신도 포함",
+          "url": "https://www.ytn.co.kr/_ln/0115_202609042240385807",
+          "source": "YTN",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "이자": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T07:12:00+09:00",
+      "lastSeen": "2026-09-05T07:12:00+09:00",
+      "news": [
+        {
+          "title": "'비싼 이자 탓' 10년 고정금리 주담대 외면⋯금융당국은 활성화 드라이브",
+          "url": "https://v.daum.net/v/20260905061127330",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"대출 연장하러 은행 갔다가 화들짝\"…1억 빌린 직장인 '날벼락'",
+          "url": "https://www.hankyung.com/article/2026090329281",
+          "source": "한국경제",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "5년 전 저금리 막차 탄 '영끌족' 이자폭탄…\"3억 주담대 원리금 연 950만원↑\"",
+          "url": "https://www.newsis.com/view/NISX20260902_0003773901",
+          "source": "뉴시스",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "신지": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-05T07:12:00+09:00",
+      "lastSeen": "2026-09-05T07:12:00+09:00",
+      "news": [
+        {
+          "title": "\"어떠신지 누구신지\"…문원♥신지 42㎏까지 '쏙' 몰라보게 홀쭉해진 비결",
+          "url": "https://www.newsis.com/view/NISX20260904_0003776325",
+          "source": "뉴시스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "'42kg' 신지, 언제까지 말라질거야…뾰족해진 턱선 찔리겠어",
+          "url": "https://v.daum.net/v/20260903193709688",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"금주의 힘?\"…신지, 42kg '뼈말라' 된 근황",
+          "url": "https://news.nate.com/view/20260904n00631?mid=e1100",
+          "source": "네이트",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "미국 해군": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-05T07:12:00+09:00",
+      "lastSeen": "2026-09-05T07:12:00+09:00",
+      "news": [
+        {
+          "title": "美해군, 차기 호위함에 ‘한국 충남급’ 등 검토",
+          "url": "https://v.daum.net/v/p3i6Rc6bzl?f=p",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "한화가 미국 군함까지 노린다?",
+          "url": "https://www.ytn.co.kr/_ln/0519_202609031905359891",
+          "source": "YTN",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "[쇼츠] 미 차세대 호위함 후보에 韓·日·튀르키예 '3파전'",
+          "url": "https://www.yna.co.kr/view/AKR20260903162300704",
+          "source": "연합뉴스",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "현대 포터": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T07:12:00+09:00",
+      "lastSeen": "2026-09-05T07:12:00+09:00",
+      "news": [
+        {
+          "title": "“네 덕분에 두 아이 키워” 29년 뛴 포터와 이별한 차주…현대차 “연락주세요”",
+          "url": "https://www.donga.com/news/Society/article/all/20260904/134609944/2",
+          "source": "동아일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "“29년간 44만8천㎞, 무사고로 달려준 내 친구…보내게 돼 정말 미안해”",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1276094.html",
+          "source": "한겨레",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"꼭 연락주세요\"…현대차, '29년 된 트럭' 주인 애타게 찾는다 [이슈+]",
+          "url": "https://www.hankyung.com/article/202609031953g",
+          "source": "한국경제",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "psg vs monaco": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T07:12:00+09:00",
+      "lastSeen": "2026-09-05T07:12:00+09:00",
+      "news": [
+        {
+          "title": "Paris Saint-Germain 1-2 AS Monaco: Paris fall at the hands of Ligue 1 leaders Monaco",
+          "url": "https://psgpost.com/paris-saint-germain-1-2-as-monaco-paris-fall-at-the-hands-of-ligue-1-leaders-monaco-01m1pt9rrg05",
+          "source": "PSG Post",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "PSG-Monaco XIs: Akliouche starts, Dembélé and Ferrán Torres benched!",
+          "url": "https://sports.yahoo.com/articles/psg-monaco-xis-akliouche-starts-182700327.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Lamine Camara and Aleksandr Golovin start as Monaco face PSG",
+          "url": "https://onefootball.com/en/news/lamine-camara-and-aleksandr-golovin-start-as-monaco-face-psg-43402710",
+          "source": "OneFootball",
+          "date": "2026-09-04"
+        }
+      ]
     }
   },
   "sections": {
