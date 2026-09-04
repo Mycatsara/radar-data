@@ -1255,10 +1255,10 @@
       ]
     },
     "박준형": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-04T19:13:00+09:00",
-      "lastSeen": "2026-09-04T20:40:00+09:00",
+      "lastSeen": "2026-09-04T21:17:00+09:00",
       "news": [
         {
           "title": "\"실루엣만 봐도 예뻐\"…박준형 '14살 연하' ♥아내 최초 공개, 여배우인 줄",
@@ -1319,10 +1319,10 @@
       ]
     },
     "등반": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-04T19:13:00+09:00",
-      "lastSeen": "2026-09-04T20:40:00+09:00",
+      "lastSeen": "2026-09-04T21:17:00+09:00",
       "news": [
         {
           "title": "출근길이 120m 암벽 등반…아슬아슬한 편의점 '화제'",
@@ -1563,10 +1563,10 @@
       ]
     },
     "대구광역시": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-04T19:41:00+09:00",
-      "lastSeen": "2026-09-04T20:40:00+09:00",
+      "lastSeen": "2026-09-04T21:17:00+09:00",
       "news": [
         {
           "title": "대구시, ‘데이터+AI 혁신 챌린지’ 참가자 모집…미개방 데이터로 지역 현안 푼다",
@@ -1601,10 +1601,10 @@
       ]
     },
     "인천e음": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-04T20:12:00+09:00",
-      "lastSeen": "2026-09-04T20:40:00+09:00",
+      "lastSeen": "2026-09-04T21:17:00+09:00",
       "news": [
         {
           "title": "인천e음 캐시백 지급 18일로 앞당겨…명절 앞 주말 장보기",
@@ -1627,10 +1627,10 @@
       ]
     },
     "노무라 증권": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-04T20:12:00+09:00",
-      "lastSeen": "2026-09-04T20:40:00+09:00",
+      "lastSeen": "2026-09-04T21:17:00+09:00",
       "news": [
         {
           "title": "노무라 \"67만전자·470만닉스 간다\"…메모리 슈퍼사이클에 베팅",
@@ -1665,10 +1665,10 @@
       ]
     },
     "안성시": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-04T20:12:00+09:00",
-      "lastSeen": "2026-09-04T20:40:00+09:00",
+      "lastSeen": "2026-09-04T21:17:00+09:00",
       "news": [
         {
           "title": "속초시 고향사랑기부대상 2년 연속 수상…비결은?",
@@ -1703,10 +1703,10 @@
       ]
     },
     "충북청주 대 서울e": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-04T20:40:00+09:00",
-      "lastSeen": "2026-09-04T20:40:00+09:00",
+      "lastSeen": "2026-09-04T21:17:00+09:00",
       "news": [
         {
           "title": "막판 실점에 대한 퀸타 충북청주 감독의 해법 \"마지막까지 우리 축구에 집중하면 돼\"[현장 인터뷰]",
@@ -1725,14 +1725,20 @@
           "url": "https://v.daum.net/v/20260903163309830",
           "source": "Daum",
           "date": "2026-09-04"
+        },
+        {
+          "title": "'무패 요정' 오스마르, 반등 이끌까…\"지금이 가장 중요한 시기\"",
+          "url": "https://m.news.nate.com/view/20260904n26841?mid=s02&list=recent&cpcd=",
+          "source": "네이트",
+          "date": "2026-09-04"
         }
       ]
     },
     "티빙": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-04T20:40:00+09:00",
-      "lastSeen": "2026-09-04T20:40:00+09:00",
+      "lastSeen": "2026-09-04T21:17:00+09:00",
       "news": [
         {
           "title": "티빙 \"침해사고에 따른 피해 시 1인당 300만원 보상\"",
@@ -1750,6 +1756,70 @@
           "title": "'티빙 해킹' 계정 4천만 개 육박‥\"해외로 유출\"",
           "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6849527_37012.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "3954만개 계정 정보 유출 티빙, “보안투자 4배로... 사이버 보험 등 고객 보상 제공”",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=145642",
+          "source": "보안뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "티빙 과실에 뿔난 이용자들…줄소송 확산 조짐",
+          "url": "https://v.daum.net/v/20260904115110216",
+          "source": "Daum",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "리사": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-04T21:17:00+09:00",
+      "lastSeen": "2026-09-04T21:17:00+09:00",
+      "news": [
+        {
+          "title": "리사 \"블랙핑크에 해 끼칠까 연애 숨겼다\"",
+          "url": "https://www.newsis.com/view/NISX20260904_0003776769",
+          "source": "뉴시스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "LISA 다큐멘터리 ‘Always Lalisa’, 2026년 10월 전 세계 아이맥스·극장 개봉",
+          "url": "https://hypebeast.kr/2026/9/always-lalisa-lisa-manobal-documentary-release-premiere-info",
+          "source": "Hypebeast.KR",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "“연애하면 인기 떨어져”…리사, K팝 스타의 삶 고백하다 오열",
+          "url": "https://v.daum.net/v/20260904112403062",
+          "source": "Daum",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "항공 승무원": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-04T21:17:00+09:00",
+      "lastSeen": "2026-09-04T21:17:00+09:00",
+      "news": [
+        {
+          "title": "승무원 청바지로 키링을?... 항공사들 별별 업사이클링",
+          "url": "https://www.chosun.com/economy/industry-company/2026/09/04/62ZP7K56YBGRDNKW34D32AGR4Y/",
+          "source": "조선일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "진에어 '자원순환의 날' 유니폼 활용 '업사이클링' 캠페인",
+          "url": "https://v.daum.net/v/20260904090710325",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "진에어, 6일 유니폼 재활용한 미니 파우치 키링 증정 행사",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04237766645576840",
+          "source": "마켓인",
           "date": "2026-09-04"
         }
       ]
