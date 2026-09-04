@@ -2,10 +2,10 @@
   "date": "2026-09-04",
   "keywords": {
     "노동조합": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
+      "lastSeen": "2026-09-04T15:17:00+09:00",
       "news": [
         {
           "title": "삼성전자 '노조 미가입자 정보 유출' 직원 6명 불구속 송치",
@@ -30,14 +30,20 @@
           "url": "https://v.daum.net/v/20260904120556677",
           "source": "Daum",
           "date": "2026-09-04"
+        },
+        {
+          "title": "경찰, 삼성전자 '노조 블랙리스트' 초기업노조 위원장 송치(종합)",
+          "url": "https://v.daum.net/v/20260904145357027",
+          "source": "Daum",
+          "date": "2026-09-04"
         }
       ]
     },
     "정우주": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
+      "lastSeen": "2026-09-04T15:17:00+09:00",
       "news": [
         {
           "title": "[영상] 보기 안쓰러운 정우주…볼넷, 악송구, 폭투",
@@ -60,10 +66,10 @@
       ]
     },
     "교과": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
+      "lastSeen": "2026-09-04T15:17:00+09:00",
       "news": [
         {
           "title": "호남대, 2027학년도 수시모집 1천575명 선발",
@@ -86,10 +92,10 @@
       ]
     },
     "네팔": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
+      "lastSeen": "2026-09-04T15:17:00+09:00",
       "news": [
         {
           "title": "수력발전소 터널서 네팔인 직원 2명 구조…참사 9일만",
@@ -124,10 +130,10 @@
       ]
     },
     "서울 지하철 2호선": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
+      "lastSeen": "2026-09-04T15:17:00+09:00",
       "news": [
         {
           "title": "[속보]지하철 2호선서 女 뒤에 딱붙어…SNS 달군 50대男 체포",
@@ -146,14 +152,20 @@
           "url": "https://imnews.imbc.com/news/2026/society/article/6849479_36918.html",
           "source": "MBC 뉴스",
           "date": "2026-09-04"
+        },
+        {
+          "title": "“지하철서 女뒤에 바짝”…목격담 이어진 ‘2호선 중년男’ 잡혔다",
+          "url": "https://www.donga.com/news/Society/article/all/20260903/134602888/2",
+          "source": "동아일보",
+          "date": "2026-09-04"
         }
       ]
     },
     "배영만": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
+      "lastSeen": "2026-09-04T15:17:00+09:00",
       "news": [
         {
           "title": "배영만 \"아침에 방긋 웃던 딸 사망 후 집안 풍비박산…이혼 후 세 남매 키워\"",
@@ -202,10 +214,10 @@
       ]
     },
     "세종문화회관": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
+      "lastSeen": "2026-09-04T15:17:00+09:00",
       "news": [
         {
           "title": "김동률을 보기 위한 관문…4일 ‘오래된 노래’ 예매 오픈",
@@ -280,10 +292,10 @@
       ]
     },
     "서용주": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-04T14:54:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
+      "lastSeen": "2026-09-04T15:17:00+09:00",
       "news": [
         {
           "title": "조국 \"은혜 갚으려 경고하니 오물 투척.. 李 지지율에 도움 안 될 것\"",
@@ -302,14 +314,20 @@
           "url": "https://www.munhwa.com/article/11614403",
           "source": "문화일보",
           "date": "2026-09-04"
+        },
+        {
+          "title": "조국 \"또 한 명의 '반이재명' 만드는 게 도움되는가\" - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/09/04/2026090413444135832",
+          "source": "머니투데이",
+          "date": "2026-09-04"
         }
       ]
     },
     "사고": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-04T14:54:00+09:00",
-      "lastSeen": "2026-09-04T14:54:00+09:00",
+      "lastSeen": "2026-09-04T15:17:00+09:00",
       "news": [
         {
           "title": "갑자기 왜 ‘급우회전’ 했나···‘6명 실종’ 부산 침몰 예인선, 컨테이너선 CCTV에 잡힌 정황",
@@ -327,6 +345,44 @@
           "title": "컨선 입항 돕던 중 방향 바꾸다 기우뚱…충돌 정황 없어",
           "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260904.22006001271",
           "source": "국제신문",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "이재룡, 뺑소니 사고 직후 식당 이동해 50분간 또 음주",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609040826549683",
+          "source": "YTN",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"이재룡, 사고 20분 만에 식당 찾아 또 소주 마셔\"…뺑소니 후 '술타기' 시도",
+          "url": "https://www.news1.kr/society/general-society/6279100",
+          "source": "뉴스1",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "피의 게임": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-04T15:17:00+09:00",
+      "lastSeen": "2026-09-04T15:17:00+09:00",
+      "news": [
+        {
+          "title": "'피의 게임' 현정완 PD, 디즈니플러스 새 예능 '술래게임' 론칭",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02889686645576840&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "디플, '운명전쟁49' 대박 나더니…'술래게임'으로 서바이벌 강자 굳히기",
+          "url": "https://m.news.nate.com/view/20260904n07745?mid=e01&list=recent&cpcd=",
+          "source": "네이트",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "디즈니+ ‘술래게임’, 현정완 PD 추격 서바이벌로 9월 출격",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16182854",
+          "source": "톱스타뉴스",
           "date": "2026-09-04"
         }
       ]
@@ -929,6 +985,12 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FSnhaSEVBS3BIT1VtZGoxTTBXS24xXzVxbm5DQlBvLURHTVJyOHktMTRjQjNKUkRjaWxxd3hqeE5XUjEtVmNVZy1FZ3V6WXd3R0ZLZDZ5S3rSAV5BVV95cUxPTVBZcnJsY0x4MzIxS3EzT1J2MUVnMVVwdkZUSHFNNlpUOXlKWnByNVNYNWVZang4dkZMb01lQlE1NWhZMkVnZHBhcXhDTFpIZlh0UGRCbVJ2Y1NWTE1n?oc=5",
         "source": "tokenpost.kr",
         "date": "2026-09-04"
+      },
+      {
+        "title": "운전대 없는 금빛車 떴다… 美 오스틴 달군 ‘사이버캡 헌팅’",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZkRLWkhiNVh6VnpkQ3N0OFhIMW54WUZld3A0aG0xa3FDYjNqUHpYZUlLclpQR1dXMGJDblNfNmNHX2x1RGVXcmZRVFpjN3QxTHhEcUdSN3lUUi13UzBtTW5zQXFVT0I0N1NGSTloSFI2WXE1MkpqSjNVM3RDRGxjaFQwcw?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-03"
       }
     ],
     "ENTERTAINMENT": [
@@ -1527,6 +1589,12 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fUTZOX21EMjliOVN3MTluM1VoanZFVENPOHRsbnlNMTYzOWk3c3Y4RVFMWWNidHlRSVE5Nl9YOFBhcUx5R2VBRkgxNlFBTzQ?oc=5",
         "source": "v.daum.net",
         "date": "2026-09-02"
+      },
+      {
+        "title": "[MLB] SF 이정후, 대타로 나서서 2루타 쾅!…9월 첫 안타·타점 기록",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OU2FRVGdDWThlM3lWNXFLaHRRZ1lqWnEteDlrb2lnakMtSjIzMloyTXdZSjNvcUNwRmM2WmxxVlBfZUo0cVdWSnhaeU1Yd1RUQldNZk44QUlxUQ?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-09-04"
       }
     ]
   }
