@@ -1108,6 +1108,260 @@
           "date": "2026-09-04"
         }
       ]
+    },
+    "송현옥": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T07:38:00+09:00",
+      "lastSeen": "2026-09-05T07:38:00+09:00",
+      "news": [
+        {
+          "title": "'오세훈 아내'라는 굴레…수십 년 인내한 끝에 내놓은 대답 [문화人터뷰]",
+          "url": "https://www.newsis.com/view/NISX20260904_0003776999",
+          "source": "뉴시스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "뉴시스와 인터뷰하는 송현옥 극단 물결 대표",
+          "url": "https://news.nate.com/view/20260904n29373",
+          "source": "네이트",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "모파상 원작 '의자 고치는 여인' 연극 연출한 송현옥",
+          "url": "https://mobile.newsis.com/photo/NISI20260902_0021420065",
+          "source": "뉴시스",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "김민하": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T07:38:00+09:00",
+      "lastSeen": "2026-09-05T07:38:00+09:00",
+      "news": [
+        {
+          "title": "‘파친코’ 김민하 맞아? 17kg 감량에 가슴뼈까지 드러나",
+          "url": "https://v.daum.net/v/20260905052749823",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "김민하, 가슴 뼈까지 드러난 근황…차기작 풍년 속 뼈마름 유지",
+          "url": "https://sports.khan.co.kr/article/202609041100003",
+          "source": "스포츠경향",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "김민하, 하늘색 눈동자에 깡마른 몸매…모든 게 파격 [SNS★샷]",
+          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/09/04/20260904500332",
+          "source": "서울신문",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "검찰청": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T07:38:00+09:00",
+      "lastSeen": "2026-09-05T07:38:00+09:00",
+      "news": [
+        {
+          "title": "초대 중수청장 후보자에 김관정·김지용·문홍주·이윤제 4명 추천",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6849686_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "중대범죄수사청장 후보추천위원회 회의 결과 브리핑",
+          "url": "https://www.yna.co.kr/view/PYH20260904153000013",
+          "source": "연합뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "초대 중수청장 후보 3인…윤석열 부부 수사했거나 갈등",
+          "url": "https://www.hani.co.kr/arti/area/area_general/1276330.html",
+          "source": "한겨레",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "박사랑": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-05T07:38:00+09:00",
+      "lastSeen": "2026-09-05T07:38:00+09:00",
+      "news": [
+        {
+          "title": "프로배구 GS칼텍스-SOOP, 리베로 유가람↔세터 박사랑 트레이드",
+          "url": "https://www.yna.co.kr/view/AKR20260904149600007",
+          "source": "연합뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "“공격력 극대화에 큰 도움” 이영택 감독 기대감…GS칼텍스, 유가람 내주고 ‘장신 세터’ 박사랑 품었다 [오피셜]",
+          "url": "https://v.daum.net/v/20260904170711449",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "프로배구 SOOP, GS칼텍스와 트레이드로 유가람 영입",
+          "url": "https://www.dailian.co.kr/news/view/1686700/%ED%94%84%EB%A1%9C%EB%B0%B0%EA%B5%AC-SOOP-GS%EC%B9%BC%ED%85%8D%EC%8A%A4-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%93%9C-2026",
+          "source": "데일리안",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "권은비": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-05T07:38:00+09:00",
+      "lastSeen": "2026-09-05T07:38:00+09:00",
+      "news": [
+        {
+          "title": "[Y터뷰] “서머퀸 품고 새로운 수식어도”…익숙함과 새로움 사이, 권은비의 ‘데자뷰'",
+          "url": "https://www.ytn.co.kr/_sn/0117_202609030700021003",
+          "source": "YTN",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "권은비 \"급하게 붓기랑 살 빼봤다\"…사우나 관리 전 챙겨야 할 것 [헬스톡]",
+          "url": "https://v.daum.net/v/20260904052207061?f=p",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "소속사 이적 후 첫 컴백…확 달라진 권은비, 청량 서머송 귀환 [N이슈]",
+          "url": "https://www.news1.kr/entertain/music/6278417",
+          "source": "뉴스1",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "민혜연": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T07:38:00+09:00",
+      "lastSeen": "2026-09-05T07:38:00+09:00",
+      "news": [
+        {
+          "title": "주진모, 오랜만에 근황..아내 ♥민혜연 \"예쁘지 않아?\"에 현실 반응",
+          "url": "https://v.daum.net/v/Quy30A8Bvq",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "주진모, '11살 연하' ♥민혜연에 냉정 \"예쁘긴한데, 머리가 산발\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-04/202609040100032780002064",
+          "source": "스포츠조선",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "터널": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-05T07:38:00+09:00",
+      "lastSeen": "2026-09-05T07:38:00+09:00",
+      "news": [
+        {
+          "title": "옷으로 물 걸러 마시고 기도로 버텼다…네팔 터널서 2명 기적의 생환",
+          "url": "https://v.daum.net/v/20260905070207639",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "“한국인 실종지역 도보 수색 불허”…헬기·드론 수색 계속",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8655486",
+          "source": "KBS 뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "네팔 홍수 ‘9일만의 기적’… 발전소 터널서 2명 구조",
+          "url": "https://www.donga.com/news/Inter/article/all/20260904/134609721/2",
+          "source": "동아일보",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "파리바게뜨": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-05T07:38:00+09:00",
+      "lastSeen": "2026-09-05T07:38:00+09:00",
+      "news": [
+        {
+          "title": "\"70% 할인받자\"···파리바게뜨 행사에 해피포인트 앱 접속 지연",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026090408343112978",
+          "source": "뉴스웨이",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "파리바게뜨, 오늘(4일) 최대 70% 할인 쿠폰 제공... 받는 법은?",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1179697",
+          "source": "금강일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "파리바게뜨, '겉바속쫄' 식감 구현한 '크로켓' 2종 선봬",
+          "url": "https://www.newsis.com/view/NISX20260903_0003774254",
+          "source": "뉴시스",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "betis đấu với real madrid": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T07:38:00+09:00",
+      "lastSeen": "2026-09-05T07:38:00+09:00",
+      "news": [
+        {
+          "title": "Video bóng đá Real Betis - Real Madrid: Mbappe phung phí 11m, trái đắng khó nuốt (La Liga)",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-betis-real-madrid-mbappe-phung-phi-trai-dang-kho-nuot-la-liga-c48a1792140.html",
+          "source": "Tin tức 24h",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Mourinho và Pellegrini chính thức khép lại hơn thập kỷ thù địch",
+          "url": "https://bongdaplus.vn/la-liga/mourinho-va-pellegrini-chinh-thuc-khep-lai-hon-thap-ky-thu-dich-5154722609.html",
+          "source": "Tạp chí Bóng đá",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "VÒNG 04 LALIGA EA SPORTS: Hành trình rực rỡ giờ mới bắt đầu!",
+          "url": "https://www.sctv.com.vn/tin-tuc/the-thao/vong-04-laliga-ea-sports-hanh-trinh-ruc-ro-gio-moi-bat-dau",
+          "source": "Truyền hình cáp SCTV",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "라리가": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T07:38:00+09:00",
+      "lastSeen": "2026-09-05T07:38:00+09:00",
+      "news": [
+        {
+          "title": "‘4분 만에 합작골’ 이강인-바에나 듀오, 또 ‘투톱’ 뜬다…아틀레틱 클루브전도 최전방 출격 전망",
+          "url": "https://v.daum.net/v/20260904181608765",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "'아틀레티코 핵심' 이강인, 빌바오전서 연속 공격포인트 정조준",
+          "url": "https://www.newsis.com/view/NISX20260904_0003776709",
+          "source": "뉴시스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "AT 마드리드서 날개 단 이강인…빌바오 원정서 또 번뜩일까",
+          "url": "https://www.news1.kr/sports/overseas-soccer/6280268",
+          "source": "뉴스1",
+          "date": "2026-09-04"
+        }
+      ]
     }
   },
   "sections": {
