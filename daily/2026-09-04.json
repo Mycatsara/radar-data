@@ -747,10 +747,10 @@
       ]
     },
     "견미리": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-04T17:14:00+09:00",
-      "lastSeen": "2026-09-04T17:42:00+09:00",
+      "lastSeen": "2026-09-04T18:13:00+09:00",
       "news": [
         {
           "title": "‘견미리 딸’ 이유비, 90억 저택 떠나 초호화 자취집 공개…“인생 첫 자취. 집 데이트 로망”",
@@ -775,14 +775,20 @@
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/04/MZQWCNJQMIYTMYZSGBTDKNJQGM/",
           "source": "Chosunbiz",
           "date": "2026-09-04"
+        },
+        {
+          "title": "이유비 \"솔로 3년 차, 연애 세포 무덤에 묻혔다\"",
+          "url": "https://www.newsis.com/view/NISX20260904_0003776140",
+          "source": "뉴시스",
+          "date": "2026-09-04"
         }
       ]
     },
     "하주석": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-04T17:14:00+09:00",
-      "lastSeen": "2026-09-04T17:42:00+09:00",
+      "lastSeen": "2026-09-04T18:13:00+09:00",
       "news": [
         {
           "title": "[사진]김도영,'구슬땀 훈련'",
@@ -817,10 +823,10 @@
       ]
     },
     "대한민국 문화체육관광부": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-04T17:14:00+09:00",
-      "lastSeen": "2026-09-04T17:42:00+09:00",
+      "lastSeen": "2026-09-04T18:13:00+09:00",
       "news": [
         {
           "title": "전 세계 재외한국문화원, '케이-라이프스타일' 체험·수출 거점으로 거듭난다",
@@ -843,10 +849,10 @@
       ]
     },
     "심유진": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-04T17:14:00+09:00",
-      "lastSeen": "2026-09-04T17:42:00+09:00",
+      "lastSeen": "2026-09-04T18:13:00+09:00",
       "news": [
         {
           "title": "믿을 수 없는 샷의 향연…3연패 향해 순항",
@@ -881,10 +887,10 @@
       ]
     },
     "총파업": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-04T17:14:00+09:00",
-      "lastSeen": "2026-09-04T17:42:00+09:00",
+      "lastSeen": "2026-09-04T18:13:00+09:00",
       "news": [
         {
           "title": "금융노조 총파업‥\"임금 인상·지방 이전 반대\"",
@@ -903,14 +909,26 @@
           "url": "https://v.daum.net/v/20260904153208551",
           "source": "Daum",
           "date": "2026-09-04"
+        },
+        {
+          "title": "“서울을 떠나라고?”...광화문에 선 1만5000명 금융노동자들 [이슈+]",
+          "url": "https://m.ekn.kr/view.php?key=20260904020450884",
+          "source": "에너지경제신문",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "금감원 노조 \"지방이전, 금융산업 경쟁력 후퇴·금융소비자 피해 우려\" 탄원서 제출",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6849659_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-04"
         }
       ]
     },
     "솔리 다임": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-04T17:14:00+09:00",
-      "lastSeen": "2026-09-04T17:14:00+09:00",
+      "lastSeen": "2026-09-04T18:13:00+09:00",
       "news": [
         {
           "title": "SK하이닉스 '솔리다임 중복상장' D-Day … 주가 향방에 '촉각'",
@@ -929,14 +947,20 @@
           "url": "https://biz.sbs.co.kr/article/20000332816",
           "source": "SBS Biz",
           "date": "2026-09-04"
+        },
+        {
+          "title": "SK하닉 \"솔리다임 IPO 추진 미확정\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04375526645576840",
+          "source": "마켓인",
+          "date": "2026-09-04"
         }
       ]
     },
     "카카오 멤버십": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-04T17:14:00+09:00",
-      "lastSeen": "2026-09-04T17:42:00+09:00",
+      "lastSeen": "2026-09-04T18:13:00+09:00",
       "news": [
         {
           "title": "[단독]카카오멤버십 기본구독료 4900원…네이버와 정면승부 - 머니투데이",
@@ -980,6 +1004,84 @@
           "title": "[기자수첩] 반도체 IPO 러시, 중요한 건 그 다음이다",
           "url": "https://www.viva100.com/article/20260902501479",
           "source": "브릿지경제",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "조명우": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-04T18:13:00+09:00",
+      "lastSeen": "2026-09-04T18:13:00+09:00",
+      "news": [
+        {
+          "title": "“애버리지 0.022차” 정예성 조1위로 32강 본선行…조명우 허정한 김행직 등 韓 7명 본선 진출[리르3쿠션월드컵]",
+          "url": "https://mkbn.mk.co.kr/news/sports/12144149",
+          "source": "mkbn.mk.co.kr",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "생생 당구 현장|최종 예선 I조 차명종, 최완영과 접전 끝에 승리…한국 선수 대전 승자됐다 (리르 3쿠션 월드컵) [포커스]",
+          "url": "https://m.news.zum.com/photo/58124129/107554729?cm=news_photolist&r=4&thumb=1",
+          "source": "ZUM 뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "한국 3쿠션 8명, 리르 월드컵 본선행 최종예선 출격",
+          "url": "https://www.etoday.co.kr/news/view/2621662",
+          "source": "이투데이",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "노동자": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-04T18:13:00+09:00",
+      "lastSeen": "2026-09-04T18:13:00+09:00",
+      "news": [
+        {
+          "title": "이 대통령, ‘노조 불법에 건설사 피해’ 지적에 “사례 보내달라…노사 간 균형점 최선”",
+          "url": "https://www.khan.co.kr/article/202609040950001",
+          "source": "경향신문",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "이 대통령, 건설 현장 불법행위 점검 지시…“일방적으로 노동자 편만 들진 않아”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8654703",
+          "source": "KBS 뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "이 대통령 “노동자 출신이지만 일방적 노동자 편만 들지 않는다”",
+          "url": "https://www.seoul.co.kr/news/politics/2026/09/04/20260904500038",
+          "source": "서울신문",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "최지 만": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-04T18:13:00+09:00",
+      "lastSeen": "2026-09-04T18:13:00+09:00",
+      "news": [
+        {
+          "title": "'와' 퓨처스 씹어먹는 최지만 보소! 구단 선정 8월 야수 MVP 등극→투수는 'ERA 0.82' 고바야시",
+          "url": "https://v.daum.net/v/20260904101038373",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "울산웨일즈, 팀 8월 MVP에 고바야시·최지만 선정",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065578259585193",
+          "source": "울산종합일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "최병용, KBO 신인 드래프트 두 번째 도전…“야구로 보여줄 것”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8652512",
+          "source": "KBS 뉴스",
           "date": "2026-09-04"
         }
       ]
