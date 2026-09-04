@@ -2,10 +2,10 @@
   "date": "2026-09-04",
   "keywords": {
     "노동조합": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T15:17:00+09:00",
+      "lastSeen": "2026-09-04T15:45:00+09:00",
       "news": [
         {
           "title": "삼성전자 '노조 미가입자 정보 유출' 직원 6명 불구속 송치",
@@ -40,10 +40,10 @@
       ]
     },
     "정우주": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T15:17:00+09:00",
+      "lastSeen": "2026-09-04T15:45:00+09:00",
       "news": [
         {
           "title": "[영상] 보기 안쓰러운 정우주…볼넷, 악송구, 폭투",
@@ -66,10 +66,10 @@
       ]
     },
     "교과": {
-      "count": 3,
-      "maxTraffic": 1000,
+      "count": 4,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T15:17:00+09:00",
+      "lastSeen": "2026-09-04T15:45:00+09:00",
       "news": [
         {
           "title": "호남대, 2027학년도 수시모집 1천575명 선발",
@@ -88,14 +88,26 @@
           "url": "https://daily.hankooki.com/news/articleView.html?idxno=1402838",
           "source": "데일리한국",
           "date": "2026-09-04"
+        },
+        {
+          "title": "계명대 수시 4109명 선발 전체 88.7%…지역의사제 15명 선발",
+          "url": "https://v.daum.net/v/20260904102410053",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "가천대, 전 학과 AI 전환…‘AX-GACHON’ 가동",
+          "url": "http://www.incheonilbo.com/news/articleView.html?idxno=1331249",
+          "source": "인천일보",
+          "date": "2026-09-04"
         }
       ]
     },
     "네팔": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T15:17:00+09:00",
+      "lastSeen": "2026-09-04T15:45:00+09:00",
       "news": [
         {
           "title": "수력발전소 터널서 네팔인 직원 2명 구조…참사 9일만",
@@ -130,10 +142,10 @@
       ]
     },
     "서울 지하철 2호선": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-04T14:48:00+09:00",
-      "lastSeen": "2026-09-04T15:17:00+09:00",
+      "lastSeen": "2026-09-04T15:45:00+09:00",
       "news": [
         {
           "title": "[속보]지하철 2호선서 女 뒤에 딱붙어…SNS 달군 50대男 체포",
@@ -362,10 +374,10 @@
       ]
     },
     "피의 게임": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-04T15:17:00+09:00",
-      "lastSeen": "2026-09-04T15:17:00+09:00",
+      "lastSeen": "2026-09-04T15:45:00+09:00",
       "news": [
         {
           "title": "'피의 게임' 현정완 PD, 디즈니플러스 새 예능 '술래게임' 론칭",
@@ -383,6 +395,110 @@
           "title": "디즈니+ ‘술래게임’, 현정완 PD 추격 서바이벌로 9월 출격",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16182854",
           "source": "톱스타뉴스",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "김상혁": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-04T15:45:00+09:00",
+      "lastSeen": "2026-09-04T15:45:00+09:00",
+      "news": [
+        {
+          "title": "'음주운전' 김상혁, 이혼 6년만 '미스코리아 출신' 女와 소개팅 ('신랑수업')",
+          "url": "https://v.daum.net/v/20260904104152081",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "'신랑수업2' 김상혁, 미스코리아 출신 소개팅녀에 광대 승천...\"좋았다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/04/2026090411337239506",
+          "source": "머니투데이",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "돌싱 김상혁, 미코 출신 소개팅女와 초고속 손잡기…\"아름다운 분\" 광대 승천",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6279919",
+          "source": "뉴스1",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "코넥스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-04T15:45:00+09:00",
+      "lastSeen": "2026-09-04T15:45:00+09:00",
+      "news": [
+        {
+          "title": "코스닥 시총 상폐기준 강화 6개월 유예한다…코넥스로 이전상장 도입",
+          "url": "https://www.hankyung.com/article/2026090439546",
+          "source": "한국경제",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "정부 “일정 재무요건 갖춘 기업, 정리매매 없이 코넥스 이전상장 허용”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8654723",
+          "source": "KBS 뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "코스닥 퇴출 충격 줄인다… 정리매매 없이 코넥스 이전상장",
+          "url": "https://www.munhwa.com/article/11614611",
+          "source": "문화일보",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "전국삼성전자노동조합": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-04T15:45:00+09:00",
+      "lastSeen": "2026-09-04T15:45:00+09:00",
+      "news": [
+        {
+          "title": "삼성·SK ‘호남반도체 팹’·현대차 ‘아틀라스’ 물건너간다 [노봉법 시행 지침 파장]",
+          "url": "https://v.daum.net/v/20260904114839117",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "‘N% 성과급’ 교섭 제외 지침에…민주노총, 농성 돌입",
+          "url": "https://www.hani.co.kr/arti/society/labor/1276264.html",
+          "source": "한겨레",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"호남 반대\" 노조에 반도체 발 묶이나...\"반쪽짜리\" 재계 우려 나온 이유 - 머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/09/04/2026090318451930900",
+          "source": "머니투데이",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "김현지": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-04T15:45:00+09:00",
+      "lastSeen": "2026-09-04T15:45:00+09:00",
+      "news": [
+        {
+          "title": "이번엔 서용주? 장르만 여의도 “인사라인이 김현지잖아” 논란",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336895",
+          "source": "미디어오늘",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "與 서용주 \"인사라인 김현지잖아\"…논란 일자 \"농담\" 해명 [영상]",
+          "url": "https://www.hankyung.com/article/202609044436H",
+          "source": "한국경제",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"청와대 인사라인은 김현지잖아\" 또 논란 낳은 장르만여의도, 청와대 반응이 궁금하다",
+          "url": "https://www.huffingtonpost.kr/article/260171",
+          "source": "허프포스트코리아",
           "date": "2026-09-04"
         }
       ]
