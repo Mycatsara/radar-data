@@ -715,10 +715,10 @@
       ]
     },
     "뷔": {
-      "count": 2,
-      "maxTraffic": 1000,
+      "count": 3,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-04T17:14:00+09:00",
-      "lastSeen": "2026-09-04T17:42:00+09:00",
+      "lastSeen": "2026-09-04T18:41:00+09:00",
       "news": [
         {
           "title": "방탄소년단 뷔, 팬심 사로잡는 '남친짤'",
@@ -742,6 +742,12 @@
           "title": "방탄소년단 뷔, 팬심 사로잡는 '남친짤'",
           "url": "https://m.news.nate.com/view/20260903n04575?mid=e01&list=recent&cpcd=",
           "source": "네이트",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "할리우드 스타 엘고트, 서울 K컬처 행사에 日 '유카타' 옷…주최측 말도 무시",
+          "url": "https://www.news1.kr/society/general-society/6279732",
+          "source": "뉴스1",
           "date": "2026-09-04"
         }
       ]
@@ -1009,10 +1015,10 @@
       ]
     },
     "조명우": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-04T18:13:00+09:00",
-      "lastSeen": "2026-09-04T18:13:00+09:00",
+      "lastSeen": "2026-09-04T18:41:00+09:00",
       "news": [
         {
           "title": "“애버리지 0.022차” 정예성 조1위로 32강 본선行…조명우 허정한 김행직 등 韓 7명 본선 진출[리르3쿠션월드컵]",
@@ -1035,10 +1041,10 @@
       ]
     },
     "노동자": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-04T18:13:00+09:00",
-      "lastSeen": "2026-09-04T18:13:00+09:00",
+      "lastSeen": "2026-09-04T18:41:00+09:00",
       "news": [
         {
           "title": "이 대통령, ‘노조 불법에 건설사 피해’ 지적에 “사례 보내달라…노사 간 균형점 최선”",
@@ -1061,10 +1067,10 @@
       ]
     },
     "최지 만": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-04T18:13:00+09:00",
-      "lastSeen": "2026-09-04T18:13:00+09:00",
+      "lastSeen": "2026-09-04T18:41:00+09:00",
       "news": [
         {
           "title": "'와' 퓨처스 씹어먹는 최지만 보소! 구단 선정 8월 야수 MVP 등극→투수는 'ERA 0.82' 고바야시",
@@ -1082,6 +1088,168 @@
           "title": "최병용, KBO 신인 드래프트 두 번째 도전…“야구로 보여줄 것”",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8652512",
           "source": "KBS 뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "최병용, KBO 신인 드래프트 두 번째 도전…“야구로 보여줄 것”",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8652512",
+          "source": "KBS 뉴스",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "kt 대 kia": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-04T18:41:00+09:00",
+      "lastSeen": "2026-09-04T18:41:00+09:00",
+      "news": [
+        {
+          "title": "이범호 감독 후덜덜.. 떨게 만든 공포의 경기력 → \"무섭더라\" [광주 현장]",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/04/GZRWINLCGM3DIOBVMNQTOYLGHA/",
+          "source": "조선일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"정신 바짝 차려야\" KIA, '2승9패' 이를 어찌할꼬…그런데 이 팀과 5G를 더 치러야 한다니 [창원 현장]",
+          "url": "https://m.news.nate.com/view/20260903n14716?issue_sq=8588",
+          "source": "네이트",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "“KT 무섭더라, 공격력도 좋고 고참들이…” KIA 꽃범호의 1위 마법사군단 경계, 지금부터 ‘운명의 7G’[MD광주]",
+          "url": "https://www.mydaily.co.kr/page/view/2026090416463902303",
+          "source": "마이데일리",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "한화 대 롯데": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-04T18:41:00+09:00",
+      "lastSeen": "2026-09-04T18:41:00+09:00",
+      "news": [
+        {
+          "title": "\"힘들어 하는 게 보여\"...'신인왕 1순위' 주전 포수 슬럼프인가, 재충전 필요했다 [오!쎈 부산]",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/04/MZSGCMLCMU4DCMDCMFTDSZLBMU/",
+          "source": "조선일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "[AI프리뷰] 4일 부산 롯데-한화전, 9연패 빠진 한화와 반등 필요한 롯데 김진욱",
+          "url": "https://www.newspim.com/news/view/20260904000568",
+          "source": "뉴스핌",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "한동희 시즌 최다 홈런 도전! 손호영도 선발...'6연패 탈출' 롯데, 한화 10연패 몰아넣나 [오!쎈 부산]",
+          "url": "https://www.osen.co.kr/article/G1112869679",
+          "source": "OSEN",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "nc 대 키움": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-04T18:41:00+09:00",
+      "lastSeen": "2026-09-04T18:41:00+09:00",
+      "news": [
+        {
+          "title": "NCT 재민, 키움히어로즈 시구 나선다…'와인드업' 인연으로 야구장 출격",
+          "url": "https://www.newspim.com/news/view/20260904000812",
+          "source": "뉴스핌",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "'전광판 아티스트' NCT 재민, 첫 시구 도전…6일 고척에 뜬다",
+          "url": "https://m.news.nate.com/view/20260904n25688",
+          "source": "네이트",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "‘야구 드라마 주연’ NCT 재민, 고척스카이돔 마운드 오른다",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04185286645576840&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "이효리": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-04T18:41:00+09:00",
+      "lastSeen": "2026-09-04T18:41:00+09:00",
+      "news": [
+        {
+          "title": "'이상순♥' 이효리, 기쁜 소식 전했다…또 하나의 기념일 생겼네",
+          "url": "https://v.daum.net/v/20260904131050830",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "이효리, 이상순 등 위에 올라타 요가…장난기 가득",
+          "url": "https://www.donga.com/news/Culture/article/all/20260904/134605501/1",
+          "source": "동아일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "이효리, 요가원 개업 1주년…선물은 사양이라더니, 귀여운 선물 보따리",
+          "url": "https://www.tenasia.co.kr/article/2026090443644",
+          "source": "텐아시아",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "장 한별": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-04T18:41:00+09:00",
+      "lastSeen": "2026-09-04T18:41:00+09:00",
+      "news": [
+        {
+          "title": "1500석이 50초 만에 동났다…‘무명 16년’ 장한별의 역전극",
+          "url": "https://v.daum.net/v/20260904084800631",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "치대 그만두고 노래 택했다…16년 만에 완성한 '무명전설'",
+          "url": "https://www.mk.co.kr/news/culture/12143636",
+          "source": "매일경제",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "마침내 전성기 맞은 장한별, \"무대가 얼마나 소중한지 알고 그만큼 많이 노력하고 있다\"",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16181234",
+          "source": "톱스타뉴스",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "국립순천대학교": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-04T18:41:00+09:00",
+      "lastSeen": "2026-09-04T18:41:00+09:00",
+      "news": [
+        {
+          "title": "국립의대 후보 탈락 목포대·지역사회 반발…'소송·고발'(종합)",
+          "url": "https://v.daum.net/v/20260904164954749",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"부지 소유권 없는 순천대가 국립의대 후보?\"…심사위원 8명 경찰 수사",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003264558",
+          "source": "OhmyNews",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"시유지 내 의대설립 불가\"…법적 장벽 맞닥뜨린 순천대 의대",
+          "url": "https://view.asiae.co.kr/article/2026090414514477609",
+          "source": "아시아경제",
           "date": "2026-09-04"
         }
       ]
