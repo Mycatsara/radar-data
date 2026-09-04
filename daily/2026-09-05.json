@@ -1364,10 +1364,10 @@
       ]
     },
     "삼성sdi": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-05T08:11:00+09:00",
-      "lastSeen": "2026-09-05T08:11:00+09:00",
+      "lastSeen": "2026-09-05T08:37:00+09:00",
       "news": [
         {
           "title": "[특징주] 삼성SDI, 국내 ESS 시장 확대 기대에 4%대 강세",
@@ -1593,6 +1593,215 @@
           "title": "운전대도 페달도 없는 테슬라 로보택시 달린다…‘AI 기업’ 변신 승부수 통할까",
           "url": "https://www.khan.co.kr/article/202609041352001",
           "source": "경향신문",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "에이브 러햄 링컨": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-05T08:37:00+09:00",
+      "lastSeen": "2026-09-05T08:37:00+09:00",
+      "news": [
+        {
+          "title": "'지옥에 다녀온' 5천 미군‥\"땅이다\" 파타야 우르르",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6849661_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "만신창이로 등장한 링컨함 \"지옥 다녀온 듯\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609031923265533",
+          "source": "YTN",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "286일간 무슨 일이…\"전염병처럼 번진다\" 태국에 나타난 美항모 모습 '충격'",
+          "url": "https://v.daum.net/v/VuSofuSrAG",
+          "source": "Daum",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "민혜 연": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-05T08:37:00+09:00",
+      "lastSeen": "2026-09-05T08:37:00+09:00",
+      "news": [
+        {
+          "title": "주진모, 오랜만에 근황..아내 ♥민혜연 \"예쁘지 않아?\"에 현실 반응",
+          "url": "https://v.daum.net/v/20260905000356888",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "주진모, '11살 연하' ♥민혜연에 냉정 \"예쁘긴한데, 머리가 산발\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-04/202609040100032780002064",
+          "source": "스포츠조선",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "기안84": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T08:37:00+09:00",
+      "lastSeen": "2026-09-05T08:37:00+09:00",
+      "news": [
+        {
+          "title": "네팔 대홍수 속 무사하다던 '기안84 셰르파' 라이, 아산서 깜짝 포착",
+          "url": "https://www.news1.kr/society/general-society/6280444",
+          "source": "뉴스1",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "무사하다던 ‘태계일주’ 라이의 놀라운 근황, 한국에 있었다",
+          "url": "https://sports.khan.co.kr/article/202609040914003",
+          "source": "스포츠경향",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "기안84 네팔 동생 라이, 韓에 있었다…홍수 대참사 생존→유학 시작",
+          "url": "https://v.daum.net/v/20260904180753572?f=p",
+          "source": "Daum",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "한국갤럽": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T08:37:00+09:00",
+      "lastSeen": "2026-09-05T08:37:00+09:00",
+      "news": [
+        {
+          "title": "[뉴스 즉설]민주당보다 못한 이 대통령 지지율, 김승원·용혜인 카드는 '자충수'",
+          "url": "https://v.daum.net/v/20260905060841318",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "[민심 X-ray] 통하지 않은 개각 카드…李, 20대 지지율 ‘첫 20%대’ 비상",
+          "url": "https://v.daum.net/v/20260905072638909",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "이재명 대통령 지지율 40% '취임 후 최저'…국민의힘 5%p 급등 - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/09/04/2026090410245980403",
+          "source": "머니투데이",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "선수": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-05T08:37:00+09:00",
+      "lastSeen": "2026-09-05T08:37:00+09:00",
+      "news": [
+        {
+          "title": "정말 선수 맞아? 실력만큼 외모도 뜨겁다 \"눈을 둘 데가 없다, 정말 환상적\"…日서 외모-성공 관계까지 갑론을박",
+          "url": "https://v.daum.net/v/20260905034641128",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "축구협회, 지소연 향한 심판의 부적절 발언 공정위에 이첩",
+          "url": "https://www.yna.co.kr/view/AKR20260903161800007",
+          "source": "연합뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "[여성 스포츠 인권①] 경기력 대신 몸매 평가…여성 선수에 더 가혹한 '성적 대상화'",
+          "url": "https://sports.news.nate.com/view/20260904n02559",
+          "source": "네이트",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "연평부대": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T08:37:00+09:00",
+      "lastSeen": "2026-09-05T08:37:00+09:00",
+      "news": [
+        {
+          "title": "“태권선수 여대생이?”연평부대 전차소대장 정체",
+          "url": "https://www.munhwa.com/article/11614515",
+          "source": "문화일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "제76주년 여군의 날, 서북도서 최전방을 지키는 연평부대 군인들",
+          "url": "https://www.yna.co.kr/view/PYH20260904011900013",
+          "source": "연합뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "서북도서 최전방엔 '해병 여군 4인방' 있다…\"적 도발엔 단호하게\"",
+          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6279877",
+          "source": "뉴스1",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "klasemen real betis vs real madrid": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T08:37:00+09:00",
+      "lastSeen": "2026-09-05T08:37:00+09:00",
+      "news": []
+    },
+    "us open": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T08:37:00+09:00",
+      "lastSeen": "2026-09-05T08:37:00+09:00",
+      "news": [
+        {
+          "title": "'It's so strong' - Sabalenka halts play over cannabis smell",
+          "url": "https://www.bbc.com/sport/tennis/articles/c4gm2607p0zo",
+          "source": "BBC",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Pegula surprises with her opinion on marijuana and influencers at the US Open",
+          "url": "https://www.puntodebreak.com/en/2026/09/04/pegula-surprises-with-her-opinion-on-marijuana-and-influencers-at-the-us-open",
+          "source": "Puntodebreak",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Sabalenka survives despite 'tricky' weed smell at US Open",
+          "url": "https://www.rfi.fr/en/sports/20260904-sabalenka-survives-despite-tricky-weed-smell-at-us-open",
+          "source": "RFI",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "mu": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T08:37:00+09:00",
+      "lastSeen": "2026-09-05T08:37:00+09:00",
+      "news": [
+        {
+          "title": "MU Stock Gains, but the 50-Day Moving Average Is a Mystery",
+          "url": "https://www.barrons.com/articles/micron-stock-price-today-27b238bd",
+          "source": "Barron's",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "The Fed's September Decision Could Hit Micron Harder Than Its Own Earnings",
+          "url": "https://www.fool.com/investing/2026/09/03/the-feds-september-decision-could-hit-micron-harde/",
+          "source": "The Motley Fool",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "How Micron Technology (MU) is Shaping the AI Landscape",
+          "url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-shaping-ai-133716803.html",
+          "source": "Yahoo Finance",
           "date": "2026-09-04"
         }
       ]
