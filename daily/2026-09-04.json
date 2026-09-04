@@ -560,10 +560,10 @@
       ]
     },
     "로베르트 모레노": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-04T16:41:00+09:00",
-      "lastSeen": "2026-09-04T16:41:00+09:00",
+      "lastSeen": "2026-09-04T17:14:00+09:00",
       "news": [
         {
           "title": "'韓축구 감독' 모레노 남다른 행보, 별도 입장 발표에 '한국 대표팀 사령탑' 셀프 소개도",
@@ -582,14 +582,26 @@
           "url": "https://v.daum.net/v/20260904110436061",
           "source": "Daum",
           "date": "2026-09-04"
+        },
+        {
+          "title": "현영민 위원장의 모레노 선임 이유…\"당장 맡겨도 된다고 확신\"",
+          "url": "https://www.yna.co.kr/view/AKR20260904113100007",
+          "source": "연합뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"결과는 보장할 수 없지만 노력, 존중, 정직은 약속한다\" 한국대표팀 맡은 모레노 감독, 출사표 던졌다 - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/09/04/GA3DGYRTGQ2TSOBZHEZTGNJRHE/",
+          "source": "Chosunbiz",
+          "date": "2026-09-04"
         }
       ]
     },
     "고령화": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-04T16:41:00+09:00",
-      "lastSeen": "2026-09-04T16:41:00+09:00",
+      "lastSeen": "2026-09-04T17:14:00+09:00",
       "news": [
         {
           "title": "전세계 노인인구, 인류사 최초로 영유아 추월…韓 2060년 최고령국",
@@ -607,6 +619,12 @@
           "title": "[그래픽] 전 세계 노령 인구·영유아 인구 비중 추이",
           "url": "https://v.daum.net/v/20260904105447618",
           "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"한국, 한 세대 지나면 '세계 최고령 국가' 된다\"",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202609041601228140",
+          "source": "YTN 사이언스",
           "date": "2026-09-04"
         }
       ]
@@ -692,6 +710,214 @@
           "title": "350개 공공기관 대이동‥\"수도권 잔류 최소화\"",
           "url": "https://imnews.imbc.com/replay/2026/nw930/article/6849571_36996.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "뷔": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-04T17:14:00+09:00",
+      "lastSeen": "2026-09-04T17:14:00+09:00",
+      "news": [
+        {
+          "title": "방탄소년단 뷔, 팬심 사로잡는 '남친짤'",
+          "url": "https://m.news.nate.com/view/20260903n04575?issue_sq=3018",
+          "source": "네이트",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "방탄소년단 뷔, 압도적 댄스 실력..글로벌 팬심 저격",
+          "url": "https://v.daum.net/v/20260825080507998",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "BTS, 멍뭉미 제���로 ‘뷔치하이킹’",
+          "url": "https://mydaily.co.kr/page/view/2026083116045820854",
+          "source": "마이데일리",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "견미리": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-04T17:14:00+09:00",
+      "lastSeen": "2026-09-04T17:14:00+09:00",
+      "news": [
+        {
+          "title": "‘견미리 딸’ 이유비, 90억 저택 떠나 초호화 자취집 공개…“인생 첫 자취. 집 데이트 로망”",
+          "url": "https://v.daum.net/v/20260904105609669",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "기안84, AI와 데이트서 얼평 당해…\"이 얼굴로 연애 얼마나 해봤어\"",
+          "url": "https://www.newsis.com/view/NISX20260904_0003776041",
+          "source": "뉴시스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "‘기이한 연애’ 이유비, 엄지윤에 연애 상담 “날 안 좋아하나”",
+          "url": "https://sports.khan.co.kr/article/202609041352003",
+          "source": "스포츠경향",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "하주석": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-04T17:14:00+09:00",
+      "lastSeen": "2026-09-04T17:14:00+09:00",
+      "news": [
+        {
+          "title": "[사진]김도영,'구슬땀 훈련'",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/09/04/MIYTGYJRGRTDIM3FGE3GGNBVHE/",
+          "source": "조선일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "[사진]정현창,'이범호 감독 지도에 집중'",
+          "url": "https://www.osen.co.kr/article/G1112869682",
+          "source": "OSEN",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "[사진]정현창,'이범호 감독 지도에 집중'",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/09/04/MFSWIY3BGEYGEZLGMI4DKNZWGM/",
+          "source": "조선일보",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "대한민국 문화체육관광부": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-04T17:14:00+09:00",
+      "lastSeen": "2026-09-04T17:14:00+09:00",
+      "news": [
+        {
+          "title": "전 세계 재외한국문화원, '케이-라이프스타일' 체험·수출 거점으로 거듭난다",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780190&repCode=A00009&repCodeType=%EC%A0%95%EB%B6%80%EB%B6%80%EC%B2%98&pWise=main&pWiseMain=T1_1&pWiseMinistry=ministryNews",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "재외한국문화원에서 K-뷰티·푸드·패션 체험…��K-컬처 수출 거점으로’",
+          "url": "https://v.daum.net/v/20260904093640691",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "뉴욕·도쿄 등 재외문화원에 '글로벌 K-존'…K-컬처 홍보·수출 거점으로",
+          "url": "https://view.asiae.co.kr/article/2026090402543687511",
+          "source": "아시아경제",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "심유진": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-04T17:14:00+09:00",
+      "lastSeen": "2026-09-04T17:14:00+09:00",
+      "news": [
+        {
+          "title": "믿을 수 없는 샷의 향연…3연패 향해 순항",
+          "url": "https://v.daum.net/v/QR2sA5rNFz",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "'47승1패 실��?' 안세영, 김가은과 코리안 더비 완승…中 마스터즈 4강행→라이벌 야마구치와 한일전 성사",
+          "url": "https://sports.news.nate.com/view/20260904n14743",
+          "source": "네이트",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "배드민턴 세계 최강 안세영, 동료 김가은에 2대 0 완승…중국 마스터스 4강 진출",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8654948",
+          "source": "KBS 뉴스",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "총파업": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-04T17:14:00+09:00",
+      "lastSeen": "2026-09-04T17:14:00+09:00",
+      "news": [
+        {
+          "title": "금융노조 총파업‥\"임금 인상·지방 이전 반대\"",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6849619_36967.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "금융노조 총파업 돌입…\"국책은행 지방이전 저지\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260904140429Naj",
+          "source": "연합뉴스TV",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "금감원 노조 \"금융중심지 서울에 남아야\"…청와대에 탄원서 제출",
+          "url": "https://v.daum.net/v/20260904153208551",
+          "source": "Daum",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "솔리 다임": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-04T17:14:00+09:00",
+      "lastSeen": "2026-09-04T17:14:00+09:00",
+      "news": [
+        {
+          "title": "SK하이닉스 '솔리다임 중복상장' D-Day … 주가 향방에 '촉각'",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/04/2026090400071.html",
+          "source": "뉴데일리",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "[기자수첩] 반도체 IPO 러시, 중요한 건 그 다음이다",
+          "url": "https://www.viva100.com/article/20260902501479",
+          "source": "브릿지경제",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "[셀럽의 한 수] 솔리다임 IPO 서두를 필요 없다 “중요한 건 시기입니다”",
+          "url": "https://biz.sbs.co.kr/article/20000332816",
+          "source": "SBS Biz",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "카카오 멤버십": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-04T17:14:00+09:00",
+      "lastSeen": "2026-09-04T17:14:00+09:00",
+      "news": [
+        {
+          "title": "[단독]카카오멤버십 기본구독료 4900원…네이버와 정면승부 - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/09/04/2026090409501732922",
+          "source": "머니투데이",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "네이버 멤버십은 '넷플릭스' 퍼주는데…카카오는? - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/09/04/2026090409085519326",
+          "source": "머니투데이",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "카카오, 유료 멤버십 도입 추진...네이버-넷플릭스 흥행 공식 이을까",
+          "url": "https://news.mtn.co.kr/news-detail/2026090311121882115",
+          "source": "MTN 머니투데이방송",
           "date": "2026-09-04"
         }
       ]
