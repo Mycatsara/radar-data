@@ -488,10 +488,10 @@
       ]
     },
     "psg 대 as 모나코": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-05T04:38:00+09:00",
-      "lastSeen": "2026-09-05T06:12:00+09:00",
+      "lastSeen": "2026-09-05T06:39:00+09:00",
       "news": [
         {
           "title": "'십자인대 파열' 日 에이스 미나미노가 돌아온다…모나코 5일 PSG전 명단 포함, 일본 대표팀 복귀도 초읽기?",
@@ -604,10 +604,10 @@
       ]
     },
     "อิปสวิช พบ ลิเวอร์พูล": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T06:12:00+09:00",
-      "lastSeen": "2026-09-05T06:12:00+09:00",
+      "lastSeen": "2026-09-05T06:39:00+09:00",
       "news": [
         {
           "title": "การคาดการณ์ผลการแข่งขันระหว่างอิปสวิชกับลิเวอร์พูล: ลิเวอร์พูลกระหายชัยชนะอย่างมาก",
@@ -630,10 +630,10 @@
       ]
     },
     "농약": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-05T06:12:00+09:00",
-      "lastSeen": "2026-09-05T06:12:00+09:00",
+      "lastSeen": "2026-09-05T06:39:00+09:00",
       "news": [
         {
           "title": "“90일간 강제로 ‘농약’ 먹인다” 무려 1만마리 희생…알고 보니, 헛된 죽음이었다? [지구, 뭐래?]",
@@ -656,10 +656,10 @@
       ]
     },
     "betis vs real madrid": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-05T06:12:00+09:00",
-      "lastSeen": "2026-09-05T06:12:00+09:00",
+      "lastSeen": "2026-09-05T06:39:00+09:00",
       "news": [
         {
           "title": "ESPN EN VIVO GRATIS — dónde ver partido Real Madrid vs. Real Betis EN DIRECTO por Fútbol TV y Disney Plus Premium Online",
@@ -677,6 +677,174 @@
           "title": "¡Duelo de alto voltaje en LaLiga! El Real Madrid afronta ante el Real Betis su examen más exigente",
           "url": "https://cadenapolitica.com/2026/09/04/duelo-de-alto-voltaje-en-laliga-el-real-madrid-afronta-ante-el-real-betis-su-examen-mas-exigente/",
           "source": "Cadena Politica",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Polémica, análisis y reacciones del Betis - Real Madrid de LaLiga EA Sports",
+          "url": "https://as.com/futbol/primera/polemica-analisis-y-reacciones-del-betis-real-madrid-de-laliga-ea-sports-f202609-d/",
+          "source": "Diario AS",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Periodista madrileño: Mourinho me sorprendió con esta decisión",
+          "url": "https://es-us.noticias.yahoo.com/deportes/periodista-madrile%C3%B1o-mourinho-sorprendi%C3%B3-decisi%C3%B3n-164607878.html",
+          "source": "Yahoo",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "리버풀": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T06:39:00+09:00",
+      "lastSeen": "2026-09-05T06:39:00+09:00",
+      "news": [
+        {
+          "title": "백날 충성심 보여봐야 소용없다? 키에사의 지독한 '외사랑', 부상자도 포함된 리버풀 챔스 명단서 제외…2년 연속 설움",
+          "url": "https://sports.news.nate.com/view/20260904n08159?isq=8249&mid=s0401",
+          "source": "네이트",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "'이럴 수가' 日 축구 국가대표팀 주장의 끝없는 추락...대표팀 은퇴→소속팀 리버풀에선 챔피언스리그 명단 제외",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1005506",
+          "source": "SPOTV NEWS",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "'日 전 캡틴, 굴욕 제대로 당했다!' 엔도, 21세 유망주·부상자에게도 밀렸다...충격의 UCL 명단 제외",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553515084",
+          "source": "스포탈코리아",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "손흥민": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-05T06:39:00+09:00",
+      "lastSeen": "2026-09-05T06:39:00+09:00",
+      "news": [
+        {
+          "title": "박항서, 작심 비판…\"학연보다 센 축협 카르텔, 그들만의 세상\"",
+          "url": "https://v.daum.net/v/20260904105916783",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"암적인 폐습 모두 뜯어고쳐야\" 무너질 대로 무너진 한국축구 신뢰, 어떻게 회복할 수 있을까 [창�� ③] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/05/2026082814055163236",
+          "source": "머니투데이",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "“정몽규 회장님이 계신데 내가 하는게 맞나?” 대신 방패막이로 나섰던 박항서 전 단장 “한국축구 새롭게 태어나야” - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/09/04/GBQWMZRWMZSWEYJSHEYTAZRTGY/",
+          "source": "Chosunbiz",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "최강희": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T06:39:00+09:00",
+      "lastSeen": "2026-09-05T06:39:00+09:00",
+      "news": [
+        {
+          "title": "'49세' 최강희, 배 드러내고 다이어트 성공 인증…\"옷이 다 맞아 \"",
+          "url": "https://v.daum.net/v/20260904104451217",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"옷이 다 맞아\"…최강희, 30일 복근챌린지 일단 '눈바디'는 합격",
+          "url": "https://www.newsis.com/view/NISX20260903_0003775145",
+          "source": "뉴시스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "최강희, 49세도 할 수 있다 “운동 후 옷 다 맞아…몸통 사이즈 엄청 줄었다”",
+          "url": "https://www.osen.co.kr/article/G1112868615",
+          "source": "OSEN",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "나솔": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-05T06:39:00+09:00",
+      "lastSeen": "2026-09-05T06:39:00+09:00",
+      "news": [
+        {
+          "title": "“다들 왜 이래” 1순위가 있는데 선택은 유턴? 대혼란에 빠진 미스터들의 데이트 선택! #나솔사계 EP.181ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
+          "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000635333",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "미스터 조, 7기 옥순에 직진...\"나랑 잘 어울린다\" 플러팅에 2시간 대화까지 (나솔사계)",
+          "url": "https://v.daum.net/v/20260904142510999",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "7기 옥순, 썸 기간만 1년이라는 모태솔로…미스터 조, 동공 지진 (나솔사계) - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/03/GIYDMZJVMRTGCMZXMM2TGYZSHE/",
+          "source": "Chosunbiz",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "카를로스 알카라스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-05T06:39:00+09:00",
+      "lastSeen": "2026-09-05T06:39:00+09:00",
+      "news": [
+        {
+          "title": "스물셋에 상금만 890억…최연소 1위 찍고도 파티 즐기는 Z세대 챔피언",
+          "url": "https://www.segye.com/newsView/20260901513537",
+          "source": "세계일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "'디펜딩 챔피언' 알카라스, 파리아에 역전승 3회전행… 사발렌카는 54분 만에 압승",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433184",
+          "source": "데일리스포츠한국",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "알카라스는 왜 나이키 로고가 거꾸로 새겨진 유니폼을 입나요?",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53604",
+          "source": "테니스코리아",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "규현": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T06:39:00+09:00",
+      "lastSeen": "2026-09-05T06:39:00+09:00",
+      "news": [
+        {
+          "title": "'SM 떠난' 규현, 안테나와 규모 차이…다시 돌아가고 싶냐고? \"묵비권 행사\" (트루만쇼)",
+          "url": "https://v.daum.net/v/20260904155236449",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "규현 \"'쏘리쏘리' 냉미남 시절, 돌아갈 수 있다면 연애하고파\" - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/04/G43GGZBXGFSWMOJYHBRTOYJSHE/",
+          "source": "Chosunbiz",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "“다시 SM 갈래?” 규현, 짓궂은 질문에 “챙길 아티스트 너무 많아” 손사래",
+          "url": "https://sports.khan.co.kr/article/202609042109003",
+          "source": "스포츠경향",
           "date": "2026-09-04"
         }
       ]
