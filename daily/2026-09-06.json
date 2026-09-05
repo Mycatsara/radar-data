@@ -2,10 +2,10 @@
   "date": "2026-09-06",
   "keywords": {
     "athletic vs atlético madrid": {
-      "count": 8,
+      "count": 9,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T03:42:00+09:00",
+      "lastSeen": "2026-09-06T04:11:00+09:00",
       "news": [
         {
           "title": "¡Descubre las alineaciones titulares del Athletic Club-Atlético de Madrid!",
@@ -40,10 +40,10 @@
       ]
     },
     "로또 1240": {
-      "count": 8,
+      "count": 9,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T03:42:00+09:00",
+      "lastSeen": "2026-09-06T04:11:00+09:00",
       "news": [
         {
           "title": "로또 1240회 1등 16명···각 17억9000만원씩",
@@ -78,10 +78,10 @@
       ]
     },
     "man city vs coventry": {
-      "count": 8,
+      "count": 9,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T03:42:00+09:00",
+      "lastSeen": "2026-09-06T04:11:00+09:00",
       "news": [
         {
           "title": "Manchester City vs Coventry City: Premier League preview, team news, stats & head-to-head",
@@ -354,10 +354,10 @@
       ]
     },
     "실시간스포츠": {
-      "count": 7,
+      "count": 8,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T03:42:00+09:00",
+      "lastSeen": "2026-09-06T04:11:00+09:00",
       "news": [
         {
           "title": "'6연승 도전' LG 라인업 떴다...오지환-박동원 선발 제외, 어제 라인업과 똑같다 [오!쎈 잠실]",
@@ -380,10 +380,10 @@
       ]
     },
     "nottm forest vs spurs": {
-      "count": 7,
+      "count": 8,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T03:42:00+09:00",
+      "lastSeen": "2026-09-06T04:11:00+09:00",
       "news": [
         {
           "title": "Nottingham Forest vs Tottenham Hotspur: Premier League preview, team news, stats & head-to-head",
@@ -418,10 +418,10 @@
       ]
     },
     "f1": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T01:12:00+09:00",
-      "lastSeen": "2026-09-06T03:42:00+09:00",
+      "lastSeen": "2026-09-06T04:11:00+09:00",
       "news": [
         {
           "title": "Gasly charges to sensational maiden F1 pole at Monza over Russell and Piastri",
@@ -456,10 +456,10 @@
       ]
     },
     "agi": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T01:12:00+09:00",
-      "lastSeen": "2026-09-06T03:42:00+09:00",
+      "lastSeen": "2026-09-06T04:11:00+09:00",
       "news": [
         {
           "title": "OpenAI Unveils Astra AI With Evasion Capabilities",
@@ -508,10 +508,10 @@
       ]
     },
     "샬케 대 바이에른": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-06T01:39:00+09:00",
-      "lastSeen": "2026-09-06T03:42:00+09:00",
+      "lastSeen": "2026-09-06T04:11:00+09:00",
       "news": [
         {
           "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
@@ -529,6 +529,12 @@
           "title": "샬케 대 바이에른 뮌헨 경기 예측, 9월 5일 23시 30분: 홈팀을 완파할 것.",
           "url": "https://www.vietnam.vn/ko/nhan-dinh-schalke-vs-bayern-munich-23h30-ngay-5-9-vui-dap-chu-nha",
           "source": "Vietnam.vn",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "‘역대급 실책’ 골키퍼는 잊어라! 케인 슛 선방하며 MOM 선정, 카리우스 감동적인 빅리그 복귀전",
+          "url": "http://www.footballist.co.kr/news/articleView.html?idxno=214419",
+          "source": "풋볼리스트",
           "date": "2026-09-05"
         }
       ]
@@ -560,10 +566,10 @@
       ]
     },
     "분데스리가": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T02:11:00+09:00",
-      "lastSeen": "2026-09-06T03:42:00+09:00",
+      "lastSeen": "2026-09-06T04:11:00+09:00",
       "news": [
         {
           "title": "‘패스 성공률 98%+평점 7점대+3경기 연속 선발’ 돌아온 철기둥, 김민재, 뮌헨 3번째 시즌은 다르다 ‘뮌헨 오스나크뷔르에 4-1 대역전승→포칼 2라운드 진출’",
@@ -588,14 +594,20 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8653439",
           "source": "KBS 뉴스",
           "date": "2026-09-05"
+        },
+        {
+          "title": "분데스리가 3시즌 연속 득점왕 케인도 감탄 \"환상적인 골, 슈팅 순간 득점 직감했다\"…뮌헨 센터백 공략 공격수 극찬",
+          "url": "https://sports.news.nate.com/view/20260903n39561",
+          "source": "네이트",
+          "date": "2026-09-05"
         }
       ]
     },
     "석유": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T03:13:00+09:00",
-      "lastSeen": "2026-09-06T03:42:00+09:00",
+      "lastSeen": "2026-09-06T04:11:00+09:00",
       "news": [
         {
           "title": "미군 \"미 군함 겨냥 미사일 발사 대응해 이란 유조선 3척 타격\"",
