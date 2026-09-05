@@ -4443,10 +4443,10 @@
       ]
     },
     "한화": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-05T20:38:00+09:00",
-      "lastSeen": "2026-09-05T20:38:00+09:00",
+      "lastSeen": "2026-09-05T21:15:00+09:00",
       "news": [
         {
           "title": "‘타자도 놀랐다’ 입 벌어지는 노시환의 대형 홈런",
@@ -4465,14 +4465,20 @@
           "url": "https://www.newsis.com/view/NISX20260904_0003777290",
           "source": "뉴시스",
           "date": "2026-09-05"
+        },
+        {
+          "title": "[사진] 노시환, 온 몸 날린 득점",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/09/05/MIZGGMRYMVSWKNZXGBSTQOBUG4/",
+          "source": "조선일보",
+          "date": "2026-09-05"
         }
       ]
     },
     "국민의힘": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-05T20:38:00+09:00",
-      "lastSeen": "2026-09-05T20:38:00+09:00",
+      "lastSeen": "2026-09-05T21:15:00+09:00",
       "news": [
         {
           "title": "국힘 대구·경북 의원들 \"TK 차별·홀대 중단\" 정부 규탄",
@@ -4491,14 +4497,26 @@
           "url": "https://www.pressian.com/pages/articles/2026090517260882754&ref=rss",
           "source": "프레시안",
           "date": "2026-09-05"
+        },
+        {
+          "title": "‘연임 없다’ 네 마디가 그렇게 어렵나…개헌 꺼낸 이재명 대통령, 진정성 시험대",
+          "url": "https://v.daum.net/v/20260905150127953",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "장동혁 \"李대통령,'연임 없다' 왜 못하나…'도둑질'은 인정하는 모양\"",
+          "url": "https://www.news1.kr/politics/assembly/6281102",
+          "source": "뉴스1",
+          "date": "2026-09-05"
         }
       ]
     },
     "tsmc": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-05T20:38:00+09:00",
-      "lastSeen": "2026-09-05T20:38:00+09:00",
+      "lastSeen": "2026-09-05T21:15:00+09:00",
       "news": [
         {
           "title": "TSMC Says 20 New Fabs Still Fall Short of AI Demand",
@@ -4516,6 +4534,188 @@
           "title": "Marvell Technology and Taiwan Semiconductor are No-Brainer Picks: They Have What Wins in a Gold Rush",
           "url": "https://247wallst.com/investing/2026/09/04/marvell-technology-and-taiwan-semiconductor-are-no-brainer-picks-they-have-what-wins-in-a-gold-rush/",
           "source": "24/7 Wall St.",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "newcastle vs bournemouth": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-05T21:15:00+09:00",
+      "lastSeen": "2026-09-05T21:15:00+09:00",
+      "news": [
+        {
+          "title": "Newcastle United vs Bournemouth: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c6jrx89l5eejt",
+          "source": "BBC",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Premier League - Newcastle United v AFC Bournemouth",
+          "url": "https://www.reutersconnect.com/item/premier-league-newcastle-united-v-afc-bournemouth/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNOTUwUjJaMlU",
+          "source": "Reuters Connect",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Newcastle vs Bournemouth LIVE commentary: Matthias Jaissle's impressive start put to the test",
+          "url": "https://talksport.com/football/4557724/newcastle-bournemouth-live-commentary-matthias-jaissle-team-news/",
+          "source": "talkSPORT",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "법원": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-05T21:15:00+09:00",
+      "lastSeen": "2026-09-05T21:15:00+09:00",
+      "news": [
+        {
+          "title": "76m 높이 ‘트럼프 개선문 건설’, 미 연방법원이 추가 제동",
+          "url": "https://v.daum.net/v/20260905161641823",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "트럼프의 계속되는 기념물 정치…워싱턴 개선문 곧 착공",
+          "url": "https://www.yna.co.kr/view/AKR20260904065400009",
+          "source": "연합뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "\"워싱턴 한복판에 76m 개선문\"...트럼프 '기념물 정치' 강행",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609041145242759",
+          "source": "YTN",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "아리엘 후라도": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T21:15:00+09:00",
+      "lastSeen": "2026-09-05T21:15:00+09:00",
+      "news": [
+        {
+          "title": "'페덱-보스-후라도' 꿈의 선발 트리오 현실될 뻔… LG의 행운, 보스는 잠실 엔딩",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/05/GE4DCYRYGBTGEZBSMMZWINJTMM/",
+          "source": "조선일보",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "LG 초비상! 삼성 이닝 대식가 6일 돌아온다, 그렇다면 오늘(5일) 선발은? \"불펜 가용 자원 다 소모할 것\" [MD잠실]",
+          "url": "https://v.daum.net/v/20260905004244249",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[스경X현장]돌아온 후라도, 출격 준비 끝…박진만 삼성 감독 “야구장 나오니 목소리가 커졌다”",
+          "url": "https://sports.khan.co.kr/article/202609041908003",
+          "source": "스포츠경향",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "lpl": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T21:15:00+09:00",
+      "lastSeen": "2026-09-05T21:15:00+09:00",
+      "news": [
+        {
+          "title": "LPL Financial (LPLA) Stock May Trade Below Fair Value While Earnings Look Rich",
+          "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-lpla/lpl-financial-holdings/news/lpl-financial-lpla-stock-may-trade-below-fair-value-while-ea",
+          "source": "Simply Wall Street",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Invictus Gaming eliminates Top Esports from LPL Grand Finals with 3-2 victory",
+          "url": "https://cryptobriefing.com/invictus-gaming-eliminates-top-esports-lpl-playoffs/",
+          "source": "Crypto Briefing",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "NewEdge expands Florida presence with wealth management team",
+          "url": "https://www.structuredretailproducts.com/insights/84613/newedge-expands-florida-presence-with-wealth-management-team",
+          "source": "SRP Structured Products",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "뉴캐슬 대 본머스": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-05T21:15:00+09:00",
+      "lastSeen": "2026-09-05T21:15:00+09:00",
+      "news": [
+        {
+          "title": "뉴캐슬 vs 본머스 경기 예측: 상위권 경쟁의 뜨거운 승부",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-newcastle-vs-bournemouth-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "프리미어 리그 뉴캐슬 대 본머스 축구 생중계 링크",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-newcastle-vs-bournemouth-tai-premier-league-1761946.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "프리미어 리그 뉴캐슬 대 본머스 경기 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-newcastle-vs-bournemouth-tai-premier-league-1761651.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "김시아": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-05T21:15:00+09:00",
+      "lastSeen": "2026-09-05T21:15:00+09:00",
+      "news": [
+        {
+          "title": "'놀토' 류승룡, 유해진과 무명 시절 회상…\"���데 공장에 함께 일해\"",
+          "url": "https://v.daum.net/v/20260905202727026",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'놀토' 류승룡, 대학 동기 신동엽 과거 응원에 감동…\"설경구 형처럼 될 거라고\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6281101",
+          "source": "뉴스1",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "류승룡, 예측불허 입담 폭발… 백상 대상 비하인드 스토리 전격 공개",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3685819",
+          "source": "국제뉴스",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "광주 비엔날레": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T21:15:00+09:00",
+      "lastSeen": "2026-09-05T21:15:00+09:00",
+      "news": [
+        {
+          "title": "‘대만관’에 발끈한 中 “철수”…700억 쓴 여수섬박람회 초비상",
+          "url": "https://v.daum.net/v/20260905060238217",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "광주비엔날레 개막...'변화와 실천', 72일 대장정",
+          "url": "https://www.ytn.co.kr/_ln/0115_202609050046588770",
+          "source": "YTN",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "명칭 논란 속 문 연 대만관…\"광주서 본래 이름 사용 뜻깊어\"",
+          "url": "https://www.yna.co.kr/amp/view/AKR20260905045600005",
+          "source": "연합뉴스",
           "date": "2026-09-05"
         }
       ]
