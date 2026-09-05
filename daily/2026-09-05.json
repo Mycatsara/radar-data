@@ -2942,10 +2942,10 @@
       ]
     },
     "정우주": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T14:11:00+09:00",
-      "lastSeen": "2026-09-05T14:39:00+09:00",
+      "lastSeen": "2026-09-05T15:16:00+09:00",
       "news": [
         {
           "title": "[영상] 보기 안쓰러운 정우주…볼넷, 악송구, 폭투",
@@ -2968,10 +2968,10 @@
       ]
     },
     "벤 셸턴": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-05T14:11:00+09:00",
-      "lastSeen": "2026-09-05T14:39:00+09:00",
+      "lastSeen": "2026-09-05T15:16:00+09:00",
       "news": [
         {
           "title": "\"징그럽게 팔에 붉은 점 뭐야?\" 테니스 스타 '부항 자국'에 깜짝…英 언론 소개 \"인기 얻고 있는 고대 치유 기술\"",
@@ -3001,10 +3001,10 @@
       "news": []
     },
     "엘니뇨": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-05T14:39:00+09:00",
-      "lastSeen": "2026-09-05T14:39:00+09:00",
+      "lastSeen": "2026-09-05T15:16:00+09:00",
       "news": [
         {
           "title": "\"지구가 경험한 적 없는 괴물이 온다\"…초대형 기후 재앙의 경고 [스프]",
@@ -3027,10 +3027,10 @@
       ]
     },
     "문무": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-05T14:39:00+09:00",
-      "lastSeen": "2026-09-05T14:39:00+09:00",
+      "lastSeen": "2026-09-05T15:16:00+09:00",
       "news": [
         {
           "title": "KBS 작정했다…'시청률 31.7%' 거물 등장→역대급 스케일로 왕좌 탈환 나선 韓 드라마 ('문무')",
@@ -3049,14 +3049,20 @@
           "url": "https://news.nate.com/view/20260831n24597",
           "source": "네이트",
           "date": "2026-09-05"
+        },
+        {
+          "title": "‘문무’ 이현욱·장혁·김강우·박성웅, 삼국 핏빛 승부…11월 첫 방송",
+          "url": "https://www.mediapen.com/news/view/1119896",
+          "source": "미디어펜",
+          "date": "2026-09-05"
         }
       ]
     },
     "허지웅": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-05T14:39:00+09:00",
-      "lastSeen": "2026-09-05T14:39:00+09:00",
+      "lastSeen": "2026-09-05T15:16:00+09:00",
       "news": [
         {
           "title": "“인사에 다시 실망” 李 취임 사진 꺼낸 허지웅, 의미심장한 예고도",
@@ -3074,6 +3080,136 @@
           "title": "이 대통령 사진 올린 허지웅 \"지지자의 퇴로를 틀어막고 있다는 기분\"",
           "url": "https://www.news1.kr/society/general-society/6278646",
           "source": "뉴스1",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "환희": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-05T15:16:00+09:00",
+      "lastSeen": "2026-09-05T15:16:00+09:00",
+      "news": [
+        {
+          "title": "이장우 불똥 맞은 환희, '전처' 박화요비 재결합 가능성..\"연락해봐\" ('살림남')",
+          "url": "https://v.daum.net/v/20260905100748916",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "45세 환희, 결혼관?…홍석천 \"박화요비와 다시 잘해봐\"",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777461",
+          "source": "뉴시스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'살림남' 환희, 박민혁 셰프와 요리 수업…‘요알못’ 탈출 성공?",
+          "url": "https://enter.etoday.co.kr/news/view/302000",
+          "source": "비즈엔터",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "이동건": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-05T15:16:00+09:00",
+      "lastSeen": "2026-09-05T15:16:00+09:00",
+      "news": [
+        {
+          "title": "이동건 제주 카페, '재정비'라더니…다른 매장 들어섰다",
+          "url": "https://v.daum.net/v/20260905070640740",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "‘재정비’라던 이동건 제주 카페, 패션 브랜드 입점",
+          "url": "https://sports.khan.co.kr/article/202609051416003",
+          "source": "스포츠경향",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "이동건, “평생 로망” 제주 카페 어디 갔나…1년여 만에 다른 매장으로",
+          "url": "https://sports.donga.com/ent/article/all/20260905/134610845/1",
+          "source": "스포츠동아",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "정책 금리": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T15:16:00+09:00",
+      "lastSeen": "2026-09-05T15:16:00+09:00",
+      "news": [
+        {
+          "title": "중동 리스크에 유가·금리 '들썩'…국내 경제 발목잡나",
+          "url": "https://v.daum.net/v/20260905101332997",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "엘에리언 \"채권 매도 아직 안 끝났다…공급 넘치고 큰손은 떠난다\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01341526645577168",
+          "source": "마켓인",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "\"엇갈린 美中 국채…장기물 금리차 크게 유지될 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433535",
+          "source": "연합인포맥스",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "무역": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T15:16:00+09:00",
+      "lastSeen": "2026-09-05T15:16:00+09:00",
+      "news": [
+        {
+          "title": "트럼프 \"연준 금리인하 안하면 美가 적자보는 나라와 무역 중단\"(종합2보)",
+          "url": "https://www.yna.co.kr/view/AKR20260905000652071",
+          "source": "연합뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "뉴욕증시, 美 고용호조에 금리인상 경계감 고조…다우 0.5%↓",
+          "url": "https://www.munhwa.com/article/11614717",
+          "source": "문화일보",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[외환] 美 고용 서프라이즈에도 1,350원선 유지",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433580",
+          "source": "연합인포맥스",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "이선정": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-05T15:16:00+09:00",
+      "lastSeen": "2026-09-05T15:16:00+09:00",
+      "news": [
+        {
+          "title": "이선정, 매니저에게 납치당했다…\"너무 좋아해서\"",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777379",
+          "source": "뉴시스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "이선정, 매니저에게 납치당했던 아찔 사건…이의정 \"너무 좋아해서\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6280856",
+          "source": "뉴스1",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "이선정 “날 좋아한 매니저에게 납치당해…진짜 납치였다”",
+          "url": "https://sports.donga.com/ent/article/all/20260905/134610276/1",
+          "source": "스포츠동아",
           "date": "2026-09-05"
         }
       ]
