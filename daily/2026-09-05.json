@@ -3733,10 +3733,10 @@
       ]
     },
     "스캔들": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-05T17:40:00+09:00",
-      "lastSeen": "2026-09-05T18:12:00+09:00",
+      "lastSeen": "2026-09-05T18:39:00+09:00",
       "news": [
         {
           "title": "'스캔들' 손예진, 형광연두색 한복까지 소화하는 美친 미모",
@@ -3759,10 +3759,10 @@
       ]
     },
     "가상화폐": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-05T17:40:00+09:00",
-      "lastSeen": "2026-09-05T18:12:00+09:00",
+      "lastSeen": "2026-09-05T18:39:00+09:00",
       "news": [
         {
           "title": "북한 공작원 지령받고 정보수집한 40대 징역 5년…6억원 넘게 받아",
@@ -3787,14 +3787,20 @@
           "url": "https://view.asiae.co.kr/article/2026090511115965560",
           "source": "아시아경제",
           "date": "2026-09-05"
+        },
+        {
+          "title": "북한 지령받고 군 장교·탈북민 정보 넘긴 40대 가상자산업자...징역 5년",
+          "url": "https://v.daum.net/v/20260905140555447",
+          "source": "Daum",
+          "date": "2026-09-05"
         }
       ]
     },
     "김준호": {
-      "count": 2,
-      "maxTraffic": 10000,
+      "count": 3,
+      "maxTraffic": 20000,
       "firstSeen": "2026-09-05T17:40:00+09:00",
-      "lastSeen": "2026-09-05T18:12:00+09:00",
+      "lastSeen": "2026-09-05T18:39:00+09:00",
       "news": [
         {
           "title": "김지민, 여의도불꽃축제 뷰 신혼집 자랑 “전야제를 이렇게 한다고?”",
@@ -3843,10 +3849,10 @@
       ]
     },
     "김성현": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T18:12:00+09:00",
-      "lastSeen": "2026-09-05T18:12:00+09:00",
+      "lastSeen": "2026-09-05T18:39:00+09:00",
       "news": [
         {
           "title": "‘21년 원클럽맨’ 김성현, 1번 2루수 선발 출장…마지막으로 그라운드 밟는다 “후회 없다고 생각했는데…” [오!쎈 인천] - 머니투데이",
@@ -3865,14 +3871,26 @@
           "url": "https://m.news.nate.com/view/20260905n08547",
           "source": "네이트",
           "date": "2026-09-05"
+        },
+        {
+          "title": "538홈런 레전드, 절친 21년 원클럽맨 은퇴식에 깜짝 커피차 선물 “은퇴 반대! 당장 유니폼 다시 입어” [오!쎈 인천]",
+          "url": "https://www.osen.co.kr/article/G1112870376",
+          "source": "OSEN",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'21년 원클럽맨' SSG 김성현, 은퇴식 특별 엔트리 등록…1번+2B 선발 출전 [인천 현장]",
+          "url": "https://v.daum.net/v/20260905141909562",
+          "source": "Daum",
+          "date": "2026-09-05"
         }
       ]
     },
     "국제결혼": {
-      "count": 1,
-      "maxTraffic": 5000,
+      "count": 2,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-05T18:12:00+09:00",
-      "lastSeen": "2026-09-05T18:12:00+09:00",
+      "lastSeen": "2026-09-05T18:39:00+09:00",
       "news": [
         {
           "title": "\"베트남 아내, 성병에 온몸 문신\"…국제결혼 90일 만에 사망한 50대 남성",
@@ -3895,10 +3913,10 @@
       ]
     },
     "열대 저기압": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-05T18:12:00+09:00",
-      "lastSeen": "2026-09-05T18:12:00+09:00",
+      "lastSeen": "2026-09-05T18:39:00+09:00",
       "news": [
         {
           "title": "제주항서 강풍에 크레인 쓰러져 2명 덮쳐···1명 심정지",
@@ -3921,10 +3939,10 @@
       ]
     },
     "새마을 금고": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-05T18:12:00+09:00",
-      "lastSeen": "2026-09-05T18:12:00+09:00",
+      "lastSeen": "2026-09-05T18:39:00+09:00",
       "news": [
         {
           "title": "\"태어나자마자 연 12%\"…새마을금고 '걸음마적금' 2만2000명 가입",
@@ -3968,6 +3986,84 @@
           "title": "'66세' 이미숙, 비만 주사 고민 이유 \"수명이 늘어난다고 해서\"('숙스러운 미숙씨')",
           "url": "https://www.koreadaily.com/article/20260904045240104",
           "source": "미주중앙일보",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "샘 올트먼": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T18:39:00+09:00",
+      "lastSeen": "2026-09-05T18:39:00+09:00",
+      "news": [
+        {
+          "title": "'샘 올트먼' 오픈 AI CEO \"휴머노이드 로봇 개발하고 있다\"",
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48293",
+          "source": "로봇신문",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "오픈AI, 챗GPT 넘어 로봇으로…휴머노이드 개발 공식화",
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=600165",
+          "source": "엠투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[빅테크칼럼] “로봇의 뇌” 넘보던 오픈AI, 이제 몸까지 만든다…샘 올트먼의 휴머노이드 승부수",
+          "url": "https://newsspace.kr/news/article.html?no=15498",
+          "source": "뉴스스페이스",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "inde navarrette": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T18:39:00+09:00",
+      "lastSeen": "2026-09-05T18:39:00+09:00",
+      "news": [
+        {
+          "title": "Inde Navarrette to Star in Sci-Fi Thriller ‘The Waffle House Index’ for Apple Original Films",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/inde-navarrette-the-waffle-house-index-for-apple-1236689823/",
+          "source": "The Hollywood Reporter",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Waffle House Movie in the Works Starring X-Men’s Inde Navarrette",
+          "url": "https://www.ign.com/articles/waffle-house-index-movie-inde-navarrette-x-men",
+          "source": "IGN",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'Obsession' Breakout Inde Navarrette Finds Her Next Big Sci-fi Thriller",
+          "url": "https://www.polygon.com/inde-navarrette-apple-waffle-house-index/",
+          "source": "Polygon.com",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "라이머": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T18:39:00+09:00",
+      "lastSeen": "2026-09-05T18:39:00+09:00",
+      "news": [
+        {
+          "title": "‘49살’ 라이머, 돌싱 3년만 ‘신랑수업’ 받는다..“항상 재혼 생각有” [Oh!쎈 예고]",
+          "url": "https://v.daum.net/v/20260905072712915?f=p",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "라이머, 안현모와 이혼 3년 만에 재혼 의지…\"누군가 만나는 것 기대\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-05/202609050100034510002205",
+          "source": "스포츠조선",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "라이머, 이혼 3년 만 재혼 기대감..\"받아들일 준비 돼\"[신랑수업][스타이슈]",
+          "url": "https://v.daum.net/v/20260905112950849?f=p",
+          "source": "Daum",
           "date": "2026-09-05"
         }
       ]
