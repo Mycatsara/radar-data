@@ -2,10 +2,10 @@
   "date": "2026-09-06",
   "keywords": {
     "athletic vs atlético madrid": {
-      "count": 9,
+      "count": 10,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T04:11:00+09:00",
+      "lastSeen": "2026-09-06T04:37:00+09:00",
       "news": [
         {
           "title": "¡Descubre las alineaciones titulares del Athletic Club-Atlético de Madrid!",
@@ -40,10 +40,10 @@
       ]
     },
     "로또 1240": {
-      "count": 9,
+      "count": 10,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T04:11:00+09:00",
+      "lastSeen": "2026-09-06T04:37:00+09:00",
       "news": [
         {
           "title": "로또 1240회 1등 16명···각 17억9000만원씩",
@@ -354,10 +354,10 @@
       ]
     },
     "실시간스포츠": {
-      "count": 8,
+      "count": 9,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T04:11:00+09:00",
+      "lastSeen": "2026-09-06T04:37:00+09:00",
       "news": [
         {
           "title": "'6연승 도전' LG 라인업 떴다...오지환-박동원 선발 제외, 어제 라인업과 똑같다 [오!쎈 잠실]",
@@ -380,10 +380,10 @@
       ]
     },
     "nottm forest vs spurs": {
-      "count": 8,
+      "count": 9,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T04:11:00+09:00",
+      "lastSeen": "2026-09-06T04:37:00+09:00",
       "news": [
         {
           "title": "Nottingham Forest vs Tottenham Hotspur: Premier League preview, team news, stats & head-to-head",
@@ -418,10 +418,10 @@
       ]
     },
     "f1": {
-      "count": 7,
+      "count": 8,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T01:12:00+09:00",
-      "lastSeen": "2026-09-06T04:11:00+09:00",
+      "lastSeen": "2026-09-06T04:37:00+09:00",
       "news": [
         {
           "title": "Gasly charges to sensational maiden F1 pole at Monza over Russell and Piastri",
@@ -456,10 +456,10 @@
       ]
     },
     "agi": {
-      "count": 7,
+      "count": 8,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T01:12:00+09:00",
-      "lastSeen": "2026-09-06T04:11:00+09:00",
+      "lastSeen": "2026-09-06T04:37:00+09:00",
       "news": [
         {
           "title": "OpenAI Unveils Astra AI With Evasion Capabilities",
@@ -508,10 +508,10 @@
       ]
     },
     "샬케 대 바이에른": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-06T01:39:00+09:00",
-      "lastSeen": "2026-09-06T04:11:00+09:00",
+      "lastSeen": "2026-09-06T04:37:00+09:00",
       "news": [
         {
           "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
@@ -566,10 +566,10 @@
       ]
     },
     "분데스리가": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T02:11:00+09:00",
-      "lastSeen": "2026-09-06T04:11:00+09:00",
+      "lastSeen": "2026-09-06T04:37:00+09:00",
       "news": [
         {
           "title": "‘패스 성공률 98%+평점 7점대+3경기 연속 선발’ 돌아온 철기둥, 김민재, 뮌헨 3번째 시즌은 다르다 ‘뮌헨 오스나크뷔르에 4-1 대역전승→포칼 2라운드 진출’",
@@ -604,10 +604,10 @@
       ]
     },
     "석유": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T03:13:00+09:00",
-      "lastSeen": "2026-09-06T04:11:00+09:00",
+      "lastSeen": "2026-09-06T04:37:00+09:00",
       "news": [
         {
           "title": "미군 \"미 군함 겨냥 미사일 발사 대응해 이란 유조선 3척 타격\"",
@@ -637,6 +637,32 @@
           "title": "미군 \"미 군함 겨냥 미사일 발사 대응해 이란 유조선 3척 타격\"",
           "url": "https://www.ytn.co.kr/_ln/0104_202609060016327657",
           "source": "YTN",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "아틀레틱 빌바오 대 아틀레티코 마드리드 라인업": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T04:37:00+09:00",
+      "lastSeen": "2026-09-06T04:37:00+09:00",
+      "news": [
+        {
+          "title": "'이강인 골대·59분 출전' 아틀레티코, 빌바오 원정서 시즌 첫 패배",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777771",
+          "source": "뉴시스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'통한의 골대 강타' 이강인, 58분 만에 OUT... '와르르' 아틀레티코, 0-2 연속 두 골 허용 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/2026090521365778909",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'이강인이 잘하고 있는데 변화 줄 필요는 없다'…아틀레티코 마드리드, 선발 명단 고정 추측",
+          "url": "https://v.daum.net/v/20260905150327997?f=p",
+          "source": "Daum",
           "date": "2026-09-05"
         }
       ]
