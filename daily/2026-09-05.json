@@ -1843,10 +1843,10 @@
       ]
     },
     "재혼": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T09:20:00+09:00",
-      "lastSeen": "2026-09-05T09:44:00+09:00",
+      "lastSeen": "2026-09-05T10:11:00+09:00",
       "news": [
         {
           "title": "결혼하고 아이 키울 때, 나에게 올 2027년 예산안 - 카드/한컷 | 멀티미디어",
@@ -1881,10 +1881,10 @@
       ]
     },
     "청도군": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T09:20:00+09:00",
-      "lastSeen": "2026-09-05T09:44:00+09:00",
+      "lastSeen": "2026-09-05T10:11:00+09:00",
       "news": [
         {
           "title": "청도군, 허민 국가유산청장 운문사 현장 방문…수장고 건립 지원 요청",
@@ -1903,14 +1903,20 @@
           "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311505",
           "source": "뷰티경제",
           "date": "2026-09-04"
+        },
+        {
+          "title": "허민 국가유산청장 청도 운문사 방문…문화유산 현안 점검",
+          "url": "https://sports.donga.com/region/article/all/20260905/134610474/1",
+          "source": "스포츠동아",
+          "date": "2026-09-04"
         }
       ]
     },
     "테니스": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T09:20:00+09:00",
-      "lastSeen": "2026-09-05T09:44:00+09:00",
+      "lastSeen": "2026-09-05T10:11:00+09:00",
       "news": [
         {
           "title": "[테니스] US 오픈 3R 결과",
@@ -2017,10 +2023,10 @@
       ]
     },
     "이승기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T09:44:00+09:00",
-      "lastSeen": "2026-09-05T09:44:00+09:00",
+      "lastSeen": "2026-09-05T10:11:00+09:00",
       "news": [
         {
           "title": "이승기, 前소속사 음원 수익 소송 또 승소…“6억9000만원 지급”",
@@ -2039,14 +2045,26 @@
           "url": "https://www.kyeonggi.com/article/20260905580005",
           "source": "경기일보",
           "date": "2026-09-04"
+        },
+        {
+          "title": "이승기, 前소속사 정산금 소송 또 승소…7억 상당 정산 받는다",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260905/134610605/1",
+          "source": "동아일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "“계약 끝나도 음원 수익 나눠야”…이승기, 후크 상대 6억 9000만원 승소",
+          "url": "https://www.mk.co.kr/news/society/12145009",
+          "source": "매일경제",
+          "date": "2026-09-04"
         }
       ]
     },
     "김소영": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-05T09:44:00+09:00",
-      "lastSeen": "2026-09-05T09:44:00+09:00",
+      "lastSeen": "2026-09-05T10:11:00+09:00",
       "news": [
         {
           "title": "'70억 투자' 김소영, 쿠키 폐업 이어 6년 사업도 접는다…\"여러 사정 겹쳐\"",
@@ -2065,14 +2083,26 @@
           "url": "https://m.news.nate.com/view/20260904n16722?mid=e01&list=recent&cpcd=",
           "source": "네이트",
           "date": "2026-09-04"
+        },
+        {
+          "title": "김소영, 쿠키 사업 접더니 북클럽도 종료…\"여러 사정 겹쳐\"",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777434",
+          "source": "뉴시스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "'70억 투자→폐업 고백' 김소영 \"두달 동안 비상경영..몇번 체했다\"[스타이슈]",
+          "url": "https://v.daum.net/v/20260904140110225",
+          "source": "Daum",
+          "date": "2026-09-04"
         }
       ]
     },
     "습관": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T09:44:00+09:00",
-      "lastSeen": "2026-09-05T09:44:00+09:00",
+      "lastSeen": "2026-09-05T10:11:00+09:00",
       "news": [
         {
           "title": "100세 시대, 지금부터 실천하는 장수 습관 5가지",
@@ -2091,14 +2121,26 @@
           "url": "https://yonginilbo.com/news/article.html?no=110529",
           "source": "용인신문",
           "date": "2026-09-04"
+        },
+        {
+          "title": "100세 시대, 지금부터 실천하는 장수 습관 5가지",
+          "url": "http://topclass.chosun.com/news/articleView.html?idxno=36754",
+          "source": "톱클래스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "“배부르기 전에 숟가락 놓는다”··· 95세 여성이 평생 지킨 습관 8가지",
+          "url": "https://www.vanchosun.com/news/main/frame.php?main=1&boardId=17&bdId=87633",
+          "source": "밴쿠버 조선일보",
+          "date": "2026-09-04"
         }
       ]
     },
     "thứ hạng của real betis gặp real madrid": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-05T09:44:00+09:00",
-      "lastSeen": "2026-09-05T09:44:00+09:00",
+      "lastSeen": "2026-09-05T10:11:00+09:00",
       "news": [
         {
           "title": "Video bóng đá Real Betis - Real Madrid: Mbappe phung phí 11m, trái đắng khó nuốt (La Liga)",
@@ -2121,10 +2163,10 @@
       ]
     },
     "나혼산": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-05T09:44:00+09:00",
-      "lastSeen": "2026-09-05T09:44:00+09:00",
+      "lastSeen": "2026-09-05T10:11:00+09:00",
       "news": [
         {
           "title": "'나혼산' 제작진 \"전현무 카자흐 촬영 사전 준비…진심 사과\"",
@@ -2142,6 +2184,58 @@
           "title": "‘나혼산’, 전현무 ‘즉흥 여행’ 조작 논란에 사과···“알마티 선택 가능성 커 스태프 티켓 미리 발권했다”",
           "url": "https://www.khan.co.kr/article/202609041532001",
           "source": "경향신문",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "이민정": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-05T10:11:00+09:00",
+      "lastSeen": "2026-09-05T10:11:00+09:00",
+      "news": [
+        {
+          "title": "고영욱 \"이민정 고1 때 압구정서...\" 이병헌도 저격 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/05/2026090423390233706",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "고영욱, 이번엔 이민정·이병헌 부부 겨냥…“연예인 놀이에 심취”",
+          "url": "https://www.mk.co.kr/news/hot-issues/12144654",
+          "source": "매일경제",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "\"성폭행 아닌 간음 판결\"..고영욱, 뒤늦게 억울함 토로한 '전자발찌 1호 연예인'[이슈S]",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1004669",
+          "source": "SPOTV NEWS",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "야구 순위": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T10:11:00+09:00",
+      "lastSeen": "2026-09-05T10:11:00+09:00",
+      "news": [
+        {
+          "title": "\"뽑히면 울고 싶어요\" 전체 1순위 유력 하현승, 뜻밖의 한마디... 태극마크에 마음 다잡았다 \"일본·대만전 다 던져 이길게요\" [인터뷰] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/05/2026090413150990903",
+          "source": "머니투데이",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "양키스 40억 제안 거절한, '1순위 예약' 괴물을 3구삼진으로 잡다니...그런데 이 레전드 아들이라고?",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/03/HA4TCZDFHA3DKMTCGFSGKM3CMM/",
+          "source": "조선일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"1순위 확정적인 하현승을 3구 삼진으로\" 잡은 고교생, 알고 보니 레전드 아들",
+          "url": "https://v.daum.net/v/ZYRQN8tWnE",
+          "source": "Daum",
           "date": "2026-09-04"
         }
       ]
