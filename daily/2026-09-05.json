@@ -4069,10 +4069,10 @@
       ]
     },
     "보스턴 다이내믹스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-05T19:11:00+09:00",
-      "lastSeen": "2026-09-05T19:11:00+09:00",
+      "lastSeen": "2026-09-05T19:38:00+09:00",
       "news": [
         {
           "title": "“보스턴다이내믹스 몸값 45조 vs 적자 2조”… 현대차 로봇 홀로서기 성공할까",
@@ -4095,10 +4095,10 @@
       ]
     },
     "이기헌": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-05T19:11:00+09:00",
-      "lastSeen": "2026-09-05T19:11:00+09:00",
+      "lastSeen": "2026-09-05T19:38:00+09:00",
       "news": [
         {
           "title": "“혈세로 간 유학, 복귀 하루 만에 퇴직”…외교부, 유학비 환수 조치",
@@ -4117,14 +4117,26 @@
           "url": "https://www.kyeonggi.com/article/20260905580024",
           "source": "경기일보",
           "date": "2026-09-05"
+        },
+        {
+          "title": "국비 해외연수 마치자 퇴직…외교부 공무원 4명 '먹튀' 논란",
+          "url": "https://v.daum.net/v/20260905192043286",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "외교관 혈세 들여 유학 보냈더니 딴길로…'모럴해저드' 논란",
+          "url": "https://www.yna.co.kr/view/AKR20260904168700001",
+          "source": "연합뉴스",
+          "date": "2026-09-05"
         }
       ]
     },
     "seoul fireworks festival 2026": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T19:11:00+09:00",
-      "lastSeen": "2026-09-05T19:11:00+09:00",
+      "lastSeen": "2026-09-05T19:38:00+09:00",
       "news": [
         {
           "title": "Subway crowd control for fireworks fest",
@@ -4168,6 +4180,188 @@
           "title": "'또' 폭우로 미뤄진 복귀전…85승 베테랑 투수, 이틀 더 쉬고 나온다 [창원 현장]",
           "url": "https://v.daum.net/v/20260904110212938",
           "source": "Daum",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "사건": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-05T19:38:00+09:00",
+      "lastSeen": "2026-09-05T19:38:00+09:00",
+      "news": [
+        {
+          "title": "'재벌X형사2' 연쇄 실종 사건 진범은 유승호? 이번엔 이새롬 초대",
+          "url": "https://v.daum.net/v/20260905165440301",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'재벌X형사2' 안보현, 참극 막은 맨손 투혼 엔딩...실체 밝혀진 '예고 괴담' [종합] - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/05/2026090508387241190",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[다시보기] 재벌X형사 2 9회",
+          "url": "https://programs.sbs.co.kr/drama/sd243062/vod/88572/22000635247",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "등산": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-05T19:38:00+09:00",
+      "lastSeen": "2026-09-05T19:38:00+09:00",
+      "news": [
+        {
+          "title": "“AI가 가라는대로 갔다가” 美초보 등산객 3명, 해발 4000m 산서 조난",
+          "url": "https://www.donga.com/news/Inter/article/all/20260905/134610925/2",
+          "source": "동아일보",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "‘AI 등산 가이드’ 믿은 대가…美 등산객 3명, 4000m 산에서 죽을 고비",
+          "url": "https://www.munhwa.com/article/11614689",
+          "source": "문화일보",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "\"살려주세요\" 4000m 산길 쉽게 보다가…초보 등산객들, 결국 구조대 불렀다",
+          "url": "https://view.asiae.co.kr/article/2026090509492392198",
+          "source": "아시아경제",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "양의지": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T19:38:00+09:00",
+      "lastSeen": "2026-09-05T19:38:00+09:00",
+      "news": [
+        {
+          "title": "[사진]김민준, 힘차게 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/05/202609051748773493O",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[사진]김민석, 8회 선두타자 볼넷 출루",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/09/05/GM3DIMRSHE2TKMRVMFSTMN3BGE/",
+          "source": "조선일보",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[AI그래픽] SSG 김민준 올시즌 7번째 QS 달성, 9월 5일 인천 두산전 투구 분석",
+          "url": "https://www.newspim.com/news/view/20260905000096",
+          "source": "뉴스핌",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "fc 서울 대 인천": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-05T19:38:00+09:00",
+      "lastSeen": "2026-09-05T19:38:00+09:00",
+      "news": [
+        {
+          "title": "4경기 17골 몰아친 서울, 시즌 첫 5연승 노린다!",
+          "url": "https://www.ytn.co.kr/_ln/0107_202609042321455273",
+          "source": "YTN",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "김기동의 ‘팀 퍼스트’…축구명가 되살렸다",
+          "url": "https://v.daum.net/v/GVk6nrRfSg",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "서울, 시즌 첫 5연승 도전…광주 징크스 끊어낼까",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260905093920Riw",
+          "source": "연합뉴스TV",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "전북 대 포항": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-05T19:38:00+09:00",
+      "lastSeen": "2026-09-05T19:38:00+09:00",
+      "news": [
+        {
+          "title": "ACL과 프로축구 K리그|'이승우 선발 vs 기성용 출격' 전북-포항, 승점 4점 걸린 상위권 운명의 맞대결 [오!쎈 현장]",
+          "url": "https://m.news.zum.com/photo/58122204/107580861?cm=news_photolist&r=5&thumb=1",
+          "source": "ZUM 뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "\"어디 가서 프로라고 말하기 부끄러울 정도, 처참하다\" 박태하 포항 감독, 전북전 앞두고 '결정력' 집중 점검 [현장 인터뷰] - 조선비즈",
+          "url": "https://biz.chosun.com/sports/football/2026/09/05/HEZWMYLGMJTGKNTGMEZDMNLGMU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'강상윤·김진규 줄부상' 갈 길 바쁜 전북에 닥친 악재...정정용 전북 감독, \"가용 자원으로 해내야 한다\" [현장 인터뷰]",
+          "url": "https://www.osen.co.kr/article/G1112870604",
+          "source": "OSEN",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "고령자": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-05T19:38:00+09:00",
+      "lastSeen": "2026-09-05T19:38:00+09:00",
+      "news": [
+        {
+          "title": "나이 들면 역세권보다 ‘이것’...중산층 고령자가 살고싶은 집은 [부동산360]",
+          "url": "https://v.daum.net/v/20260905150210976",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "시니어 레지던스, 노후의 품격을 완성하다",
+          "url": "https://www.hankyung.com/article/2026090327851",
+          "source": "한국경제",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "초고령사회 달라진 노후 주거…주거·의료 갖춘 ‘라우어 시니어타운’",
+          "url": "https://sports.donga.com/economy/article/all/20260903/134596834/1",
+          "source": "스포츠동아",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "제주 대 울산": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-05T19:38:00+09:00",
+      "lastSeen": "2026-09-05T19:38:00+09:00",
+      "news": [
+        {
+          "title": "제주SK 홈 마지막 경기도 \"반드시 연승 간다\"",
+          "url": "https://m.ihalla.com/article.php?aid=1788400090790054051",
+          "source": "한라일보",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "이동경·야고 앞세운 울산, 제주전 3연승 도전",
+          "url": "https://v.daum.net/v/20260903120253711",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'박수빈 활동량+네게바 스피드' 제주, 대전 잡고 울산까지 격파 목표…위 도약과 설욕 두 마리 토끼 잡는다!",
+          "url": "https://m.news.nate.com/view/20260904n25397",
+          "source": "네이트",
           "date": "2026-09-05"
         }
       ]
