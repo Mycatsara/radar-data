@@ -2,10 +2,10 @@
   "date": "2026-09-06",
   "keywords": {
     "athletic vs atlético madrid": {
-      "count": 3,
-      "maxTraffic": 200,
+      "count": 4,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T01:12:00+09:00",
+      "lastSeen": "2026-09-06T01:39:00+09:00",
       "news": [
         {
           "title": "¡Descubre las alineaciones titulares del Athletic Club-Atlético de Madrid!",
@@ -40,10 +40,10 @@
       ]
     },
     "로또 1240": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T01:12:00+09:00",
+      "lastSeen": "2026-09-06T01:39:00+09:00",
       "news": [
         {
           "title": "로또 1240회 1등 16명···각 17억9000만원씩",
@@ -72,10 +72,10 @@
       ]
     },
     "man city vs coventry": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T01:12:00+09:00",
+      "lastSeen": "2026-09-06T01:39:00+09:00",
       "news": [
         {
           "title": "Manchester City vs Coventry City: Premier League preview, team news, stats & head-to-head",
@@ -310,10 +310,10 @@
       ]
     },
     "토트넘 노팅엄": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T01:12:00+09:00",
+      "lastSeen": "2026-09-06T01:39:00+09:00",
       "news": [
         {
           "title": "5500억 썼지만 달라진 게 없다…토트넘이 못산 '위닝 멘털리티'",
@@ -342,10 +342,10 @@
       ]
     },
     "실시간스포츠": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T01:12:00+09:00",
+      "lastSeen": "2026-09-06T01:39:00+09:00",
       "news": [
         {
           "title": "'6연승 도전' LG 라인업 떴다...오지환-박동원 선발 제외, 어제 라인업과 똑같다 [오!쎈 잠실]",
@@ -368,10 +368,10 @@
       ]
     },
     "nottm forest vs spurs": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T01:12:00+09:00",
+      "lastSeen": "2026-09-06T01:39:00+09:00",
       "news": [
         {
           "title": "Nottingham Forest vs Tottenham Hotspur: Premier League preview, team news, stats & head-to-head",
@@ -396,14 +396,20 @@
           "url": "https://sports.yahoo.com/articles/roberto-zerbi-reaction-did-spurs-155649335.html",
           "source": "Yahoo Sports",
           "date": "2026-09-05"
+        },
+        {
+          "title": "N Forest vs Spurs LIVE! Premier League match updates, news and score",
+          "url": "https://www.skysports.com/football/live-blog/11661/13572127/nottingham-forest-vs-tottenham-live-premier-league-score-updates-news-prediction-and-lineups",
+          "source": "Sky Sports",
+          "date": "2026-09-05"
         }
       ]
     },
     "f1": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T01:12:00+09:00",
-      "lastSeen": "2026-09-06T01:12:00+09:00",
+      "lastSeen": "2026-09-06T01:39:00+09:00",
       "news": [
         {
           "title": "Gasly charges to sensational maiden F1 pole at Monza over Russell and Piastri",
@@ -422,14 +428,26 @@
           "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-italian-gp/10852506/",
           "source": "Motorsport.com",
           "date": "2026-09-05"
+        },
+        {
+          "title": "F1 Italian GP LIVE: Final Practice and Qualifying updates, results, stream, highlights from Formula 1 race weekend at Monza",
+          "url": "https://www.skysports.com/f1/live-blog/12433/13581626/f1-italian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
+          "source": "Sky Sports",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "F1 qualifying LIVE: Reaction as Pierre Gasly takes Italian Grand Prix pole",
+          "url": "https://www.bbc.com/sport/formula1/live/c8ejw95jj4rt",
+          "source": "BBC",
+          "date": "2026-09-05"
         }
       ]
     },
     "agi": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T01:12:00+09:00",
-      "lastSeen": "2026-09-06T01:12:00+09:00",
+      "lastSeen": "2026-09-06T01:39:00+09:00",
       "news": [
         {
           "title": "OpenAI Unveils Astra AI With Evasion Capabilities",
@@ -472,6 +490,58 @@
         {
           "title": "\"이강인·바에나가 가장 좋은 호흡\" 스페인도 극찬...최전방 공격수로 3경기 연속 선발 전망→상대는 '좋은 기억' 아틀레틱 클루브",
           "url": "https://v.daum.net/v/20260905135039271",
+          "source": "Daum",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "샬케 대 바이에른": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-06T01:39:00+09:00",
+      "lastSeen": "2026-09-06T01:39:00+09:00",
+      "news": [
+        {
+          "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-fc-schalke-04-vs-bayern-munchen-khach-tiep-tuc-bay-cao",
+          "source": "Vietnam.vn",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "분데스리가 샬케 04 대 바이에른 뮌헨 경기 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-schalke-04-vs-bayern-munich-tai-bundesliga-1761700.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "샬케 대 바이에른 뮌헨 경기 예측, 9월 5일 23시 30분: 홈팀을 완파할 것.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-schalke-vs-bayern-munich-23h30-ngay-5-9-vui-dap-chu-nha",
+          "source": "Vietnam.vn",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "아틀레틱 대 아��레티코": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-09-06T01:39:00+09:00",
+      "lastSeen": "2026-09-06T01:39:00+09:00",
+      "news": [
+        {
+          "title": "'이강인 골대·59분 출전' 아틀레티코, 빌바오 원정서 시즌 첫 패배",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777771",
+          "source": "뉴시스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'벌써 1골 1도움' 이강인, 3경기 연속 선발 출격 확정... 아틀레티코-빌바오전 라인업 공개 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/05/2026090521081467983",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "\"이강인·바에나가 가장 좋은 호흡\" 스페인도 극찬...최전방 공격수로 3경기 연속 선발 전망→상대는 '좋은 기억' 아틀레틱 클루브",
+          "url": "https://v.daum.net/v/20260905135039271?f=p",
           "source": "Daum",
           "date": "2026-09-05"
         }
