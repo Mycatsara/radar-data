@@ -2,10 +2,10 @@
   "date": "2026-09-06",
   "keywords": {
     "athletic vs atlético madrid": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T01:39:00+09:00",
+      "lastSeen": "2026-09-06T02:11:00+09:00",
       "news": [
         {
           "title": "¡Descubre las alineaciones titulares del Athletic Club-Atlético de Madrid!",
@@ -40,10 +40,10 @@
       ]
     },
     "로또 1240": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T01:39:00+09:00",
+      "lastSeen": "2026-09-06T02:11:00+09:00",
       "news": [
         {
           "title": "로또 1240회 1등 16명···각 17억9000만원씩",
@@ -72,10 +72,10 @@
       ]
     },
     "man city vs coventry": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T01:39:00+09:00",
+      "lastSeen": "2026-09-06T02:11:00+09:00",
       "news": [
         {
           "title": "Manchester City vs Coventry City: Premier League preview, team news, stats & head-to-head",
@@ -110,10 +110,10 @@
       ]
     },
     "아틀레틱 대 아틀레티코": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T00:39:00+09:00",
+      "lastSeen": "2026-09-06T02:11:00+09:00",
       "news": [
         {
           "title": "이강인, 빌바오전 선발 출격…'연속 공격포인트' 정조준",
@@ -137,6 +137,12 @@
           "title": "\"이강인·바에나가 가장 좋은 호흡\" 스페인도 극찬...최전방 공격수로 3경기 연속 선발 전망→상대는 '좋은 기억' 아틀레틱 클루브",
           "url": "https://v.daum.net/v/20260905135039271",
           "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'이강인 골대·59분 출전' 아틀레티코, 빌바오 원정서 시즌 첫 패배",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777771",
+          "source": "뉴시스",
           "date": "2026-09-05"
         }
       ]
@@ -342,10 +348,10 @@
       ]
     },
     "실시간스포츠": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T01:39:00+09:00",
+      "lastSeen": "2026-09-06T02:11:00+09:00",
       "news": [
         {
           "title": "'6연승 도전' LG 라인업 떴다...오지환-박동원 선발 제외, 어제 라인업과 똑같다 [오!쎈 잠실]",
@@ -368,10 +374,10 @@
       ]
     },
     "nottm forest vs spurs": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T01:39:00+09:00",
+      "lastSeen": "2026-09-06T02:11:00+09:00",
       "news": [
         {
           "title": "Nottingham Forest vs Tottenham Hotspur: Premier League preview, team news, stats & head-to-head",
@@ -406,10 +412,10 @@
       ]
     },
     "f1": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T01:12:00+09:00",
-      "lastSeen": "2026-09-06T01:39:00+09:00",
+      "lastSeen": "2026-09-06T02:11:00+09:00",
       "news": [
         {
           "title": "Gasly charges to sensational maiden F1 pole at Monza over Russell and Piastri",
@@ -444,10 +450,10 @@
       ]
     },
     "agi": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T01:12:00+09:00",
-      "lastSeen": "2026-09-06T01:39:00+09:00",
+      "lastSeen": "2026-09-06T02:11:00+09:00",
       "news": [
         {
           "title": "OpenAI Unveils Astra AI With Evasion Capabilities",
@@ -496,10 +502,10 @@
       ]
     },
     "샬케 대 바이에른": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-06T01:39:00+09:00",
-      "lastSeen": "2026-09-06T01:39:00+09:00",
+      "lastSeen": "2026-09-06T02:11:00+09:00",
       "news": [
         {
           "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
@@ -543,6 +549,32 @@
           "title": "\"이강인·바에나가 가장 좋은 호흡\" 스페인도 극찬...최전방 공격수로 3경기 연속 선발 전망→상대는 '좋은 기억' 아틀레틱 클루브",
           "url": "https://v.daum.net/v/20260905135039271?f=p",
           "source": "Daum",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "분데스리가": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T02:11:00+09:00",
+      "lastSeen": "2026-09-06T02:11:00+09:00",
+      "news": [
+        {
+          "title": "‘패스 성공률 98%+평점 7점대+3경기 연속 선발’ 돌아온 철기둥, 김민재, 뮌헨 3번째 시즌은 다르다 ‘뮌헨 오스나크뷔르에 4-1 대역전승→포칼 2라운드 진출’",
+          "url": "https://v.daum.net/v/3HZQKXDgCb",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "바이에른 뮌헨 김민재, 3경기 연속 선발‥포칼 첫 경기서 대승",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6849283_36946.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "“KIM 큰 실수 저질렀다” 獨 언론, 김민재에게 내린 각박한 평가 그리고 엇갈린 의견, 통계 매체는 ‘높은 평...",
+          "url": "https://sports.khan.co.kr/article/202609031945003",
+          "source": "스포츠경향",
           "date": "2026-09-05"
         }
       ]
