@@ -2,10 +2,10 @@
   "date": "2026-09-06",
   "keywords": {
     "athletic vs atlético madrid": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T02:38:00+09:00",
+      "lastSeen": "2026-09-06T03:13:00+09:00",
       "news": [
         {
           "title": "¡Descubre las alineaciones titulares del Athletic Club-Atlético de Madrid!",
@@ -40,10 +40,10 @@
       ]
     },
     "로또 1240": {
-      "count": 6,
-      "maxTraffic": 1000,
+      "count": 7,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T02:38:00+09:00",
+      "lastSeen": "2026-09-06T03:13:00+09:00",
       "news": [
         {
           "title": "로또 1240회 1등 16명···각 17억9000만원씩",
@@ -72,10 +72,10 @@
       ]
     },
     "man city vs coventry": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T02:38:00+09:00",
+      "lastSeen": "2026-09-06T03:13:00+09:00",
       "news": [
         {
           "title": "Manchester City vs Coventry City: Premier League preview, team news, stats & head-to-head",
@@ -348,10 +348,10 @@
       ]
     },
     "실시간스포츠": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T02:38:00+09:00",
+      "lastSeen": "2026-09-06T03:13:00+09:00",
       "news": [
         {
           "title": "'6연승 도전' LG 라인업 떴다...오지환-박동원 선발 제외, 어제 라인업과 똑같다 [오!쎈 잠실]",
@@ -374,10 +374,10 @@
       ]
     },
     "nottm forest vs spurs": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T02:38:00+09:00",
+      "lastSeen": "2026-09-06T03:13:00+09:00",
       "news": [
         {
           "title": "Nottingham Forest vs Tottenham Hotspur: Premier League preview, team news, stats & head-to-head",
@@ -412,10 +412,10 @@
       ]
     },
     "f1": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T01:12:00+09:00",
-      "lastSeen": "2026-09-06T02:38:00+09:00",
+      "lastSeen": "2026-09-06T03:13:00+09:00",
       "news": [
         {
           "title": "Gasly charges to sensational maiden F1 pole at Monza over Russell and Piastri",
@@ -450,10 +450,10 @@
       ]
     },
     "agi": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T01:12:00+09:00",
-      "lastSeen": "2026-09-06T02:38:00+09:00",
+      "lastSeen": "2026-09-06T03:13:00+09:00",
       "news": [
         {
           "title": "OpenAI Unveils Astra AI With Evasion Capabilities",
@@ -502,10 +502,10 @@
       ]
     },
     "샬케 대 바이에른": {
-      "count": 3,
-      "maxTraffic": 5000,
+      "count": 4,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-06T01:39:00+09:00",
-      "lastSeen": "2026-09-06T02:38:00+09:00",
+      "lastSeen": "2026-09-06T03:13:00+09:00",
       "news": [
         {
           "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
@@ -554,10 +554,10 @@
       ]
     },
     "분데스리가": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T02:11:00+09:00",
-      "lastSeen": "2026-09-06T02:38:00+09:00",
+      "lastSeen": "2026-09-06T03:13:00+09:00",
       "news": [
         {
           "title": "‘패스 성공률 98%+평점 7점대+3경기 연속 선발’ 돌아온 철기둥, 김민재, 뮌헨 3번째 시즌은 다르다 ‘뮌헨 오스나크뷔르에 4-1 대역전승→포칼 2라운드 진출’",
@@ -575,6 +575,38 @@
           "title": "“KIM 큰 실수 저질렀다” 獨 언론, 김민재에게 내린 각박한 평가 그리고 엇갈린 의견, 통계 매체는 ‘높은 평...",
           "url": "https://sports.khan.co.kr/article/202609031945003",
           "source": "스포츠경향",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "‘김민재 3경기 연속 선발’ 뮌헨, 포칼 첫 경기서 4-1 대승",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8653439",
+          "source": "KBS 뉴스",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "석유": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T03:13:00+09:00",
+      "lastSeen": "2026-09-06T03:13:00+09:00",
+      "news": [
+        {
+          "title": "미군 \"미 군함 겨냥 미사일 발사 대응해 이란 유조선 3척 타격\"",
+          "url": "https://v.daum.net/v/20260905233000991",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "이란 “미군, 이란 유조선 공격”…원유 수출 하르그섬 인근 폭발음",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1276397.html",
+          "source": "한겨레",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "美 중부사령부 \"이란 유조선 3척 타격…운항 불능으로 만들어\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433595",
+          "source": "연합인포맥스",
           "date": "2026-09-05"
         }
       ]
