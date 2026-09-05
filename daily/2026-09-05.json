@@ -1598,10 +1598,10 @@
       ]
     },
     "에이브 러햄 링컨": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-05T08:37:00+09:00",
-      "lastSeen": "2026-09-05T08:37:00+09:00",
+      "lastSeen": "2026-09-05T09:20:00+09:00",
       "news": [
         {
           "title": "'지옥에 다녀온' 5천 미군‥\"땅이다\" 파타야 우르르",
@@ -1620,14 +1620,20 @@
           "url": "https://v.daum.net/v/VuSofuSrAG",
           "source": "Daum",
           "date": "2026-09-04"
+        },
+        {
+          "title": "\"美항모 링컨호 녹슬고, 미 패권도 마찬가지\"라고 조롱한 중국 관영매체",
+          "url": "https://v.daum.net/v/20260904153246581?f=p",
+          "source": "Daum",
+          "date": "2026-09-04"
         }
       ]
     },
     "민혜 연": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-05T08:37:00+09:00",
-      "lastSeen": "2026-09-05T08:37:00+09:00",
+      "lastSeen": "2026-09-05T09:20:00+09:00",
       "news": [
         {
           "title": "주진모, 오랜만에 근황..아내 ♥민혜연 \"예쁘지 않아?\"에 현실 반응",
@@ -1640,14 +1646,20 @@
           "url": "https://www.sportschosun.com/entertainment/2026-09-04/202609040100032780002064",
           "source": "스포츠조선",
           "date": "2026-09-04"
+        },
+        {
+          "title": "주진모, 오랜만에 근황..아내 ♥민혜연 \"예쁘지 않아?\"에 현실 반응",
+          "url": "https://v.daum.net/v/Quy30A8Bvq",
+          "source": "Daum",
+          "date": "2026-09-04"
         }
       ]
     },
     "기안84": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-05T08:37:00+09:00",
-      "lastSeen": "2026-09-05T08:37:00+09:00",
+      "lastSeen": "2026-09-05T09:20:00+09:00",
       "news": [
         {
           "title": "네팔 대홍수 속 무사하다던 '기안84 셰르파' 라이, 아산서 깜짝 포착",
@@ -1666,14 +1678,26 @@
           "url": "https://v.daum.net/v/20260904180753572?f=p",
           "source": "Daum",
           "date": "2026-09-04"
+        },
+        {
+          "title": "리센느·이선민처럼…기안84가 점찍은 '잔고 0원 아이돌' 유스피어 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/05/HE3TCNJZME2TIOLFMJSTKN3DGU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "기안84도 놀란 신인 아이돌 잔고 “통장에 100원도 없어…엄마 카드 쓴다”",
+          "url": "https://v.daum.net/v/20260905022037891",
+          "source": "Daum",
+          "date": "2026-09-04"
         }
       ]
     },
     "한국갤럽": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-05T08:37:00+09:00",
-      "lastSeen": "2026-09-05T08:37:00+09:00",
+      "lastSeen": "2026-09-05T09:20:00+09:00",
       "news": [
         {
           "title": "[뉴스 즉설]민주당보다 못한 이 대통령 지지율, 김승원·용혜인 카드는 '자충수'",
@@ -1691,6 +1715,18 @@
           "title": "이재명 대통령 지지율 40% '취임 후 최저'…국민의힘 5%p 급등 - 머니투데이",
           "url": "https://www.mt.co.kr/politics/2026/09/04/2026090410245980403",
           "source": "머니투데이",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "李지지율 40% 취임후 최저… 민주 38%-국힘 30% 격차 줄어",
+          "url": "https://www.donga.com/news/Politics/article/all/20260904/134609694/2",
+          "source": "동아일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "지지율 하락 속 '왼쪽챙기기' 이어가는 李대통령…반전 가능할까",
+          "url": "https://www.yna.co.kr/view/AKR20260904138800001",
+          "source": "연합뉴스",
           "date": "2026-09-04"
         }
       ]
@@ -1802,6 +1838,162 @@
           "title": "How Micron Technology (MU) is Shaping the AI Landscape",
           "url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-shaping-ai-133716803.html",
           "source": "Yahoo Finance",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "재혼": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T09:20:00+09:00",
+      "lastSeen": "2026-09-05T09:20:00+09:00",
+      "news": [
+        {
+          "title": "결혼하고 아이 키울 때, 나에게 올 2027년 예산안 - 카드/한컷 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148971183",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "[와글와글 플러스] 혼인지원금 100만 원‥\"도움\" vs \"왜 기혼자만?\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6849545_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"재혼도 주면서 비혼은 왜 안줘\"…혼인지원금 100만원에 청년층 '시끌'",
+          "url": "https://view.asiae.co.kr/article/2026090409001392461",
+          "source": "아시아경제",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "청도군": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T09:20:00+09:00",
+      "lastSeen": "2026-09-05T09:20:00+09:00",
+      "news": [
+        {
+          "title": "청도군, 허민 국가유산청장 운문사 현장 방문…수장고 건립 지원 요청",
+          "url": "https://www.metroseoul.co.kr/article/20260904500260",
+          "source": "메트로신문",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "청도군, 문화유산으로 지역 활력 모색",
+          "url": "https://m.joongdo.co.kr/view.php?key=20260904010001481",
+          "source": "중도일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "인구소멸 위기 청도의 ‘문화재 승부수’… “말 잔치 말고 예산 내놔라” 문화재청장 직격",
+          "url": "https://www.thebk.co.kr/news/articleView.html?idxno=311505",
+          "source": "뷰티경제",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "테니스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T09:20:00+09:00",
+      "lastSeen": "2026-09-05T09:20:00+09:00",
+      "news": [
+        {
+          "title": "[테니스] US 오픈 3R 결과",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3685509",
+          "source": "국제뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "US오픈 첫날 강자 순항…페굴라, 첫 메이저 우승 향해 산뜻한 출발",
+          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=321779",
+          "source": "STN SPORTS",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "북미하드코트 시즌 부진했던 메드베데프, 2026 US 오픈 1R 통과...루드는 대회 전 기권",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53565",
+          "source": "테니스코리아",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "레드삭스 대 오리올스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T09:20:00+09:00",
+      "lastSeen": "2026-09-05T09:20:00+09:00",
+      "news": [
+        {
+          "title": "MLB 보스턴 포수 러치맨, 이적 이후 첫 친정 방문서 홈런 '쾅쾅'",
+          "url": "https://www.newsis.com/view/NISX20260904_0003776565",
+          "source": "뉴시스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "친��� 팀 울린 러치맨, MLB 볼티모어 상대로 '멀티 홈런'",
+          "url": "https://www.news1.kr/sports/overseas-baseball/6280185",
+          "source": "뉴스1",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "‘올스타 포수’ 러치맨, 보스턴 이적 후 첫 멀티홈런 ‘친정팀 울렸다’",
+          "url": "https://v.daum.net/v/7Q6YGbYC7p",
+          "source": "Daum",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "가덕도": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T09:20:00+09:00",
+      "lastSeen": "2026-09-05T09:20:00+09:00",
+      "news": [
+        {
+          "title": "가덕도신공항 공사비 증액 새 국면… 법제처, 유권해석 요청 반려",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260903.99099000894",
+          "source": "국제신문",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "6000억 뛴 가덕도 신공항 공사비 해법 보인다",
+          "url": "https://www.sedaily.com/article/20085004",
+          "source": "서울경제",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "[단독] 법제처, 가덕도신공항 공사비 유권해석 ‘반려’…해법 다시 부처 협의로",
+          "url": "https://v.daum.net/v/20260902111803736",
+          "source": "Daum",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "범죄": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-05T09:20:00+09:00",
+      "lastSeen": "2026-09-05T09:20:00+09:00",
+      "news": [
+        {
+          "title": "[속보]어린이집서 낮잠자던 3세 남아 심정지 상태로 발견…경찰 수사",
+          "url": "https://www.munhwa.com/article/11614642",
+          "source": "문화일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "청주 어린이집서 낮잠 자던 3세 남아 숨져…경찰 수사(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260904134251064",
+          "source": "연합뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "보육교사 “숨을 쉬지 않는다”···청주 어린이집서 낮잠자던 3살 남아 숨져",
+          "url": "https://www.khan.co.kr/article/202609041710001",
+          "source": "경향신문",
           "date": "2026-09-04"
         }
       ]
