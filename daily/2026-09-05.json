@@ -2253,10 +2253,10 @@
       ]
     },
     "이영표": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-05T10:39:00+09:00",
-      "lastSeen": "2026-09-05T11:40:00+09:00",
+      "lastSeen": "2026-09-05T12:13:00+09:00",
       "news": [
         {
           "title": "“홍명보 감독보다 더 큰 재앙 올 것 같아” 팬들 우려와 달리…이영표 해설위원 긍정적 전망 “아시안게임 4연속 금메달 딸 수 있을 것”",
@@ -2279,10 +2279,10 @@
       ]
     },
     "사업": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T10:39:00+09:00",
-      "lastSeen": "2026-09-05T11:40:00+09:00",
+      "lastSeen": "2026-09-05T12:13:00+09:00",
       "news": [
         {
           "title": "보링 컴퍼니, 최신 투자 라운드에서 기업 가치 200억 달러 달성",
@@ -2305,10 +2305,10 @@
       ]
     },
     "산불": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-05T10:39:00+09:00",
-      "lastSeen": "2026-09-05T11:40:00+09:00",
+      "lastSeen": "2026-09-05T12:13:00+09:00",
       "news": [
         {
           "title": "산불 현장마다 나타나…'혈세 700억 원' 빼돌렸다",
@@ -2326,6 +2326,12 @@
           "title": "'메뚜기 입찰' 산불카르텔 10곳 세무조사",
           "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202609041102426517",
           "source": "YTN 사이언스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "산불 현장마다 나타나…'혈세 700억 원' 빼돌렸다",
+          "url": "https://v.daum.net/v/xrO6UHEoUF",
+          "source": "Daum",
           "date": "2026-09-05"
         }
       ]
@@ -2395,10 +2401,10 @@
       ]
     },
     "한혜연": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-05T11:12:00+09:00",
-      "lastSeen": "2026-09-05T11:40:00+09:00",
+      "lastSeen": "2026-09-05T12:13:00+09:00",
       "news": []
     },
     "용준형": {
@@ -2454,10 +2460,10 @@
       ]
     },
     "용 준형": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-05T11:40:00+09:00",
-      "lastSeen": "2026-09-05T11:40:00+09:00",
+      "lastSeen": "2026-09-05T12:13:00+09:00",
       "news": [
         {
           "title": "현아♥용준형, 미국서 제대로 붙어 다니네…안경까지 맞춘 '커플룩'",
@@ -2476,14 +2482,20 @@
           "url": "https://www.osen.co.kr/article/G1112870156",
           "source": "OSEN",
           "date": "2026-09-05"
+        },
+        {
+          "title": "현아, 남편 용준형과 美 LA에서 휴가 만끽…다정한 부부 [N샷]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6280917",
+          "source": "뉴스1",
+          "date": "2026-09-05"
         }
       ]
     },
     "네팔": {
-      "count": 1,
-      "maxTraffic": 5000,
+      "count": 2,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-05T11:40:00+09:00",
-      "lastSeen": "2026-09-05T11:40:00+09:00",
+      "lastSeen": "2026-09-05T12:13:00+09:00",
       "news": [
         {
           "title": "속보 조현 외교부 장관, 오늘부터 네팔 방문",
@@ -2502,14 +2514,26 @@
           "url": "https://www.hani.co.kr/arti/area/area_general/1276377.html",
           "source": "한겨레",
           "date": "2026-09-05"
+        },
+        {
+          "title": "네팔군, 한국 구호대 한국인 9명 실종 지역 도보수색 불허",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6849744_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[사실은] 중국 겨누다 물러선 네팔?…'기후 보상' 어떻게",
+          "url": "https://v.daum.net/v/20260905105100362",
+          "source": "Daum",
+          "date": "2026-09-05"
         }
       ]
     },
     "식이": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T11:40:00+09:00",
-      "lastSeen": "2026-09-05T11:40:00+09:00",
+      "lastSeen": "2026-09-05T12:13:00+09:00",
       "news": [
         {
           "title": "\"운동할 때만?\" 단백질, 면·샌드위치 등 일상식으로 즐긴다",
@@ -2553,6 +2577,84 @@
           "title": "Troy Parrott the match-winner as Real Betis upset Real Madrid",
           "url": "https://www.rte.ie/sport/soccer/2026/0904/1590408-parrott-the-match-winner-as-real-betis-upset-real-madrid/",
           "source": "RTE.ie",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "테니스 선수": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-05T12:13:00+09:00",
+      "lastSeen": "2026-09-05T12:13:00+09:00",
+      "news": [
+        {
+          "title": "‘테니스 엔터테이너’ 몽피스, 메이저 무대와 작별",
+          "url": "https://www.donga.com/news/Sports/article/all/20260905/134609640/2",
+          "source": "동아일보",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[US오픈] '내 샷을 받아라'",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3684942",
+          "source": "국제뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "인연도 이런 인연이 있을까",
+          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19382",
+          "source": "테니스피플",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "인턴": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T12:13:00+09:00",
+      "lastSeen": "2026-09-05T12:13:00+09:00",
+      "news": [
+        {
+          "title": "37년차 막내와 3년차 CEO의 따뜻한 동행…최민식·한소희 '인턴'",
+          "url": "https://www.yna.co.kr/view/AKR20260905001700005",
+          "source": "연합뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "따뜻한 어른의 위로가 필요할 때, 영화 '인턴' [TF사진관]",
+          "url": "https://v.daum.net/v/8X4UzhLxNe",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "류혜영 \"AI로 점성학 통해 내 미래 물으며 잠들어\"",
+          "url": "https://www.newsis.com/view/NISX20260904_0003777272",
+          "source": "뉴시스",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "홍명보": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-09-05T12:13:00+09:00",
+      "lastSeen": "2026-09-05T12:13:00+09:00",
+      "news": [
+        {
+          "title": "박항서 \"손흥민이 찾아왔었다… 축구협회 카르텔 있어\" 작심 폭로",
+          "url": "https://www.chosun.com/national/people/2026/09/05/SCMN5OZ2LFGUPA42KJINXAU3X4/",
+          "source": "조선일보",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "축협 비판한 박항서...이영표·박주호에 남긴 말 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/04/2026090420350867533",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "\"암적인 폐습 모두 뜯어고쳐야\" 무너질 대로 무너진 한국축구 신뢰, 어떻게 회복할 수 있을까 [창간 ③]",
+          "url": "https://v.daum.net/v/20260905060250232",
+          "source": "Daum",
           "date": "2026-09-05"
         }
       ]
