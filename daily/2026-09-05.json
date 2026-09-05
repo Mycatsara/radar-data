@@ -4927,10 +4927,10 @@
       ]
     },
     "이상순": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-05T22:11:00+09:00",
-      "lastSeen": "2026-09-05T23:11:00+09:00",
+      "lastSeen": "2026-09-05T23:38:00+09:00",
       "news": [
         {
           "title": "이상순, 7일 연속 라디오 DJ 불참…청취자 걱정 커저",
@@ -4979,10 +4979,10 @@
       ]
     },
     "김재윤": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-05T22:38:00+09:00",
-      "lastSeen": "2026-09-05T23:11:00+09:00",
+      "lastSeen": "2026-09-05T23:38:00+09:00",
       "news": [
         {
           "title": "삼성, 연장 혈투 끝에 LG 6연승 저지하고 선두 탈환…KIA, 이틀 연속 KT 제압(종합)",
@@ -5017,10 +5017,10 @@
       ]
     },
     "이강철": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-05T22:38:00+09:00",
-      "lastSeen": "2026-09-05T23:11:00+09:00",
+      "lastSeen": "2026-09-05T23:38:00+09:00",
       "news": [
         {
           "title": "“차라리 홈런을 맞지”…김도영에게 준 8회 스트레이트 볼넷, 이강철 감독이 땅을 친 장면[스경x비하인드]",
@@ -5055,10 +5055,10 @@
       ]
     },
     "젠지 한화": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-05T22:38:00+09:00",
-      "lastSeen": "2026-09-05T23:11:00+09:00",
+      "lastSeen": "2026-09-05T23:38:00+09:00",
       "news": [
         {
           "title": "디펜딩 챔피언 젠지, 한화생명 꺾고 LCK 결승 진출",
@@ -5087,10 +5087,10 @@
       ]
     },
     "노팅엄 포레스트 대 토트넘": {
-      "count": 1,
-      "maxTraffic": 10000,
+      "count": 2,
+      "maxTraffic": 20000,
       "firstSeen": "2026-09-05T23:11:00+09:00",
-      "lastSeen": "2026-09-05T23:11:00+09:00",
+      "lastSeen": "2026-09-05T23:38:00+09:00",
       "news": [
         {
           "title": "5500억 썼지만 달라진 게 없다…토트넘이 못산 '위닝 멘털리티'",
@@ -5113,10 +5113,10 @@
       ]
     },
     "호펜하임 대 도르트문트": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-05T23:11:00+09:00",
-      "lastSeen": "2026-09-05T23:11:00+09:00",
+      "lastSeen": "2026-09-05T23:38:00+09:00",
       "news": [
         {
           "title": "1899 호펜하임 vs 보루시아 도르트문트 예측: 정상 경쟁의 뜨거운 승부",
@@ -5128,6 +5128,110 @@
           "title": "호펜하임 대 도르트문트, 9월 5일 오후 8시 30분: 생중계 링크, 분석 및 예측.",
           "url": "https://www.vietnam.vn/ko/hoffenheim-vs-dortmund-20h30-ngay-5-9-link-xem-truc-tiep-nhan-dinh-du-doan",
           "source": "Vietnam.vn",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "로또 1240": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-05T23:38:00+09:00",
+      "lastSeen": "2026-09-05T23:38:00+09:00",
+      "news": [
+        {
+          "title": "로또 1240회 1등 16명···각 17억9000만원씩",
+          "url": "https://www.khan.co.kr/article/202609052112001",
+          "source": "경향신문",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "이번 주 로또 1등 16명…당첨번호와 판매점은 어디?",
+          "url": "https://www.kyeonggi.com/article/20260905580115",
+          "source": "경기일보",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[속보] 9월 첫 로또 1등은 16명...7억9천182만원씩 ‘대박’",
+          "url": "https://v.daum.net/v/20260905204720260",
+          "source": "Daum",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "man city vs coventry": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T23:38:00+09:00",
+      "lastSeen": "2026-09-05T23:38:00+09:00",
+      "news": [
+        {
+          "title": "Manchester City vs Coventry City: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c6dj4d7xzjzkt",
+          "source": "BBC",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Ndiaye set for City debut against Coventry",
+          "url": "https://sports.yahoo.com/articles/ndiaye-set-city-debut-against-125500784.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Is Enzo Fernandez Playing Today for Manchester City vs. Coventry City?",
+          "url": "https://athlonsports.com/soccer/is-enzo-fernandez-playing-manchester-city-coventry-city",
+          "source": "Athlon Sports",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "아틀레틱 대 아틀레티코": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-05T23:38:00+09:00",
+      "lastSeen": "2026-09-05T23:38:00+09:00",
+      "news": [
+        {
+          "title": "이강인, 빌바오전 선발 출격…'연속 공격포인트' 정조준",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777760",
+          "source": "뉴시스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'벌써 1골 1도움' 이강인, 3경기 연속 선발 출격 확정... 아틀레티코-빌바오전 라인업 공개 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/05/2026090521081467983",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "\"이강인·바에나가 가장 좋은 호흡\" 스페인도 극찬...최전방 공격수로 3경기 연속 선발 전망→상대는 '좋은 기억' 아틀레틱 클루브",
+          "url": "https://www.osen.co.kr/article/G1112870274",
+          "source": "OSEN",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "김민종": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-05T23:38:00+09:00",
+      "lastSeen": "2026-09-05T23:38:00+09:00",
+      "news": [
+        {
+          "title": "\"직접 만나 오해 풀었다\"…MC몽, '김민종 불법 도박 의혹 주장' 공개 사과",
+          "url": "https://v.daum.net/v/20260905222529463",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "MC몽, 대학 축제서 ‘등록금’ 쏜다… “현금 들고갈 것\"",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02210726645577168&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "\"고소 한두 번 당하냐\"던 MC몽, 이틀 만에 김민종에 사과…\"제 잘못\"[SC이슈]",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-05/202609050100036650002346",
+          "source": "스포츠조선",
           "date": "2026-09-05"
         }
       ]
