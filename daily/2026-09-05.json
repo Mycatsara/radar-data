@@ -3849,10 +3849,10 @@
       ]
     },
     "김성현": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T18:12:00+09:00",
-      "lastSeen": "2026-09-05T18:39:00+09:00",
+      "lastSeen": "2026-09-05T19:11:00+09:00",
       "news": [
         {
           "title": "‘21년 원클럽맨’ 김성현, 1번 2루수 선발 출장…마지막으로 그라운드 밟는다 “후회 없다고 생각했는데…” [오!쎈 인천] - 머니투데이",
@@ -3887,10 +3887,10 @@
       ]
     },
     "국제결혼": {
-      "count": 2,
-      "maxTraffic": 10000,
+      "count": 3,
+      "maxTraffic": 20000,
       "firstSeen": "2026-09-05T18:12:00+09:00",
-      "lastSeen": "2026-09-05T18:39:00+09:00",
+      "lastSeen": "2026-09-05T19:11:00+09:00",
       "news": [
         {
           "title": "\"베트남 아내, 성병에 온몸 문신\"…국제결혼 90일 만에 사망한 50대 남성",
@@ -3913,10 +3913,10 @@
       ]
     },
     "열대 저기압": {
-      "count": 2,
-      "maxTraffic": 1000,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-05T18:12:00+09:00",
-      "lastSeen": "2026-09-05T18:39:00+09:00",
+      "lastSeen": "2026-09-05T19:11:00+09:00",
       "news": [
         {
           "title": "제주항서 강풍에 크레인 쓰러져 2명 덮쳐···1명 심정지",
@@ -3991,10 +3991,10 @@
       ]
     },
     "샘 올트먼": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-05T18:39:00+09:00",
-      "lastSeen": "2026-09-05T18:39:00+09:00",
+      "lastSeen": "2026-09-05T19:11:00+09:00",
       "news": [
         {
           "title": "'샘 올트먼' 오픈 AI CEO \"휴머노이드 로봇 개발하고 있다\"",
@@ -4017,10 +4017,10 @@
       ]
     },
     "inde navarrette": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-05T18:39:00+09:00",
-      "lastSeen": "2026-09-05T18:39:00+09:00",
+      "lastSeen": "2026-09-05T19:11:00+09:00",
       "news": [
         {
           "title": "Inde Navarrette to Star in Sci-Fi Thriller ‘The Waffle House Index’ for Apple Original Films",
@@ -4043,10 +4043,10 @@
       ]
     },
     "라이머": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T18:39:00+09:00",
-      "lastSeen": "2026-09-05T18:39:00+09:00",
+      "lastSeen": "2026-09-05T19:11:00+09:00",
       "news": [
         {
           "title": "‘49살’ 라이머, 돌싱 3년만 ‘신랑수업’ 받는다..“항상 재혼 생각有” [Oh!쎈 예고]",
@@ -4063,6 +4063,110 @@
         {
           "title": "라이머, 이혼 3년 만 재혼 기대감..\"받아들일 준비 돼\"[신랑수업][스타이슈]",
           "url": "https://v.daum.net/v/20260905112950849?f=p",
+          "source": "Daum",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "보스턴 다이내믹스": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-05T19:11:00+09:00",
+      "lastSeen": "2026-09-05T19:11:00+09:00",
+      "news": [
+        {
+          "title": "“보스턴다이내믹스 몸값 45조 vs 적자 2조”… 현대차 로봇 홀로서기 성공할까",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169539",
+          "source": "IT조선",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "현대모비스, 로봇 매출 최대 1.4조 기대...아틀라스 액추에이터 전량 수주 [오늘, 이 종목]",
+          "url": "https://www.mk.co.kr/news/business/12142238",
+          "source": "매일경제",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "현대모비스, 아틀라스 31개 액추에이터 전량수주…LG유플러스, 배당・자사주 매입 함께 늘린다 [株토피아]",
+          "url": "https://v.daum.net/v/6IGom6FYN5",
+          "source": "Daum",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "이기헌": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-05T19:11:00+09:00",
+      "lastSeen": "2026-09-05T19:11:00+09:00",
+      "news": [
+        {
+          "title": "“혈세로 간 유학, 복귀 하루 만에 퇴직”…외교부, 유학비 환수 조치",
+          "url": "https://www.donga.com/news/Politics/article/all/20260905/134610500/1",
+          "source": "동아일보",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "혈세로 하버드·스탠퍼드 보내는데… 외교관 해외연수 후 의무복무 '구멍'",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349316",
+          "source": "녹색경제신문",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "연수 마치자마자 바로 퇴직…‘먹튀’ 외교관에 국민 혈세 새나간다",
+          "url": "https://www.kyeonggi.com/article/20260905580024",
+          "source": "경기일보",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "seoul fireworks festival 2026": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T19:11:00+09:00",
+      "lastSeen": "2026-09-05T19:11:00+09:00",
+      "news": [
+        {
+          "title": "Subway crowd control for fireworks fest",
+          "url": "https://en.yna.co.kr/view/PYH20260905039100315?section=image/general",
+          "source": "Yonhap News Agency",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Citizens Vie for Prime Spots at Seoul International Fireworks Festival",
+          "url": "https://www.chosun.com/english/national-en/2026/09/05/MM7BBC4HVBGTTC3IJDCGVAZVXM/",
+          "source": "조선일보",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "300,000-Won Mats, 6 Million-Won Menus: Controversy Over Speculative \"Spot-Hoarding\" at Hangang Park",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008738674",
+          "source": "SBS 뉴스",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "이재학": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T19:11:00+09:00",
+      "lastSeen": "2026-09-05T19:11:00+09:00",
+      "news": [
+        {
+          "title": "704일 만에 1군 복귀한 NC 이재학, 4이닝 1실점 호투",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8655639",
+          "source": "KBS 뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[AI프리뷰] 5��� 고척 키움-NC전, NC 이재학 704일 만의 선발 복귀전",
+          "url": "https://www.newspim.com/news/view/20260905000067",
+          "source": "뉴스핌",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'또' 폭우로 미뤄진 복귀전…85승 베테랑 투수, 이틀 더 쉬고 나온다 [창원 현장]",
+          "url": "https://v.daum.net/v/20260904110212938",
           "source": "Daum",
           "date": "2026-09-05"
         }
