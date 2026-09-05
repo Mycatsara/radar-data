@@ -2,10 +2,10 @@
   "date": "2026-09-06",
   "keywords": {
     "athletic vs atlético madrid": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T00:39:00+09:00",
+      "lastSeen": "2026-09-06T01:12:00+09:00",
       "news": [
         {
           "title": "¡Descubre las alineaciones titulares del Athletic Club-Atlético de Madrid!",
@@ -30,14 +30,20 @@
           "url": "https://radiohache.com/articulo/con-julian-y-el-cuti-en-el-banco-y-giuliano-titular-el-atletico-ya-juega-ante-el-bilbao.php",
           "source": "Radio Hache 97.7",
           "date": "2026-09-05"
+        },
+        {
+          "title": "Nico Williams entra por Berenguer y Simeone repite el once, con Julián Álvarez suplente",
+          "url": "https://holanews.com/nico-williams-entra-por-berenguer-y-simeone-repite-el-once-con-julian-alvarez-suplente/",
+          "source": "HolaNews",
+          "date": "2026-09-05"
         }
       ]
     },
     "로또 1240": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T00:39:00+09:00",
+      "lastSeen": "2026-09-06T01:12:00+09:00",
       "news": [
         {
           "title": "로또 1240회 1등 16명···각 17억9000만원씩",
@@ -66,10 +72,10 @@
       ]
     },
     "man city vs coventry": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T00:39:00+09:00",
+      "lastSeen": "2026-09-06T01:12:00+09:00",
       "news": [
         {
           "title": "Manchester City vs Coventry City: Premier League preview, team news, stats & head-to-head",
@@ -136,10 +142,10 @@
       ]
     },
     "김민종": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-06T00:12:00+09:00",
-      "lastSeen": "2026-09-06T00:39:00+09:00",
+      "lastSeen": "2026-09-06T01:12:00+09:00",
       "news": [
         {
           "title": "\"김민종 만나 오해 풀어\"...태도 확 바꾼 MC몽, 공개 사과 - 머니투데이",
@@ -304,10 +310,10 @@
       ]
     },
     "토트넘 노팅엄": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T00:39:00+09:00",
+      "lastSeen": "2026-09-06T01:12:00+09:00",
       "news": [
         {
           "title": "5500억 썼지만 달라진 게 없다…토트넘이 못산 '위닝 멘털리티'",
@@ -326,14 +332,20 @@
           "url": "https://sports.khan.co.kr/article/202609040707003",
           "source": "스포츠경향",
           "date": "2026-09-05"
+        },
+        {
+          "title": "[PL REVIEW] '또 무득점' 토트넘 답이 안 보인다…'무드리크 데뷔전'→졸전 끝 노팅엄과 0-0 무, 리그 3경기 1무 2패",
+          "url": "https://m.news.nate.com/view/20260906n00326",
+          "source": "네이트",
+          "date": "2026-09-05"
         }
       ]
     },
     "실시간스포츠": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T00:39:00+09:00",
+      "lastSeen": "2026-09-06T01:12:00+09:00",
       "news": [
         {
           "title": "'6연승 도전' LG 라인업 떴다...오지환-박동원 선발 제외, 어제 라인업과 똑같다 [오!쎈 잠실]",
@@ -356,10 +368,10 @@
       ]
     },
     "nottm forest vs spurs": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T00:39:00+09:00",
+      "lastSeen": "2026-09-06T01:12:00+09:00",
       "news": [
         {
           "title": "Nottingham Forest vs Tottenham Hotspur: Premier League preview, team news, stats & head-to-head",
@@ -377,6 +389,90 @@
           "title": "Tottenham XI vs Nottm Forest: Starting lineup and confirmed team news",
           "url": "https://www.standard.co.uk/sport/football/tottenham-xi-vs-nottingham-forest-starting-lineup-confirmed-team-news-injury-latest-premier-league-b1295511.html",
           "source": "London Evening Standard",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Roberto De Zerbi reaction: What did Spurs boss say after first point of season vs Forest?",
+          "url": "https://sports.yahoo.com/articles/roberto-zerbi-reaction-did-spurs-155649335.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "f1": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T01:12:00+09:00",
+      "lastSeen": "2026-09-06T01:12:00+09:00",
+      "news": [
+        {
+          "title": "Gasly charges to sensational maiden F1 pole at Monza over Russell and Piastri",
+          "url": "https://www.formula1.com/en/latest/article/gasly-charges-to-sensational-maiden-f1-pole-at-monza-over-russell-and-piastri.4CKkkbvgmqL04ijMNBfuXF",
+          "source": "Formula 1",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Alpine stun at Monza! Gasly on pole and Colapinto into top eight",
+          "url": "https://onefootball.com/en/news/alpine-stun-at-monza-gasly-on-pole-and-colapinto-into-top-eight-43407219",
+          "source": "OneFootball",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "F1 2026 qualifying head-to-head: Italian GP",
+          "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-italian-gp/10852506/",
+          "source": "Motorsport.com",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "agi": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T01:12:00+09:00",
+      "lastSeen": "2026-09-06T01:12:00+09:00",
+      "news": [
+        {
+          "title": "OpenAI Unveils Astra AI With Evasion Capabilities",
+          "url": "https://www.chosun.com/english/industry-en/2026/09/05/5PK67HFKHVB3NLAP46JIYLNMOY/",
+          "source": "조선일보",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "\"Welcome to the AGI Era\"—OpenAI's New Model Surpasses Claude in Coding",
+          "url": "https://www.mk.co.kr/en/business/12144767",
+          "source": "매일경제",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "\"Strengths in Advanced Reasoning and Mathematics\" GPT-6 Astra Performance Reviewed... Price Also Up 2.5 Times",
+          "url": "https://www.asiae.co.kr/en/article/2026090415280432886",
+          "source": "아시아경제",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "아틀레�� 대 아틀레티코": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-09-06T01:12:00+09:00",
+      "lastSeen": "2026-09-06T01:12:00+09:00",
+      "news": [
+        {
+          "title": "'벌써 1골 1도움' 이강인, 3경기 연속 선발 출격 확정... 아틀레티코-빌바오전 라인업 공개 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/05/2026090521081467983",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "이강인, 빌바오전 선발 출격…'연속 공격포인트' 정조준",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777760",
+          "source": "뉴시스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "\"이강인·바에나가 가장 좋은 호흡\" 스페인도 극찬...최전방 공격수로 3경기 연속 선발 전망→상대는 '좋은 기억' 아틀레틱 클루브",
+          "url": "https://v.daum.net/v/20260905135039271",
+          "source": "Daum",
           "date": "2026-09-05"
         }
       ]
@@ -1553,6 +1649,42 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfYUNBV0xPN2VVcjMyM1d5clRNWThGOEFOd2NrNUtOX2UwclNpRmFIMHZRV25wUUVzdFNadXRNZWZEZWNqdTdPNnE3aXFNZmNBem9MZEtNanc?oc=5",
         "source": "sportsseoul.com",
         "date": "2026-09-04"
+      },
+      {
+        "title": "[야구] LG, 삼성 꺾고 5연승… 고우석, 복귀전 세이브",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Na0w2amtFRjE5Q2luMzdDOExnakhQQzdlMjYwRWpZejlxUG5zUHZpMy1RVXB4emxhd0owRzVNZDdqeldLa1lnLWRrNEVycmtWLXRvNjFPb0lFQ3hlWEM5Y3AxUDRmOC1tR3c?oc=5",
+        "source": "천지일보",
+        "date": "2026-09-05"
+      },
+      {
+        "title": "\"그 어려운 상황을 우리 마무리가…\" 박진만 감독의 벅찬 전율, '데뷔 첫 세이브' \"사토시도 KBO 적응 완료\"",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOREM4M184bThoc2tMQ1VQSWVUYmpMQjJpcWIzT1lsdEtha0d1RVY0UUctVjNWQldiaEZHTGFaWmIyTEktMUQ4ZUNLTE40WHBaVndIeDlfVE9MdHdDMGxuVkRibVByOXFOWWhPZHd3N3BKRGJOOFBYS1BPR1RaelFUUFJUVQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-05"
+      },
+      {
+        "title": "[사진]이숭용 감독, 김성현에 기념 앨범 전달",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95Z1BtMUtLQkRIbUlJUFdLanRhN3o3OWRoMW9xdFcxWGo5bFFLV0JUSnNCaVJwSHdQSEsySmwtczhXbDBhUjRXand4Yl9HWUZHNFJfVw?oc=5",
+        "source": "OSEN",
+        "date": "2026-09-05"
+      },
+      {
+        "title": "'MLB 관심에도 KBO 택했다' 1R 후보 곽도현, 김원중에게 배운 무기로 亞 정상 도전 \"부끄럽지 않은 피칭으로 1등해서 돌아올게요\" [인터뷰]",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lOEROZjVpelZEbHRqbXRIMENYeWdmdHc0c19SNnA3Tm1hcGdjMlhuNjdNRm1jLVhvdWUwWDd5RmxCVW91TkJXNkxrUlNtQkMzbENPNi00a2J5ZU1PWjVNZmdDWks3cy1IVzhKTEcxeWltSmZGVGc?oc=5",
+        "source": "starnewskorea.com",
+        "date": "2026-09-05"
+      },
+      {
+        "title": "[AI상보] 김성현 은퇴식서 김민준 호투+전의산 3점포 SSG, 두산 3-2 제압...두산 5연패",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yc3pFNF9fTWxnVzF4TVlXMmVLQmd0emlLOEZmbE1BTjVzNm9GT2F0eWV6S2tfckgwUjVTOGFiYVNPd0tGWXlHTjlHc2NUTjZuRURNcHBVTXQ?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-09-05"
+      },
+      {
+        "title": "‘3타차 단독 선두’ 최예림, 준우승만 9번의 한을 풀까?",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TT0tXOUs1OWppRWNqUlR3ZTVpWHl1OUtIUy1nMzJMY28zRFFST0M5bVk1dGlybmk2YW5zNDZmZW5UMTdienJaS2o0SV9nTzl4YnRMbDhFbkRhR1U?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-09-05"
       }
     ]
   }
