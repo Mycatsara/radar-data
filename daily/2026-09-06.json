@@ -707,10 +707,10 @@
       ]
     },
     "아들": {
-      "count": 3,
-      "maxTraffic": 2000,
+      "count": 4,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-06T06:11:00+09:00",
-      "lastSeen": "2026-09-06T07:12:00+09:00",
+      "lastSeen": "2026-09-06T07:38:00+09:00",
       "news": [
         {
           "title": "계곡서 초2 아들 구한 40대 아버지 끝내 사망…돕던 남성도 숨져",
@@ -729,14 +729,20 @@
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6849840_37004.html",
           "source": "MBC 뉴스",
           "date": "2026-09-05"
+        },
+        {
+          "title": "\"엄마가 날 죽일 거 같다\" 전국 1등 강요→골프채 폭행...끝내 살해한 아들[뉴스속오늘] - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/06/2026090412503282514",
+          "source": "머니투데이",
+          "date": "2026-09-05"
         }
       ]
     },
     "샤오 미": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-06T06:11:00+09:00",
-      "lastSeen": "2026-09-06T07:12:00+09:00",
+      "lastSeen": "2026-09-06T07:38:00+09:00",
       "news": [
         {
           "title": "샤오미 아이패드 9 프로 맥스의 성능 분석: Xring O3 프로세서, 13.3인치 화면, 120W 충전.",
@@ -754,6 +760,18 @@
           "title": "샤오미 아이패드 9 프로 사양 리뷰: 12.5인치 화면, 스냅드래곤 8 5세대 칩셋, 11,000mAh 배터리.",
           "url": "https://www.vietnam.vn/ko/danh-gia-thong-so-xiaomi-pad-9-pro-man-hinh-12-5-inch-chip-snapdragon-8-gen-5-va-pin-11-000-mah",
           "source": "Vietnam.vn",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "“하루 1대도 안 팔려” “그냥 싼 맛에 산다” 조롱받던 샤오미…삼성 따라 한 ‘접는 폰’ 내놨다",
+          "url": "https://v.daum.net/v/VN8z9P3Gty",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "샤오미, ‘샤오미18 폴드’ 공개…‘여권형’ 폴더블폰 경쟁 본격화",
+          "url": "https://zdnet.co.kr/view/?no=20260904091144",
+          "source": "지디넷코리아",
           "date": "2026-09-05"
         }
       ]
@@ -811,10 +829,10 @@
       ]
     },
     "테일러 프리츠": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-06T07:12:00+09:00",
-      "lastSeen": "2026-09-06T07:12:00+09:00",
+      "lastSeen": "2026-09-06T07:38:00+09:00",
       "news": [
         {
           "title": "Cerundolo rallies to upset Fritz in five sets at US Open",
@@ -833,14 +851,20 @@
           "url": "https://www.theguardian.com/sport/2026/sep/05/francisco-cerundolo-roars-back-stun-home-hope-taylor-fritz-us-open-tennis",
           "source": "The Guardian",
           "date": "2026-09-05"
+        },
+        {
+          "title": "Taylor Fritz blows 2-set lead, falls to Francisco Cerundolo in US Open",
+          "url": "https://www.espn.com/tennis/story/_/id/49839555/taylor-fritz-blows-2-set-lead-falls-francisco-cerundolo-us-open",
+          "source": "ESPN",
+          "date": "2026-09-05"
         }
       ]
     },
     "왕즈이": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-06T07:12:00+09:00",
-      "lastSeen": "2026-09-06T07:12:00+09:00",
+      "lastSeen": "2026-09-06T07:38:00+09:00",
       "news": [
         {
           "title": "일본 또 일본! 안세영, '日 배드민턴 아이돌' 미야자키와 결승 격돌 확정…상대전적 7전 전승→中 마스터즈 3연패 보인다 (종합)",
@@ -858,6 +882,174 @@
           "title": "안세영, 중국 마스터스 결승행‥아시안게임 앞두고 '최상 컨디션'",
           "url": "https://imnews.imbc.com/news/2026/sports/article/6849809_36946.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "안세영 때문에 지친다…\"세계 챔피언, 아시아 챔피언, 올림픽 챔피언, 설명할 시간이 부족해\"→세계연맹 캐스터 소개 중단 '눈에 띄네'",
+          "url": "https://v.daum.net/v/20260906064547421",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "안세영, 43분 만에 ‘끝’... 中 마스터스 결승 갔다",
+          "url": "https://www.chosun.com/international/international_general/2026/09/05/UQUUNQV7N5DANLADVX7PDDOKNM/",
+          "source": "조선일보",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "충돌": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-06T07:38:00+09:00",
+      "lastSeen": "2026-09-06T07:38:00+09:00",
+      "news": [
+        {
+          "title": "예멘 정부군·후티 반군 충돌로 이틀새 190명 넘게 사망",
+          "url": "https://www.yna.co.kr/view/AKR20260906001200108",
+          "source": "연합뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[국제유가] 공급 차질 우려에 상승 지속…WTI, 닷새 내리 올라",
+          "url": "https://v.daum.net/v/20260905055609010",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "���제 유가 미-이란 충돌 재발에 이번주 급등 마감",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777364",
+          "source": "뉴시스",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "이다영": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T07:38:00+09:00",
+      "lastSeen": "2026-09-06T07:38:00+09:00",
+      "news": [
+        {
+          "title": "‘학폭 논란→국대 박탈→V리그 퇴출’ 이다영, 해외 떠돌다 아제르바이잔까지…활짝 웃으며 “정말 설렌다”",
+          "url": "https://v.daum.net/v/QuC4dZwaWd",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'학폭' 한국 떠난 이재영, 유럽서 새출발?...근황 보니 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/03/2026090321451110452",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'180㎝' 이다영, 수영복 입고 뽐낸 탄탄 몸매…日도 주목했다",
+          "url": "https://sports.news.nate.com/view/20260903n00037",
+          "source": "네이트",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "불후의 명곡: 전설을 노래하다": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T07:38:00+09:00",
+      "lastSeen": "2026-09-06T07:38:00+09:00",
+      "news": [
+        {
+          "title": "성리, ‘무명전설’ 1위 후 인기 실감…“식당서 서비스 받아”(‘불후’)",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12145095",
+          "source": "매일경제",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "신유부터 양지은까지 맞붙는다, ‘불후의 명곡’ 최후의 왕좌 주인공은?",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433238",
+          "source": "데일리스포츠한국",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "성리X장한별 - 어쩌다 마주친 그대 | KBS 260905 방송",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026149658-01-000_MFSC15&program_code=T2011-0781&program_id=PS-2026149658-01-000&section_code=04&broadcast_complete_yn=N&section_id=10739",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "하석진": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T07:38:00+09:00",
+      "lastSeen": "2026-09-06T07:38:00+09:00",
+      "news": [
+        {
+          "title": "‘사랑이 온다’ 권해효, 하석진 친아들 거짓말…14회 예고",
+          "url": "https://v.daum.net/v/20260905224309603",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'사랑이 온다' 안희연, 불안에 휩싸인 눈빛...새로운 위기 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/05/2026090510497233543",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[사랑이 온다] 윤유선, 권해효에 “그 아이 내 딸이에요” 고백…! 하석진 결혼 반대한 이유 전해",
+          "url": "https://kstar.kbs.co.kr/list_view.html?idx=409266",
+          "source": "KBS연예",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "양주시": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-06T07:38:00+09:00",
+      "lastSeen": "2026-09-06T07:38:00+09:00",
+      "news": [
+        {
+          "title": "양주시, ‘과천경마공원 유치 TF’ 첫 회의… 총력전 선언",
+          "url": "https://www.viva100.com/article/20260905500034",
+          "source": "브릿지경제",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[패트롤] 과천시의회-군포시의회-부천시의회-안산시의회",
+          "url": "https://m.ekn.kr/view.php?key=20260905024441021",
+          "source": "에너지경제신문",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[과천 24시] 과천시, “경마공원·방첩사 부지 주택공급 계획 전면 철회” 촉구",
+          "url": "https://v.daum.net/v/20260904163607105?f=p",
+          "source": "Daum",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "세인트 미렌 대 셀틱": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T07:38:00+09:00",
+      "lastSeen": "2026-09-06T07:38:00+09:00",
+      "news": [
+        {
+          "title": "'AG 와일드카드' 양현준 '역전 결승골' 폭발, 2경기 연속골... 셀틱 개막 5연승 질주 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/2026090606393193814",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'재료는 너무 좋다!' 이민성 감독, 어떻게 요리할까...AG 앞두고 주포 양현준·이영준 득점포 가동→전방 무게감↑",
+          "url": "https://v.daum.net/v/20260903100727889",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "양현준-이영준 나란히 골맛… 亞게임 앞두고 예열 끝내",
+          "url": "https://www.donga.com/news/Sports/article/all/20260904/134602757/2",
+          "source": "동아일보",
           "date": "2026-09-05"
         }
       ]
