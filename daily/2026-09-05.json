@@ -1843,10 +1843,10 @@
       ]
     },
     "재혼": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-05T09:20:00+09:00",
-      "lastSeen": "2026-09-05T09:20:00+09:00",
+      "lastSeen": "2026-09-05T09:44:00+09:00",
       "news": [
         {
           "title": "결혼하고 아이 키울 때, 나에게 올 2027년 예산안 - 카드/한컷 | 멀티미디어",
@@ -1865,14 +1865,26 @@
           "url": "https://view.asiae.co.kr/article/2026090409001392461",
           "source": "아시아경제",
           "date": "2026-09-04"
+        },
+        {
+          "title": "별거 중인데 결정사에 재혼상담 하는 심리",
+          "url": "http://www.wedd.tv/news/articleView.html?idxno=13529",
+          "source": "웨딩TV",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "전처를 결혼정보회사에 데려온 남자…그가 회비까지 낸 이유",
+          "url": "https://www.bosik.kr/news/articleView.html?idxno=28560",
+          "source": "최보식의언론",
+          "date": "2026-09-04"
         }
       ]
     },
     "청도군": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T09:20:00+09:00",
-      "lastSeen": "2026-09-05T09:20:00+09:00",
+      "lastSeen": "2026-09-05T09:44:00+09:00",
       "news": [
         {
           "title": "청도군, 허민 국가유산청장 운문사 현장 방문…수장고 건립 지원 요청",
@@ -1895,10 +1907,10 @@
       ]
     },
     "테니스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T09:20:00+09:00",
-      "lastSeen": "2026-09-05T09:20:00+09:00",
+      "lastSeen": "2026-09-05T09:44:00+09:00",
       "news": [
         {
           "title": "[테니스] US 오픈 3R 결과",
@@ -1921,10 +1933,10 @@
       ]
     },
     "레드삭스 대 오리올스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-05T09:20:00+09:00",
-      "lastSeen": "2026-09-05T09:20:00+09:00",
+      "lastSeen": "2026-09-05T09:44:00+09:00",
       "news": [
         {
           "title": "MLB 보스턴 포수 러치맨, 이적 이후 첫 친정 방문서 홈런 '쾅쾅'",
@@ -1947,10 +1959,10 @@
       ]
     },
     "가덕도": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T09:20:00+09:00",
-      "lastSeen": "2026-09-05T09:20:00+09:00",
+      "lastSeen": "2026-09-05T09:44:00+09:00",
       "news": [
         {
           "title": "가덕도신공항 공사비 증액 새 국면… 법제처, 유권해석 요청 반려",
@@ -1968,6 +1980,12 @@
           "title": "[단독] 법제처, 가덕도신공항 공사비 유권해석 ‘반려’…해법 다시 부처 협의로",
           "url": "https://v.daum.net/v/20260902111803736",
           "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "법제처, 가덕신공항 공사비 증액 유권해석 반려(종합)",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260904.22001001296",
+          "source": "국제신문",
           "date": "2026-09-04"
         }
       ]
@@ -1993,6 +2011,136 @@
         {
           "title": "보육교사 “숨을 쉬지 않는다”···청주 어린이집서 낮잠자던 3살 남아 숨져",
           "url": "https://www.khan.co.kr/article/202609041710001",
+          "source": "경향신문",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "이승기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T09:44:00+09:00",
+      "lastSeen": "2026-09-05T09:44:00+09:00",
+      "news": [
+        {
+          "title": "이승기, 前소속사 음원 수익 소송 또 승소…“6억9000만원 지급”",
+          "url": "https://v.daum.net/v/20260905091546219",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "이승기, 前소속사 정산금 소송 또 승소…\"계약해지 후 수익 나눠야\"",
+          "url": "https://www.yna.co.kr/view/AKR20260904166800004",
+          "source": "연합뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "이승기, 전 소속사 상대 ‘음원 정산금 소송’ 또 승소…6억9천만원 배상 판결",
+          "url": "https://www.kyeonggi.com/article/20260905580005",
+          "source": "경기일보",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "김소영": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-05T09:44:00+09:00",
+      "lastSeen": "2026-09-05T09:44:00+09:00",
+      "news": [
+        {
+          "title": "'70억 투자' 김소영, 쿠키 폐업 이어 6년 사업도 접는다…\"여러 사정 겹쳐\"",
+          "url": "https://v.daum.net/v/20260904232242474",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "'오상진♥' 김소영, 2주 사이 2개 폐업…쿠키→북클럽 \"입 안 떨어져\" - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/05/MNRTKZJVMJSDMMRYGU4TGYZYMY/",
+          "source": "Chosunbiz",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "'70억 투자→폐업 고백' 김소영 \"두달 동안 비상경영…몇번 체했다\"[스타이슈]",
+          "url": "https://m.news.nate.com/view/20260904n16722?mid=e01&list=recent&cpcd=",
+          "source": "네이트",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "습관": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T09:44:00+09:00",
+      "lastSeen": "2026-09-05T09:44:00+09:00",
+      "news": [
+        {
+          "title": "100세 시대, 지금부터 실천하는 장수 습관 5가지",
+          "url": "https://topclass.chosun.com/news/articleView.html?idxno=36754",
+          "source": "톱클래스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "장수 비결이 뭐길래?",
+          "url": "https://www.kidshankook.kr/news/articleView.html?idxno=18096",
+          "source": "소년한국일보",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "100세 시대의 역설…억만장자는 ‘회춘’에 베팅, 장수인은 ‘덜 먹고 규칙적으로’ 살았다",
+          "url": "https://yonginilbo.com/news/article.html?no=110529",
+          "source": "용인신문",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "thứ hạng của real betis gặp real madrid": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T09:44:00+09:00",
+      "lastSeen": "2026-09-05T09:44:00+09:00",
+      "news": [
+        {
+          "title": "Video bóng đá Real Betis - Real Madrid: Mbappe phung phí 11m, trái đắng khó nuốt (La Liga)",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-betis-real-madrid-mbappe-phung-phi-trai-dang-kho-nuot-la-liga-c48a1792140.html",
+          "source": "Tin tức 24h",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Mourinho tiết lộ lý do rút các trụ cột Real khỏi sân",
+          "url": "https://yeuthethao.net.vn/mourinho-tiet-lo-ly-do-rut-cac-tru-cot-real-khoi-san-d893664.html",
+          "source": "yeuthethao.net.vn",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Mbappe trở thành 'tội đồ', Real Madrid thua sốc ở La Liga",
+          "url": "https://tuoitre.vn/mbappe-tro-thanh-toi-do-real-madrid-thua-soc-o-la-liga-100260905045024714.htm",
+          "source": "Báo Tuổi Trẻ",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    "나혼산": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T09:44:00+09:00",
+      "lastSeen": "2026-09-05T09:44:00+09:00",
+      "news": [
+        {
+          "title": "'나혼산' 제작진 \"전현무 카자흐 촬영 사전 준비…진심 사과\"",
+          "url": "https://www.yna.co.kr/view/AKR20260904164300005",
+          "source": "연합뉴스",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "\"전현무만 몰랐던 짜고 친 고스톱\"…'나혼산' 황당한 궤변에 \"시청자 기만\" 비난 쇄도[MD이슈]",
+          "url": "https://v.daum.net/v/20260905081728597",
+          "source": "Daum",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "‘나혼산’, 전현무 ‘즉흥 여행’ 조작 논란에 사과···“알마티 선택 가능성 커 스태프 티켓 미리 발권했다”",
+          "url": "https://www.khan.co.kr/article/202609041532001",
           "source": "경향신문",
           "date": "2026-09-04"
         }
