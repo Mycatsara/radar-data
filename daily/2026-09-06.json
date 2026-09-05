@@ -354,10 +354,10 @@
       ]
     },
     "실시간스포츠": {
-      "count": 13,
+      "count": 14,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T06:37:00+09:00",
+      "lastSeen": "2026-09-06T07:12:00+09:00",
       "news": [
         {
           "title": "'6연승 도전' LG 라인업 떴다...오지환-박동원 선발 제외, 어제 라인업과 똑같다 [오!쎈 잠실]",
@@ -418,10 +418,10 @@
       ]
     },
     "f1": {
-      "count": 12,
+      "count": 13,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T01:12:00+09:00",
-      "lastSeen": "2026-09-06T06:37:00+09:00",
+      "lastSeen": "2026-09-06T07:12:00+09:00",
       "news": [
         {
           "title": "Gasly charges to sensational maiden F1 pole at Monza over Russell and Piastri",
@@ -508,10 +508,10 @@
       ]
     },
     "샬케 대 바이에른": {
-      "count": 11,
+      "count": 12,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-06T01:39:00+09:00",
-      "lastSeen": "2026-09-06T06:37:00+09:00",
+      "lastSeen": "2026-09-06T07:12:00+09:00",
       "news": [
         {
           "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
@@ -572,10 +572,10 @@
       ]
     },
     "분데스리가": {
-      "count": 10,
+      "count": 11,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T02:11:00+09:00",
-      "lastSeen": "2026-09-06T06:37:00+09:00",
+      "lastSeen": "2026-09-06T07:12:00+09:00",
       "news": [
         {
           "title": "‘패스 성공률 98%+평점 7점대+3경기 연속 선발’ 돌아온 철기둥, 김민재, 뮌헨 3번째 시즌은 다르다 ‘뮌헨 오스나크뷔르에 4-1 대역전승→포칼 2라운드 진출’",
@@ -610,10 +610,10 @@
       ]
     },
     "석유": {
-      "count": 8,
-      "maxTraffic": 500,
+      "count": 9,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-06T03:13:00+09:00",
-      "lastSeen": "2026-09-06T06:37:00+09:00",
+      "lastSeen": "2026-09-06T07:12:00+09:00",
       "news": [
         {
           "title": "미군 \"미 군함 겨냥 미사일 발사 대응해 이란 유조선 3척 타격\"",
@@ -707,10 +707,10 @@
       ]
     },
     "아들": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-06T06:11:00+09:00",
-      "lastSeen": "2026-09-06T06:37:00+09:00",
+      "lastSeen": "2026-09-06T07:12:00+09:00",
       "news": [
         {
           "title": "계곡서 초2 아들 구한 40대 아버지 끝내 사망…돕던 남성도 숨져",
@@ -733,10 +733,10 @@
       ]
     },
     "샤오 미": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-06T06:11:00+09:00",
-      "lastSeen": "2026-09-06T06:37:00+09:00",
+      "lastSeen": "2026-09-06T07:12:00+09:00",
       "news": [
         {
           "title": "샤오미 아이패드 9 프로 맥스의 성능 분석: Xring O3 프로세서, 13.3인치 화면, 120W 충전.",
@@ -759,10 +759,10 @@
       ]
     },
     "athletic bilbao vs atlético madrid standings": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T06:11:00+09:00",
-      "lastSeen": "2026-09-06T06:37:00+09:00",
+      "lastSeen": "2026-09-06T07:12:00+09:00",
       "news": [
         {
           "title": "Lee Kang-in's Shot Hits Post as Atletico Madrid Suffers 0-3 Defeat",
@@ -806,6 +806,58 @@
           "title": "'이강인 골대·59분 출전' 아틀레티코, 빌바오 원정서 시즌 첫 패배",
           "url": "https://www.newsis.com/view/NISX20260905_0003777771",
           "source": "뉴시스",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "테일러 프리츠": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T07:12:00+09:00",
+      "lastSeen": "2026-09-06T07:12:00+09:00",
+      "news": [
+        {
+          "title": "Cerundolo rallies to upset Fritz in five sets at US Open",
+          "url": "https://www.atptour.com/en/news/fritz-cerundolo-us-open-2026-saturday",
+          "source": "ATP Tour",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "US Open Tennis 2026 Results, Winners, Losers and Highlights from Saturday's Bracket",
+          "url": "https://bleacherreport.com/articles/25496433-us-open-tennis-2026-results-winners-losers-and-highlights-saturdays-bracket",
+          "source": "Bleacher Report",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Francisco Cerundolo roars back from brink to stun home hope Taylor Fritz at US Open",
+          "url": "https://www.theguardian.com/sport/2026/sep/05/francisco-cerundolo-roars-back-stun-home-hope-taylor-fritz-us-open-tennis",
+          "source": "The Guardian",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "왕즈이": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-06T07:12:00+09:00",
+      "lastSeen": "2026-09-06T07:12:00+09:00",
+      "news": [
+        {
+          "title": "일본 또 일본! 안세영, '日 배드민턴 아이돌' 미야자키와 결승 격돌 확정…상대전적 7전 전승→中 마스터즈 3연패 보인다 (종합)",
+          "url": "https://v.daum.net/v/20260906014637864",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "아시안게임 앞두고 '무적 모드' 안세영, 2주 연속 우승 보인다",
+          "url": "https://www.yna.co.kr/view/AKR20260905026300007",
+          "source": "연합뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "안세영, 중국 마스터스 결승행‥아시안게임 앞두고 '최상 컨디션'",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6849809_36946.html",
+          "source": "MBC 뉴스",
           "date": "2026-09-05"
         }
       ]
