@@ -2253,10 +2253,10 @@
       ]
     },
     "이영표": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-05T10:39:00+09:00",
-      "lastSeen": "2026-09-05T11:12:00+09:00",
+      "lastSeen": "2026-09-05T11:40:00+09:00",
       "news": [
         {
           "title": "“홍명보 감독보다 더 큰 재앙 올 것 같아” 팬들 우려와 달리…이영표 해설위원 긍정적 전망 “아시안게임 4연속 금메달 딸 수 있을 것”",
@@ -2279,10 +2279,10 @@
       ]
     },
     "사업": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T10:39:00+09:00",
-      "lastSeen": "2026-09-05T11:12:00+09:00",
+      "lastSeen": "2026-09-05T11:40:00+09:00",
       "news": [
         {
           "title": "보링 컴퍼니, 최신 투자 라운드에서 기업 가치 200억 달러 달성",
@@ -2305,10 +2305,10 @@
       ]
     },
     "산불": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-05T10:39:00+09:00",
-      "lastSeen": "2026-09-05T11:12:00+09:00",
+      "lastSeen": "2026-09-05T11:40:00+09:00",
       "news": [
         {
           "title": "산불 현장마다 나타나…'혈세 700억 원' 빼돌렸다",
@@ -2331,10 +2331,10 @@
       ]
     },
     "계룡대": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T10:39:00+09:00",
-      "lastSeen": "2026-09-05T11:12:00+09:00",
+      "lastSeen": "2026-09-05T11:40:00+09:00",
       "news": [
         {
           "title": "계룡대 근무지원단 가혹행위 의혹…병사들, 경찰에 선임병들 고소",
@@ -2357,10 +2357,10 @@
       ]
     },
     "현대제철": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-05T10:39:00+09:00",
-      "lastSeen": "2026-09-05T11:12:00+09:00",
+      "lastSeen": "2026-09-05T11:40:00+09:00",
       "news": [
         {
           "title": "‘쇳물부터 자동차까지’ 美서 완성... 현대제철·포스코 8조 제철소 첫삽",
@@ -2385,14 +2385,20 @@
           "url": "https://v.daum.net/v/20260905104840341",
           "source": "Daum",
           "date": "2026-09-05"
+        },
+        {
+          "title": "정의선·장인화 회장 모였다…美 전기로 제철소 첫발",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433587",
+          "source": "연합인포맥스",
+          "date": "2026-09-05"
         }
       ]
     },
     "한혜연": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-05T11:12:00+09:00",
-      "lastSeen": "2026-09-05T11:12:00+09:00",
+      "lastSeen": "2026-09-05T11:40:00+09:00",
       "news": []
     },
     "용준형": {
@@ -2443,6 +2449,110 @@
           "title": "與, '당원정보 유출' 金대표 고소한 유튜버 주장 반박…\"공표사실에 기초\"",
           "url": "https://www.newsis.com/view/NISX20260904_0003777285",
           "source": "뉴시스",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "용 준형": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-05T11:40:00+09:00",
+      "lastSeen": "2026-09-05T11:40:00+09:00",
+      "news": [
+        {
+          "title": "현아♥용준형, 미국서 제대로 붙어 다니네…안경까지 맞춘 '커플룩'",
+          "url": "https://v.daum.net/v/20260904235451750",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "현아, 술병 들고 신났네…감출 수 없는 미소 [DA★]",
+          "url": "https://sports.donga.com/ent/article/all/20260905/134610623/1",
+          "source": "스포츠동아",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "현아, ♥용준형과 함께 LA 여행···에메랄드 시스루까지 소화한 다이어트 신",
+          "url": "https://www.osen.co.kr/article/G1112870156",
+          "source": "OSEN",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "네팔": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-05T11:40:00+09:00",
+      "lastSeen": "2026-09-05T11:40:00+09:00",
+      "news": [
+        {
+          "title": "속보 조현 외교부 장관, 오늘부터 네팔 방문",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202609050947008885&s_mcd=0101",
+          "source": "YTN",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[네팔 대홍수] 조현, 네팔 방문해 외교장관 회담…실종자 가족 면담",
+          "url": "https://www.yna.co.kr/view/AKR20260905019400504",
+          "source": "연합뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "네팔군, 한국 구조대 ‘90도 경사 산악지대’ 도보 수색 불허",
+          "url": "https://www.hani.co.kr/arti/area/area_general/1276377.html",
+          "source": "한겨레",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "식이": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-05T11:40:00+09:00",
+      "lastSeen": "2026-09-05T11:40:00+09:00",
+      "news": [
+        {
+          "title": "\"운동할 때만?\" 단백질, 면·샌드위치 등 일상식으로 즐긴다",
+          "url": "https://www.newsis.com/view/NISX20260902_0003773516",
+          "source": "뉴시스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "대상 청정원, '콩담백면 플러스' 출시…고단백·고칼슘·고식이섬유 강화",
+          "url": "https://www.etnews.com/20260902000235",
+          "source": "전자신문",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[신상브리핑] LG생활건강 유시몰, 롯데마트·슈퍼, 컬리, 파��다이스시티, 세븐일레븐, 아워홈 外",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1401770",
+          "source": "데일리한국",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "트로이 패럿": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-05T11:40:00+09:00",
+      "lastSeen": "2026-09-05T11:40:00+09:00",
+      "news": [
+        {
+          "title": "José Mourinho can't explain shock Real Madrid loss at Betis",
+          "url": "https://www.espn.com/soccer/story/_/id/49828781/jose-mourinho-real-madrid-betis-kylian-mbappe-penalty",
+          "source": "ESPN",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "José Mourinho sick as a Parrott as Real Madrid sunk by Real Betis and Irish supersub",
+          "url": "https://www.theguardian.com/football/2026/sep/04/jose-mourinho-sick-as-a-parrott-as-real-madrid-sunk-by-real-betis-and-irish-supersub",
+          "source": "The Guardian",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Troy Parrott the match-winner as Real Betis upset Real Madrid",
+          "url": "https://www.rte.ie/sport/soccer/2026/0904/1590408-parrott-the-match-winner-as-real-betis-upset-real-madrid/",
+          "source": "RTE.ie",
           "date": "2026-09-05"
         }
       ]
