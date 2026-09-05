@@ -354,10 +354,10 @@
       ]
     },
     "실시간스포츠": {
-      "count": 12,
+      "count": 13,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T06:11:00+09:00",
+      "lastSeen": "2026-09-06T06:37:00+09:00",
       "news": [
         {
           "title": "'6연승 도전' LG 라인업 떴다...오지환-박동원 선발 제외, 어제 라인업과 똑같다 [오!쎈 잠실]",
@@ -380,10 +380,10 @@
       ]
     },
     "nottm forest vs spurs": {
-      "count": 12,
+      "count": 13,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T00:39:00+09:00",
-      "lastSeen": "2026-09-06T06:11:00+09:00",
+      "lastSeen": "2026-09-06T06:37:00+09:00",
       "news": [
         {
           "title": "Nottingham Forest vs Tottenham Hotspur: Premier League preview, team news, stats & head-to-head",
@@ -418,10 +418,10 @@
       ]
     },
     "f1": {
-      "count": 11,
+      "count": 12,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T01:12:00+09:00",
-      "lastSeen": "2026-09-06T06:11:00+09:00",
+      "lastSeen": "2026-09-06T06:37:00+09:00",
       "news": [
         {
           "title": "Gasly charges to sensational maiden F1 pole at Monza over Russell and Piastri",
@@ -508,10 +508,10 @@
       ]
     },
     "샬케 대 바이에른": {
-      "count": 10,
+      "count": 11,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-06T01:39:00+09:00",
-      "lastSeen": "2026-09-06T06:11:00+09:00",
+      "lastSeen": "2026-09-06T06:37:00+09:00",
       "news": [
         {
           "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
@@ -534,6 +534,12 @@
         {
           "title": "‘역대급 실책’ 골키퍼는 잊어라! 케인 슛 선방하며 MOM 선정, 카리우스 감동적인 빅리그 복귀전",
           "url": "http://www.footballist.co.kr/news/articleView.html?idxno=214419",
+          "source": "풋볼리스트",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "우파메카노 왜 이래? 뮌헨 시즌 초 불안요소들",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=214420",
           "source": "풋볼리스트",
           "date": "2026-09-05"
         }
@@ -566,10 +572,10 @@
       ]
     },
     "분데스리가": {
-      "count": 9,
+      "count": 10,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T02:11:00+09:00",
-      "lastSeen": "2026-09-06T06:11:00+09:00",
+      "lastSeen": "2026-09-06T06:37:00+09:00",
       "news": [
         {
           "title": "‘패스 성공률 98%+평점 7점대+3경기 연속 선발’ 돌아온 철기둥, 김민재, 뮌헨 3번째 시즌은 다르다 ‘뮌헨 오스나크뷔르에 4-1 대역전승→포칼 2라운드 진출’",
@@ -604,10 +610,10 @@
       ]
     },
     "석유": {
-      "count": 7,
+      "count": 8,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T03:13:00+09:00",
-      "lastSeen": "2026-09-06T06:11:00+09:00",
+      "lastSeen": "2026-09-06T06:37:00+09:00",
       "news": [
         {
           "title": "미군 \"미 군함 겨냥 미사일 발사 대응해 이란 유조선 3척 타격\"",
@@ -701,10 +707,10 @@
       ]
     },
     "아들": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-06T06:11:00+09:00",
-      "lastSeen": "2026-09-06T06:11:00+09:00",
+      "lastSeen": "2026-09-06T06:37:00+09:00",
       "news": [
         {
           "title": "계곡서 초2 아들 구한 40대 아버지 끝내 사망…돕던 남성도 숨져",
@@ -727,10 +733,10 @@
       ]
     },
     "샤오 미": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-06T06:11:00+09:00",
-      "lastSeen": "2026-09-06T06:11:00+09:00",
+      "lastSeen": "2026-09-06T06:37:00+09:00",
       "news": [
         {
           "title": "샤오미 아이패드 9 프로 맥스의 성능 분석: Xring O3 프로세서, 13.3인치 화면, 120W 충전.",
@@ -753,10 +759,10 @@
       ]
     },
     "athletic bilbao vs atlético madrid standings": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T06:11:00+09:00",
-      "lastSeen": "2026-09-06T06:11:00+09:00",
+      "lastSeen": "2026-09-06T06:37:00+09:00",
       "news": [
         {
           "title": "Lee Kang-in's Shot Hits Post as Atletico Madrid Suffers 0-3 Defeat",
@@ -774,6 +780,32 @@
           "title": "Athletic Club vs Atletico Madrid Predictions, Bet Builder Tips, Lineups, Odds",
           "url": "https://www.whoscored.com/articles/ifucRZ0KRkuXrBDHiQ-46A/show/20260905-athletic-club-vs-atletico-madrid-prediction-1788590039",
           "source": "WhoScored.com",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "아틀레티코 마드리드 경기": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-06T06:37:00+09:00",
+      "lastSeen": "2026-09-06T06:37:00+09:00",
+      "news": [
+        {
+          "title": "‘왼발 막으니 오른발’ 이강인, 3분 만에 골대 강타...59분 활약에도 '완패'",
+          "url": "https://v.daum.net/v/20260906014749868",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'스페인 현지 분노' 이강인 얼마나 힘들었을까, 아틀레티코 '이례적' 최악 혹평 세례 \"무려 7명의 선수가...\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/2026090601460922580",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'이강인 골대·59분 출전' 아틀레티코, 빌바오 원정서 시즌 첫 패배",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777771",
+          "source": "뉴시스",
           "date": "2026-09-05"
         }
       ]
