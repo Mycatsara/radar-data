@@ -3490,10 +3490,10 @@
       ]
     },
     "양현준": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T19:39:00+09:00",
-      "lastSeen": "2026-09-06T20:11:00+09:00",
+      "lastSeen": "2026-09-06T20:39:00+09:00",
       "news": [
         {
           "title": "아시안게임 앞둔 양현준 2경기 연속골…셀틱 개막 5연승(종합)",
@@ -3512,21 +3512,27 @@
           "url": "https://www.newsis.com/view/NISI20260906_0002231374",
           "source": "뉴시스",
           "date": "2026-09-06"
+        },
+        {
+          "title": "'양현준 떠나는데 어떡하지' 셀틱 감독 \"너무 그리울 것\"... '컨디션 최고조' 양현준, 기분 좋게 이민성호 합류 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/2026090619290118923",
+          "source": "머니투데이",
+          "date": "2026-09-06"
         }
       ]
     },
     "안양 대 강원": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-06T19:39:00+09:00",
-      "lastSeen": "2026-09-06T20:11:00+09:00",
+      "lastSeen": "2026-09-06T20:39:00+09:00",
       "news": []
     },
     "샤인머스캣": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T20:11:00+09:00",
-      "lastSeen": "2026-09-06T20:11:00+09:00",
+      "lastSeen": "2026-09-06T20:39:00+09:00",
       "news": [
         {
           "title": "샤인머스캣, 미묘하게 다른 빛깔…‘이 색’ 골라야 더 달다",
@@ -3545,14 +3551,20 @@
           "url": "https://www.segye.com/newsView/20260904501013",
           "source": "세계일보",
           "date": "2026-09-06"
+        },
+        {
+          "title": "비싸서 못 먹던 '귀족 과일'인데…3만원→1만원 내려도 안 팔려, 무슨 일",
+          "url": "https://v.daum.net/v/1xlGoCnQNR?f=p",
+          "source": "Daum",
+          "date": "2026-09-06"
         }
       ]
     },
     "마이클 버리": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-06T20:11:00+09:00",
-      "lastSeen": "2026-09-06T20:11:00+09:00",
+      "lastSeen": "2026-09-06T20:39:00+09:00",
       "news": [
         {
           "title": "엔비디아, 허깅페이스 인수…17조원으로 개방형 AI 생태계 삼켰다",
@@ -3571,14 +3583,26 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=214878",
           "source": "AI타임스",
           "date": "2026-09-06"
+        },
+        {
+          "title": "“65% 빠졌는데 계속 물타기, 괜찮겠니?”…‘빅쇼트’ 마이클 버리 발목잡은 ‘레깅스’",
+          "url": "https://stock.mk.co.kr/news/view/1154196",
+          "source": "��일경제 마켓",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "룰루레몬 주가 8년만에 최저…물타기하던 버리도 \"죽을맛\"",
+          "url": "https://v.daum.net/v/20260906171203579",
+          "source": "Daum",
+          "date": "2026-09-06"
         }
       ]
     },
     "후라도": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-06T20:11:00+09:00",
-      "lastSeen": "2026-09-06T20:11:00+09:00",
+      "lastSeen": "2026-09-06T20:39:00+09:00",
       "news": [
         {
           "title": "삼성 후라도, 61일 만의 부상 복귀전서 5⅔이닝 4실점",
@@ -3597,14 +3621,20 @@
           "url": "https://biz.chosun.com/sports/baseball/2026/09/06/ME2WGNBQGU3WCY3DGUZTINZZHA/",
           "source": "Chosunbiz",
           "date": "2026-09-06"
+        },
+        {
+          "title": "안타-안타-안타-안타-싹쓸이 2루타…61일 만에 복귀→1회 4실점, 후라도 왜 이러나",
+          "url": "https://www.osen.co.kr/article/G1112871088",
+          "source": "OSEN",
+          "date": "2026-09-06"
         }
       ]
     },
     "수원 대 충남 아산 fc": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-06T20:11:00+09:00",
-      "lastSeen": "2026-09-06T20:11:00+09:00",
+      "lastSeen": "2026-09-06T20:39:00+09:00",
       "news": [
         {
           "title": "\"수원 GK 실수 좀 해줬으면\"…충남아산 안드레 감독의 미소 \"승점 3점 가져오겠다\" [현장인터뷰]",
@@ -3622,6 +3652,110 @@
           "title": "[K리그2 25라운드] 수원삼성 vs 충남아산FC 출전명단 공개",
           "url": "https://www.sportivomedia.net/news/articleView.html?idxno=22292",
           "source": "스포르티보 미디어",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "입양": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T20:39:00+09:00",
+      "lastSeen": "2026-09-06T20:39:00+09:00",
+      "news": [
+        {
+          "title": "홍석천, 딸 결혼한다 \"사위 내 스타일은 아냐\"",
+          "url": "https://www.newsis.com/view/NISX20260906_0003777806",
+          "source": "뉴시스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'조카 입양해 자식 삼은' 홍석천, 딸 시집보낸다…\"사위, 내 스타일은 아니지만\"",
+          "url": "https://v.daum.net/v/20260906084951736",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "홍석천, 조카 입양 설득 비결 \"재산으로 꼬셨다\"('동치미')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/05/GM3TANDDG4YDOMTFME4GGYRZHE/",
+          "source": "조선일보",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "연금 개혁": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T20:39:00+09:00",
+      "lastSeen": "2026-09-06T20:39:00+09:00",
+      "news": [
+        {
+          "title": "누더기 되는 연금제…기초연금 개편 리뷰 [연금 구조개혁]⑧",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8655837",
+          "source": "KBS 뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "내년 내 기초연금 오를까…소득 하위 50%면 인상 없이 35만원",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01984406645577168&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "2030년 기초연금 지출 30조원 돌파…복지 의무지출 ‘재정 비상’",
+          "url": "https://www.kyeonggi.com/article/20260906580001",
+          "source": "경기일보",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "페이커": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T20:39:00+09:00",
+      "lastSeen": "2026-09-06T20:39:00+09:00",
+      "news": [
+        {
+          "title": "[LCK] ‘도란·오너 슈퍼플레이’ T1, DK와 42분 접전 끝에 기선 제압",
+          "url": "https://www.osen.co.kr/article/G1112871173",
+          "source": "OSEN",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'페이커' 로크 활약한 T1, 디플 기아에 승...KSPO 돔 티켓 딱 1승",
+          "url": "https://www.dailyesports.com/view.php?ud=202609061950301168b91e133c1f_27",
+          "source": "데일리e스포츠",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[LCK 현장] 바론 한 방에 승부 뒤집은 디플러스 기아, T1과 1:1",
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=60611",
+          "source": "게임뷰",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "정은지": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T20:39:00+09:00",
+      "lastSeen": "2026-09-06T20:39:00+09:00",
+      "news": [
+        {
+          "title": "'15년차' 에이핑크 폭로전…\"윤보미 클럽 갈 때 갈매기눈썹\"",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777535",
+          "source": "뉴시스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "정은지, 매니저와 얼마나 끈끈하면…“장기 연애 커플 같아” (전참시)",
+          "url": "https://sports.donga.com/ent/article/all/20260906/134612264/1",
+          "source": "스포츠동아",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "‘전참시’ 에이핑크 완전체 떴다…‘청순돌’ 충격 과거 폭로 (전참시)",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/517274",
+          "source": "iMBC 연예",
           "date": "2026-09-06"
         }
       ]
