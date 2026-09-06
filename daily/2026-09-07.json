@@ -2,10 +2,10 @@
   "date": "2026-09-07",
   "keywords": {
     "고시원": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T00:12:00+09:00",
-      "lastSeen": "2026-09-07T01:13:00+09:00",
+      "lastSeen": "2026-09-07T01:40:00+09:00",
       "news": [
         {
           "title": "10시도 안 됐는데 술집 '텅텅'…고시원에는 '빈방'이 없다",
@@ -286,10 +286,10 @@
       ]
     },
     "아스널 대 첼시": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-07T00:39:00+09:00",
-      "lastSeen": "2026-09-07T01:13:00+09:00",
+      "lastSeen": "2026-09-07T01:40:00+09:00",
       "news": [
         {
           "title": "아스널 세트피스 얼마나 무섭길래…원장 맞대결 앞둔 첼시, '럭비 충돌 패드'까지 꺼내 맞춤 훈련",
@@ -312,10 +312,10 @@
       ]
     },
     "대둔산": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T00:39:00+09:00",
-      "lastSeen": "2026-09-07T01:13:00+09:00",
+      "lastSeen": "2026-09-07T01:40:00+09:00",
       "news": [
         {
           "title": "대둔산 전망대서 사진 찍다 ‘악’…60대 등산객 발 헛디뎌 추락",
@@ -334,14 +334,20 @@
           "url": "https://www.news1.kr/local/jeonbuk/6281481",
           "source": "뉴스1",
           "date": "2026-09-06"
+        },
+        {
+          "title": "대둔산 전망대서 사진 찍다 발 헛디뎌 ‘악’……추락한 60대 등산객",
+          "url": "https://www.dt.co.kr/article/12082367",
+          "source": "www.dt.co.kr",
+          "date": "2026-09-06"
         }
       ]
     },
     "차량 화재": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T00:39:00+09:00",
-      "lastSeen": "2026-09-07T01:13:00+09:00",
+      "lastSeen": "2026-09-07T01:40:00+09:00",
       "news": [
         {
           "title": "대구포항고속도로 윙바디 차량 화재 1시간여만에 진화(종합)",
@@ -360,14 +366,26 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8655852",
           "source": "KBS 뉴스",
           "date": "2026-09-06"
+        },
+        {
+          "title": "대구포항고속도로 도평터널 인근 화물차 화재‥산불로 번져 진화 중",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6849917_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "대구포항고속도로 5톤 트럭 불…야산 번져",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260906165059CWc",
+          "source": "연합뉴스TV",
+          "date": "2026-09-06"
         }
       ]
     },
     "목동": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T00:39:00+09:00",
-      "lastSeen": "2026-09-07T01:13:00+09:00",
+      "lastSeen": "2026-09-07T01:40:00+09:00",
       "news": [
         {
           "title": "\"26억3000만원 신고가 터졌다\"…요즘 심상치 않은 목동 [이슬기의 새집다오]",
@@ -390,10 +408,10 @@
       ]
     },
     "arsenal vs chelsea": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T01:13:00+09:00",
-      "lastSeen": "2026-09-07T01:13:00+09:00",
+      "lastSeen": "2026-09-07T01:40:00+09:00",
       "news": [
         {
           "title": "Arsenal vs Chelsea: Premier League preview, team news, stats & head-to-head",
@@ -412,14 +430,26 @@
           "url": "https://www.live-darts.com/betting-offers/coral-arsenal-vs-chelsea-welcome-bonus-offer-2026/",
           "source": "Live Darts",
           "date": "2026-09-06"
+        },
+        {
+          "title": "Arsenal’s Riccardo Calafiori has goal ruled out for offside against Chelsea",
+          "url": "https://cryptobriefing.com/arsenal-calafiori-goal-offside-chelsea-var/",
+          "source": "Crypto Briefing",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Gary Neville forced to make sudden U-turn minutes into Arsenal vs Chelsea - 'I'm wrong'",
+          "url": "https://www.aol.co.uk/articles/gary-neville-forced-sudden-u-155627000.html",
+          "source": "AOL.co.uk",
+          "date": "2026-09-06"
         }
       ]
     },
     "꽃게": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T01:13:00+09:00",
-      "lastSeen": "2026-09-07T01:13:00+09:00",
+      "lastSeen": "2026-09-07T01:40:00+09:00",
       "news": [
         {
           "title": "노량진서 암꽃게 1kg 사고 1만원 냈는데…'이게 맞아' 깜짝 [프라이스&]",
@@ -442,10 +472,10 @@
       ]
     },
     "거점 국립 대학교": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T01:13:00+09:00",
-      "lastSeen": "2026-09-07T01:13:00+09:00",
+      "lastSeen": "2026-09-07T01:40:00+09:00",
       "news": [
         {
           "title": "[현장의 시각]부산대 양산캠퍼스 유휴부지에 ‘훈풍’이 분다",
@@ -468,10 +498,10 @@
       ]
     },
     "валенсия – барселона": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T01:13:00+09:00",
-      "lastSeen": "2026-09-07T01:13:00+09:00",
+      "lastSeen": "2026-09-07T01:40:00+09:00",
       "news": [
         {
           "title": "«Валенсия» — «Барселона»: где смотреть прямую трансляцию матча Ла Лиги 6 сентября",
@@ -489,6 +519,32 @@
           "title": "«Валенсия» — «Барселона»: Когда начало, где смотреть онлайн матча Ла Лиги 6 сентября",
           "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/spbnews_NI2362328_Valensija__Barselona_Kogda_nachalo_gde_smotret_onlajn_matcha_La_Ligi_6_sentabra",
           "source": "Sportbox",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "맨유": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T01:40:00+09:00",
+      "lastSeen": "2026-09-07T01:40:00+09:00",
+      "news": [
+        {
+          "title": "‘맨유, 드디어 움직인다’ 모두가 기다린 ‘희소식’···캡틴과 재계약 속도 올린다 “3년 연장 조건에 합의 원해”",
+          "url": "https://v.daum.net/v/UHIRYphDFr",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'맨유 성골 MF' 마이누 향한 기대감!…캐릭 \"틀림없이 훌륭한 시즌 보낼 것, 스스로 끊임없이 채찍질하는 선수\"",
+          "url": "https://m.news.nate.com/view/20260906n11812",
+          "source": "네이트",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[오피셜] 맨체스터 유나이티드 '그 자체'...홀란+셰르키 제쳤다! '캡틴' 브페 EPL 2라운드 이주의 선수 선정, 득표율 69% 달성",
+          "url": "https://mydaily.co.kr/page/view/2026090301171639953",
+          "source": "마이데일리",
           "date": "2026-09-06"
         }
       ]
