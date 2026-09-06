@@ -3529,10 +3529,10 @@
       "news": []
     },
     "샤인머스캣": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T20:11:00+09:00",
-      "lastSeen": "2026-09-06T20:39:00+09:00",
+      "lastSeen": "2026-09-06T21:15:00+09:00",
       "news": [
         {
           "title": "샤인머스캣, 미묘하게 다른 빛깔…‘이 색’ 골라야 더 달다",
@@ -3561,10 +3561,10 @@
       ]
     },
     "마이클 버리": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-06T20:11:00+09:00",
-      "lastSeen": "2026-09-06T20:39:00+09:00",
+      "lastSeen": "2026-09-06T21:15:00+09:00",
       "news": [
         {
           "title": "엔비디아, 허깅페이스 인수…17조원으로 개방형 AI 생태계 삼켰다",
@@ -3599,10 +3599,10 @@
       ]
     },
     "후라도": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T20:11:00+09:00",
-      "lastSeen": "2026-09-06T20:39:00+09:00",
+      "lastSeen": "2026-09-06T21:15:00+09:00",
       "news": [
         {
           "title": "삼성 후라도, 61일 만의 부상 복귀전서 5⅔이닝 4실점",
@@ -3626,6 +3626,12 @@
           "title": "안타-안타-안타-안타-싹쓸이 2루타…61일 만에 복귀→1회 4실점, 후라도 왜 이러나",
           "url": "https://www.osen.co.kr/article/G1112871088",
           "source": "OSEN",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "안타-안타-안타-안타-싹��이 2루타…61일 만에 복귀→1회 4실점, 후라도 왜 이러나",
+          "url": "https://v.daum.net/v/20260906174212333",
+          "source": "Daum",
           "date": "2026-09-06"
         }
       ]
@@ -3657,10 +3663,10 @@
       ]
     },
     "입양": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-06T20:39:00+09:00",
-      "lastSeen": "2026-09-06T20:39:00+09:00",
+      "lastSeen": "2026-09-06T21:15:00+09:00",
       "news": [
         {
           "title": "홍석천, 딸 결혼한다 \"사위 내 스타일은 아냐\"",
@@ -3679,14 +3685,20 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/05/GM3TANDDG4YDOMTFME4GGYRZHE/",
           "source": "조선일보",
           "date": "2026-09-06"
+        },
+        {
+          "title": "홍석천 딸 결혼한다…\"사위, 내 스타일은 아냐\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/06/2026090608555920600",
+          "source": "머니투데이",
+          "date": "2026-09-06"
         }
       ]
     },
     "연금 개혁": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-06T20:39:00+09:00",
-      "lastSeen": "2026-09-06T20:39:00+09:00",
+      "lastSeen": "2026-09-06T21:15:00+09:00",
       "news": [
         {
           "title": "누더기 되는 연금제…기초연금 개편 리뷰 [연금 구조개혁]⑧",
@@ -3709,10 +3721,10 @@
       ]
     },
     "페이커": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T20:39:00+09:00",
-      "lastSeen": "2026-09-06T20:39:00+09:00",
+      "lastSeen": "2026-09-06T21:15:00+09:00",
       "news": [
         {
           "title": "[LCK] ‘도란·오너 슈퍼플레이’ T1, DK와 42분 접전 끝에 기선 제압",
@@ -3731,14 +3743,26 @@
           "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=60611",
           "source": "게임뷰",
           "date": "2026-09-06"
+        },
+        {
+          "title": "[LCK] '쇼메이커-스매시 쌍포 폭발' DK, T1과 난타전 끝 2세트 반격…1-1 원점",
+          "url": "https://m.news.nate.com/view/20260906n16461",
+          "source": "네이트",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[LCK] 증명한 '페이커'의 로크, T1 매치포인트",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320487",
+          "source": "인벤",
+          "date": "2026-09-06"
         }
       ]
     },
     "정은지": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T20:39:00+09:00",
-      "lastSeen": "2026-09-06T20:39:00+09:00",
+      "lastSeen": "2026-09-06T21:15:00+09:00",
       "news": [
         {
           "title": "'15년차' 에이핑크 폭로전…\"윤보미 클럽 갈 때 갈매기눈썹\"",
@@ -3756,6 +3780,84 @@
           "title": "‘전참시’ 에이핑크 완전체 떴다…‘청순돌’ 충격 과거 폭로 (전참시)",
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/517274",
           "source": "iMBC 연예",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "울산광역시": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T21:15:00+09:00",
+      "lastSeen": "2026-09-06T21:15:00+09:00",
+      "news": [
+        {
+          "title": "울산시의회, 농아인 체육활동 지원책 현장 논의",
+          "url": "https://m.joongdo.co.kr/view.php?key=20260905010001600",
+          "source": "중도일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "조성철 울산시의원, 울산농아인스포츠연맹 간담",
+          "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1067476",
+          "source": "울산매일 - 울산최초, 최고의 조간신문",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "조성철 울산시의원, 농아인 체육활동 활성화 간담회",
+          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=582477",
+          "source": "울산신문",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "서정희": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-06T21:15:00+09:00",
+      "lastSeen": "2026-09-06T21:15:00+09:00",
+      "news": [
+        {
+          "title": "'63세' 서정희, 10년 전 원피스 입었다..\"벅차게 꼭 끼지만 그 불편함도 엣지\"",
+          "url": "https://v.daum.net/v/20260906161036161",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "딸 방문에 다급히 숨기는 간식?! 빵 & 커피 & 과자 끊기 도전한 서정희",
+          "url": "https://ichannela.com/program/clip/000000548744.do",
+          "source": "채널A",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "서정희, 암 투병 이겨냈지만 또 건강 고민…“반복되는 부종”",
+          "url": "https://sports.donga.com/ent/article/all/20260904/134605516/1",
+          "source": "스포츠동아",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "배치표": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T21:15:00+09:00",
+      "lastSeen": "2026-09-06T21:15:00+09:00",
+      "news": [
+        {
+          "title": "충북교육청, 2027학년도 9월 모의평가 분석 결과 발표 : 네이버 블로그",
+          "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224400661054&redirect=Dlog",
+          "source": "Naver Blog",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "어려운 국어에 N수생 급증…'9월 모평' 이후 고민하는 고3 현장[르포]",
+          "url": "https://v.daum.net/v/uZU7TEQ9G2?f=p",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[단독][2027 9월모평 가채점 배치표] 서울중등, 서울대 의예 297점 연대 의예 295점 ‘최고’ 서울대 경영 278점",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=626385",
+          "source": "베리타스알파",
           "date": "2026-09-06"
         }
       ]
