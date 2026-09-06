@@ -17,6 +17,8 @@ jobs:
         with:
           node-version: "24"
       - run: node collector/collect.js .
+      # 눈치(워드프레스) 예약 게시가 새벽에도 제때 나가게 30분마다 크론을 건드린다 (방문자 없으면 WP-Cron이 안 돌기 때문)
+      - run: curl -s -m 20 -o /dev/null -w "wp-cron %{http_code}\n" "https://noonchii.com/wp-cron.php?doing_wp_cron" || true
       - run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
