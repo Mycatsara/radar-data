@@ -286,10 +286,10 @@
       ]
     },
     "아스널 대 첼시": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-07T00:39:00+09:00",
-      "lastSeen": "2026-09-07T02:11:00+09:00",
+      "lastSeen": "2026-09-07T02:38:00+09:00",
       "news": [
         {
           "title": "아스널 세트피스 얼마나 무섭길래…원장 맞대결 앞둔 첼시, '럭비 충돌 패드'까지 꺼내 맞춤 훈련",
@@ -312,10 +312,10 @@
       ]
     },
     "대둔산": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T00:39:00+09:00",
-      "lastSeen": "2026-09-07T02:11:00+09:00",
+      "lastSeen": "2026-09-07T02:38:00+09:00",
       "news": [
         {
           "title": "대둔산 전망대서 사진 찍다 ‘악’…60대 등산객 발 헛디뎌 추락",
@@ -339,6 +339,12 @@
           "title": "대둔산 전망대서 사진 찍다 발 헛디뎌 ‘악’……추락한 60대 등산객",
           "url": "https://www.dt.co.kr/article/12082367",
           "source": "www.dt.co.kr",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[속보]전망대서 사진 찍으려다 헛디뎌 추락…헬기 이송",
+          "url": "https://www.munhwa.com/article/11614884",
+          "source": "문화일보",
           "date": "2026-09-06"
         }
       ]
@@ -408,10 +414,10 @@
       ]
     },
     "arsenal vs chelsea": {
-      "count": 3,
-      "maxTraffic": 500,
+      "count": 4,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-07T01:13:00+09:00",
-      "lastSeen": "2026-09-07T02:11:00+09:00",
+      "lastSeen": "2026-09-07T02:38:00+09:00",
       "news": [
         {
           "title": "Arsenal vs Chelsea: Premier League preview, team news, stats & head-to-head",
@@ -446,10 +452,10 @@
       ]
     },
     "꽃게": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T01:13:00+09:00",
-      "lastSeen": "2026-09-07T02:11:00+09:00",
+      "lastSeen": "2026-09-07T02:38:00+09:00",
       "news": [
         {
           "title": "노량진서 암꽃게 1kg 사고 1만원 냈는데…'이게 맞아' 깜짝 [프라이스&]",
@@ -484,10 +490,10 @@
       ]
     },
     "거점 국립 대학교": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T01:13:00+09:00",
-      "lastSeen": "2026-09-07T02:11:00+09:00",
+      "lastSeen": "2026-09-07T02:38:00+09:00",
       "news": [
         {
           "title": "[현장의 시각]부산대 양산캠퍼스 유휴부지에 ‘훈풍’이 분다",
@@ -510,10 +516,10 @@
       ]
     },
     "валенсия – барселона": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T01:13:00+09:00",
-      "lastSeen": "2026-09-07T02:11:00+09:00",
+      "lastSeen": "2026-09-07T02:38:00+09:00",
       "news": [
         {
           "title": "«Валенсия» — «Барселона»: где смотреть прямую трансляцию матча Ла Лиги 6 сентября",
@@ -574,10 +580,10 @@
       ]
     },
     "อาร์เซนอล พบ เชลซี": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T02:11:00+09:00",
-      "lastSeen": "2026-09-07T02:11:00+09:00",
+      "lastSeen": "2026-09-07T02:38:00+09:00",
       "news": [
         {
           "title": "ผลการแข่งขันฟุตบอลวันนี้ 6 กันยายน",
@@ -600,10 +606,10 @@
       ]
     },
     "모건 로저스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T02:11:00+09:00",
-      "lastSeen": "2026-09-07T02:11:00+09:00",
+      "lastSeen": "2026-09-07T02:38:00+09:00",
       "news": [
         {
           "title": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been",
@@ -626,10 +632,10 @@
       ]
     },
     "김승현": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T02:11:00+09:00",
-      "lastSeen": "2026-09-07T02:11:00+09:00",
+      "lastSeen": "2026-09-07T02:38:00+09:00",
       "news": [
         {
           "title": "드라마 섭외 안 들어온다더니…김승현, 6년 공백 끝에 작가 데뷔",
@@ -641,6 +647,32 @@
           "title": "'6년째 캐스팅無' 김승현, 결국 40대 중반에 전직하나..작가 데뷔→러브콜 ��았다",
           "url": "https://www.sportschosun.com/entertainment/2026-09-06/202609060100041330002673",
           "source": "스포츠조선",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "arsenal": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T02:38:00+09:00",
+      "lastSeen": "2026-09-07T02:38:00+09:00",
+      "news": [
+        {
+          "title": "Why was Riccardo Calafiori’s goal disallowed by VAR during Arsenal vs Chelsea?",
+          "url": "https://www.independent.co.uk/sport/football/riccardo-calafiori-goal-disallowed-var-arsenal-chelsea-konsa-b3045538.html",
+          "source": "The Independent",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Gabriel avoids red card for boot in face of Emi Martinez as Premier League gives explanation",
+          "url": "https://talksport.com/football/4562024/gabriel-red-card-emi-martinez-premier-league-explain/",
+          "source": "talkSPORT",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Gary Neville forced to make sudden U-turn minutes into Arsenal vs Chelsea - 'I'm wrong'",
+          "url": "https://www.football.london/arsenal-fc/news/gary-neville-rogers-chelsea-arsenal-34576279",
+          "source": "Football London",
           "date": "2026-09-06"
         }
       ]
