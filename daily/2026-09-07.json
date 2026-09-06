@@ -1004,10 +1004,10 @@
       ]
     },
     "관광객": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-07T06:38:00+09:00",
-      "lastSeen": "2026-09-07T06:38:00+09:00",
+      "lastSeen": "2026-09-07T07:12:00+09:00",
       "news": [
         {
           "title": "“한국전도사였는데, 다신 안옵니다”…中관광객 불편신고 600건 ‘최다’",
@@ -1030,10 +1030,10 @@
       ]
     },
     "thứ hạng của arsenal gặp chelsea": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-07T06:38:00+09:00",
-      "lastSeen": "2026-09-07T06:38:00+09:00",
+      "lastSeen": "2026-09-07T07:12:00+09:00",
       "news": [
         {
           "title": "آرسنال مقابل چلسی ۲-۱ (نیمه اول): از دست رفته!!! رایا یک سیو عالی انجام داد.",
@@ -1056,10 +1056,10 @@
       ]
     },
     "valencia cf vs fc barcelona standings": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T06:38:00+09:00",
-      "lastSeen": "2026-09-07T06:38:00+09:00",
+      "lastSeen": "2026-09-07T07:12:00+09:00",
       "news": [
         {
           "title": "Preview: Valencia vs Barcelona - prediction, team news, lineups",
@@ -1082,10 +1082,10 @@
       ]
     },
     "김윤지": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-07T06:38:00+09:00",
-      "lastSeen": "2026-09-07T06:38:00+09:00",
+      "lastSeen": "2026-09-07T07:12:00+09:00",
       "news": [
         {
           "title": "김윤지, 딸과 미국行→벌써 4개월째..김영임도 손녀 보러 출국 - 조선비즈",
@@ -1108,10 +1108,10 @@
       ]
     },
     "us 오픈": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T06:38:00+09:00",
-      "lastSeen": "2026-09-07T06:38:00+09:00",
+      "lastSeen": "2026-09-07T07:12:00+09:00",
       "news": [
         {
           "title": "'전세계 강타' 필리핀 女 테니스 스타, 그의 뒤엔 라파엘 나달 삼촌 있었다…나달 아카데미 졸업→\"US오픈 디렉터로 곁에 있어\"",
@@ -1129,6 +1129,148 @@
           "title": "필리핀에는 이알라가 있는데… 한국에는 왜 없는가",
           "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19396",
           "source": "테니스피플",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "스물셋에 상금만 890억…최연소 1위 찍고도 파티 즐기는 Z세대 챔피언",
+          "url": "https://www.segye.com/newsView/20260901513537",
+          "source": "세계일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "테니스 알카라스·사발렌카, 나란히 US오픈 16강",
+          "url": "https://www.yna.co.kr/view/AKR20260905022500007",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "넷플릭스": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T07:12:00+09:00",
+      "lastSeen": "2026-09-07T07:12:00+09:00",
+      "news": [
+        {
+          "title": "“넷플릭스 아성 넘본다”… 해외 시장 뚫는 중국 OTT",
+          "url": "https://v.daum.net/v/20260907063207874",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "中 방영 일주일이면 한국에…MOA의 '속전속결' 수급전 [엔터코노미]",
+          "url": "https://news.mtn.co.kr/news-detail/2026083114373469191",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "中 방영 일주일이면 한국에…MOA의 '속전속결' 수급전 [엔터코노미]",
+          "url": "https://v.daum.net/v/20260831163256777",
+          "source": "Daum",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "기상": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T07:12:00+09:00",
+      "lastSeen": "2026-09-07T07:12:00+09:00",
+      "news": [
+        {
+          "title": "[포토뉴스]7일 백로…가을 부르는 억새의 손짓",
+          "url": "https://www.khan.co.kr/article/202609062059005",
+          "source": "경향신문",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "완연한 가을 기운, 백로 하루 앞둔 대구 하늘",
+          "url": "https://www.newsis.com/view/NISI20260906_0021425513",
+          "source": "뉴시스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[국제포토] 막바지 여름 & 힘찬 음악분수대의 위용",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3686400",
+          "source": "국제뉴스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "코디 폰세": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T07:12:00+09:00",
+      "lastSeen": "2026-09-07T07:12:00+09:00",
+      "news": [
+        {
+          "title": "시즌 아웃인 줄 알았는데…폰세 대반전! 월드시리즈에 깜짝 등판하나 \"PS 복귀 가능성 있다\"",
+          "url": "https://v.daum.net/v/20260907001010967",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'데뷔전 시즌 아웃' 폰세 대반전? \"토론토 PS 후반 깜짝 등장 가능성\"",
+          "url": "https://www.sportschosun.com/baseball/2026-09-07/202609070100044790002930",
+          "source": "스포츠조선",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'고작 5억인데' KBO 역대급 외인 탄생인가…\"폰세와 비교? 단기간 모습만 보면 더 좋아\" [인천 현장]",
+          "url": "https://v.daum.net/v/bWBuQg2u5Q?f=p",
+          "source": "Daum",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "문보경": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T07:12:00+09:00",
+      "lastSeen": "2026-09-07T07:12:00+09:00",
+      "news": [
+        {
+          "title": "9회 무사 1,3루 놓치고 연장 패배하며 5연승 끊긴 LG ‘염갈량’...“야구, 어렵다 어려워...문보경은 허리 통증으로 라인업 제외” [잠실 프리뷰]",
+          "url": "https://v.daum.net/v/ZWdmbzTsop",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "고우석 투입 불발 이유는 '시차 적응'…염경엽 감독이 밝힌 마운드 뒷이야기",
+          "url": "https://www.nocutnews.co.kr/news/6573697",
+          "source": "노컷뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"손주영, 오늘 세이브 상황이면 던진다\" 일주일 5경기 등판 승부수...그렇다면 고우석은 언제?",
+          "url": "https://www.osen.co.kr/article/G1112870967",
+          "source": "OSEN",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "대한 광통신": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T07:12:00+09:00",
+      "lastSeen": "2026-09-07T07:12:00+09:00",
+      "news": [
+        {
+          "title": "대한광통신, 올해 흑자전환 기대…실적 눈높이도 껑충",
+          "url": "https://www.hankyung.com/article/202609066367i",
+          "source": "한국경제",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "엔비디아 AI 네트워킹 올라탄 성호전자…플러거블·CPO 동시 수혜 기대 : 네이버 블로그",
+          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224400984151&redirect=Dlog",
+          "source": "Naver Blog",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "‘실리콘 포토닉스’ 업은 AI 인프라 강자 [미장 보석주]",
+          "url": "https://www.mk.co.kr/news/economy/12144419",
+          "source": "매일경제",
           "date": "2026-09-06"
         }
       ]
