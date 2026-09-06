@@ -1502,10 +1502,10 @@
       ]
     },
     "juventus vs milan": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T08:11:00+09:00",
-      "lastSeen": "2026-09-07T08:11:00+09:00",
+      "lastSeen": "2026-09-07T08:38:00+09:00",
       "news": [
         {
           "title": "Ruben Amorim on Milan’s form: “We can win every match”",
@@ -1524,14 +1524,26 @@
           "url": "https://www.juventus.com/en/news/articles/press-room-comments-after-juventus-milan-06-09-26",
           "source": "Juventus.com",
           "date": "2026-09-06"
+        },
+        {
+          "title": "Juventus 2-1 AC Milan: Federico Gatti scores late equaliser for unbeaten Juve",
+          "url": "https://www.bbc.com/sport/football/live/cke87vv5jrret",
+          "source": "BBC",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "De Winter: \"Amorim wants a dominant and intense style of football\"",
+          "url": "https://milanreports.com/2026/09/06/de-winter-amorim-dominant-football/",
+          "source": "Milanreports.com",
+          "date": "2026-09-06"
         }
       ]
     },
     "추석": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T08:11:00+09:00",
-      "lastSeen": "2026-09-07T08:11:00+09:00",
+      "lastSeen": "2026-09-07T08:38:00+09:00",
       "news": [
         {
           "title": "롯데백화점, 추석 맞아 '하몽 카빙·케이터링 출장 서비스' 선봬",
@@ -1550,14 +1562,26 @@
           "url": "https://stock.mk.co.kr/news/view/1154286",
           "source": "매일경제 마켓",
           "date": "2026-09-06"
+        },
+        {
+          "title": "\"최대 55% 할인\"…풀무원, 추석 선물세트 프로모션 진행",
+          "url": "https://view.asiae.co.kr/article/2026090707450326612",
+          "source": "아시아경제",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "과일·두유부터 한우까지…풀무원 온라인몰서 추석 선물세트 프로모션",
+          "url": "https://www.munhwa.com/article/11614906",
+          "source": "문화일보",
+          "date": "2026-09-06"
         }
       ]
     },
     "조명우": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T08:11:00+09:00",
-      "lastSeen": "2026-09-07T08:11:00+09:00",
+      "lastSeen": "2026-09-07T08:38:00+09:00",
       "news": [
         {
           "title": "“역시 세계1위” 조명우, 야스퍼스에 완승 벨기에 리르3쿠션월드컵 정상…개인통산 6회 우승",
@@ -1679,6 +1703,188 @@
           "title": "With Just 9 Words, Tim Cook’s Farewell Email Taught a Lesson for Every Leader",
           "url": "https://www.inc.com/jason-aten/with-just-9-words-tim-cooks-farewell-email-taught-a-lesson-for-every-leader/91399215",
           "source": "Inc.com",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "디에고 시메오네": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T08:38:00+09:00",
+      "lastSeen": "2026-09-07T08:38:00+09:00",
+      "news": [
+        {
+          "title": "'이강인 교체 이후 득점 기회 창출 어려웠다' 시메오네 감독도 인정…아틀레티코 마드리드, 시즌 첫 무득점 패배",
+          "url": "https://v.daum.net/v/20260907023149890",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'이강인 골대 불운' 아틀레티코, 빌바오에 0-3 시즌 첫 패배",
+          "url": "https://www.yna.co.kr/view/AKR20260906004500007",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "‘무려 7710억!’ 이강인 韓 축구 역대 ‘최고 이적료 2위’ 위엄 재조명, 2026 여름 라리가 이적생 ‘가...",
+          "url": "https://sports.khan.co.kr/article/202609070520003",
+          "source": "스포츠경향",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "동탄역 롯데캐슬": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T08:38:00+09:00",
+      "lastSeen": "2026-09-07T08:38:00+09:00",
+      "news": [
+        {
+          "title": "\"자고 일어나면 억 단위로 뛴다\"…8년 만에 17억 껑충 뛴 '신고가 단지'",
+          "url": "https://v.daum.net/v/XcLSRIiPcw",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"8년 만에 17억 올랐다\"…롯데캐슬 아닌 '로또캐슬' 된 이곳",
+          "url": "https://www.newsis.com/view/NISX20260906_0003778133",
+          "source": "뉴시스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "동탄 규제 두 달 만에 '풍선효과'… 병점 매물 줄고 매수세 증가",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363735881",
+          "source": "중부일보",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "이정효": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-07T08:38:00+09:00",
+      "lastSeen": "2026-09-07T08:38:00+09:00",
+      "news": [
+        {
+          "title": "또 다시 연승 실패한 안드레 감독 \"더 열심히 준비해야\"[현장 기자회견]",
+          "url": "https://www.chosun.com/sports/football/2026/09/06/MRSTEN3DGQ3TMOJSGRSTAOLDMQ/",
+          "source": "조선일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'8G 무승 6위' 부산-'8G 무패 1위' 수원...전반기 1-2위였다면 믿을까[K���그2]",
+          "url": "https://v.daum.net/v/20260907070148201",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "루이스·페신 '외인 듀오' 쾅쾅! 수원, 충남아산 2-0 완파 '선두 질주'... 성남은 김포 꺾고 '반등 신호탄' (종합) - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/2026090621215375851",
+          "source": "머니투데이",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "대도서관": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T08:38:00+09:00",
+      "lastSeen": "2026-09-07T08:38:00+09:00",
+      "news": [
+        {
+          "title": "대도서관, 뇌출혈로 갑작스럽게 세상 떠난 지 어느덧 1년…'1인 방송 선구자'",
+          "url": "https://v.daum.net/v/20260907075129094",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "생방송 이틀 뒤 갑작스러운 비보…대도서관, 오늘 사망 1주기 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/06/2026090611530826141",
+          "source": "머니투데이",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "",
+          "url": "https://news.nate.com/view/20260906n04122",
+          "source": "네이트",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "종합부동산세": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T08:38:00+09:00",
+      "lastSeen": "2026-09-07T08:38:00+09:00",
+      "news": [
+        {
+          "title": "서울 외곽 아파트값 올 들어 10% 올라… 관악·노원·중랑도 종부세 단지 나오나",
+          "url": "https://v.daum.net/v/20260907002238151",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "집값 계속 오르면 2030년 서울 22개구 종부세 과세권",
+          "url": "https://www.newsis.com/view/NISX20260906_0003777997",
+          "source": "뉴시스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[그래픽] 서울 종합부동산세 부과 시뮬레이션",
+          "url": "https://www.yna.co.kr/view/GYH20260906000400044",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "마르세유 대 파리": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T08:38:00+09:00",
+      "lastSeen": "2026-09-07T08:38:00+09:00",
+      "news": [
+        {
+          "title": "마르세유 vs 파리 FC 생중계: 후반전 시작, 파리 FC 2-1 리드",
+          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-marseille-vs-paris-fc-hiep-2-bat-dau-paris-fc-dan-2-1",
+          "source": "Vietnam.vn",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "챔피언스리그: 코모 - 파리 생제르맹, 어떤 채널에서 몇 시에 볼 수 있나요?",
+          "url": "https://www.sortiraparis.com/ko/palieseo-hal-il/seupocheu-welbing/articles/338897-chaempieonseuligeueseo-pali-saengjeleumaeng-eun-eoneu-chaeneol-eseo-jung-gyedoemyeo-gyeong-gineun-myeoch-sie-sijaghanayo",
+          "source": "Sortir à Paris",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "마르세유 vs 파리 FC 경기 예측: 선두 경쟁의 뜨거운 대결",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-marseille-vs-paris-fc-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "유기동물": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T08:38:00+09:00",
+      "lastSeen": "2026-09-07T08:38:00+09:00",
+      "news": [
+        {
+          "title": "유기동물 미리 키워보는 ‘예비입양제’ 도입…찬반 교차속 시범 운영",
+          "url": "https://www.khan.co.kr/article/202609070600091",
+          "source": "경향신문",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "나주 농식품 공공기관, 유기동물 입양 확산 동참…임직원 100여 명 참여",
+          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=62110",
+          "source": "한국영농신문",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "김정욱 농림축산식품부 농산업혁신정책실장, 나주 공공기관과 유기동물 입양 확산 앞장",
+          "url": "https://www.kodominnews.com/news/articleView.html?idxno=79520",
+          "source": "전국도민뉴스",
           "date": "2026-09-06"
         }
       ]
