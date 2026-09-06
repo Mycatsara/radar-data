@@ -2346,10 +2346,10 @@
       ]
     },
     "교산": {
-      "count": 2,
-      "maxTraffic": 1000,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-06T15:15:00+09:00",
-      "lastSeen": "2026-09-06T15:43:00+09:00",
+      "lastSeen": "2026-09-06T16:11:00+09:00",
       "news": [
         {
           "title": "\"GTX 얘기만 나왔는데…\" 국평 벌써 16억 뚫은 '이 동네' [철길옆집]",
@@ -2372,10 +2372,10 @@
       ]
     },
     "린": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-06T15:15:00+09:00",
-      "lastSeen": "2026-09-06T15:43:00+09:00",
+      "lastSeen": "2026-09-06T16:11:00+09:00",
       "news": [
         {
           "title": "'이수와 이혼' 린, 파경 1년됐는데 아직도 화장실 생활..비상금 위해 금 판다(미우새)",
@@ -2404,10 +2404,10 @@
       ]
     },
     "전경철": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T15:15:00+09:00",
-      "lastSeen": "2026-09-06T15:43:00+09:00",
+      "lastSeen": "2026-09-06T16:11:00+09:00",
       "news": [
         {
           "title": "'유퀴즈' 울렸던 간암 말기 '피터팬 아빠' 전경철 작가, 5일 별세…추모 물결",
@@ -2436,10 +2436,10 @@
       ]
     },
     "치맥": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-06T15:15:00+09:00",
-      "lastSeen": "2026-09-06T15:15:00+09:00",
+      "lastSeen": "2026-09-06T16:11:00+09:00",
       "news": [
         {
           "title": "“요즘 누가 야구장에서 치맥 먹어요”…인기 1위는 ‘이 메뉴’",
@@ -2458,14 +2458,26 @@
           "url": "https://view.asiae.co.kr/article/2026090611505718839",
           "source": "아시아경제",
           "date": "2026-09-06"
+        },
+        {
+          "title": "\"야구장 '치맥 국룰' 뒤집어졌다\" 기름진 음식 대신 깔끔하게 즐긴다는 新먹거리",
+          "url": "https://v.daum.net/v/20260906115949774",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "야구장 치킨 공식 깨졌다… 1위는 신선식품 중 ‘이것’",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3430397",
+          "source": "천지일보",
+          "date": "2026-09-06"
         }
       ]
     },
     "엘에이 fc": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T15:15:00+09:00",
-      "lastSeen": "2026-09-06T15:43:00+09:00",
+      "lastSeen": "2026-09-06T16:11:00+09:00",
       "news": [
         {
           "title": "DeAndre Yedlin makes sliding clearance in 87th to preserve Real Salt Lake's 2-2 draw with LAFC",
@@ -2514,10 +2526,10 @@
       ]
     },
     "의대생": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-06T15:43:00+09:00",
-      "lastSeen": "2026-09-06T15:43:00+09:00",
+      "lastSeen": "2026-09-06T16:11:00+09:00",
       "news": [
         {
           "title": "'수도권 입성' 노렸나…작년 지방 의대생 10명 중 8명 학교 떠났다",
@@ -2540,10 +2552,10 @@
       ]
     },
     "이유비": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-06T15:43:00+09:00",
-      "lastSeen": "2026-09-06T15:43:00+09:00",
+      "lastSeen": "2026-09-06T16:11:00+09:00",
       "news": [
         {
           "title": "'기이안 연애' 이유비, AI 남친 비주얼에 \"잘생겨\" 설렘",
@@ -2566,10 +2578,10 @@
       ]
     },
     "스낳대": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T15:43:00+09:00",
-      "lastSeen": "2026-09-06T15:43:00+09:00",
+      "lastSeen": "2026-09-06T16:11:00+09:00",
       "news": [
         {
           "title": "스틸시리즈, '자낳대26' 공식 스폰서 참여 \"게임·e스포츠 팬들과 접점 확대\"",
@@ -2613,6 +2625,58 @@
           "title": "\"야구장 '치맥 국룰' 뒤집어졌다\" 기름진 음식 대신 깔끔하게 즐긴다는 新먹거리",
           "url": "https://view.asiae.co.kr/article/2026090611505718839",
           "source": "아시아경제",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "천하람": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T16:11:00+09:00",
+      "lastSeen": "2026-09-06T16:11:00+09:00",
+      "news": [
+        {
+          "title": "천하람 \"강신철, '철거민 코스프레'‥22억 서초 아파트 부정청약\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6849899_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "천하람 \"강신철, 위장전입해 서초 철거민 특별분양 아파트 취득\"…姜 \"사실 아냐\"",
+          "url": "https://v.daum.net/v/20260906153241183",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "기자회견하는 천하람 ��혁신당 권한대행 겸 원내대표",
+          "url": "https://mobile.newsis.com/photo/NISI20260906_0021425470",
+          "source": "뉴시스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "최동석": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T16:11:00+09:00",
+      "lastSeen": "2026-09-06T16:11:00+09:00",
+      "news": [
+        {
+          "title": "'박지윤과 이혼' 최동석, 떠돌이 인생 토로하더니…\"우여곡절 끝에 이사\" [MHN:피드]",
+          "url": "https://v.daum.net/v/20260904152847421",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "“사랑이 가당키나 할까”…이혼 후 의미심장 게시글로 팬들 울린 ★들 [종합]",
+          "url": "https://tvreport.co.kr/breaking/article/1073169/",
+          "source": "TV리포트",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "최동석, 모친 한 마디에 울컥 \"떠돌이 인생 같다는 생각에 기운 빠져\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/02/G4ZTKMLEMVQTQMZYGMZTKZJYG4/",
+          "source": "조선일보",
           "date": "2026-09-06"
         }
       ]
