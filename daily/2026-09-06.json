@@ -3881,10 +3881,10 @@
       ]
     },
     "모델": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-06T21:43:00+09:00",
-      "lastSeen": "2026-09-06T22:12:00+09:00",
+      "lastSeen": "2026-09-06T22:39:00+09:00",
       "news": [
         {
           "title": "The model who split up with Trump’s envoy – and then was deported by ICE",
@@ -3903,14 +3903,26 @@
           "url": "https://www.thenews.com.pk/latest/1414138-amanda-ungaro-who-linked-trump-and-melania-to-epstein-shares-her-story",
           "source": "The News International",
           "date": "2026-09-06"
+        },
+        {
+          "title": "Nicole Kidman's daughter Sunday Rose is her mom's model twin in fresh-faced pictures",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/nicole-kidmans-daughter-sunday-rose-153658369.html",
+          "source": "Yahoo",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Welcome to the Lane Kiffin Show: Sights and sounds from LSU",
+          "url": "https://www.espn.com/college-football/story/_/id/49842102/lane-kiffin-show-lsu-college-football-2026-opener-sights-sounds",
+          "source": "ESPN",
+          "date": "2026-09-06"
         }
       ]
     },
     "이하정": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-06T21:43:00+09:00",
-      "lastSeen": "2026-09-06T22:12:00+09:00",
+      "lastSeen": "2026-09-06T22:39:00+09:00",
       "news": [
         {
           "title": "'정준호♥' 이하정, 숏컷 헤어로 더욱 어려진 분위기···40대 후반 맞아? - 조선비즈",
@@ -3933,10 +3945,10 @@
       ]
     },
     "persib bandung vs psm makassar": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T21:43:00+09:00",
-      "lastSeen": "2026-09-06T22:12:00+09:00",
+      "lastSeen": "2026-09-06T22:39:00+09:00",
       "news": [
         {
           "title": "Persib Hadapi PSM di Laga Perdana BRI Superleague Malam Ini, Ujian Pertama Sang Juara Bertahan",
@@ -3971,10 +3983,10 @@
       ]
     },
     "롤드컵": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T21:43:00+09:00",
-      "lastSeen": "2026-09-06T22:12:00+09:00",
+      "lastSeen": "2026-09-06T22:39:00+09:00",
       "news": [
         {
           "title": "젠지·한화생명·T1·디플러스, 이변 없이 롤드컵행…LCK 4강 확정",
@@ -4029,10 +4041,10 @@
       ]
     },
     "에버턴 대 맨유": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-06T22:12:00+09:00",
-      "lastSeen": "2026-09-06T22:12:00+09:00",
+      "lastSeen": "2026-09-06T22:39:00+09:00",
       "news": [
         {
           "title": "‘맨유 돈 안 썼다고 걱정하지 마세요’ 캐릭이 보증했다... 맨시티 1위-첼시 2위인데 맨유는 10위→ \"돈이 항상 정답은 아니다\"",
@@ -4050,6 +4062,18 @@
           "title": "에버턴전 대비 훈련!",
           "url": "https://www.manutd.com/ko/news/how-united-are-preparing-for-everton-a-sep-2026",
           "source": "Official Manchester United Website",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "에버튼 vs 맨유 생중계 링크: 선발 라인업 및 경기 전 분석",
+          "url": "https://www.vietnam.vn/ko/link-truc-tiep-everton-vs-mu-doi-hinh-ra-san-va-nhan-dinh-truoc-tran",
+          "source": "Vietnam.vn",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "프리미어 리그 에버튼 대 맨유 생중계 링크",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-everton-vs-man-united-tai-premier-league-1762431.ldo",
+          "source": "Laodong.vn",
           "date": "2026-09-06"
         }
       ]
@@ -4102,6 +4126,136 @@
           "title": "인니 화산 폭발에 자카르타 공항 '셧다운'…잿더미에 하늘길 막혔다",
           "url": "https://www.hankyung.com/article/2026090666127",
           "source": "한국경제",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "카드론": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T22:39:00+09:00",
+      "lastSeen": "2026-09-06T22:39:00+09:00",
+      "news": [
+        {
+          "title": "은행 막히자 보험권 '풍선효과'…보험 가계대출 석달새 2.7조 쑥",
+          "url": "https://stock.mk.co.kr/news/view/1154256",
+          "source": "매일경제 마켓",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "5060 빚투 광풍 속 ‘급전’ 당겼다…보험 건들고 카드론까지",
+          "url": "https://www.munhwa.com/article/11614810",
+          "source": "문화일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "상반기 증시 오르자…50·60대 보험대출·카드론 증가",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8655811",
+          "source": "KBS 뉴스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "เอฟเวอร์ตัน พบ แมนยู": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T22:39:00+09:00",
+      "lastSeen": "2026-09-06T22:39:00+09:00",
+      "news": [
+        {
+          "title": "ทำนายผลการแข่งขันพรีเมียร์ลีกอังกฤษ: แมนฯ ยูไนเต็ด เฉือนชนะเอฟเวอร์ตันไปอย่างหวุดหวิด",
+          "url": "https://www.vietnam.vn/th/du-doan-ti-so-ngoai-hang-anh-man-united-thang-nhoc-everton",
+          "source": "Vietnam.vn",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "รายชื่อ 11 ตัวจริง แมนยู พบ เอฟเวอร์ตัน ศึกพรีเมียร์ลีก นัดที่ 3 บอลวันนี้ 20.00 น.",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2957821",
+          "source": "Thairath.co.th",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "แมนยูออกไปเยือนเอฟเวอร์ตันที่ยังไม่แพ้ใคร แต่มาเยือนทีไรผีแดงเหมือนเจอขนมกรุบกรอบ | Soccersuck",
+          "url": "https://today.line.me/th/v3/article/GgwPnN6",
+          "source": "LINE TODAY",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "everton đấu với man utd": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T22:39:00+09:00",
+      "lastSeen": "2026-09-06T22:39:00+09:00",
+      "news": [
+        {
+          "title": "Dự đoán tỉ số Ngoại hạng Anh: Man United thắng nhọc Everton",
+          "url": "https://www.vietnam.vn/du-doan-ti-so-ngoai-hang-anh-man-united-thang-nhoc-everton",
+          "source": "Vietnam.vn",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Carrick đau đầu vì 2 tiền vệ của Everton, trong đó có người từng bị MU bán",
+          "url": "https://bongdaplus.vn/ngoai-hang-anh/carrick-dau-dau-vi-2-tien-ve-cua-everton-trong-do-co-nguoi-tung-bi-mu-ban-5156612609.html",
+          "source": "Tạp chí Bóng đá",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Everton 0-0 Man Utd (hiệp 1): Rashford đá chính",
+          "url": "https://dantri.com.vn/the-thao/everton-0-0-man-utd-hiep-1-rashford-da-chinh-20260906101847477.htm",
+          "source": "Báo Dân trí",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "everton vs man utd": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T22:39:00+09:00",
+      "lastSeen": "2026-09-06T22:39:00+09:00",
+      "news": [
+        {
+          "title": "Confirmed Man Utd XI vs Everton: Carrick names unchanged side",
+          "url": "https://readmanutd.com/2026/09/06/confirmed-man-utd-xi-everton-carrick-unchanged/",
+          "source": "Read Man Utd",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "BOYLE Sports Sign-Up Offer | Bet £10 Get £40 in Free Bets + EVS Super Boost for goal in the first half of Arsenal v Chelsea",
+          "url": "https://www.live-darts.com/betting-offers/boyle-sports-welcome-bonus-september-2026/",
+          "source": "Live Darts",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Everton vs Manchester United predictions: Tough away day expected",
+          "url": "https://www.goal.com/en-ca/betting/tips/everton-vs-manchester-united-predictions-06-09-2026/A%3Ablt58f262f4f917ef8b",
+          "source": "Goal.com",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "정준호": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T22:39:00+09:00",
+      "lastSeen": "2026-09-06T22:39:00+09:00",
+      "news": [
+        {
+          "title": "미운 우리 새끼 : [9월 6일 예고] ‘인맥왕’ 정준호, 화려한 추석 선물 라인업부터 깜짝 놀랄 손님까지",
+          "url": "http://programs.sbs.co.kr/enter/woori/clip/52019/OC481595026?div=live_end",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'미우새' 정준호, 탁재훈 父와 남다른 친분…\"이미 나를 아들로 생각\"",
+          "url": "https://v.daum.net/v/20260906214451479",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "돌싱 탁재훈, 연 매출 2천억女와 소개팅?! 핑크빛 기류 오나 (미우새)",
+          "url": "https://sports.donga.com/ent/article/all/20260904/134606349/1",
+          "source": "스포츠동아",
           "date": "2026-09-06"
         }
       ]
