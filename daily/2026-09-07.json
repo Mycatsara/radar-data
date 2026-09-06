@@ -2,10 +2,10 @@
   "date": "2026-09-07",
   "keywords": {
     "고시원": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-07T00:12:00+09:00",
-      "lastSeen": "2026-09-07T00:12:00+09:00",
+      "lastSeen": "2026-09-07T00:39:00+09:00",
       "news": [
         {
           "title": "10시도 안 됐는데 술집 '텅텅'…고시원에는 '빈방'이 없다",
@@ -28,10 +28,10 @@
       ]
     },
     "유튜버": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-07T00:12:00+09:00",
-      "lastSeen": "2026-09-07T00:12:00+09:00",
+      "lastSeen": "2026-09-07T00:39:00+09:00",
       "news": [
         {
           "title": "“택시에서 깜빡 졸아, 눈 떠보니 갈대밭”…제주 유튜버가 전해 들은 ‘섬뜩한 공포’",
@@ -50,14 +50,20 @@
           "url": "https://www.news1.kr/society/general-society/6281153",
           "source": "뉴스1",
           "date": "2026-09-06"
+        },
+        {
+          "title": "“택시에서 깜빡 졸아, 눈 떠보니 갈대밭”…제주 유튜버가 전해 들은 ‘섬뜩한 공포’",
+          "url": "https://v.daum.net/v/86xb2KGhlO",
+          "source": "Daum",
+          "date": "2026-09-06"
         }
       ]
     },
     "f1": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T00:12:00+09:00",
-      "lastSeen": "2026-09-07T00:12:00+09:00",
+      "lastSeen": "2026-09-07T00:39:00+09:00",
       "news": [
         {
           "title": "2026 Italian Grand Prix: Race red-flagged after Leclerc crashes out on Lap 2",
@@ -76,14 +82,26 @@
           "url": "https://www.gpfans.com/en/f1-news/1089939/f1-lewis-hamilton-charles-leclerc-ferrari-italian-grand-prix-crash-monza-red-flag/",
           "source": "GPfans",
           "date": "2026-09-06"
+        },
+        {
+          "title": "F1 LIVE: Italian Grand Prix 2026 start time, grid, commentary & updates from Monza",
+          "url": "https://www.bbc.com/sport/formula1/live/c895x8kyj8wt",
+          "source": "BBC",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Formula One 2026: Kimi Antonelli ends 60-year home wait at Italian GP after overtaking George Russell – live reaction",
+          "url": "https://www.theguardian.com/sport/live/2026/sep/06/formula-one-2026-italian-grand-prix-race-updates-live",
+          "source": "The Guardian",
+          "date": "2026-09-06"
         }
       ]
     },
     "valencia vs barcelona": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T00:12:00+09:00",
-      "lastSeen": "2026-09-07T00:12:00+09:00",
+      "lastSeen": "2026-09-07T00:39:00+09:00",
       "news": [
         {
           "title": "Valencia - Barcelona en directo, el partido de la Liga en vivo",
@@ -102,14 +120,20 @@
           "url": "https://onefootball.com/es/noticias/alerta-por-calor-en-el-valencia-barca-en-mestalla-se-preve-calor-43412373",
           "source": "OneFootball",
           "date": "2026-09-06"
+        },
+        {
+          "title": "Video: golazo de Fermín López tras una espectacular jugada del Barcelona",
+          "url": "https://www.365scores.com/es/news/gol-de-fermin-lopez-valencia-barcelona/",
+          "source": "365Scores",
+          "date": "2026-09-06"
         }
       ]
     },
     "발렌시아 대 바르셀로나": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-07T00:12:00+09:00",
-      "lastSeen": "2026-09-07T00:12:00+09:00",
+      "lastSeen": "2026-09-07T00:39:00+09:00",
       "news": [
         {
           "title": "\"레알 마드리드 패배? 그게 축구다\"… 라이벌 팀 결과에서 교훈 찾는 한지 플릭 감독, \"우리 자신에게 집중할 것\"",
@@ -132,10 +156,10 @@
       ]
     },
     "south africa vs zimbabwe": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T00:12:00+09:00",
-      "lastSeen": "2026-09-07T00:12:00+09:00",
+      "lastSeen": "2026-09-07T00:39:00+09:00",
       "news": [
         {
           "title": "South Africa vs Zimbabwe, Final, Namibia T20I Tri-Series 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
@@ -257,6 +281,110 @@
           "title": "필리핀 법원, '대통령 암살위협' 두테르테 부통령에 체포영장",
           "url": "https://www.yna.co.kr/view/AKR20260905026700084",
           "source": "연합뉴스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "아스널 대 첼시": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-07T00:39:00+09:00",
+      "lastSeen": "2026-09-07T00:39:00+09:00",
+      "news": [
+        {
+          "title": "아스널 세트피스 얼마나 무섭길래…원장 맞대결 앞둔 첼시, '럭비 충돌 패드'까지 꺼내 맞춤 훈련",
+          "url": "https://sports.news.nate.com/view/20260904n03719",
+          "source": "네이트",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "프리미어리그: ‘짠물 수비’ 아스널 vs ‘2경기 5실점’ 첼시… 승자는 누구",
+          "url": "https://sbotopkr.tistory.com/2534",
+          "source": "티스토리",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "시즌 첫 고비인데 수비수가 없다… 아스널 첼시전 앞두고 '부상 도미노', 살리바 못 뛰고 모스케라·팀버도 불투명",
+          "url": "https://v.daum.net/v/HMryJvaeCg",
+          "source": "Daum",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "대둔산": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T00:39:00+09:00",
+      "lastSeen": "2026-09-07T00:39:00+09:00",
+      "news": [
+        {
+          "title": "대둔산 전망대서 사진 찍다 ‘악’…60대 등산객 발 헛디뎌 추락",
+          "url": "https://v.daum.net/v/20260906190612098",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "대둔산 전망대서 추락 60대 헬기 이송…사진 찍으려다 발 헛디뎌",
+          "url": "https://www.yna.co.kr/view/AKR20260906042300055",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "완주 대둔산서 사진 찍던 60대 추락…헬기로 병원 이송",
+          "url": "https://www.news1.kr/local/jeonbuk/6281481",
+          "source": "뉴스1",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "차량 화재": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T00:39:00+09:00",
+      "lastSeen": "2026-09-07T00:39:00+09:00",
+      "news": [
+        {
+          "title": "대구포항고속도로 윙바디 차량 화재 1시간여만에 진화(종합)",
+          "url": "https://v.daum.net/v/20260906172038758",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "대구포항고속도로 도평터널 인근서 트레일러 화재",
+          "url": "https://www.yna.co.kr/view/AKR20260906036400053",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "대구포항고속도로 화물차 화재, 산으로 번져…1시간여 만에 진화",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8655852",
+          "source": "KBS 뉴스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "목동": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T00:39:00+09:00",
+      "lastSeen": "2026-09-07T00:39:00+09:00",
+      "news": [
+        {
+          "title": "\"26억3000만원 신고가 터졌다\"…요즘 심상치 않은 목동 [이슬기의 새집다오]",
+          "url": "https://www.hankyung.com/article/2026090437546",
+          "source": "한국경제",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[챗집피티]\"14평이 23억\" 1년만에 '5억' 껑충...재건축 속도 내는 목동 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/09/05/2026090414063396070",
+          "source": "머니투데이",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "양천구 정비사업 수주전 달아오른다…건설사들, 글로벌 설계사와 '맞손'",
+          "url": "https://news.nate.com/view/20260906n13651",
+          "source": "네이트",
           "date": "2026-09-06"
         }
       ]
@@ -1415,6 +1543,60 @@
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XY2ZCelQyOTNvVy1nbGRaRDNzaTh1UmMwQmVhTlRQZHNXS3Q0S1RTWW94bnM0c1V5cFJ1Mm9MaE5JcDVyRndrZDZLMUVQNnMyRDcyWThLVktIcFFkdXJTdlZUM0czejBUQ2ZsQ0pacjY0NlM0N0d2ZNIBfEFVX3lxTE8wV3YyLWFqc0NKcTF4LTM3LVR4OTI2Vlczb3J4eUtTZXpHVkE2ZU03SnpxRHFGX2NqRlBBMmFycFBpUGY1OTBrbldrVE4zRXBTMkxkNHdjeVl2eFBfaDVrRVJDMFZGc0lwWGdWNkxfaHlWdVIzSC1hS3VHSHo?oc=5",
         "source": "골프한국",
         "date": "2026-09-05"
+      },
+      {
+        "title": "아시안게임 나서는 '제자' 김준홍 향한 이정효의 특별한 당부 \"부상 없이, 그리고 지성이 좀 도와줘라\"[현장 인터뷰]",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVkt5NmRleG90VUR6LWxlU3p4UnM4WGFYXy1KaG1uY2dfMGhfd1RqczVOcm54MlB3eENWZXdMZ1ZoMnZDYW8wYTlSTHlWZ3JwM3ZuZm4wWTNIa1ktZjlPbXUxbEVYR2pBanloX1dQQ09NZEM2VzRhVi03S2RGNThZN0R0QQ?oc=5",
+        "source": "chosun.com",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "변준형 힘 보탠 마줄스호, 필리핀 완파…AG 예열",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zX0ZPRWVxQ1h0SnJpM1V1R3dtRlZhOGdKcXpHeEpMal9aUGhhUElUNjM1VEVOb21VV2VUbnB4Y29MRDIxVTZ3V0hZcUNnME93UTlmTE5XMmtfQXM?oc=5",
+        "source": "강원일보",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "K리그 강원, 아시안게임 차출 공백 딛고 안양 꺾었다…10년 만의 승리",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ITlUyZERkcUNpUkg5YjBOUTZ4bWxBRk9QMzU1emVjdHhkRUtOV1AtNkRMaWVPSjhLX18xaFpzUWlIU1MzU0liS3U2c2VHbEg2WG92NTB5VGlMT2VpUl80TXJxR0dPbnJSMFE?oc=5",
+        "source": "news.sbs.co.kr",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "[KLPGA] 최예림, 239번째 도전서 감격의 첫 우승...아홉 번 준우승 끝에 활짝 웃었다",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qVC1xOEtpU1FqbmhtSVlSUkxPX29WcVJZc1p3U0oxR0RKUnFsUXNTNU0xeUxIeEtMOFVyb2dCTmQ3VlpsNXFiMXF3dkc5ZGJadGFDd0JPWkZwZkpr?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "'韓 축구, 다행이다!' 아시안게임 4연패 정조준…'와일드 카드' 양현준, 무릎 부상 OUT \"괜찮다→충격받은 것 같아 교체\"",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTFZzemJnQndsbGZVN0NIUGI3UTVUcm9vTDRoVFJlYWpTTzVYd1p5TVhxSV9ZNjk2YUJjODUxU1VVZm9kOGVtNURSNTVqVVQ0eVhON1dQZkxLbkNsa0Q1NFVIUWNZS3hweXBuWWEtM1NPeEktUVhyTDAtMm5vcGI4RWVINzRTaFY2d0VB?oc=5",
+        "source": "chosun.com",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "최연소 40홈런 불발…KIA 김도영, 4안타 맹타로 아쉬움 달랬다",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nWWVreGlJbWxHVmoyNkpwOWluNkpjX2FYcGxoM0dNdHl6X1hxVXFnQVE3SzAzbEIzYmxnMFRqekRROVNsV3VyaG1XLVVMNjRkaVRRV1Z0SktzcjJ6YXRtczRn?oc=5",
+        "source": "KBC광주방송",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "왜 고우석 등판 아꼈나, 염경엽 답하다 “아직 시차적응 중이다. 이번 주까지는 쉬어야”",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5czNMc0hGYmRYRVpDREIxMWo0WWZYdGJoZVlfUmZSS1RRbnJNQ2R6SW9EVmpyeklWUDNlTWZYTUZfRlFzZW9XR1AyTjRuUlg0UnpDNw?oc=5",
+        "source": "OSEN",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "아시안게임 4연패 도전하는 이민성호 일본으로 출국(종합)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pSk9KOEM0cUVGUVFDcXZicUxFOF9YbExPdXl5ZjNvOUtQYmlLOTJUZ3ViWHhKVVozaEFlRGpMTTUxbnRuaV8tUk81QnZ6ZGtzX2Y0eHJkcGZISnPSAWBBVV95cUxORmVBQXhzV0dKZVZPTG9SSnVkVWxYY0l2QlJBOXhmdlI2UkNTdG5rVHl4RnJ4c1JFZEFIOUdjWDk3bjBkWDF5azZDQ0hVZVJyaUNsV1JfNm82d2paaVl2Y0c?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "[MLB] 김하성 2G 연속 침묵, 이정후·송성문 결장...오타니 부상자 등록 전망",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FVTRUQXg0dnVPcTZRZ2l1RjhyRDdmQXdUc2FDVjBJWjJrOTBWN21XeFpsZ19UdmVyVWdsUnkxSE1mZjRvdHlONzdhbFRUSXl3SzR4SW9pcm1Jdw?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-09-06"
       }
     ]
   }
