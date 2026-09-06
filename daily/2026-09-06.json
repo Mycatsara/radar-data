@@ -4131,10 +4131,10 @@
       ]
     },
     "카드론": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T22:39:00+09:00",
-      "lastSeen": "2026-09-06T23:12:00+09:00",
+      "lastSeen": "2026-09-06T23:39:00+09:00",
       "news": [
         {
           "title": "은행 막히자 보험권 '풍선효과'…보험 가계대출 석달새 2.7조 쑥",
@@ -4169,10 +4169,10 @@
       ]
     },
     "เอฟเวอร์ตัน พบ แมนยู": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-06T22:39:00+09:00",
-      "lastSeen": "2026-09-06T23:12:00+09:00",
+      "lastSeen": "2026-09-06T23:39:00+09:00",
       "news": [
         {
           "title": "ทำนายผลการแข่งขันพรีเมียร์ลีกอังกฤษ: แมนฯ ยูไนเต็ด เฉือนชนะเอฟเวอร์ตันไปอย่างหวุดหวิด",
@@ -4207,10 +4207,10 @@
       ]
     },
     "everton đấu với man utd": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T22:39:00+09:00",
-      "lastSeen": "2026-09-06T23:12:00+09:00",
+      "lastSeen": "2026-09-06T23:39:00+09:00",
       "news": [
         {
           "title": "Dự đoán tỉ số Ngoại hạng Anh: Man United thắng nhọc Everton",
@@ -4321,10 +4321,10 @@
       ]
     },
     "코레일": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-06T23:12:00+09:00",
-      "lastSeen": "2026-09-06T23:12:00+09:00",
+      "lastSeen": "2026-09-06T23:39:00+09:00",
       "news": [
         {
           "title": "7일부터 추석 열차 승차권 예매 시작",
@@ -4343,14 +4343,20 @@
           "url": "https://www.khan.co.kr/article/20260906211800A/?cp",
           "source": "경향신문",
           "date": "2026-09-06"
+        },
+        {
+          "title": "추석 명절 승차권 예매 내일 시작",
+          "url": "https://www.yna.co.kr/view/PYH20260906030000013",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
         }
       ]
     },
     "이창동": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T23:12:00+09:00",
-      "lastSeen": "2026-09-06T23:12:00+09:00",
+      "lastSeen": "2026-09-06T23:39:00+09:00",
       "news": [
         {
           "title": "‘가능한 사랑’ 베니스영화제 입성…설경구 “초심으로 돌아가는 ‘이창동 매직’ 경험해”",
@@ -4369,14 +4375,20 @@
           "url": "https://www.yna.co.kr/view/AKR20260906046400085",
           "source": "연합뉴스",
           "date": "2026-09-06"
+        },
+        {
+          "title": "베니스 찾은 ‘가능한 사랑’…이창동 감독이 8년 만에 꺼낸 질문",
+          "url": "https://v.daum.net/v/20260906232212318",
+          "source": "Daum",
+          "date": "2026-09-06"
         }
       ]
     },
     "이영자": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-06T23:12:00+09:00",
-      "lastSeen": "2026-09-06T23:12:00+09:00",
+      "lastSeen": "2026-09-06T23:39:00+09:00",
       "news": [
         {
           "title": "이영자, 직접 키운 오이 씨도 안 버린다 “밤에 이걸로 마사지”",
@@ -4395,14 +4407,20 @@
           "url": "https://bravo.etoday.co.kr/view/atc_view/19998",
           "source": "이투데이",
           "date": "2026-09-06"
+        },
+        {
+          "title": "이영자 어쩌나..쑥대밭 된 텃밭에 망연자실 \"큰일났다\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/06/MU2TIN3DGVSTGYZRMJRGKYRTMQ/",
+          "source": "조선일보",
+          "date": "2026-09-06"
         }
       ]
     },
     "사라 두테르테": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-06T23:12:00+09:00",
-      "lastSeen": "2026-09-06T23:12:00+09:00",
+      "lastSeen": "2026-09-06T23:39:00+09:00",
       "news": [
         {
           "title": "“나 죽으면 대통령 죽여라” 지시 필리핀 부통령, 보석 석방돼",
@@ -4420,6 +4438,84 @@
           "title": "필리핀 법원, '대통령 암살위협' 두테르테 부통령에 체포영장",
           "url": "https://www.yna.co.kr/view/AKR20260905026700084",
           "source": "연합뉴스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "valencia vs barcelona": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T23:39:00+09:00",
+      "lastSeen": "2026-09-06T23:39:00+09:00",
+      "news": [
+        {
+          "title": "Valencia - Barcelona en directo, el partido de la Liga en vivo",
+          "url": "https://elpais.com/deportes/futbol/2026-09-06/valencia-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html",
+          "source": "EL PAÍS",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Alerta por calor en el Valencia-Barça en Mestalla, se prevé calor",
+          "url": "https://onefootball.com/es/noticias/alerta-por-calor-en-el-valencia-barca-en-mestalla-se-preve-calor-43412373",
+          "source": "OneFootball",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "SKY Sports EN VIVO por Internet — dónde ver partido FC Barcelona vs. Valencia en Fútbol TV y SKY Plus",
+          "url": "https://gestion.pe/mix/sports/sky-sports-en-vivo-gratis-como-ver-partido-fc-barcelona-vs-valencia-por-futbol-tv-y-sky-plus-online-en-mexico-nnda-nnrt-noticia/",
+          "source": "Gestión",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "발렌시아 대 바르셀로나": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-06T23:39:00+09:00",
+      "lastSeen": "2026-09-06T23:39:00+09:00",
+      "news": [
+        {
+          "title": "\"레알 마드리드 패배? 그게 축구다\"… 라이벌 팀 결과에서 교훈 찾는 한지 플릭 감독, \"우리 자신에게 집중할 것\"",
+          "url": "https://v.daum.net/v/20260906172037757",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "발렌시아 vs 바르셀로나 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-valencia-vs-barcelona-khach-tiep-tuc-bay-cao",
+          "source": "Vietnam.vn",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "라리가 발렌시아 대 바르셀로나 생중계 링크",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-valencia-vs-barcelona-tai-la-liga-1762435.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "south africa vs zimbabwe": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T23:39:00+09:00",
+      "lastSeen": "2026-09-06T23:39:00+09:00",
+      "news": [
+        {
+          "title": "RSA vs ZIM, Final, Namibia T20I Tri-Series 2026 - Commentary",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/170017/rsa-vs-zim-final-namibia-t20i-tri-series-2026",
+          "source": "Cricbuzz",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Splendid win boosts South Africa's tri-series final chances",
+          "url": "https://www.icc-cricket.com/news/splendid-win-boosts-south-africa-s-tri-series-final-chances",
+          "source": "ICC",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "T20I Tri-Series final: SA's Jordan Hermann slams 53 versus Zimabwe",
+          "url": "https://www.newsbytesapp.com/news/sports/jordan-hermann-shines-versus-zimbabwe-with-half-century-in-t20i-tri-series/story",
+          "source": "NewsBytes",
           "date": "2026-09-06"
         }
       ]
