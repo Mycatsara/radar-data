@@ -1209,10 +1209,10 @@
       ]
     },
     "재산세": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-06T08:37:00+09:00",
-      "lastSeen": "2026-09-06T08:37:00+09:00",
+      "lastSeen": "2026-09-06T09:22:00+09:00",
       "news": [
         {
           "title": "성남시, 토지이동 595필지 개별공시지가 열람…22일까지",
@@ -1235,10 +1235,10 @@
       ]
     },
     "이병헌": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 50000,
       "firstSeen": "2026-09-06T08:37:00+09:00",
-      "lastSeen": "2026-09-06T08:37:00+09:00",
+      "lastSeen": "2026-09-06T09:22:00+09:00",
       "news": [
         {
           "title": "고영욱 \"이민정 고1 때 압구정서...\" 이병헌도 저격 - 머니투데이",
@@ -1257,14 +1257,20 @@
           "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/09/05/20260905500017",
           "source": "서울신문",
           "date": "2026-09-05"
+        },
+        {
+          "title": "\"흑심 품고 이민정 캐스팅\" 고백했던 고영욱…이번엔 이병헌까지 건드렸다",
+          "url": "https://m.news.nate.com/view/20260905n05195?issue_sq=3018",
+          "source": "네이트",
+          "date": "2026-09-05"
         }
       ]
     },
     "현행범": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T08:37:00+09:00",
-      "lastSeen": "2026-09-06T08:37:00+09:00",
+      "lastSeen": "2026-09-06T09:22:00+09:00",
       "news": [
         {
           "title": "'8천억 위조수표' 입금하려다 은행원 신고에 덜미…현행범 체포",
@@ -1287,10 +1293,10 @@
       ]
     },
     "샤워": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T08:37:00+09:00",
-      "lastSeen": "2026-09-06T08:37:00+09:00",
+      "lastSeen": "2026-09-06T09:22:00+09:00",
       "news": [
         {
           "title": "20대 여성, 샤워하다가 시력 잃어… ‘흔한 실수’ 했다는데, 무슨 사연?",
@@ -1313,10 +1319,10 @@
       ]
     },
     "문근영": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T08:37:00+09:00",
-      "lastSeen": "2026-09-06T08:37:00+09:00",
+      "lastSeen": "2026-09-06T09:22:00+09:00",
       "news": [
         {
           "title": "'정평과 결혼' 문근영, 살 빠졌네…홀쭉해진 볼에 깨끗한 피부 \"오운완\"",
@@ -1334,6 +1340,136 @@
           "title": "‘정평♥’ 문근영, 결혼 후 더 예뻐졌네…초근접에도 굴욕無 [DA★]",
           "url": "https://sports.donga.com/ent/article/all/20260902/134588194/1",
           "source": "스포츠동아",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "롯데 자이언츠": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-06T09:22:00+09:00",
+      "lastSeen": "2026-09-06T09:22:00+09:00",
+      "news": [
+        {
+          "title": "'한화 또 이겼다, 공동 8위 점프' 김경문, 왜 4이닝 3실점 선발투수 칭찬했을까…\"흔들렸지만 자기 역할 해줬다, 선수들 모두 수고했다\"",
+          "url": "https://v.daum.net/v/20260905230251826",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "한화-롯데, 오늘은 호수비 열전?",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8655688",
+          "source": "KBS 뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[포토] 심우준 '코치님 엄지척이 반가워' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/05/2026090519131415353",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "인터 마이애미 대 애틀랜타 유나이티드": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T09:22:00+09:00",
+      "lastSeen": "2026-09-06T09:22:00+09:00",
+      "news": [
+        {
+          "title": "인터 마이애미 대 애틀랜타 유나이티드 선발 라인업: 메시와 수아레스",
+          "url": "https://www.vietnam.vn/ko/doi-hinh-ra-san-inter-miami-vs-atlanta-united-messi-sat-canh-suarez",
+          "source": "Vietnam.vn",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "MLS 인터 마이애미 대 애틀랜타 유나이티드 경기 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-inter-miami-vs-atlanta-united-tai-mls-1761919.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "필라델피아 유니온 vs CF 몬트리올 예측: 상대 전적 우위",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-philadelphia-union-vs-cf-montreal-diem-tua-tu-thanh-tich-doi-dau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "대통령": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-06T09:22:00+09:00",
+      "lastSeen": "2026-09-06T09:22:00+09:00",
+      "news": [
+        {
+          "title": "이 대통령, 6일 프랑스 국빈 방문 출국…마크롱과 ‘뤼미에르 서밋’ 공동 주재",
+          "url": "https://www.khan.co.kr/article/202609041102001",
+          "source": "경향신문",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "이재명 대통령, 프랑스 국빈방문…‘전략적 동반자’ 실질 성과 만든다",
+          "url": "https://v.daum.net/v/20260906085635801",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "이 대통령, 3박5일 프랑스 국빈 방문…AI 협력 확대",
+          "url": "https://www.yna.co.kr/view/MYH20260905001700038",
+          "source": "연합뉴스",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "조명우": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T09:22:00+09:00",
+      "lastSeen": "2026-09-06T09:22:00+09:00",
+      "news": [
+        {
+          "title": "‘세계1위’ 조명우, 트란탄럭 꺾고 8강 선착, 호프만과 격돌[리르3쿠션월드컵]",
+          "url": "https://mkbn.mk.co.kr/news/sports/12145149",
+          "source": "mkbn.mk.co.kr",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "생생 당구 현장|한국의 자존심 조명우, 쩐타인룩 꺾��� 8강행 성공 (리르 3쿠션 월드컵) [포커스]",
+          "url": "https://m.news.zum.com/photo/58124129/107582855?cm=news_photolist&r=2&thumb=1",
+          "source": "ZUM 뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "SOOP, ‘2026 리르 3쿠션 월드컵’ 본선 생중계…한국 선수 7명 출격",
+          "url": "https://www.dailian.co.kr/news/view/1686699/SOOP-%E2%80%982026-%EB%A6%AC%EB%A5%B4-3%EC%BF%A0%EC%85%98-%EC%9B%94%EB%93%9C-2026",
+          "source": "데일리안",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "현대": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-06T09:22:00+09:00",
+      "lastSeen": "2026-09-06T09:22:00+09:00",
+      "news": [
+        {
+          "title": "쇳물에서 자동차까지 미국에서…“단순한 공장 투자 아냐”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8655680",
+          "source": "KBS 뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'철강부터 車까지' 정의선 빅픽처…美 관세 피하고 공급망 잡는다 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/06/2026090513210250292",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "관세 피해 美에서 쇳물 뽑는다‥\"반도체도 지어라\" 압박",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6849833_37004.html",
+          "source": "MBC 뉴스",
           "date": "2026-09-05"
         }
       ]
