@@ -1146,10 +1146,10 @@
       ]
     },
     "넷플릭스": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-07T07:12:00+09:00",
-      "lastSeen": "2026-09-07T07:12:00+09:00",
+      "lastSeen": "2026-09-07T07:38:00+09:00",
       "news": [
         {
           "title": "“넷플릭스 아성 넘본다”… 해외 시장 뚫는 중국 OTT",
@@ -1172,10 +1172,10 @@
       ]
     },
     "기상": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-07T07:12:00+09:00",
-      "lastSeen": "2026-09-07T07:12:00+09:00",
+      "lastSeen": "2026-09-07T07:38:00+09:00",
       "news": [
         {
           "title": "[포토뉴스]7일 백로…가을 부르는 억새의 손짓",
@@ -1193,6 +1193,18 @@
           "title": "[국제포토] 막바지 여름 & 힘찬 음악분수대의 위용",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3686400",
           "source": "국제뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "제주, 중산간·산지 중심 가끔 비…낮 최고 28∼29도",
+          "url": "https://www.yna.co.kr/view/AKR20260907005900056",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[날씨] 맑고 일교차 큰 '백로'...영남 해안·제주도 동부 강풍",
+          "url": "https://www.ytn.co.kr/_ln/0108_202609070646575088",
+          "source": "YTN",
           "date": "2026-09-06"
         }
       ]
@@ -1271,6 +1283,214 @@
           "title": "‘실리콘 포토닉스’ 업은 AI 인프라 강자 [미장 보석주]",
           "url": "https://www.mk.co.kr/news/economy/12144419",
           "source": "매일경제",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "빌라": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T07:38:00+09:00",
+      "lastSeen": "2026-09-07T07:38:00+09:00",
+      "news": [
+        {
+          "title": "[단독]\"이사비 7000만원도 거절당했다\"... 집주인이 내민 '백지수표'",
+          "url": "https://v.daum.net/v/20260906145111175",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[단독] 30년 거래없던 빌라 샀다가 취득세 8배 ‘날벼락’…사각지대 개선할까",
+          "url": "https://www.mk.co.kr/news/realestate/12145608",
+          "source": "매일경제",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "“세입자 90% 필요하다는데”…세제개편에 흔들리는 등록임대시장",
+          "url": "https://www.dt.co.kr/article/12082227",
+          "source": "www.dt.co.kr",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "유격수": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T07:38:00+09:00",
+      "lastSeen": "2026-09-07T07:38:00+09:00",
+      "news": [
+        {
+          "title": "애틀랜타 김하성, 2경기 연속 무안타…타율 0.113(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260906015051007",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "김하성, 2경기 연속 침묵…타격 부진 이정후 결장",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260907052610pzH",
+          "source": "연합뉴스TV",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "최근 감 좋은데…ATL 김하성 3타수 무안타 2K 직후 선발 제외, 대체 왜?",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/07/GA4DQMBVMNQTSMDCMUZGENLCMI/",
+          "source": "조선일보",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "구자욱": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T07:38:00+09:00",
+      "lastSeen": "2026-09-07T07:38:00+09:00",
+      "news": [
+        {
+          "title": "LG-삼성, 승부를 가른 결정적 장면",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8655919",
+          "source": "KBS 뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"돌아온 후라도 위해, 한 점 한 점 소중하게\" 구자욱의 화끈한 '3안타' 환영식",
+          "url": "https://www.nocutnews.co.kr/news/6573791",
+          "source": "노컷뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "기습 번트에 3명이 주저앉다…왜 1루가 텅 비었을까, 송구가 허공으로, 임찬규 100승도 날아갔다",
+          "url": "https://biz.chosun.com/sports/baseball/2026/09/07/GM2TCYTDGUYTAMZUHA2GGZDEGA/",
+          "source": "Chosunbiz",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "주식": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T07:38:00+09:00",
+      "lastSeen": "2026-09-07T07:38:00+09:00",
+      "news": [
+        {
+          "title": "\"15억 미국 주식 올인합니다\"…20억 집 가진 부부 결국",
+          "url": "https://www.hankyung.com/article/2026090670997",
+          "source": "한국경제",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "연봉 2.5억 직장인 부부 \"20억 집 팔아 15억 美주식 투자\"",
+          "url": "https://www.fnnews.com/news/202609070627563758",
+          "source": "파이낸셜뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"20억 집 팔고 미국 주식 올인\"…온라인 커뮤니티 글에 갑론을박",
+          "url": "https://www.newsis.com/view/NISX20260906_0003778104",
+          "source": "뉴시스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "애플": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T07:38:00+09:00",
+      "lastSeen": "2026-09-07T07:38:00+09:00",
+      "news": [
+        {
+          "title": "The world is about to meet Apple’s new CEO. Here are his biggest challenges",
+          "url": "https://www.cnn.com/2026/09/06/tech/apple-ceo-john-ternus-challenges",
+          "source": "CNN",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Tim Cook’s CEO-Like Pay Package Shows He Isn’t Going Anywhere",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1",
+          "source": "Bloomberg",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "With Just 9 Words, Tim Cook’s Farewell Email Taught a Lesson for Every Leader",
+          "url": "https://www.inc.com/jason-aten/with-just-9-words-tim-cooks-farewell-email-taught-a-lesson-for-every-leader/91399215",
+          "source": "Inc.com",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "thứ hạng của everton gặp man utd": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T07:38:00+09:00",
+      "lastSeen": "2026-09-07T07:38:00+09:00",
+      "news": [
+        {
+          "title": "HLV Carrick thừa nhận cảm giác cay đắng, tin dữ cho MU về Rashford",
+          "url": "https://www.24h.com.vn/bong-da/hlv-carrick-thua-nhan-cam-giac-cay-dang-tin-du-cho-mu-ve-rashford-c48a1792588.html",
+          "source": "Tin tức 24h",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Maitland-Niles gọi trận hòa Man Utd là cảm giác chiến thắng",
+          "url": "https://yeuthethao.net.vn/maitland-niles-goi-tran-hoa-man-utd-la-cam-giac-chien-thang-d893892.html",
+          "source": "yeuthethao.net.vn",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "LIVE Everton vs Manchester United: Startopstillinger",
+          "url": "https://www.vietnam.vn/da/truc-tieptruc-tiep-everton-vs-manchester-united-doi-hinh-xuat-phat",
+          "source": "Vietnam.vn",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "연비": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T07:38:00+09:00",
+      "lastSeen": "2026-09-07T07:38:00+09:00",
+      "news": [
+        {
+          "title": "“10만km 타도 고장 없는 국산차”... 가격은 1,199만 원, 연비 28km/L 하이브리드는?",
+          "url": "https://www.autotribune.co.kr/news/articleView.html?idxno=45370",
+          "source": "오토트리뷴",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"이러면 아반떼를 왜 사죠?\"... 가성비로 재평가된 연비 19.4km/L, ‘3천만 원대’ 하이브리드 세단",
+          "url": "https://topictree.co.kr/automobiles/news/2026-sonata-hybrid-s-trim-value-features/",
+          "source": "토픽트리",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[시승기] 토요타 캠리 하이브리드, 실연비 21.5km/L가 보여준 저력",
+          "url": "https://m.ceoscoredaily.com/page/view/2026082813533156706",
+          "source": "CEO스코어데일리",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "여자 농구": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T07:38:00+09:00",
+      "lastSeen": "2026-09-07T07:38:00+09:00",
+      "news": [
+        {
+          "title": "한국 여자��구, 월드컵 2차전서 '유럽 최강' 프랑스에 완패",
+          "url": "https://www.yna.co.kr/view/AKR20260906011900007",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "돌파 시도하는 이소희",
+          "url": "https://www.newsis.com/view/NISI20260906_0002231303",
+          "source": "뉴시스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "FIBA의 찬사, 그리고 극찬. \"박지현의 마스터 클래스, 나이지리아전 명확한 영웅\" +17 코트마진+ 34.0 효율지수",
+          "url": "https://www.chosun.com/sports/basketball/2026/09/06/GFSWIZRYGY3TKZJSGYYTONJVHA/",
+          "source": "조선일보",
           "date": "2026-09-06"
         }
       ]
