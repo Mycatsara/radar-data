@@ -1511,10 +1511,10 @@
       ]
     },
     "us open": {
-      "count": 4,
-      "maxTraffic": 100,
+      "count": 5,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-06T09:47:00+09:00",
-      "lastSeen": "2026-09-06T11:13:00+09:00",
+      "lastSeen": "2026-09-06T11:40:00+09:00",
       "news": [
         {
           "title": "Tennis Legends Williams Sisters Lose in US Open Return After 4-Year Absence",
@@ -1532,6 +1532,18 @@
           "title": "Serena, Venus Williams lose 3rd-set tiebreak in US Open return",
           "url": "https://www.espn.com/tennis/story/_/id/49830732/serena-venus-williams-lose-third-set-tiebreak-us-open-doubles-return",
           "source": "ESPN",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Zheng Qinwen Overcomes Injury, Saves Match Point to Reach US Open Round of 16",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008739762",
+          "source": "news.sbs.co.kr",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "US Open 2026 results: Zheng Qinwen beats Madison Keys from match point down to reach fourth round",
+          "url": "https://www.bbc.com/sport/tennis/articles/c3eq55xznvyo",
+          "source": "BBC",
           "date": "2026-09-05"
         }
       ]
@@ -1659,10 +1671,10 @@
       ]
     },
     "유현주": {
-      "count": 3,
-      "maxTraffic": 200,
+      "count": 4,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-06T10:11:00+09:00",
-      "lastSeen": "2026-09-06T11:13:00+09:00",
+      "lastSeen": "2026-09-06T11:40:00+09:00",
       "news": [
         {
           "title": "기권하지 않고 최선을 다한 유현주, 다음 기회에~ [KLPGA OK저축은행 읏맨오픈]",
@@ -1681,14 +1693,26 @@
           "url": "https://www.dailian.co.kr/news/view/1686578/%EC%9C%A0%EC%84%9C%EC%97%B0-%EC%A0%80%EC%AA%BD-%EC%9A%B0%EC%8A%B9-%ED%96%A5%ED%95%98%EB%8A%94-%EA%B8%B8%EC%9D%B8%EA%B0%80-2026",
           "source": "데일리안",
           "date": "2026-09-05"
+        },
+        {
+          "title": "[골프IN화보] 손예빈, OK저축은행 읏맨 오픈,마지막 홀 극적 파 세이브로 컷 통과",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02338646645577168&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "고지우, 타구를 바라보며",
+          "url": "https://www.dailian.co.kr/news/view/1686596/",
+          "source": "데일리안",
+          "date": "2026-09-05"
         }
       ]
     },
     "inter miami vs atlanta united": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T10:11:00+09:00",
-      "lastSeen": "2026-09-06T11:13:00+09:00",
+      "lastSeen": "2026-09-06T11:40:00+09:00",
       "news": [
         {
           "title": "Why is kickoff for Inter Miami vs Atlanta United delayed today, Sep. 5?",
@@ -1723,10 +1747,10 @@
       ]
     },
     "스타뉴스": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T10:11:00+09:00",
-      "lastSeen": "2026-09-06T11:13:00+09:00",
+      "lastSeen": "2026-09-06T11:40:00+09:00",
       "news": [
         {
           "title": "미야오 엘라 '순간순간이 화보'",
@@ -1761,10 +1785,10 @@
       ]
     },
     "여자 농구": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T11:13:00+09:00",
-      "lastSeen": "2026-09-06T11:13:00+09:00",
+      "lastSeen": "2026-09-06T11:40:00+09:00",
       "news": [
         {
           "title": "‘와 한국이 프랑스를 잡나?’ 1쿼터 31-24로 이긴 한국, 결국 와르르 무너져 26점차 역전패",
@@ -1787,10 +1811,10 @@
       ]
     },
     "내셔널스 대 다저스": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-06T11:13:00+09:00",
-      "lastSeen": "2026-09-06T11:13:00+09:00",
+      "lastSeen": "2026-09-06T11:40:00+09:00",
       "news": [
         {
           "title": "다저스 오타니, 3경기 연속 결장…부상자 명단 올라가나",
@@ -1809,14 +1833,20 @@
           "url": "https://v.daum.net/v/20260905223208504",
           "source": "Daum",
           "date": "2026-09-06"
+        },
+        {
+          "title": "‘이럴 수가’ 오타니 또또또 사라졌다! 충격에 빠진 다저스, 9446억 슈퍼스타 IL 등재 현실로? 로버츠 “고려 중이다” - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/202609060807779683O",
+          "source": "머니투데이",
+          "date": "2026-09-06"
         }
       ]
     },
     "alexandra eala": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T11:13:00+09:00",
-      "lastSeen": "2026-09-06T11:13:00+09:00",
+      "lastSeen": "2026-09-06T11:40:00+09:00",
       "news": [
         {
           "title": "Exploring Alexandra Eala Nationality Controversy: What Happened Between Commentator & the Filipino Tennis Star",
@@ -1835,21 +1865,33 @@
           "url": "https://www.disneyplus.com/en-nz/browse/entity-cad3c2a9-e663-4834-b4a3-385d1eed71cd",
           "source": "Disney Plus",
           "date": "2026-09-06"
+        },
+        {
+          "title": "2026 US Open Day 7: Prediction for Eala vs. Jovic",
+          "url": "https://www.usopen.org/en_US/news/articles/2026-09-04/2026_us_open_day_7_prediction_for_eala_vs_jovic.html",
+          "source": "US Open Tennis",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Roddick feels Alex will advance",
+          "url": "https://tribune.net.ph/2026/09/05/roddick-feels-alex-will-advance",
+          "source": "Daily Tribune",
+          "date": "2026-09-06"
         }
       ]
     },
     "솔트레이크 대 엘에이 fc": {
-      "count": 1,
-      "maxTraffic": 20000,
+      "count": 2,
+      "maxTraffic": 50000,
       "firstSeen": "2026-09-06T11:13:00+09:00",
-      "lastSeen": "2026-09-06T11:13:00+09:00",
+      "lastSeen": "2026-09-06T11:40:00+09:00",
       "news": []
     },
     "이승철": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T11:13:00+09:00",
-      "lastSeen": "2026-09-06T11:13:00+09:00",
+      "lastSeen": "2026-09-06T11:40:00+09:00",
       "news": [
         {
           "title": "한 달 저작권료 외제차 값…이승��이 자녀 유산 상속 0원 선언한 진짜 이유",
@@ -1867,6 +1909,32 @@
           "title": "'문경찬♥' 박소영 \"트럭에 밟힌 느낌\" 극심한 고통..유도분만 현장 공개(주부됐쏘영)",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/05/MNSWMYJWMFSGGNDFMRRWGMRSGY/",
           "source": "조선일보",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "최은경": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T11:40:00+09:00",
+      "lastSeen": "2026-09-06T11:40:00+09:00",
+      "news": [
+        {
+          "title": "최은경 “2년 쉬었더니 겁나고 떨려”…53세에 새 회사 ‘입사’",
+          "url": "https://sports.donga.com/ent/article/all/20260904/134610121/1",
+          "source": "스포츠동아",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "최은경, 53세에도 늘씬한 몸매…미니스커트 소화한 관리 비결",
+          "url": "https://www.newsis.com/view/NISX20260906_0003777853",
+          "source": "뉴시스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "최은경, 미니스커트 가을룩 게시···말도 안 되는 비율 뭐야",
+          "url": "https://v.daum.net/v/20260906055607726",
+          "source": "Daum",
           "date": "2026-09-06"
         }
       ]
