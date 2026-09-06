@@ -2,10 +2,10 @@
   "date": "2026-09-07",
   "keywords": {
     "고시원": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T00:12:00+09:00",
-      "lastSeen": "2026-09-07T00:39:00+09:00",
+      "lastSeen": "2026-09-07T01:13:00+09:00",
       "news": [
         {
           "title": "10시도 안 됐는데 술집 '텅텅'…고시원에는 '빈방'이 없다",
@@ -28,10 +28,10 @@
       ]
     },
     "유튜버": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-07T00:12:00+09:00",
-      "lastSeen": "2026-09-07T00:39:00+09:00",
+      "lastSeen": "2026-09-07T01:13:00+09:00",
       "news": [
         {
           "title": "“택시에서 깜빡 졸아, 눈 떠보니 갈대밭”…제주 유튜버가 전해 들은 ‘섬뜩한 공포’",
@@ -286,10 +286,10 @@
       ]
     },
     "아스널 대 첼시": {
-      "count": 1,
-      "maxTraffic": 5000,
+      "count": 2,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-07T00:39:00+09:00",
-      "lastSeen": "2026-09-07T00:39:00+09:00",
+      "lastSeen": "2026-09-07T01:13:00+09:00",
       "news": [
         {
           "title": "아스널 세트피스 얼마나 무섭길래…원장 맞대결 앞둔 첼시, '럭비 충돌 패드'까지 꺼내 맞춤 훈련",
@@ -312,10 +312,10 @@
       ]
     },
     "대둔산": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-07T00:39:00+09:00",
-      "lastSeen": "2026-09-07T00:39:00+09:00",
+      "lastSeen": "2026-09-07T01:13:00+09:00",
       "news": [
         {
           "title": "대둔산 전망대서 사진 찍다 ‘악’…60대 등산객 발 헛디뎌 추락",
@@ -338,10 +338,10 @@
       ]
     },
     "차량 화재": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T00:39:00+09:00",
-      "lastSeen": "2026-09-07T00:39:00+09:00",
+      "lastSeen": "2026-09-07T01:13:00+09:00",
       "news": [
         {
           "title": "대구포항고속도로 윙바디 차량 화재 1시간여만에 진화(종합)",
@@ -364,10 +364,10 @@
       ]
     },
     "목동": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T00:39:00+09:00",
-      "lastSeen": "2026-09-07T00:39:00+09:00",
+      "lastSeen": "2026-09-07T01:13:00+09:00",
       "news": [
         {
           "title": "\"26억3000만원 신고가 터졌다\"…요즘 심상치 않은 목동 [이슬기의 새집다오]",
@@ -385,6 +385,110 @@
           "title": "양천구 정비사업 수주전 달아오른다…건설사들, 글로벌 설계사와 '맞손'",
           "url": "https://news.nate.com/view/20260906n13651",
           "source": "네이트",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "arsenal vs chelsea": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T01:13:00+09:00",
+      "lastSeen": "2026-09-07T01:13:00+09:00",
+      "news": [
+        {
+          "title": "Arsenal vs Chelsea: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/ck1wx0010el5t",
+          "source": "BBC",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Team News: Xabi Alonso makes huge central defensive decision for Arsenal clash",
+          "url": "https://www.talkchelsea.net/news-now/xabi-alonso-defensive-decision-arsenal-clash/",
+          "source": "Talk Chelsea",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Coral Arsenal v Chelsea Offer | 50/1 for Chelsea to win",
+          "url": "https://www.live-darts.com/betting-offers/coral-arsenal-vs-chelsea-welcome-bonus-offer-2026/",
+          "source": "Live Darts",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "꽃게": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T01:13:00+09:00",
+      "lastSeen": "2026-09-07T01:13:00+09:00",
+      "news": [
+        {
+          "title": "노량진서 암꽃게 1kg 사고 1만원 냈는데…'이게 맞아' 깜짝 [프라이스&]",
+          "url": "https://www.hankyung.com/article/202609066796i",
+          "source": "한국경제",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "고수온 기세 한풀 꺾여도 어패류 폐사 피해 지속",
+          "url": "https://v.daum.net/v/20260906130219764",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "경남 남해안 고수온 지속…양식어패류 누적 재산 피해 176억원",
+          "url": "https://stock.mk.co.kr/news/view/1154194",
+          "source": "매일경제 마켓",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "거점 국립 대학교": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T01:13:00+09:00",
+      "lastSeen": "2026-09-07T01:13:00+09:00",
+      "news": [
+        {
+          "title": "[현장의 시각]부산대 양산캠퍼스 유휴부지에 ‘훈풍’이 분다",
+          "url": "https://v.daum.net/v/20260907005245465",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "부산대, 대표 국립대 선정…최대 AI 대학 출범",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8651993",
+          "source": "KBS 뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[김준환의 교육&시선] 5극 3특의 하위 수단으로 전락한 서울대 10개 만들기",
+          "url": "https://www.ajunews.com/view/20260904154927588",
+          "source": "아주경제",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "валенсия – барселона": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T01:13:00+09:00",
+      "lastSeen": "2026-09-07T01:13:00+09:00",
+      "news": [
+        {
+          "title": "«Валенсия» — «Барселона»: где смотреть прямую трансляцию матча Ла Лиги 6 сентября",
+          "url": "https://matchtv.ru/football/matchtvnews_NI2362329_Valensija__Barselona_gde_smotret_pramuju_translaciju_matcha_La_Ligi_6_sentabra",
+          "source": "Матч ТВ",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "«Валенсия» — «Барселона»: онлайн-трансляция матча 4-го тура Ла Лиги начнётся в 17:15",
+          "url": "https://www.championat.ru/football/news-6609860-valensiya-barselona-onlajn-translyaciya-matcha-4-go-tura-la-ligi-sezona-2026-2027-nachnetsya-v-17-15-msk-6-sentyabrya-2026.html",
+          "source": "https://www.championat.ru/",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "«Валенсия» — «Барселона»: Когда начало, где смотреть онлайн матча Ла Лиги 6 сентября",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/spbnews_NI2362328_Valensija__Barselona_Kogda_nachalo_gde_smotret_onlajn_matcha_La_Ligi_6_sentabra",
+          "source": "Sportbox",
           "date": "2026-09-06"
         }
       ]
