@@ -2268,10 +2268,10 @@
       ]
     },
     "여주시": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T14:39:00+09:00",
-      "lastSeen": "2026-09-06T15:15:00+09:00",
+      "lastSeen": "2026-09-06T15:43:00+09:00",
       "news": [
         {
           "title": "“여주시민들 뿔났다”...물·전력 내주고 희생만 강요받아",
@@ -2294,10 +2294,10 @@
       ]
     },
     "김밥": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-06T14:39:00+09:00",
-      "lastSeen": "2026-09-06T15:15:00+09:00",
+      "lastSeen": "2026-09-06T15:43:00+09:00",
       "news": [
         {
           "title": "\"기차역서 김밥 한 줄 사 먹었는데…\" 화들짝 놀란 이유가",
@@ -2346,10 +2346,10 @@
       ]
     },
     "교산": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-06T15:15:00+09:00",
-      "lastSeen": "2026-09-06T15:15:00+09:00",
+      "lastSeen": "2026-09-06T15:43:00+09:00",
       "news": [
         {
           "title": "\"GTX 얘기만 나왔는데…\" 국평 벌써 16억 뚫은 '이 동네' [철길옆집]",
@@ -2372,10 +2372,10 @@
       ]
     },
     "린": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-06T15:15:00+09:00",
-      "lastSeen": "2026-09-06T15:15:00+09:00",
+      "lastSeen": "2026-09-06T15:43:00+09:00",
       "news": [
         {
           "title": "'이수와 이혼' 린, 파경 1년됐는데 아직도 화장실 생활..비상금 위해 금 판다(미우새)",
@@ -2394,14 +2394,20 @@
           "url": "https://biz.chosun.com/entertainment/tv/2026/09/04/GBTDGNLFGE3TGMRVMRTGIOBYGY/",
           "source": "Chosunbiz",
           "date": "2026-09-06"
+        },
+        {
+          "title": "린, 화장실 바닥 앉아 허남준 덕질..\"조금 무섭다\" '미우새' 스튜디오 발칵",
+          "url": "https://www.starnewskorea.com/star/2026/09/06/2026090608021419067",
+          "source": "스타뉴스",
+          "date": "2026-09-06"
         }
       ]
     },
     "전경철": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T15:15:00+09:00",
-      "lastSeen": "2026-09-06T15:15:00+09:00",
+      "lastSeen": "2026-09-06T15:43:00+09:00",
       "news": [
         {
           "title": "'유퀴즈' 울렸던 간암 말기 '피터팬 아빠' 전경철 작가, 5일 별세…추모 물결",
@@ -2419,6 +2425,12 @@
           "title": "'피터팬 아버지' 이야기가 그저 드라마로만 남지 않도록 [취재파일]",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737767",
           "source": "SBS 뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "온 국민 울린 ‘피터팬 아버지’ 전경철씨 별세 [고인을 기리며]",
+          "url": "https://m.segye.com/view/20260906506255",
+          "source": "세계일보",
           "date": "2026-09-06"
         }
       ]
@@ -2450,10 +2462,10 @@
       ]
     },
     "엘에이 fc": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T15:15:00+09:00",
-      "lastSeen": "2026-09-06T15:15:00+09:00",
+      "lastSeen": "2026-09-06T15:43:00+09:00",
       "news": [
         {
           "title": "DeAndre Yedlin makes sliding clearance in 87th to preserve Real Salt Lake's 2-2 draw with LAFC",
@@ -2497,6 +2509,110 @@
           "title": "‘돌싱3’ 한정민·유다연, 오늘 지각 결혼식…첫돌 맞은 딸과 ‘겹경사’",
           "url": "https://www.donga.com/news/Culture/article/all/20260905/134611260/1",
           "source": "동아일보",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "의대생": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T15:43:00+09:00",
+      "lastSeen": "2026-09-06T15:43:00+09:00",
+      "news": [
+        {
+          "title": "'수도권 입성' 노렸나…작년 지방 의대생 10명 중 8명 학교 떠났다",
+          "url": "https://v.daum.net/v/20260906080149250",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "지난해 의대 중도탈락 '10명 중 8명' 지방의대…부·울·경이 최다 - 머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/09/06/2026090609464724366",
+          "source": "머니투데이",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "수도권으로 재도전하나…의대 중도 탈락자 80%는 ‘지방권’",
+          "url": "https://www.donga.com/news/Society/article/all/20260906/134612502/1",
+          "source": "동아일보",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "이유비": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T15:43:00+09:00",
+      "lastSeen": "2026-09-06T15:43:00+09:00",
+      "news": [
+        {
+          "title": "'기이안 연애' 이유비, AI 남친 비주얼에 \"잘생겨\" 설렘",
+          "url": "https://v.daum.net/v/VUPLQNfz1M",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "“날 선택하라고” 기안84, 하차 위기에 처하자 나희에게 매달리며 선택 강요♨",
+          "url": "https://programs.sbs.co.kr/enter/myaipartner/clip/90118/OC481634079?div=live_end",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "이유비 \"솔로 3년 차, 연애 세포 무덤에 묻혔다\"",
+          "url": "https://www.newsis.com/view/NISX20260904_0003776140",
+          "source": "뉴시스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "스낳대": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T15:43:00+09:00",
+      "lastSeen": "2026-09-06T15:43:00+09:00",
+      "news": [
+        {
+          "title": "스틸시리즈, '자낳대26' 공식 스폰서 참여 \"게임·e스포츠 팬들과 접점 확대\"",
+          "url": "https://news.nate.com/view/20260905n08945",
+          "source": "네이트",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[스낳대] 날카로운 타이밍의 찌르기 연타, '영써티즈' 3:0으로 결승 진출",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320481",
+          "source": "인벤",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "스틸시리즈, ‘자낳대26: 스타크래프트 with 치지직’ 공식 스폰서 참여",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202609032303204263204ead0791_12",
+          "source": "로이슈",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "야구 경기장": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T15:43:00+09:00",
+      "lastSeen": "2026-09-06T15:43:00+09:00",
+      "news": [
+        {
+          "title": "“요즘 누가 야구장에서 치맥 먹어요”…인기 1위는 ‘이 메뉴’",
+          "url": "https://www.munhwa.com/article/11614799",
+          "source": "문화일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"야구장 포장·배달 1위는 물회·육회\"…대표 메뉴 치킨은 3위로",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260906095451N8w",
+          "source": "연합뉴스TV",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"야구장 '치맥 국룰' 뒤집어졌다\" 기름진 음식 대신 깔끔하게 즐긴다는 新먹거리",
+          "url": "https://view.asiae.co.kr/article/2026090611505718839",
+          "source": "아시아경제",
           "date": "2026-09-06"
         }
       ]
