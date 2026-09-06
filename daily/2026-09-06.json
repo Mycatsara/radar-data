@@ -1351,10 +1351,10 @@
       ]
     },
     "롯데 자이언츠": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-06T09:22:00+09:00",
-      "lastSeen": "2026-09-06T10:11:00+09:00",
+      "lastSeen": "2026-09-06T10:40:00+09:00",
       "news": [
         {
           "title": "'한화 또 이겼다, 공동 8위 점프' 김경문, 왜 4이닝 3실점 선발투수 칭찬했을까…\"흔들렸지만 자기 역할 해줬다, 선수들 모두 수고했다\"",
@@ -1373,14 +1373,20 @@
           "url": "https://www.mt.co.kr/sports/2026/09/05/2026090519131415353",
           "source": "머니투데이",
           "date": "2026-09-05"
+        },
+        {
+          "title": "'안타-홈런-안타' 심우준 1번에서 터질 줄이야! 3안타 4타점 대폭발…한화 리드오프 걱정 지워도 되나 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/202609051955771773O",
+          "source": "머니투데이",
+          "date": "2026-09-05"
         }
       ]
     },
     "인터 마이애미 대 애틀랜타 유나이티드": {
-      "count": 3,
-      "maxTraffic": 500,
+      "count": 4,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-06T09:22:00+09:00",
-      "lastSeen": "2026-09-06T10:11:00+09:00",
+      "lastSeen": "2026-09-06T10:40:00+09:00",
       "news": [
         {
           "title": "인터 마이애미 대 애틀랜타 유나이티드 선발 라인업: 메시와 수아레스",
@@ -1505,10 +1511,10 @@
       ]
     },
     "us open": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T09:47:00+09:00",
-      "lastSeen": "2026-09-06T10:11:00+09:00",
+      "lastSeen": "2026-09-06T10:40:00+09:00",
       "news": [
         {
           "title": "Tennis Legends Williams Sisters Lose in US Open Return After 4-Year Absence",
@@ -1531,10 +1537,10 @@
       ]
     },
     "알렉산드라 에알라": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T09:47:00+09:00",
-      "lastSeen": "2026-09-06T10:11:00+09:00",
+      "lastSeen": "2026-09-06T10:40:00+09:00",
       "news": [
         {
           "title": "'전세계 강타' 필리핀 女 테니스 스타, 그의 뒤엔 라파엘 나달 삼촌 있었다…나달 아카데미 졸업→\"US오픈 디렉터로 곁에 있어\"",
@@ -1553,14 +1559,20 @@
           "url": "https://www.yna.co.kr/view/AKR20260904010600007",
           "source": "연합뉴스",
           "date": "2026-09-05"
+        },
+        {
+          "title": "필리핀에는 이알라가 있는데… 한국에는 왜 없는가",
+          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19396",
+          "source": "테니스피플",
+          "date": "2026-09-05"
         }
       ]
     },
     "오정연": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T09:47:00+09:00",
-      "lastSeen": "2026-09-06T10:11:00+09:00",
+      "lastSeen": "2026-09-06T10:40:00+09:00",
       "news": [
         {
           "title": "오정연, 강원 바다에서 선글라스 잃어버렸다 20분 만에 찾았다 \"韓 양심 클래스\"",
@@ -1583,10 +1595,10 @@
       ]
     },
     "메르카토르 도법": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-06T09:47:00+09:00",
-      "lastSeen": "2026-09-06T10:11:00+09:00",
+      "lastSeen": "2026-09-06T10:40:00+09:00",
       "news": [
         {
           "title": "세계지도 : '유럽 중심 지도가 바뀐다' 새 지도에서 아프리카의 크기가 대폭 커진 이유",
@@ -1609,10 +1621,10 @@
       ]
     },
     "왕 즈이": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-06T09:47:00+09:00",
-      "lastSeen": "2026-09-06T10:11:00+09:00",
+      "lastSeen": "2026-09-06T10:40:00+09:00",
       "news": [
         {
           "title": "안세영, 43분 만에 ‘끝’... 中 마스터스 결승 갔다",
@@ -1637,14 +1649,20 @@
           "url": "https://v.daum.net/v/20260906064547421",
           "source": "Daum",
           "date": "2026-09-05"
+        },
+        {
+          "title": "'안세영 또또또 우승' 진짜 코앞이다...'세계 3위' 야마구치 제압→중국 마스터스 결승서 '日 배드민턴 아이돌' 미야자키와 격돌",
+          "url": "https://v.daum.net/v/20260906091549196",
+          "source": "Daum",
+          "date": "2026-09-05"
         }
       ]
     },
     "유현주": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T10:11:00+09:00",
-      "lastSeen": "2026-09-06T10:11:00+09:00",
+      "lastSeen": "2026-09-06T10:40:00+09:00",
       "news": [
         {
           "title": "기권하지 않고 최선을 다한 유현주, 다음 기회에~ [KLPGA OK저축은행 읏맨오픈]",
@@ -1667,10 +1685,10 @@
       ]
     },
     "inter miami vs atlanta united": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T10:11:00+09:00",
-      "lastSeen": "2026-09-06T10:11:00+09:00",
+      "lastSeen": "2026-09-06T10:40:00+09:00",
       "news": [
         {
           "title": "Why is kickoff for Inter Miami vs Atlanta United delayed today, Sep. 5?",
@@ -1689,14 +1707,20 @@
           "url": "https://www.mlssoccer.com/news/breel-embolo-set-for-atlanta-united-debut-vs-inter-miami",
           "source": "MLSsoccer.com",
           "date": "2026-09-05"
+        },
+        {
+          "title": "Starting XI and roster notes: Breel Embolo leads lines in debut as 5-Stripes face Inter Miami",
+          "url": "https://www.atlutd.com/news/starting-xi-roster-notes-breel-embolo-inter-miami-september-5-2026",
+          "source": "Atlanta United FC",
+          "date": "2026-09-05"
         }
       ]
     },
     "스타뉴스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T10:11:00+09:00",
-      "lastSeen": "2026-09-06T10:11:00+09:00",
+      "lastSeen": "2026-09-06T10:40:00+09:00",
       "news": [
         {
           "title": "미야오 엘라 '순간순간이 화보'",
@@ -1714,6 +1738,18 @@
           "title": "[사진]미야오 엘라, 러블리한 매력 - 조선비즈",
           "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/09/06/HBTDGNJYHEYWCOJWHAZWIZJYGQ/",
           "source": "Chosunbiz",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[단독]\"김희철이 만든 '빚쟁이' 캐릭터\"..이상민, 70억 빚 갚아낸 예능 생존학 [인터뷰 비하인드]",
+          "url": "https://v.daum.net/v/20260906100154090",
+          "source": "Daum",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[단독]\"70억 빚 갚고 공허했는데\"…이상민, ♥아내 덕에 결심한 아이돌 제작 [★창간22 FULL인터뷰]",
+          "url": "https://m.news.nate.com/view/20260906n02120?issue_sq=10098&mid=e0608",
+          "source": "Nate News",
           "date": "2026-09-05"
         }
       ]
