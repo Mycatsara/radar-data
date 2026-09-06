@@ -1511,10 +1511,10 @@
       ]
     },
     "us open": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T09:47:00+09:00",
-      "lastSeen": "2026-09-06T10:40:00+09:00",
+      "lastSeen": "2026-09-06T11:13:00+09:00",
       "news": [
         {
           "title": "Tennis Legends Williams Sisters Lose in US Open Return After 4-Year Absence",
@@ -1537,10 +1537,10 @@
       ]
     },
     "알렉산드라 에알라": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T09:47:00+09:00",
-      "lastSeen": "2026-09-06T10:40:00+09:00",
+      "lastSeen": "2026-09-06T11:13:00+09:00",
       "news": [
         {
           "title": "'전세계 강타' 필리핀 女 테니스 스타, 그의 뒤엔 라파엘 나달 삼촌 있었다…나달 아카데미 졸업→\"US오픈 디렉터로 곁에 있어\"",
@@ -1659,10 +1659,10 @@
       ]
     },
     "유현주": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T10:11:00+09:00",
-      "lastSeen": "2026-09-06T10:40:00+09:00",
+      "lastSeen": "2026-09-06T11:13:00+09:00",
       "news": [
         {
           "title": "기권하지 않고 최선을 다한 유현주, 다음 기회에~ [KLPGA OK저축은행 읏맨오픈]",
@@ -1685,10 +1685,10 @@
       ]
     },
     "inter miami vs atlanta united": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-06T10:11:00+09:00",
-      "lastSeen": "2026-09-06T10:40:00+09:00",
+      "lastSeen": "2026-09-06T11:13:00+09:00",
       "news": [
         {
           "title": "Why is kickoff for Inter Miami vs Atlanta United delayed today, Sep. 5?",
@@ -1713,14 +1713,20 @@
           "url": "https://www.atlutd.com/news/starting-xi-roster-notes-breel-embolo-inter-miami-september-5-2026",
           "source": "Atlanta United FC",
           "date": "2026-09-05"
+        },
+        {
+          "title": "MLS Atlanta Inter Miami Soccer",
+          "url": "https://www.couriernews.com/sports/mls-atlanta-inter-miami-soccer/image_c2722b69-8aa2-564b-821f-9c775070dd7b.html",
+          "source": "couriernews.com",
+          "date": "2026-09-05"
         }
       ]
     },
     "스타뉴스": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T10:11:00+09:00",
-      "lastSeen": "2026-09-06T10:40:00+09:00",
+      "lastSeen": "2026-09-06T11:13:00+09:00",
       "news": [
         {
           "title": "미야오 엘라 '순간순간이 화보'",
@@ -1751,6 +1757,117 @@
           "url": "https://m.news.nate.com/view/20260906n02120?issue_sq=10098&mid=e0608",
           "source": "Nate News",
           "date": "2026-09-05"
+        }
+      ]
+    },
+    "여자 농구": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T11:13:00+09:00",
+      "lastSeen": "2026-09-06T11:13:00+09:00",
+      "news": [
+        {
+          "title": "‘와 한국이 프랑스를 잡나?’ 1쿼터 31-24로 이긴 한국, 결국 와르르 무너져 26점차 역전패",
+          "url": "https://v.daum.net/v/20260906053110492",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "한국 여자농구, 프랑스에 26점 차 완패 ‘월드컵 1승 1패’",
+          "url": "https://www.donga.com/news/Sports/article/all/20260906/134611742/1",
+          "source": "동아일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "돌파 시도하는 이소희",
+          "url": "https://www.newsis.com/view/NISI20260906_0002231303",
+          "source": "뉴시스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "내셔널스 대 다저스": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-06T11:13:00+09:00",
+      "lastSeen": "2026-09-06T11:13:00+09:00",
+      "news": [
+        {
+          "title": "다저스 오타니, 3경기 연속 결장…부상자 명단 올라가나",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8655788",
+          "source": "KBS 뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "‘이럴 수가’ 오타니 또또또 사라졌다! 충격에 빠진 다저스, 9446억 슈퍼스타 IL 등재 현실로? 로버츠 “고려 중이다” - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/09/06/GI4GCYRXGNSDEYZVMMYWMYRTHA/",
+          "source": "Chosunbiz",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"10배 좋아졌다\" 허풍 아니었다! 팔꿈치 수술 딛고 돌아온 다저스 에이스, 6이닝 무실점 호투→5G ERA 0.93 완벽 부활",
+          "url": "https://v.daum.net/v/20260905223208504",
+          "source": "Daum",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "alexandra eala": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T11:13:00+09:00",
+      "lastSeen": "2026-09-06T11:13:00+09:00",
+      "news": [
+        {
+          "title": "Exploring Alexandra Eala Nationality Controversy: What Happened Between Commentator & the Filipino Tennis Star",
+          "url": "https://www.yardbarker.com/tennis/articles/exploring_alexandra_eala_nationality_controversy_what_happened_between_commentator_the_filipino_tennis_star/s1_17615_44264235",
+          "source": "Yardbarker",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "U.S. Open 2026 Midterm Grades: Favorites Thrive, Americans Move on and Influencers Take Over",
+          "url": "https://www.si.com/tennis/us-open-2026-midterm-grades-favorites-thrive-americans-move-on-influencers-take-over",
+          "source": "Sports Illustrated",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Watch 2026 Primetime at the US Open presented by IBM (Third Round)",
+          "url": "https://www.disneyplus.com/en-nz/browse/entity-cad3c2a9-e663-4834-b4a3-385d1eed71cd",
+          "source": "Disney Plus",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "솔트레이크 대 엘에이 fc": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-09-06T11:13:00+09:00",
+      "lastSeen": "2026-09-06T11:13:00+09:00",
+      "news": []
+    },
+    "이승철": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T11:13:00+09:00",
+      "lastSeen": "2026-09-06T11:13:00+09:00",
+      "news": [
+        {
+          "title": "한 달 저작권료 외제차 값…이승��이 자녀 유산 상속 0원 선언한 진짜 이유",
+          "url": "https://www.segye.com/newsView/20260727511104",
+          "source": "세계일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "‘신랑수업2’ 이승철 “아내 위해 10시간 장어 고아 매일 먹였다”",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260905/134610162/1",
+          "source": "동아일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'문경찬♥' 박소영 \"트럭에 밟힌 느낌\" 극심한 고통..유도분만 현장 공개(주부됐쏘영)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/05/MNSWMYJWMFSGGNDFMRRWGMRSGY/",
+          "source": "조선일보",
+          "date": "2026-09-06"
         }
       ]
     }
