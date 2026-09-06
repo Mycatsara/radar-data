@@ -286,10 +286,10 @@
       ]
     },
     "아스널 대 첼시": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-07T00:39:00+09:00",
-      "lastSeen": "2026-09-07T01:40:00+09:00",
+      "lastSeen": "2026-09-07T02:11:00+09:00",
       "news": [
         {
           "title": "아스널 세트피스 얼마나 무섭길래…원장 맞대결 앞둔 첼시, '럭비 충돌 패드'까지 꺼내 맞춤 훈련",
@@ -312,10 +312,10 @@
       ]
     },
     "대둔산": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T00:39:00+09:00",
-      "lastSeen": "2026-09-07T01:40:00+09:00",
+      "lastSeen": "2026-09-07T02:11:00+09:00",
       "news": [
         {
           "title": "대둔산 전망대서 사진 찍다 ‘악’…60대 등산객 발 헛디뎌 추락",
@@ -408,10 +408,10 @@
       ]
     },
     "arsenal vs chelsea": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T01:13:00+09:00",
-      "lastSeen": "2026-09-07T01:40:00+09:00",
+      "lastSeen": "2026-09-07T02:11:00+09:00",
       "news": [
         {
           "title": "Arsenal vs Chelsea: Premier League preview, team news, stats & head-to-head",
@@ -446,10 +446,10 @@
       ]
     },
     "꽃게": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T01:13:00+09:00",
-      "lastSeen": "2026-09-07T01:40:00+09:00",
+      "lastSeen": "2026-09-07T02:11:00+09:00",
       "news": [
         {
           "title": "노량진서 암꽃게 1kg 사고 1만원 냈는데…'이게 맞아' 깜짝 [프라이스&]",
@@ -468,14 +468,26 @@
           "url": "https://stock.mk.co.kr/news/view/1154194",
           "source": "매일경제 마켓",
           "date": "2026-09-06"
+        },
+        {
+          "title": "\"버릴 거면 한국에 줘…\" 이탈리아 덮친 '꽃게' 반전 근황",
+          "url": "https://v.daum.net/v/20260906154809602",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "‘누가 골칫거리래?’…이탈리아, 속 썩이던 ‘블루크랩’ 수출 나선다",
+          "url": "https://www.segye.com/newsView/20260904508312",
+          "source": "세계일보",
+          "date": "2026-09-06"
         }
       ]
     },
     "거점 국립 대학교": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-07T01:13:00+09:00",
-      "lastSeen": "2026-09-07T01:40:00+09:00",
+      "lastSeen": "2026-09-07T02:11:00+09:00",
       "news": [
         {
           "title": "[현장의 시각]부산대 양산캠퍼스 유휴부지에 ‘훈풍’이 분다",
@@ -498,10 +510,10 @@
       ]
     },
     "валенсия – барселона": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T01:13:00+09:00",
-      "lastSeen": "2026-09-07T01:40:00+09:00",
+      "lastSeen": "2026-09-07T02:11:00+09:00",
       "news": [
         {
           "title": "«Валенсия» — «Барселона»: где смотреть прямую трансляцию матча Ла Лиги 6 сентября",
@@ -520,14 +532,26 @@
           "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/spbnews_NI2362328_Valensija__Barselona_Kogda_nachalo_gde_smotret_onlajn_matcha_La_Ligi_6_sentabra",
           "source": "Sportbox",
           "date": "2026-09-06"
+        },
+        {
+          "title": "Дубль Ямаля помог «Барселоне» разгромить «Валенсию» в матче чемпионата Испании",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/spbnews_NI2362595_Dubl_Jamala_pomog_Barselone_razgromit_Valensiju_v_matche_chempionata_Ispanii",
+          "source": "Sportbox",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "«Барселона» разгромила «Валенсию» в матче Ла Лиги и единолично возглавила таблицу",
+          "url": "https://www.championat.ru/football/news-6610394-valensiya-barselona-rezultat-matcha-6-sentyabrya-2026-schet-0-5-4-j-tur-la-ligi-2026-2027.html",
+          "source": "https://www.championat.ru/",
+          "date": "2026-09-06"
         }
       ]
     },
     "맨유": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T01:40:00+09:00",
-      "lastSeen": "2026-09-07T01:40:00+09:00",
+      "lastSeen": "2026-09-07T02:11:00+09:00",
       "news": [
         {
           "title": "‘맨유, 드디어 움직인다’ 모두가 기다린 ‘희소식’···캡틴과 재계약 속도 올린다 “3년 연장 조건에 합의 원해”",
@@ -545,6 +569,78 @@
           "title": "[오피셜] 맨체스터 유나이티드 '그 자체'...홀란+셰르키 제쳤다! '캡틴' 브페 EPL 2라운드 이주의 선수 선정, 득표율 69% 달성",
           "url": "https://mydaily.co.kr/page/view/2026090301171639953",
           "source": "마이데일리",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "อาร์เซนอล พบ เชลซี": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T02:11:00+09:00",
+      "lastSeen": "2026-09-07T02:11:00+09:00",
+      "news": [
+        {
+          "title": "ผลการแข่งขันฟุตบอลวันนี้ 6 กันยายน",
+          "url": "https://www.vietnam.vn/th/ket-qua-bong-da-hom-nay-6-9",
+          "source": "Vietnam.vn",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "LIVE ดูบอลสด ถ่ายทอดสด อาร์เซน่อล พบ เชลซี พรีเมียร์ลีก วันนี้ 6 ก.ย.69",
+          "url": "https://www.posttoday.com/lifestyle/748207",
+          "source": "posttoday",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "อาร์เซน่อล เปิดบ้านรับเชลซีที่กลางยวบ สถิติปืนข่มมิดพร้อมยัดเยียดความปราชัยให้ผู้มาเยือน",
+          "url": "https://today.line.me/th/v3/article/1Dlz5P8",
+          "source": "LINE TODAY",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "모건 로저스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T02:11:00+09:00",
+      "lastSeen": "2026-09-07T02:11:00+09:00",
+      "news": [
+        {
+          "title": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been",
+          "url": "https://www.theguardian.com/football/blog/2026/sep/04/chelsea-morgan-rogers-arsenal-xabi-alonso-mikel-arteta",
+          "source": "The Guardian",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "How Morgan Rogers has fulfilled Xabi Alonso's expectations at Chelsea | News | Official Site",
+          "url": "https://www.chelseafc.com/en/news/article/how-morgan-rogers-has-fulfilled-xabi-alonsos-expectations-at-chelsea",
+          "source": "Chelsea Football Club",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Theo Walcott and Ian Wright admit Arsenal made a massive mistake missing out on Chelsea's new star",
+          "url": "https://www.goal.com/en/lists/theo-walcott-ian-wright-admit-arsenal-made-massive-mistake-missing-chelsea-new-star-Morgan-Rogers/bltdf65334c4c6d15dc",
+          "source": "Goal.com",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "김승현": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T02:11:00+09:00",
+      "lastSeen": "2026-09-07T02:11:00+09:00",
+      "news": [
+        {
+          "title": "드라마 섭외 안 들어온다더니…김승현, 6년 공백 끝에 작가 데뷔",
+          "url": "https://v.daum.net/v/20260906182101222",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'6년째 캐스팅無' 김승현, 결국 40대 중반에 전직하나..작가 데뷔→러브콜 ��았다",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-06/202609060100041330002673",
+          "source": "스포츠조선",
           "date": "2026-09-06"
         }
       ]
