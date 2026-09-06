@@ -1811,10 +1811,10 @@
       ]
     },
     "내셔널스 대 다저스": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-06T11:13:00+09:00",
-      "lastSeen": "2026-09-06T12:40:00+09:00",
+      "lastSeen": "2026-09-06T13:12:00+09:00",
       "news": [
         {
           "title": "다저스 오타니, 3경기 연속 결장…부상자 명단 올라가나",
@@ -1849,10 +1849,10 @@
       ]
     },
     "alexandra eala": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T11:13:00+09:00",
-      "lastSeen": "2026-09-06T12:40:00+09:00",
+      "lastSeen": "2026-09-06T13:12:00+09:00",
       "news": [
         {
           "title": "Exploring Alexandra Eala Nationality Controversy: What Happened Between Commentator & the Filipino Tennis Star",
@@ -1887,17 +1887,17 @@
       ]
     },
     "솔트레이크 대 엘에이 fc": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100000,
       "firstSeen": "2026-09-06T11:13:00+09:00",
-      "lastSeen": "2026-09-06T12:40:00+09:00",
+      "lastSeen": "2026-09-06T13:12:00+09:00",
       "news": []
     },
     "이승철": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-06T11:13:00+09:00",
-      "lastSeen": "2026-09-06T12:40:00+09:00",
+      "lastSeen": "2026-09-06T13:12:00+09:00",
       "news": [
         {
           "title": "한 달 저작권료 외제차 값…이승��이 자녀 유산 상속 0원 선언한 진짜 이유",
@@ -1916,14 +1916,20 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/05/MNSWMYJWMFSGGNDFMRRWGMRSGY/",
           "source": "조선일보",
           "date": "2026-09-06"
+        },
+        {
+          "title": "'신랑수업2' 이승철 \"아내 위해 10시간 장어 고아 매일 먹였다\"",
+          "url": "https://v.daum.net/v/20260904220643631",
+          "source": "Daum",
+          "date": "2026-09-06"
         }
       ]
     },
     "최은경": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T11:40:00+09:00",
-      "lastSeen": "2026-09-06T12:40:00+09:00",
+      "lastSeen": "2026-09-06T13:12:00+09:00",
       "news": [
         {
           "title": "최은경 “2년 쉬었더니 겁나고 떨려”…53세에 새 회사 ‘입사’",
@@ -1948,14 +1954,20 @@
           "url": "https://v.daum.net/v/20260905034851133",
           "source": "Daum",
           "date": "2026-09-06"
+        },
+        {
+          "title": "“53세 맞아?” 최은경, 파격 미니스커트 자태…군살 제로 몸매 ‘감탄’",
+          "url": "https://www.sportsworldi.com/newsView/20260906505349",
+          "source": "스포츠월드",
+          "date": "2026-09-06"
         }
       ]
     },
     "김성근": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T12:13:00+09:00",
-      "lastSeen": "2026-09-06T12:40:00+09:00",
+      "lastSeen": "2026-09-06T13:12:00+09:00",
       "news": [
         {
           "title": "\"힘들어 하는 게 보여\"...'신인왕 1순위' 주전 포수 슬럼프인가, 재충전 필요했다 [오!쎈 부산]",
@@ -1973,6 +1985,110 @@
           "title": "‘16경기 1승’ 한화의 몰락… 가을야구 경쟁 판도까지 흔든다",
           "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260904010001672",
           "source": "아시아투데이",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "라파엘 나달": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T13:12:00+09:00",
+      "lastSeen": "2026-09-06T13:12:00+09:00",
+      "news": [
+        {
+          "title": "Eala relishing 'full circle moment' with Nadal's uncle",
+          "url": "https://www.tntsports.co.uk/tennis/us-open-women/2026/alexandra-eala-rafael-nadal-uncle-toni_sto23334094/story.shtml",
+          "source": "TNT Sports",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Meet Alexandra Eala's Support Team at the US Open: Coaches and Family Revealed",
+          "url": "https://sports.yahoo.com/articles/meet-alexandra-ealas-support-team-162200215.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "US Open breakout star Alex Eala traveled 7,000 miles to train at Rafael Nadal's academy - helped by tennis icon's uncle",
+          "url": "https://www.thesun.co.uk/sport/40279057/us-open-alex-eala-rafael-nadal-academy/",
+          "source": "The Sun",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "알렉산더 즈베레프": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-06T13:12:00+09:00",
+      "lastSeen": "2026-09-06T13:12:00+09:00",
+      "news": [
+        {
+          "title": "풀세트 접전 승리 후 환호하는 즈베레프",
+          "url": "https://www.newsis.com/view/NISI20260904_0002230666",
+          "source": "뉴시스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "“나에게 필요했던 경기” 즈베레프, 4시간 53분 장기전 끝에 US오픈 1회전 신승",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53597",
+          "source": "테니스코리아",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "“또 5세트?”…즈베레프",
+          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19385",
+          "source": "테니스피플",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "탈세": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T13:12:00+09:00",
+      "lastSeen": "2026-09-06T13:12:00+09:00",
+      "news": [
+        {
+          "title": "“1364억 탈세제보했는데 포상금 1억도 안줘?” 소송전의 결말[세금GO]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01174246645577496&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "탈세 신고해도 포상금 못 받나…예산 27% 줄여 5월에 95% 소진",
+          "url": "https://v.daum.net/v/20260906080154265",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"탈세제보포상금 못 준다\"는 국세청에 제동 건 심판원",
+          "url": "https://m.joseilbo.com/news/view.htm?newsid=575068",
+          "source": "조세일보",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "salt lake vs lafc": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T13:12:00+09:00",
+      "lastSeen": "2026-09-06T13:12:00+09:00",
+      "news": [
+        {
+          "title": "Son Heung-min moves to second in MLS assists as LAFC leads Real Salt Lake - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-sports/2026/09/06/P4DGLLB3OBGIBFDDQ46EM5FF2M/",
+          "source": "Chosunbiz",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'Seven-game goal drought' Son Heung-min to start against Real Salt Lake in 'Hat-trick connection' match",
+          "url": "https://www.starnewskorea.com/en/sports/2026/09/06/2026090609305217944",
+          "source": "스타뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Where to Watch Real Salt Lake vs. Los Angeles FC: TV Channel, Start Time and Live Stream",
+          "url": "https://www.bleachernation.com/how-to-watch/2026/09/04/where-to-watch-real-salt-lake-vs-los-angeles-fc-tv-channel-start-time-and-live-stream-2/",
+          "source": "Bleacher Nation",
           "date": "2026-09-06"
         }
       ]
