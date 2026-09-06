@@ -1351,10 +1351,10 @@
       ]
     },
     "롯데 자이언츠": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-06T09:22:00+09:00",
-      "lastSeen": "2026-09-06T09:47:00+09:00",
+      "lastSeen": "2026-09-06T10:11:00+09:00",
       "news": [
         {
           "title": "'한화 또 이겼다, 공동 8위 점프' 김경문, 왜 4이닝 3실점 선발투수 칭찬했을까…\"흔들렸지만 자기 역할 해줬다, 선수들 모두 수고했다\"",
@@ -1377,10 +1377,10 @@
       ]
     },
     "인터 마이애미 대 애틀랜타 유나이티드": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T09:22:00+09:00",
-      "lastSeen": "2026-09-06T09:47:00+09:00",
+      "lastSeen": "2026-09-06T10:11:00+09:00",
       "news": [
         {
           "title": "인터 마이애미 대 애틀랜타 유나이티드 선발 라인업: 메시와 수아레스",
@@ -1398,6 +1398,18 @@
           "title": "필라델피아 유니온 vs CF 몬트리올 예측: 상대 전적 우위",
           "url": "https://www.vietnam.vn/ko/nhan-dinh-philadelphia-union-vs-cf-montreal-diem-tua-tu-thanh-tich-doi-dau",
           "source": "Vietnam.vn",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'4골에 도움 1개' 원맨쇼‥'39살 나이는 숫자일 뿐'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6848373_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "'축구의 신' 4골 넣고 하루 뒤엔 '구단주'로 번쩍…메시, 세 아들과 스페인 5부 코르네야 유니폼 활짝",
+          "url": "https://sports.news.nate.com/view/20260831n10739",
+          "source": "네이트",
           "date": "2026-09-05"
         }
       ]
@@ -1493,10 +1505,10 @@
       ]
     },
     "us open": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T09:47:00+09:00",
-      "lastSeen": "2026-09-06T09:47:00+09:00",
+      "lastSeen": "2026-09-06T10:11:00+09:00",
       "news": [
         {
           "title": "Tennis Legends Williams Sisters Lose in US Open Return After 4-Year Absence",
@@ -1519,10 +1531,10 @@
       ]
     },
     "알렉산드라 에알라": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T09:47:00+09:00",
-      "lastSeen": "2026-09-06T09:47:00+09:00",
+      "lastSeen": "2026-09-06T10:11:00+09:00",
       "news": [
         {
           "title": "'전세계 강타' 필리핀 女 테니스 스타, 그의 뒤엔 라파엘 나달 삼촌 있었다…나달 아카데미 졸업→\"US오픈 디렉터로 곁에 있어\"",
@@ -1545,10 +1557,10 @@
       ]
     },
     "오정연": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T09:47:00+09:00",
-      "lastSeen": "2026-09-06T09:47:00+09:00",
+      "lastSeen": "2026-09-06T10:11:00+09:00",
       "news": [
         {
           "title": "오정연, 강원 바다에서 선글라스 잃어버렸다 20분 만에 찾았다 \"韓 양심 클래스\"",
@@ -1571,10 +1583,10 @@
       ]
     },
     "메르카토르 도법": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T09:47:00+09:00",
-      "lastSeen": "2026-09-06T09:47:00+09:00",
+      "lastSeen": "2026-09-06T10:11:00+09:00",
       "news": [
         {
           "title": "세계지도 : '유럽 중심 지도가 바뀐다' 새 지도에서 아프리카의 크기가 대폭 커진 이유",
@@ -1597,10 +1609,10 @@
       ]
     },
     "왕 즈이": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-06T09:47:00+09:00",
-      "lastSeen": "2026-09-06T09:47:00+09:00",
+      "lastSeen": "2026-09-06T10:11:00+09:00",
       "news": [
         {
           "title": "안세영, 43분 만에 ‘끝’... 中 마스터스 결승 갔다",
@@ -1618,6 +1630,90 @@
           "title": "아시안게임 앞두고 '무적 모드' 안세영, 2주 연속 우승 보인다",
           "url": "https://www.yna.co.kr/view/AKR20260905026300007",
           "source": "연합뉴스",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "안세영 때문에 지친다…\"세계 챔피언, 아시아 챔피언, 올림픽 챔피언, 설명할 시간이 부족해\"→세계연맹 캐스터 소개 중단 '눈에 띄네'",
+          "url": "https://v.daum.net/v/20260906064547421",
+          "source": "Daum",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "유현주": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T10:11:00+09:00",
+      "lastSeen": "2026-09-06T10:11:00+09:00",
+      "news": [
+        {
+          "title": "기권하지 않고 최선을 다한 유현주, 다음 기회에~ [KLPGA OK저축은행 읏맨오픈]",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021771",
+          "source": "골프한국",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[골프IN화보] 양효리, OK저축은행 읏맨 오픈 2라운드 30계단 도약… 순위 상승",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02355046645577168&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "유서연, 저쪽이 우승으로 향하는 길인가",
+          "url": "https://www.dailian.co.kr/news/view/1686578/%EC%9C%A0%EC%84%9C%EC%97%B0-%EC%A0%80%EC%AA%BD-%EC%9A%B0%EC%8A%B9-%ED%96%A5%ED%95%98%EB%8A%94-%EA%B8%B8%EC%9D%B8%EA%B0%80-2026",
+          "source": "데일리안",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "inter miami vs atlanta united": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T10:11:00+09:00",
+      "lastSeen": "2026-09-06T10:11:00+09:00",
+      "news": [
+        {
+          "title": "Why is kickoff for Inter Miami vs Atlanta United delayed today, Sep. 5?",
+          "url": "https://bolavip.com/en/soccer/why-is-kickoff-for-inter-miami-vs-atlanta-united-delayed-today-sep-5",
+          "source": "Bolavip US",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Thunderstorm delays Inter Miami vs. Atlanta game, Tata Martino to face former club",
+          "url": "https://www.miamiherald.com/sports/mls/inter-miami/article317123965.html",
+          "source": "Miami Herald",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Breel Embolo set for Atlanta United debut vs. Inter Miami",
+          "url": "https://www.mlssoccer.com/news/breel-embolo-set-for-atlanta-united-debut-vs-inter-miami",
+          "source": "MLSsoccer.com",
+          "date": "2026-09-05"
+        }
+      ]
+    },
+    "스타뉴스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T10:11:00+09:00",
+      "lastSeen": "2026-09-06T10:11:00+09:00",
+      "news": [
+        {
+          "title": "미야오 엘라 '순간순간이 화보'",
+          "url": "https://www.mt.co.kr/photo/202609060934281815",
+          "source": "머니투데이",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "미야오 엘라, 가을 입고 공항 런웨이 '인형 같은 고양이 미모'",
+          "url": "https://m.news.nate.com/view/20260906n03928?mid=e01&list=recent&cpcd=",
+          "source": "Nate News",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "[사진]미야오 엘라, 러블리한 매력 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/09/06/HBTDGNJYHEYWCOJWHAZWIZJYGQ/",
+          "source": "Chosunbiz",
           "date": "2026-09-05"
         }
       ]
