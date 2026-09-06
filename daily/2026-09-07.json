@@ -604,10 +604,10 @@
       ]
     },
     "อาร์เซนอล พบ เชลซี": {
-      "count": 7,
+      "count": 8,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T02:11:00+09:00",
-      "lastSeen": "2026-09-07T05:39:00+09:00",
+      "lastSeen": "2026-09-07T06:11:00+09:00",
       "news": [
         {
           "title": "ผลการแข่งขันฟุตบอลวันนี้ 6 กันยายน",
@@ -714,10 +714,10 @@
       ]
     },
     "라민 야말": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T03:14:00+09:00",
-      "lastSeen": "2026-09-07T05:39:00+09:00",
+      "lastSeen": "2026-09-07T06:11:00+09:00",
       "news": [
         {
           "title": "파격 그 자체! '제2의 메시' 19세 나이로 바르셀로나 주장단 합류, 5주장 전격 선임...플릭 감독+선수단 투표로 결정",
@@ -766,10 +766,10 @@
       ]
     },
     "유벤투스 대 밀란": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-07T05:12:00+09:00",
-      "lastSeen": "2026-09-07T05:39:00+09:00",
+      "lastSeen": "2026-09-07T06:11:00+09:00",
       "news": [
         {
           "title": "\"우리 팀? 세계 최고\"…아모림 자신감 폭발! \"8점이나 9점 줄 수 없어, 10점 주겠다\"",
@@ -792,10 +792,10 @@
       ]
     },
     "가능한 사랑": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T05:12:00+09:00",
-      "lastSeen": "2026-09-07T05:39:00+09:00",
+      "lastSeen": "2026-09-07T06:11:00+09:00",
       "news": [
         {
           "title": "거장이 빚어낸 인간과 삶의 품위…이창동 '가능한 사랑'",
@@ -830,10 +830,10 @@
       ]
     },
     "이강철": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T05:39:00+09:00",
-      "lastSeen": "2026-09-07T05:39:00+09:00",
+      "lastSeen": "2026-09-07T06:11:00+09:00",
       "news": [
         {
           "title": "“김도영이 우리팀 4번타자면 200타점” 이강철은 왜 이런 얘기를 했을까…힐리어드의 이것이 살짝 아쉬워서[MD광주]",
@@ -851,6 +851,130 @@
           "title": "[스경x비하인드] “차라리 홈런을 맞지”…김도영에게 준 8회 스트레이트 볼넷, 이강철 감독이 땅을 친 장면",
           "url": "https://sports.khan.co.kr/article/202609051647013",
           "source": "스포츠경향",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[사진]그라운드 바라보는 이강철 감독 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/202609061849770046O",
+          "source": "머니투데이",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "“차라리 홈런을 맞지”…김도영에게 준 8회 스트레이트 볼넷, 이강철 감독이 땅을 친 장면[스경x비하인드]",
+          "url": "https://v.daum.net/v/QSdYR9Hl7L",
+          "source": "Daum",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "오세훈": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T06:11:00+09:00",
+      "lastSeen": "2026-09-07T06:11:00+09:00",
+      "news": [
+        {
+          "title": "오세훈표 '서울의 밤' 첫 제동…서울시의회, 야간경제 12억 삭감",
+          "url": "https://v.daum.net/v/20260906064128373",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "오세훈표 정책, ‘민주당 80석’ 시의회서 줄줄이 제동 걸려",
+          "url": "https://www.hani.co.kr/arti/area/capital/1276479.html",
+          "source": "한겨레",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "50만 청년 AI 이용권 난항…국힘 \"사다리 끊어\" vs 민주 \"준비 부족\"",
+          "url": "https://news.tf.co.kr/read/life/2362363.htm",
+          "source": "더팩트",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "카를로스 알카라스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T06:11:00+09:00",
+      "lastSeen": "2026-09-07T06:11:00+09:00",
+      "news": [
+        {
+          "title": "'한국인 DJ와 열애설' 테니스 황제, 새 여친 생겼나…금발 미녀 모델과 보트 데이트→팔로워 급등 '관심 폭발'",
+          "url": "https://m.news.nate.com/view/20260907n01359",
+          "source": "네이트",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'한국인 DJ와 열애설' 테니스 황제, 새 여친 생겼나…금발 미녀 모델과 보트 데이트→팔로워 급등 '관심 폭발'",
+          "url": "https://www.xportsnews.com/article/2192933",
+          "source": "www.xportsnews.com",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "스물셋에 상금만 890억…최연소 1위 찍고도 파티 즐기는 Z세대 챔피언",
+          "url": "https://www.segye.com/newsView/20260901513537",
+          "source": "세계일보",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "피고인": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T06:11:00+09:00",
+      "lastSeen": "2026-09-07T06:11:00+09:00",
+      "news": [
+        {
+          "title": "李대통령, 법무장관에 김승원 지명…메가프로젝트 보좌관 이원주 임명",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=921571",
+          "source": "남도일보",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "에스파뇰 대 세비야": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T06:11:00+09:00",
+      "lastSeen": "2026-09-07T06:11:00+09:00",
+      "news": [
+        {
+          "title": "에스파뇰 vs 세비야 예측: 상위권 경쟁의 뜨거운 승부",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-espanyol-vs-sevilla-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "라리가 에스파 대 세비야 축구 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-espanyol-vs-sevilla-tai-la-liga-1762136.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "산사태": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T06:11:00+09:00",
+      "lastSeen": "2026-09-07T06:11:00+09:00",
+      "news": [
+        {
+          "title": "대홍수 휩쓴 네팔서 또 산사태·홍수…노동자 2명 사망",
+          "url": "https://v.daum.net/v/20260907014200839",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "계속되는 시신 수습",
+          "url": "https://www.yna.co.kr/view/PYH20260906067800013",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "물 빠지고 모습 드러낸 위어댐 터널",
+          "url": "https://mobile.newsis.com/photo/NISI20260906_0021425786",
+          "source": "뉴시스",
           "date": "2026-09-06"
         }
       ]
