@@ -1288,10 +1288,10 @@
       ]
     },
     "빌라": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-07T07:38:00+09:00",
-      "lastSeen": "2026-09-07T07:38:00+09:00",
+      "lastSeen": "2026-09-07T08:11:00+09:00",
       "news": [
         {
           "title": "[단독]\"이사비 7000만원도 거절당했다\"... 집주인이 내민 '백지수표'",
@@ -1314,10 +1314,10 @@
       ]
     },
     "유격수": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-07T07:38:00+09:00",
-      "lastSeen": "2026-09-07T07:38:00+09:00",
+      "lastSeen": "2026-09-07T08:11:00+09:00",
       "news": [
         {
           "title": "애틀랜타 김하성, 2경기 연속 무안타…타율 0.113(종합)",
@@ -1336,14 +1336,20 @@
           "url": "https://www.chosun.com/sports/world-baseball/2026/09/07/GA4DQMBVMNQTSMDCMUZGENLCMI/",
           "source": "조선일보",
           "date": "2026-09-06"
+        },
+        {
+          "title": "애틀랜타 김하성, 2경기 연속 무안타…타율 0.113",
+          "url": "https://www.yna.co.kr/view/AKR20260906015000007",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
         }
       ]
     },
     "구자욱": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T07:38:00+09:00",
-      "lastSeen": "2026-09-07T07:38:00+09:00",
+      "lastSeen": "2026-09-07T08:11:00+09:00",
       "news": [
         {
           "title": "LG-삼성, 승부를 가른 결정적 장면",
@@ -1491,6 +1497,188 @@
           "title": "FIBA의 찬사, 그리고 극찬. \"박지현의 마스터 클래스, 나이지리아전 명확한 영웅\" +17 코트마진+ 34.0 효율지수",
           "url": "https://www.chosun.com/sports/basketball/2026/09/06/GFSWIZRYGY3TKZJSGYYTONJVHA/",
           "source": "조선일보",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "juventus vs milan": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T08:11:00+09:00",
+      "lastSeen": "2026-09-07T08:11:00+09:00",
+      "news": [
+        {
+          "title": "Ruben Amorim on Milan’s form: “We can win every match”",
+          "url": "https://www.getfootballnewsitaly.com/2026/ruben-amorim-on-milans-form-we-can-win-every-match/",
+          "source": "Get Italian Football News",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Gatti salvages Juve draw with AC Milan in Serie A",
+          "url": "https://www.rfi.fr/en/sports/20260906-gatti-salvages-juve-draw-with-ac-milan-in-serie-a",
+          "source": "RFI",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Press room | Comments after Juventus-Milan",
+          "url": "https://www.juventus.com/en/news/articles/press-room-comments-after-juventus-milan-06-09-26",
+          "source": "Juventus.com",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "추석": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T08:11:00+09:00",
+      "lastSeen": "2026-09-07T08:11:00+09:00",
+      "news": [
+        {
+          "title": "롯데백화점, 추석 맞아 '하몽 카빙·케이터링 출장 서비스' 선봬",
+          "url": "https://www.yna.co.kr/view/AKR20260906015900030",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "롯데온, 앱 전용 행사로 가을·추석 수요 공략…'퍼스트앱더블 데이' 진행",
+          "url": "https://v.daum.net/v/20260907060209296",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "롯데온, 7∼8일 앱 전용 할인 행사 '퍼스트앱더블데이'",
+          "url": "https://stock.mk.co.kr/news/view/1154286",
+          "source": "매일경제 마켓",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "조명우": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T08:11:00+09:00",
+      "lastSeen": "2026-09-07T08:11:00+09:00",
+      "news": [
+        {
+          "title": "“역시 세계1위” 조명우, 야스퍼스에 완승 벨기에 리르3쿠션월드컵 정상…개인통산 6회 우승",
+          "url": "https://mkbn.mk.co.kr/news/sports/12145640",
+          "source": "mkbn.mk.co.kr",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "조명우, 야스퍼스 꺾고 3쿠션 월드컵 통산 6승...전설 이상천 넘었다",
+          "url": "https://www.newspim.com/news/view/20260907000013",
+          "source": "뉴스핌",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "생생 당구 현장|'에버리지 2.631' 딕 야스퍼스, 쩐꾸옛찌엔에 50대37로 승리…준결승 진출 (리르 3쿠션 월드컵) [포커스]",
+          "url": "https://m.news.zum.com/photo/58124129/107585043?cm=news_photolist&r=3&thumb=1",
+          "source": "ZUM 뉴스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "srt": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T08:11:00+09:00",
+      "lastSeen": "2026-09-07T08:11:00+09:00",
+      "news": [
+        {
+          "title": "New Dodge Copperhead SRT Wants To Put the Ford Mustang (GTD) Back in Its Corner – Rendering",
+          "url": "https://www.autoevolution.com/news/new-dodge-copperhead-srt-wants-to-put-the-ford-mustang-gtd-back-in-its-corner-rendering-275070.html",
+          "source": "autoevolution",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Dodge Viper Successor Finally Has a Name and It Isn’t ‘Viper’: What We Know",
+          "url": "https://www.motorbiscuit.com/dodge-viper-successor-finally-has-a-name-and-it-isnt-a-viper-what-we-know/",
+          "source": "MotorBiscuit",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Dodge Copperhead SRT render imagines a brutal new rival for the Mustang GTD",
+          "url": "https://www.clubalfa.it/en/dodge-copperhead-srt-render-imagines-a-brutal-new-rival-for-the-mustang-gtd-44359",
+          "source": "ClubAlfa.it",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "사과": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T08:11:00+09:00",
+      "lastSeen": "2026-09-07T08:11:00+09:00",
+      "news": [
+        {
+          "title": "송미령 농식품부 장관, 추석 전 사과 수급 및 생육 상황 현장 점검",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780402",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "추석 차례상 비용 30만 원대…계란·소고기 줄줄이 상승",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8656052",
+          "source": "KBS 뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "폭염·장마에 출하량 ‘뚝’...‘금값 채소’에 인천 장바구니·자영업자 이중고 [현장, 그곳&]",
+          "url": "https://v.daum.net/v/Pdvhcdzth0?f=p",
+          "source": "Daum",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "오타니 쇼헤이": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-07T08:11:00+09:00",
+      "lastSeen": "2026-09-07T08:11:00+09:00",
+      "news": [
+        {
+          "title": "다저스 오타니, 3경기 연속 결장…부상자 명단 올라가나",
+          "url": "https://www.yna.co.kr/view/AKR20260906012700007",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "‘이게 가능해?’ 韓 국대가 오타니 대체하다니, 미친 슈퍼캐치+역전 스리런→다저스 매료시키다 “에드먼 정말 대단한 야구선수”",
+          "url": "https://v.daum.net/v/20260907004952417",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[오늘의 MLB] (9/6) 토미 에드먼, 역전 결승 스리런 홈런...다저스 3연승 질주!",
+          "url": "https://contents.premium.naver.com/mlbtoday/mlb/contents/260906172913789lh",
+          "source": "네이버 프리미엄콘텐츠",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "��플": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T08:11:00+09:00",
+      "lastSeen": "2026-09-07T08:11:00+09:00",
+      "news": [
+        {
+          "title": "The world is about to meet Apple’s new CEO. Here are his biggest challenges",
+          "url": "https://www.cnn.com/2026/09/06/tech/apple-ceo-john-ternus-challenges",
+          "source": "CNN",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Tim Cook’s CEO-Like Pay Package Shows He Isn’t Going Anywhere",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1",
+          "source": "Bloomberg",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "With Just 9 Words, Tim Cook’s Farewell Email Taught a Lesson for Every Leader",
+          "url": "https://www.inc.com/jason-aten/with-just-9-words-tim-cooks-farewell-email-taught-a-lesson-for-every-leader/91399215",
+          "source": "Inc.com",
           "date": "2026-09-06"
         }
       ]
