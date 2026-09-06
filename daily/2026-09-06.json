@@ -1511,10 +1511,10 @@
       ]
     },
     "us open": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T09:47:00+09:00",
-      "lastSeen": "2026-09-06T12:13:00+09:00",
+      "lastSeen": "2026-09-06T12:40:00+09:00",
       "news": [
         {
           "title": "Tennis Legends Williams Sisters Lose in US Open Return After 4-Year Absence",
@@ -1671,10 +1671,10 @@
       ]
     },
     "유현주": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T10:11:00+09:00",
-      "lastSeen": "2026-09-06T12:13:00+09:00",
+      "lastSeen": "2026-09-06T12:40:00+09:00",
       "news": [
         {
           "title": "기권하지 않고 최선을 다한 유현주, 다음 기회에~ [KLPGA OK저축은행 읏맨오픈]",
@@ -1709,10 +1709,10 @@
       ]
     },
     "inter miami vs atlanta united": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 500,
       "firstSeen": "2026-09-06T10:11:00+09:00",
-      "lastSeen": "2026-09-06T12:13:00+09:00",
+      "lastSeen": "2026-09-06T12:40:00+09:00",
       "news": [
         {
           "title": "Why is kickoff for Inter Miami vs Atlanta United delayed today, Sep. 5?",
@@ -1747,10 +1747,10 @@
       ]
     },
     "스타뉴스": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T10:11:00+09:00",
-      "lastSeen": "2026-09-06T12:13:00+09:00",
+      "lastSeen": "2026-09-06T12:40:00+09:00",
       "news": [
         {
           "title": "미야오 엘라 '순간순간이 화보'",
@@ -1811,10 +1811,10 @@
       ]
     },
     "내셔널스 대 다저스": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-06T11:13:00+09:00",
-      "lastSeen": "2026-09-06T12:13:00+09:00",
+      "lastSeen": "2026-09-06T12:40:00+09:00",
       "news": [
         {
           "title": "다저스 오타니, 3경기 연속 결장…부상자 명단 올라가나",
@@ -1849,10 +1849,10 @@
       ]
     },
     "alexandra eala": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T11:13:00+09:00",
-      "lastSeen": "2026-09-06T12:13:00+09:00",
+      "lastSeen": "2026-09-06T12:40:00+09:00",
       "news": [
         {
           "title": "Exploring Alexandra Eala Nationality Controversy: What Happened Between Commentator & the Filipino Tennis Star",
@@ -1887,17 +1887,17 @@
       ]
     },
     "솔트레이크 대 엘에이 fc": {
-      "count": 3,
-      "maxTraffic": 50000,
+      "count": 4,
+      "maxTraffic": 100000,
       "firstSeen": "2026-09-06T11:13:00+09:00",
-      "lastSeen": "2026-09-06T12:13:00+09:00",
+      "lastSeen": "2026-09-06T12:40:00+09:00",
       "news": []
     },
     "이승철": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-06T11:13:00+09:00",
-      "lastSeen": "2026-09-06T12:13:00+09:00",
+      "lastSeen": "2026-09-06T12:40:00+09:00",
       "news": [
         {
           "title": "한 달 저작권료 외제차 값…이승��이 자녀 유산 상속 0원 선언한 진짜 이유",
@@ -1920,10 +1920,10 @@
       ]
     },
     "최은경": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T11:40:00+09:00",
-      "lastSeen": "2026-09-06T12:13:00+09:00",
+      "lastSeen": "2026-09-06T12:40:00+09:00",
       "news": [
         {
           "title": "최은경 “2년 쉬었더니 겁나고 떨려”…53세에 새 회사 ‘입사’",
@@ -1942,14 +1942,20 @@
           "url": "https://v.daum.net/v/20260906055607726",
           "source": "Daum",
           "date": "2026-09-06"
+        },
+        {
+          "title": "최은경 “2년 쉬었더니 겁나고 떨려”…53세에 새 회사 ‘입사’",
+          "url": "https://v.daum.net/v/20260905034851133",
+          "source": "Daum",
+          "date": "2026-09-06"
         }
       ]
     },
     "김성근": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T12:13:00+09:00",
-      "lastSeen": "2026-09-06T12:13:00+09:00",
+      "lastSeen": "2026-09-06T12:40:00+09:00",
       "news": [
         {
           "title": "\"힘들어 하는 게 보여\"...'신인왕 1순위' 주전 포수 슬럼프인가, 재충전 필요했다 [오!쎈 부산]",
