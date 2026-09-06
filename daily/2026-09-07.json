@@ -868,10 +868,10 @@
       ]
     },
     "오세훈": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-07T06:11:00+09:00",
-      "lastSeen": "2026-09-07T06:11:00+09:00",
+      "lastSeen": "2026-09-07T06:38:00+09:00",
       "news": [
         {
           "title": "오세훈표 '서울의 밤' 첫 제동…서울시의회, 야간경제 12억 삭감",
@@ -894,10 +894,10 @@
       ]
     },
     "카를로스 알카라스": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-07T06:11:00+09:00",
-      "lastSeen": "2026-09-07T06:11:00+09:00",
+      "lastSeen": "2026-09-07T06:38:00+09:00",
       "news": [
         {
           "title": "'한국인 DJ와 열애설' 테니스 황제, 새 여친 생겼나…금발 미녀 모델과 보트 데이트→팔로워 급등 '관심 폭발'",
@@ -916,14 +916,26 @@
           "url": "https://www.segye.com/newsView/20260901513537",
           "source": "세계일보",
           "date": "2026-09-06"
+        },
+        {
+          "title": "테니스 알카라스·사발렌카, 나란히 US오픈 16강",
+          "url": "https://www.yna.co.kr/view/AKR20260905022500007",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "사발렌카, 라키모바 꺾고 16강 진출…3연패 순항",
+          "url": "https://www.newsis.com/view/NISI20260905_0002230974",
+          "source": "뉴시스",
+          "date": "2026-09-06"
         }
       ]
     },
     "피고인": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-07T06:11:00+09:00",
-      "lastSeen": "2026-09-07T06:11:00+09:00",
+      "lastSeen": "2026-09-07T06:38:00+09:00",
       "news": [
         {
           "title": "李대통령, 법무장관에 김승원 지명…메가프로젝트 보좌관 이원주 임명",
@@ -934,10 +946,10 @@
       ]
     },
     "에스파뇰 대 세비야": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T06:11:00+09:00",
-      "lastSeen": "2026-09-07T06:11:00+09:00",
+      "lastSeen": "2026-09-07T06:38:00+09:00",
       "news": [
         {
           "title": "에스파뇰 vs 세비야 예측: 상위권 경쟁의 뜨거운 승부",
@@ -954,10 +966,10 @@
       ]
     },
     "산사태": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T06:11:00+09:00",
-      "lastSeen": "2026-09-07T06:11:00+09:00",
+      "lastSeen": "2026-09-07T06:38:00+09:00",
       "news": [
         {
           "title": "대홍수 휩쓴 네팔서 또 산사태·홍수…노동자 2명 사망",
@@ -975,6 +987,148 @@
           "title": "물 빠지고 모습 드러낸 위어댐 터널",
           "url": "https://mobile.newsis.com/photo/NISI20260906_0021425786",
           "source": "뉴시스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "중국, 태풍 ‘사우델’로 산사태…5명 사망·9명 실종",
+          "url": "https://v.daum.net/v/20260906212613148",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "中 장시성서 태풍 '사우델' 폭우로 토석류…1명 사망·11명 실종",
+          "url": "https://view.asiae.co.kr/article/2026090610493842870",
+          "source": "아시아경제",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "관광객": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T06:38:00+09:00",
+      "lastSeen": "2026-09-07T06:38:00+09:00",
+      "news": [
+        {
+          "title": "“한국전도사였는데, 다신 안옵니다”…中관광객 불편신고 600건 ‘최다’",
+          "url": "https://v.daum.net/v/ZqfQCsd8WN",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "숙소 바가지 요금·택시 난폭 운전‥올해 관광불편신고 역대 최대",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6849888_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "“한국 여행 불편해서 못 오겠네” 외국인 신고 폭증…‘이 나라’가 가장 많았다",
+          "url": "https://www.sedaily.com/article/20087713",
+          "source": "서울경제",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "thứ hạng của arsenal gặp chelsea": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T06:38:00+09:00",
+      "lastSeen": "2026-09-07T06:38:00+09:00",
+      "news": [
+        {
+          "title": "آرسنال مقابل چلسی ۲-۱ (نیمه اول): از دست رفته!!! رایا یک سیو عالی انجام داد.",
+          "url": "https://www.vietnam.vn/fa/truc-tiep-arsenal-vs-chelsea-2-1-h2-khong-vao-raya-cuu-thua-xuat-sac",
+          "source": "Vietnam.vn",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Sự cao tay của Arteta giúp Arsenal khuất phục Chelsea",
+          "url": "https://yeuthethao.net.vn/su-cao-tay-cua-arteta-giup-arsenal-khuat-phuc-chelsea-d893905.html",
+          "source": "yeuthethao.net.vn",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Martin Odegaard: Arsenal đã chứng minh được đẳng cấp của mình",
+          "url": "https://bongda24h.vn/bong-da-anh/martin-odegaard-arsenal-da-chung-to-duoc-dang-cap-172-459239.html",
+          "source": "Bongda24h",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "valencia cf vs fc barcelona standings": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T06:38:00+09:00",
+      "lastSeen": "2026-09-07T06:38:00+09:00",
+      "news": [
+        {
+          "title": "Preview: Valencia vs Barcelona - prediction, team news, lineups",
+          "url": "https://www.sportsmole.co.uk/football/barcelona/race-for-the-la-liga-title/preview/valencia-vs-barcelona-prediction-team-news-lineups_604500.html",
+          "source": "Sports Mole",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Valencia vs Barcelona Confirmed Lineups",
+          "url": "https://www.whoscored.com/news/w8nrtkx4J02wnC9qRzge8Q/show/20260906-valencia-vs-barcelona-confirmed-lineup-1788700738",
+          "source": "WhoScored.com",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Yamal scores twice as Barcelona wins 4th straight game in La Liga, Arsenal beats Chelsea",
+          "url": "https://infonews.ca/news/7862897/yamal-scores-twice-as-barcelona-wins-4th-straight-game-in-la-liga-arsenal-beats-chelsea/",
+          "source": "iNFOnews.ca",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "김윤지": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T06:38:00+09:00",
+      "lastSeen": "2026-09-07T06:38:00+09:00",
+      "news": [
+        {
+          "title": "김윤지, 딸과 미국行→벌써 4개월째..김영임도 손녀 보러 출국 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/06/GQ3GKNTBME3TGZLEGQYWMZBSMM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "김윤지, 딸과 미국 생활 중..'시母' 김영임 출국 \"손녀 너무 보고 싶어\"",
+          "url": "https://v.daum.net/v/20260907012808727",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "‘이상해 며느리’ 김윤지, 실물 어떻길래?..‘솔지4’ 이시안 “골져스” 감탄 (ns윤지)",
+          "url": "https://www.osen.co.kr/article/G1112866659",
+          "source": "OSEN",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "us 오픈": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T06:38:00+09:00",
+      "lastSeen": "2026-09-07T06:38:00+09:00",
+      "news": [
+        {
+          "title": "'전세계 강타' 필리핀 女 테니스 스타, 그의 뒤엔 라파엘 나달 삼촌 있었다…나달 아카데미 졸업→\"US오픈 디렉터로 곁에 있어\"",
+          "url": "https://v.daum.net/v/PTOl88tWtS",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "잘 싸웠다, 이알라",
+          "url": "https://www.chosun.com/sports/sports_general/2026/09/07/WXU3KF62D5HKZE7G73XOZCTCOI/",
+          "source": "조선일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "필리핀에는 이알라가 있는데… 한국에는 왜 없는가",
+          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19396",
+          "source": "테니스피플",
           "date": "2026-09-06"
         }
       ]
