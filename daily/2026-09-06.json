@@ -3158,10 +3158,10 @@
       ]
     },
     "인도네시아 화산": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-06T18:40:00+09:00",
-      "lastSeen": "2026-09-06T18:40:00+09:00",
+      "lastSeen": "2026-09-06T19:12:00+09:00",
       "news": [
         {
           "title": "인도네시아 분화 화산재 15㎞ 치솟아…공항 6곳 일시 폐쇄",
@@ -3180,14 +3180,20 @@
           "url": "https://www.hankyung.com/article/2026090666127",
           "source": "한국경제",
           "date": "2026-09-06"
+        },
+        {
+          "title": "도로에 쌓인 화산재 치우는 인니 소방관들",
+          "url": "https://www.newsis.com/view/NISI20260906_0002231557",
+          "source": "뉴시스",
+          "date": "2026-09-06"
         }
       ]
     },
     "다음 뉴스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-06T18:40:00+09:00",
-      "lastSeen": "2026-09-06T18:40:00+09:00",
+      "lastSeen": "2026-09-06T19:12:00+09:00",
       "news": [
         {
           "title": "'사당귀' 양준혁, 생선빵 도전! \"광어빵에 광어가 들어가?\" - 머니투데이",
@@ -3206,14 +3212,26 @@
           "url": "https://www.news1.kr/entertain/broadcast-tv/6281362",
           "source": "뉴스1",
           "date": "2026-09-06"
+        },
+        {
+          "title": "새울 3호기 재가동 이틀 만에 수동정지 \"방사선 영향 없어\"",
+          "url": "https://v.daum.net/v/20260906180252810",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[속보]새울 3호기 원자로 정지돼…“방사선 영향 없어”",
+          "url": "https://www.munhwa.com/article/11614857",
+          "source": "문화일보",
+          "date": "2026-09-06"
         }
       ]
     },
     "민주노동조합총연맹": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T18:40:00+09:00",
-      "lastSeen": "2026-09-06T18:40:00+09:00",
+      "lastSeen": "2026-09-06T19:12:00+09:00",
       "news": [
         {
           "title": "공공운수노조 간부, 10층 높이 건물외벽 매달려…부당징계 주장",
@@ -3232,14 +3250,20 @@
           "url": "https://v.daum.net/v/20260906142749542",
           "source": "Daum",
           "date": "2026-09-06"
+        },
+        {
+          "title": "“아내 해고하고 나도 징계”…건물 10층에 매달려 시위",
+          "url": "https://www.munhwa.com/article/11614861",
+          "source": "문화일보",
+          "date": "2026-09-06"
         }
       ]
     },
     "자폐": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-06T18:40:00+09:00",
-      "lastSeen": "2026-09-06T18:40:00+09:00",
+      "lastSeen": "2026-09-06T19:12:00+09:00",
       "news": [
         {
           "title": "피터팬 아빠 전경철 작가 별세",
@@ -3257,6 +3281,174 @@
           "title": "간암보다 자폐 아들 걱정…‘피터팬 아빠’ 전경철 작가 별세",
           "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000009470&code=61121111&sid1=vod",
           "source": "국민일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "27살 자폐아들 살 곳 찾던 ‘피터팬 아빠’ 눈감아…“안녕, 또 봐”",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1276469.html",
+          "source": "한겨레",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "중증 자폐 아들 키운 ‘피터팬 아빠’ 전경철 작가 63세 별세",
+          "url": "https://www.donga.com/news/Society/article/all/20260906/134614634/1",
+          "source": "동아일보",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "김천상무 대 광주": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-06T19:12:00+09:00",
+      "lastSeen": "2026-09-06T19:12:00+09:00",
+      "news": [
+        {
+          "title": "24경기 무승 끝낸다…광주FC, 김천과 벼랑 끝 ‘승점 6점’ 승부",
+          "url": "https://v.daum.net/v/20260905171722614",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[B11 현장] \"우리 색깔 버리지 말자. '용기' 가지는 게 먼저\"…광주 이정규 감독, '무승 압박'에도 가던 대로 간다",
+          "url": "https://m.news.nate.com/view/20260906n14646",
+          "source": "네이트",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[B11 현장] 김천 주승진 감독의 ‘9월’… “홈에서 하는 경기들은 무조건 이겼으면, 3승 1무 목표”",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=311922",
+          "source": "베스트일레븐",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "자동차": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-06T19:12:00+09:00",
+      "lastSeen": "2026-09-06T19:12:00+09:00",
+      "news": [
+        {
+          "title": "[사이언스스코프]전기차는 정말 친환경일까…②승부는 자동차가 아니라 전력망에서 난다",
+          "url": "https://v.daum.net/v/20260906073128023",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "자동차 온실가스 기준 54g/km로 강화...“전기차 전환 늦출 우회로 여전”",
+          "url": "https://www.hydrogennews.co.kr/news/articleView.html?idxno=4758",
+          "source": "수소신문",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "한국자동차기자협회, 9월의 차에 '폴스타 3' 선정",
+          "url": "https://v.daum.net/v/zN6WoYcnT6",
+          "source": "Daum",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "위장전입": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-06T19:12:00+09:00",
+      "lastSeen": "2026-09-06T19:12:00+09:00",
+      "news": [
+        {
+          "title": "천하람 \"강신철, 22억 아파트 부정청약\"‥강신철 측 \"불법 없다\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6849899_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "“철거민 특공 노린 위장전입”…“고의 아냐”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8655860",
+          "source": "KBS 뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "기자회견하는 천하람 개혁신당 권한대행 겸 원내대표",
+          "url": "https://mobile.newsis.com/photo/NISI20260906_0021425470",
+          "source": "뉴시스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "손연재": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T19:12:00+09:00",
+      "lastSeen": "2026-09-06T19:12:00+09:00",
+      "news": [
+        {
+          "title": "손연재, 계란 사는데 백화점…72억 집 살더니 장보기도 럭셔리",
+          "url": "https://v.daum.net/v/20260905083236675",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "손연재, \"이게 10만원대라고?\" 명품인 줄 알았던 화이트 레이스 스커트",
+          "url": "https://news.nate.com/view/20260904n28909",
+          "source": "네이트",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"엄마가 돼도 변함없는 슬림 실루엣\"…손연재, 레이스 스커트로 완성한 산뜻한 데일리 룩",
+          "url": "https://www.kstarfashion.com/ko-kr/articles/255148",
+          "source": "스타패션",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "신다인": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-06T19:12:00+09:00",
+      "lastSeen": "2026-09-06T19:12:00+09:00",
+      "news": [
+        {
+          "title": "준우승만 9번 최예림, KLPGA투어 9전 10기로 첫 우승",
+          "url": "https://v.daum.net/v/1oQpXGkLSQ",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "이젠 더 이상 최종 라운드에서 떨지 ���겠네...두려움 이겨낸 최예림의 감격 첫 우승, 1억8천 그 이상의 가치",
+          "url": "https://www.chosun.com/sports/golf/2026/09/06/GE4GIODCMQ2DENRXMIZTEZJSMQ/",
+          "source": "조선일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "3103일의 두드림…최예림, 마침내 ‘우승없는 최고’ 꼬리표 뗐다",
+          "url": "https://www.sedaily.com/article/20087627",
+          "source": "서울경제",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "하하": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T19:12:00+09:00",
+      "lastSeen": "2026-09-06T19:12:00+09:00",
+      "news": [
+        {
+          "title": "하하 \"'무한도전' 부담 때문에 공황 오기도…유재석이 엄마처럼 채찍질\"",
+          "url": "https://v.daum.net/v/20260906185050818",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'사당귀' 부산원정대 지분 놓고 갈등...양상국 \"51% 달라\"",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3686203",
+          "source": "국제뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "하하 “너 말고도 사투리 하는 애 많아”…박영진→양상국과 극한 갈등 (사당귀)",
+          "url": "https://sports.donga.com/ent/article/all/20260906/134611600/1",
+          "source": "스포츠동아",
           "date": "2026-09-06"
         }
       ]
