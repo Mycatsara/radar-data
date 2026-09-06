@@ -1811,10 +1811,10 @@
       ]
     },
     "내셔널스 대 다저스": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-06T11:13:00+09:00",
-      "lastSeen": "2026-09-06T13:12:00+09:00",
+      "lastSeen": "2026-09-06T13:40:00+09:00",
       "news": [
         {
           "title": "다저스 오타니, 3경기 연속 결장…부상자 명단 올라가나",
@@ -1926,10 +1926,10 @@
       ]
     },
     "최은경": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-06T11:40:00+09:00",
-      "lastSeen": "2026-09-06T13:12:00+09:00",
+      "lastSeen": "2026-09-06T13:40:00+09:00",
       "news": [
         {
           "title": "최은경 “2년 쉬었더니 겁나고 떨려”…53세에 새 회사 ‘입사’",
@@ -1964,10 +1964,10 @@
       ]
     },
     "김성근": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T12:13:00+09:00",
-      "lastSeen": "2026-09-06T13:12:00+09:00",
+      "lastSeen": "2026-09-06T13:40:00+09:00",
       "news": [
         {
           "title": "\"힘들어 하는 게 보여\"...'신인왕 1순위' 주전 포수 슬럼프인가, 재충전 필요했다 [오!쎈 부산]",
@@ -1990,10 +1990,10 @@
       ]
     },
     "라파엘 나달": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-06T13:12:00+09:00",
-      "lastSeen": "2026-09-06T13:12:00+09:00",
+      "lastSeen": "2026-09-06T13:40:00+09:00",
       "news": [
         {
           "title": "Eala relishing 'full circle moment' with Nadal's uncle",
@@ -2016,10 +2016,10 @@
       ]
     },
     "알렉산더 즈베레프": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-06T13:12:00+09:00",
-      "lastSeen": "2026-09-06T13:12:00+09:00",
+      "lastSeen": "2026-09-06T13:40:00+09:00",
       "news": [
         {
           "title": "풀세트 접전 승리 후 환호하는 즈베레프",
@@ -2038,14 +2038,20 @@
           "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19385",
           "source": "테니스피플",
           "date": "2026-09-06"
+        },
+        {
+          "title": "코볼리 vs 스쿨케이트, 2026 US오픈 2회전 격돌…뉴욕 현장 열기",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3685543",
+          "source": "국제뉴스",
+          "date": "2026-09-06"
         }
       ]
     },
     "탈세": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-06T13:12:00+09:00",
-      "lastSeen": "2026-09-06T13:12:00+09:00",
+      "lastSeen": "2026-09-06T13:40:00+09:00",
       "news": [
         {
           "title": "“1364억 탈세제보했는데 포상금 1억도 안줘?” 소송전의 결말[세금GO]",
@@ -2068,10 +2074,10 @@
       ]
     },
     "salt lake vs lafc": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-06T13:12:00+09:00",
-      "lastSeen": "2026-09-06T13:12:00+09:00",
+      "lastSeen": "2026-09-06T13:40:00+09:00",
       "news": [
         {
           "title": "Son Heung-min moves to second in MLS assists as LAFC leads Real Salt Lake - CHOSUNBIZ",
@@ -2089,6 +2095,96 @@
           "title": "Where to Watch Real Salt Lake vs. Los Angeles FC: TV Channel, Start Time and Live Stream",
           "url": "https://www.bleachernation.com/how-to-watch/2026/09/04/where-to-watch-real-salt-lake-vs-los-angeles-fc-tv-channel-start-time-and-live-stream-2/",
           "source": "Bleacher Nation",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Goal: V. Janssen vs. MIN, 55'",
+          "url": "https://www.mlssoccer.com/video/goal-v-janssen-vs-min-55",
+          "source": "MLSsoccer.com",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Goal: M. Caldeira vs. POR, 51'",
+          "url": "https://www.mlssoccer.com/video/goal-m-caldeira-vs-por-51",
+          "source": "MLSsoccer.com",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "레드삭스 대 오리올스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T13:40:00+09:00",
+      "lastSeen": "2026-09-06T13:40:00+09:00",
+      "news": [
+        {
+          "title": "MLB 보스턴 포수 러치맨, 이적 이후 첫 친정 방문서 홈런 '쾅쾅'",
+          "url": "https://www.fnnews.com/news/202609041432199788",
+          "source": "파이낸셜뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "친정 팀 울린 러치맨, MLB 볼티모어 상대로 '멀티 홈런'",
+          "url": "https://www.news1.kr/sports/overseas-baseball/6280185",
+          "source": "뉴스1",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "‘올스타 포수’ 러치맨, 보스턴 이적 후 첫 멀티홈런 ‘친정팀 울렸다’",
+          "url": "https://v.daum.net/v/7Q6YGbYC7p",
+          "source": "Daum",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "장애인": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T13:40:00+09:00",
+      "lastSeen": "2026-09-06T13:40:00+09:00",
+      "news": [
+        {
+          "title": "장애등급제 폐지 9년 만에…연금 '사각지대' 중증장애인 26만명 품는다",
+          "url": "https://v.daum.net/v/20260906070314705",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "내년 3급 단일장애인 장애인연금 '최대 24만6895원' 지급",
+          "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=233101",
+          "source": "에이블뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"예산 없이 권리 없다\"…전장연, 여의도서 결의대회",
+          "url": "https://www.newsis.com/view/NISX20260904_0003777087",
+          "source": "뉴시스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "무안국제공항": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T13:40:00+09:00",
+      "lastSeen": "2026-09-06T13:40:00+09:00",
+      "news": [
+        {
+          "title": "'800조 반도체' 연결고리로 뜬 무안공항…청사진 현실화할까",
+          "url": "https://v.daum.net/v/FjzMpJqFyA",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "무안공항 특화 전략에 등장한 '반도체'…국가산단 연계 주목",
+          "url": "https://www.yna.co.kr/view/AKR20260904063600054",
+          "source": "연합뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "무안군, ‘국가산단 TF팀’ 출범 ... 분산에너지 산단 조성 본격화",
+          "url": "http://www.inews24.com/view/2001843",
+          "source": "아이뉴스24",
           "date": "2026-09-06"
         }
       ]
