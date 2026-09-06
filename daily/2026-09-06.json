@@ -2190,10 +2190,10 @@
       ]
     },
     "이혜영": {
-      "count": 2,
-      "maxTraffic": 2000,
+      "count": 3,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-06T14:11:00+09:00",
-      "lastSeen": "2026-09-06T14:39:00+09:00",
+      "lastSeen": "2026-09-06T15:15:00+09:00",
       "news": [
         {
           "title": "이혜영, 의붓딸과 시밀러 코디 선보여···너무 다정하네 - 조선비즈",
@@ -2268,10 +2268,10 @@
       ]
     },
     "여주시": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-06T14:39:00+09:00",
-      "lastSeen": "2026-09-06T14:39:00+09:00",
+      "lastSeen": "2026-09-06T15:15:00+09:00",
       "news": [
         {
           "title": "“여주시민들 뿔났다”...물·전력 내주고 희생만 강요받아",
@@ -2294,10 +2294,10 @@
       ]
     },
     "김밥": {
-      "count": 1,
-      "maxTraffic": 10000,
+      "count": 2,
+      "maxTraffic": 20000,
       "firstSeen": "2026-09-06T14:39:00+09:00",
-      "lastSeen": "2026-09-06T14:39:00+09:00",
+      "lastSeen": "2026-09-06T15:15:00+09:00",
       "news": [
         {
           "title": "\"기차역서 김밥 한 줄 사 먹었는데…\" 화들짝 놀란 이유가",
@@ -2320,10 +2320,10 @@
       ]
     },
     "농구": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-06T14:39:00+09:00",
-      "lastSeen": "2026-09-06T14:39:00+09:00",
+      "lastSeen": "2026-09-06T15:15:00+09:00",
       "news": [
         {
           "title": "‘와 한국이 프랑스를 잡나?’ 1쿼터 31-24로 이긴 한국, 결국 와르르 무너져 26점차 역전패",
@@ -2341,6 +2341,162 @@
           "title": "돌파 시도하는 이소희",
           "url": "https://www.newsis.com/view/NISI20260906_0002231303",
           "source": "뉴시스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "교산": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-06T15:15:00+09:00",
+      "lastSeen": "2026-09-06T15:15:00+09:00",
+      "news": [
+        {
+          "title": "\"GTX 얘기만 나왔는데…\" 국평 벌써 16억 뚫은 '이 동네' [철길옆집]",
+          "url": "https://www.hankyung.com/article/2026090436616",
+          "source": "한국경제",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "하남, 전용 84㎡ ‘전세 8억·매매 15억’ 시대",
+          "url": "http://www.hanamilbo.net/news/articleView.html?idxno=12591",
+          "source": "하남일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "추미애 \"주택대책 협의 부족 아쉬워\"…공급 속도엔 힘 보태",
+          "url": "https://v.daum.net/v/20260906122553264",
+          "source": "Daum",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "린": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-06T15:15:00+09:00",
+      "lastSeen": "2026-09-06T15:15:00+09:00",
+      "news": [
+        {
+          "title": "'이수와 이혼' 린, 파경 1년됐는데 아직도 화장실 생활..비상금 위해 금 판다(미우새)",
+          "url": "https://v.daum.net/v/20260906082309460",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "이혼 1년’ 린, 여전히 화장실 바닥 생활…과일 먹으며 ‘허남준 앓이’",
+          "url": "https://sports.khan.co.kr/article/202609061056013",
+          "source": "스포츠경향",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'돌싱' 린, 오프숄더 레드벨벳 드레스 입으니 공주 재질이네…물오른 비주얼 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/04/GBTDGNLFGE3TGMRVMRTGIOBYGY/",
+          "source": "Chosunbiz",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "전경철": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-06T15:15:00+09:00",
+      "lastSeen": "2026-09-06T15:15:00+09:00",
+      "news": [
+        {
+          "title": "'유퀴즈' 울렸던 간암 말기 '피터팬 아빠' 전경철 작가, 5일 별세…추모 물결",
+          "url": "https://v.daum.net/v/20260906141530243",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "‘피터팬 아빠’ 전경철 작가, 5일 별세..‘유퀴즈’ 출연 24일만 비보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/06/GY4DANZTGU4GIZLEGY2TGYRWMM/",
+          "source": "조선일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'피터팬 아버지' 이야기가 그저 드라마로만 남지 않도록 [취재파일]",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737767",
+          "source": "SBS 뉴스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "치맥": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T15:15:00+09:00",
+      "lastSeen": "2026-09-06T15:15:00+09:00",
+      "news": [
+        {
+          "title": "“요즘 누가 야구장에서 치맥 먹어요”…인기 1위는 ‘이 메뉴’",
+          "url": "https://www.munhwa.com/article/11614799",
+          "source": "문화일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"야구장 포장·배달 1위는 물회·육회\"…대표 메뉴 치킨은 3위로",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260906095451N8w",
+          "source": "연합뉴스TV",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"야구장에선 치맥이 국룰? 바뀌었다\" 기름진 음식 대신 깔끔하게 즐긴다는 新먹거리",
+          "url": "https://view.asiae.co.kr/article/2026090611505718839",
+          "source": "아시아경제",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "엘에이 fc": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-06T15:15:00+09:00",
+      "lastSeen": "2026-09-06T15:15:00+09:00",
+      "news": [
+        {
+          "title": "DeAndre Yedlin makes sliding clearance in 87th to preserve Real Salt Lake's 2-2 draw with LAFC",
+          "url": "https://www.cbsnews.com/losangeles/news/deandre-yedlin-makes-sliding-clearance-in-87th-to-preserve-real-salt-lakes-2-2-draw-with-lafc/",
+          "source": "CBS News",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Real Salt Lake battles hard for draw against LAFC",
+          "url": "https://www.sltrib.com/sports/rsl/2026/09/05/real-salt-lake-battles-hard-draw/",
+          "source": "The Salt Lake Tribune",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Los Angeles FC vs. Real Salt Lake Prediction, Picks, Live Odds – Sept. 5",
+          "url": "https://www.bleachernation.com/picks/2026/09/05/los-angeles-fc-vs-real-salt-lake-prediction-picks-live-odds-sept-5/",
+          "source": "Bleacher Nation",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "돌싱글즈": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-06T15:15:00+09:00",
+      "lastSeen": "2026-09-06T15:15:00+09:00",
+      "news": [
+        {
+          "title": "‘돌싱글즈3’ 한정민♥유다연, 혼인신고 1년만에 결혼식… 전다빈·이소라 등 총출동",
+          "url": "https://sports.khan.co.kr/article/202609052358003",
+          "source": "스포츠경향",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "유다연·한정민, 혼인신고 1년만 결혼식…딸 돌찬치도 함께 - 스타투데이",
+          "url": "https://www.mk.co.kr/news/hot-issues/12145091",
+          "source": "매일경제",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "‘돌싱3’ 한정민·유다연, 오늘 지각 결혼식…첫돌 맞은 딸과 ‘겹경사’",
+          "url": "https://www.donga.com/news/Culture/article/all/20260905/134611260/1",
+          "source": "동아일보",
           "date": "2026-09-06"
         }
       ]
