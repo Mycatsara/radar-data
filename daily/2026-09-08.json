@@ -820,6 +820,247 @@
           "date": "2026-09-07"
         }
       ]
+    },
+    "삼성": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T07:13:00+09:00",
+      "lastSeen": "2026-09-08T07:13:00+09:00",
+      "news": [
+        {
+          "title": "삼성전자·SK하이닉스 반등…메모리 쇼티지에 장비주도 질주",
+          "url": "https://v.daum.net/v/20260908060113943",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[26년 9월 8일(화)] “AI 투자심리 살아났다”…코스피 4.6% 급등, 7000선 눈앞 - 비티의 오늘 주요 뉴스 요약",
+          "url": "https://contents.premium.naver.com/btnote/btpick/contents/260907182957112kh",
+          "source": "네이버 ���리미엄콘텐츠",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "“AGI가 왔다”…‘아스트라’가 깨운 반도체株, 코스피 7000 코앞",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=55055",
+          "source": "주간조선",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "이의리": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T07:13:00+09:00",
+      "lastSeen": "2026-09-08T07:13:00+09:00",
+      "news": [
+        {
+          "title": "“(이)의리 엄청 부럽죠, 저는 아무리 노력해도 155km 못 던져요” KIA 어느 불펜투수의 고백…막상 KIA에 없으면 안 되는 존재[MD광주]",
+          "url": "https://v.daum.net/v/20260907130149212",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'똑같은 9회 2사 만루 이의리' 이틀 전엔 2구 만에 교체, 이번엔 끝까지 맡겼다... 이범호 감독 선택 '왜' 달랐나 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/2026090512280075164",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"차라리 홈런을 맞지\"…김도영에게 준 8회 스트레이트 볼넷, 이강철 감독이 땅을 친 장면[스경x비하인드]",
+          "url": "https://m.news.nate.com/view/20260905n08830",
+          "source": "Nate News",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "현빈": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T07:13:00+09:00",
+      "lastSeen": "2026-09-08T07:13:00+09:00",
+      "news": [
+        {
+          "title": "“어디든 가려고 노력해”…현빈♥손예진, 아들과 日 도쿄서 포착",
+          "url": "https://v.daum.net/v/20260907152845925",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "현빈♥손예진, 아���과 일본서 포착…엄마 곁에 '찰싹'",
+          "url": "https://www.newsis.com/view/NISX20260903_0003774700",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "현빈♥손예진, 아들과 일본 여행 목격담…엄마 소매에 손을 쏙 - 스타투데이",
+          "url": "https://www.mk.co.kr/news/hot-issues/12142948",
+          "source": "매일경제",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "암호화폐": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T07:13:00+09:00",
+      "lastSeen": "2026-09-08T07:13:00+09:00",
+      "news": [
+        {
+          "title": "8만달러 문턱 비트코인…美 물가가 반등 지속 가른다 By Bloomingbit",
+          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2085484",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "비트코인 8만 달러…\"이란 사태·美 국채 신뢰, 향방 가른다\"[코인브리핑]",
+          "url": "https://v.daum.net/v/20260907095135528",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "비트코인, 8만달러선 숨 고르기…다음 변수는 美 CPI",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260907010002538",
+          "source": "아시아투데이",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "아나스타샤 포타포바": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T07:13:00+09:00",
+      "lastSeen": "2026-09-08T07:13:00+09:00",
+      "news": []
+    },
+    "lg전자": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T07:13:00+09:00",
+      "lastSeen": "2026-09-08T07:13:00+09:00",
+      "news": [
+        {
+          "title": "서울디자인재단·LG전자, 110인치 초대형 디스플레이 활용 맞손",
+          "url": "https://www.yna.co.kr/view/AKR20260907134200004",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "LG전자, DDP에 초대형 광고판 11대 설치…몰입형 디지털 전시",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779785",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "DDP, LG전자와 협력…\"110인치 스크린 '디지털 캔버스'로\"",
+          "url": "https://www.news1.kr/local/seoul/6282695",
+          "source": "뉴스1",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "국채": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T07:13:00+09:00",
+      "lastSeen": "2026-09-08T07:13:00+09:00",
+      "news": [
+        {
+          "title": "[오늘과 내일/이상훈]美日 고금리, 韓 주담대 이자로 날아온다",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260907/134623347/2",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "소시에테제네랄 \"10년물 국채금리 5.5% 도달 시 증시 타격\"",
+          "url": "https://v.daum.net/v/20260908064206703",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[크립토하나] 美 바이백·주요 물가지표 발표 대기…가상자산 가격 향방 주목",
+          "url": "https://zdnet.co.kr/view/?no=20260907094336",
+          "source": "지디넷코리아",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "회사": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T07:13:00+09:00",
+      "lastSeen": "2026-09-08T07:13:00+09:00",
+      "news": [
+        {
+          "title": "“기계도 안 만져본 회사가?” AI 칩 개발 도전, 성공할 수 있을까[김창영의 실리콘밸리 룩]",
+          "url": "https://www.sedaily.com/article/20087758",
+          "source": "서울경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "오픈AI의 첫 ASIC ‘할라페뇨’··· ‘엔비디아를 꺾는 게 아닌 필요한 칩 만들었다’",
+          "url": "https://www.donga.com/news/It/article/all/20260901/134585803/1",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[AI 인프라 전쟁] 오픈AI, 자체 칩 공개…엔비디아 독점체제 위협",
+          "url": "https://v.daum.net/v/20260901164255497",
+          "source": "Daum",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "성과급": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T07:13:00+09:00",
+      "lastSeen": "2026-09-08T07:13:00+09:00",
+      "news": [
+        {
+          "title": "\"영업익 10% 달라\" 파업 못한다…삼전닉스 돈잔치 제동에 '술렁' [김대영의 노무스쿨]",
+          "url": "https://www.hankyung.com/article/202609067131g",
+          "source": "한국경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[인사이드 스토리]'N% 성과급'에 칼 댄 정부…행정지침으론 부족한 이유",
+          "url": "https://v.daum.net/v/20260908065127834",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"이러지도 저러지도 못하는 아틀라스?\" 노란봉투법 지침 논란",
+          "url": "https://www.ytn.co.kr/_ln/0102_202609071207084511",
+          "source": "YTN",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "정우주": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T07:13:00+09:00",
+      "lastSeen": "2026-09-08T07:13:00+09:00",
+      "news": [
+        {
+          "title": "데뷔 1년차에 WBC 출전했던 특급유망주 서산행…2보 전진을 위한 1보 후퇴, 67세 노장도 그렇게 믿는다",
+          "url": "https://v.daum.net/v/20260907183949921?f=p",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "1군 복귀 후 ERA 18.90…한화 정우주, 다시 2군행",
+          "url": "https://www.newsis.com/view/NISX20260906_0003778124",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'ERA 18.90' 정우주가 사라졌다, 박재규 등록…'롯데전 싹쓸이 도전' 한화 라인업 발표! 심우준 톱타자-이도윤 2루수 [MD부산]",
+          "url": "https://m.news.nate.com/view/20260906n10630?issue_sq=8588",
+          "source": "네이트",
+          "date": "2026-09-07"
+        }
+      ]
     }
   },
   "sections": {
