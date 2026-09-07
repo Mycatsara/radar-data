@@ -442,10 +442,10 @@
       ]
     },
     "야구선수": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T04:40:00+09:00",
-      "lastSeen": "2026-09-08T05:41:00+09:00",
+      "lastSeen": "2026-09-08T06:12:00+09:00",
       "news": [
         {
           "title": "\"이 정도까진 아니었는데\"…이대호가 후배들에게 오타니 강조하는 이유",
@@ -480,10 +480,10 @@
       ]
     },
     "이가 시비옹테크": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T05:13:00+09:00",
-      "lastSeen": "2026-09-08T05:41:00+09:00",
+      "lastSeen": "2026-09-08T06:12:00+09:00",
       "news": [
         {
           "title": "잘 싸웠다, 이알라",
@@ -506,10 +506,10 @@
       ]
     },
     "조명우": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-08T05:41:00+09:00",
-      "lastSeen": "2026-09-08T05:41:00+09:00",
+      "lastSeen": "2026-09-08T06:12:00+09:00",
       "news": [
         {
           "title": "'전설 故 이상천 넘어 亞 최초 역사' 당구 신동 조명우, 6회 월드컵 우승…인간 줄자 또 꺾었다",
@@ -528,14 +528,26 @@
           "url": "https://www.mt.co.kr/sports/2026/09/07/2026090715484777561",
           "source": "머니투데이",
           "date": "2026-09-07"
+        },
+        {
+          "title": "조명우, 3쿠션 월드컵 통산 6승…이상천 넘어 아시아 최다 우승",
+          "url": "https://v.daum.net/v/20260907112257963",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "“역시 세계1위” 조명우, 야스퍼스에 완승 벨기에 리르3쿠션월드컵 정상…개인통산 6회 우승",
+          "url": "https://mkbn.mk.co.kr/news/sports/12145640",
+          "source": "mkbn.mk.co.kr",
+          "date": "2026-09-07"
         }
       ]
     },
     "이종범": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-08T05:41:00+09:00",
-      "lastSeen": "2026-09-08T05:41:00+09:00",
+      "lastSeen": "2026-09-08T06:12:00+09:00",
       "news": [
         {
           "title": "이종범 \"1600억 子 이정후, 차·시계 사줬지만..용돈 안 받아\" [남겨서][별별TV]",
@@ -554,14 +566,26 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/07/MJSDKNBUMVSGKYJTGM2WIZBZME/",
           "source": "조선일보",
           "date": "2026-09-07"
+        },
+        {
+          "title": "이종범, 子 이정후 결혼에 신중 \"엄마 같은 여자 만나길\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/08/2026090805371974366",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"그 돈이면 광주 땅 절반 샀는데\"…이종범, 父 빚 갚느라 잔고 '0원'",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779907",
+          "source": "뉴시스",
+          "date": "2026-09-07"
         }
       ]
     },
     "토토": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-08T05:41:00+09:00",
-      "lastSeen": "2026-09-08T05:41:00+09:00",
+      "lastSeen": "2026-09-08T06:12:00+09:00",
       "news": [
         {
           "title": "스포츠토토 대학생 기자단 '토파원 1기' 성공적으로 활동 마감…'톡톡 튀는 시선'으로 6개월간 콘텐츠 60건, 누적 조회수 1만3675회 기록",
@@ -584,10 +608,10 @@
       ]
     },
     "모범택시": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T05:41:00+09:00",
-      "lastSeen": "2026-09-08T05:41:00+09:00",
+      "lastSeen": "2026-09-08T06:12:00+09:00",
       "news": [
         {
           "title": "이제훈→배유람 ‘모범택시4’ 가상 캐스팅 난투극…‘연기의 성’, 오늘 시즌1 피날레",
@@ -631,6 +655,104 @@
           "title": "김형석 전 독립기념관장 복귀 불발…급여 지급은 확정",
           "url": "https://v.daum.net/v/20260907194451338?t=m&x_mn=6a9e9ed03c0d6c72cd86c5a8",
           "source": "Daum",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "엘체 대 레알 소시에다드": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T06:12:00+09:00",
+      "lastSeen": "2026-09-08T06:12:00+09:00",
+      "news": [
+        {
+          "title": "엘체 vs 레알 소시에다드 프리뷰: 상위권 경쟁의 뜨거운 승부",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-elche-vs-real-sociedad-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "라리가 엘체 대 레알 소시에다드 축구 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-elche-vs-real-sociedad-tai-la-liga-1762582.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "경제": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T06:12:00+09:00",
+      "lastSeen": "2026-09-08T06:12:00+09:00",
+      "news": [
+        {
+          "title": "[주춘렬 칼럼] 기대와 우려 교차하는 2기 경제팀",
+          "url": "https://www.segye.com/newsView/20260907514966",
+          "source": "세계일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "“추석 물가 못 잡으면 지명 철회” 경제부총리가 어쩌다[노원명 에세이]",
+          "url": "https://www.mk.co.kr/news/editorial/12145193",
+          "source": "매일경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"자신있나, 지명 취소할 수도\"…대통령의 농담 같은 경고",
+          "url": "https://news.jtbc.co.kr/article/NB12316182",
+          "source": "JTBC",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "택시": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T06:12:00+09:00",
+      "lastSeen": "2026-09-08T06:12:00+09:00",
+      "news": [
+        {
+          "title": "제주도, 구좌읍서 '지역책임택시' 10월 운행",
+          "url": "https://v.daum.net/v/20260907192950044",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "제주 중산간 교통 공백 메운다··· ‘책임택시제’ 10월 시범 운행",
+          "url": "https://www.khan.co.kr/article/202609071118001",
+          "source": "경향신문",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "버스 뜸한 구좌 중산간에 '책임택시' 달린다",
+          "url": "https://www.news1.kr/local/jeju/6282047",
+          "source": "뉴스1",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "준우승": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T06:12:00+09:00",
+      "lastSeen": "2026-09-08T06:12:00+09:00",
+      "news": [
+        {
+          "title": "'9전 10기' 최예림, 데뷔 8년 만에 첫 우승",
+          "url": "https://v.daum.net/v/XDG8tFOcz6?f=p",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "준우승 9번 끝에 첫 우승…9전 10기의 최예림",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8657044",
+          "source": "KBS 뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "준우승만 9번 최예림, KLPGA 읏맨 오픈에서 첫 우승(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260906035251007",
+          "source": "연합뉴스",
           "date": "2026-09-07"
         }
       ]
