@@ -1934,10 +1934,10 @@
       ]
     },
     "주민등록사실조사": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T09:22:00+09:00",
-      "lastSeen": "2026-09-07T09:47:00+09:00",
+      "lastSeen": "2026-09-07T10:12:00+09:00",
       "news": [
         {
           "title": "강동구, 복지사각지대 발굴 · 홍보 나섰다…주민등록 사실조사 연계",
@@ -2094,10 +2094,10 @@
       ]
     },
     "아스트라": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-07T09:47:00+09:00",
-      "lastSeen": "2026-09-07T09:47:00+09:00",
+      "lastSeen": "2026-09-07T10:12:00+09:00",
       "news": [
         {
           "title": "[마켓뷰] 오픈AI발 호재에 美반도체 급등…코스피도 강세 기대",
@@ -2116,14 +2116,20 @@
           "url": "https://www.mk.co.kr/news/stock/12145603",
           "source": "매일경제",
           "date": "2026-09-06"
+        },
+        {
+          "title": "젠슨 황 “AGI가 도착했다”…주목한 건 GPU 40만장 [이규화의 글로벌AI]",
+          "url": "https://v.daum.net/v/20260907084207400",
+          "source": "Daum",
+          "date": "2026-09-06"
         }
       ]
     },
     "아스트라 ai": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T09:47:00+09:00",
-      "lastSeen": "2026-09-07T09:47:00+09:00",
+      "lastSeen": "2026-09-07T10:12:00+09:00",
       "news": [
         {
           "title": "“또 새 AI야?”… 美·中 신모델 속도전에 커지는 ‘신모델 피로감’",
@@ -2142,14 +2148,26 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=214733",
           "source": "AI타임스",
           "date": "2026-09-06"
+        },
+        {
+          "title": "코스피, 오픈AI발 호재에 6,900선 탈환…코스닥은 1% 상승(종합)",
+          "url": "https://v.daum.net/v/20260907093501631",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "GPT6발 반도체 랠리…삼성전자·SK하이닉스 강��� - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/09/07/2026090709253749977",
+          "source": "머니투데이",
+          "date": "2026-09-06"
         }
       ]
     },
     "해군사관학교": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-07T09:47:00+09:00",
-      "lastSeen": "2026-09-07T09:47:00+09:00",
+      "lastSeen": "2026-09-07T10:12:00+09:00",
       "news": [
         {
           "title": "[단독] 軍, 해군사관학교 부지 ‘핵추진잠수함 기지’로 검토[이현호의 밀리터리!톡]",
@@ -2172,10 +2190,10 @@
       ]
     },
     "이민우": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-07T09:47:00+09:00",
-      "lastSeen": "2026-09-07T09:47:00+09:00",
+      "lastSeen": "2026-09-07T10:12:00+09:00",
       "news": [
         {
           "title": "'이민우♥' 이아미, 출산 후에도 청순미 여전해…둘째 딸 품에 안고 모성 눈빛 - 조선비즈",
@@ -2198,10 +2216,10 @@
       ]
     },
     "의사": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T09:47:00+09:00",
-      "lastSeen": "2026-09-07T09:47:00+09:00",
+      "lastSeen": "2026-09-07T10:12:00+09:00",
       "news": [
         {
           "title": "수술 등 중요한 의학적 선택 앞두고 환자 58%만 의사 설명 이해…\"환자 중심 의사결정 부족\"",
@@ -2222,6 +2240,91 @@
           "date": "2026-09-06"
         }
       ]
+    },
+    "여자 축구": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T10:12:00+09:00",
+      "lastSeen": "2026-09-07T10:12:00+09:00",
+      "news": [
+        {
+          "title": "U20 여자축구, 월드컵 첫 경기서 '강호' 프랑스와 1-1 무승부",
+          "url": "https://v.daum.net/v/FcENe7vm1Z",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "U-20 여자축구 대표팀, 월드컵 첫 경기서 프랑스와 1-1 무승부",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6850023_36946.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "한국 축구, U-20 여자 월드컵 첫판 프랑스와 1-1 무승부",
+          "url": "https://www.yna.co.kr/view/AKR20260907012100007",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "wec": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T10:12:00+09:00",
+      "lastSeen": "2026-09-07T10:12:00+09:00",
+      "news": [
+        {
+          "title": "Giovinazzi gives Ferrari pole for Lone Star Le Mans, as Aitken matches his lap time for second",
+          "url": "https://www.dive-bomb.com/article/giovinazzi-gives-ferrari-pole-for-lone-star-le-mans-as-aitken-matches-his-lap-time-for-second",
+          "source": "DIVEBOMB Motorsport",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Ferrari’s delight, Toyota’s misery at Lone Star Le Mans",
+          "url": "https://racer.com/2026/09/06/ferrari-s-delight-toyota-s-misery-at-lone-star-le-mans",
+          "source": "RACER.com",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Heartbreaking Final Minutes for Toyota Lead to Ferrari’s First WEC Win of the Year at COTA",
+          "url": "https://www.roadandtrack.com/news/a73626643/heartbreaking-final-minutes-for-toyota-lead-to-ferraris-first-wec-win-of-the-year-at-cota/",
+          "source": "Road & Track",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "sk그룹": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T10:12:00+09:00",
+      "lastSeen": "2026-09-07T10:12:00+09:00",
+      "news": [
+        {
+          "title": "전기차 빈자리 ESS가 채운다…K배터리 3사, 美서 새 성장축 확보",
+          "url": "https://v.daum.net/v/20260906060212878",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "SK온 ESS 수주로 목표치 45% 채워…DB손보·롯데지주 주주환원 부각 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/09/06/2026090610062125712",
+          "source": "머니투데이",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "국내 3차 ESS 수주전 임박…사업 규모 2조원대 커질듯",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01584246645577496",
+          "source": "마켓인",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "유럽": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T10:12:00+09:00",
+      "lastSeen": "2026-09-07T10:12:00+09:00",
+      "news": []
     }
   },
   "sections": {
