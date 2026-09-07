@@ -1115,10 +1115,10 @@
       ]
     },
     "적금": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-08T07:39:00+09:00",
-      "lastSeen": "2026-09-08T07:39:00+09:00",
+      "lastSeen": "2026-09-08T08:12:00+09:00",
       "news": [
         {
           "title": "충남 “중소기업 청년 살고 일하게” 목돈 마련 지원",
@@ -1318,6 +1318,240 @@
           "title": "춤추고 짐 나르는 로봇 집사·문자 받는 에어컨",
           "url": "https://imnews.imbc.com/replay/2026/nw930/article/6850042_36996.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "엄태웅": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T08:12:00+09:00",
+      "lastSeen": "2026-09-08T08:12:00+09:00",
+      "news": [
+        {
+          "title": "엄태웅 딸 엄지온, 훌쩍 커버린 근황…\"너무 길어\"",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779587",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'엄태웅·윤혜진 딸' 지온, 13세에 벌써 178㎝…고모 엄정화보다 크네!",
+          "url": "https://v.daum.net/v/20260908072328308",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘엄태웅♥’ 윤혜진, 뼈말라 중에도 뼈말라…허벅지가 팔뚝만하네",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/07/GQYWKMZVMVSDCM3CGUYTONJXGA/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "수원남문시장": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T08:12:00+09:00",
+      "lastSeen": "2026-09-08T08:12:00+09:00",
+      "news": [
+        {
+          "title": "수원남문시장, 밤이 살아났다…‘불취무귀’ 하루 1만명",
+          "url": "https://www.etoday.co.kr/news/view/2622689",
+          "source": "이투데이",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "K-POP과 야시장이 만난 수원남문시장… ‘1만 명’ 홀렸다",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363735999",
+          "source": "중부일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "수원특례시의회, 주말 전통시장·문화·체육 현장 잇달아 방문",
+          "url": "https://www.metroseoul.co.kr/article/20260906500116",
+          "source": "메트로신문",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "박지윤": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T08:12:00+09:00",
+      "lastSeen": "2026-09-08T08:12:00+09:00",
+      "news": [
+        {
+          "title": "‘8kg 감량’ 박지윤, 완벽 레깅스핏..운동하러 가서 화보 찍었네",
+          "url": "https://v.daum.net/v/20260908004209781",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'돌싱맘' 박지윤, 과감한 넥라인 돋보이는 운동복 \"영혼도 몸도 탈탈 털리고\" - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/08/G5RWEMTDGU4TAMRSGNTDQYRUGE/",
+          "source": "Chosunbiz",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "",
+          "url": "https://news.nate.com/view/20260907n34420",
+          "source": "네이트",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "아이유": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T08:12:00+09:00",
+      "lastSeen": "2026-09-08T08:12:00+09:00",
+      "news": [
+        {
+          "title": "아이유, 이종석과 결별 후 긴머리 싹뚝 잘랐다…단발 비주얼 “이 별로부터”",
+          "url": "https://v.daum.net/v/20260908073038394",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "아이유, 직접 작사한 새 싱글 ‘이 별로부터’ 트랙리스트 영상 공개…우주 배경",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260907/134617352/1",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[잇슈 컬처] ‘활동 중단’ 아이유, 이번 주 깜짝 신곡 발표",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8656032",
+          "source": "KBS 뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "화장품": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T08:12:00+09:00",
+      "lastSeen": "2026-09-08T08:12:00+09:00",
+      "news": [
+        {
+          "title": "'수출 2위' K뷰티 한자리에…화장품 국제협의체도 신설(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260907019551017",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "식약처, 화장품 국제협의체 신설…“해외 규제 강화 대응” - 조선비즈",
+          "url": "https://biz.chosun.com/distribution/fashion-beauty/2026/09/08/LPPL7FFTLNEMNK4IABO6KA75AM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "레페리, 제2회 ‘화장품의 날’ 복지부 장관 표창… “크리에이터 비즈니스 공로 인정”",
+          "url": "https://www.donga.com/news/Economy/article/all/20260907/134620526/1",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "전도연": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T08:12:00+09:00",
+      "lastSeen": "2026-09-08T08:12:00+09:00",
+      "news": [
+        {
+          "title": "한·프, 영화·영상산업에 각각 5억 유로 투자…\"위기를 기회로\"",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971416",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "李대통령, 美 영화협회 만나 \"韓 ��주주의·손재주 뛰어나\"",
+          "url": "https://v.daum.net/v/20260908064452742",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "오늘 한·프 정상회담…호르무즈 논의 주목",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8657219",
+          "source": "KBS 뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "교사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T08:12:00+09:00",
+      "lastSeen": "2026-09-08T08:12:00+09:00",
+      "news": [
+        {
+          "title": "\"교사 64% 학교 경제교육 미흡…기업가정신 모르는 교사도 절반\"",
+          "url": "https://www.yna.co.kr/view/AKR20260907120500003",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "창업 몰라서 못 권하는 교사들…교사 2명 중 1명 \"기업가 정신 몰라\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01620326645578152",
+          "source": "마켓인",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "교사 절반 가까이 기업가정신 인지도 낮아…\"연수 확대 필요\"",
+          "url": "https://www.newspim.com/news/view/20260907000877",
+          "source": "뉴스핌",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "박항서": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T08:12:00+09:00",
+      "lastSeen": "2026-09-08T08:12:00+09:00",
+      "news": [
+        {
+          "title": "'박항서 매직' 이제는 태국에서 계속된다...칸차나부리, 개막전부터 4-2 대역전승...강렬한 존재감",
+          "url": "https://v.daum.net/v/20260907161607468?f=p",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘박항서 매직’ 태국서도 곧바로 효과! 개막전 4-2 짜릿한 역전승",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=214468",
+          "source": "풋볼리스트",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "박항서 감독, 태국 프로축구 9월6일 킥오프... 재태국한인회, 9월 13일 교민 응원단 운영 : 아시아 한인뉴스",
+          "url": "https://newsk.net/asia/?idx=173710574&bmode=view",
+          "source": "뉴스케이",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "투자": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-08T08:12:00+09:00",
+      "lastSeen": "2026-09-08T08:12:00+09:00",
+      "news": [
+        {
+          "title": "(설명자료)대미투자 관련, 제1호 프로젝트는 확정된 바가 없습니다",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148971388",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "대미투자 1호 윤곽…텍사스 복합화력에 220억",
+          "url": "https://v.daum.net/v/20260908064038686",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'초대형 잭팟일까, 바가지일까'…美에 20조 원전 8기 짓는 韓",
+          "url": "https://www.hankyung.com/article/2026090795251",
+          "source": "한국경제",
           "date": "2026-09-07"
         }
       ]
