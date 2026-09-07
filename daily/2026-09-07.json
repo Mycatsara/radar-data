@@ -5108,10 +5108,10 @@
       ]
     },
     "임금체불": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T20:13:00+09:00",
-      "lastSeen": "2026-09-07T20:42:00+09:00",
+      "lastSeen": "2026-09-07T21:18:00+09:00",
       "news": [
         {
           "title": "노동부 전주지청, 추석 앞두고 150개 사업장 임금체불 전수 조사",
@@ -5380,10 +5380,10 @@
       ]
     },
     "장서희": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T20:42:00+09:00",
-      "lastSeen": "2026-09-07T20:42:00+09:00",
+      "lastSeen": "2026-09-07T21:18:00+09:00",
       "news": [
         {
           "title": "‘착한 가면’ 쓴 장서희, 본색 드러냈다…은밀한 만남 제안(‘욕망의 덫’)",
@@ -5453,6 +5453,214 @@
           "title": "차예련, 올화이트 룩으로 패션쇼 압도",
           "url": "https://www.newsinside.kr/news/articleView.html?idxno=4980856",
           "source": "뉴스인사이드",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "중수 청장": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "news": [
+        {
+          "title": "초대 중수청장 최종 후보에 검찰 출신 김지용 변호사",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850138_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+          "url": "https://v.daum.net/v/20260907180155538",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "혁신���, 검찰 출신 중수청장 후보에 “강력한 우려…검찰 관행 답습 가능성”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8656852",
+          "source": "KBS 뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "오스틴 딘": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "news": [
+        {
+          "title": "LG 오스틴, 김도영 전에 라모스 꼬리 보인다...구단 새 역사 홈런 눈앞",
+          "url": "https://v.daum.net/v/20260907110450849",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "가을야구 장담못한다... 5연패 두산 위기",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/06/MJSGMNTCMZSGIMRUGRSWGMLFGY/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[핌in잠실] '첫 승' 박시원까지 선발진 안착…LG, 4선발 체제 구축하나",
+          "url": "https://www.newspim.com/news/view/20260904000985",
+          "source": "뉴스핌",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "동해": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "news": [
+        {
+          "title": "Nuclear-capable warship that capsized when launched finally joins North Korea’s fleet",
+          "url": "https://www.cnn.com/2026/09/07/asia/north-korea-destroyer-commissioned-intl-hnk-ml",
+          "source": "CNN",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "North Korea commissions 2nd naval destroyer as US, South Korea and Japan begin a military drill",
+          "url": "https://www.politico.com/news/2026/09/06/north-korea-commissions-2nd-naval-destroyer-as-us-south-korea-and-japan-begin-a-military-drill-01066821",
+          "source": "Politico",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Kim Commissions Second Destroyer to Bolster Nuclear Naval Force",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-07/kim-commissions-second-destroyer-to-bolster-nuclear-naval-force",
+          "source": "Bloomberg",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "김종국": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "news": [
+        {
+          "title": "김종국, 결혼 1년 차 신혼밥상 공개…아내 ‘특급 내조’",
+          "url": "https://v.daum.net/v/20260907093548657",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "홍진경, 여전한 모델 몸매 비결 공개 \"외식하기 전 삶은 계란 먹는다\" (옥문아) - ���선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/07/GAYTMNTGG4ZGCOBXMUZTQMJVGU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘결혼 1년차’ 김종국, 달달 신혼 일상…“삼시세끼 함께 집밥” (옥문아)",
+          "url": "https://sports.donga.com/ent/article/all/20260907/134616852/1",
+          "source": "스포츠동아",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "빕스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "news": [
+        {
+          "title": "\"딱 2주만 맛본다\"⋯빕스, 생무화과 메뉴 3종 출시",
+          "url": "https://v.daum.net/v/20260907143509976",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "제일제면소, 풍요로운 계절의 맛 담은 ‘가을 산해진미‘ 신메뉴 출시",
+          "url": "https://cjnews.cj.net/%EC%A0%9C%EC%9D%BC%EC%A0%9C%EB%A9%B4%EC%86%8C-%ED%92%8D%EC%9A%94%EB%A1%9C%EC%9A%B4-%EA%B3%84%EC%A0%88%EC%9D%98-%EB%A7%9B-%EB%8B%B4%EC%9D%80-%EA%B0%80%EC%9D%84-%EC%82%B0%ED%95%B4%EC%A7%84/",
+          "source": "CJ 뉴스룸",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "CJ푸드빌 빕스, 가을 계절메뉴 ‘생무화과 스페셜’ 선보여",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=310534",
+          "source": "스트레이트뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "카페": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "news": [
+        {
+          "title": "파주 카페 냉동창고에 꽁꽁 언 시신…실종된 여성이었다",
+          "url": "https://v.daum.net/v/20260907150301489",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "실종 60대 여성, 파주 카페 냉동창고서 시신으로 발견",
+          "url": "https://www.donga.com/news/Society/article/all/20260907/134620356/1",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "파주 카페 냉동창고서 실종 여성 숨진 채 발견···경찰, 30대 점주 검거",
+          "url": "https://www.khan.co.kr/article/202609071543001",
+          "source": "경향신문",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "왕옌청": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "news": [
+        {
+          "title": "\"왕옌청, KIA도 영입 제안했지만 한화 선택\" 심재학 단장, 대만서 공개한 깜짝 비하인드",
+          "url": "https://v.daum.net/v/20260907135112611",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"대만의 고독한 왕자, KBO 10승 자랑스럽다\"…CPBL 회장, '타이중→부산→대전' 고행길 끝 왕옌청 격려 화제",
+          "url": "https://sports.news.nate.com/view/20260830n10955",
+          "source": "nate sports",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "대만 야구 투수 구린루이양, AG 야구 낙마…왕옌청은 승선(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260907146851007",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "광진구": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "news": [
+        {
+          "title": "광진구 '카톡 취득세 챗봇', 서울시 적극행정 사례 '최우수' 선정",
+          "url": "https://v.daum.net/v/20260907113529731",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[지금 구청은] 서초구, ‘통행방해 전기자전거 수거’ 적극행정 우수사례",
+          "url": "https://mbiz.heraldcorp.com/article/10864821",
+          "source": "헤럴드경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "광진구 ‘부동산 취득세 챗봇’, 서울시 적극행정 최우수 사례 선정",
+          "url": "https://www.munhwa.com/article/11615085",
+          "source": "문화일보",
           "date": "2026-09-07"
         }
       ]
