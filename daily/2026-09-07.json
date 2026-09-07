@@ -3575,6 +3575,266 @@
           "date": "2026-09-07"
         }
       ]
+    },
+    "김병기": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T15:47:00+09:00",
+      "lastSeen": "2026-09-07T15:47:00+09:00",
+      "news": [
+        {
+          "title": "경찰, 김병기 의원 뇌물·업무방해 구속영장 신청…수사 1년만(종합)",
+          "url": "https://v.daum.net/v/20260907145951286",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[속보] 경찰, '불법 정치자금 의혹' 등 김병기 의원 구속영장 오늘 신청 예정",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202609071432418842_005.html",
+          "source": "YTN",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "전직 보좌관 \"국수본이 김병기 의원 수사 뭉갰다\" 인권위 진정",
+          "url": "https://www.yna.co.kr/view/AKR20260907084800004",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "전재수": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T15:47:00+09:00",
+      "lastSeen": "2026-09-07T15:47:00+09:00",
+      "news": [
+        {
+          "title": "전재수-서지영 '북항 돔구장' 정면충돌…\"장관 때 검토\" 놓고 선거법 공방",
+          "url": "https://v.daum.net/v/20260907150605678",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[속보]국힘 부산시당 \"전재수, 돔구장 관련 허위사실 혐의로 오늘 고발\"",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260907.99099001950",
+          "source": "국제신문",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "국민의힘, 전재수 부산시장 허위사실 공표 혐의 고발 기자회견",
+          "url": "https://www.newsis.com/view/NISI20260907_0021426951",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "시우민": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T15:47:00+09:00",
+      "lastSeen": "2026-09-07T15:47:00+09:00",
+      "news": [
+        {
+          "title": "엑소 멤버 첸·백현·시우민, 소속사에 전속계약 효력정지 가처분",
+          "url": "https://www.yna.co.kr/view/AKR20260907029100004",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "엑소 첸백시, 전속계약 무효소송·가처분…차가원측 '무응대'(종합)",
+          "url": "https://v.daum.net/v/20260907111350356?t=m&x_mn=6a9e207ba2e9ff7ce622fe7d",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "첸백시, INB100에 전속계약 무효 소송 제기…가처분 심문 열려",
+          "url": "https://www.donga.com/news/Society/article/all/20260907/134618091/1",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "휘발유": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T15:47:00+09:00",
+      "lastSeen": "2026-09-07T15:47:00+09:00",
+      "news": [
+        {
+          "title": "이란, 반정부 시위 우려에도 '휘발유 가격' 인상",
+          "url": "https://v.daum.net/v/20260907060600500",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"미국 돈줄로 연명하는 이란\"… 안방 금융망 내어준 재무부의 굴욕 [지금이뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0545_202609071034239217",
+          "source": "YTN",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "이란 조이려는 트럼프, ‘환거래은행’ 맹점에 발목 잡혔다",
+          "url": "https://www.donga.com/news/Inter/article/all/20260907/134616691/1",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "계엄": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T15:47:00+09:00",
+      "lastSeen": "2026-09-07T15:47:00+09:00",
+      "news": [
+        {
+          "title": "윤석열, ‘선관위 서버 점검 위한 계엄’ 주장하려 국정원 간부 증인 신청",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1276519.html",
+          "source": "한겨레",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "SKY 정외과 학생회, '계엄 옹호' 윤상현 초청... 재학생 반발에 철회",
+          "url": "https://v.daum.net/v/20260907142236226",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "퇴임 이흥구 대법관 \"사법3법, 대법원위상 바꿀것…피해없게 점검\"",
+          "url": "https://www.yna.co.kr/view/AKR20260907068700004",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "선전포고": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T15:47:00+09:00",
+      "lastSeen": "2026-09-07T15:47:00+09:00",
+      "news": [
+        {
+          "title": "“독일, 전쟁 원한다…사실상 선전포고” 세계대전까지 거론한 상황 [배틀라인]",
+          "url": "https://www.seoul.co.kr/news/international/2026/09/07/20260907500084",
+          "source": "서울신문",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"유럽, 러 하이브리드 전쟁 억제 실패\"",
+          "url": "https://www.yna.co.kr/view/AKR20260907109000009",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'공항 폭발물 드론' 배후 지목에…러 외무 \"독일, 사실상 전쟁 선포\"",
+          "url": "https://www.newsis.com/view/NISX20260906_0003778275",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "성리": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T15:47:00+09:00",
+      "lastSeen": "2026-09-07T15:47:00+09:00",
+      "news": [
+        {
+          "title": "성리, 또 트로피 품에 안았다…'트로트 대세' 증명한 연타석 수상",
+          "url": "https://v.daum.net/v/20260907093736761",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[포토] 전유진, 2026 SKA 포토월서 포즈",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3686272",
+          "source": "국제뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[사진]성리, 젠틀한 수트",
+          "url": "https://www.osen.co.kr/article/G1112871045",
+          "source": "OSEN",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "삼성전자 채용": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T15:47:00+09:00",
+      "lastSeen": "2026-09-07T15:47:00+09:00",
+      "news": [
+        {
+          "title": "삼성, 2026년 하반기 공채 실시",
+          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1-2026%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%EA%B3%B5%EC%B1%84-%EC%8B%A4%EC%8B%9C",
+          "source": "Samsung Global Newsroom",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"올해 더 뽑을 여력\"…이재용號 삼성, 호실적에 청년 채용문 더 넓히나",
+          "url": "https://www.newsis.com/view/NISX20260907_0003778941",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "삼성, ‘70년 공채전통’ 이어간다…19개 계열사 하반기 신입채용 개시",
+          "url": "https://www.donga.com/news/Economy/article/all/20260907/134619419/1",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "배구 선수": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T15:47:00+09:00",
+      "lastSeen": "2026-09-07T15:47:00+09:00",
+      "news": [
+        {
+          "title": "배구 선수 루 티 후에가 아웃사이드 히터 비 티 누 퀸을 대신해 2020 아시안게임에 참가하게 되었습니다.",
+          "url": "https://www.vietnam.vn/ko/tuyen-thu-bong-chuyen-luu-thi-hue-thay-the-chu-cong-vi-thi-nhu-quynh-tham-du-asiad-20",
+          "source": "Vietnam.vn",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "허벌라이프, 베트남 대표팀과 함께 영양 지원 지속",
+          "url": "https://ko.laodong.vn/the-thao/herbalife-tiep-tuc-dong-hanh-dinh-duong-cung-cac-doi-tuyen-viet-nam-1759967.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "듀크 회장과 여자 축구에 관여하는 다른 클럽 구단주들…",
+          "url": "https://www.vietnam.vn/ko/bau-duc-va-nhung-ong-bau-lam-bong-da-nu",
+          "source": "Vietnam.vn",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "조원태": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T15:47:00+09:00",
+      "lastSeen": "2026-09-07T15:47:00+09:00",
+      "news": [
+        {
+          "title": "서울경찰청, 대한항공 지주사 한진칼 압수수색",
+          "url": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008741043",
+          "source": "m.news.sbs.co.kr",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"경영권 분쟁 또 터지나\"…한진칼, 한 달 새 주가 21% 급등",
+          "url": "https://www.hankyung.com/article/202609044832i",
+          "source": "한국경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "기타법인, 한진칼 16만주 '매집'...정체 드러내나",
+          "url": "https://v.daum.net/v/20260903145144778",
+          "source": "Daum",
+          "date": "2026-09-07"
+        }
+      ]
     }
   },
   "sections": {
