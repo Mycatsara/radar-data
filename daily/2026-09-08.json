@@ -2,10 +2,10 @@
   "date": "2026-09-08",
   "keywords": {
     "윤종훈": {
-      "count": 11,
+      "count": 12,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-08T00:13:00+09:00",
-      "lastSeen": "2026-09-08T05:13:00+09:00",
+      "lastSeen": "2026-09-08T05:41:00+09:00",
       "news": [
         {
           "title": "‘연예인 잉꼬 부부’ 또 탄생···‘펜트하우스’ 윤종훈, 10살 연하 배우 한은서와 결혼 알려",
@@ -40,10 +40,10 @@
       ]
     },
     "피의자": {
-      "count": 9,
+      "count": 10,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-08T00:13:00+09:00",
-      "lastSeen": "2026-09-08T05:13:00+09:00",
+      "lastSeen": "2026-09-08T05:41:00+09:00",
       "news": [
         {
           "title": "파주 카페 냉동창고서 실종 여성 숨진 채 발견···경찰, 30대 점주 검거",
@@ -352,10 +352,10 @@
       ]
     },
     "김새론": {
-      "count": 9,
-      "maxTraffic": 1000,
+      "count": 10,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-08T01:13:00+09:00",
-      "lastSeen": "2026-09-08T05:13:00+09:00",
+      "lastSeen": "2026-09-08T05:41:00+09:00",
       "news": [
         {
           "title": "김수현, 故김새론 유족 고소건 불송치·백진희 결혼·김옥빈 임신 [퇴근길연예]",
@@ -372,6 +372,18 @@
         {
           "title": "돌아온 김수현, 촬영 현장 포착..날렵한 턱선 [스타이슈]",
           "url": "https://v.daum.net/v/20260907203007385",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'사실상 종결' 혐의 벗은 김수현, 광고 촬영 공개…복귀 박차 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/08/2026090723320565698",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "김수현 ‘그루밍 의혹’ 무혐의로 사실상 종결…“증거 불충분”",
+          "url": "https://v.daum.net/v/20260907170001461",
           "source": "Daum",
           "date": "2026-09-07"
         }
@@ -430,10 +442,10 @@
       ]
     },
     "야구선수": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-08T04:40:00+09:00",
-      "lastSeen": "2026-09-08T05:13:00+09:00",
+      "lastSeen": "2026-09-08T05:41:00+09:00",
       "news": [
         {
           "title": "\"이 정도까진 아니었는데\"…이대호가 후배들에게 오타니 강조하는 이유",
@@ -452,14 +464,26 @@
           "url": "https://sports.donga.com/ent/article/all/20260908/134623728/1",
           "source": "스포츠동아",
           "date": "2026-09-07"
+        },
+        {
+          "title": "이대호 \"박용택은 해설할 때 말 길어, 3절까지 다 해\"",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779904",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "박용택→나지완 \"다시 태어나면 선발 투수하고 싶어\"",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/517504",
+          "source": "iMBC 연예",
+          "date": "2026-09-07"
         }
       ]
     },
     "이가 시비옹테크": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-08T05:13:00+09:00",
-      "lastSeen": "2026-09-08T05:13:00+09:00",
+      "lastSeen": "2026-09-08T05:41:00+09:00",
       "news": [
         {
           "title": "잘 싸웠다, 이알라",
@@ -477,6 +501,136 @@
           "title": "\"이알라, 니 땜시 산다\"...필리핀 뒤흔든 '이알라 현상' [박호윤의 IN&OUT]",
           "url": "https://news.tf.co.kr/read/column/2362412.htm",
           "source": "더팩트",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "조명우": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T05:41:00+09:00",
+      "lastSeen": "2026-09-08T05:41:00+09:00",
+      "news": [
+        {
+          "title": "'전설 故 이상천 넘어 亞 최초 역사' 당구 신동 조명우, 6회 월드컵 우승…인간 줄자 또 꺾었다",
+          "url": "https://v.daum.net/v/20260907134203265",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "세계 1위 조명우, 아시아 최초 당구 월드컵 ‘6번째 별’ 달았다",
+          "url": "https://www.chosun.com/sports/sports_general/2026/09/07/FSWDU3KHWFF4RD25URFTBFWOXM/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'세계 1위' 조명우 우승…18년 만의 대기록·아시아 최다 6승 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/07/2026090715484777561",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "이종범": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T05:41:00+09:00",
+      "lastSeen": "2026-09-08T05:41:00+09:00",
+      "news": [
+        {
+          "title": "이종범 \"1600억 子 이정후, 차·시계 사줬지만..용돈 안 받아\" [남겨서][별별TV]",
+          "url": "https://v.daum.net/v/20260907230352502",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "이종범 \"이정후 결혼 계획은 아직, 엄마 같은 여자 만나길\"",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779911",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'300억 연봉' 이정후 父 이종범, 직접 밝힌 며느리상...\"아직 짝 없어\" ('남겨서 뭐하게')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/07/MJSDKNBUMVSGKYJTGM2WIZBZME/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "토토": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T05:41:00+09:00",
+      "lastSeen": "2026-09-08T05:41:00+09:00",
+      "news": [
+        {
+          "title": "스포츠토토 대학생 기자단 '토파원 1기' 성공적으로 활동 마감…'톡톡 튀는 시선'으로 6개월간 콘텐츠 60건, 누적 조회수 1만3675회 기록",
+          "url": "https://www.chosun.com/sports/sports_general/2026/09/06/HAZTCNJSG44DSYJTHAYWENJYMM/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "“청년의 톡톡 튀는 시선, 건전한 스포츠 문화를 꽃피우다”…스포츠토토 대학생 기자단 ‘토파원 1기’ 6개월 대장정 마무리",
+          "url": "https://www.mk.co.kr/news/sports/12145175",
+          "source": "매일경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[토토 투데이] 대학생 눈으로 알린 스포츠토토 공익 가치…‘토파원 1기’ 6개월 대장정 마무리",
+          "url": "https://www.osen.co.kr/article/G1112869580",
+          "source": "OSEN",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "모범택시": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T05:41:00+09:00",
+      "lastSeen": "2026-09-08T05:41:00+09:00",
+      "news": [
+        {
+          "title": "이제훈→배유람 ‘모범택시4’ 가상 캐스팅 난투극…‘연기의 성’, 오늘 시즌1 피날레",
+          "url": "https://www.viva100.com/article/20260907500612",
+          "source": "브릿지경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "최고 시청률 21% 찍은 흥행 주역들, 다시 뭉쳤다…'모범택시' 멤버들 총출동한 '연기의 성'",
+          "url": "https://v.daum.net/v/20260907163109099",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "김의성 “셋 중 한 명 빠져야”…‘연기의 성’ 마지막 회, 모범택시4 캐스팅 전쟁",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16185098",
+          "source": "톱스타뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "독립기념관": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T05:41:00+09:00",
+      "lastSeen": "2026-09-08T05:41:00+09:00",
+      "news": [
+        {
+          "title": "대법 \"김형석 전 독립기념관장 해임 집행정지 기각…급여는 지급\" 확정",
+          "url": "https://www.yna.co.kr/view/AKR20260907149600004",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "독립기념관 '전·현직 관장에 동시 급여'…대법원에서 확정",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779770",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "김형석 전 독립기념관장 복귀 불발…급여 지급은 확정",
+          "url": "https://v.daum.net/v/20260907194451338?t=m&x_mn=6a9e9ed03c0d6c72cd86c5a8",
+          "source": "Daum",
           "date": "2026-09-07"
         }
       ]
