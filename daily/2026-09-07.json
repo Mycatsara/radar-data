@@ -2094,10 +2094,10 @@
       ]
     },
     "아스트라": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T09:47:00+09:00",
-      "lastSeen": "2026-09-07T10:12:00+09:00",
+      "lastSeen": "2026-09-07T10:41:00+09:00",
       "news": [
         {
           "title": "[마켓뷰] 오픈AI발 호재에 美반도체 급등…코스피도 강세 기대",
@@ -2122,14 +2122,20 @@
           "url": "https://v.daum.net/v/20260907084207400",
           "source": "Daum",
           "date": "2026-09-06"
+        },
+        {
+          "title": "\"AGI가 왔다\" 젠슨 황도 선언…수능 만점 받은 GPT-6 아스트라 - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/tech/2026/09/07/2026090710082313091",
+          "source": "머니투데이",
+          "date": "2026-09-06"
         }
       ]
     },
     "아스트라 ai": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T09:47:00+09:00",
-      "lastSeen": "2026-09-07T10:12:00+09:00",
+      "lastSeen": "2026-09-07T10:41:00+09:00",
       "news": [
         {
           "title": "“또 새 AI야?”… 美·中 신모델 속도전에 커지는 ‘신모델 피로감’",
@@ -2164,10 +2170,10 @@
       ]
     },
     "해군사관학교": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-07T09:47:00+09:00",
-      "lastSeen": "2026-09-07T10:12:00+09:00",
+      "lastSeen": "2026-09-07T10:41:00+09:00",
       "news": [
         {
           "title": "[단독] 軍, 해군사관학교 부지 ‘핵추진잠수함 기지’로 검토[이현호의 밀리터리!톡]",
@@ -2242,10 +2248,10 @@
       ]
     },
     "여자 축구": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-07T10:12:00+09:00",
-      "lastSeen": "2026-09-07T10:12:00+09:00",
+      "lastSeen": "2026-09-07T10:41:00+09:00",
       "news": [
         {
           "title": "U20 여자축구, 월드컵 첫 경기서 '강호' 프랑스와 1-1 무승부",
@@ -2268,10 +2274,10 @@
       ]
     },
     "wec": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T10:12:00+09:00",
-      "lastSeen": "2026-09-07T10:12:00+09:00",
+      "lastSeen": "2026-09-07T10:41:00+09:00",
       "news": [
         {
           "title": "Giovinazzi gives Ferrari pole for Lone Star Le Mans, as Aitken matches his lap time for second",
@@ -2294,10 +2300,10 @@
       ]
     },
     "sk그룹": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T10:12:00+09:00",
-      "lastSeen": "2026-09-07T10:12:00+09:00",
+      "lastSeen": "2026-09-07T10:41:00+09:00",
       "news": [
         {
           "title": "전기차 빈자리 ESS가 채운다…K배터리 3사, 美서 새 성장축 확보",
@@ -2325,6 +2331,110 @@
       "firstSeen": "2026-09-07T10:12:00+09:00",
       "lastSeen": "2026-09-07T10:12:00+09:00",
       "news": []
+    },
+    "비대면 주민등록 사실조사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T10:41:00+09:00",
+      "lastSeen": "2026-09-07T10:41:00+09:00",
+      "news": [
+        {
+          "title": "옥천군, 미참여 세대 주민등록 방문조사…9월 8일부터 11월 9일까지",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3686267",
+          "source": "국제뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "2026 주민등록 비대면 사실조사, 오늘(7일) 마감…GPS 설정 방법 보니",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16184714",
+          "source": "톱스��뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "부산 북구 화명3동, 「주민등록 비대면 사실조사 안내 현장창구」 시범 운영",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260831.99099009184",
+          "source": "국제신문",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "양현종": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T10:41:00+09:00",
+      "lastSeen": "2026-09-07T10:41:00+09:00",
+      "news": [
+        {
+          "title": "KIA 45억 투자 의아했는데, 위대한 클래스… 기대주 사라진 자리, 고목은 그대로 서 있다",
+          "url": "https://v.daum.net/v/20260907012149703",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "나성범, 전 구단 상대 홈런",
+          "url": "https://www.yna.co.kr/view/PYH20260905050100054",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "이범호 감독의 진심. '신기록'을 기원한 이유 → \"양현종이라는 선수가 마지막에 송진우 선배님의 기록을 갈아치우는 한 번 보고싶다\" [광주 현장]",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/07/MU2TQN3EHFRDMYLBGBRTAYJZHA/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "원서접수": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T10:41:00+09:00",
+      "lastSeen": "2026-09-07T10:41:00+09:00",
+      "news": [
+        {
+          "title": "2027 대입 수시 비중 확대…대구·경북권 10명 중 9명 뽑는다",
+          "url": "https://v.daum.net/v/20260907060310411",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "대학 입시를 향한 열정",
+          "url": "https://www.newsis.com/view/NISI20260906_0021425581",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "오늘(7일)부터 수시 원서접수 시작‥전체 인원의 80.3% 선발",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6849962_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "항공 승무원": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T10:41:00+09:00",
+      "lastSeen": "2026-09-07T10:41:00+09:00",
+      "news": [
+        {
+          "title": "진에어, 승무원 청바지 유니폼으로 소형 주머니 열쇠고리 제작",
+          "url": "https://v.daum.net/v/YpPVw9HlcG",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "진에어, 6일 유니폼 재활용한 미니 파우치 키링 증정 행사",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04237766645576840",
+          "source": "마켓인",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "승무원 청바지로 키링을?... 항공사들 별별 업사이클링",
+          "url": "https://www.chosun.com/economy/industry-company/2026/09/04/62ZP7K56YBGRDNKW34D32AGR4Y/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        }
+      ]
     }
   },
   "sections": {
