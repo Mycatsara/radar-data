@@ -2094,10 +2094,10 @@
       ]
     },
     "아스트라": {
-      "count": 3,
-      "maxTraffic": 500,
+      "count": 4,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-07T09:47:00+09:00",
-      "lastSeen": "2026-09-07T10:41:00+09:00",
+      "lastSeen": "2026-09-07T11:13:00+09:00",
       "news": [
         {
           "title": "[마켓뷰] 오픈AI발 호재에 美반도체 급등…코스피도 강세 기대",
@@ -2248,10 +2248,10 @@
       ]
     },
     "여자 축구": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T10:12:00+09:00",
-      "lastSeen": "2026-09-07T10:41:00+09:00",
+      "lastSeen": "2026-09-07T11:13:00+09:00",
       "news": [
         {
           "title": "U20 여자축구, 월드컵 첫 경기서 '강호' 프랑스와 1-1 무승부",
@@ -2274,10 +2274,10 @@
       ]
     },
     "wec": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T10:12:00+09:00",
-      "lastSeen": "2026-09-07T10:41:00+09:00",
+      "lastSeen": "2026-09-07T11:13:00+09:00",
       "news": [
         {
           "title": "Giovinazzi gives Ferrari pole for Lone Star Le Mans, as Aitken matches his lap time for second",
@@ -2296,14 +2296,26 @@
           "url": "https://www.roadandtrack.com/news/a73626643/heartbreaking-final-minutes-for-toyota-lead-to-ferraris-first-wec-win-of-the-year-at-cota/",
           "source": "Road & Track",
           "date": "2026-09-06"
+        },
+        {
+          "title": "LIVE: 2026 Lone Star Le Mans",
+          "url": "https://www.dive-bomb.com/article/live-2026-lone-star-le-mans",
+          "source": "DIVEBOMB Motorsport",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Hypercars Facing Reduced Stint Lengths at COTA",
+          "url": "https://sportscar365.com/lemans/wec/hypercars-facing-reduced-stint-lengths-at-cota/",
+          "source": "Sportscar365",
+          "date": "2026-09-06"
         }
       ]
     },
     "sk그룹": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T10:12:00+09:00",
-      "lastSeen": "2026-09-07T10:41:00+09:00",
+      "lastSeen": "2026-09-07T11:13:00+09:00",
       "news": [
         {
           "title": "전기차 빈자리 ESS가 채운다…K배터리 3사, 美서 새 성장축 확보",
@@ -2333,10 +2345,10 @@
       "news": []
     },
     "비대면 주민등록 사실조사": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T10:41:00+09:00",
-      "lastSeen": "2026-09-07T10:41:00+09:00",
+      "lastSeen": "2026-09-07T11:13:00+09:00",
       "news": [
         {
           "title": "옥천군, 미참여 세대 주민등록 방문조사…9월 8일부터 11월 9일까지",
@@ -2355,14 +2367,20 @@
           "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260831.99099009184",
           "source": "국제신문",
           "date": "2026-09-07"
+        },
+        {
+          "title": "옥천군, 주민등록 사실조사 방문조사 실시",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1180016",
+          "source": "금강일보",
+          "date": "2026-09-07"
         }
       ]
     },
     "양현종": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T10:41:00+09:00",
-      "lastSeen": "2026-09-07T10:41:00+09:00",
+      "lastSeen": "2026-09-07T11:13:00+09:00",
       "news": [
         {
           "title": "KIA 45억 투자 의아했는데, 위대한 클래스… 기대주 사라진 자리, 고목은 그대로 서 있다",
@@ -2385,10 +2403,10 @@
       ]
     },
     "원서접수": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T10:41:00+09:00",
-      "lastSeen": "2026-09-07T10:41:00+09:00",
+      "lastSeen": "2026-09-07T11:13:00+09:00",
       "news": [
         {
           "title": "2027 대입 수시 비중 확대…대구·경북권 10명 중 9명 뽑는다",
@@ -2407,14 +2425,26 @@
           "url": "https://imnews.imbc.com/news/2026/society/article/6849962_36918.html",
           "source": "MBC 뉴스",
           "date": "2026-09-07"
+        },
+        {
+          "title": "공수처 수사관 6급·7급 3명 공개 채용…18일까지 원서 접수",
+          "url": "https://www.yna.co.kr/view/AKR20260907054300004",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "공수처, 하반기 수사관 3명 채용…11일부터 원서 접수",
+          "url": "https://www.newsis.com/view/NISX20260907_0003778563",
+          "source": "뉴시스",
+          "date": "2026-09-07"
         }
       ]
     },
     "항공 승무원": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T10:41:00+09:00",
-      "lastSeen": "2026-09-07T10:41:00+09:00",
+      "lastSeen": "2026-09-07T11:13:00+09:00",
       "news": [
         {
           "title": "진에어, 승무원 청바지 유니폼으로 소형 주머니 열쇠고리 제작",
@@ -2432,6 +2462,58 @@
           "title": "승무원 청바지로 키링을?... 항공사들 별별 업사이클링",
           "url": "https://www.chosun.com/economy/industry-company/2026/09/04/62ZP7K56YBGRDNKW34D32AGR4Y/",
           "source": "조선일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "백진희": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T11:13:00+09:00",
+      "lastSeen": "2026-09-07T11:13:00+09:00",
+      "news": [
+        {
+          "title": "배우 백진희, 캐나다서 만난 연인과 내년 1월 결혼",
+          "url": "https://www.yna.co.kr/view/AKR20260907015500005",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘하이킥’ 백진희, 캐나다 거주 직장인과 내년 1월 결혼",
+          "url": "https://v.daum.net/v/20260907094950432",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "백진희, ���나다 어학연수서 만난 비연예인과 내년 1월 결혼 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/07/2026090709087213531",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "인천마라톤": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T11:13:00+09:00",
+      "lastSeen": "2026-09-07T11:13:00+09:00",
+      "news": [
+        {
+          "title": "‘국제 공인 풀코스’ 11월 인천마라톤 오늘부터 접수",
+          "url": "https://www.donga.com/news/People/article/all/20260906/134615765/2",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "인천 서해구, 출범 후 첫 '구청장배 단축마라톤대회' 성황리 개최",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=714844",
+          "source": "뉴스타운",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[패트롤] 인천시-인천시의회-인천시교육청",
+          "url": "https://m.ekn.kr/view.php?key=20260906024191070",
+          "source": "에너지경제신문",
           "date": "2026-09-07"
         }
       ]
