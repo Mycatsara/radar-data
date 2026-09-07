@@ -4191,10 +4191,10 @@
       ]
     },
     "분당구": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T17:15:00+09:00",
-      "lastSeen": "2026-09-07T17:43:00+09:00",
+      "lastSeen": "2026-09-07T18:14:00+09:00",
       "news": [
         {
           "title": "강남 6.8% 오를 때, 여긴 29.5% 뛰었다…아파트값 상승 1위 어디",
@@ -4229,10 +4229,10 @@
       ]
     },
     "하이닉스": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T17:15:00+09:00",
-      "lastSeen": "2026-09-07T17:43:00+09:00",
+      "lastSeen": "2026-09-07T18:14:00+09:00",
       "news": [
         {
           "title": "코스피, 오픈AI발 반도체 훈풍에 4.6% 급등…7,000선 턱밑(종합)",
@@ -4267,10 +4267,10 @@
       ]
     },
     "권혁빈": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T17:15:00+09:00",
-      "lastSeen": "2026-09-07T17:43:00+09:00",
+      "lastSeen": "2026-09-07T18:14:00+09:00",
       "news": [
         {
           "title": "‘8兆 재산’ 권혁빈 이혼소송 9일 첫 결론···스마일게이트 지배구조 시험대",
@@ -4288,6 +4288,12 @@
           "title": "[금주 재판일정] '이종섭 호주 도피 혐의' 윤석열 1심 선고",
           "url": "https://www.newspim.com/news/view/20260904000522",
           "source": "뉴스핌",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "권혁빈 '8조 이혼소송' 9일 1심 결과 주목, 스마일게이트 그룹 지배구조 흔들리나",
+          "url": "https://m.businesspost.co.kr/BP?command=mobile_view&num=446571",
+          "source": "비즈니스포스트",
           "date": "2026-09-07"
         }
       ]
@@ -4429,10 +4435,10 @@
       ]
     },
     "산삼": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-07T17:43:00+09:00",
-      "lastSeen": "2026-09-07T17:43:00+09:00",
+      "lastSeen": "2026-09-07T18:14:00+09:00",
       "news": [
         {
           "title": "지리산서 100년 묵은 천종산삼 등 11뿌리 발견…감정가 1억2000만원",
@@ -4455,17 +4461,36 @@
       ]
     },
     "배틀그라운드": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T17:43:00+09:00",
-      "lastSeen": "2026-09-07T17:43:00+09:00",
-      "news": []
+      "lastSeen": "2026-09-07T18:14:00+09:00",
+      "news": [
+        {
+          "title": "PUBG x 주술회전 - 뉴스 - PUBG: 배틀그라운드",
+          "url": "https://pubg.com/ko/news/10991",
+          "source": "PUBG: BATTLEGROUNDS",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "장병규 크래프톤 의장, 모디 인도 총리 만나…투자 확대",
+          "url": "https://www.yna.co.kr/view/AKR20260907036500017",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "장병규 크래프톤 의장, 모디 인도 총리와 회담",
+          "url": "https://sports.donga.com/sports/article/all/20260907/134620269/1",
+          "source": "스포츠동아",
+          "date": "2026-09-07"
+        }
+      ]
     },
     "기본소득당": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-07T17:43:00+09:00",
-      "lastSeen": "2026-09-07T17:43:00+09:00",
+      "lastSeen": "2026-09-07T18:14:00+09:00",
       "news": [
         {
           "title": "기본소득당 신임 대표 오준호…용혜인 배우자 박기홍 최고위원",
@@ -4484,14 +4509,26 @@
           "url": "https://news.jtbc.co.kr/article/NB12317107",
           "source": "JTBC",
           "date": "2026-09-07"
+        },
+        {
+          "title": "‘용혜인 배우자’ 박기홍, 기본소득당 논란 질문에 “당에서 하나하나 해명할 것”",
+          "url": "https://v.daum.net/v/1On0MUlwCy",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "기본소득당 전남광주시당 위원장은?…'신지혜 최고위원'",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779734",
+          "source": "뉴시스",
+          "date": "2026-09-07"
         }
       ]
     },
     "김지용 변호사": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T17:43:00+09:00",
-      "lastSeen": "2026-09-07T17:43:00+09:00",
+      "lastSeen": "2026-09-07T18:14:00+09:00",
       "news": [
         {
           "title": "[속보] 초대 중수청장 최종 후보에 검찰 출신 김지용 변호사",
@@ -4510,14 +4547,20 @@
           "url": "https://v.daum.net/v/20260907170312684",
           "source": "Daum",
           "date": "2026-09-07"
+        },
+        {
+          "title": "초대 중수청장 최종 후보에 '검찰 출신' 김지용…\"수사 공정성·전문성 고려\"",
+          "url": "https://v.daum.net/v/20260907175812330",
+          "source": "Daum",
+          "date": "2026-09-07"
         }
       ]
     },
     "김용현": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T17:43:00+09:00",
-      "lastSeen": "2026-09-07T17:43:00+09:00",
+      "lastSeen": "2026-09-07T18:14:00+09:00",
       "news": [
         {
           "title": "김용현 측 \"무인기 작전은 전면전 피한 심리전… 특검, 군 존재 이유 부인\"",
@@ -4529,6 +4572,58 @@
           "title": "尹 ‘평양 무인기’ 항소심…특검·변호인, 일반이적죄 ‘이적의사’ 놓고 공방",
           "url": "https://www.freezinenews.com/news/articleView.html?idxno=29443",
           "source": "프리진뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "김옥빈": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T18:14:00+09:00",
+      "lastSeen": "2026-09-07T18:14:00+09:00",
+      "news": [
+        {
+          "title": "김옥빈, 임신 발표…\"엄마 될 준비 중\"",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779325",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "김옥빈, 결혼 10개월 만에 임신…\"엄마 될 준비 중\"",
+          "url": "https://www.yna.co.kr/view/AKR20260907112900005",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "김옥빈, 결혼 10개월 만에 임신…“태명은 울루, 말띠 아이”",
+          "url": "https://biz.heraldcorp.com/article/10865146",
+          "source": "헤럴드경제",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "간암": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T18:14:00+09:00",
+      "lastSeen": "2026-09-07T18:14:00+09:00",
+      "news": [
+        {
+          "title": "림프절까지 번진 간암도 방사선치료 효과? 종양 반응률 최대 83.8%",
+          "url": "https://www.ibric.org/bric/trend/results-of-research.do?mode=view&articleNo=10053122",
+          "source": "BRIC",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "림프절까지 번진 간암, 방사선치료 받았더니?75%서 종양 줄거나 사라져",
+          "url": "https://news.nate.com/view/20260907n07653",
+          "source": "네이트",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "림프절 전이 간암, 방사선치료 반응률 83.8%",
+          "url": "http://www.medical-tribune.co.kr/news/articleView.html?idxno=215061",
+          "source": "메디칼트리뷴",
           "date": "2026-09-07"
         }
       ]
