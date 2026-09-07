@@ -1061,6 +1061,266 @@
           "date": "2026-09-07"
         }
       ]
+    },
+    "코레일 추석예매": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T07:39:00+09:00",
+      "lastSeen": "2026-09-08T07:39:00+09:00",
+      "news": [
+        {
+          "title": "추석 연휴 기차표는 통합된 코레일+앱에서 예매하세요",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148971347&pWise=sub&pWiseSub=R3",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "코레일 '2026 추석 승차권 예매'…경전선·중앙선·강릉선",
+          "url": "https://www.etoday.co.kr/news/view/2622821",
+          "source": "이투데이",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "오늘부터 추석 명절 승차권 예매 시작‥\"코레일+ 가입해야 예매 가능\"",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6849963_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "발견": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T07:39:00+09:00",
+      "lastSeen": "2026-09-08T07:39:00+09:00",
+      "news": [
+        {
+          "title": "파주 카페 냉동창고서 실종 여성 숨진 채 발견···경찰, 30대 점주 검거",
+          "url": "https://www.khan.co.kr/article/202609071543001",
+          "source": "경향신문",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘파주 카페 살인’ 피의자 사기 혐의 등 경찰 수사 확대",
+          "url": "https://www.donga.com/news/Society/article/all/20260908/134623949/1",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "카페 냉동창고서 여성 시신 발견‥수백억대 위조 상품권도",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850193_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "적금": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T07:39:00+09:00",
+      "lastSeen": "2026-09-08T07:39:00+09:00",
+      "news": [
+        {
+          "title": "충남 “중소기업 청년 살고 일하게” 목돈 마련 지원",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260908019005",
+          "source": "서울Pn",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "하나은행 충청하나그룹-충남도, 청년 자산형성 돕는다…'정착플러스 적금' 맞손",
+          "url": "https://v.daum.net/v/20260907174551768",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "대구시, '2026년 고용친화기업' 3개사 신규 선정",
+          "url": "https://www.newsis.com/view/NISX20260906_0003778112",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "야구 선수": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T07:39:00+09:00",
+      "lastSeen": "2026-09-08T07:39:00+09:00",
+      "news": [
+        {
+          "title": "\"돈에 쪼들려서 그랬습니다\"...'취객 지갑 슬쩍→DVD방서 부정 사용' 日 전직 프로야구 선수, 경찰에 체포",
+          "url": "https://v.daum.net/v/20260907165237094",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'짠한형' 이대호 \"나��완, 진짜 주당…물 대신 소주\" [RE:TV]",
+          "url": "https://v.daum.net/v/20260908053156600",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "이대호 \"박용택은 해설할 때 말 길어, 3절까지 다 해\"",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779904",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "sf": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T07:39:00+09:00",
+      "lastSeen": "2026-09-08T07:39:00+09:00",
+      "news": [
+        {
+          "title": "S.F. homeless service providers must prove their programs work. S.F. permitting software, not so much…",
+          "url": "https://missionlocal.org/2026/09/san-francisco-opengov-homeless-performance-based-contracting-permit/",
+          "source": "Mission Local",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "San Francisco advances up-to-$38M OpenGov permit deal",
+          "url": "https://sfstandard.com/2026/09/02/san-francisco-opengov-daniel-lurie-contract-software/",
+          "source": "The San Francisco Standard",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Daniel Lurie’s homeless reforms will finally deliver accountability",
+          "url": "https://www.yahoo.com/news/us/articles/daniel-lurie-homeless-reforms-finally-020652750.html",
+          "source": "Yahoo",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "홈플러스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T07:39:00+09:00",
+      "lastSeen": "2026-09-08T07:39:00+09:00",
+      "news": [
+        {
+          "title": "법원 인가는 끝났다…홈플러스, 이제 시장의 인가 받을 차례 [기자의눈]",
+          "url": "https://v.daum.net/v/20260908063156565",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "1.4조 실탄 확보 나선 홈플러스…점포 19곳 매각 돌입",
+          "url": "https://www.hankyung.com/article/202609077331g",
+          "source": "한국경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "홈플러스, 일단 살렸는데 살 곳이 없다?… 인수자 찾기 딜레마 - 조선비즈",
+          "url": "https://biz.chosun.com/distribution/channel/2026/09/07/G7VOQCXEEFHKTCU6D3DTPHLQZM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "삼성 갤럭시 z 폴드 8": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T07:39:00+09:00",
+      "lastSeen": "2026-09-08T07:39:00+09:00",
+      "news": [
+        {
+          "title": "갤폴드8에 빠진 1030세대…아이폰→갤폴드 환승 '2배 폭증'",
+          "url": "https://www.newsis.com/view/NISX20260907_0003778453",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'아재폰'이라 놀렸는데…1030女 꽂히자 폰케이스까지 '대박'",
+          "url": "https://www.hankyung.com/article/202609078606H",
+          "source": "한국경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "8월 번호이동 갤럭시Z8으로 ’후끈’…통신사별 희비 By EBN",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2085692",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "서울경제": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T07:39:00+09:00",
+      "lastSeen": "2026-09-08T07:39:00+09:00",
+      "news": [
+        {
+          "title": "Anthropic·OpenAI IPO 앞두고 조��� 세금손실 매도 촉발 우려",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2085897",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "AI 열풍에 전세계 억만장자 사상 최대...3795명이 세계 富 13% 독점",
+          "url": "https://v.daum.net/v/KCnbmDx2GK",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "돈 많은 부자 이렇게나 많다니...다들 어떻게 벌었나 봤더니",
+          "url": "https://www.sedaily.com/article/20087479",
+          "source": "서울경제",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "두만강": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T07:39:00+09:00",
+      "lastSeen": "2026-09-08T07:39:00+09:00",
+      "news": [
+        {
+          "title": "북러 잇는 두만강 자동차다리 개통…러 \"역사적 순간\"",
+          "url": "https://www.yna.co.kr/view/IPT20260907000016365?section=gallery/index",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "북러 자동차 다리 개통…우크라 \"군사 물류 통로\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01886006645578152",
+          "source": "마켓인",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "북-러 자동차다리 개통…김일성 구한 소련 장교 이름 붙여",
+          "url": "https://www.hani.co.kr/arti/international/asiapacific/1276689.html",
+          "source": "한겨레",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "휴머노이드": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T07:39:00+09:00",
+      "lastSeen": "2026-09-08T07:39:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 삼성 휴머노이드, 내년 CES서 첫선",
+          "url": "https://www.sedaily.com/article/20088079",
+          "source": "서울경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'C·P·R'로 본 IFA 2026…중국 물량 공세에 고효율·로봇 격전",
+          "url": "https://v.daum.net/v/20260908070211996",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "춤추고 짐 나르는 로봇 집사·문자 받는 에어컨",
+          "url": "https://imnews.imbc.com/replay/2026/nw930/article/6850042_36996.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-07"
+        }
+      ]
     }
   },
   "sections": {
