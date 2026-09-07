@@ -2948,10 +2948,10 @@
       ]
     },
     "소송": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-07T13:42:00+09:00",
-      "lastSeen": "2026-09-07T13:42:00+09:00",
+      "lastSeen": "2026-09-07T14:12:00+09:00",
       "news": [
         {
           "title": "\"군 복무 중 받은 군기교육 취소해달라\"…전역 병사 소송 각하",
@@ -2974,10 +2974,10 @@
       ]
     },
     "사위": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-07T13:42:00+09:00",
-      "lastSeen": "2026-09-07T13:42:00+09:00",
+      "lastSeen": "2026-09-07T14:12:00+09:00",
       "news": [
         {
           "title": "사위가 속옷만 입은 남자와 한 침대에? 딸 해외 출장 중 ‘충격’ (탐비)",
@@ -3000,10 +3000,10 @@
       ]
     },
     "맥스 할로웨이": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T13:42:00+09:00",
-      "lastSeen": "2026-09-07T13:42:00+09:00",
+      "lastSeen": "2026-09-07T14:12:00+09:00",
       "news": [
         {
           "title": "파르나스, UFC 데뷔전서 ‘톱10’ 후커에 1R TKO승",
@@ -3026,10 +3026,10 @@
       ]
     },
     "번트": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T13:42:00+09:00",
-      "lastSeen": "2026-09-07T13:42:00+09:00",
+      "lastSeen": "2026-09-07T14:12:00+09:00",
       "news": [
         {
           "title": "LG-삼성, 승부를 가른 결정적 장면",
@@ -3047,6 +3047,168 @@
           "title": "[포토] '6회말 후라도 찾은' 박진만 감독",
           "url": "https://m.news.nate.com/view/20260906n15293?mid=s01&list=recent&cpcd=",
           "source": "네이트",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'혼비백산' 견고한 LG 내야를 아주 뒤집어 놓으셨다, 잘못 걸리면 치명적이다 \"우리도 타격 있다\"",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/07/GJSGCZJYGRRWIZLEMUZGCZRQMI/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "afc u 20 아시안 컵": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T14:12:00+09:00",
+      "lastSeen": "2026-09-07T14:12:00+09:00",
+      "news": [
+        {
+          "title": "U-19 남자 축구대표팀, 조 1위로 아시안컵 본선 진출",
+          "url": "https://www.yna.co.kr/view/AKR20260907025500007",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "김정수호 U19 축구대표팀, 예선 조 1위로 U20 아시안컵 본선행",
+          "url": "https://v.daum.net/v/20260907083949323",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'10명으로 버텼다' U-19 대표팀, 키르기스스탄과 0-0 무승부... 아시안컵 예선 조 1위로 본선행 확정 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/07/2026090709192332190",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "스카이랩스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T14:12:00+09:00",
+      "lastSeen": "2026-09-07T14:12:00+09:00",
+      "news": [
+        {
+          "title": "‘CART 혈압계’, 심방세동·심부전 환자 혈압 측정 유용성 입증",
+          "url": "https://pharm.edaily.co.kr/News/Read?newsId=02102486645577824",
+          "source": "팜이데일리",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "스카이랩스, ESC서 커프리스 혈압계 임상 데이터 공개",
+          "url": "https://v.daum.net/v/20260907093445618",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "상장 첫날 스카이랩스 존재감 증명…삼익제약·페니트리움바이오도↑[바이오맥짚기]",
+          "url": "https://news.nate.com/view/20260907n04581",
+          "source": "네이트",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "혼슈": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T14:12:00+09:00",
+      "lastSeen": "2026-09-07T14:12:00+09:00",
+      "news": [
+        {
+          "title": "日혼슈 동부 폭우로 대피령·수도권 전철 운행 차질",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6850049_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "태풍 크로반 영향에 日 혼슈 동부 '물폭탄'…전철도 멈췄다",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03030726645577824",
+          "source": "마켓인",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[포토] 폭우 내리는 일본 도쿄",
+          "url": "https://v.daum.net/v/20260907134053226",
+          "source": "Daum",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "대우건설": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T14:12:00+09:00",
+      "lastSeen": "2026-09-07T14:12:00+09:00",
+      "news": [
+        {
+          "title": "[장중수급포착] 대우건설, 외국인/기관 동시 순매수… 주가 +5.28%",
+          "url": "https://www.newspim.com/news/view/20260907000596",
+          "source": "뉴스핌",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "대우건설 주가 상승 중",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3195635",
+          "source": "아시아뉴스통신",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "대우건설, 대규모 계약 공시 후 주가 상승세... 투자자 관심 집중 : 기업주식정보",
+          "url": "https://news.jkn.co.kr/post/977769",
+          "source": "재경일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "이루": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T14:12:00+09:00",
+      "lastSeen": "2026-09-07T14:12:00+09:00",
+      "news": [
+        {
+          "title": "'음주운전' 이루, 4년 만에 복귀했는데 또 안타까운 소식…\"무릎 연골판 파열\"",
+          "url": "https://v.daum.net/v/20260907101327723",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘음주운전 자숙’ 이루, 방송 복귀 후 안타까운 근황…“무릎 연골판 파열”",
+          "url": "https://biz.heraldcorp.com/article/10864686",
+          "source": "헤럴드경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'음주운전 자숙' 이루, 데뷔 21주년 자축 \"미안한 마음 커져\"",
+          "url": "https://m.news.nate.com/view/20260907n13387?mid=e01&list=recent&cpcd=",
+          "source": "네이트",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "파라타항공": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T14:12:00+09:00",
+      "lastSeen": "2026-09-07T14:12:00+09:00",
+      "news": [
+        {
+          "title": "파라타항공, 취항 1주년 프로모션… 365명에 항공권 등 경품",
+          "url": "https://www.viva100.com/article/20260907500312",
+          "source": "브릿지경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "파라타항공, 취항 1주년 프로모션…비즈니스·일반석 항공권 증��",
+          "url": "https://www.mk.co.kr/news/business/12145811",
+          "source": "매일경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'취항 1주년' 파라타항공, '365명 쏜다'…비즈니스 항공권 경품",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5059169",
+          "source": "신아일보",
           "date": "2026-09-07"
         }
       ]
