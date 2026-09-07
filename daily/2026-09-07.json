@@ -1708,10 +1708,10 @@
       ]
     },
     "디에고 시메오네": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-07T08:38:00+09:00",
-      "lastSeen": "2026-09-07T08:38:00+09:00",
+      "lastSeen": "2026-09-07T09:22:00+09:00",
       "news": [
         {
           "title": "'이강인 교체 이후 득점 기회 창출 어려웠다' 시메오네 감독도 인정…아틀레티코 마드리드, 시즌 첫 무득점 패배",
@@ -1734,10 +1734,10 @@
       ]
     },
     "동탄역 롯데캐슬": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T08:38:00+09:00",
-      "lastSeen": "2026-09-07T08:38:00+09:00",
+      "lastSeen": "2026-09-07T09:22:00+09:00",
       "news": [
         {
           "title": "\"자고 일어나면 억 단위로 뛴다\"…8년 만에 17억 껑충 뛴 '신고가 단지'",
@@ -1760,10 +1760,10 @@
       ]
     },
     "이정효": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-07T08:38:00+09:00",
-      "lastSeen": "2026-09-07T08:38:00+09:00",
+      "lastSeen": "2026-09-07T09:22:00+09:00",
       "news": [
         {
           "title": "또 다시 연승 실패한 안드레 감독 \"더 열심히 준비해야\"[현장 기자회견]",
@@ -1782,14 +1782,20 @@
           "url": "https://www.mt.co.kr/sports/2026/09/06/2026090621215375851",
           "source": "머니투데이",
           "date": "2026-09-06"
+        },
+        {
+          "title": "'AG 차출' 김준홍 걱정 없었다…김민준 3개월 만에 출전서 클린시트 \"운 좋게 골대 2번, 좀 더 착하게 살아야\" [현장인터뷰]",
+          "url": "https://v.daum.net/v/20260907083237121",
+          "source": "Daum",
+          "date": "2026-09-06"
         }
       ]
     },
     "대도서관": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-07T08:38:00+09:00",
-      "lastSeen": "2026-09-07T08:38:00+09:00",
+      "lastSeen": "2026-09-07T09:22:00+09:00",
       "news": [
         {
           "title": "대도서관, 뇌출혈로 갑작스럽게 세상 떠난 지 어느덧 1년…'1인 방송 선구자'",
@@ -1885,6 +1891,162 @@
           "title": "김정욱 농림축산식품부 농산업혁신정책실장, 나주 공공기관과 유기동물 입양 확산 앞장",
           "url": "https://www.kodominnews.com/news/articleView.html?idxno=79520",
           "source": "전국도민뉴스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "김소영": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T09:22:00+09:00",
+      "lastSeen": "2026-09-07T09:22:00+09:00",
+      "news": [
+        {
+          "title": "70억 투자→연이은 폐업..김소영, 입 열었다 \"아름답게 마무리\"[스타이슈]",
+          "url": "https://v.daum.net/v/QDblXCnQlC",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "“징징대기 싫어 내색 안해…” 김소영, 북클럽 사업 급 종료 후 자책 “나는 헛똑똑이”",
+          "url": "https://sports.khan.co.kr/article/202609061029003",
+          "source": "스포츠경향",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "‘오상진♥’ 김소영, 연이은 사업 종료에 밝힌 속사정..“내가 참 헛똑똑이었구나” - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/06/HBQWKYJSGM4GEOJQMY2TQNRTHA/",
+          "source": "Chosunbiz",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "주민등록사실조사": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T09:22:00+09:00",
+      "lastSeen": "2026-09-07T09:22:00+09:00",
+      "news": [
+        {
+          "title": "강동구, 복지사각지대 발굴 · 홍보 나섰다…주민등록 사실조사 연계",
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290645",
+          "source": "전국매일신문",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "동대문구, 단전·체납 등 위기신호 포착…1,822명 집중조사",
+          "url": "https://www.ddmissue.com/news_view.jsp?ncd=14702",
+          "source": "동대문 이슈",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "천안시 행복키움, 추석 나눔·위기가구 발굴 힘 모은다 > 뉴스",
+          "url": "https://icj.kr/news/57025",
+          "source": "천안신문",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "아시안 게임": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T09:22:00+09:00",
+      "lastSeen": "2026-09-07T09:22:00+09:00",
+      "news": [
+        {
+          "title": "업비트, ‘팀 코리아’ 응원 이어간다…동계올림픽 이어 아시안게임까지",
+          "url": "https://v.daum.net/v/20260907082843018",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "한국 전사들 출격 준비 완료...성큼 다가온 나고야 아시안게임서 뭘 봐야 할까?",
+          "url": "https://www.kyeonggi.com/article/20260906580277",
+          "source": "경기일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "선수촌 찾은 업비트, 아시안게임 출전 국가대표 응원",
+          "url": "https://zdnet.co.kr/view/?no=20260907082120",
+          "source": "지디넷코리아",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "agi": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T09:22:00+09:00",
+      "lastSeen": "2026-09-07T09:22:00+09:00",
+      "news": [
+        {
+          "title": "OpenAI's Astra Reveals Memory as Key to AI Performance",
+          "url": "https://www.chosun.com/english/industry-en/2026/09/07/PMXCUBHHHBHX3AOHT3O7AQ7A5Q/",
+          "source": "조선일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "OpenAI Launches Astra, Says AGI Era Has Arrived",
+          "url": "https://en.sedaily.com/international/2026/09/05/openai-launches-astra-says-agi-era-has-arrived",
+          "source": "Seoul Economic Daily",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"Strengths in Advanced Reasoning and Mathematics\" GPT-6 Astra Performance Reviewed... Price Also Up 2.5 Times",
+          "url": "https://www.asiae.co.kr/en/article/2026090415280432886",
+          "source": "아시아경제",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "교통": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T09:22:00+09:00",
+      "lastSeen": "2026-09-07T09:22:00+09:00",
+      "news": [
+        {
+          "title": "강릉시, 9일 장애인 특별교통수단·콜택시 무료 운영",
+          "url": "https://www.munhwa.com/article/11614920",
+          "source": "문화일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "강릉시, 장애인의 날 '행복콜·교통약자 콜택시' 무료 운행",
+          "url": "https://news.tf.co.kr/read/national/2362473.htm",
+          "source": "더팩트",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "제26회 강릉시 장애인의 날 맞아 특별교통수단 등 무료 운행",
+          "url": "http://www.koreasisailbo.com/2376512",
+          "source": "시사일보",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "최준희": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T09:22:00+09:00",
+      "lastSeen": "2026-09-07T09:22:00+09:00",
+      "news": [
+        {
+          "title": "최준희, 어마어마한 신혼집 한강뷰 공개…\"불꽃축제 직관 명당존\" [N샷]",
+          "url": "https://v.daum.net/v/20260906154557552",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "김준호♥김지민 ‘77평 신혼집’, 불꽃축제 명당이었네…집에서 직관",
+          "url": "https://www.donga.com/SODA/article/0210/20260906/134611785/1",
+          "source": "동아일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[스경X이슈] “우리 집 거실이 명당”…불꽃축제 마다 반복되는 ★‘한강뷰’ 계급 인증 논란",
+          "url": "https://sports.khan.co.kr/article/202609062237003",
+          "source": "스포츠경향",
           "date": "2026-09-06"
         }
       ]
