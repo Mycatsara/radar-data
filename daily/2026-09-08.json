@@ -1323,10 +1323,10 @@
       ]
     },
     "엄태웅": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-08T08:12:00+09:00",
-      "lastSeen": "2026-09-08T08:12:00+09:00",
+      "lastSeen": "2026-09-08T08:39:00+09:00",
       "news": [
         {
           "title": "엄태웅 딸 엄지온, 훌쩍 커버린 근황…\"너무 길어\"",
@@ -1345,14 +1345,26 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/07/GQYWKMZVMVSDCM3CGUYTONJXGA/",
           "source": "조선일보",
           "date": "2026-09-07"
+        },
+        {
+          "title": "엄태웅·윤혜진 딸 지온, 13세에 178cm…\"너무 길어\"",
+          "url": "https://v.daum.net/v/20260908081208306",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'엄태웅·윤혜진 딸' 지온, 13세에 벌써 178㎝…고모 엄정화보다 크네!",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6282855",
+          "source": "뉴스1",
+          "date": "2026-09-07"
         }
       ]
     },
     "수원남문시장": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-08T08:12:00+09:00",
-      "lastSeen": "2026-09-08T08:12:00+09:00",
+      "lastSeen": "2026-09-08T08:39:00+09:00",
       "news": [
         {
           "title": "수원남문시장, 밤이 살아났다…‘불취무귀’ 하루 1만명",
@@ -1375,10 +1387,10 @@
       ]
     },
     "박지윤": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-08T08:12:00+09:00",
-      "lastSeen": "2026-09-08T08:12:00+09:00",
+      "lastSeen": "2026-09-08T08:39:00+09:00",
       "news": [
         {
           "title": "‘8kg 감량’ 박지윤, 완벽 레깅스핏..운동하러 가서 화보 찍었네",
@@ -1401,10 +1413,10 @@
       ]
     },
     "아이유": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-08T08:12:00+09:00",
-      "lastSeen": "2026-09-08T08:12:00+09:00",
+      "lastSeen": "2026-09-08T08:39:00+09:00",
       "news": [
         {
           "title": "아이유, 이종석과 결별 후 긴머리 싹뚝 잘랐다…단발 비주얼 “이 별로부터”",
@@ -1552,6 +1564,162 @@
           "title": "'초대형 잭팟일까, 바가지일까'…美에 20조 원전 8기 짓는 韓",
           "url": "https://www.hankyung.com/article/2026090795251",
           "source": "한국경제",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "야구": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T08:39:00+09:00",
+      "lastSeen": "2026-09-08T08:39:00+09:00",
+      "news": [
+        {
+          "title": "“한국에 이런 투수가…” 日도 놀란 ‘부산의 오타니’, 151km 쾅! 5⅔이닝 무실점 12K 괴력투",
+          "url": "https://v.daum.net/v/9LNAfhLxlL",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "하현승, 12K 무실점 호투…U-18 대표팀, 대만에 2-0 승리",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260908082719czL",
+          "source": "연합뉴스TV",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "U-18 아시아청소년야구 홈팀인 대만 “한국 하현승·엄준상, 경계 1순위”",
+          "url": "https://www.khan.co.kr/article/202609072019005",
+          "source": "경향신문",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "이더리움": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T08:39:00+09:00",
+      "lastSeen": "2026-09-08T08:39:00+09:00",
+      "news": [
+        {
+          "title": "이더리움(ETH) 거래판 갈아엎는다...부테린 “90%는 단순화 가능”",
+          "url": "https://www.coinreaders.com/256840",
+          "source": "코인리더스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "이더리움 ‘프라이버시 강화’ 난관…증명 검증에 허용치 2배 가스 필요",
+          "url": "https://www.blockmedia.co.kr/archives/1136979",
+          "source": "블록미디어",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "이더리움재단, 2029년 양자내성 목표로 62개 EIP 평가",
+          "url": "https://www.tokenpost.kr/news/breaking/403862",
+          "source": "토큰포스트",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "오상진": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T08:39:00+09:00",
+      "lastSeen": "2026-09-08T08:39:00+09:00",
+      "news": [
+        {
+          "title": "\"난 헛똑똑이였구나\"…'오상진 아내' 김소영, 북클럽 돌연 폐업",
+          "url": "https://v.daum.net/v/20260907203251476",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "“난 헛똑똑이”…‘아나운서 출신’ 김소영, 쿠키 이어 북클럽도 폐업",
+          "url": "https://www.mk.co.kr/news/society/12145920",
+          "source": "매일경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "“댓글 왜 지워” 70억 CEO 김소영, 사업 종료 “헛똑똑이” 반성에도…팬들 불만ing[종합]",
+          "url": "https://m.newsen.com/news_view.php?uid=202609071113450310",
+          "source": "뉴스엔",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "나는 solo, 그 후 사랑은 계속된다": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T08:39:00+09:00",
+      "lastSeen": "2026-09-08T08:39:00+09:00",
+      "news": [
+        {
+          "title": "'나솔' 남규홍 PD, 이제는 결혼 다룬다…'계약결혼' 론칭",
+          "url": "https://v.daum.net/v/20260907165610253",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "결혼 실험 예능 '계약결혼' 28일 첫선…'나는 솔로' PD 연출",
+          "url": "https://www.yna.co.kr/view/AKR20260907036700005",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'나는 솔로' 남규홍 PD, 가상 결혼 예능 '계약결혼' 론칭",
+          "url": "https://www.hankookilbo.com/news/article/A2026090709470000013",
+          "source": "Hankookilbo",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "왕 옌청": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T08:39:00+09:00",
+      "lastSeen": "2026-09-08T08:39:00+09:00",
+      "news": [
+        {
+          "title": "한국 야구 희소식!…\"韓 선수들 꼭 군대 보내야\" 도발 대만, 日 AG 최종 명단 발표→구린루이양 왼쪽 옆구리 부상 낙마 \"왕옌청 합류 확정\"",
+          "url": "https://v.daum.net/v/20260907174951930",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "대만 야구 대표팀 에이스 구린루이양 AG 낙마…한화 왕옌청 승선",
+          "url": "https://www.news1.kr/sports/baseball/6282850",
+          "source": "뉴스1",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[공식발표] 류지현호, AG 金 가능성 UP! '곽빈 친구' 대만 에이스, 부상으로 끝내 하차→왕옌청 최종 발탁 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/07/2026090716210446756",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "주식": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-08T08:39:00+09:00",
+      "lastSeen": "2026-09-08T08:39:00+09:00",
+      "news": [
+        {
+          "title": "'카뱅' 앱에서도 주식 산다…카카오페이증권, 서비스 시작",
+          "url": "https://www.asiae.co.kr/article/2026090808204939164",
+          "source": "아시아경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "투자·대출 현황 한눈에…카카오뱅크, 홈 화면 개편 - 머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/09/07/2026090709040825475",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "하루 1000만건 클릭하는 카뱅 홈 바뀐다…계좌·투자·소비 한 눈에",
+          "url": "https://www.news1.kr/finance/general-finance/6281756",
+          "source": "뉴스1",
           "date": "2026-09-07"
         }
       ]
