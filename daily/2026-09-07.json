@@ -4835,10 +4835,10 @@
       ]
     },
     "afd": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-07T19:13:00+09:00",
-      "lastSeen": "2026-09-07T19:13:00+09:00",
+      "lastSeen": "2026-09-07T19:41:00+09:00",
       "news": [
         {
           "title": "Live-Ticker zur Wahl in Sachsen-Anhalt: Siegmund: „Überall eine andere Sprache“",
@@ -4857,14 +4857,20 @@
           "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-erkenntnisse-100.html",
           "source": "tagesschau.de",
           "date": "2026-09-07"
+        },
+        {
+          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: ++ Siegmund knüpft Kandidatur an stabile Mehrheit ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
+          "source": "tagesschau.de",
+          "date": "2026-09-07"
         }
       ]
     },
     "미국 휴장": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T19:13:00+09:00",
-      "lastSeen": "2026-09-07T19:13:00+09:00",
+      "lastSeen": "2026-09-07T19:41:00+09:00",
       "news": [
         {
           "title": "美 금융시장, 7일 노동절로 휴장",
@@ -4887,10 +4893,10 @@
       ]
     },
     "상장지수펀드": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T19:13:00+09:00",
-      "lastSeen": "2026-09-07T19:13:00+09:00",
+      "lastSeen": "2026-09-07T19:41:00+09:00",
       "news": [
         {
           "title": "\"매달 10% 분배금 따박따박\"…개미들 수백억씩 베팅하는 ETF",
@@ -4913,10 +4919,10 @@
       ]
     },
     "카카오 t": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T19:13:00+09:00",
-      "lastSeen": "2026-09-07T19:13:00+09:00",
+      "lastSeen": "2026-09-07T19:41:00+09:00",
       "news": [
         {
           "title": "카카오 자율차 가동률 82.5%…\"도시 운영이 상용화 관건\"",
@@ -4939,10 +4945,10 @@
       ]
     },
     "한화에너지": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T19:13:00+09:00",
-      "lastSeen": "2026-09-07T19:13:00+09:00",
+      "lastSeen": "2026-09-07T19:41:00+09:00",
       "news": []
     },
     "엑스포츠뉴스": {
@@ -4972,10 +4978,10 @@
       ]
     },
     "가상자산": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T19:13:00+09:00",
-      "lastSeen": "2026-09-07T19:13:00+09:00",
+      "lastSeen": "2026-09-07T19:41:00+09:00",
       "news": [
         {
           "title": "\"270만원 투자금, 60억 돼 돌아왔다\"...14년 만에 잠든 비트코인 찾은 60대男",
@@ -4993,6 +4999,110 @@
           "title": "거래소 폐쇄로 잃어버린 비트코인…12년 만에 '60억 잭팟'",
           "url": "https://www.etnews.com/20260907000434",
           "source": "전자신문",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "유가증권": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T19:41:00+09:00",
+      "lastSeen": "2026-09-07T19:41:00+09:00",
+      "news": [
+        {
+          "title": "한국거래소 \"무신사, 유가증권시장 상장예심 신청\"",
+          "url": "https://www.yna.co.kr/view/AKR20260907147200008",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "몸값만 무려 10조원…내년 상반기 IPO 최대어 무신사, 코스피 상장 채비",
+          "url": "https://stock.mk.co.kr/news/view/1154815",
+          "source": "매일경제 마켓",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "무신사, 상장 시동…유가증권시장에 상장 예심 청구",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433794",
+          "source": "연합인포맥스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "박성광": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T19:41:00+09:00",
+      "lastSeen": "2026-09-07T19:41:00+09:00",
+      "news": [
+        {
+          "title": "'박성광♥' 이솔이, 이 휴양지룩이 이 가격? \"무려 8천원 착장\" - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/07/HFRTMYJRGNRGMYLCGJRGKODCMY/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"피부 거의 핵폭격 수준\" 이솔이, 얼굴 섬유종 제거 후 모습 공개",
+          "url": "https://www.newsis.com/view/NISX20260907_0003778620",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'박성광♥' 이솔이, 복근+등 근육 완벽한데 \"기름진 거 과식했다\"",
+          "url": "https://www.osen.co.kr/article/G1112871215",
+          "source": "OSEN",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "한혜진": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T19:41:00+09:00",
+      "lastSeen": "2026-09-07T19:41:00+09:00",
+      "news": [
+        {
+          "title": "‘트로트 디바’ 한혜진 “두 번째 남편 먼저 하늘나라로…지금은 혼자 있는 게 편하다”",
+          "url": "https://www.donga.com/news/Culture/article/all/20260907/134618250/2",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'60세' 한혜진, 결혼 두 번·남편 사별…\"인생이 그렇더라\" (알토란)",
+          "url": "https://v.daum.net/v/20260907102909649",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "한혜진 \"사별한 남편 완벽한 내 이상형이었는데…\"",
+          "url": "https://www.newsis.com/view/NISX20260906_0003778178",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "용 혜인": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T19:41:00+09:00",
+      "lastSeen": "2026-09-07T19:41:00+09:00",
+      "news": [
+        {
+          "title": "용혜인黨, 비례의원직 사퇴 일축…“새로운 선례 만들어지는 것”",
+          "url": "https://www.donga.com/news/Politics/article/all/20260907/134619546/2",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "기본소득당 \"용혜인 겸직해야…새로운 길 시도해야 선례 만들어져\"",
+          "url": "https://www.asiae.co.kr/article/2026090718225409306",
+          "source": "아시아경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "용혜인, 의원직 사퇴 여부 등 각종 의혹에 “청문회서 말씀 드리겠다”",
+          "url": "https://www.kwnews.co.kr/article/20260907500378",
+          "source": "강원일보",
           "date": "2026-09-07"
         }
       ]
