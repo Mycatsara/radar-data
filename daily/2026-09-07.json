@@ -5496,10 +5496,10 @@
       ]
     },
     "오스틴 딘": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T21:18:00+09:00",
-      "lastSeen": "2026-09-07T22:14:00+09:00",
+      "lastSeen": "2026-09-07T22:43:00+09:00",
       "news": [
         {
           "title": "LG 오스틴, 김도영 전에 라모스 꼬리 보인다...구단 새 역사 홈런 눈앞",
@@ -5534,10 +5534,10 @@
       ]
     },
     "동해": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-07T21:18:00+09:00",
-      "lastSeen": "2026-09-07T22:14:00+09:00",
+      "lastSeen": "2026-09-07T22:43:00+09:00",
       "news": [
         {
           "title": "Nuclear-capable warship that capsized when launched finally joins North Korea’s fleet",
@@ -5726,10 +5726,10 @@
       ]
     },
     "이소나": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T21:46:00+09:00",
-      "lastSeen": "2026-09-07T22:14:00+09:00",
+      "lastSeen": "2026-09-07T22:43:00+09:00",
       "news": [
         {
           "title": "“우리 소나가 정말 큰일 해냈구나”⋯고향 무대 함께한 부모님",
@@ -5764,10 +5764,10 @@
       ]
     },
     "김지찬": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T21:46:00+09:00",
-      "lastSeen": "2026-09-07T22:14:00+09:00",
+      "lastSeen": "2026-09-07T22:43:00+09:00",
       "news": [
         {
           "title": "'어제는 홈런 오늘은 4안타' 삼성 김현준 무력시위, '부상 복귀' 김상준도 2안타 맹활약",
@@ -5802,10 +5802,10 @@
       ]
     },
     "스토킹": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T21:46:00+09:00",
-      "lastSeen": "2026-09-07T22:14:00+09:00",
+      "lastSeen": "2026-09-07T22:43:00+09:00",
       "news": [
         {
           "title": "전 연인 스토킹 수사받던 30대 숨져…경찰 “사건 종결”",
@@ -5828,10 +5828,10 @@
       ]
     },
     "의료": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-07T22:14:00+09:00",
-      "lastSeen": "2026-09-07T22:14:00+09:00",
+      "lastSeen": "2026-09-07T22:43:00+09:00",
       "news": [
         {
           "title": "대전을지대병원, 지역응급의료센터 재지정",
@@ -5850,14 +5850,26 @@
           "url": "https://www.newsis.com/view/NISX20260907_0003779318",
           "source": "뉴시스",
           "date": "2026-09-07"
+        },
+        {
+          "title": "1인당 1000만 원 쓰는 ‘큰손’ 몽골…의료관광객 유치 본격화",
+          "url": "https://www.donga.com/news/Culture/article/all/20260907/134621685/2",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "몽골 의료관광객 1인당 988만원 쓴다…관광공사, 광산도시 공략",
+          "url": "https://www.asiae.co.kr/article/2026090722195539931",
+          "source": "아시아경제",
+          "date": "2026-09-07"
         }
       ]
     },
     "종합격투기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T22:14:00+09:00",
-      "lastSeen": "2026-09-07T22:14:00+09:00",
+      "lastSeen": "2026-09-07T22:43:00+09:00",
       "news": [
         {
           "title": "유튜브 방송 중 20대 목 졸라 기절시킨 조폭 출신 격투기선수",
@@ -5876,14 +5888,20 @@
           "url": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008740869",
           "source": "m.news.sbs.co.kr",
           "date": "2026-09-07"
+        },
+        {
+          "title": "조폭 출신 격투기 선수, 일반인에 ‘길로틴 초크’…경찰 수사 중",
+          "url": "https://v.daum.net/v/20260907092407088",
+          "source": "Daum",
+          "date": "2026-09-07"
         }
       ]
     },
     "미군": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T22:14:00+09:00",
-      "lastSeen": "2026-09-07T22:14:00+09:00",
+      "lastSeen": "2026-09-07T22:43:00+09:00",
       "news": [
         {
           "title": "\"'아프간 마지막 미군장병'의 퇴역…그 뒤엔 美국방장관의 몽니\"",
@@ -5901,6 +5919,58 @@
           "title": "‘역대급 인재’ 아프간 마지막 미군, 퇴역 이면엔 헤그세스 몽니",
           "url": "https://www.donga.com/news/Inter/article/all/20260907/134619204/1",
           "source": "동아일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "이동국": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T22:43:00+09:00",
+      "lastSeen": "2026-09-07T22:43:00+09:00",
+      "news": [
+        {
+          "title": "이동국, 아들 시안 축구 반대했다…\"항상 '아버지 누구다' 따라붙어\"",
+          "url": "https://www.segye.com/newsView/20260907513380",
+          "source": "세계일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "",
+          "url": "https://news.nate.com/view/20260907n20336",
+          "source": "네이트",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "이동국, \"쟤 인성이 왜 ��래?\" 13살 子시안 비난에 속상한 심경 고백 [순간포착]",
+          "url": "https://v.daum.net/v/20260907175438123",
+          "source": "Daum",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "fcl": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T22:43:00+09:00",
+      "lastSeen": "2026-09-07T22:43:00+09:00",
+      "news": [
+        {
+          "title": "FINEOS Corporation (ASX: FCL) — Is This Insurance Software Stock Worth a Place on Your Watchlist?",
+          "url": "https://kalkine.com.au/news/technology/fineos-corporation-asx-fcl-is-this-insurance-software-stock-worth-a-place-on-your-watchlist",
+          "source": "Kalkine",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Why FINEOS Corporation (ASX: FCL) Could Be a Stock to Watch Into the Final Months of 2026",
+          "url": "https://kalkine.com.au/news/technology/why-fineos-corporation-asx-fcl-could-be-a-stock-to-watch-into-the-final-months-of-2026",
+          "source": "Kalkine",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "FINEOS Corporation (ASX:FCL) Dips 1.9% — What the 1H26 Results Say About the Growth Turnaround",
+          "url": "https://kalkine.com.au/news/technology/fineos-corporation-asxfcl-dips-19-what-the-1h26-results-say-about-the-growth-turnaround",
+          "source": "Kalkine",
           "date": "2026-09-07"
         }
       ]
