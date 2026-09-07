@@ -4647,10 +4647,10 @@
       ]
     },
     "사랑이 온다": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-07T18:43:00+09:00",
-      "lastSeen": "2026-09-07T18:43:00+09:00",
+      "lastSeen": "2026-09-07T19:13:00+09:00",
       "news": [
         {
           "title": "하석진, 권해효 아들이었다…이주연, 아빠 고백에 충격(‘사랑이 온다’) - 조선비즈",
@@ -4669,14 +4669,20 @@
           "url": "https://sports.khan.co.kr/article/202609071403003",
           "source": "스포츠경향",
           "date": "2026-09-07"
+        },
+        {
+          "title": "하석진, 권해효 아들이었다…이주연, 아빠 고백에 충격(‘사랑이 온다’)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/07/GNSTKY3GGQ3TMOJWMFSDSZRRGU/",
+          "source": "조선일보",
+          "date": "2026-09-07"
         }
       ]
     },
     "블랙록": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-07T18:43:00+09:00",
-      "lastSeen": "2026-09-07T18:43:00+09:00",
+      "lastSeen": "2026-09-07T19:13:00+09:00",
       "news": [
         {
           "title": "블랙록, HLB·LG디플 지분 '반토막'…하루에 수천억어치 쏟아냈다",
@@ -4699,10 +4705,10 @@
       ]
     },
     "오 스탈": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-07T18:43:00+09:00",
-      "lastSeen": "2026-09-07T18:43:00+09:00",
+      "lastSeen": "2026-09-07T19:13:00+09:00",
       "news": [
         {
           "title": "[단독] 오스탈 CEO \"한화 인수 제안, 美 국방부 수뇌부 지지 받아\"",
@@ -4824,6 +4830,169 @@
           "title": "AAM 테크 챌린지서 인하대 'DOK4' 대상",
           "url": "https://zdnet.co.kr/view/?no=20260906111420",
           "source": "지디넷코리아",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "afd": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T19:13:00+09:00",
+      "lastSeen": "2026-09-07T19:13:00+09:00",
+      "news": [
+        {
+          "title": "Live-Ticker zur Wahl in Sachsen-Anhalt: Siegmund: „Überall eine andere Sprache“",
+          "url": "https://www.bild.de/politik/inland/live-ticker-zur-wahl-in-sachsen-anhalt-afd-verpasst-absolute-mehrheit-6a8bed59c3692834ff6dab50",
+          "source": "BILD",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Internationale Presse zur Wahl in Sachsen-Anhalt: »Eine persönliche Demütigung für Friedrich Merz«",
+          "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-internationale-pressestimmen-zur-landtagswahl-a-ca4fecb1-09cd-44e8-a3a6-0bff827bb322",
+          "source": "Spiegel",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Warum der Kanzler wackelt - und weitere Lehren aus der Wahl in Sachsen-Anhalt",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-erkenntnisse-100.html",
+          "source": "tagesschau.de",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "미국 휴장": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T19:13:00+09:00",
+      "lastSeen": "2026-09-07T19:13:00+09:00",
+      "news": [
+        {
+          "title": "美 금융시장, 7일 노동절로 휴장",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433680",
+          "source": "연합인포맥스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "미국 주식·증시 시장 휴장일 및 시간…이유는",
+          "url": "https://v.daum.net/v/20260907060239362",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "뉴욕증시, 美 노동절 맞아 7일 하루 휴장",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=852924",
+          "source": "뉴스웍스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "상장지수펀드": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T19:13:00+09:00",
+      "lastSeen": "2026-09-07T19:13:00+09:00",
+      "news": [
+        {
+          "title": "\"매달 10% 분배금 따박따박\"…개미들 수백억씩 베팅하는 ETF",
+          "url": "https://www.hankyung.com/article/202609078951i",
+          "source": "한국경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "신규 ETF 28종에 7440억 몰렸다…삼성 KODEX 선전 '눈길'",
+          "url": "https://v.daum.net/v/2HxIdhLxaY",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "해외형 커버드콜 ETF 누가 잘하나 봤더니… 한투운용 돋보였다",
+          "url": "https://news.mtn.co.kr/news-detail/2026090605421415935",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "카카오 t": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T19:13:00+09:00",
+      "lastSeen": "2026-09-07T19:13:00+09:00",
+      "news": [
+        {
+          "title": "카카오 자율차 가동률 82.5%…\"도시 운영이 상용화 관건\"",
+          "url": "https://www.yna.co.kr/view/AKR20260907102500017",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "엔비디아 \"자율주행으로 교통사고 사망자 없는 날 올 것\"",
+          "url": "https://v.daum.net/v/20260907141931066",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "기조연설 하는 스티븐 한 웨이모 전무",
+          "url": "https://www.newsis.com/view/NISI20260907_0021426556",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "한화에너지": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T19:13:00+09:00",
+      "lastSeen": "2026-09-07T19:13:00+09:00",
+      "news": []
+    },
+    "엑스포츠뉴스": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T19:13:00+09:00",
+      "lastSeen": "2026-09-07T19:13:00+09:00",
+      "news": [
+        {
+          "title": "‘입국 금지’ 유승준 “인생에 후회 없다면 거짓말이지만…”",
+          "url": "https://www.mk.co.kr/news/hot-issues/12145801",
+          "source": "매일경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "유승준 \"인생에 후회 없다면 거짓말\"…'비자취소' 소송 2심 앞둔 심경 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/07/2026090710593843457",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘병역기피’ 유승준 “난 참 행복한 사람”",
+          "url": "https://v.daum.net/v/20260907100710369",
+          "source": "Daum",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "가상자산": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T19:13:00+09:00",
+      "lastSeen": "2026-09-07T19:13:00+09:00",
+      "news": [
+        {
+          "title": "\"270만원 투자금, 60억 돼 돌아왔다\"...14년 만에 잠든 비트코인 찾은 60대男",
+          "url": "https://www.fnnews.com/news/202609071313483682",
+          "source": "파이낸셜뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "“270만원 넣었는데 60억원 됐다”…14년 만에 되찾은 비트코인 ‘초대박’",
+          "url": "https://www.sedaily.com/article/20088061",
+          "source": "서울경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "거래소 폐쇄로 잃어버린 비트코인…12년 만에 '60억 잭팟'",
+          "url": "https://www.etnews.com/20260907000434",
+          "source": "전자신문",
           "date": "2026-09-07"
         }
       ]
