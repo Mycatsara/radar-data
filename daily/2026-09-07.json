@@ -3058,10 +3058,10 @@
       ]
     },
     "afc u 20 아시안 컵": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-07T14:12:00+09:00",
-      "lastSeen": "2026-09-07T14:12:00+09:00",
+      "lastSeen": "2026-09-07T14:41:00+09:00",
       "news": [
         {
           "title": "U-19 남자 축구대표팀, 조 1위로 아시안컵 본선 진출",
@@ -3084,10 +3084,10 @@
       ]
     },
     "스카이랩스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T14:12:00+09:00",
-      "lastSeen": "2026-09-07T14:12:00+09:00",
+      "lastSeen": "2026-09-07T14:41:00+09:00",
       "news": [
         {
           "title": "‘CART 혈압계’, 심방세동·심부전 환자 혈압 측정 유용성 입증",
@@ -3106,14 +3106,26 @@
           "url": "https://news.nate.com/view/20260907n04581",
           "source": "네이트",
           "date": "2026-09-07"
+        },
+        {
+          "title": "[특징주] 스카이랩스, 상장 이틀째 상한가…공모가 대비 3배 넘게 올라",
+          "url": "https://v.daum.net/v/20260907140710378",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "스카이랩스, ESC서 커프리스 혈압계 임상 데이터 공개",
+          "url": "https://www.fnnews.com/news/202609070932441192",
+          "source": "파이낸셜뉴스",
+          "date": "2026-09-07"
         }
       ]
     },
     "혼슈": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T14:12:00+09:00",
-      "lastSeen": "2026-09-07T14:12:00+09:00",
+      "lastSeen": "2026-09-07T14:41:00+09:00",
       "news": [
         {
           "title": "日혼슈 동부 폭우로 대피령·수도권 전철 운행 차질",
@@ -3132,14 +3144,26 @@
           "url": "https://v.daum.net/v/20260907134053226",
           "source": "Daum",
           "date": "2026-09-07"
+        },
+        {
+          "title": "일본 혼슈 동부 폭우로 대피령·수도권 전철 운행 차질",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609071406273828",
+          "source": "YTN",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "日 도쿄도 ‘최고단계’ 토사 재해 경보…40만 명 대피 지시·수도권 철도 차질",
+          "url": "https://v.daum.net/v/20260907142208211",
+          "source": "Daum",
+          "date": "2026-09-07"
         }
       ]
     },
     "대우건설": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T14:12:00+09:00",
-      "lastSeen": "2026-09-07T14:12:00+09:00",
+      "lastSeen": "2026-09-07T14:41:00+09:00",
       "news": [
         {
           "title": "[장중수급포착] 대우건설, 외국인/기관 동시 순매수… 주가 +5.28%",
@@ -3212,6 +3236,137 @@
           "date": "2026-09-07"
         }
       ]
+    },
+    "sk스퀘어": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T14:41:00+09:00",
+      "lastSeen": "2026-09-07T14:41:00+09:00",
+      "news": [
+        {
+          "title": "210만원→100만원대…닉스·SK스퀘어 주가, 폭등 뒤 폭락 ‘한몸’",
+          "url": "https://stock.mk.co.kr/news/view/1154328",
+          "source": "매일경제 마켓",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "“하닉 믿고 샀는데” ‘218만원→94만원’ 주가 반토막…‘이 주식’ 목표가마저 ‘뚝’",
+          "url": "https://www.sedaily.com/article/20087736",
+          "source": "서울경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "HBM 경쟁 격화, SK스퀘어 주가 급락…증권가 목표가 줄하향",
+          "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1054127",
+          "source": "내외뉴스통신",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "장효조": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T14:41:00+09:00",
+      "lastSeen": "2026-09-07T14:41:00+09:00",
+      "news": [
+        {
+          "title": "Jang Hyo-jo’s legacy inspires Samsung’s 2026 push for KBO crown - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-sports/2026/09/07/6K5SM4EUCRHN3GPGQLPC4OWDVQ/",
+          "source": "Chosunbiz",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Samsung Honors Jang Hyo-jo's 15th Anniversary",
+          "url": "https://www.chosun.com/english/sports-en/2026/09/07/46I4UHHO3RFFLDY7Z4EUFPOTUA/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "성심당": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T14:41:00+09:00",
+      "lastSeen": "2026-09-07T14:41:00+09:00",
+      "news": [
+        {
+          "title": "전국 빵집 다 제쳤다…대전 성심당, 브랜드평판 1위 질주",
+          "url": "https://v.daum.net/v/20260907104549625",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[빅데이터로본다] 제과제빵 전문점 2026년 9월 브랜드평판... 1위 성심당, 2위 뚜레쥬르, 3위 던킨도너츠",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=790063",
+          "source": "일간투데이",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "성심당, 9월 제과제빵 브랜드평판 1위…뚜레쥬르·던킨도너츠 추격",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484327",
+          "source": "핀포인트뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "fc 바르셀로나": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-07T14:41:00+09:00",
+      "lastSeen": "2026-09-07T14:41:00+09:00",
+      "news": [
+        {
+          "title": "바르셀로나, 발렌시아 5-0 대파…스페인 라리가 선두 질주",
+          "url": "https://www.newsis.com/view/NISX20260907_0003778384",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"초대박!\" FC바르셀로나 '7000만 파운드 스타' 앤서니 고든, 역사적 기록 작성…스페인 프리메라리가 4경기-4어시스트 '영입 옳았다'",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/07/GY3WEMLFMQ3WGMDGGM3DSZDDGA/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘이강인 공짜 이적’ 그 구단주 큰일 났다···“피터 림 나가” 바르사전 0-5 완패 꼴찌 추락, 발렌시아 팬 ...",
+          "url": "https://sports.khan.co.kr/article/202609070849003",
+          "source": "스포츠경향",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "뉴스1": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T14:41:00+09:00",
+      "lastSeen": "2026-09-07T14:41:00+09:00",
+      "news": [
+        {
+          "title": "성범죄에 경찰 못믿겠다던 용혜인…보완수사권 폐지에는 찬성표",
+          "url": "https://v.daum.net/v/20260907134151251",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "겸직·배우자·사당화의혹·언더조직…용혜인 청문회 '첩첩산중'",
+          "url": "https://www.yna.co.kr/view/AKR20260907093700530",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "장동혁 “이번 개각, 李 ‘국민포기’ 선언…어떻게 이런 사람들만 골랐는지”",
+          "url": "https://www.kyeonggi.com/article/20260907580088",
+          "source": "경기일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "오스탈": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T14:41:00+09:00",
+      "lastSeen": "2026-09-07T14:41:00+09:00",
+      "news": []
     }
   },
   "sections": {
