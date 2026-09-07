@@ -2357,10 +2357,10 @@
       "news": []
     },
     "비대면 주민등록 사실조사": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T10:41:00+09:00",
-      "lastSeen": "2026-09-07T11:13:00+09:00",
+      "lastSeen": "2026-09-07T12:13:00+09:00",
       "news": [
         {
           "title": "옥천군, 미참여 세대 주민등록 방문조사…9월 8일부터 11월 9일까지",
@@ -2384,6 +2384,12 @@
           "title": "옥천군, 주민등록 사실조사 방문조사 실시",
           "url": "https://www.ggilbo.com/news/articleView.html?idxno=1180016",
           "source": "금강일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "내일부터 '주민등록 사실조사' 직접방문…고령·위기가구 중점",
+          "url": "https://www.newsis.com/view/NISX20260907_0003778755",
+          "source": "뉴시스",
           "date": "2026-09-07"
         }
       ]
@@ -2491,10 +2497,10 @@
       ]
     },
     "백진희": {
-      "count": 2,
-      "maxTraffic": 2000,
+      "count": 3,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-07T11:13:00+09:00",
-      "lastSeen": "2026-09-07T11:41:00+09:00",
+      "lastSeen": "2026-09-07T12:13:00+09:00",
       "news": [
         {
           "title": "배우 백진희, 캐나다서 만난 연인과 내년 1월 결혼",
@@ -2519,14 +2525,20 @@
           "url": "https://sports.khan.co.kr/article/202609070924003",
           "source": "스포츠경향",
           "date": "2026-09-07"
+        },
+        {
+          "title": "[공식]백진희, 내년 1월 결혼…캐나다서 운명의 짝 만났다",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/09/07/GNRGGMTBG5RGEOJRGU2DMOJTGE/",
+          "source": "조선일보",
+          "date": "2026-09-07"
         }
       ]
     },
     "인천마라톤": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T11:13:00+09:00",
-      "lastSeen": "2026-09-07T11:41:00+09:00",
+      "lastSeen": "2026-09-07T12:13:00+09:00",
       "news": [
         {
           "title": "‘국제 공인 풀코스’ 11월 인천마라톤 오늘부터 접수",
@@ -2551,21 +2563,27 @@
           "url": "https://v.daum.net/v/20260907043429577",
           "source": "Daum",
           "date": "2026-09-07"
+        },
+        {
+          "title": "[패트롤] 인천시-인천시의회-인천시교육청",
+          "url": "https://www.ekn.kr/web/view.php?key=20260906024191070",
+          "source": "에너지경제신문",
+          "date": "2026-09-07"
         }
       ]
     },
     "제주특별자치도": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-07T11:41:00+09:00",
-      "lastSeen": "2026-09-07T11:41:00+09:00",
+      "lastSeen": "2026-09-07T12:13:00+09:00",
       "news": []
     },
     "티빙 보상": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-07T11:41:00+09:00",
-      "lastSeen": "2026-09-07T11:41:00+09:00",
+      "lastSeen": "2026-09-07T12:13:00+09:00",
       "news": [
         {
           "title": "티빙, 오늘부터 개인정보 피해 보상 신청…탈퇴자는 재가입해야",
@@ -2588,10 +2606,10 @@
       ]
     },
     "주병기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T11:41:00+09:00",
-      "lastSeen": "2026-09-07T11:41:00+09:00",
+      "lastSeen": "2026-09-07T12:13:00+09:00",
       "news": [
         {
           "title": "[단독] 21년 만에 부활하는 ‘재계 저승사자’…주병기 “쿠팡 같은 중대 사건 배치”",
@@ -2609,6 +2627,110 @@
           "title": "'현장조사 거부' 초유의 사태…공정위, 쿠팡 조사 속도",
           "url": "https://v.daum.net/v/20260906191932272",
           "source": "Daum",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "내셔널스 대 다저스": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T12:13:00+09:00",
+      "lastSeen": "2026-09-07T12:13:00+09:00",
+      "news": [
+        {
+          "title": "사라진 오타니, 대안은 한국계라고?…\"엄청난 야구 선수\" 사령탑 극찬까지",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/07/MJRGGNLDHE2DOMBRMY3TQMZZG4/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "다저스 오타니, 3경기 연속 결장…부상자 명단 올라가나",
+          "url": "https://www.yna.co.kr/view/AKR20260906012700007",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[오늘의 MLB] (9/6) 토미 에드먼, 역전 결승 스리런 홈런...다저스 3연승 질주!",
+          "url": "https://contents.premium.naver.com/mlbtoday/mlb/contents/260906172913789lh",
+          "source": "네이버 프리미엄콘텐츠",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "농협은행": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T12:13:00+09:00",
+      "lastSeen": "2026-09-07T12:13:00+09:00",
+      "news": [
+        {
+          "title": "“배우자 대신 왔어요” 계좌 3개 열어준 농협은행…과태료 2600만원 철퇴",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000009632",
+          "source": "국민일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "대리권 확인 없이 계좌 3개…농협은행 과태료 2590만원",
+          "url": "https://v.daum.net/v/20260907103752164",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "농협銀, '배우자 대신 계좌 개설' 고객확인의무 위반…과태료 2590만원",
+          "url": "https://www.news1.kr/finance/general-finance/6281765",
+          "source": "뉴스1",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "openai": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T12:13:00+09:00",
+      "lastSeen": "2026-09-07T12:13:00+09:00",
+      "news": [
+        {
+          "title": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind/",
+          "source": "OpenAI",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "AI models are becoming unknowable",
+          "url": "https://www.axios.com/2026/09/04/astra-openai-how-ai-models-think",
+          "source": "Axios",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences'",
+          "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
+          "source": "Business Insider",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "이수지": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T12:13:00+09:00",
+      "lastSeen": "2026-09-07T12:13:00+09:00",
+      "news": [
+        {
+          "title": "이수지 ‘재선거 시위 저격’ 1달만에 유튜브 복귀…이번엔 ‘약사’로 변신",
+          "url": "https://v.daum.net/v/20260907113410638",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "정치색 논란 딛고 돌아온 이수지, 42일 만의 복귀 영상에 엇갈린 네티즌 반응 [소셜in]",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/517438",
+          "source": "iMBC 연예",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"박위야 고맙다\" 이수지, 은근슬쩍 유튜브 복귀…논란된 영상은 '삭제'",
+          "url": "https://m.news.nate.com/view/20260907n04052?issue_sq=10098&mid=e0608",
+          "source": "네이트",
           "date": "2026-09-07"
         }
       ]
