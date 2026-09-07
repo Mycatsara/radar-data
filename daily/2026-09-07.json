@@ -1896,10 +1896,10 @@
       ]
     },
     "김소영": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-07T09:22:00+09:00",
-      "lastSeen": "2026-09-07T09:22:00+09:00",
+      "lastSeen": "2026-09-07T09:47:00+09:00",
       "news": [
         {
           "title": "70억 투자→연이은 폐업..김소영, 입 열었다 \"아름답게 마무리\"[스타이슈]",
@@ -1918,14 +1918,26 @@
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/06/HBQWKYJSGM4GEOJQMY2TQNRTHA/",
           "source": "Chosunbiz",
           "date": "2026-09-06"
+        },
+        {
+          "title": "‘오상진♥’ 김소영, 연이은 사업 종료에 밝힌 속사정..“내가 참 헛똑똑이었구나”",
+          "url": "https://v.daum.net/v/20260906095036862",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "김소영, 쿠키 사업 접더니 북클럽도 종료…\"여러 사정 겹쳐\"",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777434",
+          "source": "뉴시스",
+          "date": "2026-09-06"
         }
       ]
     },
     "주민등록사실조사": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-07T09:22:00+09:00",
-      "lastSeen": "2026-09-07T09:22:00+09:00",
+      "lastSeen": "2026-09-07T09:47:00+09:00",
       "news": [
         {
           "title": "강동구, 복지사각지대 발굴 · 홍보 나섰다…주민등록 사실조사 연계",
@@ -1944,14 +1956,26 @@
           "url": "https://icj.kr/news/57025",
           "source": "천안신문",
           "date": "2026-09-06"
+        },
+        {
+          "title": "천안 동남구, ‘밀착복지’ 데이터로 위기가구 찾는다",
+          "url": "https://www.viva100.com/article/20260907500193",
+          "source": "브릿지경제",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "영월군, 취약계층 집중 발굴 기간 운영",
+          "url": "https://www.chamnews.net/news/articleView.html?idxno=242383",
+          "source": "참뉴스",
+          "date": "2026-09-06"
         }
       ]
     },
     "아시안 게임": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T09:22:00+09:00",
-      "lastSeen": "2026-09-07T09:22:00+09:00",
+      "lastSeen": "2026-09-07T09:47:00+09:00",
       "news": [
         {
           "title": "업비트, ‘팀 코리아’ 응원 이어간다…동계올림픽 이어 아시안게임까지",
@@ -1970,14 +1994,20 @@
           "url": "https://zdnet.co.kr/view/?no=20260907082120",
           "source": "지디넷코리아",
           "date": "2026-09-06"
+        },
+        {
+          "title": "업비트, 아시안게임 국가대표 응원…비트코인 담은 카드 전달",
+          "url": "https://www.news1.kr/finance/blockchain-fintech/6281689",
+          "source": "뉴스1",
+          "date": "2026-09-06"
         }
       ]
     },
     "agi": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T09:22:00+09:00",
-      "lastSeen": "2026-09-07T09:22:00+09:00",
+      "lastSeen": "2026-09-07T09:47:00+09:00",
       "news": [
         {
           "title": "OpenAI's Astra Reveals Memory as Key to AI Performance",
@@ -1996,14 +2026,26 @@
           "url": "https://www.asiae.co.kr/en/article/2026090415280432886",
           "source": "아시아경제",
           "date": "2026-09-06"
+        },
+        {
+          "title": "KOSPI Surges 3% as U.S. AI Demand Boosts Samsung, SK Hynix",
+          "url": "https://www.chosun.com/english/market-money-en/2026/09/07/5RCUSPPVUFAMJPSTEKTUIVRAUA/",
+          "source": "조선일보",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "Chip Stocks Surge in Korea After OpenAI's Astra Launch",
+          "url": "https://en.sedaily.com/finance/2026/09/07/chip-stocks-surge-in-korea-after-openais-astra-launch",
+          "source": "Seoul Economic Daily",
+          "date": "2026-09-06"
         }
       ]
     },
     "교통": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T09:22:00+09:00",
-      "lastSeen": "2026-09-07T09:22:00+09:00",
+      "lastSeen": "2026-09-07T09:47:00+09:00",
       "news": [
         {
           "title": "강릉시, 9일 장애인 특별교통수단·콜택시 무료 운영",
@@ -2047,6 +2089,136 @@
           "title": "[스경X이슈] “우리 집 거실이 명당”…불꽃축제 마다 반복되는 ★‘한강뷰’ 계급 인증 논란",
           "url": "https://sports.khan.co.kr/article/202609062237003",
           "source": "스포츠경향",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "아스트라": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T09:47:00+09:00",
+      "lastSeen": "2026-09-07T09:47:00+09:00",
+      "news": [
+        {
+          "title": "[마켓뷰] 오픈AI발 호재에 美반도체 급등…코스피도 강세 기대",
+          "url": "https://v.daum.net/v/20260907080638446",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "오픈AI '아스트라', 보안·안전 기능도 막강...7대 기능 살펴보니",
+          "url": "https://zdnet.co.kr/view/?no=20260906142425",
+          "source": "지디넷코리아",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "“월요일에 삼전닉스의 시간 옵니까”…GPT-6에 불붙은 美반도체",
+          "url": "https://www.mk.co.kr/news/stock/12145603",
+          "source": "매일경제",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "아스트라 ai": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T09:47:00+09:00",
+      "lastSeen": "2026-09-07T09:47:00+09:00",
+      "news": [
+        {
+          "title": "“또 새 AI야?”… 美·中 신모델 속도전에 커지는 ‘신모델 피로감’",
+          "url": "https://v.daum.net/v/20260907084750591",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "감당 못할 만큼 첨단 AI 모델 줄줄이 공개…기업들 'AI 모델 피로'",
+          "url": "https://news.nate.com/view/20260907n03187",
+          "source": "네이트",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[9월2일] 캐시 가격 75% 내렸는데 비용은 20% 올랐다…페이블 5.1의 ‘토큰 역설’",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214733",
+          "source": "AI타임스",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "해군사관학교": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T09:47:00+09:00",
+      "lastSeen": "2026-09-07T09:47:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 軍, 해군사관학교 부지 ‘핵추진잠수함 기지’로 검토[이현호의 밀리터리!톡]",
+          "url": "https://www.sedaily.com/article/20087726",
+          "source": "서울경제",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "잇따르는 ‘난제’…시험대 오른 경상남도",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8655311",
+          "source": "KBS 뉴스",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "국민의힘 대전시당 \"국군사관학교 창설, 서울에서 육사 빼내기\" 비판",
+          "url": "https://v.daum.net/v/ff5PsMUZ5z",
+          "source": "Daum",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "이민우": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-07T09:47:00+09:00",
+      "lastSeen": "2026-09-07T09:47:00+09:00",
+      "news": [
+        {
+          "title": "'이민우♥' 이아미, 출산 후에도 청순미 여전해…둘째 딸 품에 안고 모성 눈빛 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/06/MEYDGOBYHFRTSNRRMUYDMMBXGY/",
+          "source": "Chosunbiz",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'♥이민우와 재혼' 이아미, 출산한 지 얼마나 됐다고…훌쩍 큰 딸과 둘만의 카페 데이트",
+          "url": "https://v.daum.net/v/zMEm42XS5r",
+          "source": "Daum",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "'이민우♥' 이아미, 출산한 지 얼마 됐다고…아이돌 못지않은 청순 미모 [★해시태그]",
+          "url": "https://news.nate.com/view/20260906n01744",
+          "source": "네이트",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    "의사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T09:47:00+09:00",
+      "lastSeen": "2026-09-07T09:47:00+09:00",
+      "news": [
+        {
+          "title": "수술 등 중요한 의학적 선택 앞두고 환자 58%만 의사 설명 이해…\"환자 중심 의사결정 부족\"",
+          "url": "https://www.medigatenews.com/news/1661083175",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "\"의사 결정하고 환자 따르는 의료 넘어\"…한국형 공유의사결정 지표 '시급'",
+          "url": "https://www.newspim.com/news/view/20260904000840",
+          "source": "뉴스핌",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "[사설] 의사 없다고 간호사에 책임 떠넘기나… 농어촌 수가, 생색내기로 끝내선 안 된다",
+          "url": "https://www.nursenews.co.kr/news/articleView.html?idxno=43926",
+          "source": "간호사신문",
           "date": "2026-09-06"
         }
       ]
