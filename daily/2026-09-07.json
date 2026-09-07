@@ -2638,10 +2638,10 @@
       ]
     },
     "내셔널스 대 다저스": {
-      "count": 2,
-      "maxTraffic": 2000,
+      "count": 3,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-07T12:13:00+09:00",
-      "lastSeen": "2026-09-07T12:43:00+09:00",
+      "lastSeen": "2026-09-07T13:13:00+09:00",
       "news": [
         {
           "title": "사라진 오타니, 대안은 한국계라고?…\"엄청난 야구 선수\" 사령탑 극찬까지",
@@ -2660,14 +2660,20 @@
           "url": "https://contents.premium.naver.com/mlbtoday/mlb/contents/260906172913789lh",
           "source": "네이버 프리미엄콘텐츠",
           "date": "2026-09-07"
+        },
+        {
+          "title": "충격 태도 변화 \"오타니, 홍보팀 통해 인터뷰 수차례 거절\"…얼마나 심각하길래",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/07/HFRTQZTDG43DGOBYGFTDAYZSGI/",
+          "source": "조선일보",
+          "date": "2026-09-07"
         }
       ]
     },
     "농협은행": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T12:13:00+09:00",
-      "lastSeen": "2026-09-07T12:43:00+09:00",
+      "lastSeen": "2026-09-07T13:13:00+09:00",
       "news": [
         {
           "title": "“배우자 대신 왔어요” 계좌 3개 열어준 농협은행…과태료 2600만원 철퇴",
@@ -2690,10 +2696,10 @@
       ]
     },
     "openai": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T12:13:00+09:00",
-      "lastSeen": "2026-09-07T12:13:00+09:00",
+      "lastSeen": "2026-09-07T13:13:00+09:00",
       "news": [
         {
           "title": "An Alien Mind",
@@ -2742,10 +2748,10 @@
       ]
     },
     "이현중": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-07T12:43:00+09:00",
-      "lastSeen": "2026-09-07T12:43:00+09:00",
+      "lastSeen": "2026-09-07T13:13:00+09:00",
       "news": [
         {
           "title": "이현중, 포틀랜드와 이그지빗10 계약…NBA 도전 이어간다",
@@ -2763,6 +2769,174 @@
           "title": "이현중, NBA 포틀랜드와 1년 비보장 계약‥트레이닝 캠프 참가",
           "url": "https://imnews.imbc.com/news/2026/sports/article/6850065_36946.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "이현중, 포틀랜드와 ‘1년 비보장 계약’…미국에서 NBA 도전",
+          "url": "https://v.daum.net/v/Pp3KnQ0Hlh",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'NBA 도전' 이현중, 포틀랜드와 1년 비보장 계약…최저 연봉 감수",
+          "url": "https://www.news1.kr/sports/basketball/6282141",
+          "source": "뉴스1",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "수출": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T13:13:00+09:00",
+      "lastSeen": "2026-09-07T13:13:00+09:00",
+      "news": [
+        {
+          "title": "대 인도 수출 31%↑…반도체 177% 폭증 속 K-푸드·뷰티도 껑충",
+          "url": "https://v.daum.net/v/20260907110151629",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "30% 증가한 대인도 수출…코트라 \"2030년 교역액 500억달러 목표\" - 머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/09/07/2026090710202910610",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'반도체 수출 177% 증가'…한국, 대인도 수출 성장 급성장",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02722406645577824",
+          "source": "마켓인",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "afc u-20 아시안컵": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T13:13:00+09:00",
+      "lastSeen": "2026-09-07T13:13:00+09:00",
+      "news": [
+        {
+          "title": "U-19 남자 축구대표팀, 조 1위로 아시안컵 본선 진출",
+          "url": "https://www.yna.co.kr/view/AKR20260907025500007",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "김정수호 U19 축구대표팀, 예선 조 1위로 U20 아시안컵 본선행",
+          "url": "https://v.daum.net/v/20260907083949323",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'10명으로 버텼다' U-19 대표팀, 키르기스스탄과 0-0 무승부... 아시안컵 예선 조 1위로 본선행 확정 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/07/2026090709192332190",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "해군": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T13:13:00+09:00",
+      "lastSeen": "2026-09-07T13:13:00+09:00",
+      "news": [
+        {
+          "title": "김정은, 강건호 동해 취역 \"해군 핵무장 실현, 8개월 후 또 증명\"",
+          "url": "https://v.daum.net/v/20260907114801340",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "김정은, 신형 구축함 취역식서 “8개월 후 해군력 강화 증명”…핵잠수함 공개하나?",
+          "url": "https://www.khan.co.kr/article/202609071117011",
+          "source": "경향신문",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘北 핵전력’ 5000t급 신형구축함…“명령 떨어지면 섬멸적 보복 타격”",
+          "url": "https://www.munhwa.com/article/11615038",
+          "source": "문화일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "신인감독 김연경": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T13:13:00+09:00",
+      "lastSeen": "2026-09-07T13:13:00+09:00",
+      "news": [
+        {
+          "title": "'신인감독 김연경2', 더 뜨거워진 열정…10월 첫 방송",
+          "url": "https://v.daum.net/v/20260907110749997",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "김연경, 이제는 '경력감독'…'신인감독 김연경2' 10월 귀환",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6281709",
+          "source": "뉴스1",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[공식] ‘배구황제’ 김연경 돌아온다…‘신인감독 김연경2’, 10월 첫방 확정",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/07/ME3GCYJQMZTDMZBTGVSDEYZQGQ/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "사관학교": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T13:13:00+09:00",
+      "lastSeen": "2026-09-07T13:13:00+09:00",
+      "news": [
+        {
+          "title": "장동혁 \"사관학교 통합, 국방 붕괴 초래⋯국회서 저지해야\"",
+          "url": "https://v.daum.net/v/20260907103844229",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "장동혁, 공군사관학교 방문…`사관학교 통폐합` 반대 토론회도",
+          "url": "https://m.tbs.seoul.kr/news/newsView.do?typ_800=9&idx_800=3538208&seq_800=20531102",
+          "source": "서울특별시 미디어재단 TBS",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[기고]다영역작전(MDO)은 사관학교 통합 명분이 될 수 없다 美北中러의 해·공사는 MDO 안가르쳐",
+          "url": "https://www.munhwa.com/article/11614994",
+          "source": "문화일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "반도체 메모리": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T13:13:00+09:00",
+      "lastSeen": "2026-09-07T13:13:00+09:00",
+      "news": [
+        {
+          "title": "주가 38% 빠진 '삼전닉스'에 청신호…내년 메모리 '품귀' 온다",
+          "url": "https://v.daum.net/v/20260907113237507",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "삼전닉스, 바닥 다졌나…노무라 '초저평가'에 美 반도체 랠리까지",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433639",
+          "source": "연합인포맥스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "삼성전자·SK하이닉스가 진정한 승자인 이유",
+          "url": "https://www.sedaily.com/vod/4355395",
+          "source": "서울경제",
           "date": "2026-09-07"
         }
       ]
