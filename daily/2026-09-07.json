@@ -3238,10 +3238,10 @@
       ]
     },
     "sk스퀘어": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-07T14:41:00+09:00",
-      "lastSeen": "2026-09-07T14:41:00+09:00",
+      "lastSeen": "2026-09-07T15:19:00+09:00",
       "news": [
         {
           "title": "210만원→100만원대…닉스·SK스퀘어 주가, 폭등 뒤 폭락 ‘한몸’",
@@ -3264,10 +3264,10 @@
       ]
     },
     "장효조": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T14:41:00+09:00",
-      "lastSeen": "2026-09-07T14:41:00+09:00",
+      "lastSeen": "2026-09-07T15:19:00+09:00",
       "news": [
         {
           "title": "Jang Hyo-jo’s legacy inspires Samsung’s 2026 push for KBO crown - CHOSUNBIZ",
@@ -3367,6 +3367,214 @@
       "firstSeen": "2026-09-07T14:41:00+09:00",
       "lastSeen": "2026-09-07T14:41:00+09:00",
       "news": []
+    },
+    "여론 조사": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-07T15:19:00+09:00",
+      "lastSeen": "2026-09-07T15:19:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 김어준의 ‘꽃’, “李 잘한다” 47.1% 8연속 하락 최저…‘개각 잘못’ 55% 과반",
+          "url": "https://v.daum.net/v/20260907130207247",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "이 대통령 지지율 8주 연속 하락…김어준 \"20%대 추락 가능\"",
+          "url": "https://news.jtbc.co.kr/article/NB12317033",
+          "source": "JTBC뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "李대통령 지지도 37.4%로 또 최저치…서울·2030 지지율 20%대[리얼미터](종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260907018251001",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "법관": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T15:19:00+09:00",
+      "lastSeen": "2026-09-07T15:19:00+09:00",
+      "news": [
+        {
+          "title": "퇴임 이흥구 대법관 \"사법3법, 대법원위상 바꿀것‥피해 없게 점검\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850108_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "대법원, 재제청 결론 아직...대법관 2명 공백 현실로",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202609071440254942_005.html",
+          "source": "YTN",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "이흥구 \"사법 3법 입법 과정 충격적…법원, 정치적 사건 몰릴수록 일관성 지켜야\"",
+          "url": "https://www.chosun.com/national/court_law/2026/09/07/XXM3EHDAZRGUBBA5U3WOQHF5SI/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "가스 터빈": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T15:19:00+09:00",
+      "lastSeen": "2026-09-07T15:19:00+09:00",
+      "news": [
+        {
+          "title": "[특징주] 정부 대미투자 1호 '가스복합발전' 확정 소식에 가스터빈株 급등",
+          "url": "https://www.newspim.com/news/view/20260907000299",
+          "source": "뉴스핌",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "반도체·LNG 얽힌 한미 대미투자… ‘15% 관세’ 사수할까",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3430668",
+          "source": "천지일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "오늘 대미 투자 비공개 당정…협상 마무리 수순?",
+          "url": "https://v.daum.net/v/20260907052353814",
+          "source": "Daum",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "삼성 채용": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T15:19:00+09:00",
+      "lastSeen": "2026-09-07T15:19:00+09:00",
+      "news": [
+        {
+          "title": "삼성, 2026년 하반기 공채 실시",
+          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1-2026%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%EA%B3%B5%EC%B1%84-%EC%8B%A4%EC%8B%9C",
+          "source": "Samsung Global Newsroom",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"올해 더 뽑을 여력\"…이재용號 삼성, 호실적에 청년 채용문 더 넓히나",
+          "url": "https://www.newsis.com/view/NISX20260907_0003778941",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "삼성, ‘70년 공채전통’ 이어간다…19개 계열사 하반기 신입채용 개시",
+          "url": "https://www.donga.com/news/Economy/article/all/20260907/134619419/1",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "labor day": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T15:19:00+09:00",
+      "lastSeen": "2026-09-07T15:19:00+09:00",
+      "news": [
+        {
+          "title": "Reminder: US markets are closed for Labor Day - what traders need to know",
+          "url": "https://investinglive.com/news/reminder-us-markets-are-closed-for-labor-day-what-traders-need-to-know/",
+          "source": "investingLive",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Is the stock market open on Labor Day? NYSE, Nasdaq hours today",
+          "url": "https://www.cincinnati.com/story/news/2026/09/07/is-the-nyse-nasdaq-open-or-closed-on-labor-day-sept-7/91578106007/",
+          "source": "Cincinnati Enquirer",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "U.S. markets closed for Labor Day; inflation data to shape Fed rate outlook",
+          "url": "https://www.kucoin.com/news/flash/u-s-markets-closed-for-labor-day-inflation-data-to-shape-fed-rate-outlook",
+          "source": "KuCoin",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "학대": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T15:19:00+09:00",
+      "lastSeen": "2026-09-07T15:19:00+09:00",
+      "news": [
+        {
+          "title": "'방검복 교사' 사건 마무리…\"교육활동, 아동학대 대상에서 제외해야\"",
+          "url": "https://v.daum.net/v/20260907142407338",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"살해 협박에\" 방검복 출근 교사…아동학대 혐의 벗는데 3년 걸렸다",
+          "url": "https://www.news1.kr/local/jeonbuk/6282311",
+          "source": "뉴스1",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"살해협박 당한 교사가 아동학대로 피소 까지\"…전교조 전북지부 \"관련법 개정해야\"",
+          "url": "https://www.pressian.com/pages/articles/2026090713474751372",
+          "source": "프레시안",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "뉴 진스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T15:19:00+09:00",
+      "lastSeen": "2026-09-07T15:19:00+09:00",
+      "news": [
+        {
+          "title": "멈췄던 뉴진스의 시간, 다시 흐른다..\"해린, 오늘(7일) 논란 끝 첫 공식석상\"",
+          "url": "https://v.daum.net/v/20260907073309756",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "뉴진스 해린, 어도어 복귀 후 첫 공식석상…컴백 신호탄",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/09/07/MZQTKNRYHA2TOYRYMQ2TCNLEHA/",
+          "source": "조선일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "활동중단 뉴진스, 해린이 '공식석상' 스타트 끊는다…하나둘 대중 앞으로 [엑's 이슈]",
+          "url": "https://m.news.nate.com/view/20260907n17197?mid=e01&list=recent&cpcd=",
+          "source": "네이트",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "신지": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T15:19:00+09:00",
+      "lastSeen": "2026-09-07T15:19:00+09:00",
+      "news": [
+        {
+          "title": "'신혼' 신지, 42㎏ '뼈말라' 근황…홀쭉 얼굴 깜짝 [N샷]",
+          "url": "https://v.daum.net/v/20260907075549219",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘문원♥’ 신지, 결혼 후 더욱 마른 ‘뼈말라’ 근황",
+          "url": "https://sports.khan.co.kr/article/202609061618013",
+          "source": "스포츠경향",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"어떠신지 누구신지\"…문원♥신지 42㎏까지 '쏙' 몰라보게 홀쭉해진 비결",
+          "url": "https://www.newsis.com/view/NISX20260904_0003776325",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        }
+      ]
     }
   },
   "sections": {
