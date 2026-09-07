@@ -2786,10 +2786,10 @@
       ]
     },
     "수출": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-07T13:13:00+09:00",
-      "lastSeen": "2026-09-07T13:13:00+09:00",
+      "lastSeen": "2026-09-07T13:42:00+09:00",
       "news": [
         {
           "title": "대 인도 수출 31%↑…반도체 177% 폭증 속 K-푸드·뷰티도 껑충",
@@ -2812,10 +2812,10 @@
       ]
     },
     "afc u-20 아시안컵": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-07T13:13:00+09:00",
-      "lastSeen": "2026-09-07T13:13:00+09:00",
+      "lastSeen": "2026-09-07T13:42:00+09:00",
       "news": [
         {
           "title": "U-19 남자 축구대표팀, 조 1위로 아시안컵 본선 진출",
@@ -2838,10 +2838,10 @@
       ]
     },
     "해군": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-07T13:13:00+09:00",
-      "lastSeen": "2026-09-07T13:13:00+09:00",
+      "lastSeen": "2026-09-07T13:42:00+09:00",
       "news": [
         {
           "title": "김정은, 강건호 동해 취역 \"해군 핵무장 실현, 8개월 후 또 증명\"",
@@ -2864,10 +2864,10 @@
       ]
     },
     "신인감독 김연경": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-07T13:13:00+09:00",
-      "lastSeen": "2026-09-07T13:13:00+09:00",
+      "lastSeen": "2026-09-07T13:42:00+09:00",
       "news": [
         {
           "title": "'신인감독 김연경2', 더 뜨거워진 열정…10월 첫 방송",
@@ -2890,10 +2890,10 @@
       ]
     },
     "사관학교": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T13:13:00+09:00",
-      "lastSeen": "2026-09-07T13:13:00+09:00",
+      "lastSeen": "2026-09-07T13:42:00+09:00",
       "news": [
         {
           "title": "장동혁 \"사관학교 통합, 국방 붕괴 초래⋯국회서 저지해야\"",
@@ -2916,10 +2916,10 @@
       ]
     },
     "반도체 메모리": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T13:13:00+09:00",
-      "lastSeen": "2026-09-07T13:13:00+09:00",
+      "lastSeen": "2026-09-07T13:42:00+09:00",
       "news": [
         {
           "title": "주가 38% 빠진 '삼전닉스'에 청신호…내년 메모리 '품귀' 온다",
@@ -2937,6 +2937,116 @@
           "title": "삼성전자·SK하이닉스가 진정한 승자인 이유",
           "url": "https://www.sedaily.com/vod/4355395",
           "source": "서울경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "KB증권 \"AI 인프라 투자에서 메모리 비중 내년 57% 전망, 삼성전자·SK하이닉스 기업가치 재평가\"",
+          "url": "https://m.businesspost.co.kr/BP?command=mobile_view&num=446510",
+          "source": "비즈니스포스트",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "소송": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T13:42:00+09:00",
+      "lastSeen": "2026-09-07T13:42:00+09:00",
+      "news": [
+        {
+          "title": "\"군 복무 중 받은 군기교육 취소해달라\"…전역 병사 소송 각하",
+          "url": "https://v.daum.net/v/20260907070149204",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "밤 9시에 女간부 숙소 찾아 “같이 놀자”던 병사의 최후",
+          "url": "https://www.munhwa.com/article/11614925",
+          "source": "문화일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "병사��� 女간부에 “같이 놀자”…법원 “군기교육 처분 정당”",
+          "url": "https://www.donga.com/news/Society/article/all/20260907/134617990/1",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "사위": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T13:42:00+09:00",
+      "lastSeen": "2026-09-07T13:42:00+09:00",
+      "news": [
+        {
+          "title": "사위가 속옷만 입은 남자와 한 침대에? 딸 해외 출장 중 ‘충격’ (탐비)",
+          "url": "https://sports.donga.com/ent/article/all/20260907/134616581/1",
+          "source": "스포츠동아",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'돌싱' 라이머 \"한해·그리·뮤지에 내 연애 상담해\" (탐비) - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/07/GBRTSMBVMVTDMMDEGNSWKOBUGY/",
+          "source": "Chosunbiz",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "라이머 \"눈빛 안 좋다고 생각했던 사람들은…\"",
+          "url": "https://www.newsis.com/view/NISX20260907_0003778483",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "맥스 할로웨이": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T13:42:00+09:00",
+      "lastSeen": "2026-09-07T13:42:00+09:00",
+      "news": [
+        {
+          "title": "파르나스, UFC 데뷔전서 ‘톱10’ 후커에 1R TKO승",
+          "url": "https://www.munhwa.com/article/11614948",
+          "source": "문화일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'반전' 랭킹 10위, 단 2분 25초 만에 쓰러졌다... 파르나스 짜릿 6연승 \"난 세계 최고 파이터\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/2026090617471846995",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘미친 데뷔’ 파르나스, 천하의 후커 상대로 1R 2분 25초 만에 웃었다…할러웨이 ‘콜아웃’ “내 꿈의 경기가 될 것” [UFC]",
+          "url": "https://www.mk.co.kr/news/sports/12145602",
+          "source": "매일경제",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "번트": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T13:42:00+09:00",
+      "lastSeen": "2026-09-07T13:42:00+09:00",
+      "news": [
+        {
+          "title": "LG-삼성, 승부를 가른 결정적 장면",
+          "url": "https://v.daum.net/v/u7U56hLxvX",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "그리고 아무도 없었다… 허공으로 날아간 번트 송구와 임찬규의 100승",
+          "url": "https://sports.khan.co.kr/article/202609062004003",
+          "source": "스포츠경향",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[포토] '6회말 후라도 찾은' 박진만 감독",
+          "url": "https://m.news.nate.com/view/20260906n15293?mid=s01&list=recent&cpcd=",
+          "source": "네이트",
           "date": "2026-09-07"
         }
       ]
