@@ -5458,10 +5458,10 @@
       ]
     },
     "중수 청장": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-07T21:18:00+09:00",
-      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:46:00+09:00",
       "news": [
         {
           "title": "초대 중수청장 최종 후보에 검찰 출신 김지용 변호사",
@@ -5480,14 +5480,26 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8656852",
           "source": "KBS 뉴스",
           "date": "2026-09-07"
+        },
+        {
+          "title": "초대 중수청장 후보에 '검찰 출신' 김지용 낙점",
+          "url": "https://v.daum.net/v/20260907210812134",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "초대 중수청장 후보에 검찰 출신 김지용 변호사",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=225985",
+          "source": "법률신문",
+          "date": "2026-09-07"
         }
       ]
     },
     "오스틴 딘": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T21:18:00+09:00",
-      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:46:00+09:00",
       "news": [
         {
           "title": "LG 오스틴, 김도영 전에 라모스 꼬리 보인다...구단 새 역사 홈런 눈앞",
@@ -5510,10 +5522,10 @@
       ]
     },
     "동해": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-07T21:18:00+09:00",
-      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:46:00+09:00",
       "news": [
         {
           "title": "Nuclear-capable warship that capsized when launched finally joins North Korea’s fleet",
@@ -5536,10 +5548,10 @@
       ]
     },
     "김종국": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T21:18:00+09:00",
-      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:46:00+09:00",
       "news": [
         {
           "title": "김종국, 결혼 1년 차 신혼밥상 공개…아내 ‘특급 내조’",
@@ -5562,10 +5574,10 @@
       ]
     },
     "빕스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T21:18:00+09:00",
-      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:46:00+09:00",
       "news": [
         {
           "title": "\"딱 2주만 맛본다\"⋯빕스, 생무화과 메뉴 3종 출시",
@@ -5584,14 +5596,20 @@
           "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=310534",
           "source": "스트레이트뉴스",
           "date": "2026-09-07"
+        },
+        {
+          "title": "제일제면소, 가을 산해진미 신메뉴…낙지·버섯 등 제철 식재료 활용",
+          "url": "https://www.etnews.com/20260907000417",
+          "source": "전자신문",
+          "date": "2026-09-07"
         }
       ]
     },
     "카페": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T21:18:00+09:00",
-      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:46:00+09:00",
       "news": [
         {
           "title": "파주 카페 냉동창고에 꽁꽁 언 시신…실종된 여성이었다",
@@ -5610,14 +5628,26 @@
           "url": "https://www.khan.co.kr/article/202609071543001",
           "source": "경향신문",
           "date": "2026-09-07"
+        },
+        {
+          "title": "실종 여성 시신 발견되더니…\"수백억 상당\" 뜻밖의 정체",
+          "url": "https://v.daum.net/v/20260907205104756",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘실종 당일, 카페는 임시 휴업’…냉동창고 여성 피살, 수백억대 위조상품권 발견",
+          "url": "https://www.munhwa.com/article/11615117",
+          "source": "문화일보",
+          "date": "2026-09-07"
         }
       ]
     },
     "왕옌청": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T21:18:00+09:00",
-      "lastSeen": "2026-09-07T21:18:00+09:00",
+      "lastSeen": "2026-09-07T21:46:00+09:00",
       "news": [
         {
           "title": "\"왕옌청, KIA도 영입 제안했지만 한화 선택\" 심재학 단장, 대만서 공개한 깜짝 비하인드",
@@ -5635,6 +5665,18 @@
           "title": "대만 야구 투수 구린루이양, AG 야구 낙마…왕옌청은 승선(종합)",
           "url": "https://www.yna.co.kr/view/AKR20260907146851007",
           "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "한국 야구 희소식!…\"韓 선수들 꼭 군대 보내야\" 도발 대만, 日 AG 최종 명단 발표→구린루이양 왼쪽 옆구리 부상 낙마 \"왕옌청 합류 확정\"",
+          "url": "https://v.daum.net/v/20260907174951930",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'이럴수가' 곽빈 절친 갑작스런 부상에 AG 불참 확정…'에이스' 맞대결 무산",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/07/GNRWMNJZMU3DENZYMZRDSMJVHE/",
+          "source": "조선일보",
           "date": "2026-09-07"
         }
       ]
@@ -5661,6 +5703,84 @@
           "title": "광진구 ‘부동산 취득세 챗봇’, 서울시 적극행정 최우수 사례 선정",
           "url": "https://www.munhwa.com/article/11615085",
           "source": "문화일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "이소나": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T21:46:00+09:00",
+      "lastSeen": "2026-09-07T21:46:00+09:00",
+      "news": [
+        {
+          "title": "“우리 소나가 정말 큰일 해냈구나”⋯고향 무대 함께한 부모님",
+          "url": "https://v.daum.net/v/20260907092340047",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[포토뉴스] 미스트롯4 in 춘천···노래하는 이소나",
+          "url": "https://www.kwnews.co.kr/article/20260905500273",
+          "source": "강원일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘미��트롯4’ 전국투어, 6개월 대장정 마침표…서울 앙코르로 열기 잇는다",
+          "url": "https://sports.donga.com/ent/article/all/20260907/134619839/1",
+          "source": "스포츠동아",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "김지찬": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T21:46:00+09:00",
+      "lastSeen": "2026-09-07T21:46:00+09:00",
+      "news": [
+        {
+          "title": "'어제는 홈런 오늘은 4안타' 삼성 김현준 무력시위, '부상 복귀' 김상준도 2안타 맹활약",
+          "url": "https://v.daum.net/v/20260907151448163",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘상무 제대’ 군필 외야수, 시즌 첫 홈런포 터졌다, 8월말 2군행→타율 .333…김지찬 AG 가면 1군 기회 잡나",
+          "url": "https://www.osen.co.kr/article/G1112871295",
+          "source": "OSEN",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "홈런→4안타, 김지찬 없는 8경기, 상무 전역 예비역의 '무력시위'가 시작됐다",
+          "url": "https://www.sportschosun.com/baseball/2026-09-07/202609070100050030003234",
+          "source": "스포츠조선",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "스토킹": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-07T21:46:00+09:00",
+      "lastSeen": "2026-09-07T21:46:00+09:00",
+      "news": [
+        {
+          "title": "전 연인 스토킹 수사받던 30대 숨져…경찰 “사건 종결”",
+          "url": "https://v.daum.net/v/20260907162000610",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "스토킹 혐의 수사받던 30대男, 아파트서 투신 사망",
+          "url": "https://www.donga.com/news/Society/article/all/20260907/134621704/2",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "스토킹 혐의로 수사받던 30대 피의자 아파트서 숨져",
+          "url": "https://www.yna.co.kr/view/AKR20260907104800064",
+          "source": "연합뉴스",
           "date": "2026-09-07"
         }
       ]
