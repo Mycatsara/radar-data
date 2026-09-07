@@ -5496,10 +5496,10 @@
       ]
     },
     "오스틴 딘": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T21:18:00+09:00",
-      "lastSeen": "2026-09-07T21:46:00+09:00",
+      "lastSeen": "2026-09-07T22:14:00+09:00",
       "news": [
         {
           "title": "LG 오스틴, 김도영 전에 라모스 꼬리 보인다...구단 새 역사 홈런 눈앞",
@@ -5518,14 +5518,26 @@
           "url": "https://www.newspim.com/news/view/20260904000985",
           "source": "뉴스핌",
           "date": "2026-09-07"
+        },
+        {
+          "title": "\"구위 좋은 선수가 왕\" 염갈량 마음 사로잡은 2006년생 박시원…데뷔 첫 승→9월 LG 고정 4선발 '전격 낙점' [잠실 현장]",
+          "url": "https://v.daum.net/v/QfDMq9HlZ4?f=p",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "솔로홈런 친 오스틴",
+          "url": "https://www.yna.co.kr/view/PYH20260903223400013",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
         }
       ]
     },
     "동해": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-07T21:18:00+09:00",
-      "lastSeen": "2026-09-07T21:46:00+09:00",
+      "lastSeen": "2026-09-07T22:14:00+09:00",
       "news": [
         {
           "title": "Nuclear-capable warship that capsized when launched finally joins North Korea’s fleet",
@@ -5548,10 +5560,10 @@
       ]
     },
     "김종국": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T21:18:00+09:00",
-      "lastSeen": "2026-09-07T21:46:00+09:00",
+      "lastSeen": "2026-09-07T22:14:00+09:00",
       "news": [
         {
           "title": "김종국, 결혼 1년 차 신혼밥상 공개…아내 ‘특급 내조’",
@@ -5574,10 +5586,10 @@
       ]
     },
     "빕스": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T21:18:00+09:00",
-      "lastSeen": "2026-09-07T21:46:00+09:00",
+      "lastSeen": "2026-09-07T22:14:00+09:00",
       "news": [
         {
           "title": "\"딱 2주만 맛본다\"⋯빕스, 생무화과 메뉴 3종 출시",
@@ -5601,6 +5613,12 @@
           "title": "제일제면소, 가을 산해진미 신메뉴…낙지·버섯 등 제철 식재료 활용",
           "url": "https://www.etnews.com/20260907000417",
           "source": "전자신문",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "CJ푸드빌 빕스, 생무화과 활용 가을 메뉴 2주간 운영",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202609071937189092204ead0791_12",
+          "source": "로이슈",
           "date": "2026-09-07"
         }
       ]
@@ -5708,10 +5726,10 @@
       ]
     },
     "이소나": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T21:46:00+09:00",
-      "lastSeen": "2026-09-07T21:46:00+09:00",
+      "lastSeen": "2026-09-07T22:14:00+09:00",
       "news": [
         {
           "title": "“우리 소나가 정말 큰일 해냈구나”⋯고향 무대 함께한 부모님",
@@ -5730,14 +5748,26 @@
           "url": "https://sports.donga.com/ent/article/all/20260907/134619839/1",
           "source": "스포츠동아",
           "date": "2026-09-07"
+        },
+        {
+          "title": "‘미스트롯4 우승’ 이소나 “가장 좋아하는 연예인? 당연히 남편 강상준” (천만기인쇼)",
+          "url": "https://sports.khan.co.kr/article/202609072124003",
+          "source": "스포츠경향",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "이소나 “좋아하는 연예인? 당연히 남편 강상준” 결혼 6년차에도 애정 뿜뿜(천만기인쇼)",
+          "url": "https://m.newsen.com/news_view.php?uid=202609071153301910",
+          "source": "뉴스엔",
+          "date": "2026-09-07"
         }
       ]
     },
     "김지찬": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T21:46:00+09:00",
-      "lastSeen": "2026-09-07T21:46:00+09:00",
+      "lastSeen": "2026-09-07T22:14:00+09:00",
       "news": [
         {
           "title": "'어제는 홈런 오늘은 4안타' 삼성 김현준 무력시위, '부상 복귀' 김상준도 2안타 맹활약",
@@ -5756,14 +5786,26 @@
           "url": "https://www.sportschosun.com/baseball/2026-09-07/202609070100050030003234",
           "source": "스포츠조선",
           "date": "2026-09-07"
+        },
+        {
+          "title": "2:2→8:6→12:12→12:13→14:13…9회말 2사 만루 ‘끝내기’ 막다. ‘26출루’ 삼성-‘25출루’ 고양, 34안타 역대급 난타전",
+          "url": "https://v.daum.net/v/20260907184407079",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "홈런→4안타, 김지찬 없는 8경기, 상무 전역 예비역의 '무력시위'가 시작됐다",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/07/GE2TKNZQGRSGIZLEG5SWKNTGGE/",
+          "source": "조선일보",
+          "date": "2026-09-07"
         }
       ]
     },
     "스토킹": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T21:46:00+09:00",
-      "lastSeen": "2026-09-07T21:46:00+09:00",
+      "lastSeen": "2026-09-07T22:14:00+09:00",
       "news": [
         {
           "title": "전 연인 스토킹 수사받던 30대 숨져…경찰 “사건 종결”",
@@ -5781,6 +5823,84 @@
           "title": "스토킹 혐의로 수사받던 30대 피의자 아파트서 숨져",
           "url": "https://www.yna.co.kr/view/AKR20260907104800064",
           "source": "연합뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "의료": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T22:14:00+09:00",
+      "lastSeen": "2026-09-07T22:14:00+09:00",
+      "news": [
+        {
+          "title": "대전을지대병원, 지역응급의료센터 재지정",
+          "url": "https://www.news1.kr/local/daejeon-chungnam/6282495",
+          "source": "뉴스1",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "대전을지대병원, 지역응급의료센터 재지정…중증응급환자 전담",
+          "url": "https://v.daum.net/v/20260907175407102",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "안산시 \"��증 응급환자 지역 내 진료공간 확충\"",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779318",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "종합격투기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T22:14:00+09:00",
+      "lastSeen": "2026-09-07T22:14:00+09:00",
+      "news": [
+        {
+          "title": "유튜브 방송 중 20대 목 졸라 기절시킨 조폭 출신 격투기선수",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850048_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "유튜브 방송 중 20대 목 졸라 기절…경찰, 격투기선수 수사",
+          "url": "https://www.yna.co.kr/view/AKR20260907025800065",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[자막뉴스] 생방송 중 일반인 기절시키고…\"한숨 재워라\" 결국 '마비 증상'까지",
+          "url": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008740869",
+          "source": "m.news.sbs.co.kr",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "미군": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T22:14:00+09:00",
+      "lastSeen": "2026-09-07T22:14:00+09:00",
+      "news": [
+        {
+          "title": "\"'아프간 마지막 미군장병'의 퇴역…그 뒤엔 美국방장관의 몽니\"",
+          "url": "https://v.daum.net/v/20260907044954925",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "아프간부터 이란전까지, 미 육군 ‘브레인’ 군복 벗긴 헤그세스의 숙청",
+          "url": "https://www.hani.co.kr/arti/international/america/1276611.html",
+          "source": "한겨레",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘역대급 인재’ 아프간 마지막 미군, 퇴역 이면엔 헤그세스 몽니",
+          "url": "https://www.donga.com/news/Inter/article/all/20260907/134619204/1",
+          "source": "동아일보",
           "date": "2026-09-07"
         }
       ]
