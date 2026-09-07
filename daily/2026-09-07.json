@@ -3945,10 +3945,10 @@
       ]
     },
     "토트넘 홋스퍼 fc": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-07T16:43:00+09:00",
-      "lastSeen": "2026-09-07T16:43:00+09:00",
+      "lastSeen": "2026-09-07T17:15:00+09:00",
       "news": [
         {
           "title": "'맨시티가 아니네'…토트넘 신입 공격수, 경기 시작 4분 만에 텔과 말다툼",
@@ -3971,10 +3971,10 @@
       ]
     },
     "트레이드": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-07T16:43:00+09:00",
-      "lastSeen": "2026-09-07T16:43:00+09:00",
+      "lastSeen": "2026-09-07T17:15:00+09:00",
       "news": [
         {
           "title": "KIA 트레이드 진짜 신의 한 수였나…'안타+득점+호수비' 이 선수가 팀을 살렸다",
@@ -3992,6 +3992,18 @@
           "title": "홈인 하주석, 동료들과 인사",
           "url": "https://www.newsis.com/view/NISI20260905_0021424732",
           "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'14년 만의 대기록' 류현진 무너뜨린 우타 거포가 저지할까? 6일 만에 대포 가동→AL 홈런 선두 등극, 17년 만의 타이틀 노린다",
+          "url": "https://v.daum.net/v/W7Eypo9ULt",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'에어 조던' 아닌 '에어 요르단' 알바레스, 14년 만에 MLB 타격 트리플크라운 도전",
+          "url": "https://m.news.nate.com/view/20260907n14856",
+          "source": "네이트",
           "date": "2026-09-07"
         }
       ]
@@ -4174,6 +4186,208 @@
           "title": "250달러 北스마트폰 인터넷 '불가'",
           "url": "http://www.a-news.co.kr/news/articleView.html?idxno=422159",
           "source": "국회뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "분당구": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T17:15:00+09:00",
+      "lastSeen": "2026-09-07T17:15:00+09:00",
+      "news": [
+        {
+          "title": "강남 6.8% 오를 때, 여긴 29.5% 뛰었다…아파트값 상승 1위 어디",
+          "url": "https://v.daum.net/v/20260907111208262",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "최근 1년새 집값 가장 많이 뛴 곳은…29.5% 오른 ‘이곳’",
+          "url": "https://www.donga.com/news/Economy/article/all/20260907/134619164/1",
+          "source": "동아일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "직방 \"최근 1년간 아파트값 가장 많이 오른 지역은 분당\"",
+          "url": "https://www.yna.co.kr/view/AKR20260907025200003",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "하이닉스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T17:15:00+09:00",
+      "lastSeen": "2026-09-07T17:15:00+09:00",
+      "news": [
+        {
+          "title": "코스피, 오픈AI발 반도체 훈풍에 4.6% 급등…7,000선 턱밑(종합)",
+          "url": "https://v.daum.net/v/20260907161250317",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "오픈AI發 훈풍에 ‘삼전닉스’ 급등…박스피 돌파 시동거나",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03739206645577824",
+          "source": "마켓인",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "삼전·닉스 3분기 실적 눈높이 '쑥'…주가 반등세 이어질까(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260907097451008",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "권혁빈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T17:15:00+09:00",
+      "lastSeen": "2026-09-07T17:15:00+09:00",
+      "news": [
+        {
+          "title": "‘8兆 재산’ 권혁빈 이혼소송 9일 첫 결론···스마일게이트 지배구조 시험대",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423502",
+          "source": "시사저널e",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'이종섭 호주도피' 尹 1심 선고…'8조 자산가' 권혁빈 이혼소송도",
+          "url": "https://www.yna.co.kr/view/AKR20260905053800004",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[금주 재판일정] '이종섭 호주 도피 혐의' 윤석열 1심 선고",
+          "url": "https://www.newspim.com/news/view/20260904000522",
+          "source": "뉴스핌",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "한국토지주택공사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T17:15:00+09:00",
+      "lastSeen": "2026-09-07T17:15:00+09:00",
+      "news": [
+        {
+          "title": "사업 묶고 임금 맞추고…발전 5社 ‘25년 벽’ 허문다",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372121",
+          "source": "전기신문",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "진주혁신도시 중심 LH 분리 방침에 지역사회 반발 확산(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260907099301052",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "해수부, 4개 항만공사 통합 논의…TF 발족",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8656540",
+          "source": "KBS 뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "박병호": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T17:15:00+09:00",
+      "lastSeen": "2026-09-07T17:15:00+09:00",
+      "news": [
+        {
+          "title": "'박병호가 쏩니다!' 이제는 상대팀 코치인데…삼성 옛 동료 위해 커피차 쐈다, 떠나도 변함없는 ‘좋은 사람’",
+          "url": "https://v.daum.net/v/20260907121610453",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "박병호 따뜻함 보소! 삼성-키움 퓨처스 맞대결 앞서 커피차 선물 \"미래들 모두 힘내자\"",
+          "url": "https://www.starnewskorea.com/sports/2026/09/07/2026090713380232296",
+          "source": "스타뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "전쟁": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T17:15:00+09:00",
+      "lastSeen": "2026-09-07T17:15:00+09:00",
+      "news": [
+        {
+          "title": "미국 전 국방장관 \"이란 전쟁 6개월 더 갈 수도\"",
+          "url": "https://v.daum.net/v/20260907104200402",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "美 정보당국 \"이란, 장기전 불사…트럼프 중간선거 타격 노려\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433591",
+          "source": "연합인포맥스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "이란의 덫에 빠진 미국…발버둥 칠수록 끌어내리는 이란에 '멘붕' [지금이뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0545_202609071343542273",
+          "source": "YTN",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "런닝맨": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T17:15:00+09:00",
+      "lastSeen": "2026-09-07T17:15:00+09:00",
+      "news": [
+        {
+          "title": "“바타 여친은 다르네” 지예은, 결혼 발표 후 첫 댄스… 멤버들 감탄 (‘런닝맨’) - 스타투데이",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12145612",
+          "source": "매일경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[단독] ‘바타♥’ 지예은, 오늘(7일) ‘런닝맨’ 결혼 축하 받았다…“모두 모여 세리머니”",
+          "url": "https://isplus.com/article/view/isp202609070082",
+          "source": "일간스포츠",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "지예은, ‘2026 올해의 브랜드 대상’ 올해의 엔터테이너 수상",
+          "url": "https://sports.khan.co.kr/article/202609050117003",
+          "source": "스포츠경향",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "카를로스 알 카라스": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T17:15:00+09:00",
+      "lastSeen": "2026-09-07T17:15:00+09:00",
+      "news": [
+        {
+          "title": "'디펜딩 챔피언' 알카라스·사발렌카, US오픈 테니스 8강 안착(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260907033051007",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "사발렌카, 타운센드 꺾고 8강 진출",
+          "url": "https://www.newsis.com/view/NISI20260907_0002231698",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "카를로스 알카라스, US오픈 8강行",
+          "url": "https://www.etoday.co.kr/news/view/2622349",
+          "source": "이투데이",
           "date": "2026-09-07"
         }
       ]
