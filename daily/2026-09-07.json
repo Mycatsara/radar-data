@@ -4191,10 +4191,10 @@
       ]
     },
     "분당구": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-07T17:15:00+09:00",
-      "lastSeen": "2026-09-07T17:15:00+09:00",
+      "lastSeen": "2026-09-07T17:43:00+09:00",
       "news": [
         {
           "title": "강남 6.8% 오를 때, 여긴 29.5% 뛰었다…아파트값 상승 1위 어디",
@@ -4213,14 +4213,26 @@
           "url": "https://www.yna.co.kr/view/AKR20260907025200003",
           "source": "연합뉴스",
           "date": "2026-09-07"
+        },
+        {
+          "title": "분당 29.5% '최고'…강남 대신 비강남·신도시 아파트값 뛰었다",
+          "url": "https://v.daum.net/v/20260907172111509",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "최근 1년간 전국에서 아파트 값이 가장 많이 오른 분당구",
+          "url": "https://www.newsis.com/view/NISI20260907_0021426676",
+          "source": "뉴시스",
+          "date": "2026-09-07"
         }
       ]
     },
     "하이닉스": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-07T17:15:00+09:00",
-      "lastSeen": "2026-09-07T17:15:00+09:00",
+      "lastSeen": "2026-09-07T17:43:00+09:00",
       "news": [
         {
           "title": "코스피, 오픈AI발 반도체 훈풍에 4.6% 급등…7,000선 턱밑(종합)",
@@ -4239,14 +4251,26 @@
           "url": "https://www.yna.co.kr/view/AKR20260907097451008",
           "source": "연합뉴스",
           "date": "2026-09-07"
+        },
+        {
+          "title": "삼성전자·SK하이닉스 3분기 실적 전망 상향…주가도 동반 반등",
+          "url": "https://v.daum.net/v/20260907161238301",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "고금리도 꺾지 못한 'AI 수요'…실적 탄탄한 반도체 '변곡점' 왔���",
+          "url": "https://www.news1.kr/finance/general-stock/6282568",
+          "source": "뉴스1",
+          "date": "2026-09-07"
         }
       ]
     },
     "권혁빈": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-07T17:15:00+09:00",
-      "lastSeen": "2026-09-07T17:15:00+09:00",
+      "lastSeen": "2026-09-07T17:43:00+09:00",
       "news": [
         {
           "title": "‘8兆 재산’ 권혁빈 이혼소송 9일 첫 결론···스마일게이트 지배구조 시험대",
@@ -4269,10 +4293,10 @@
       ]
     },
     "한국토지주택공사": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T17:15:00+09:00",
-      "lastSeen": "2026-09-07T17:15:00+09:00",
+      "lastSeen": "2026-09-07T17:43:00+09:00",
       "news": [
         {
           "title": "사업 묶고 임금 맞추고…발전 5社 ‘25년 벽’ 허문다",
@@ -4291,14 +4315,26 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8656540",
           "source": "KBS 뉴스",
           "date": "2026-09-07"
+        },
+        {
+          "title": "LH, 입찰비리 신고 대상 확대…최대 30억원 보상",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372117",
+          "source": "전기신문",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "최대 30억 포상에 처벌 면제까지… LH, 입찰 비리 ‘리니언시’ 칼 빼들었다",
+          "url": "https://v.daum.net/v/20260907165728319",
+          "source": "Daum",
+          "date": "2026-09-07"
         }
       ]
     },
     "박병호": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-07T17:15:00+09:00",
-      "lastSeen": "2026-09-07T17:15:00+09:00",
+      "lastSeen": "2026-09-07T17:43:00+09:00",
       "news": [
         {
           "title": "'박병호가 쏩니다!' 이제는 상대팀 코치인데…삼성 옛 동료 위해 커피차 쐈다, 떠나도 변함없는 ‘좋은 사람’",
@@ -4388,6 +4424,111 @@
           "title": "카를로스 알카라스, US오픈 8강行",
           "url": "https://www.etoday.co.kr/news/view/2622349",
           "source": "이투데이",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "산삼": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T17:43:00+09:00",
+      "lastSeen": "2026-09-07T17:43:00+09:00",
+      "news": [
+        {
+          "title": "지리산서 100년 묵은 천종산삼 등 11뿌리 발견…감정가 1억2000만원",
+          "url": "https://v.daum.net/v/20260907155642342",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "지리산서 100년 모삼 등 5대 가족군 천종산삼 11뿌리 발견",
+          "url": "https://www.yna.co.kr/view/AKR20260907107800052",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'심봤다' 지리산서 100년 천종산삼 11뿌리 발견…감정가 1억2천만원",
+          "url": "https://www.kyeonggi.com/article/20260907580365",
+          "source": "경기일보",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "배틀그라운드": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T17:43:00+09:00",
+      "lastSeen": "2026-09-07T17:43:00+09:00",
+      "news": []
+    },
+    "기본소득당": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T17:43:00+09:00",
+      "lastSeen": "2026-09-07T17:43:00+09:00",
+      "news": [
+        {
+          "title": "기본소득당 신임 대표 오준호…용혜인 배우자 박기홍 최고위원",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260907110820zSA",
+          "source": "연합뉴스TV",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "용혜인 남편, 기본소득당 최고위원 당선‥\"의혹 하나하나 해명할 것\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6850067_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "용혜인 남편, 기본소득당 지도부 선출…논란 질문에 \"당에서 하나하나 소명\"",
+          "url": "https://news.jtbc.co.kr/article/NB12317107",
+          "source": "JTBC",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "김지용 변호사": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-07T17:43:00+09:00",
+      "lastSeen": "2026-09-07T17:43:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 초대 중수청장 최종 후보에 검찰 출신 김지용 변호사",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850138_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[속보]초대 중대범죄수사청장 최종 후보자에 김지용…청문회 통과하면 이 대통령이 임명",
+          "url": "https://www.khan.co.kr/article/202609071601011",
+          "source": "경향신문",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "행안장관 \"김지용 후보자, 인권보호 최우선가치 중수청 만들 것\"",
+          "url": "https://v.daum.net/v/20260907170312684",
+          "source": "Daum",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "김용현": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-07T17:43:00+09:00",
+      "lastSeen": "2026-09-07T17:43:00+09:00",
+      "news": [
+        {
+          "title": "김용현 측 \"무인기 작전은 전면전 피한 심리전… 특검, 군 존재 이유 부인\"",
+          "url": "https://www.freezinenews.com/news/articleView.html?idxno=29447",
+          "source": "프리진뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "尹 ‘평양 무인기’ 항소심…특검·변호인, 일반이적죄 ‘이적의사’ 놓고 공방",
+          "url": "https://www.freezinenews.com/news/articleView.html?idxno=29443",
+          "source": "프리진뉴스",
           "date": "2026-09-07"
         }
       ]
