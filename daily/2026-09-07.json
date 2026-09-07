@@ -2248,10 +2248,10 @@
       ]
     },
     "여자 축구": {
-      "count": 3,
-      "maxTraffic": 200,
+      "count": 4,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-07T10:12:00+09:00",
-      "lastSeen": "2026-09-07T11:13:00+09:00",
+      "lastSeen": "2026-09-07T11:41:00+09:00",
       "news": [
         {
           "title": "U20 여자축구, 월드컵 첫 경기서 '강호' 프랑스와 1-1 무승부",
@@ -2270,14 +2270,26 @@
           "url": "https://www.yna.co.kr/view/AKR20260907012100007",
           "source": "연합뉴스",
           "date": "2026-09-07"
+        },
+        {
+          "title": "U-20 여자축구, 프랑스와 1-1 무승부…여자월드컵 1차전 순항",
+          "url": "https://v.daum.net/v/20260907102350354",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "박윤정호, U-20 여자월드컵 첫판서 강호 프랑스와 1-1 무승부",
+          "url": "https://www.newsis.com/view/NISX20260907_0003778318",
+          "source": "뉴시스",
+          "date": "2026-09-07"
         }
       ]
     },
     "wec": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T10:12:00+09:00",
-      "lastSeen": "2026-09-07T11:13:00+09:00",
+      "lastSeen": "2026-09-07T11:41:00+09:00",
       "news": [
         {
           "title": "Giovinazzi gives Ferrari pole for Lone Star Le Mans, as Aitken matches his lap time for second",
@@ -2377,10 +2389,10 @@
       ]
     },
     "양현종": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-07T10:41:00+09:00",
-      "lastSeen": "2026-09-07T11:13:00+09:00",
+      "lastSeen": "2026-09-07T11:41:00+09:00",
       "news": [
         {
           "title": "KIA 45억 투자 의아했는데, 위대한 클래스… 기대주 사라진 자리, 고목은 그대로 서 있다",
@@ -2403,10 +2415,10 @@
       ]
     },
     "원서접수": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T10:41:00+09:00",
-      "lastSeen": "2026-09-07T11:13:00+09:00",
+      "lastSeen": "2026-09-07T11:41:00+09:00",
       "news": [
         {
           "title": "2027 대입 수시 비중 확대…대구·경북권 10명 중 9명 뽑는다",
@@ -2441,10 +2453,10 @@
       ]
     },
     "항공 승무원": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T10:41:00+09:00",
-      "lastSeen": "2026-09-07T11:13:00+09:00",
+      "lastSeen": "2026-09-07T11:41:00+09:00",
       "news": [
         {
           "title": "진에어, 승무원 청바지 유니폼으로 소형 주머니 열쇠고리 제작",
@@ -2463,14 +2475,26 @@
           "url": "https://www.chosun.com/economy/industry-company/2026/09/04/62ZP7K56YBGRDNKW34D32AGR4Y/",
           "source": "조선일보",
           "date": "2026-09-07"
+        },
+        {
+          "title": "파라타항공, 맞춤형 기내 상품 추천…전담 승무원 18명 선발",
+          "url": "https://www.segye.com/newsView/20260904509153",
+          "source": "세계일보",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "기내서 뭐 살지 승무원이 골라준다…파라타항공 '큐레이터' 도입",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03588326645576840",
+          "source": "마켓인",
+          "date": "2026-09-07"
         }
       ]
     },
     "백진희": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-07T11:13:00+09:00",
-      "lastSeen": "2026-09-07T11:13:00+09:00",
+      "lastSeen": "2026-09-07T11:41:00+09:00",
       "news": [
         {
           "title": "배우 백진희, 캐나다서 만난 연인과 내년 1월 결혼",
@@ -2489,14 +2513,20 @@
           "url": "https://www.mt.co.kr/entertainment/2026/09/07/2026090709087213531",
           "source": "머니투데이",
           "date": "2026-09-07"
+        },
+        {
+          "title": "백진희, 내년 1월 결혼…“♥예비신랑은 캐나다 직장���”",
+          "url": "https://sports.khan.co.kr/article/202609070924003",
+          "source": "스포츠경향",
+          "date": "2026-09-07"
         }
       ]
     },
     "인천마라톤": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-07T11:13:00+09:00",
-      "lastSeen": "2026-09-07T11:13:00+09:00",
+      "lastSeen": "2026-09-07T11:41:00+09:00",
       "news": [
         {
           "title": "‘국제 공인 풀코스’ 11월 인천마라톤 오늘부터 접수",
@@ -2514,6 +2544,71 @@
           "title": "[패트롤] 인천시-인천시의회-인천시교육청",
           "url": "https://m.ekn.kr/view.php?key=20260906024191070",
           "source": "에너지경제신문",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘국제 공인 풀코스’ 11월 인천마라톤 오늘부터 접수",
+          "url": "https://v.daum.net/v/20260907043429577",
+          "source": "Daum",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "제주특별자치도": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-07T11:41:00+09:00",
+      "lastSeen": "2026-09-07T11:41:00+09:00",
+      "news": []
+    },
+    "티빙 보상": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T11:41:00+09:00",
+      "lastSeen": "2026-09-07T11:41:00+09:00",
+      "news": [
+        {
+          "title": "티빙, 오늘부터 개인정보 피해 보상 신청…탈퇴자는 재가입해야",
+          "url": "https://v.daum.net/v/20260907090930433",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "티빙, 정보유출 보상 신청 받는다...보상안 체감가치 약 2만원",
+          "url": "https://news.jtbc.co.kr/article/NB12317029",
+          "source": "JTBC",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "티빙·웨이브 연내 합병 가능할까…해킹 사태에 불확실성 확대",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433611",
+          "source": "연합인포맥스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "주병기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-07T11:41:00+09:00",
+      "lastSeen": "2026-09-07T11:41:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 21년 만에 부활하는 ‘재계 저승사자’…주병기 “쿠팡 같은 중대 사건 배치”",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1276524.html",
+          "source": "한겨레",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "쿠팡이 보여준 '미국 상장'의 진짜 힘",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/09/05/2026090580029.html",
+          "source": "인베스트조선",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'현장조사 거부' 초유의 사태…공정위, 쿠팡 조사 속도",
+          "url": "https://v.daum.net/v/20260906191932272",
+          "source": "Daum",
           "date": "2026-09-07"
         }
       ]
