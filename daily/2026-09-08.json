@@ -3029,10 +3029,10 @@
       ]
     },
     "주차장": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-08T13:42:00+09:00",
-      "lastSeen": "2026-09-08T13:42:00+09:00",
+      "lastSeen": "2026-09-08T14:13:00+09:00",
       "news": [
         {
           "title": "주차장서 차량에 치여 사망‥\"쓰러진 사람 못 봐\"",
@@ -3157,6 +3157,202 @@
           "date": "2026-09-08"
         }
       ]
+    },
+    "젠슨 황": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "news": [
+        {
+          "title": "젠슨 황 \"GPT-6 아스트라, AGI 시대 열었다…GPU 10만개 투입\"",
+          "url": "https://zdnet.co.kr/view/?no=20260907170942",
+          "source": "지디넷코리아",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "젠슨 황 \"AGI 시대 도래했다\"...오픈AI '아스트라'에 축하 메시지",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214974",
+          "source": "AI타임스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "\"범용인공지능 도래\"…반도체는 웃었는데, 소프트웨어는 '덜덜'",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433869",
+          "source": "연합인포맥스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "포헨즈": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "news": []
+    },
+    "알테오젠": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "news": [
+        {
+          "title": "[기자수첩] 알테오젠에 붙은 '신뢰 할인'",
+          "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3042536",
+          "source": "청년의사",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'4조 빅딜' 알테오젠, 58만→45만원 목표주가 하향…DB하이텍, 中 AI·로봇 수요 폭발에 저평가 매력 [株토피아]",
+          "url": "https://v.daum.net/v/20260908111328159",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "알테오젠, 4조 기술수출 다음은 ‘실적’…하반기 마일스톤 주목 [Why 바이오]",
+          "url": "https://www.sedaily.com/article/20088251",
+          "source": "서울경제",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "한지혜": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "news": [
+        {
+          "title": "한지혜, 탄탄한 복근 뽐내며…시애틀서 '바레' 운동 도전",
+          "url": "https://www.segye.com/newsView/20260906500041",
+          "source": "세계일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "한지혜, 자기 관리 철저한 ♥검사 사모님..42세 안 믿겨",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/07/MNRDMYJQG5QTEYJTMEYDOZLDHE/",
+          "source": "조선일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "한지혜, '근육뼈말라' 몸매의 정석…애 엄마의 독보적인 피지컬",
+          "url": "https://m.news.nate.com/view/20260907n30619?mid=e01&list=recent&cpcd=",
+          "source": "네이트",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "애플": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "news": [
+        {
+          "title": "“결국, 이걸 진짜 본다” 사상 초유의 애플 ‘접는폰’…스펙 다 나왔다, 등장 임박",
+          "url": "https://v.daum.net/v/20260907214211595",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "폴더블 아이폰 야심작인데, 하루 수백대 생산 그쳐…“초기 물량 비상”",
+          "url": "https://www.etnews.com/20260908000209",
+          "source": "전자신문",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "아이폰18·폴더블폰 출격에 신제품 흥행 가를 3대 변수는",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169644",
+          "source": "IT조선",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "항공": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "news": [
+        {
+          "title": "국제선 승객 ‘국내선 청사’에 내려준 대한항공···4명은 공항 나갔다 돌아와 입국심사",
+          "url": "https://www.khan.co.kr/article/202609080903001",
+          "source": "경향신문",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "김포공항서 국제선 승객이 국내선 청사에 내려…입국 사고",
+          "url": "https://v.daum.net/v/20260908094959354",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "여권 검사도 없이 \"뻥 뚫렸다\"…수십 명 국내로 '우르르'",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742465",
+          "source": "SBS 뉴스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "담보 대출": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "news": [
+        {
+          "title": "주담대 연체 ‘눈덩이’…연체 잔액 3년반만에 2.2배",
+          "url": "https://v.daum.net/v/20260908132836851",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "NH농협은행, 연체액 5000억 넘어⋯은행 주담대 부실 '경고등'",
+          "url": "https://v.daum.net/v/20260908132927893",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'더는 못 버티겠다'…영끌족들, 금리 상승에 곡소리 [지금이뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0545_202609080750013310",
+          "source": "YTN",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "도봉구": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "news": [
+        {
+          "title": "도봉구, 창동 608번지 첫 '준���업지역 주택재개발' 본격화",
+          "url": "https://v.daum.net/v/20260908134841613",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "‘노후 80%’ 창동 608번지 확 바뀐다…도봉구, 정비계획 용역 착수",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01931926645578152&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "창동 608번지 일대, 도봉구 첫 준공업지역 재개발 추진",
+          "url": "https://www.etoday.co.kr/news/view/2622976",
+          "source": "이투데이",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "알레스 페레이라": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "news": []
     }
   },
   "sections": {
