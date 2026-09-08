@@ -680,11 +680,30 @@
       ]
     },
     "레알 마드리드 대 인테르": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-09T04:40:00+09:00",
-      "lastSeen": "2026-09-09T06:12:00+09:00",
-      "news": []
+      "lastSeen": "2026-09-09T06:40:00+09:00",
+      "news": [
+        {
+          "title": "갑자기 무리뉴에게 '스프링클러' 선물...16년 전 메시 가두고 캄 노우 물바다 만든 '전설의 그날' 소환 - 조선비즈",
+          "url": "https://biz.chosun.com/sports/football/2026/09/08/GU2GINBXMI3DOMLFGFSDKMBUMI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'16년 전 베르나베우에서 트레블 완성' 무리뉴, 이번엔 레알 감독으로 인테르와 격돌...\"경기 중엔 친구 아니다\"",
+          "url": "https://www.osen.co.kr/article/G1112871948",
+          "source": "OSEN",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "실바·귈러·카마빙가·추아메니 OUT…무리뉴 감독 벌써 '비상'",
+          "url": "https://v.daum.net/v/20260907153150068",
+          "source": "Daum",
+          "date": "2026-09-08"
+        }
+      ]
     },
     "포르투 대 맨 시티": {
       "count": 3,
@@ -713,10 +732,10 @@
       ]
     },
     "real madrid vs inter": {
-      "count": 3,
-      "maxTraffic": 500,
+      "count": 4,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-09T05:13:00+09:00",
-      "lastSeen": "2026-09-09T06:12:00+09:00",
+      "lastSeen": "2026-09-09T06:40:00+09:00",
       "news": [
         {
           "title": "Mourinho returns to Champions League as Real Madrid coach to face Inter - CHOSUNBIZ",
@@ -751,10 +770,10 @@
       ]
     },
     "공소기각": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T05:13:00+09:00",
-      "lastSeen": "2026-09-09T06:12:00+09:00",
+      "lastSeen": "2026-09-09T06:40:00+09:00",
       "news": [
         {
           "title": "이미 공소기각 판결 급증… 檢 폐지로 범죄 처벌 더 힘들 것[사설]",
@@ -777,10 +796,10 @@
       ]
     },
     "도르트문트 대 비야레알": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T05:41:00+09:00",
-      "lastSeen": "2026-09-09T06:12:00+09:00",
+      "lastSeen": "2026-09-09T06:40:00+09:00",
       "news": [
         {
           "title": "보루시아 도르트문트 vs 비야레알 예측: 선두 경쟁의 뜨거운 승부",
@@ -829,10 +848,10 @@
       ]
     },
     "porto vs man city": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T06:12:00+09:00",
-      "lastSeen": "2026-09-09T06:12:00+09:00",
+      "lastSeen": "2026-09-09T06:40:00+09:00",
       "news": [
         {
           "title": "Francesco Farioli: Porto boss out to stun Man City in Champions League",
@@ -851,14 +870,26 @@
           "url": "https://sports.yahoo.com/articles/bouaddi-handed-full-city-debut-175500499.html",
           "source": "Yahoo Sports",
           "date": "2026-09-08"
+        },
+        {
+          "title": "Haaland nets double as Man City begin Champions League with win at Porto - report and ratings",
+          "url": "https://www.bbc.com/sport/football/live/cr86xj0yd7y2t",
+          "source": "BBC",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Doku and O’Reilly to miss Man City’s Champions League opener against Porto",
+          "url": "https://thefootballfreak.com/doku-and-oreilly-to-miss-citys-champions-league-opener/",
+          "source": "The Football Freak",
+          "date": "2026-09-08"
         }
       ]
     },
     "김하영": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-09T06:12:00+09:00",
-      "lastSeen": "2026-09-09T06:12:00+09:00",
+      "lastSeen": "2026-09-09T06:40:00+09:00",
       "news": [
         {
           "title": "'서프라이즈' 22년' 김하영, \"토니안 부인\" 됐다!..장기근속 보람",
@@ -881,10 +912,10 @@
       ]
     },
     "미래에셋": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T06:12:00+09:00",
-      "lastSeen": "2026-09-09T06:12:00+09:00",
+      "lastSeen": "2026-09-09T06:40:00+09:00",
       "news": [
         {
           "title": "‘TIGER 미국S&P500미국채혼합50' ETF 신규 상장",
@@ -959,10 +990,10 @@
       ]
     },
     "이종석": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-09T06:12:00+09:00",
-      "lastSeen": "2026-09-09T06:12:00+09:00",
+      "lastSeen": "2026-09-09T06:40:00+09:00",
       "news": [
         {
           "title": "‘아이유와 결별' 이종석 맞아?…배 나오고 턱선 사라진 근황",
@@ -980,6 +1011,64 @@
           "title": "이종석, 아이유와 결별 후 일상 공개…휴양지서 환한 미소 [N샷]",
           "url": "https://www.news1.kr/entertain/celebrity-topic/6282951",
           "source": "뉴스1",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "이종석은 벌크업, 아이유는 단발 싹둑..결별 후 확실한 '각자의 길'[핫피플] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/08/MY3GEYZXGNRWCNZRGFRTKYLCGI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "real madrid đấu với inter": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T06:40:00+09:00",
+      "lastSeen": "2026-09-09T06:40:00+09:00",
+      "news": [
+        {
+          "title": "Video bóng đá Real Madrid - Inter Milan: Trừng phạt sai lầm (Cúp C1)",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-inter-milan-trung-phat-sai-lam-cup-c1-c48a1793141.html",
+          "source": "Tin tức 24h",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "HLV Mourinho nhận món quà đặc biệt, khơi lại nỗi đau của Barcelona",
+          "url": "https://www.vietnam.vn/hlv-mourinho-nhan-mon-qua-dac-biet-khoi-lai-noi-dau-cua-barcelona",
+          "source": "Vietnam.vn",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Lịch trực tiếp Champions League: Liverpool gặp Atletico Madrid, Napoli đụng Arsenal",
+          "url": "https://tuoitre.vn/lich-truc-tiep-champions-league-liverpool-gap-atletico-madrid-napoli-dung-arsenal-100260908163741885.htm",
+          "source": "Báo Tuổi Trẻ",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "토토": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T06:40:00+09:00",
+      "lastSeen": "2026-09-09T06:40:00+09:00",
+      "news": [
+        {
+          "title": "[토토 투데이] 해외축구 개막의 즐거움 더한다…스포츠토토, ‘벳머니 킥오프 페스타’ 20일까지 진행 - 조선비즈",
+          "url": "https://biz.chosun.com/sports/sports_general/2026/09/08/MIYDSOJRHFSTOZBTGZRTGZDCME/",
+          "source": "Chosunbiz",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "스포츠토토 베트맨, ‘벳머니 킥오프 페스타’로 해외축구팬 공략",
+          "url": "https://www.mk.co.kr/news/sports/12147584",
+          "source": "매일경제",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "스포츠토토 베트맨, 해외축구 개막 기념 ‘벳머니 킥오프 페스타’ 진행",
+          "url": "https://sports.khan.co.kr/article/202609081745003",
+          "source": "스포츠경향",
           "date": "2026-09-08"
         }
       ]
