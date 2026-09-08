@@ -1723,6 +1723,266 @@
           "date": "2026-09-07"
         }
       ]
+    },
+    "여수시": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "news": [
+        {
+          "title": "[밀착카메라] '예산 700억' 여수 섬 박람회 구경 뒤…\"볼거리가 있습니까?\"",
+          "url": "https://v.daum.net/v/20260907210359987",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "여수세계섬박람회 개막 첫주말 3만5천명 관람…흥행 '빨간불'",
+          "url": "https://www.yna.co.kr/view/AKR20260907070500054",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "인니 전통공연부터 이원일 셰프까지…문화·미식 잡은 ‘여수세계섬박람회’ - 조선비즈",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/09/07/WKFPH4KM3JCBXJDTUSRMEID37M/",
+          "source": "Chosunbiz",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "르윈 디아즈": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "news": [
+        {
+          "title": "'그렇게 간절했나' 삼성 亞쿼터 1억 돈값 다했다, 1호 세이브→1호 홀드 기념구 모두 박제…\"디아즈보다 빠르던데?\" [MD잠실]",
+          "url": "https://v.daum.net/v/20260907120244071",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "‘미야지 바꾸길 잘했네’ ERA 32.40→5경기 연속 무실점…2군 갈 줄 알았더니 필승조 변신하다 \"적응 마친 것 같다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/08/202609080255771752O",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "평균자책 8월 11.81→9월 제로···사토시, 뒤늦게 발현한 삼성의 우승 청부사?",
+          "url": "https://sports.khan.co.kr/article/202609071510003",
+          "source": "스포츠경향",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "땅": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "news": [
+        {
+          "title": "5천억 들여 수도권 땅 산다...국토부·LH, 주택용지 공공비축 첫 추진",
+          "url": "https://v.daum.net/v/20260908072536332",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "LH, 수도권 주택공급용 토지 5000억 규모 매입 공모",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372147",
+          "source": "전기신문",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "5천억원 규모 수도권 유휴부지 비축 공모…\"주택수요 대비\"",
+          "url": "https://www.yna.co.kr/view/AKR20260907116100003",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "노태문": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "news": [
+        {
+          "title": "“717만 원 받고는 일 못해”…삼성 노조 갈등에 ‘노키아 몰락’ 재조명 [잇슈 머니]",
+          "url": "https://v.daum.net/v/X2HS7A8BWI",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "삼성전자 DX 노조 '미국 타임스퀘어 광고'…\"부적절한 행위\"",
+          "url": "https://www.hankyung.com/article/2026090667507",
+          "source": "한국경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "뉴욕 한복판에 \"우리도 있다\"…노조 광고 정체",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740206",
+          "source": "SBS 뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "한병도": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "news": [
+        {
+          "title": "전국 지하철 무임승차 인원이 21%…한병도에 국비지원 건의",
+          "url": "https://v.daum.net/v/20260907172950919",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "노사 뭉쳐 국회로 갔다… 부산교통공사 등 6개 도시철도, '무임수송 손실 국비보전' 촉구",
+          "url": "https://view.asiae.co.kr/article/2026090718225411581",
+          "source": "아시아경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "서울교통공��� 등 전국 철도 노사 \"무임손실 국비 보전해야\" - 머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/09/07/2026090718051062132",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "챔피언스리그": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "news": [
+        {
+          "title": "현대차, ‘별들의 전쟁’에 뜬다…日닛산 떠난 ‘챔스’ 파트너 꿰찼다",
+          "url": "https://v.daum.net/v/20260908080956241",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "현대차, UEFA 챔피언스리그 공식 파트너 선정",
+          "url": "https://www.fnnews.com/news/202609080821184749",
+          "source": "파이낸셜뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "하이얼, UEFA 챔피언스리그와 글로벌 파트너��� 발표",
+          "url": "https://news.mtn.co.kr/newswire/detail/5040856_KO40856_9",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "국제선": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "news": [
+        {
+          "title": "국제선 승객 ‘국내선 청사’에 내려준 대한항공···4명은 공항 나갔다 뒤늦게 입국심사",
+          "url": "https://www.khan.co.kr/article/202609080903001",
+          "source": "경향신문",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "국제선 승객을 국내선에…4명 공항 나갔다 뒤늦게 입국심사",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742236",
+          "source": "SBS 뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[단독]국제선 승객을 국내선 청사에 내려줘… 수십 명이 심사 없이 입국 ‘보안 사고’",
+          "url": "https://v.daum.net/v/20260908043500988",
+          "source": "Daum",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "세종문화회관": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "news": [
+        {
+          "title": "[단독]‘차량진입금지’ 팻말 세워놓고 “기관장 차는 주차도 된다”는 세종문화회관",
+          "url": "https://v.daum.net/v/20260908060127949",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "1만원의 행복…‘누구나 클래식’서 차이콥스키 만난다",
+          "url": "https://www.sedaily.com/article/20087866",
+          "source": "서울경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[공연소식] 세종문화회관, 국립심포니와 '누구나 클래식' 공연",
+          "url": "https://v.daum.net/v/Vlf6EQ0HY9",
+          "source": "Daum",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "용준형": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "news": [
+        {
+          "title": "용준형, '♥현아'와 결혼 후 '확 달라진 모습'…4달 만에 근황 [RE:스타]",
+          "url": "https://v.daum.net/v/20260907181037874",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "용준형, 무표정에 무채색 근황…4개월만 근황 공개",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779184",
+          "source": "뉴시스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "현아, 술병 들고 신났네…감출 수 없는 미소 [DA★]",
+          "url": "https://sports.donga.com/ent/article/all/20260905/134610623/1",
+          "source": "스포츠동아",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "us open": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "news": [
+        {
+          "title": "Defending Champions Alcaraz, Sabalenka Reach US Open Quarterfinals",
+          "url": "https://en.sedaily.com/sports/2026/09/07/defending-champions-alcaraz-sabalenka-reach-us-open",
+          "source": "Seoul Economic Daily",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "How Frances Tiafoe thrilled while favorites Sabalenka, Pegula, Alcaraz, Shelton all advanced on U.S. Open 2026 Day 8",
+          "url": "https://www.nytimes.com/athletic/live-blogs/us-open-2026-live-updates-day-8-scores-results/DfQw236tRPfZ/",
+          "source": "The New York Times",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Tennis at Flushing Meadows Heats Up with Thrilling Quarter-Finals",
+          "url": "https://www.devdiscourse.com/article/sports-games/3973858-tennis-at-flushing-meadows-heats-up-with-thrilling-quarter-finals",
+          "source": "Devdiscourse",
+          "date": "2026-09-07"
+        }
+      ]
     }
   },
   "sections": {
