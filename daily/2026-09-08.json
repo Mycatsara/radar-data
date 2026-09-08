@@ -2765,10 +2765,10 @@
       ]
     },
     "안재환": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T13:13:00+09:00",
-      "lastSeen": "2026-09-08T13:13:00+09:00",
+      "lastSeen": "2026-09-08T13:42:00+09:00",
       "news": [
         {
           "title": "정선희, 故 안재환 사별 후…\"'잡아먹었다'는 말에 큰 상처\"",
@@ -2786,6 +2786,12 @@
           "title": "정선희, '빚더미 생활고' 힘겨웠던 가정사...\"집에 딱지 붙고 온가족 뿔뿔이\"",
           "url": "https://www.sportschosun.com/entertainment/2026-09-08/202609080100052100003370",
           "source": "스포츠조선",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "정선희, 故안재환과 사별 후 \"남편 잡아먹었다고 해…평생 따라다니는 주홍글씨\"",
+          "url": "https://v.daum.net/v/20260908132732820",
+          "source": "Daum",
           "date": "2026-09-08"
         }
       ]
@@ -2817,10 +2823,10 @@
       ]
     },
     "울산 웨일즈": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T13:13:00+09:00",
-      "lastSeen": "2026-09-08T13:13:00+09:00",
+      "lastSeen": "2026-09-08T13:42:00+09:00",
       "news": [
         {
           "title": "'韓 10개 구단 주목!' 35살 최지만 또 터졌다, 23일 만에 홈런→멀티히트 폭발…드래프트 12일 남았는데, 누가 데려가나",
@@ -2843,10 +2849,10 @@
       ]
     },
     "외국인": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-08T13:13:00+09:00",
-      "lastSeen": "2026-09-08T13:13:00+09:00",
+      "lastSeen": "2026-09-08T13:42:00+09:00",
       "news": [
         {
           "title": "허위광고 금지, 한국어능력 강화…정부, 유학생 정책 전환",
@@ -2865,14 +2871,26 @@
           "url": "https://www.hani.co.kr/arti/society/schooling/1276754.html",
           "source": "한겨레",
           "date": "2026-09-08"
+        },
+        {
+          "title": "외국인노동자 임금체불 급증…1년새 43% 늘어",
+          "url": "https://v.daum.net/v/20260908095237486",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "작년 외국인노동자 임금 1548억 떼였다…체불액 43% 폭증",
+          "url": "https://www.news1.kr/local/gwangju-jeonnam/6283358",
+          "source": "뉴스1",
+          "date": "2026-09-08"
         }
       ]
     },
     "자책점": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T13:13:00+09:00",
-      "lastSeen": "2026-09-08T13:13:00+09:00",
+      "lastSeen": "2026-09-08T13:42:00+09:00",
       "news": [
         {
           "title": "‘평균자책점 0.55’ LG 사이드암, 군대 가더니 선동열급 ERA 찍고 있네…13경기 연속 무실점→6세이브 3홀드 - 머니투데이",
@@ -2891,14 +2909,20 @@
           "url": "https://mydaily.co.kr/page/view/2026090615591438009",
           "source": "마이데일리",
           "date": "2026-09-08"
+        },
+        {
+          "title": "김성윤-김영웅 선발 제외 \"상대 투수 상대성 때문에\"...보스 계약 해지→후라도 복귀전 \"100구까지 던질 수 있다\"",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/06/GAYGMMJRHAYTKMTDME2TSMRSMU/",
+          "source": "조선일보",
+          "date": "2026-09-08"
         }
       ]
     },
     "웨이브": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-08T13:13:00+09:00",
-      "lastSeen": "2026-09-08T13:13:00+09:00",
+      "lastSeen": "2026-09-08T13:42:00+09:00",
       "news": [
         {
           "title": "[리뷰M] \"싹 죽여야\"…더 섬뜩해진 사회실��� '더 커뮤니티2'★★★★",
@@ -2916,6 +2940,12 @@
           "title": "[김민서의 AI가-중계] 사상·술래잡기·입시…예능은 왜 서바이벌에 빠졌나",
           "url": "https://www.mediapen.com/news/view/1121152",
           "source": "미디어펜",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "OTT 신규 가입 '6배 폭증'…거래 통한 '생존 게임'으로 시청자 쫄깃하게 만든 韓 예능 ('더 커뮤니티 2')",
+          "url": "https://v.daum.net/v/20260908112000583",
+          "source": "Daum",
           "date": "2026-09-08"
         }
       ]
@@ -2993,6 +3023,136 @@
         {
           "title": "[사설]개인정보 유출 피해에도 집단소송제 도입해야",
           "url": "https://www.khan.co.kr/article/202609071853001",
+          "source": "경향신문",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "주차장": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T13:42:00+09:00",
+      "lastSeen": "2026-09-08T13:42:00+09:00",
+      "news": [
+        {
+          "title": "주차장서 차량에 치여 사망‥\"쓰러진 사람 못 봐\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6850241_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "지하주차장 깔림 사고...대구 도시철도 한때 운행 차질",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609080522586179",
+          "source": "YTN",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "차에 깔려 끌어냈지만…30대 여성 결국 사망",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742012",
+          "source": "SBS 뉴스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "아시아나항공": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T13:42:00+09:00",
+      "lastSeen": "2026-09-08T13:42:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 아시아나, “넘버원 클리어, 넘버투 클리어” 방송 종료…기내방송도 ‘통합 대한항공’",
+          "url": "https://v.daum.net/v/20260908100519212",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "원화 강세에 항공주 고공비행…대한항공 신고가",
+          "url": "https://www.hankyung.com/article/202609079199i",
+          "source": "한국경제",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "하나證 “대한항공, 아시아 항공사 중 항공화물 수송량 1위…목표가 4만1000원” - 조선비즈",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/09/08/332BHRURHFCOJLTUZ7UCHVKJ5U/",
+          "source": "Chosunbiz",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "프로골퍼": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T13:42:00+09:00",
+      "lastSeen": "2026-09-08T13:42:00+09:00",
+      "news": [
+        {
+          "title": "“학생, 키는 이제 다 컸어” 158㎝ 최단신 상금왕 골퍼가 세운 기적",
+          "url": "https://www.segye.com/newsView/20260904510196",
+          "source": "세계일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "최경주, 30일 페럼 컨트리클럽에서 골프 팬 초청해 토크쇼",
+          "url": "https://www.yna.co.kr/view/AKR20260908056100007",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "최경주, 30일 골프 팬 초청 ‘마음 토크쇼’ 진행",
+          "url": "https://www.munhwa.com/article/11615306",
+          "source": "문화일보",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "티빙 보상신청": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T13:42:00+09:00",
+      "lastSeen": "2026-09-08T13:42:00+09:00",
+      "news": [
+        {
+          "title": "티빙, 개인정보 유출 보상 신청 시작…탈퇴 회원도 대상",
+          "url": "https://www.yna.co.kr/view/AKR20260907057200017",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "\"티빙 보상 신청했어요?\"…쿠팡·KT·SKT와 비교해보니",
+          "url": "https://www.news1.kr/it-science/security-hacking/6282646",
+          "source": "뉴스1",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[사설]개인정보 유출 피해에도 집단소송제 도입해야",
+          "url": "https://www.khan.co.kr/article/202609071853001",
+          "source": "경향신문",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "시위": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T13:42:00+09:00",
+      "lastSeen": "2026-09-08T13:42:00+09:00",
+      "news": [
+        {
+          "title": "봉쇄 95일 만에 핸드볼경기장 진입…경찰 \"투표지 훼손 없게 엄정 관리\"",
+          "url": "https://news.jtbc.co.kr/article/NB12317269",
+          "source": "JTBC",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[현장] ‘올다르크’에 월급 조차 못주던 대한체육회… 96일 만에 뚫었다 [세상&]",
+          "url": "https://v.daum.net/v/20260908131441530",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "경찰 진입 ‘올공 경기장’ 둘러본 장동혁…“대통령 해외 순방 중 강한 유감”",
+          "url": "https://www.khan.co.kr/article/202609081004001",
           "source": "경향신문",
           "date": "2026-09-08"
         }
