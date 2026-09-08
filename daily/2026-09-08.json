@@ -3723,10 +3723,10 @@
       ]
     },
     "겨울": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-08T15:46:00+09:00",
-      "lastSeen": "2026-09-08T16:43:00+09:00",
+      "lastSeen": "2026-09-08T17:15:00+09:00",
       "news": [
         {
           "title": "맨온더분, 한국 `겨울바다` 정취 담은 2026 가을·겨울 컬렉션 공개",
@@ -3745,14 +3745,26 @@
           "url": "https://m.apparelnews.co.kr/news/news_view/?idx=227485?cat=CAT113",
           "source": "어패럴뉴스",
           "date": "2026-09-08"
+        },
+        {
+          "title": "올가을 ‘강한 엘니뇨’ 발생…한반도 겨울 기온 오를 듯 [환경 인사이드]",
+          "url": "https://www.donga.com/news/Society/article/all/20260907/134616350/1",
+          "source": "동아일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "2026년 9월이 이상하다…태평양엔 허리케인 3개, 대서양엔 0개",
+          "url": "https://v.daum.net/v/QQzRUqyOCS",
+          "source": "Daum",
+          "date": "2026-09-08"
         }
       ]
     },
     "한국토지주택공사": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-08T15:46:00+09:00",
-      "lastSeen": "2026-09-08T16:43:00+09:00",
+      "lastSeen": "2026-09-08T17:15:00+09:00",
       "news": [
         {
           "title": "LH, 수도권 주택공급용 토지 5000억 규모 매입 공모",
@@ -3787,10 +3799,10 @@
       ]
     },
     "미국": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-08T15:46:00+09:00",
-      "lastSeen": "2026-09-08T16:43:00+09:00",
+      "lastSeen": "2026-09-08T17:15:00+09:00",
       "news": [
         {
           "title": "미·캐나다 관세 전쟁 격화에…트럼프가 콕 찍은 기업 ‘봄바디어’",
@@ -3825,10 +3837,10 @@
       ]
     },
     "야차룰": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-08T16:14:00+09:00",
-      "lastSeen": "2026-09-08T16:43:00+09:00",
+      "lastSeen": "2026-09-08T17:15:00+09:00",
       "news": [
         {
           "title": "\"싸워라\" 강요받은 20대 여성…10대 2명과 싸우다 숨져",
@@ -3853,21 +3865,46 @@
           "url": "https://www.chosun.com/national/incident/2026/09/08/IBIRMKHG7VCGJKQHMFL5QLACSQ/",
           "source": "조선일보",
           "date": "2026-09-08"
+        },
+        {
+          "title": "’야차룰’ 강요로 10대 2명과 싸운 여성 숨져…20대들 구속",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260908144827wQN",
+          "source": "연합뉴스TV",
+          "date": "2026-09-08"
         }
       ]
     },
     "반려견": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-08T16:43:00+09:00",
-      "lastSeen": "2026-09-08T16:43:00+09:00",
-      "news": []
+      "lastSeen": "2026-09-08T17:15:00+09:00",
+      "news": [
+        {
+          "title": "임실군, 반려견과 함께 떠나는 '펫투어' 운영",
+          "url": "https://v.daum.net/v/20260908164729990",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[임실소식]가을 관광객 유치 '반려동물 동반 펫투어' 등",
+          "url": "https://www.newsis.com/view/NISX20260908_0003781314",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "반려동물 친화관광도시 임실군, '반려동물 동반 펫투어' 운영",
+          "url": "https://www.news1.kr/local/jeonbuk/6283929",
+          "source": "뉴스1",
+          "date": "2026-09-08"
+        }
+      ]
     },
     "김혜경": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-08T16:43:00+09:00",
-      "lastSeen": "2026-09-08T16:43:00+09:00",
+      "lastSeen": "2026-09-08T17:15:00+09:00",
       "news": [
         {
           "title": "김혜경 여사, 성 가정 도미니코 수녀회 수도원 방문 | 김혜경 여사 | 미디어",
@@ -3885,6 +3922,91 @@
           "title": "김혜경 여사, 마크롱 부인과 4번째 만남…한불 수교 140주년 '내조 외교'",
           "url": "https://v.daum.net/v/20260908012349023",
           "source": "Daum",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "경기일보": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T17:15:00+09:00",
+      "lastSeen": "2026-09-08T17:15:00+09:00",
+      "news": []
+    },
+    "lng선": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T17:15:00+09:00",
+      "lastSeen": "2026-09-08T17:15:00+09:00",
+      "news": [
+        {
+          "title": "日이 개발한 세계 첫 '쌍돛 LNG선', 왜 韓서 만들었나",
+          "url": "https://v.daum.net/v/20260908132311719",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "일본 미쓰이OSK '한화오션 건조' 돛 장착 LNG 운반선 공개, \"바람 활용해 연료 소모량 감소\"",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446624",
+          "source": "비즈니스포스트",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "한·일 조선협력 본격화…한화오션서 돛 단 LNG선 공개 [도쿄나우]",
+          "url": "https://www.hankyung.com/article/202609089953i",
+          "source": "한국경제",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "최수종": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T17:15:00+09:00",
+      "lastSeen": "2026-09-08T17:15:00+09:00",
+      "news": [
+        {
+          "title": "58세 하희라♥65세 최수종, 점점 젊어지는 얼굴…30대라고 해도 믿겠네",
+          "url": "https://v.daum.net/v/20260908094007858",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "하희라, 58세 믿기지 않는 동안…65세 최수종과 ‘오랜만에 투샷’ [SD셀픽]",
+          "url": "https://sports.donga.com/ent/article/all/20260908/134625262/1",
+          "source": "스포츠동아",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "58세 하희라♥65세 최수종, 점점 젊어지는 얼굴…30대라고 해도 믿겠네 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/08/GBSWMMBVMY4TGODGMU2WCMRSGU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "재혼": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T17:15:00+09:00",
+      "lastSeen": "2026-09-08T17:15:00+09:00",
+      "news": [
+        {
+          "title": "'남자는 마누라 죽으면 뒷간서 웃는다'…사별 후 재혼, 남성이 더 많았다",
+          "url": "https://v.daum.net/v/20260908050136143",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "돌싱들 연소득, 男이 女보다 높다…男 7000만원↑ 女 5000만원↓",
+          "url": "https://www.newsis.com/view/NISX20260902_0003772403",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "돌싱 남녀 연소득 차이 이정도?…男절반 1억 이상, 女는?",
+          "url": "https://www.munhwa.com/article/11614094",
+          "source": "문화일보",
           "date": "2026-09-08"
         }
       ]
