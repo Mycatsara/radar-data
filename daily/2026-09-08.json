@@ -5111,10 +5111,10 @@
       ]
     },
     "재벌": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 500,
       "firstSeen": "2026-09-08T21:47:00+09:00",
-      "lastSeen": "2026-09-08T23:15:00+09:00",
+      "lastSeen": "2026-09-08T23:44:00+09:00",
       "news": [
         {
           "title": "정권 바뀌고 경제 불확실성 커져…인니 최고재벌, 해외 투자로 선회",
@@ -5407,14 +5407,20 @@
       ]
     },
     "lpl": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T22:15:00+09:00",
-      "lastSeen": "2026-09-08T23:15:00+09:00",
+      "lastSeen": "2026-09-08T23:44:00+09:00",
       "news": [
         {
           "title": "Can IG Go To Worlds 2026? Invictus Gaming Vs LGD Gaming Preview",
           "url": "https://www.hotspawn.com/league-of-legends/news/invictus-gaming-lgd-preview",
+          "source": "Hotspawn",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "SEN HamBak on choosing the LCS over the LPL: “I Chose the LCS Because I Wanted to Go to Worlds More”",
+          "url": "https://www.hotspawn.com/league-of-legends/news/sen-hambak-lcs-summer-2026",
           "source": "Hotspawn",
           "date": "2026-09-08"
         }
@@ -5447,10 +5453,10 @@
       ]
     },
     "김재원": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T22:44:00+09:00",
-      "lastSeen": "2026-09-08T23:15:00+09:00",
+      "lastSeen": "2026-09-08T23:44:00+09:00",
       "news": [
         {
           "title": "김재원 미추홀구의원 \"다목적체육관·신청사, 추진 계획 명확히 설명\" 촉구",
@@ -5485,10 +5491,10 @@
       ]
     },
     "빛과전자": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T22:44:00+09:00",
-      "lastSeen": "2026-09-08T23:15:00+09:00",
+      "lastSeen": "2026-09-08T23:44:00+09:00",
       "news": [
         {
           "title": "[0908시황레이더] 빛과전자, AI 데이터센터·6G 광통신 부품 국산화 사업 선정 소식에 상한가 등 By 인포스탁데일리",
@@ -5511,10 +5517,10 @@
       ]
     },
     "우도 천진항": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-08T23:15:00+09:00",
-      "lastSeen": "2026-09-08T23:15:00+09:00",
+      "lastSeen": "2026-09-08T23:44:00+09:00",
       "news": [
         {
           "title": "우도 천진항 앞바다서 50대 물에 빠져…심정지 상태 구조",
@@ -5537,10 +5543,10 @@
       ]
     },
     "삼성 전자 월세": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-08T23:15:00+09:00",
-      "lastSeen": "2026-09-08T23:15:00+09:00",
+      "lastSeen": "2026-09-08T23:44:00+09:00",
       "news": [
         {
           "title": "‘월세 70만원’ 지원금 챙기려 꼼수?···삼성전자, 일부 직원 조사 ‘발칵’",
@@ -5558,6 +5564,110 @@
           "title": "월세 70만원 챙기려다…\"성과급은커녕 잘릴 판\" 삼성맨 '초비상' [이슈+]",
           "url": "https://www.hankyung.com/article/202609081685g",
           "source": "한국경제",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "닌텐도 다이렉트": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T23:44:00+09:00",
+      "lastSeen": "2026-09-08T23:44:00+09:00",
+      "news": [
+        {
+          "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026 and Nintendo Direct 9.9.2026",
+          "url": "https://www.nintendo.com/us/nintendo-direct/9-8-2026/",
+          "source": "Nintendo",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "The Legend of Zelda 40th Anniversary Direct: all the news and trailers",
+          "url": "https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct",
+          "source": "The Verge",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "The Legend of Zelda 40th Anniversary Direct live stream",
+          "url": "https://nintendoeverything.com/the-legend-of-zelda-40th-anniversary-direct-live-stream/",
+          "source": "Nintendo Everything",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "모닝와이드": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T23:44:00+09:00",
+      "lastSeen": "2026-09-08T23:44:00+09:00",
+      "news": [
+        {
+          "title": "이 대통령 “K콘텐츠, 큰 고목만 남아선 안 돼… 작은 나무 끊임없이 자라야”",
+          "url": "https://supple.kr/news/cmtrcp752001usf7qq6g2hh11",
+          "source": "https://spt.co.kr/",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "이 대통령, 곧 마크롱과 정상회담‥'파병' 고심 속 다시 마주 앉은 한·프 정상",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850468_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "韓佛, ��력문건 16건 채택…방산 협력·반도체교류 기반 확대",
+          "url": "https://v.daum.net/v/20260908231953505",
+          "source": "Daum",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "알파 문구": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T23:44:00+09:00",
+      "lastSeen": "2026-09-08T23:44:00+09:00",
+      "news": [
+        {
+          "title": "2만원짜리 탁구채를 7만원에…중학생 등친 문구점의 최후",
+          "url": "https://www.donga.com/news/Society/article/all/20260907/134623501/1",
+          "source": "동아일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "“탁구채 2개에 14만 원” 논란에…본사 “가맹계약 해지” [잇슈 키워드]",
+          "url": "https://v.daum.net/v/20260908070910130",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "\"탁구채 2개에 14만원\"…바가지 문구점 결�� 간판 뗀다",
+          "url": "https://news.jtbc.co.kr/article/NB12317303",
+          "source": "JTBC",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "사형": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-08T23:44:00+09:00",
+      "lastSeen": "2026-09-08T23:44:00+09:00",
+      "news": [
+        {
+          "title": "‘팔로워 260만’ 유명 女방송인 사형 선고…그녀의 이중생활",
+          "url": "https://www.donga.com/news/Inter/article/all/20260908/134627963/2",
+          "source": "동아일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "이집트, ’250만 팔로워’ 유명 방송인에 ’사형 선고’",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260908154212wZo",
+          "source": "연합뉴스TV",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'팔로워 260만' 이집트 TV쇼 ���행자…마약 밀매 혐의로 사형 선고 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/08/2026090814375215730",
+          "source": "머니투데이",
           "date": "2026-09-08"
         }
       ]
