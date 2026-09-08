@@ -1086,10 +1086,10 @@
       ]
     },
     "이완규": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-09T07:13:00+09:00",
-      "lastSeen": "2026-09-09T07:13:00+09:00",
+      "lastSeen": "2026-09-09T07:40:00+09:00",
       "news": [
         {
           "title": "'안가회동 위증' 이완규, 항소기각에 불복했지만…대법서 최종 기각",
@@ -1112,10 +1112,10 @@
       ]
     },
     "реал мадрид – интер": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T07:13:00+09:00",
-      "lastSeen": "2026-09-09T07:13:00+09:00",
+      "lastSeen": "2026-09-09T07:40:00+09:00",
       "news": [
         {
           "title": "«Реал Мадрид» - «Интер»: Тікелей эфир!",
@@ -1133,6 +1133,18 @@
           "title": "Реал — Интер. Смотреть онлайн LIVE прямую видеотрансляцию матча Лиги чемпионов",
           "url": "https://www.ua-football.com/foreign/video/1788849596-real-inter-smotret-onlayn-live-pryamuyu-videotranslyaciyu-matcha-ligi-chempionov.html",
           "source": "UA-Football",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "«Реал» с Моуринью удачно вернулся в ЛЧ! Помог дикий «привозище» вратаря «Интера»",
+          "url": "https://www.championat.ru/football/article-6613126-real-madrid-inter-2-1-obzor-matcha-1-go-tura-obschego-etapa-ligi-chempionov-goly-mbappe-valverde-augusto-8-sentyabrya-2026.html",
+          "source": "https://www.championat.ru/",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Текстовая трансляция Реал Мадрид - Интер:",
+          "url": "https://sport24.ru/football/leagues/uefa-champions-league/match/real-madrid-inter-2026-09-08/text-online",
+          "source": "Sport24.ru",
           "date": "2026-09-08"
         }
       ]
@@ -1158,6 +1170,214 @@
         {
           "title": "차량 시스템 논란 해소될까…대구 4호선 공론화위 10일 출범",
           "url": "https://www.news1.kr/local/daegu-gyeongbuk/6283968",
+          "source": "뉴스1",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "코레일 추석예매": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-09T07:40:00+09:00",
+      "lastSeen": "2026-09-09T07:40:00+09:00",
+      "news": [
+        {
+          "title": "추석 연휴 기차표는 통합된 코레일+앱에서 예매하세요 - 전체 | 카드/한컷 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148971347&pWise=sub&pWiseSub=R3",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "추석 열차표 놓쳤다면 ‘예약대기 먼저’…미결제 취소표, 15일 후 대기자에 우선 배정",
+          "url": "https://v.daum.net/v/20260907161042158?f=p",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "코레일 '2026 추석 승차권 예매'…용산 출·도착 호남·전라선",
+          "url": "https://www.etoday.co.kr/news/view/2623305",
+          "source": "이투데이",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "한화오션": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-09T07:40:00+09:00",
+      "lastSeen": "2026-09-09T07:40:00+09:00",
+      "news": [
+        {
+          "title": "“한국 또 골랐다” 태국이 찍은 한화오션…6800억 첫판 뒤 수조원대 호위함 시장 [배틀라인]",
+          "url": "https://www.seoul.co.kr/news/international/2026/09/09/20260909500002",
+          "source": "서울신문",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "한화오션, 태국 해군 호위함 사업자 선정…6800억원 규모",
+          "url": "https://news.mtn.co.kr/news-detail/2026090818441699646",
+          "source": "MTN 머니투��이방송",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "한화오션, 7000억원 규모 태국 호위함 사업 수주 - 조선비즈",
+          "url": "https://biz.chosun.com/industry/company/2026/09/08/Z763YOPS7JCHNMQFY4V2Z3O5SI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "일본 엔": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T07:40:00+09:00",
+      "lastSeen": "2026-09-09T07:40:00+09:00",
+      "news": [
+        {
+          "title": "‘수퍼 엔저’ 끝나나, 엔 캐리 청산 가능성에 글로벌 증시 긴장",
+          "url": "https://www.chosun.com/economy/stock-finance/2026/09/08/RPZ4WVFEIJAW7A3R5YMN55TGFY/",
+          "source": "조선일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "나티시스 \"엔화 강세 계속된다…이전과는 달라\"",
+          "url": "https://v.daum.net/v/20260909065102429",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "MUFG \"달러-엔, 단기적으로 151.50엔까지 하락 전망\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433938",
+          "source": "연합인포맥스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "후티": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-09T07:40:00+09:00",
+      "lastSeen": "2026-09-09T07:40:00+09:00",
+      "news": [
+        {
+          "title": "사우디·후티, 홍해 일대서 사실상 전면전... 500명 사망, 2만명 피란",
+          "url": "https://www.chosun.com/international/international_general/2026/09/09/JGNYS3YFWRD7LGFBNCA4IVMCBI/",
+          "source": "조선일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "전면전 수준 충돌…홍해 둘러싼 '최악의 난타전'",
+          "url": "https://v.daum.net/v/20260909071809015",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "중동 정세 격화에 다우 1.2%↓…국제유가도 100달러 육박(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260909007251072",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "주가": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-09T07:40:00+09:00",
+      "lastSeen": "2026-09-09T07:40:00+09:00",
+      "news": [
+        {
+          "title": "[단독] “김승원 10억 받기로” 제보에 수사…결론 왜 뒤집혔나",
+          "url": "https://v.daum.net/v/20260909060637876",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "한동훈, “비서실장 안다” 녹취 공개…국민의힘 “핵심은 청탁”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8658390",
+          "source": "KBS 뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "김승원 기소 의견 냈던 檢, 총장 교체뒤 ‘기소유예’로 선회",
+          "url": "https://www.donga.com/news/Society/article/all/20260909/134631305/2",
+          "source": "동아일보",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "킬리안 음바페": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T07:40:00+09:00",
+      "lastSeen": "2026-09-09T07:40:00+09:00",
+      "news": [
+        {
+          "title": "득점한 킬리안과 퇴장당한 에단…UCL '음바페 형제'의 상반된 하루",
+          "url": "https://m.news.nate.com/view/20260909n04337?mid=s22&list=recent&cpcd=",
+          "source": "Nate News",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "득점한 킬리안과 퇴장당한 에단…UCL '음바페 형제'의 상반된 하루",
+          "url": "https://isplus.com/article/view/isp202609090005",
+          "source": "일간스포츠",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'한국인은 없다' 케인·음바페·홀란·메시·야말 총출동, 2026 발롱도르 후보 30인 공개 [공식발표]",
+          "url": "https://v.daum.net/v/20260909004952803",
+          "source": "Daum",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "real madrid": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T07:40:00+09:00",
+      "lastSeen": "2026-09-09T07:40:00+09:00",
+      "news": [
+        {
+          "title": "Jones comete error costoso y Mbappé lidera castigo del Real Madrid al Inter en Champions League",
+          "url": "https://es-us.noticias.yahoo.com/deportes/jones-comete-error-costoso-mbapp%C3%A9-221321148.html",
+          "source": "Yahoo",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Bernardo Silva no juega ante Inter: la razón de su ausencia en Champions",
+          "url": "https://www.365scores.com/es/news/por-que-no-juega-bernardo-silva-inter/",
+          "source": "365Scores",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Chivu: \"Asumo el valor y la personalidad de que no hemos venido a especular\"",
+          "url": "https://www.marca.com/futbol/champions-league/2026/09/08/chivu-asumo-valor-personalidad-hemos-venido-especular.html",
+          "source": "MARCA",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "경마": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T07:40:00+09:00",
+      "lastSeen": "2026-09-09T07:40:00+09:00",
+      "news": [
+        {
+          "title": "이천시, 경마공원 유치 본격화…\"최적의 유치 전략 추진\"",
+          "url": "https://v.daum.net/v/20260908171255288",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "성수석 이천시장, “시민과 함께 최적의 한국마사회 유치 전략 짜겠다”",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260908500229",
+          "source": "서울Pn",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "이상현 남원시의원, 한국마사회 본사 남원 이전 촉구",
+          "url": "https://www.news1.kr/local/jeonbuk/6283332",
           "source": "뉴스1",
           "date": "2026-09-08"
         }
