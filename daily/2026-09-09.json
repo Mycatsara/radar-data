@@ -2,10 +2,10 @@
   "date": "2026-09-09",
   "keywords": {
     "고려대": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T00:15:00+09:00",
-      "lastSeen": "2026-09-09T00:44:00+09:00",
+      "lastSeen": "2026-09-09T01:15:00+09:00",
       "news": [
         {
           "title": "[2027 수시]경희대, 3006명 선발…학생부 평가 정교화",
@@ -30,14 +30,20 @@
           "url": "https://nwww.newsis.com/view/NISX20260903_0003775685",
           "source": "뉴시스",
           "date": "2026-09-08"
+        },
+        {
+          "title": "[네팔 대홍수] 유엔 \"히말라야 수백만 주민, 빙하홍수 위험 심각\"",
+          "url": "https://www.fnnews.com/news/202609021605074229",
+          "source": "파이낸셜뉴스",
+          "date": "2026-09-08"
         }
       ]
     },
     "전환사채": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-09T00:15:00+09:00",
-      "lastSeen": "2026-09-09T00:44:00+09:00",
+      "lastSeen": "2026-09-09T01:15:00+09:00",
       "news": [
         {
           "title": "에볼루션 메탈&테크, 최대 1억 달러 규모 전환사채 발행 추진…S-1 증권신고서 제출",
@@ -60,10 +66,10 @@
       ]
     },
     "사회복지사": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T00:15:00+09:00",
-      "lastSeen": "2026-09-09T00:44:00+09:00",
+      "lastSeen": "2026-09-09T01:15:00+09:00",
       "news": [
         {
           "title": "“사회복지사끼리 결혼하면 기초수급자”…주말마다 투잡 뛴다",
@@ -92,10 +98,10 @@
       ]
     },
     "챔피언스리그": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T00:15:00+09:00",
-      "lastSeen": "2026-09-09T00:44:00+09:00",
+      "lastSeen": "2026-09-09T01:15:00+09:00",
       "news": [
         {
           "title": "다시 시작하는 별들의 전쟁…이강인, 김민재 등 코리안리거 연달아 출격",
@@ -120,14 +126,20 @@
           "url": "https://sports.khan.co.kr/article/202609081131013",
           "source": "스포츠경향",
           "date": "2026-09-08"
+        },
+        {
+          "title": "이강인부터 김민재까지, '태극전사 4인방' 내일부터 UCL 출격",
+          "url": "https://www.newsis.com/view/NISX20260908_0003780331",
+          "source": "뉴시스",
+          "date": "2026-09-08"
         }
       ]
     },
     "닌텐도 다이렉트": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T00:15:00+09:00",
-      "lastSeen": "2026-09-09T00:44:00+09:00",
+      "lastSeen": "2026-09-09T01:15:00+09:00",
       "news": [
         {
           "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
@@ -152,14 +164,20 @@
           "url": "https://nintendoeverything.com/the-legend-of-zelda-40th-anniversary-concert-series-announced/",
           "source": "Nintendo Everything",
           "date": "2026-09-08"
+        },
+        {
+          "title": "Nintendo Is Releasing A 40th Anniversary Legend Of Zelda Switch 2 On October 29",
+          "url": "https://www.engadget.com/2252681/nintendo-is-releasing-a-40th-anniversary-legend-of-zelda-switch-2-on-october-29/",
+          "source": "Engadget",
+          "date": "2026-09-08"
         }
       ]
     },
     "모닝와이드": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T00:15:00+09:00",
-      "lastSeen": "2026-09-09T00:44:00+09:00",
+      "lastSeen": "2026-09-09T01:15:00+09:00",
       "news": [
         {
           "title": "이 대통령, 곧 마크롱과 정상회담‥'파병' 고심 속 다시 마주 앉은 한·프 정상",
@@ -286,10 +304,10 @@
       ]
     },
     "수시원서접수": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T00:44:00+09:00",
-      "lastSeen": "2026-09-09T00:44:00+09:00",
+      "lastSeen": "2026-09-09T01:15:00+09:00",
       "news": [
         {
           "title": "원서 접수만 수십만원…수시 전형료 장사에 수험생·학부모 '비명'",
@@ -307,6 +325,90 @@
           "title": "[단독] [2027대입잣대] ‘수시지원 유의’ 올해 신입생 충원율 90% 미만 대학.. 대구예대 신경주대 등 14개교",
           "url": "https://www.veritas-a.com/news/articleView.html?idxno=626693",
           "source": "베리타스알파",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "‘80％ 선발’ 수시전형 시작…“6장 전략 배분”",
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8657564",
+          "source": "KBS 뉴스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "신병": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T01:15:00+09:00",
+      "lastSeen": "2026-09-09T01:15:00+09:00",
+      "news": [
+        {
+          "title": "'신병4' 김민호·이원정, 밝혀진 악연의 비밀…4.1%, 꾸준한 상승세",
+          "url": "https://www.ytn.co.kr/_ln/0117_202609080939000467",
+          "source": "YTN",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "김민호 일냈다…‘신병4’, 4%대 넘고 전 시즌 ‘최고’ 시청률 [차트IS]",
+          "url": "https://v.daum.net/v/20260908103042634",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'신병4 : 사보타주' 김민호, 이원정과 얽힌 훈련소 과거 공개",
+          "url": "https://www.newspim.com/news/view/20260907000528",
+          "source": "뉴스핌",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "한화에어로스페이스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T01:15:00+09:00",
+      "lastSeen": "2026-09-09T01:15:00+09:00",
+      "news": [
+        {
+          "title": "현대로템, ‘대드론 다층 방어’ 폴란드형 K2 전차 첫선",
+          "url": "https://www.donga.com/news/K-TECH%20Global%20Leaders/article/all/20260908/134631220/1",
+          "source": "동아일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "푸틴 코앞에 쫙 깔린 한국 무기…왜 하필 ‘천무·K9·K2’ 일까? [밀리터리+]",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260908601021",
+          "source": "나우뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "한화, 유럽서 위성영상 AI 분석 ��루션 공개…\"나토 방산 기여\"",
+          "url": "https://www.yna.co.kr/view/AKR20260907081000003",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "gta6": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T01:15:00+09:00",
+      "lastSeen": "2026-09-09T01:15:00+09:00",
+      "news": [
+        {
+          "title": "GTA 6's Worldwide Release Times Revealed - with New Zealand Set to Receive Access 19 Hours Before Mexico and Central America",
+          "url": "https://www.digitalfoundry.net/news/2026/09/gta-6s-worldwide-release-times-revealed-with-new-zealand-set-to-receive-access-19-hours-before-mexico-and-central-america",
+          "source": "Digital Foundry",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "GTA 6 Could Launch 18 Hours Early for Players Using This PS5 Trick",
+          "url": "https://www.mensjournal.com/entertainment/gta-6-could-launch-18-hours-early-for-players-using-this-ps5-trick",
+          "source": "Men's Journal",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "The exact regional launch schedule for Grand Theft Auto 6 on PlayStation 5 has been released.",
+          "url": "https://en.gamegpu.com/news/igry/stalo-izvestno-tochnoe-regionalnoe-raspisanie-zapuska-igry-grand-theft-auto-6-na-playstation-5",
+          "source": "GameGPU",
           "date": "2026-09-08"
         }
       ]
@@ -890,6 +992,18 @@
         "title": "\"비트코인 또 잠시 멈춤\"…스트래티지, 1.7억달러 들여 자사 우선주 사들였다",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VOEkteXlIMnZ2c3A3NG5QalBIZFM0bDllQ2d4Um9XOE5PR3VqNVYyV0dxNHhGSHpVMm5ES1JiNC1yTjhYTldzeU1EQVNUMzlMZDFGQXhpSlo?oc=5",
         "source": "블록미디어",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "삼전닉스 급등 이유 있었다…세상 놀라게 한 '괴물 AI' 정체",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGV3BKaUtwSzVtNHpFazBtVHBhRUtCUGZRVDJFblpsdmR5dG13Wmx2MldLSVVRV0ZIN0FyUFlYRTV3MGJjNlFMa2xBYngwTXlteDlFQ2FKcVlkQQ?oc=5",
+        "source": "hankyung.com",
+        "date": "2026-09-07"
+      },
+      {
+        "title": "브라우저가 감시 도구로... 크롬·엣지 확장 프로그램 위장 백도어 ‘PEEP’ 발견",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBINW9NRzhUenpteXEwQ0VkRzRNRmQwQXk2cFVIbUduU0ZfS21tb3FLM1lXQktONmVSQTBrZUJEVDN1RUw3aUZ2d1c3aktjREVrOVJSTVdCVktBbzRzVVlzMlhyVUFiQml0OEdz?oc=5",
+        "source": "보안뉴스",
         "date": "2026-09-08"
       }
     ],
