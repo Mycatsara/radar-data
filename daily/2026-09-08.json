@@ -1725,10 +1725,10 @@
       ]
     },
     "여수시": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T09:21:00+09:00",
-      "lastSeen": "2026-09-08T09:47:00+09:00",
+      "lastSeen": "2026-09-08T10:12:00+09:00",
       "news": [
         {
           "title": "[밀착카메라] '예산 700억' 여수 섬 박람회 구경 뒤…\"볼거리가 있습니까?\"",
@@ -1757,10 +1757,10 @@
       ]
     },
     "르윈 디아즈": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T09:21:00+09:00",
-      "lastSeen": "2026-09-08T09:47:00+09:00",
+      "lastSeen": "2026-09-08T10:12:00+09:00",
       "news": [
         {
           "title": "'그렇게 간절했나' 삼성 亞쿼터 1억 돈값 다했다, 1호 세이브→1호 홀드 기념구 모두 박제…\"디아즈보다 빠르던데?\" [MD잠실]",
@@ -1783,10 +1783,10 @@
       ]
     },
     "땅": {
-      "count": 2,
-      "maxTraffic": 1000,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-08T09:21:00+09:00",
-      "lastSeen": "2026-09-08T09:47:00+09:00",
+      "lastSeen": "2026-09-08T10:12:00+09:00",
       "news": [
         {
           "title": "5천억 들여 수도권 땅 산다...국토부·LH, 주택용지 공공비축 첫 추진",
@@ -2015,10 +2015,10 @@
       ]
     },
     "gpt 아스트라": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-08T09:47:00+09:00",
-      "lastSeen": "2026-09-08T09:47:00+09:00",
+      "lastSeen": "2026-09-08T10:12:00+09:00",
       "news": [
         {
           "title": "젠슨 황 \"GPT-6 아스트라, AGI 시대 열었다…GPU 10만개 투입\"",
@@ -2037,14 +2037,20 @@
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433676",
           "source": "연합인포맥스",
           "date": "2026-09-07"
+        },
+        {
+          "title": "\"AGI가 도래했다\"...AI 피크아웃 잠재운 '아스트라'",
+          "url": "https://www.hankyung.com/article/202609079200i",
+          "source": "한국경제",
+          "date": "2026-09-07"
         }
       ]
     },
     "구직": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T09:47:00+09:00",
-      "lastSeen": "2026-09-08T09:47:00+09:00",
+      "lastSeen": "2026-09-08T10:12:00+09:00",
       "news": [
         {
           "title": "8년 다닌 회사에서 잘렸다, 구직급여 신청하고 깨달은 것",
@@ -2067,10 +2073,10 @@
       ]
     },
     "응급실": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T09:47:00+09:00",
-      "lastSeen": "2026-09-08T09:47:00+09:00",
+      "lastSeen": "2026-09-08T10:12:00+09:00",
       "news": [
         {
           "title": "'10대 응급실 미수용→사망' 병원책임 인정…응급醫들 \"또 책임 전가\" - 머니투데이",
@@ -2088,6 +2094,116 @@
           "title": "추락한 10대 ‘대구 응급실 뺑뺑이’…대법 “수용거부 병원 행정처분, 정당”",
           "url": "https://www.dt.co.kr/article/12082213",
           "source": "www.dt.co.kr",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "대법 \"'대구 응급실 뺑뺑이' 수용 거부 병원 행정처분은 정당\"",
+          "url": "https://www.yna.co.kr/view/AKR20260904122500063",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "일본": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T10:12:00+09:00",
+      "lastSeen": "2026-09-08T10:12:00+09:00",
+      "news": [
+        {
+          "title": "\"지하차도서 또\"‥일본, 큰비에 피해 잇따라",
+          "url": "https://v.daum.net/v/20260908073109403",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "“일본 여행 취소해야 해? 어떡해”…기상청도 놀란 역대급 폭우, 대피령까지 떨어졌다",
+          "url": "https://www.sedaily.com/article/20088293",
+          "source": "서울경제",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'소멸 직전' 日도쿄 일대 물폭탄‥새벽 5시 긴급 발표 '날벼락'",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6850128_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "문구점": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T10:12:00+09:00",
+      "lastSeen": "2026-09-08T10:12:00+09:00",
+      "news": [
+        {
+          "title": "“탁구채 2개에 14만 원” 논란에…본사 “가맹계약 해지” [잇슈 키워드]",
+          "url": "https://v.daum.net/v/20260908070910130",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "중학생에 탁구채 2개 14만원…논란의 알파문구 가맹점 결국 계약 해지 - 조선비즈",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/09/08/RYRWXQEWRRFZRFSGHWWFOPVUAU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "\"한 세트는 기사님 드세요\"…똑같은 메뉴 2개 주문해 건넨 '천사 고객'",
+          "url": "https://www.news1.kr/society/general-society/6282240",
+          "source": "뉴스1",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "박용택": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T10:12:00+09:00",
+      "lastSeen": "2026-09-08T10:12:00+09:00",
+      "news": [
+        {
+          "title": "'짠한형' 이대호 \"나지완, 진짜 주당…물 대신 소주\" [RE:TV]",
+          "url": "https://v.daum.net/v/20260908053156600",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "이대호 \"박용택은 해설할 때 말 길어, 3절까지 다 해\"",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779904",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "박용택→나지완 \"다시 태어나면 선발 투수하고 싶어\"",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/517504",
+          "source": "iMBC 연예",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "gpt 6 astra": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T10:12:00+09:00",
+      "lastSeen": "2026-09-08T10:12:00+09:00",
+      "news": [
+        {
+          "title": "GPT-6 Astra: A new generation of intelligence",
+          "url": "https://openai.com/index/gpt-6-astra/",
+          "source": "OpenAI",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+          "source": "Business Insider",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "OpenAI's new model costs 2.5x more per token — and developers are saving money anyway",
+          "url": "https://thenewstack.io/astra-reasoning-effort-cost/",
+          "source": "The New Stack",
           "date": "2026-09-07"
         }
       ]
