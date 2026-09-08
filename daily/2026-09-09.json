@@ -462,10 +462,10 @@
       ]
     },
     "메이드인코리아 시즌2": {
-      "count": 7,
+      "count": 8,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-09T01:43:00+09:00",
-      "lastSeen": "2026-09-09T04:40:00+09:00",
+      "lastSeen": "2026-09-09T05:13:00+09:00",
       "news": [
         {
           "title": "[TF초점] 9월 OTT 점령한 부부…현빈·손예진, 동시 출격",
@@ -520,10 +520,10 @@
       ]
     },
     "풍자": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T02:13:00+09:00",
-      "lastSeen": "2026-09-09T04:40:00+09:00",
+      "lastSeen": "2026-09-09T05:13:00+09:00",
       "news": [
         {
           "title": "풍자, 벌써부터 결혼 발표 파장 예상 \"대한민국 시끌벅적, 남편 공개 안할 것\" (풍자테레비)",
@@ -546,10 +546,10 @@
       ]
     },
     "양구": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T02:13:00+09:00",
-      "lastSeen": "2026-09-09T04:40:00+09:00",
+      "lastSeen": "2026-09-09T05:13:00+09:00",
       "news": [
         {
           "title": "양구 해안면 농가 흙탕물 저감·작목 전환에 4개 기관 손잡아",
@@ -568,14 +568,20 @@
           "url": "https://www.yna.co.kr/view/AKR20260907100700062",
           "source": "연합뉴스",
           "date": "2026-09-08"
+        },
+        {
+          "title": "캠코 강원, 강원도 등 공익형 사과과수원 조성 맞손",
+          "url": "https://www.newsis.com/view/NISX20260908_0003781196",
+          "source": "뉴시스",
+          "date": "2026-09-08"
         }
       ]
     },
     "인플루언서": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T03:16:00+09:00",
-      "lastSeen": "2026-09-09T04:40:00+09:00",
+      "lastSeen": "2026-09-09T05:13:00+09:00",
       "news": [
         {
           "title": "\"이 행동이 죽음 불렀다\"…오리알 60~70개 먹방 100만 中인플루언서 사망",
@@ -610,10 +616,10 @@
       ]
     },
     "sbs": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T04:12:00+09:00",
-      "lastSeen": "2026-09-09T04:40:00+09:00",
+      "lastSeen": "2026-09-09T05:13:00+09:00",
       "news": [
         {
           "title": "SBS News Hunters Preview for September 8",
@@ -636,10 +642,10 @@
       ]
     },
     "club brugge vs aston villa": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T04:12:00+09:00",
-      "lastSeen": "2026-09-09T04:40:00+09:00",
+      "lastSeen": "2026-09-09T05:13:00+09:00",
       "news": [
         {
           "title": "Champions League: Aston Villa hold on to beat Club Brugge before Man City visit Porto",
@@ -674,17 +680,17 @@
       ]
     },
     "레알 마드리드 대 인테르": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-09T04:40:00+09:00",
-      "lastSeen": "2026-09-09T04:40:00+09:00",
+      "lastSeen": "2026-09-09T05:13:00+09:00",
       "news": []
     },
     "포르투 대 맨 시티": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-09T04:40:00+09:00",
-      "lastSeen": "2026-09-09T04:40:00+09:00",
+      "lastSeen": "2026-09-09T05:13:00+09:00",
       "news": [
         {
           "title": "시티, FC 포르투전 원정 명단 확정",
@@ -702,6 +708,58 @@
           "title": "'엔소와 한판승부' 황인범, 맨시티전 선발 출전 유력! '뇌진탕 변수'로 빠지는 MVP 공백 메워라",
           "url": "https://v.daum.net/v/p7vyp8tWlC",
           "source": "Daum",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "real madrid vs inter": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T05:13:00+09:00",
+      "lastSeen": "2026-09-09T05:13:00+09:00",
+      "news": [
+        {
+          "title": "Mourinho returns to Champions League as Real Madrid coach to face Inter - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-sports/2026/09/08/2WD5FS7BC5CPRFFVFE2V4WEB3E/",
+          "source": "Chosunbiz",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "This was Real Madrid's arrival at the Bernabéu before the match against Inter",
+          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/asi-fue-la-llegada-del-real-madrid-al-bernabeu-08-09-2026",
+          "source": "Real Madrid CF | Web Oficial",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "From the 1964 final to the new Bernabéu: the history of Real Madrid vs. Inter",
+          "url": "https://onefootball.com/en/news/from-the-1964-final-to-the-new-bernabeu-the-history-of-real-madrid-vs-inter-43425005",
+          "source": "OneFootball",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "공소기각": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T05:13:00+09:00",
+      "lastSeen": "2026-09-09T05:13:00+09:00",
+      "news": [
+        {
+          "title": "이미 공소기각 판결 급증… 檢 폐지로 범죄 처벌 더 힘들 것[사설]",
+          "url": "https://www.munhwa.com/article/11615062",
+          "source": "문화일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "절차 흠결로 재판 종결…1심 공소기각 판결 최근 3년 새 급증",
+          "url": "https://www.dailian.co.kr/news/view/1687143/%EC%A0%88%EC%B0%A8-%ED%9D%A0%EA%B2%B0%EB%A1%9C-%EC%9E%AC%ED%8C%90-%EC%A2%85%EA%B2%B01%EC%8B%AC-%EA%B3%B5%EC%86%8C%EA%B8%B0%EA%B0%81-2026",
+          "source": "데일리안",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "작년 공소 기각 판결 3500여명…'개정형소법 시행' 10월부터 더 늘듯",
+          "url": "https://m.news.nate.com/view/20260906n02096?mid=m03&list=recent&cpcd=",
+          "source": "Nate News",
           "date": "2026-09-08"
         }
       ]
