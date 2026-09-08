@@ -796,10 +796,10 @@
       ]
     },
     "도르트문트 대 비야레알": {
-      "count": 3,
-      "maxTraffic": 200,
+      "count": 4,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-09T05:41:00+09:00",
-      "lastSeen": "2026-09-09T06:40:00+09:00",
+      "lastSeen": "2026-09-09T07:13:00+09:00",
       "news": [
         {
           "title": "보루시아 도르트문트 vs 비야레알 예측: 선두 경쟁의 뜨거운 승부",
@@ -848,10 +848,10 @@
       ]
     },
     "porto vs man city": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-09T06:12:00+09:00",
-      "lastSeen": "2026-09-09T06:40:00+09:00",
+      "lastSeen": "2026-09-09T07:13:00+09:00",
       "news": [
         {
           "title": "Francesco Farioli: Porto boss out to stun Man City in Champions League",
@@ -886,10 +886,10 @@
       ]
     },
     "김하영": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T06:12:00+09:00",
-      "lastSeen": "2026-09-09T06:40:00+09:00",
+      "lastSeen": "2026-09-09T07:13:00+09:00",
       "news": [
         {
           "title": "'서프라이즈' 22년' 김하영, \"토니안 부인\" 됐다!..장기근속 보람",
@@ -912,10 +912,10 @@
       ]
     },
     "미래에셋": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-09T06:12:00+09:00",
-      "lastSeen": "2026-09-09T06:40:00+09:00",
+      "lastSeen": "2026-09-09T07:13:00+09:00",
       "news": [
         {
           "title": "‘TIGER 미국S&P500미국채혼합50' ETF 신규 상장",
@@ -990,10 +990,10 @@
       ]
     },
     "이종석": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-09T06:12:00+09:00",
-      "lastSeen": "2026-09-09T06:40:00+09:00",
+      "lastSeen": "2026-09-09T07:13:00+09:00",
       "news": [
         {
           "title": "‘아이유와 결별' 이종석 맞아?…배 나오고 턱선 사라진 근황",
@@ -1022,10 +1022,10 @@
       ]
     },
     "real madrid đấu với inter": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-09T06:40:00+09:00",
-      "lastSeen": "2026-09-09T06:40:00+09:00",
+      "lastSeen": "2026-09-09T07:13:00+09:00",
       "news": [
         {
           "title": "Video bóng đá Real Madrid - Inter Milan: Trừng phạt sai lầm (Cúp C1)",
@@ -1044,14 +1044,20 @@
           "url": "https://tuoitre.vn/lich-truc-tiep-champions-league-liverpool-gap-atletico-madrid-napoli-dung-arsenal-100260908163741885.htm",
           "source": "Báo Tuổi Trẻ",
           "date": "2026-09-08"
+        },
+        {
+          "title": "Nhận định Real Madrid vs Inter Milan, 2h00 ngày 9/9 - Champions League 2026/27",
+          "url": "https://thethao247.vn/441-nhan-dinh-real-madrid-vs-inter-milan-2h00-ngay-9-9-champions-league-2026-27-c288-d435073.html",
+          "source": "Thể Thao 247",
+          "date": "2026-09-08"
         }
       ]
     },
     "토토": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T06:40:00+09:00",
-      "lastSeen": "2026-09-09T06:40:00+09:00",
+      "lastSeen": "2026-09-09T07:13:00+09:00",
       "news": [
         {
           "title": "[토토 투데이] 해외축구 개막의 즐거움 더한다…스포츠토토, ‘벳머니 킥오프 페스타’ 20일까지 진행 - 조선비즈",
@@ -1069,6 +1075,90 @@
           "title": "스포츠토토 베트맨, 해외축구 개막 기념 ‘벳머니 킥오프 페스타’ 진행",
           "url": "https://sports.khan.co.kr/article/202609081745003",
           "source": "스포츠경향",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "드디어 2026-2027시즌 해외축구 개막…베트맨, ‘벳머니 킥오프 페스타’ 진행",
+          "url": "https://sports.donga.com/sports/article/all/20260908/134625615/1",
+          "source": "스포츠동아",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "이완규": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T07:13:00+09:00",
+      "lastSeen": "2026-09-09T07:13:00+09:00",
+      "news": [
+        {
+          "title": "'안가회동 위증' 이완규, 항소기각에 불복했지만…대법서 최종 기각",
+          "url": "https://v.daum.net/v/pQbqwnb0HW",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'위증 공소기각' 이완규 무죄 주장 항소…대법원서 최종 기각",
+          "url": "https://www.newsis.com/view/NISX20260908_0003781533",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "‘안가 회동 위증’ 이완규 전 법제처장, 무죄받고자 항소했지만…대법서 최종 기각",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260908.99099002648",
+          "source": "국제신문",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "реал мадрид – интер": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T07:13:00+09:00",
+      "lastSeen": "2026-09-09T07:13:00+09:00",
+      "news": [
+        {
+          "title": "«Реал Мадрид» - «Интер»: Тікелей эфир!",
+          "url": "https://qazsporttv.kz/ru/news/20983",
+          "source": "Qazsport",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "«Реал» — «Интер»: онлайн-трансляция матча 1-го тура Лиги чемпионов начнётся в 22:00 мск",
+          "url": "https://www.championat.ru/football/news-6612214-real-madrid-inter-onlajn-translyaciya-matcha-1-go-tura-obschego-etapa-ligi-chempionov-2026-2027-nachnetsya-v-22-00-msk-8-sentyabry.html",
+          "source": "https://www.championat.ru/",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Реал — Интер. Смотреть онлайн LIVE прямую видеотрансляцию матча Лиги чемпионов",
+          "url": "https://www.ua-football.com/foreign/video/1788849596-real-inter-smotret-onlayn-live-pryamuyu-videotranslyaciyu-matcha-ligi-chempionov.html",
+          "source": "UA-Football",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "대구 도시철도 엑스코선": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T07:13:00+09:00",
+      "lastSeen": "2026-09-09T07:13:00+09:00",
+      "news": [
+        {
+          "title": "착공 앞둔 대구 4호선 '건설방식 재검토'…시민 의견 묻는다",
+          "url": "https://www.yna.co.kr/view/AKR20260908119000053",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[대구소식]도시철도 4호선 공론화위 10일 출범 등",
+          "url": "https://www.newsis.com/view/NISX20260908_0003781110",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "차량 시스템 논란 해소될까…대구 4호선 공론화위 10일 출범",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6283968",
+          "source": "뉴스1",
           "date": "2026-09-08"
         }
       ]
