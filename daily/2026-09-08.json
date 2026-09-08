@@ -2289,10 +2289,10 @@
       ]
     },
     "박선주": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T10:42:00+09:00",
-      "lastSeen": "2026-09-08T11:42:00+09:00",
+      "lastSeen": "2026-09-08T12:13:00+09:00",
       "news": [
         {
           "title": "박선주, 이찬원에 \"사회성 뛰어난 보컬\"…진해성엔 \"평가 불가 수준\" ('K트롯 진선미') [종합]",
@@ -2385,10 +2385,10 @@
       ]
     },
     "신다 인": {
-      "count": 2,
-      "maxTraffic": 1000,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-08T11:13:00+09:00",
-      "lastSeen": "2026-09-08T11:42:00+09:00",
+      "lastSeen": "2026-09-08T12:13:00+09:00",
       "news": [
         {
           "title": "‘발목 부상’ 박현경, KB금융 챔피언십도 못 나온다…‘올해 통산 10승’ 목표 달성 더욱 어려워질 듯",
@@ -2411,10 +2411,10 @@
       ]
     },
     "레즈 대 다저스": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-08T11:13:00+09:00",
-      "lastSeen": "2026-09-08T11:42:00+09:00",
+      "lastSeen": "2026-09-08T12:13:00+09:00",
       "news": [
         {
           "title": "오타니 ‘이도류’ 결국 멈췄다…로버츠 감독, “지금 투구는 전혀 의미 없다” 언제 공 잡을지도 모른다",
@@ -2437,10 +2437,10 @@
       ]
     },
     "피트 헤그세스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-08T11:42:00+09:00",
-      "lastSeen": "2026-09-08T11:42:00+09:00",
+      "lastSeen": "2026-09-08T12:13:00+09:00",
       "news": [
         {
           "title": "‘아프간 마지막 미군’ 대장마저…헤그세스 몽니에 날아갔다[지금, 이 사람]",
@@ -2463,10 +2463,10 @@
       ]
     },
     "알렉산더 즈베레프": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-08T11:42:00+09:00",
-      "lastSeen": "2026-09-08T11:42:00+09:00",
+      "lastSeen": "2026-09-08T12:13:00+09:00",
       "news": [
         {
           "title": "'1번 시드' 츠베레프, US오픈 16강 진출…코볼리·프리츠 탈락",
@@ -2489,10 +2489,10 @@
       ]
     },
     "nep vs hk": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T11:42:00+09:00",
-      "lastSeen": "2026-09-08T11:42:00+09:00",
+      "lastSeen": "2026-09-08T12:13:00+09:00",
       "news": [
         {
           "title": "Nepal vs Hong Kong, China Live Scorecard: Live Cricket Score NEP vs HK, Match 19, ACC Men\\'s Premier Cup, 2026",
@@ -2510,6 +2510,110 @@
           "title": "NEP vs HKC 19 Match Prediction & Odds, Men’s Premier Cup, 2026",
           "url": "https://asiacup.com.in/nep-vs-hkc-19-match-prediction/",
           "source": "Asia Cup 2026",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "낸시랭": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T12:13:00+09:00",
+      "lastSeen": "2026-09-08T12:13:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 낸시랭, 오늘(8일) 새벽 강남서 만취 음주운전 적발…면허 취소 소준",
+          "url": "https://v.daum.net/v/20260908105750152",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "방송인 낸시랭 만취로 운전하다 검거...면허 취소 수준",
+          "url": "https://www.chosun.com/national/national_general/2026/09/08/NDELLKNHCFCTRP4LN6NSO23G54/",
+          "source": "조선일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "방송인 낸시랭, 음주운전 혐의 입건...면허 취소 수준",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609081043585086",
+          "source": "YTN",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "대한항공": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T12:13:00+09:00",
+      "lastSeen": "2026-09-08T12:13:00+09:00",
+      "news": [
+        {
+          "title": "[단독]국제선 승객을 국내선 청사에 내려줘… 수십 명이 심사 없이 입국 ‘보안 사고’",
+          "url": "https://v.daum.net/v/20260908043500988",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "국제선 승객 ‘국내선 청사’에 내려준 대한항공···4명은 공항 나갔다 돌아와 입국심사",
+          "url": "https://www.khan.co.kr/article/202609080903001",
+          "source": "경향신문",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[자막뉴스] 여권 검사 없이 \"뻥 뚫렸다\"…9시간 '증발' \"보안 수준 심각\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742465",
+          "source": "SBS 뉴스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "정점식": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T12:13:00+09:00",
+      "lastSeen": "2026-09-08T12:13:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 정점식 \"사적 이익 도모하는 세력과 개헌 논의 안 할 것\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6850318_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "정점식 “이번 정부서 개헌은 없다”…김민석 추진에 반대 못 박아",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1276732.html",
+          "source": "한겨레",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "교섭단체 대표연설 하는 정점식 국민의힘 원내대표",
+          "url": "https://mobile.newsis.com/photo/NISI20260908_0021427989",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "주가조작": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T12:13:00+09:00",
+      "lastSeen": "2026-09-08T12:13:00+09:00",
+      "news": [
+        {
+          "title": "“한동훈, 자료유출 되치기 한심”…국힘 당권파에 홍준표 “똑똑하네”",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1276723.html",
+          "source": "한겨레",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "與 \"검찰식 불법 캐비닛 정치\"…김승원 논란에 韓때리기 본격화",
+          "url": "https://v.daum.net/v/20260908115837723",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "김승원 \"코로나 신약인줄…자료에 대상포진 치료제 언급 없어\"",
+          "url": "https://news.jtbc.co.kr/article/NB12317268",
+          "source": "JTBC",
           "date": "2026-09-08"
         }
       ]
