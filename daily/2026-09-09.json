@@ -2,10 +2,10 @@
   "date": "2026-09-09",
   "keywords": {
     "고려대": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T00:15:00+09:00",
-      "lastSeen": "2026-09-09T01:15:00+09:00",
+      "lastSeen": "2026-09-09T01:43:00+09:00",
       "news": [
         {
           "title": "[2027 수시]경희대, 3006명 선발…학생부 평가 정교화",
@@ -40,10 +40,10 @@
       ]
     },
     "전환사채": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T00:15:00+09:00",
-      "lastSeen": "2026-09-09T01:15:00+09:00",
+      "lastSeen": "2026-09-09T01:43:00+09:00",
       "news": [
         {
           "title": "에볼루션 메탈&테크, 최대 1억 달러 규모 전환사채 발행 추진…S-1 증권신고서 제출",
@@ -62,14 +62,26 @@
           "url": "https://www.mt.co.kr/industry/2026/09/08/2026090814234089308",
           "source": "머니투데이",
           "date": "2026-09-08"
+        },
+        {
+          "title": "엘앤에프, 선제적 자금 조달 다각 검토…“NCM·LFP 양극재 투트랙 전략 일환”",
+          "url": "https://www.donga.com/news/Economy/article/all/20260908/134630757/1",
+          "source": "동아일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'대규모 CB 카드' 만지작 엘앤에프, 종속회사 LFP 양극재에 쏠린 눈",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349489",
+          "source": "녹색경제신문",
+          "date": "2026-09-08"
         }
       ]
     },
     "사회복지사": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T00:15:00+09:00",
-      "lastSeen": "2026-09-09T01:15:00+09:00",
+      "lastSeen": "2026-09-09T01:43:00+09:00",
       "news": [
         {
           "title": "“사회복지사끼리 결혼하면 기초수급자”…주말마다 투잡 뛴다",
@@ -98,10 +110,10 @@
       ]
     },
     "챔피언스리그": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T00:15:00+09:00",
-      "lastSeen": "2026-09-09T01:15:00+09:00",
+      "lastSeen": "2026-09-09T01:43:00+09:00",
       "news": [
         {
           "title": "다시 시작하는 별들의 전쟁…이강인, 김민재 등 코리안리거 연달아 출격",
@@ -136,10 +148,10 @@
       ]
     },
     "닌텐도 다이렉트": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T00:15:00+09:00",
-      "lastSeen": "2026-09-09T01:15:00+09:00",
+      "lastSeen": "2026-09-09T01:43:00+09:00",
       "news": [
         {
           "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
@@ -304,10 +316,10 @@
       ]
     },
     "수시원서접수": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T00:44:00+09:00",
-      "lastSeen": "2026-09-09T01:15:00+09:00",
+      "lastSeen": "2026-09-09T01:43:00+09:00",
       "news": [
         {
           "title": "원서 접수만 수십만원…수시 전형료 장사에 수험생·학부모 '비명'",
@@ -336,10 +348,10 @@
       ]
     },
     "신병": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T01:15:00+09:00",
-      "lastSeen": "2026-09-09T01:15:00+09:00",
+      "lastSeen": "2026-09-09T01:43:00+09:00",
       "news": [
         {
           "title": "'신병4' 김민호·이원정, 밝혀진 악연의 비밀…4.1%, 꾸준한 상승세",
@@ -362,10 +374,10 @@
       ]
     },
     "한화에어로스페이스": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-09T01:15:00+09:00",
-      "lastSeen": "2026-09-09T01:15:00+09:00",
+      "lastSeen": "2026-09-09T01:43:00+09:00",
       "news": [
         {
           "title": "현대로템, ‘대드론 다층 방어’ 폴란드형 K2 전차 첫선",
@@ -384,14 +396,26 @@
           "url": "https://www.yna.co.kr/view/AKR20260907081000003",
           "source": "연합뉴스",
           "date": "2026-09-08"
+        },
+        {
+          "title": "한화에어로, 자체 AI 연산 인프라 구축…GPU 팜 400억원 투자",
+          "url": "https://v.daum.net/v/20260908192549033",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "한화에어로스페이스, '협력사 AI 역량 강화' 동반성장 세미나 개최",
+          "url": "https://www.nocutnews.co.kr/news/6573730",
+          "source": "노컷뉴스",
+          "date": "2026-09-08"
         }
       ]
     },
     "gta6": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T01:15:00+09:00",
-      "lastSeen": "2026-09-09T01:15:00+09:00",
+      "lastSeen": "2026-09-09T01:43:00+09:00",
       "news": [
         {
           "title": "GTA 6's Worldwide Release Times Revealed - with New Zealand Set to Receive Access 19 Hours Before Mexico and Central America",
@@ -409,6 +433,32 @@
           "title": "The exact regional launch schedule for Grand Theft Auto 6 on PlayStation 5 has been released.",
           "url": "https://en.gamegpu.com/news/igry/stalo-izvestno-tochnoe-regionalnoe-raspisanie-zapuska-igry-grand-theft-auto-6-na-playstation-5",
           "source": "GameGPU",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "메이드인코리아 시즌2": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-09T01:43:00+09:00",
+      "lastSeen": "2026-09-09T01:43:00+09:00",
+      "news": [
+        {
+          "title": "[TF초점] 9월 OTT 점령한 부부…현빈·손예진, 동시 출격",
+          "url": "https://v.daum.net/v/20260909000225976",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "‘메이드 인 코리아 시즌2’ 공개시간 언제? 등장인물과 몇부작 궁금증",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3688729",
+          "source": "국제뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "정우성·현빈, 우도환 나란히 극찬 “예쁠 수밖에 없는 배우”",
+          "url": "https://sports.donga.com/ent/article/all/20260908/134629484/1",
+          "source": "스포츠동아",
           "date": "2026-09-08"
         }
       ]
@@ -1004,6 +1054,18 @@
         "title": "브라우저가 감시 도구로... 크롬·엣지 확장 프로그램 위장 백도어 ‘PEEP’ 발견",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBINW9NRzhUenpteXEwQ0VkRzRNRmQwQXk2cFVIbUduU0ZfS21tb3FLM1lXQktONmVSQTBrZUJEVDN1RUw3aUZ2d1c3aktjREVrOVJSTVdCVktBbzRzVVlzMlhyVUFiQml0OEdz?oc=5",
         "source": "보안뉴스",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "소송 벌였던 한수원·웨스팅하우스, 美 ‘원전 8기 건설’ 한배 탄다",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tSTZRYjdBUHhGcnB1V0JzR09tM1NjVmlkUjFyMFc2RFJYTW5WeDMta002RXlMRTFCMnl2SWNWbVpzS0dEaWltZDZ1aW5rdDQ?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "중국에 밀리던 K게임, 모바일 게임 매출 1~4위 싹쓸이… 제우스·솔 흥행에 방치형도 가세 - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYjNPdkoyVE5NWnVzeXhCazFkUzlWY2pCVUFzeVR3c2tKYnctYlI3dzl2RHJpd1p4RktINWZrYUlLNW1YbVZacTdvc1pVM1JCMk1tTXYxVGlmRjJRMmNaOS1tM1dSOWpJYnYwLXR1MGd5UlpLZzF6OXpicmJ6bGRpeGJB0gGWAUFVX3lxTE50US1iQkFOcVUyZlczZHBNUU1IeGY2ZEdrVExwald6Z09mcGJ0MFotSENSOTE1am1WYkx3VnJ3QVd5NmJPalBsbXN4Q2VaZ0xPRlVWTkotNEdmRU9KbFY1cjRtSV85TUtxTE5SNTRnbS13dmZiRjUwNUo0bWF4Y19oUWFjYkV4aGRJTnNIcDVSRzNsZjZDQQ?oc=5",
+        "source": "Chosunbiz",
         "date": "2026-09-08"
       }
     ],
