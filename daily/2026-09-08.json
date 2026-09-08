@@ -3403,10 +3403,10 @@
       "news": []
     },
     "춘천마라톤": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-08T14:42:00+09:00",
-      "lastSeen": "2026-09-08T14:42:00+09:00",
+      "lastSeen": "2026-09-08T15:17:00+09:00",
       "news": [
         {
           "title": "회복의 핵심은 수면… 대회 앞두고 커피를 끊었다",
@@ -3429,10 +3429,10 @@
       ]
     },
     "수학": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T14:42:00+09:00",
-      "lastSeen": "2026-09-08T14:42:00+09:00",
+      "lastSeen": "2026-09-08T15:17:00+09:00",
       "news": [
         {
           "title": "[단독] “40년 수학 난제, AI로 두달 만에 해결… 필즈상 사라질지도 몰라”",
@@ -3455,10 +3455,10 @@
       ]
     },
     "한동훈": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-08T14:42:00+09:00",
-      "lastSeen": "2026-09-08T14:42:00+09:00",
+      "lastSeen": "2026-09-08T15:17:00+09:00",
       "news": [
         {
           "title": "[단독] “김승원, 식약처장에 BH(청와대) 통해 보고서 올리라 했다” 브로커 녹취",
@@ -3476,6 +3476,200 @@
           "title": "한동훈, 최재성 거론 추가 녹취 공개‥\"증인·청문위원, 뭐든 불러달라\"",
           "url": "https://imnews.imbc.com/news/2026/politics/article/6850331_36911.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "염태영 “김승원 후보자 식약처 의혹, 이미 법률적 판단 끝난 사안”",
+          "url": "https://www.sedaily.com/article/20088457?ref=naver",
+          "source": "서울경제",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "검찰, ‘김승원 식약처 청탁’ 수사 때 ‘디넷’ 활용 불법 수사 정황",
+          "url": "https://newstapa.org/article/lHuYZ",
+          "source": "뉴스타파",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "nol 티켓": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T15:17:00+09:00",
+      "lastSeen": "2026-09-08T15:17:00+09:00",
+      "news": [
+        {
+          "title": "여행·전시를 한 번에…놀유니버스, 인터파크투어·NOL티켓 통합",
+          "url": "https://www.yna.co.kr/view/AKR20260908025100030",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "여행도 공연도 한곳에서…NOL, '슈퍼앱' 시동",
+          "url": "https://www.newsis.com/view/NISX20260908_0003780866",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "놀유니버스, 여행·공연·레저 'NOL'로 통합…AI 여행 서비스 강화 - 머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/09/08/2026090809025588633",
+          "source": "머니투데이",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "임신": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-08T15:17:00+09:00",
+      "lastSeen": "2026-09-08T15:17:00+09:00",
+      "news": [
+        {
+          "title": "양지원, 임신 겹경사 속 결혼식 이후..♥양준모와 행복한 웨딩화보",
+          "url": "https://v.daum.net/v/20260908095947828",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'혼전임신' 양지원, 결혼식 일주일 만에 ♥양준모와 웨딩 화보 공개 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/08/GQ2WCOBYHAZWEYTGGE4TEY3FME/",
+          "source": "Chosunbiz",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[IS하이컷] 꿀이 뚝뚝…'임신' 양지원, ♥양준모와 눈맞춤 웨딩 화보",
+          "url": "https://news.nate.com/view/20260908n18697",
+          "source": "네이트",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "위조": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T15:17:00+09:00",
+      "lastSeen": "2026-09-08T15:17:00+09:00",
+      "news": [
+        {
+          "title": "베트남 도피 위조상품 판매 총책 국제공조 검거…국내 첫 송환",
+          "url": "https://www.yna.co.kr/view/AKR20260908021400063",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "베트남에서 ‘짝퉁’ 판매 총책…인터폴과 공조해 첫 국내 송환",
+          "url": "https://www.seoul.co.kr/news/society/2026/09/08/20260908500194",
+          "source": "서울신문",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "해외서 ‘라방’으로 ‘짝퉁’ 판매···기업형 유통조직 총책 인터폴 적색수배로 검거",
+          "url": "https://www.khan.co.kr/article/202609081100001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+          "source": "경향신문",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "이현배": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T15:17:00+09:00",
+      "lastSeen": "2026-09-08T15:17:00+09:00",
+      "news": [
+        {
+          "title": "“화해는 안 했지만 이건 못 참아”…이하늘, 김창열 악성 영상에 분노",
+          "url": "https://www.mk.co.kr/news/hot-issues/12146894",
+          "source": "매일경제",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "DJ DOC 이하늘, 김창열 화해엔 선 긋더니→정재용만 챙겼다…\"행복 찾아와\" [RE:뷰]",
+          "url": "https://v.daum.net/v/z5PO5VZv5v?f=p",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "\"창열아, 고소해라\" 이하늘, 김창열 악플러에 분노",
+          "url": "https://www.insight.co.kr/news/572505",
+          "source": "인사이트",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "어선": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T15:17:00+09:00",
+      "lastSeen": "2026-09-08T15:17:00+09:00",
+      "news": [
+        {
+          "title": "따뜻한 바닷물에 레저 여전...해양 안전사고 '경고등'",
+          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202609071105378362",
+          "source": "YTN 사이언스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "낚시어선과 고무보트 ‘쾅’… 당진 앞바다서 승선원 1명 추락·구조",
+          "url": "https://www.kyeonggi.com/article/20260908580309",
+          "source": "경기일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "해경청, 오는 30일까지 해양안전 특별관리",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8656097",
+          "source": "KBS 뉴스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "유해란": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T15:17:00+09:00",
+      "lastSeen": "2026-09-08T15:17:00+09:00",
+      "news": [
+        {
+          "title": "여자골프 김민솔 세계랭킹 14위…3주 연속 상승",
+          "url": "https://v.daum.net/v/20260908063038538",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "3연속 ‘톱3’ 김민솔, 세계 랭킹 14위…KLPGA 선수 중 최고",
+          "url": "https://www.sedaily.com/article/20088233",
+          "source": "서울경제",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "유해란·김효주, 세계랭킹 3위·4위 지켜…김세영·윤이나·최혜진·황유민은? [LPGA]",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021803",
+          "source": "골프한국",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "장기 기증": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T15:17:00+09:00",
+      "lastSeen": "2026-09-08T15:17:00+09:00",
+      "news": [
+        {
+          "title": "폭우 속 배달하다 사고…가족 위해 산 46세, 4명 살리고 영면[아살세]",
+          "url": "https://v.daum.net/v/20260908140709404",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "하루 14시간 배달일하던 40대 가장, 장기 기증해 4명에 '새 삶'",
+          "url": "https://www.yna.co.kr/view/AKR20260908039100530",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "“배달만 하루 14시간씩“…4명에 ’새 삶’ 선물하고 떠난 40대",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202609081414497os",
+          "source": "연합뉴스TV",
           "date": "2026-09-08"
         }
       ]
