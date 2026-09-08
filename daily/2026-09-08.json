@@ -2385,10 +2385,10 @@
       ]
     },
     "신다 인": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-08T11:13:00+09:00",
-      "lastSeen": "2026-09-08T12:13:00+09:00",
+      "lastSeen": "2026-09-08T12:42:00+09:00",
       "news": [
         {
           "title": "‘발목 부상’ 박현경, KB금융 챔피언십도 못 나온다…‘올해 통산 10승’ 목표 달성 더욱 어려워질 듯",
@@ -2437,10 +2437,10 @@
       ]
     },
     "피트 헤그세스": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-08T11:42:00+09:00",
-      "lastSeen": "2026-09-08T12:13:00+09:00",
+      "lastSeen": "2026-09-08T12:42:00+09:00",
       "news": [
         {
           "title": "‘아프간 마지막 미군’ 대장마저…헤그세스 몽니에 날아갔다[지금, 이 사람]",
@@ -2463,10 +2463,10 @@
       ]
     },
     "알렉산더 즈베레프": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-08T11:42:00+09:00",
-      "lastSeen": "2026-09-08T12:13:00+09:00",
+      "lastSeen": "2026-09-08T12:42:00+09:00",
       "news": [
         {
           "title": "'1번 시드' 츠베레프, US오픈 16강 진출…코볼리·프리츠 탈락",
@@ -2515,10 +2515,10 @@
       ]
     },
     "낸시랭": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-08T12:13:00+09:00",
-      "lastSeen": "2026-09-08T12:13:00+09:00",
+      "lastSeen": "2026-09-08T12:42:00+09:00",
       "news": [
         {
           "title": "[속보] 낸시랭, 오늘(8일) 새벽 강남서 만취 음주운전 적발…면허 취소 소준",
@@ -2536,6 +2536,18 @@
           "title": "방송인 낸시랭, 음주운전 혐의 입건...면허 취소 수준",
           "url": "https://www.ytn.co.kr/_ln/0103_202609081043585086",
           "source": "YTN",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "방송인 낸시랭, 음주운전 입건‥면허 취소 수준",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850330_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'만취 운전' 낸시랭, 바닷가서 두 반려견 풀어놓고…\"하나님 감사합니다\"",
+          "url": "https://v.daum.net/v/20260908120155904",
+          "source": "Daum",
           "date": "2026-09-08"
         }
       ]
@@ -2567,10 +2579,10 @@
       ]
     },
     "정점식": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-08T12:13:00+09:00",
-      "lastSeen": "2026-09-08T12:13:00+09:00",
+      "lastSeen": "2026-09-08T12:42:00+09:00",
       "news": [
         {
           "title": "[속보] 정점식 \"사적 이익 도모하는 세력과 개헌 논의 안 할 것\"",
@@ -2589,14 +2601,20 @@
           "url": "https://mobile.newsis.com/photo/NISI20260908_0021427989",
           "source": "뉴시스",
           "date": "2026-09-08"
+        },
+        {
+          "title": "국민의힘, 교섭단체 대표연설",
+          "url": "https://www.newsis.com/view/NISI20260908_0021428063",
+          "source": "뉴시스",
+          "date": "2026-09-08"
         }
       ]
     },
     "주가조작": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-08T12:13:00+09:00",
-      "lastSeen": "2026-09-08T12:13:00+09:00",
+      "lastSeen": "2026-09-08T12:42:00+09:00",
       "news": [
         {
           "title": "“한동훈, 자료유출 되치기 한심”…국힘 당권파에 홍준표 “똑똑하네”",
@@ -2614,6 +2632,122 @@
           "title": "김승원 \"코로나 신약인줄…자료에 대상포진 치료제 언급 없어\"",
           "url": "https://news.jtbc.co.kr/article/NB12317268",
           "source": "JTBC",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "韓, '민주당 독약로비 게이트' 특검 촉구…김승원 재차 저격",
+          "url": "https://v.daum.net/v/20260908122751625",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "김승원 '신약 청탁' 의혹 고발 사건, 영등포경찰서 배당",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850291_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "이대호": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T12:42:00+09:00",
+      "lastSeen": "2026-09-08T12:42:00+09:00",
+      "news": [
+        {
+          "title": "'감독 이대호' 결사 반대, 이대호가 싫어서? 아니 이대호를 너무 사랑해서!",
+          "url": "https://v.daum.net/v/20260908090830215",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'짠한형' 이대호 \"나지완, 진짜 주당…물 대신 소주\" [RE:TV]",
+          "url": "https://v.daum.net/v/20260908053156600",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'짠한형' 이대호 \"박용택, 해설할 때 말 길어…1절만 해\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6282740",
+          "source": "뉴스1",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "sk이노베이션": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T12:42:00+09:00",
+      "lastSeen": "2026-09-08T12:42:00+09:00",
+      "news": [
+        {
+          "title": "부산서 '아임인부산 데이'…한국·인니 기후 협력 등 논의",
+          "url": "https://www.yna.co.kr/view/AKR20260908015800051",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "부산시-SK이노베이션 E&S, 친환경에너지 기업 육성에 맞손",
+          "url": "https://www.nocutnews.co.kr/news/6574494",
+          "source": "노컷뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "부산시, SK이노 E&S와 손잡고 ‘수소·AI 기후테크’ 신시장 개척",
+          "url": "https://www.sedaily.com/article/20088303",
+          "source": "서울경제",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "hk vs nep": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T12:42:00+09:00",
+      "lastSeen": "2026-09-08T12:42:00+09:00",
+      "news": [
+        {
+          "title": "Nepal vs Hong Kong, China Live Scorecard: Live Cricket Score NEP vs HK, Match 19, ACC Men\\'s Premier Cup, 2026",
+          "url": "https://www.indiatoday.in/live-score/cricket/nepal-hong-kong-china-live-cricket-scorecard-273941",
+          "source": "India Today",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Nepal vs Hong Kong Live Streaming: When And Where To Watch NEP v HK ACC Men's Premier Cup 2026",
+          "url": "https://www.ndtvprofit.com/sports/nepal-vs-hong-kong-live-streaming-when-and-where-to-watch-nep-v-hk-acc-mens-premier-cup-2026-12012211",
+          "source": "NDTV Profit",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "NEP vs HKC 19 Match Prediction & Odds, Men’s Premier Cup, 2026",
+          "url": "https://asiacup.com.in/nep-vs-hkc-19-match-prediction/",
+          "source": "Asia Cup 2026",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "황정민": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T12:42:00+09:00",
+      "lastSeen": "2026-09-08T12:42:00+09:00",
+      "news": [
+        {
+          "title": "'황정민 스토킹' 40대 여성에 벌금 6백만 원",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850321_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'황정민 사생활 폭로·스토킹' 40대 여성에 벌금 600만원 선고",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609081035105131",
+          "source": "YTN",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "황정민 거절에도 메시지 수백건…\"공포 느꼈을 것\" 결국 벌금형 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/08/2026090811094014761",
+          "source": "머니투데이",
           "date": "2026-09-08"
         }
       ]
