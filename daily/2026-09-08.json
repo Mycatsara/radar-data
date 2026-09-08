@@ -4173,10 +4173,10 @@
       ]
     },
     "키움 대 lg": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-08T18:43:00+09:00",
-      "lastSeen": "2026-09-08T18:43:00+09:00",
+      "lastSeen": "2026-09-08T19:14:00+09:00",
       "news": [
         {
           "title": "LG에 문책성 강등? 그런 것 없다…범인찾기보다 함께 이겨낸다, 그렇게 강팀이 됐으니까",
@@ -4195,14 +4195,20 @@
           "url": "https://www.koreadaily.com/article/20260908000244400",
           "source": "미주중앙일보",
           "date": "2026-09-08"
+        },
+        {
+          "title": "[핌in잠실] 시차 적응 끝낸 고우석, 이제 '연투'도 된다…LG 필승조 본격 풀가동",
+          "url": "https://www.newspim.com/news/view/20260908001122",
+          "source": "뉴스핌",
+          "date": "2026-09-08"
         }
       ]
     },
     "대학": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-08T18:43:00+09:00",
-      "lastSeen": "2026-09-08T18:43:00+09:00",
+      "lastSeen": "2026-09-08T19:14:00+09:00",
       "news": [
         {
           "title": "외국인 유학생 30만명 돌파… 부실대 솎아내 내실 다진다",
@@ -4221,14 +4227,26 @@
           "url": "https://www.mt.co.kr/policy/2026/09/08/2026090722423849676",
           "source": "머니투데이",
           "date": "2026-09-08"
+        },
+        {
+          "title": "한밭대와는 무산됐는데···충남대, 공주대 통합 성사될까",
+          "url": "https://www.khan.co.kr/article/202609080955001",
+          "source": "경향신문",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[취재석] 속도보다 신뢰라던 임경호 공주대 총장, 왜 시민들은 믿지 못하나",
+          "url": "https://v.daum.net/v/20260908180636654",
+          "source": "Daum",
+          "date": "2026-09-08"
         }
       ]
     },
     "kia 대 삼성": {
-      "count": 1,
-      "maxTraffic": 5000,
+      "count": 2,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-08T18:43:00+09:00",
-      "lastSeen": "2026-09-08T18:43:00+09:00",
+      "lastSeen": "2026-09-08T19:14:00+09:00",
       "news": [
         {
           "title": "\"쟤 너무 잘 쳐요, 적당히 좀 쳐라!\" 삼성만 만나면 불방망이 휘두르는 김태군에 박진만 극도 경계 - 머니투데이",
@@ -4247,14 +4265,20 @@
           "url": "https://biz.chosun.com/sports/baseball/2026/09/08/MNSDIYRZGM3DIOBVHAZTCYLBMI/",
           "source": "Chosunbiz",
           "date": "2026-09-08"
+        },
+        {
+          "title": "힘차게 공 던지는 최원태",
+          "url": "https://mobile.newsis.com/photo/NISI20260908_0021429140",
+          "source": "뉴시스",
+          "date": "2026-09-08"
         }
       ]
     },
     "ssg 대 kt": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-08T18:43:00+09:00",
-      "lastSeen": "2026-09-08T18:43:00+09:00",
+      "lastSeen": "2026-09-08T19:14:00+09:00",
       "news": [
         {
           "title": "에이스 귀환·반게임 차 추격…프로야구 자리 싸움 치열",
@@ -4277,10 +4301,10 @@
       ]
     },
     "이행강제금": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-08T18:43:00+09:00",
-      "lastSeen": "2026-09-08T18:43:00+09:00",
+      "lastSeen": "2026-09-08T19:14:00+09:00",
       "news": [
         {
           "title": "농사 안 짓는 땅 처분명령 의무화… 안 팔면 매년 땅값 25% 이행강제금 - 조선비즈",
@@ -4376,6 +4400,130 @@
           "title": "홍해 관문 향해 진격…나흘 만에 전사자 300명",
           "url": "https://ichannela.com/news/detail/000000549141.do",
           "source": "채널A",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "xrp": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T19:14:00+09:00",
+      "lastSeen": "2026-09-08T19:14:00+09:00",
+      "news": [
+        {
+          "title": "Bitcoin, Ethereum, XRP Retreat but September Could Hold a Surprise, Data Shows",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61635534/bitcoin-ethereum-xrp-retreat-but-september-could-hold-a-surprise-data-shows",
+          "source": "Benzinga",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Short-Term Analysis for BTCUSD, XRPUSD, and ETHUSD for 08.09.2026",
+          "url": "https://www.litefinance.org/blog/analysts-opinions/short-term-analysis-for-btcusd-xrpusd-and-ethusd-for-08092026/",
+          "source": "LiteFinance",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "XRP Dips Below Crucial Support, BTC Slides Toward $78K: Market Watch",
+          "url": "https://cryptopotato.com/xrp-dips-below-crucial-support-btc-slides-toward-78k-market-watch/",
+          "source": "CryptoPotato",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "다산": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T19:14:00+09:00",
+      "lastSeen": "2026-09-08T19:14:00+09:00",
+      "news": [
+        {
+          "title": "'二十四: 하늘을 읽어 땅을 살리다' 강진 다산박물관 특별전",
+          "url": "https://www.newsis.com/view/NISX20260908_0003780777",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'하늘을 읽어 땅을 살리다'…강진 다산박물관, 24절기 특별전",
+          "url": "https://v.daum.net/v/20260907101355760",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "강진군, 다산박물관서 하늘·땅 읽은 조상 지혜 만난다",
+          "url": "https://sports.donga.com/region/article/all/20260908/134625703/1",
+          "source": "스포츠동아",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "두산 대 한화": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-08T19:14:00+09:00",
+      "lastSeen": "2026-09-08T19:14:00+09:00",
+      "news": [
+        {
+          "title": "'한화 50안타 33득점 대폭발' 이제는 류현진도 덕 좀 보자! 6월이 마지막 선발승…89일 만의 승리투수 노린다",
+          "url": "https://v.daum.net/v/20260908131151473",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'9연패→3G 33득점→3연승' 김경문 감독 \"이렇게 돼야지, 경기도 얼마 안 남았는데...\" 한화 타선 바꾼 적극성 [대전 현장] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/08/2026090815311761338",
+          "source": "머니투데이",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[AI프리뷰] 8일 대전 한화-두산전, 3연승 한화 류현진도 후반기 첫 승 거둘까",
+          "url": "https://www.newspim.com/news/view/20260908000448",
+          "source": "뉴스핌",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "롯데 대 nc": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T19:14:00+09:00",
+      "lastSeen": "2026-09-08T19:14:00+09:00",
+      "news": [
+        {
+          "title": "[8일 프리뷰] ‘롯데 킬러’ 토다, 롯데전 4승 도전",
+          "url": "https://www.osen.co.kr/article/G1112871775",
+          "source": "OSEN",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[AI프리뷰] 8일 ���원 NC-롯데전, 'NC전 ERA 1.09' 강세 박세웅 롯데 연패 끊을까",
+          "url": "https://www.newspim.com/news/view/20260908000710",
+          "source": "뉴스핌",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "전국삼성전자노동조합": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T19:14:00+09:00",
+      "lastSeen": "2026-09-08T19:14:00+09:00",
+      "news": [
+        {
+          "title": "전국삼성전자노조 위원장에 이호석 수원지부장",
+          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=236633",
+          "source": "매일노동뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "“717만 원 받고는 일 못해”…삼성 노조 갈등에 ‘노키아 몰락’ 재조명 [잇슈 머니]",
+          "url": "https://v.daum.net/v/X2HS7A8BWI?f=p",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "뉴욕 한복판에 \"우리도 있다\"…노조 광고 정체",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740206",
+          "source": "SBS 뉴스",
           "date": "2026-09-08"
         }
       ]
