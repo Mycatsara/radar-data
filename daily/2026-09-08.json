@@ -2649,10 +2649,10 @@
       ]
     },
     "이대호": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-08T12:42:00+09:00",
-      "lastSeen": "2026-09-08T12:42:00+09:00",
+      "lastSeen": "2026-09-08T13:13:00+09:00",
       "news": [
         {
           "title": "'감독 이대호' 결사 반대, 이대호가 싫어서? 아니 이대호를 너무 사랑해서!",
@@ -2670,6 +2670,18 @@
           "title": "'짠한형' 이대호 \"박용택, 해설할 때 말 길어…1절만 해\"",
           "url": "https://www.news1.kr/entertain/broadcast-tv/6282740",
           "source": "뉴스1",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "‘불꽃야구’ 이대호, 사직구장 선다…부산고와 맞대결",
+          "url": "https://www.mk.co.kr/news/hot-issues/12145919",
+          "source": "매일경제",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'부산고 출신' 정근우·정의윤, 모교 후배와 맞대결…이대호·송승준은 '사직 귀환'('불꽃야구')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/07/MNRDSMLGMY3DGNLEGVRWMNJTMQ/",
+          "source": "조선일보",
           "date": "2026-09-08"
         }
       ]
@@ -2748,6 +2760,240 @@
           "title": "황정민 거절에도 메시지 수백건…\"공포 느꼈을 것\" 결국 벌금형 - 머니투데이",
           "url": "https://www.mt.co.kr/society/2026/09/08/2026090811094014761",
           "source": "머니투데이",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "안재환": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T13:13:00+09:00",
+      "lastSeen": "2026-09-08T13:13:00+09:00",
+      "news": [
+        {
+          "title": "정선희, 故 안재환 사별 후…\"'잡아먹었다'는 말에 큰 상처\"",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779931",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "“남편 잡아먹었다고…평생의 주홍글씨” 정선희, 故안재환 사별 후 상처",
+          "url": "https://v.daum.net/v/20260908083901004",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "정선희, '빚더미 생활고' 힘겨웠던 가정사...\"집에 딱지 붙고 온가족 뿔뿔이\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-08/202609080100052100003370",
+          "source": "스포츠조선",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "아시안게임": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T13:13:00+09:00",
+      "lastSeen": "2026-09-08T13:13:00+09:00",
+      "news": [
+        {
+          "title": "한진, 아이치-나고야 아시안게임 방송 장비 운송",
+          "url": "https://v.daum.net/v/20260908093056360",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "카메라부터 음향장비까지 일본으로…한진, 아시안게임 방송물류 맡아",
+          "url": "https://www.ddaily.co.kr/page/view/2026090808583036228",
+          "source": "디지털데일리",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "한진, '아이치·나고야 아시안게임' 방송 중계 장비 국제운송 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/08/2026090809594378152",
+          "source": "머니투데이",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "울산 웨일즈": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T13:13:00+09:00",
+      "lastSeen": "2026-09-08T13:13:00+09:00",
+      "news": [
+        {
+          "title": "'韓 10개 구단 주목!' 35살 최지만 또 터졌다, 23일 만에 홈런→멀티히트 폭발…드래프트 12일 남았는데, 누가 데려가나",
+          "url": "https://v.daum.net/v/20260908014242120",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "해외파 신인 '흑역사' 2번 겪었는데, 또 최지만 고를까?…홈런 꼴찌 팀의 '미움받을 용기'는 과연 [SC���커스]",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/08/MIZTSMZUGZQWEMJWGJSTGZJUGA/",
+          "source": "조선일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "‘이럴 수가’ 최지만 투런포 터졌지만…최초 시민구단 울산, 3연패 충격→2위 추락→롯데 어부지리 1위 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/08/202609072138773282O",
+          "source": "머니투데이",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "외국인": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T13:13:00+09:00",
+      "lastSeen": "2026-09-08T13:13:00+09:00",
+      "news": [
+        {
+          "title": "허위광고 금지, 한국어능력 강화…정부, 유학생 정책 전환",
+          "url": "https://v.daum.net/v/20260908120207930",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "외국인 유학생 30만명…'유치 확대→우수인재 양성' 전환",
+          "url": "https://view.asiae.co.kr/article/2026090810215072056",
+          "source": "아시아경제",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "교육부, 교육여건 기준 미달 대학 유학생 모집 제한",
+          "url": "https://www.hani.co.kr/arti/society/schooling/1276754.html",
+          "source": "한겨레",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "자책점": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T13:13:00+09:00",
+      "lastSeen": "2026-09-08T13:13:00+09:00",
+      "news": [
+        {
+          "title": "‘평균자책점 0.55’ LG 사이드암, 군대 가더니 선동열급 ERA 찍고 있네…13경기 연속 무실점→6세이브 3홀드 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/08/202609080217777014O",
+          "source": "머니투데이",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'끝내기 패배가 없다' 삼성에는 원정 ERA 0.00 '수호신' 김재윤이 있기에",
+          "url": "https://v.daum.net/v/20260908000252107",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'KT 1위 넘보지마!' 박진만 독한 야구 선언, '2이닝 29구' 김재윤 출전 대기…\"빅매치니까 대기해야죠\" [MD잠실]",
+          "url": "https://mydaily.co.kr/page/view/2026090615591438009",
+          "source": "마이데일리",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "웨이브": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T13:13:00+09:00",
+      "lastSeen": "2026-09-08T13:13:00+09:00",
+      "news": [
+        {
+          "title": "[리뷰M] \"싹 죽여야\"…더 섬뜩해진 사회실��� '더 커뮤니티2'★★★★",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/517545",
+          "source": "iMBC 연예",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "웨이브 ‘더 커뮤니티2’, 첫 주말 신규 유료가입 견인 1위",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16186348",
+          "source": "톱스타뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[김민서의 AI가-중계] 사상·술래잡기·입시…예능은 왜 서바이벌에 빠졌나",
+          "url": "https://www.mediapen.com/news/view/1121152",
+          "source": "미디어펜",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "토익": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-08T13:13:00+09:00",
+      "lastSeen": "2026-09-08T13:13:00+09:00",
+      "news": [
+        {
+          "title": "삼성, 오늘부터 하반기 채용 시작",
+          "url": "https://v.daum.net/v/20260908122040476",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "삼성 공채 시작에 토익스피킹도 긴급 편성…14일 추가 시험",
+          "url": "https://www.donga.com/news/Society/article/all/20260908/134625075/1",
+          "source": "동아일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "내년 반도체 인력전쟁 더 뜨거워진다…외국계, 억대 인센티브로 맞불",
+          "url": "https://www.sedaily.com/article/20088272",
+          "source": "서울경제",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "엘리자베스 홈즈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T13:13:00+09:00",
+      "lastSeen": "2026-09-08T13:13:00+09:00",
+      "news": [
+        {
+          "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Upends Telluride",
+          "url": "https://www.nytimes.com/2026/09/07/movies/elizabeth-holmes-documentary-nathan-fielder-a24.html",
+          "source": "The New York Times",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "The Talk Of Telluride: Secret Screening Of Elizabeth Holmes Documentary ‘You Can See Everything’",
+          "url": "https://deadline.com/2026/09/elizabeth-holmes-documentary-you-can-see-everything-telluride-reaction-1237070550/",
+          "source": "Deadline",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Surprise new Elizabeth Holmes documentary follows Theranos founder's final weeks before prison",
+          "url": "https://www.yahoo.com/entertainment/movies/article/surprise-new-elizabeth-holmes-documentary-follows-theranos-founders-final-weeks-before-prison-111353296.html",
+          "source": "Yahoo",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "티빙보��": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T13:13:00+09:00",
+      "lastSeen": "2026-09-08T13:13:00+09:00",
+      "news": [
+        {
+          "title": "티빙, 개인정보 유출 보상 신청 시작…탈퇴 회원도 대상",
+          "url": "https://www.yna.co.kr/view/AKR20260907057200017",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "\"티빙 보상 신청했어요?\"…쿠팡·KT·SKT와 비교해보니",
+          "url": "https://www.news1.kr/it-science/security-hacking/6282646",
+          "source": "뉴스1",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[사설]개인정보 유출 피해에도 집단소송제 도입해야",
+          "url": "https://www.khan.co.kr/article/202609071853001",
+          "source": "경향신문",
           "date": "2026-09-08"
         }
       ]
