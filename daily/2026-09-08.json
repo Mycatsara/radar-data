@@ -5111,10 +5111,10 @@
       ]
     },
     "재벌": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-08T21:47:00+09:00",
-      "lastSeen": "2026-09-08T21:47:00+09:00",
+      "lastSeen": "2026-09-08T22:15:00+09:00",
       "news": [
         {
           "title": "정권 바뀌고 경제 불확실성 커져…인니 최고재벌, 해외 투자로 선회",
@@ -5137,10 +5137,10 @@
       ]
     },
     "김현수": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-08T21:47:00+09:00",
-      "lastSeen": "2026-09-08T21:47:00+09:00",
+      "lastSeen": "2026-09-08T22:15:00+09:00",
       "news": [
         {
           "title": "지금까지 KBO 역사에 딱 1명만 남긴 대기록…드디어 38세 타격기계가 바통을 이어 받는다",
@@ -5159,14 +5159,20 @@
           "url": "https://www.mt.co.kr/sports/2026/09/08/202609081535771115O",
           "source": "머니투데이",
           "date": "2026-09-08"
+        },
+        {
+          "title": "전설 뒤따르는 전설! '타격 기계' KT 김현수, 프로야구 역대 2번째 500 2루타 눈앞…삼성 최형우 이어 2번째",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/08/GA3WEMRTMM3TQOJTGFTGGNJRGA/",
+          "source": "조선일보",
+          "date": "2026-09-08"
         }
       ]
     },
     "자주포": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T21:47:00+09:00",
-      "lastSeen": "2026-09-08T21:47:00+09:00",
+      "lastSeen": "2026-09-08T22:15:00+09:00",
       "news": [
         {
           "title": "영국서 K9 제친 독일 자주포…4년 만에 우크라 전장 뜬다 [밀리터리+]",
@@ -5185,14 +5191,20 @@
           "url": "https://v.daum.net/v/20260908154346751",
           "source": "Daum",
           "date": "2026-09-08"
+        },
+        {
+          "title": "‘K2’ ‘천궁-II’… 유럽 시장서 파워 과시하는 K-방산",
+          "url": "https://www.donga.com/news/Economy/article/all/20260907/134622299/2",
+          "source": "동아일보",
+          "date": "2026-09-08"
         }
       ]
     },
     "지민": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-08T21:47:00+09:00",
-      "lastSeen": "2026-09-08T21:47:00+09:00",
+      "lastSeen": "2026-09-08T22:15:00+09:00",
       "news": [
         {
           "title": "BTS, 북미 투어 마무리…31회 전석 매진으로 192만명 동원",
@@ -5215,17 +5227,24 @@
       ]
     },
     "kbs": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T21:47:00+09:00",
-      "lastSeen": "2026-09-08T21:47:00+09:00",
-      "news": []
+      "lastSeen": "2026-09-08T22:15:00+09:00",
+      "news": [
+        {
+          "title": "내년 건보료율 동결이냐 인상이냐…4개 시나리오 놓고 줄다리기",
+          "url": "https://www.timenews.co.kr/article/1703960",
+          "source": "타임뉴스",
+          "date": "2026-09-08"
+        }
+      ]
     },
     "이혼 소송": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-08T21:47:00+09:00",
-      "lastSeen": "2026-09-08T21:47:00+09:00",
+      "lastSeen": "2026-09-08T22:15:00+09:00",
       "news": [
         {
           "title": "[Why&Next]'자산 8조' 권혁빈 이혼소송 첫 결론…스마일게이트 지분 변화 촉각",
@@ -5243,6 +5262,18 @@
           "title": "'최태원·노소영 4배' 권혁빈 이혼소송 9일 1심 선고…재산분할 4조 넘나 - 머니투데이",
           "url": "https://www.mt.co.kr/tech/2026/09/07/2026090708404070009",
           "source": "머니투데이",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "아내 살해 공무원 '보복살인·아동 정서적 학대' 혐의",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1331546",
+          "source": "인천일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "스토킹 피해자는 ‘국선변호사’, 가정폭력은 제외…엇갈린 관계성범죄 법률보호",
+          "url": "https://www.kyeonggi.com/article/20260908580529",
+          "source": "경기일보",
           "date": "2026-09-08"
         }
       ]
@@ -5295,6 +5326,98 @@
           "title": "[포토] 김태군, 모두가 지켜보는 세이프 & 아웃",
           "url": "https://www.sportschosun.com/baseball/2026-09-08/202609080100058420003757",
           "source": "스포츠조선",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "삼성 반도체": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T22:15:00+09:00",
+      "lastSeen": "2026-09-08T22:15:00+09:00",
+      "news": [
+        {
+          "title": "‘월세 70만원’ 지원금 챙기려 꼼수?···삼성전자, 일부 직원 조사 ‘발칵’",
+          "url": "https://www.khan.co.kr/article/202609081840001",
+          "source": "경향신문",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "삼성 반도체 부문, ‘월 70만 원’ 주거지원금 부정수급 의혹에 시끌",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8657469",
+          "source": "KBS 뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "월세 70만원 챙기려다…\"성과급은커녕 잘릴 판\" 삼성맨 '초비상' [이슈+]",
+          "url": "https://www.hankyung.com/article/202609081685g",
+          "source": "한국경제",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "알파문구": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T22:15:00+09:00",
+      "lastSeen": "2026-09-08T22:15:00+09:00",
+      "news": [
+        {
+          "title": "2만원짜리 탁구채를 7만원에…중학생 등친 문구점의 최후",
+          "url": "https://www.donga.com/news/Society/article/all/20260907/134623501/1",
+          "source": "동아일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "“탁구채 2개에 14만 원” 논란에…본사 “가맹계약 해지” [잇슈 키워드]",
+          "url": "https://v.daum.net/v/20260908070910130",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "\"탁구채 2개에 14만원\"…바가지 문구점 결국 간판 뗀다",
+          "url": "https://news.jtbc.co.kr/article/NB12317303",
+          "source": "JTBC",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "lpl": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T22:15:00+09:00",
+      "lastSeen": "2026-09-08T22:15:00+09:00",
+      "news": [
+        {
+          "title": "Can IG Go To Worlds 2026? Invictus Gaming Vs LGD Gaming Preview",
+          "url": "https://www.hotspawn.com/league-of-legends/news/invictus-gaming-lgd-preview",
+          "source": "Hotspawn",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "현숙": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T22:15:00+09:00",
+      "lastSeen": "2026-09-08T22:15:00+09:00",
+      "news": [
+        {
+          "title": "'나솔' 커플, '연애전쟁' 나왔다…16기 광수♥22기 현숙, 2세 갈등→서장훈 \"그만 하세요\" 버럭",
+          "url": "https://v.daum.net/v/20260908164749994",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "16기 광수♥22기 현숙, ‘금쪽이’ 이어 또 방송서 딸 언급…“친자식 아닌건 사실”",
+          "url": "https://sports.khan.co.kr/article/202609081743003",
+          "source": "스포츠경향",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'돌싱 현커' 16기 현숙♥22기 광수 \"카톡 깔까? 너 때문에 이혼\" 충격[연애전쟁]",
+          "url": "https://news.nate.com/view/20260908n26758",
+          "source": "네이트",
           "date": "2026-09-08"
         }
       ]
