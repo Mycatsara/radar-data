@@ -1725,10 +1725,10 @@
       ]
     },
     "여수시": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T09:21:00+09:00",
-      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:47:00+09:00",
       "news": [
         {
           "title": "[밀착카메라] '예산 700억' 여수 섬 박람회 구경 뒤…\"볼거리가 있습니까?\"",
@@ -1747,14 +1747,20 @@
           "url": "https://biz.chosun.com/topics/topics_social/2026/09/07/WKFPH4KM3JCBXJDTUSRMEID37M/",
           "source": "Chosunbiz",
           "date": "2026-09-07"
+        },
+        {
+          "title": "700억 썼는데 볼거리 1시간?…여수섬박람회 첫 주말 '싸늘'",
+          "url": "https://www.asiae.co.kr/article/2026090809173498898",
+          "source": "아시아경제",
+          "date": "2026-09-07"
         }
       ]
     },
     "르윈 디아즈": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T09:21:00+09:00",
-      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:47:00+09:00",
       "news": [
         {
           "title": "'그렇게 간절했나' 삼성 亞쿼터 1억 돈값 다했다, 1호 세이브→1호 홀드 기념구 모두 박제…\"디아즈보다 빠르던데?\" [MD잠실]",
@@ -1777,10 +1783,10 @@
       ]
     },
     "땅": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-08T09:21:00+09:00",
-      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:47:00+09:00",
       "news": [
         {
           "title": "5천억 들여 수도권 땅 산다...국토부·LH, 주택용지 공공비축 첫 추진",
@@ -1799,14 +1805,26 @@
           "url": "https://www.yna.co.kr/view/AKR20260907116100003",
           "source": "연합뉴스",
           "date": "2026-09-07"
+        },
+        {
+          "title": "“수도권 주택수요 대비”…정부·LH, 5000억 규모 유휴부지 확보 나서",
+          "url": "https://www.mk.co.kr/news/realestate/12146644",
+          "source": "매일경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "땅도 집도 '공공'이 사들인다…원하는 곳·물량 확보는 난제",
+          "url": "https://v.daum.net/v/20260908061136337",
+          "source": "Daum",
+          "date": "2026-09-07"
         }
       ]
     },
     "노태문": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T09:21:00+09:00",
-      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:47:00+09:00",
       "news": [
         {
           "title": "“717만 원 받고는 일 못해”…삼성 노조 갈등에 ‘노키아 몰락’ 재조명 [잇슈 머니]",
@@ -1825,14 +1843,20 @@
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740206",
           "source": "SBS 뉴스",
           "date": "2026-09-07"
+        },
+        {
+          "title": "“717만 원 받고는 일 못해”…삼성 노조 갈등에 ‘노키아 몰락’ 재조명 [잇슈 머니]",
+          "url": "https://v.daum.net/v/20260907070954395",
+          "source": "Daum",
+          "date": "2026-09-07"
         }
       ]
     },
     "한병도": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T09:21:00+09:00",
-      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:47:00+09:00",
       "news": [
         {
           "title": "전국 지하철 무임승차 인원이 21%…한병도에 국비지원 건의",
@@ -1855,10 +1879,10 @@
       ]
     },
     "챔피언스리그": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T09:21:00+09:00",
-      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:47:00+09:00",
       "news": [
         {
           "title": "현대차, ‘별들의 전쟁’에 뜬다…日닛산 떠난 ‘챔스’ 파트너 꿰찼다",
@@ -1881,10 +1905,10 @@
       ]
     },
     "국제선": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-08T09:21:00+09:00",
-      "lastSeen": "2026-09-08T09:21:00+09:00",
+      "lastSeen": "2026-09-08T09:47:00+09:00",
       "news": [
         {
           "title": "국제선 승객 ‘국내선 청사’에 내려준 대한항공···4명은 공항 나갔다 뒤늦게 입국심사",
@@ -1902,6 +1926,12 @@
           "title": "[단독]국제선 승객을 국내선 청사에 내려줘… 수십 명이 심사 없이 입국 ‘보안 사고’",
           "url": "https://v.daum.net/v/20260908043500988",
           "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "국제선 승객을 국내선에…4명 공항 나갔�� 뒤늦게 입국심사",
+          "url": "https://www.yna.co.kr/view/AKR20260908018200003",
+          "source": "연합뉴스",
           "date": "2026-09-07"
         }
       ]
@@ -1980,6 +2010,84 @@
           "title": "Tennis at Flushing Meadows Heats Up with Thrilling Quarter-Finals",
           "url": "https://www.devdiscourse.com/article/sports-games/3973858-tennis-at-flushing-meadows-heats-up-with-thrilling-quarter-finals",
           "source": "Devdiscourse",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "gpt 아스트라": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T09:47:00+09:00",
+      "lastSeen": "2026-09-08T09:47:00+09:00",
+      "news": [
+        {
+          "title": "젠슨 황 \"GPT-6 아스트라, AGI 시대 열었다…GPU 10만개 투입\"",
+          "url": "https://zdnet.co.kr/view/?no=20260907170942",
+          "source": "지디넷코리아",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"똑똑한 애가 쉬지도 않고 일하더라\"…이번에 온 '신입' 무섭네[클릭 e산업]",
+          "url": "https://v.daum.net/v/XFqQQTNdjM",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'초거대 AI' 4번째 분기점 왔다…삼전닉스 '스트롱 바이'",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433676",
+          "source": "연합인포맥스",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "구직": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T09:47:00+09:00",
+      "lastSeen": "2026-09-08T09:47:00+09:00",
+      "news": [
+        {
+          "title": "8년 다닌 회사에서 잘렸다, 구직급여 신청하고 깨달은 것",
+          "url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003264631",
+          "source": "OhmyNews",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "만성적자 실업급여 내년 흑자 전환…재정정상화는 정부전입금 관건",
+          "url": "https://www.yna.co.kr/view/AKR20260904157200530",
+          "source": "연합뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[성명] 고용보험 개편...국가 책임은 뒤로, 노동자 ��담은 먼저일 수 없다",
+          "url": "https://nodong.org/statement/7944078",
+          "source": "민주노총",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "응급실": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T09:47:00+09:00",
+      "lastSeen": "2026-09-08T09:47:00+09:00",
+      "news": [
+        {
+          "title": "'10대 응급실 미수용→사망' 병원책임 인정…응급醫들 \"또 책임 전가\" - 머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/09/07/2026090711545354516",
+          "source": "머니투데이",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "대법원 “대구 응급실 뺑뺑이 수용 거부 병원 행정 처분 정당”",
+          "url": "https://v.daum.net/v/20260906151636749?f=p",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "추락한 10대 ‘대구 응급실 뺑뺑이’…대법 “수용거부 병원 행정처분, 정당”",
+          "url": "https://www.dt.co.kr/article/12082213",
+          "source": "www.dt.co.kr",
           "date": "2026-09-07"
         }
       ]
