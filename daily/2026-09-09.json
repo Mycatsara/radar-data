@@ -316,10 +316,10 @@
       ]
     },
     "수시원서접수": {
-      "count": 7,
+      "count": 8,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T00:44:00+09:00",
-      "lastSeen": "2026-09-09T03:45:00+09:00",
+      "lastSeen": "2026-09-09T04:12:00+09:00",
       "news": [
         {
           "title": "원서 접수만 수십만원…수시 전형료 장사에 수험생·학부모 '비명'",
@@ -348,10 +348,10 @@
       ]
     },
     "신병": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T01:15:00+09:00",
-      "lastSeen": "2026-09-09T03:45:00+09:00",
+      "lastSeen": "2026-09-09T04:12:00+09:00",
       "news": [
         {
           "title": "'신병4' 김민호·이원정, 밝혀진 악연의 비밀…4.1%, 꾸준한 상승세",
@@ -386,10 +386,10 @@
       ]
     },
     "한화에어로스페이스": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T01:15:00+09:00",
-      "lastSeen": "2026-09-09T03:45:00+09:00",
+      "lastSeen": "2026-09-09T04:12:00+09:00",
       "news": [
         {
           "title": "현대로템, ‘대드론 다층 방어’ 폴란드형 K2 전차 첫선",
@@ -424,10 +424,10 @@
       ]
     },
     "gta6": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T01:15:00+09:00",
-      "lastSeen": "2026-09-09T03:45:00+09:00",
+      "lastSeen": "2026-09-09T04:12:00+09:00",
       "news": [
         {
           "title": "GTA 6's Worldwide Release Times Revealed - with New Zealand Set to Receive Access 19 Hours Before Mexico and Central America",
@@ -462,10 +462,10 @@
       ]
     },
     "메이드인코리아 시즌2": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-09T01:43:00+09:00",
-      "lastSeen": "2026-09-09T03:45:00+09:00",
+      "lastSeen": "2026-09-09T04:12:00+09:00",
       "news": [
         {
           "title": "[TF초점] 9월 OTT 점령한 부부…현빈·손예진, 동시 출격",
@@ -514,10 +514,10 @@
       ]
     },
     "풍자": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T02:13:00+09:00",
-      "lastSeen": "2026-09-09T03:45:00+09:00",
+      "lastSeen": "2026-09-09T04:12:00+09:00",
       "news": [
         {
           "title": "풍자, 벌써부터 결혼 발표 파장 예상 \"대한민국 시끌벅적, 남편 공개 안할 것\" (풍자테레비)",
@@ -540,10 +540,10 @@
       ]
     },
     "양구": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T02:13:00+09:00",
-      "lastSeen": "2026-09-09T03:45:00+09:00",
+      "lastSeen": "2026-09-09T04:12:00+09:00",
       "news": [
         {
           "title": "양구 해안면 농가 흙탕물 저감·작목 전환에 4개 기관 손잡아",
@@ -566,10 +566,10 @@
       ]
     },
     "인플루언서": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T03:16:00+09:00",
-      "lastSeen": "2026-09-09T03:45:00+09:00",
+      "lastSeen": "2026-09-09T04:12:00+09:00",
       "news": [
         {
           "title": "\"이 행동이 죽음 불렀다\"…오리알 60~70개 먹방 100만 中인플루언서 사망",
@@ -599,6 +599,58 @@
           "title": "지하철 6호선에서 음악 틀고 냅다 ‘백플립’?…민폐 틱톡커 논란",
           "url": "https://news.jtbc.co.kr/article/NB12317352",
           "source": "JTBC",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "sbs": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T04:12:00+09:00",
+      "lastSeen": "2026-09-09T04:12:00+09:00",
+      "news": [
+        {
+          "title": "SBS News Hunters Preview for September 8",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008743656",
+          "source": "news.sbs.co.kr",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Today's SBS News Hunters Preview (September 7)",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008741776",
+          "source": "news.sbs.co.kr",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Preview of Today's SBS News Hunters (August 31)",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008730723",
+          "source": "news.sbs.co.kr",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "club brugge vs aston villa": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T04:12:00+09:00",
+      "lastSeen": "2026-09-09T04:12:00+09:00",
+      "news": [
+        {
+          "title": "Champions League: Aston Villa hold on to beat Club Brugge before Man City visit Porto",
+          "url": "https://www.bbc.com/sport/football/live/cmde091l9kzkt",
+          "source": "BBC",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "McGinn makes history as Villa finally start scoring in dream UCL start 🙌",
+          "url": "https://sports.yahoo.com/articles/mcginn-makes-history-villa-finally-174900316.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Club Brugge vs Aston Villa Confirmed Lineups",
+          "url": "https://www.whoscored.com/news/BOCV7AZDLEmpQ4b9P4v5jw/show/20260908-club-brugge-vs-aston-villa-confirmed-lineup-1788881899",
+          "source": "WhoScored.com",
           "date": "2026-09-08"
         }
       ]
