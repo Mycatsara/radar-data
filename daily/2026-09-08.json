@@ -2015,10 +2015,10 @@
       ]
     },
     "gpt 아스트라": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-08T09:47:00+09:00",
-      "lastSeen": "2026-09-08T10:12:00+09:00",
+      "lastSeen": "2026-09-08T11:13:00+09:00",
       "news": [
         {
           "title": "젠슨 황 \"GPT-6 아스트라, AGI 시대 열었다…GPU 10만개 투입\"",
@@ -2042,6 +2042,12 @@
           "title": "\"AGI가 도래했다\"...AI 피크아웃 잠재운 '아스트라'",
           "url": "https://www.hankyung.com/article/202609079200i",
           "source": "한국경제",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "\"범용인공지능 도래\"…반도체는 웃었는데, 소프트웨어는 '덜덜'",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433869",
+          "source": "연합인포맥스",
           "date": "2026-09-07"
         }
       ]
@@ -2105,10 +2111,10 @@
       ]
     },
     "일본": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-08T10:12:00+09:00",
-      "lastSeen": "2026-09-08T10:42:00+09:00",
+      "lastSeen": "2026-09-08T11:13:00+09:00",
       "news": [
         {
           "title": "\"지하차도서 또\"‥일본, 큰비에 피해 잇따라",
@@ -2143,10 +2149,10 @@
       ]
     },
     "문구점": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-08T10:12:00+09:00",
-      "lastSeen": "2026-09-08T10:42:00+09:00",
+      "lastSeen": "2026-09-08T11:13:00+09:00",
       "news": [
         {
           "title": "“탁구채 2개에 14만 원” 논란에…본사 “가맹계약 해지” [잇슈 키워드]",
@@ -2181,10 +2187,10 @@
       ]
     },
     "박용택": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T10:12:00+09:00",
-      "lastSeen": "2026-09-08T10:42:00+09:00",
+      "lastSeen": "2026-09-08T11:13:00+09:00",
       "news": [
         {
           "title": "'짠한형' 이대호 \"나지완, 진짜 주당…물 대신 소주\" [RE:TV]",
@@ -2213,10 +2219,10 @@
       ]
     },
     "gpt 6 astra": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-08T10:12:00+09:00",
-      "lastSeen": "2026-09-08T10:42:00+09:00",
+      "lastSeen": "2026-09-08T11:13:00+09:00",
       "news": [
         {
           "title": "GPT-6 Astra: A new generation of intelligence",
@@ -2235,14 +2241,20 @@
           "url": "https://thenewstack.io/astra-reasoning-effort-cost/",
           "source": "The New Stack",
           "date": "2026-09-07"
+        },
+        {
+          "title": "AMD and Intel Soared as Nvidia Lagged: Has the AI Trade Changed?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-soared-nvidia-lagged-082539405.html",
+          "source": "Yahoo Finance",
+          "date": "2026-09-07"
         }
       ]
     },
     "이의 리": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-08T10:42:00+09:00",
-      "lastSeen": "2026-09-08T10:42:00+09:00",
+      "lastSeen": "2026-09-08T11:13:00+09:00",
       "news": [
         {
           "title": "'똑같은 9회 2사 만루 이의리' 이틀 전엔 2구 만에 교체, 이번엔 끝까지 맡겼다... 이범호 감독 선택 '왜' 달랐나",
@@ -2261,14 +2273,26 @@
           "url": "https://m.news.nate.com/view/20260905n08830",
           "source": "Nate News",
           "date": "2026-09-08"
+        },
+        {
+          "title": "“(이)의리 엄청 부럽죠, 저는 아무리 노력해도 155km 못 던져요” KIA 어느 불펜투수의 고백…막상 KIA에 없으면 안 되는 존재[MD광주]",
+          "url": "https://v.daum.net/v/20260907130149212",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'똑같은 9회 2사 만루 이의리' 이틀 전엔 2구 만에 교체, 이번엔 끝까지 맡겼다... 이범호 감독 선택 '왜' 달랐나 - ��니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/2026090512280075164",
+          "source": "머니투데이",
+          "date": "2026-09-08"
         }
       ]
     },
     "박선주": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T10:42:00+09:00",
-      "lastSeen": "2026-09-08T10:42:00+09:00",
+      "lastSeen": "2026-09-08T11:13:00+09:00",
       "news": [
         {
           "title": "박선주, 이찬원에 \"사회성 뛰어난 보컬\"…진해성엔 \"평가 불가 수준\" ('K트롯 진선미') [종합]",
@@ -2291,10 +2315,10 @@
       ]
     },
     "스카이랩스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T10:42:00+09:00",
-      "lastSeen": "2026-09-08T10:42:00+09:00",
+      "lastSeen": "2026-09-08T11:13:00+09:00",
       "news": [
         {
           "title": "청약 흥행 참패했는데 상장 후 주가 대박…상한가 친 새내기주는",
@@ -2312,6 +2336,18 @@
           "title": "‘CART 혈압계’, 심방세동·심부전 환자 혈압 측정 유용성 입증",
           "url": "https://pharm.edaily.co.kr/News/Read?newsId=02102486645577824",
           "source": "팜이데일리",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "스카이랩스, 상장 3일 만에 공모가 3배 올랐다 [핫종목]",
+          "url": "https://www.news1.kr/finance/general-stock/6283056",
+          "source": "뉴스1",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "스카이랩스, ESC서 커프리스 혈압계 임상 데이터 공개",
+          "url": "https://www.fnnews.com/news/202609070932441192",
+          "source": "파이낸셜뉴스",
           "date": "2026-09-08"
         }
       ]
@@ -2339,6 +2375,58 @@
           "url": "https://www.mt.co.kr/sports/2026/09/06/2026090519400654909",
           "source": "머니투데이",
           "date": "2026-09-07"
+        }
+      ]
+    },
+    "신다 인": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T11:13:00+09:00",
+      "lastSeen": "2026-09-08T11:13:00+09:00",
+      "news": [
+        {
+          "title": "‘발목 부상’ 박현경, KB금융 챔피언십도 못 나온다…‘올해 통산 10승’ 목표 달성 더욱 어려워질 듯",
+          "url": "https://v.daum.net/v/20260908073928541",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "손톱만큼 차이인데…신다인 리플레이스 2벌타 오심 논란",
+          "url": "https://www.sedaily.com/article/20088148",
+          "source": "서울경제",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "13억원 돌파한 김민솔, 서교림 제치고 '상금1위 복귀' [KLPGA]",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021791",
+          "source": "골프한국",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "레즈 대 다저스": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T11:13:00+09:00",
+      "lastSeen": "2026-09-08T11:13:00+09:00",
+      "news": [
+        {
+          "title": "오타니 ‘이도류’ 결국 멈췄다…로버츠 감독, “지금 투구는 전혀 의미 없다” 언제 공 잡을지도 모른다",
+          "url": "https://v.daum.net/v/20260908090239892",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "‘부상 병동’ 오타니, 5일 만에 선발 라인업 복귀…CIN전 1번 DH 출장, 투수는 사실상 시즌아웃 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/08/202609080744773694O",
+          "source": "머니투데이",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[워싱턴 다저스] 무키 베츠 '역전 3점 홈런!'",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3687237",
+          "source": "국제뉴스",
+          "date": "2026-09-08"
         }
       ]
     }
