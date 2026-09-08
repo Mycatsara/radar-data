@@ -348,10 +348,10 @@
       ]
     },
     "신병": {
-      "count": 7,
+      "count": 8,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T01:15:00+09:00",
-      "lastSeen": "2026-09-09T04:12:00+09:00",
+      "lastSeen": "2026-09-09T04:40:00+09:00",
       "news": [
         {
           "title": "'신병4' 김민호·이원정, 밝혀진 악연의 비밀…4.1%, 꾸준한 상승세",
@@ -386,10 +386,10 @@
       ]
     },
     "한화에어로스페이스": {
-      "count": 7,
+      "count": 8,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T01:15:00+09:00",
-      "lastSeen": "2026-09-09T04:12:00+09:00",
+      "lastSeen": "2026-09-09T04:40:00+09:00",
       "news": [
         {
           "title": "현대로템, ‘대드론 다층 방어’ 폴란드형 K2 전차 첫선",
@@ -462,10 +462,10 @@
       ]
     },
     "메이드인코리아 시즌2": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-09T01:43:00+09:00",
-      "lastSeen": "2026-09-09T04:12:00+09:00",
+      "lastSeen": "2026-09-09T04:40:00+09:00",
       "news": [
         {
           "title": "[TF초점] 9월 OTT 점령한 부부…현빈·손예진, 동시 출격",
@@ -483,6 +483,12 @@
           "title": "정우성·현빈, 우도환 나란히 극찬 “예쁠 수밖에 없는 배우”",
           "url": "https://sports.donga.com/ent/article/all/20260908/134629484/1",
           "source": "스포츠동아",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "정우성, '후배' 우도환에게 先연락 부탁..\"먼저 보내줘\" ('엘르')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/08/MNRDMZLDGAYWEZJVHEZGMZBZHE/",
+          "source": "조선일보",
           "date": "2026-09-08"
         }
       ]
@@ -514,10 +520,10 @@
       ]
     },
     "풍자": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T02:13:00+09:00",
-      "lastSeen": "2026-09-09T04:12:00+09:00",
+      "lastSeen": "2026-09-09T04:40:00+09:00",
       "news": [
         {
           "title": "풍자, 벌써부터 결혼 발표 파장 예상 \"대한민국 시끌벅적, 남편 공개 안할 것\" (풍자테레비)",
@@ -540,10 +546,10 @@
       ]
     },
     "양구": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T02:13:00+09:00",
-      "lastSeen": "2026-09-09T04:12:00+09:00",
+      "lastSeen": "2026-09-09T04:40:00+09:00",
       "news": [
         {
           "title": "양구 해안면 농가 흙탕물 저감·작목 전환에 4개 기관 손잡아",
@@ -566,10 +572,10 @@
       ]
     },
     "인플루언서": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T03:16:00+09:00",
-      "lastSeen": "2026-09-09T04:12:00+09:00",
+      "lastSeen": "2026-09-09T04:40:00+09:00",
       "news": [
         {
           "title": "\"이 행동이 죽음 불렀다\"…오리알 60~70개 먹방 100만 中인플루언서 사망",
@@ -604,10 +610,10 @@
       ]
     },
     "sbs": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T04:12:00+09:00",
-      "lastSeen": "2026-09-09T04:12:00+09:00",
+      "lastSeen": "2026-09-09T04:40:00+09:00",
       "news": [
         {
           "title": "SBS News Hunters Preview for September 8",
@@ -630,10 +636,10 @@
       ]
     },
     "club brugge vs aston villa": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T04:12:00+09:00",
-      "lastSeen": "2026-09-09T04:12:00+09:00",
+      "lastSeen": "2026-09-09T04:40:00+09:00",
       "news": [
         {
           "title": "Champions League: Aston Villa hold on to beat Club Brugge before Man City visit Porto",
@@ -651,6 +657,51 @@
           "title": "Club Brugge vs Aston Villa Confirmed Lineups",
           "url": "https://www.whoscored.com/news/BOCV7AZDLEmpQ4b9P4v5jw/show/20260908-club-brugge-vs-aston-villa-confirmed-lineup-1788881899",
           "source": "WhoScored.com",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Nicolas Jackson opens his account as Aston Villa survive late scare in Champions League thriller against Club Brugge",
+          "url": "https://www.goal.com/en-ca/lists/nicolas-jackson-scores-debut-goal-aston-villa-champions-league-club-brugge/blt275b33db1886253a",
+          "source": "Goal.com",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Club Brugge 2-3 Aston Villa (8 Sep, 2026) Game Analysis",
+          "url": "https://africa.espn.com/football/report/_/gameId/401915426",
+          "source": "ESPN",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "레알 마드리드 대 인테르": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T04:40:00+09:00",
+      "lastSeen": "2026-09-09T04:40:00+09:00",
+      "news": []
+    },
+    "포르투 대 맨 시티": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-09T04:40:00+09:00",
+      "lastSeen": "2026-09-09T04:40:00+09:00",
+      "news": [
+        {
+          "title": "시티, FC 포르투전 원정 명단 확정",
+          "url": "https://kr.mancity.com/news/mens/fc-porto-manchester-city-travelling-squad-63924422",
+          "source": "Manchester City FC",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[오피셜]'끔찍한 머리 충돌 여파→결장 결정' 황인범의 포르투 동료 덴마크 국대 미드필더 프로홀트, UCL 맨체스터 시티전 �� 뛴다..'회복중, 아직 무리 판단'",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/08/MM2DMMJZMFRTENJYMJQTQMBYGM/",
+          "source": "조선일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'엔소와 한판승부' 황인범, 맨시티전 선발 출전 유력! '뇌진탕 변수'로 빠지는 MVP 공백 메워라",
+          "url": "https://v.daum.net/v/p7vyp8tWlC",
+          "source": "Daum",
           "date": "2026-09-08"
         }
       ]
