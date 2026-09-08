@@ -2,10 +2,10 @@
   "date": "2026-09-09",
   "keywords": {
     "고려대": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T00:15:00+09:00",
-      "lastSeen": "2026-09-09T01:43:00+09:00",
+      "lastSeen": "2026-09-09T02:13:00+09:00",
       "news": [
         {
           "title": "[2027 수시]경희대, 3006명 선발…학생부 평가 정교화",
@@ -78,10 +78,10 @@
       ]
     },
     "사회복지사": {
-      "count": 4,
-      "maxTraffic": 200,
+      "count": 5,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-09T00:15:00+09:00",
-      "lastSeen": "2026-09-09T01:43:00+09:00",
+      "lastSeen": "2026-09-09T02:13:00+09:00",
       "news": [
         {
           "title": "“사회복지사끼리 결혼하면 기초수급자”…주말마다 투잡 뛴다",
@@ -316,10 +316,10 @@
       ]
     },
     "수시원서접수": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T00:44:00+09:00",
-      "lastSeen": "2026-09-09T01:43:00+09:00",
+      "lastSeen": "2026-09-09T02:13:00+09:00",
       "news": [
         {
           "title": "원서 접수만 수십만원…수시 전형료 장사에 수험생·학부모 '비명'",
@@ -348,10 +348,10 @@
       ]
     },
     "신병": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T01:15:00+09:00",
-      "lastSeen": "2026-09-09T01:43:00+09:00",
+      "lastSeen": "2026-09-09T02:13:00+09:00",
       "news": [
         {
           "title": "'신병4' 김민호·이원정, 밝혀진 악연의 비밀…4.1%, 꾸준한 상승세",
@@ -374,10 +374,10 @@
       ]
     },
     "한화에어로스페이스": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T01:15:00+09:00",
-      "lastSeen": "2026-09-09T01:43:00+09:00",
+      "lastSeen": "2026-09-09T02:13:00+09:00",
       "news": [
         {
           "title": "현대로템, ‘대드론 다층 방어’ 폴란드형 K2 전차 첫선",
@@ -412,10 +412,10 @@
       ]
     },
     "gta6": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T01:15:00+09:00",
-      "lastSeen": "2026-09-09T01:43:00+09:00",
+      "lastSeen": "2026-09-09T02:13:00+09:00",
       "news": [
         {
           "title": "GTA 6's Worldwide Release Times Revealed - with New Zealand Set to Receive Access 19 Hours Before Mexico and Central America",
@@ -438,10 +438,10 @@
       ]
     },
     "메이드인코리아 시즌2": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-09T01:43:00+09:00",
-      "lastSeen": "2026-09-09T01:43:00+09:00",
+      "lastSeen": "2026-09-09T02:13:00+09:00",
       "news": [
         {
           "title": "[TF초점] 9월 OTT 점령한 부부…현빈·손예진, 동시 출격",
@@ -459,6 +459,84 @@
           "title": "정우성·현빈, 우도환 나란히 극찬 “예쁠 수밖에 없는 배우”",
           "url": "https://sports.donga.com/ent/article/all/20260908/134629484/1",
           "source": "스포츠동아",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "양구군": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T02:13:00+09:00",
+      "lastSeen": "2026-09-09T02:13:00+09:00",
+      "news": [
+        {
+          "title": "양구군 마을축제 지원사업에 공수리·상무룡2리 선정",
+          "url": "https://v.daum.net/v/20260908090846235",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "용이 춤추는 양구 오지 상무룡마을, 댄싱 드래곤 축제[함영훈의 멋·맛·쉼]",
+          "url": "https://mbiz.heraldcorp.com/article/10866544",
+          "source": "헤럴드경제",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "마을축제가 지역경제 살린다",
+          "url": "https://news.mtn.co.kr/news-detail/2026090813073584711",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "풍자": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T02:13:00+09:00",
+      "lastSeen": "2026-09-09T02:13:00+09:00",
+      "news": [
+        {
+          "title": "풍자, 벌써부터 결혼 발표 파장 예상 \"대한민국 시끌벅적, 남편 공개 안할 것\" (풍자테레비)",
+          "url": "https://v.daum.net/v/xZjVlZwath",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "풍자, 미래 남편 비공개 선언 “괜히 미안” (풍자테레비) [DA클립]",
+          "url": "https://sports.donga.com/ent/article/all/20260908/134625601/1",
+          "source": "스포츠동아",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "풍자 \"결혼하면 대한민국 시끌벅적…남편 공개 안 해\"",
+          "url": "https://www.newsis.com/view/NISX20260907_0003779927",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "양구": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T02:13:00+09:00",
+      "lastSeen": "2026-09-09T02:13:00+09:00",
+      "news": [
+        {
+          "title": "양구 해안면 농가 흙탕물 저감·작목 전환에 4개 기관 손잡아",
+          "url": "https://v.daum.net/v/20260908154800951",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "양구 국유지 배추밭, 사과 과수원으로 바꿔 흙탕물 줄인다",
+          "url": "https://www.donga.com/news/Society/article/all/20260908/134622102/2",
+          "source": "동아일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "원주환경청 등 4개 기관, 8일 양구 고랭지밭 작목전환 협력 협약",
+          "url": "https://www.yna.co.kr/view/AKR20260907100700062",
+          "source": "연합뉴스",
           "date": "2026-09-08"
         }
       ]
