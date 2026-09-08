@@ -1382,6 +1382,266 @@
           "date": "2026-09-08"
         }
       ]
+    },
+    "im hero": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T08:12:00+09:00",
+      "lastSeen": "2026-09-09T08:12:00+09:00",
+      "news": [
+        {
+          "title": "'Going to Lim Young-woong Concert' Kim Young-gwang, Captivated Again: \"Someone Who Can't Help But Succeed.. Possesses Talent, Sincerity, and Etiquette\"",
+          "url": "https://www.starnewskorea.com/en/star/2026/09/08/2026090822510373333",
+          "source": "스타뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Filled Stadiums With Domestic Fandom... 1 Million Middle-Aged Fans Transform the Concert Market",
+          "url": "https://www.asiae.co.kr/en/article/2026090717025822393",
+          "source": "아시아경제",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Im Young-woong hits 1 million cumulative concertgoers on 10th debut anniversary",
+          "url": "https://mbiz.heraldcorp.com/article/10865262",
+          "source": "헤럴드경제",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "황보라": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T08:12:00+09:00",
+      "lastSeen": "2026-09-09T08:12:00+09:00",
+      "news": [
+        {
+          "title": "‘육아 회피형’ 황보라, 2살 子 훈육 제대로 시작 “통제, 질서가 안 돼”(보라이어티)",
+          "url": "https://v.daum.net/v/20260908195410717",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "황보라, '통제 불가' 2세 아들과 전시회 진땀…관람객에 연신 사과 [보라이어티]",
+          "url": "https://m.news.nate.com/view/20260908n36238?mid=e01&list=recent&cpcd=",
+          "source": "네이트",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "황보라, 육아 성향 진단에 충격 “나는 회피형…사실 맞는 것 같아”",
+          "url": "https://sports.donga.com/ent/article/all/20260908/134631178/1",
+          "source": "스포츠동아",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "삼성 갤럭시": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-09T08:12:00+09:00",
+      "lastSeen": "2026-09-09T08:12:00+09:00",
+      "news": [
+        {
+          "title": "애플 반기는 삼성전자 \"웰컴 투 폴더블\"",
+          "url": "https://v.daum.net/v/20260909060242716",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "삼성 '갤럭시Z 폴드8' 도쿄·런던 랜드마크 수놓는다",
+          "url": "https://www.yna.co.kr/view/AKR20260908025600017",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'아재폰'이라 놀렸는데…1030女 꽂히자 폰케이스까지 '대박'",
+          "url": "https://www.hankyung.com/article/202609078606H",
+          "source": "한국경제",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "심형탁": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T08:12:00+09:00",
+      "lastSeen": "2026-09-09T08:12:00+09:00",
+      "news": [
+        {
+          "title": "'슈퍼맨이 돌아왔다' 하루, 계곡 갈비 먹방(슈돌)",
+          "url": "https://v.daum.net/v/20260909000227977",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'심형탁 子' 하루, 계곡에서 우대갈비 먹방…쪽갈비도 5개 순삭 (슈돌) - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/08/MU2DEN3DMVRTEZBVHA2DCOBRHA/",
+          "source": "Chosunbiz",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "심형탁 아들, 얼굴보다 큰 갈비 뜯어 먹는 예쁨",
+          "url": "http://www.atstar1.com/news/articleView.html?idxno=6038424",
+          "source": "앳스타일",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "박주봉": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T08:12:00+09:00",
+      "lastSeen": "2026-09-09T08:12:00+09:00",
+      "news": [
+        {
+          "title": "'또 퍼펙트 우승' 안세영 깜짝 고백 \"몸 상태 체크할 겸 나간 대회였다\" [진천 현장]",
+          "url": "https://v.daum.net/v/20260909063109149",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "안세영 “아시안게임 즐긴다! 허벅지도 언니들만큼 굵어요”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8658416",
+          "source": "KBS 뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "100주 연속 세계 1위‥\"저 이기기 어려워요\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850479_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "포스코노동조합": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T08:12:00+09:00",
+      "lastSeen": "2026-09-09T08:12:00+09:00",
+      "news": [
+        {
+          "title": "포스코노조 48시간 부분파업 돌입…창사 56년 만에 처음",
+          "url": "https://www.yna.co.kr/view/AKR20260909011100053",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "포스코, 결국 창사 첫 파업…포항·광양 일부 공장 멈춘다",
+          "url": "https://www.ekn.kr/web/view.php?key=20260909026102327",
+          "source": "에너지경제신문",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "이상휘 \"포스코 노사 파업 확산은 막아야 한다\"",
+          "url": "https://www.newsis.com/view/NISX20260908_0003781377",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "김지찬": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T08:12:00+09:00",
+      "lastSeen": "2026-09-09T08:12:00+09:00",
+      "news": [
+        {
+          "title": "삼성 외야수끼리 사이 안 좋다? 터무니없는 소리…\"시기·질투 전혀 없어, 서로 응원한다\"",
+          "url": "https://v.daum.net/v/20260908012328022",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'김지찬 AG 차출→대체 1순위' 박승규 \"당연한 선발은 없다, 컨디션 좋은 사람이 뛰는 것이 맞아\"",
+          "url": "https://m.news.nate.com/view/20260909n00810",
+          "source": "Nate News",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "뜨겁다 구자욱!…생애 첫 타격왕에 삼성 우승·FA 대박 '정조준'",
+          "url": "https://www.newsis.com/view/NISX20260908_0003780810",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "추석": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T08:12:00+09:00",
+      "lastSeen": "2026-09-09T08:12:00+09:00",
+      "news": [
+        {
+          "title": "[한밭춘추] 고귀한 추석 선물",
+          "url": "https://v.daum.net/v/20260909070201701",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "풍성한 한가위, 서울 공원서 보내세요…추석 특별 프로그램 풍성",
+          "url": "https://v.daum.net/v/20260909060246726",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "서울시 '월간 나이트런 프로젝트', 여의도공원서 열린다",
+          "url": "https://www.newsis.com/view/NISX20260908_0003781496",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "schd": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T08:12:00+09:00",
+      "lastSeen": "2026-09-09T08:12:00+09:00",
+      "news": [
+        {
+          "title": "Where Will SCHD Stock Be in 5 Years?",
+          "url": "https://www.fool.com/investing/2026/09/06/where-will-schd-stock-be-in-5-years/",
+          "source": "The Motley Fool",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Schwab Dividend ETF holders: Compare it to Vanguard dividend ETF",
+          "url": "https://www.thestreet.com/investing/etfs/schd-schwab-us-dividend-equity-etf-versus-vig-vanguard-dividend-etf",
+          "source": "TheStreet",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "How AI And De-Dollarization Could Reshape SCHD (NYSEARCA:SCHD)",
+          "url": "https://seekingalpha.com/article/4941639-how-ai-and-de-dollarization-could-reshape-schd",
+          "source": "Seeking Alpha",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "창신메모리테크놀로지": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T08:12:00+09:00",
+      "lastSeen": "2026-09-09T08:12:00+09:00",
+      "news": [
+        {
+          "title": "창신메모리 “LPDDR6 세계 최초 양산”…삼전닉스 추격 위기감",
+          "url": "https://v.daum.net/v/YbxtDme4CI",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[유효상 칼럼] 왜 '붉은 샌드위치 위기(The Red Sandwich Crisis)'를 두려워해야 할까 - 머니투데이",
+          "url": "https://www.mt.co.kr/opinion/2026/09/08/2026090709445281668",
+          "source": "머니투데이",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "싼 가격과 쓸 만한 성능으로 한국 위협하는 중국 반도체",
+          "url": "https://weekly.donga.com/List/article/all/11/6378637/1",
+          "source": "주간동아",
+          "date": "2026-09-08"
+        }
+      ]
     }
   },
   "sections": {
