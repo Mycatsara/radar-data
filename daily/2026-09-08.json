@@ -2111,10 +2111,10 @@
       ]
     },
     "일본": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-08T10:12:00+09:00",
-      "lastSeen": "2026-09-08T11:13:00+09:00",
+      "lastSeen": "2026-09-08T11:42:00+09:00",
       "news": [
         {
           "title": "\"지하차도서 또\"‥일본, 큰비에 피해 잇따라",
@@ -2149,10 +2149,10 @@
       ]
     },
     "문구점": {
-      "count": 3,
-      "maxTraffic": 500,
+      "count": 4,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-08T10:12:00+09:00",
-      "lastSeen": "2026-09-08T11:13:00+09:00",
+      "lastSeen": "2026-09-08T11:42:00+09:00",
       "news": [
         {
           "title": "“탁구채 2개에 14만 원” 논란에…본사 “가맹계약 해지” [잇슈 키워드]",
@@ -2251,10 +2251,10 @@
       ]
     },
     "이의 리": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-08T10:42:00+09:00",
-      "lastSeen": "2026-09-08T11:13:00+09:00",
+      "lastSeen": "2026-09-08T11:42:00+09:00",
       "news": [
         {
           "title": "'똑같은 9회 2사 만루 이의리' 이틀 전엔 2구 만에 교체, 이번엔 끝까지 맡겼다... 이범호 감독 선택 '왜' 달랐나",
@@ -2289,10 +2289,10 @@
       ]
     },
     "박선주": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T10:42:00+09:00",
-      "lastSeen": "2026-09-08T11:13:00+09:00",
+      "lastSeen": "2026-09-08T11:42:00+09:00",
       "news": [
         {
           "title": "박선주, 이찬원에 \"사회성 뛰어난 보컬\"…진해성엔 \"평가 불가 수준\" ('K트롯 진선미') [종합]",
@@ -2311,14 +2311,20 @@
           "url": "https://www.sportsseoul.com/news/read/1633502",
           "source": "스포츠서울",
           "date": "2026-09-08"
+        },
+        {
+          "title": "이찬원 폭풍 칭찬, 박선주 “사회성이 뛰어난 노래”·김성주 “눈빛도 살아있고 자신감 넘치는데 겸손”",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16186210",
+          "source": "톱스타뉴스",
+          "date": "2026-09-08"
         }
       ]
     },
     "스카이랩스": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T10:42:00+09:00",
-      "lastSeen": "2026-09-08T11:13:00+09:00",
+      "lastSeen": "2026-09-08T11:42:00+09:00",
       "news": [
         {
           "title": "청약 흥행 참패했는데 상장 후 주가 대박…상한가 친 새내기주는",
@@ -2379,10 +2385,10 @@
       ]
     },
     "신다 인": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-08T11:13:00+09:00",
-      "lastSeen": "2026-09-08T11:13:00+09:00",
+      "lastSeen": "2026-09-08T11:42:00+09:00",
       "news": [
         {
           "title": "‘발목 부상’ 박현경, KB금융 챔피언십도 못 나온다…‘올해 통산 10승’ 목표 달성 더욱 어려워질 듯",
@@ -2405,10 +2411,10 @@
       ]
     },
     "레즈 대 다저스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-08T11:13:00+09:00",
-      "lastSeen": "2026-09-08T11:13:00+09:00",
+      "lastSeen": "2026-09-08T11:42:00+09:00",
       "news": [
         {
           "title": "오타니 ‘이도류’ 결국 멈췄다…로버츠 감독, “지금 투구는 전혀 의미 없다” 언제 공 잡을지도 모른다",
@@ -2426,6 +2432,84 @@
           "title": "[워싱턴 다저스] 무키 베츠 '역전 3점 홈런!'",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3687237",
           "source": "국제뉴스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "피트 헤그세스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T11:42:00+09:00",
+      "lastSeen": "2026-09-08T11:42:00+09:00",
+      "news": [
+        {
+          "title": "‘아프간 마지막 미군’ 대장마저…헤그세스 몽니에 날아갔다[지금, 이 사람]",
+          "url": "https://v.daum.net/v/20260908043323919",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "‘아프간의 마지막 미군’ 퇴역 뒤엔 헤그세스 美 국방의 칼날 있었다",
+          "url": "https://www.chosun.com/international/international_general/2026/09/08/ZMLOVXZDUNGFBIZA4BBB3PIW6Y/",
+          "source": "조선일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "아프간부터 이란전까지, 미 육군 ‘브레인’ 군복 벗긴 헤그세스의 숙청",
+          "url": "https://www.hani.co.kr/arti/international/america/1276611.html",
+          "source": "한겨레",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "알렉산더 즈베레프": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T11:42:00+09:00",
+      "lastSeen": "2026-09-08T11:42:00+09:00",
+      "news": [
+        {
+          "title": "'1번 시드' 츠베레프, US오픈 16강 진출…코볼리·프리츠 탈락",
+          "url": "https://www.news1.kr/sports/general-sport/6281348",
+          "source": "뉴스1",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'엄청난 내구성과 회복력' 즈베레프는 이 시대의 금강불괴",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53637",
+          "source": "테니스코리아",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'뉴욕의 잠 못 이루는 밤' US오픈 테니스 심야경기 속출…\"새벽 2시 종료, 어서 자러 가고 싶다\"",
+          "url": "https://news.nate.com/view/20260907n14693",
+          "source": "네이트",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "nep vs hk": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T11:42:00+09:00",
+      "lastSeen": "2026-09-08T11:42:00+09:00",
+      "news": [
+        {
+          "title": "Nepal vs Hong Kong, China Live Scorecard: Live Cricket Score NEP vs HK, Match 19, ACC Men\\'s Premier Cup, 2026",
+          "url": "https://www.indiatoday.in/live-score/cricket/nepal-hong-kong-china-live-cricket-scorecard-273941",
+          "source": "India Today",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Nepal vs Hong Kong Live Streaming: When And Where To Watch NEP v HK ACC Men's Premier Cup 2026",
+          "url": "https://www.ndtvprofit.com/sports/nepal-vs-hong-kong-live-streaming-when-and-where-to-watch-nep-v-hk-acc-mens-premier-cup-2026-12012211",
+          "source": "NDTV Profit",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "NEP vs HKC 19 Match Prediction & Odds, Men’s Premier Cup, 2026",
+          "url": "https://asiacup.com.in/nep-vs-hkc-19-match-prediction/",
+          "source": "Asia Cup 2026",
           "date": "2026-09-08"
         }
       ]
