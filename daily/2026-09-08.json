@@ -2047,10 +2047,10 @@
       ]
     },
     "구직": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T09:47:00+09:00",
-      "lastSeen": "2026-09-08T10:12:00+09:00",
+      "lastSeen": "2026-09-08T10:42:00+09:00",
       "news": [
         {
           "title": "8년 다닌 회사에서 잘렸다, 구직급여 신청하고 깨달은 것",
@@ -2073,10 +2073,10 @@
       ]
     },
     "응급실": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T09:47:00+09:00",
-      "lastSeen": "2026-09-08T10:12:00+09:00",
+      "lastSeen": "2026-09-08T10:42:00+09:00",
       "news": [
         {
           "title": "'10대 응급실 미수용→사망' 병원책임 인정…응급醫들 \"또 책임 전가\" - 머니투데이",
@@ -2105,10 +2105,10 @@
       ]
     },
     "일본": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-08T10:12:00+09:00",
-      "lastSeen": "2026-09-08T10:12:00+09:00",
+      "lastSeen": "2026-09-08T10:42:00+09:00",
       "news": [
         {
           "title": "\"지하차도서 또\"‥일본, 큰비에 피해 잇따라",
@@ -2127,14 +2127,26 @@
           "url": "https://imnews.imbc.com/news/2026/world/article/6850128_36925.html",
           "source": "MBC 뉴스",
           "date": "2026-09-08"
+        },
+        {
+          "title": "한달 치 비, 하루만에 쏟아졌다… 日 도쿄 '물 폭탄'",
+          "url": "https://www.etnews.com/20260908000121",
+          "source": "전자신문",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "日혼슈 동부 기록적 폭우로 최고 수준 경보…대피령 속 1명 사망(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260907026751073",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
         }
       ]
     },
     "문구점": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-08T10:12:00+09:00",
-      "lastSeen": "2026-09-08T10:12:00+09:00",
+      "lastSeen": "2026-09-08T10:42:00+09:00",
       "news": [
         {
           "title": "“탁구채 2개에 14만 원” 논란에…본사 “가맹계약 해지” [잇슈 키워드]",
@@ -2153,14 +2165,26 @@
           "url": "https://www.news1.kr/society/general-society/6282240",
           "source": "뉴스1",
           "date": "2026-09-08"
+        },
+        {
+          "title": "“탁구채 2개에 14만 원” 논란에…본사 “가맹계약 해지” [잇슈 키워드]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8657216",
+          "source": "KBS 뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "중학생에 '탁구채 14만원' 판매…알파문구 \"계약 해지\"",
+          "url": "https://www.newsis.com/view/NISX20260908_0003780434",
+          "source": "뉴시스",
+          "date": "2026-09-08"
         }
       ]
     },
     "박용택": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-08T10:12:00+09:00",
-      "lastSeen": "2026-09-08T10:12:00+09:00",
+      "lastSeen": "2026-09-08T10:42:00+09:00",
       "news": [
         {
           "title": "'짠한형' 이대호 \"나지완, 진짜 주당…물 대신 소주\" [RE:TV]",
@@ -2179,14 +2203,20 @@
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/517504",
           "source": "iMBC 연예",
           "date": "2026-09-08"
+        },
+        {
+          "title": "'짠한형' 이대호 \"박용택, 해설할 때 말 길어…1절만 해\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6282740",
+          "source": "뉴스1",
+          "date": "2026-09-08"
         }
       ]
     },
     "gpt 6 astra": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-08T10:12:00+09:00",
-      "lastSeen": "2026-09-08T10:12:00+09:00",
+      "lastSeen": "2026-09-08T10:42:00+09:00",
       "news": [
         {
           "title": "GPT-6 Astra: A new generation of intelligence",
@@ -2204,6 +2234,110 @@
           "title": "OpenAI's new model costs 2.5x more per token — and developers are saving money anyway",
           "url": "https://thenewstack.io/astra-reasoning-effort-cost/",
           "source": "The New Stack",
+          "date": "2026-09-07"
+        }
+      ]
+    },
+    "이의 리": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-08T10:42:00+09:00",
+      "lastSeen": "2026-09-08T10:42:00+09:00",
+      "news": [
+        {
+          "title": "'똑같은 9회 2사 만루 이의리' 이틀 전엔 2구 만에 교체, 이번엔 끝까지 맡겼다... 이범호 감독 선택 '왜' 달랐나",
+          "url": "https://v.daum.net/v/20260906054309609",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "“(이)의리 엄청 부럽죠, 저는 아무리 노력해도 155km 못 던져요” KIA 어느 불펜투수의 고백…막상 KIA에 없으면 안 되는 존재[MD광주]",
+          "url": "https://mydaily.co.kr/page/view/2026090622575333824",
+          "source": "마이데일리",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "\"차라리 홈런을 맞지\"…김도영에게 준 8회 스트레이트 볼넷, 이강철 감독이 땅을 친 장면[스경x비하인드]",
+          "url": "https://m.news.nate.com/view/20260905n08830",
+          "source": "Nate News",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "박선주": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T10:42:00+09:00",
+      "lastSeen": "2026-09-08T10:42:00+09:00",
+      "news": [
+        {
+          "title": "박선주, 이찬원에 \"사회성 뛰어난 보컬\"…진해성엔 \"평가 불가 수준\" ('K트롯 진선미') [종합]",
+          "url": "https://v.daum.net/v/20260907235547986",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "정미애·홍지윤·배아현·허찬미 출격… 'K트롯 진선미 환상의 무대'",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3680399",
+          "source": "국제뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "“사회성 뛰어난 노래” 박선주, 이찬원 향해 아낌없는 극찬",
+          "url": "https://www.sportsseoul.com/news/read/1633502",
+          "source": "스포츠서울",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "스카이랩스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T10:42:00+09:00",
+      "lastSeen": "2026-09-08T10:42:00+09:00",
+      "news": [
+        {
+          "title": "청약 흥행 참패했는데 상장 후 주가 대박…상한가 친 새내기주는",
+          "url": "https://stock.mk.co.kr/news/view/1154825",
+          "source": "매일경제 마켓",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[특징주] 스카이랩���, 상장 사흘째 상승세… 11%대 급등 - 조선비즈",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/09/08/FWJRF2YAYNHBFAST3JXFTR7SMU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "‘CART 혈압계’, 심방세동·심부전 환자 혈압 측정 유용성 입증",
+          "url": "https://pharm.edaily.co.kr/News/Read?newsId=02102486645577824",
+          "source": "팜이데일리",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "최동원": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T10:42:00+09:00",
+      "lastSeen": "2026-09-08T10:42:00+09:00",
+      "news": [
+        {
+          "title": "원년 유일 생존 감독, ‘백인천, 최동원 추모하며 전한 말’",
+          "url": "https://v.daum.net/v/20260907222152084",
+          "source": "Daum",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "[영상] 져주기 파문, 1984년 가을의 전설 ‘불꽃남자 최동원, 장효조를 추모하며’ 박영길 인사이트 인터뷰",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8656694",
+          "source": "KBS 뉴스",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "'혼자 KS 4승' 영원한 전설 벌써 15주기... 롯데, 11일 KT전서 최동원 다시 기억한다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/2026090519400654909",
+          "source": "머니투데이",
           "date": "2026-09-07"
         }
       ]
