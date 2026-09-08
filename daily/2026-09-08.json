@@ -4535,10 +4535,10 @@
       ]
     },
     "지귀연": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-08T19:42:00+09:00",
-      "lastSeen": "2026-09-08T19:42:00+09:00",
+      "lastSeen": "2026-09-08T20:13:00+09:00",
       "news": [
         {
           "title": "'술접대 의혹' 지귀연 판사 사건, 연수원 동기 판사가 심리",
@@ -4556,6 +4556,12 @@
           "title": "공수처의 판사 기소… 청탁금지법 수사권 없어 법 ��용 논란",
           "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=225897",
           "source": "법률신문",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[단독]'룸살롱 접대 의혹' 지귀연 사건, ��수원 동기 재판부로",
+          "url": "https://v.daum.net/v/20260908104549563",
+          "source": "Daum",
           "date": "2026-09-08"
         }
       ]
@@ -4634,6 +4640,240 @@
           "title": "추경호 대구시장과 9명의 구청장·군수 한자리에…지역 현안 논의",
           "url": "https://www.nocutnews.co.kr/news/6575114",
           "source": "노컷뉴스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "이란": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T20:13:00+09:00",
+      "lastSeen": "2026-09-08T20:13:00+09:00",
+      "news": [
+        {
+          "title": "“이란 석유 수익 12월 고갈”…석유 못 팔아 난리난 이란, 군부 입김 세졌다",
+          "url": "https://v.daum.net/v/20260908154950062",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "美 해상봉쇄 효과…“이란산 원유 한달 넘게 봉쇄선 못 넘어”",
+          "url": "https://www.donga.com/news/Inter/article/all/20260908/134626318/1",
+          "source": "동아일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "트럼프의 '경제 질식' 작전, 이란 군사 확전 내모나",
+          "url": "https://www.yna.co.kr/view/AKR20260908033200009",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "정찬성": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T20:13:00+09:00",
+      "lastSeen": "2026-09-08T20:13:00+09:00",
+      "news": [
+        {
+          "title": "“한숨 재워” 기절시키고 방치…격투기 선수 입건 [잇슈 키워드]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8657217",
+          "source": "KBS 뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "\"정찬성은 왜 문신 조폭을 받았나\"…김중우 '길로틴 초크' 격투기계 분노",
+          "url": "https://www.news1.kr/society/general-society/6283251",
+          "source": "뉴스1",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "조폭 출신 파이터 폭행 파문…\"방송 주도자도 공범 전환 가능성\" 변호사의 ���단",
+          "url": "https://www.newsis.com/view/NISX20260908_0003781264",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "야구 감독": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T20:13:00+09:00",
+      "lastSeen": "2026-09-08T20:13:00+09:00",
+      "news": [
+        {
+          "title": "감독 교체설의 계절 \"감독감이 없다고?\" 그럴리가...유력 후보 얼마든지 있다",
+          "url": "https://v.daum.net/v/20260908105232919",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[송재우의 야구 직관]부진한 주전, 감독은 얼마나 기다려야 할까?",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260831/134579276/2",
+          "source": "동아일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'선수 지원 부족해서 못 한다?'…FA도 스타도 없는 탬파베이 캐시, 12년 장기집권이 김태형에게 던지는 질문",
+          "url": "https://v.daum.net/v/20260901013852314",
+          "source": "Daum",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "여자 축구": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T20:13:00+09:00",
+      "lastSeen": "2026-09-08T20:13:00+09:00",
+      "news": [
+        {
+          "title": "마음고생 털어놓은 지소연…“마지막 AG, 메달 색 바꾼다”",
+          "url": "https://v.daum.net/v/20260907220809925",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "여자축구대표팀, AG 대비 최종 소집훈련…\"메달 색깔 바꾸겠다\"",
+          "url": "https://www.yna.co.kr/view/AKR20260907148100007",
+          "source": "연합뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "지소연의 마지막 도전...\"아시안게임 결승 다짐\"",
+          "url": "https://www.ytn.co.kr/_ln/0107_202609072321015234",
+          "source": "YTN",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "만평": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T20:13:00+09:00",
+      "lastSeen": "2026-09-08T20:13:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 경찰, 지방선거 '개표소 봉쇄' 95일만 올림픽공원 핸드볼경기장 진입",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=910665",
+          "source": "경기신문",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "박재동의 시사만평 [91]",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=910640",
+          "source": "경기신문",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "말하는 그림 [347]",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=910462",
+          "source": "경기신문",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "수호이 su-35s": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T20:13:00+09:00",
+      "lastSeen": "2026-09-08T20:13:00+09:00",
+      "news": [
+        {
+          "title": "[포착] 푸틴 화나겠네…“러 Su-35 전투기 두 대, 쿠르스크서 공중 충돌”",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260908601006",
+          "source": "나우뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "러시아의 Su-35S 전투기 두 대가 쿠르스크 지역 상공에서 충돌했습니다.",
+          "url": "https://www.vietnam.vn/ko/hai-tiem-kich-su-35s-cua-nga-va-cham-tren-bau-troi-vung-kursk",
+          "source": "Vietnam.vn",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "러시아 공군 '대참사': 주력 Su-35S 2대 공중충돌, 1명 사망 : 정치",
+          "url": "https://news.jkn.co.kr/post/979549",
+          "source": "재경일보",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "울산 대 fc 서울": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-08T20:13:00+09:00",
+      "lastSeen": "2026-09-08T20:13:00+09:00",
+      "news": [
+        {
+          "title": "‘2위 탈환 겨냥’ 울산HD, 서울 꺾고 홈 승리 도전",
+          "url": "https://v.daum.net/v/umGFHJqFvk",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "이동경 국내 선수 최초 2시즌 연속 '10-10' 도전, 상대가 '절대 1강' 서울…'퇴장' 야고 없는 '클린시트' 울산, 안방 설욕 가능할까",
+          "url": "https://www.chosun.com/sports/football/2026/09/07/GJTDGZTEGJTDKNZRGM4TOMTCMY/",
+          "source": "조선일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[SD 울산 인터뷰] ‘우승 8부 능선’ 김기동 서울 감독, “스리백, 제로톱 상대 전략 대비”…‘추격자’ 김현석 울산 감독, “GK 조현우부터 하이-프레싱”",
+          "url": "https://sports.donga.com/sports/article/all/20260908/134629684/1",
+          "source": "스포츠동아",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "이집트": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T20:13:00+09:00",
+      "lastSeen": "2026-09-08T20:13:00+09:00",
+      "news": [
+        {
+          "title": "‘팔로워 260만’ 유명 TV쇼 女진행자, ‘사형’ 선고…마약 밀매 혐의",
+          "url": "https://www.donga.com/news/Inter/article/all/20260908/134627963/2",
+          "source": "동아일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "이집트, ’250만 팔로워’ 유명 방송인에 ’사형 선고’",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260908154212wZo",
+          "source": "연합뉴스TV",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'팔로워 260만' 이집트 TV쇼 진행자…마약 밀매 혐의로 사형 선고 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/08/2026090814375215730",
+          "source": "머니투데이",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "이상우": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T20:13:00+09:00",
+      "lastSeen": "2026-09-08T20:13:00+09:00",
+      "news": [
+        {
+          "title": "이상우, 발달장애 큰아들 근황 공개…“가족 유대 더 깊어져”",
+          "url": "https://www.donga.com/news/Culture/article/all/20260908/134625795/1",
+          "source": "동아일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "이상우, ‘2,600만 조회수’ 터뜨린 ‘가수 아들’ 공개| 디지털 KBS",
+          "url": "https://mylovekbs.kbs.co.kr/index.html?source=mylovekbs&sname=mylovekbs&stype=magazine&contents_id=70000000403939",
+          "source": "MyloveKBS",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "글로벌 밴드 경연서 우승한 ‘훈남 보컬’…“아버지가 90년대 발라드 황제”",
+          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/09/08/20260908500207",
+          "source": "서울신문",
           "date": "2026-09-08"
         }
       ]
