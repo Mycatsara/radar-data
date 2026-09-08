@@ -3159,10 +3159,10 @@
       ]
     },
     "젠슨 황": {
-      "count": 1,
-      "maxTraffic": 5000,
+      "count": 2,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-08T14:13:00+09:00",
-      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:42:00+09:00",
       "news": [
         {
           "title": "젠슨 황 \"GPT-6 아스트라, AGI 시대 열었다…GPU 10만개 투입\"",
@@ -3181,21 +3181,27 @@
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433869",
           "source": "연합인포맥스",
           "date": "2026-09-08"
+        },
+        {
+          "title": "\"똑똑한 애가 쉬지도 않고 일하더라\"…이번에 온 '신입' 무섭���[클릭 e산업]",
+          "url": "https://v.daum.net/v/XFqQQTNdjM",
+          "source": "Daum",
+          "date": "2026-09-08"
         }
       ]
     },
     "포헨즈": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-08T14:13:00+09:00",
-      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:42:00+09:00",
       "news": []
     },
     "알테오젠": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T14:13:00+09:00",
-      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:42:00+09:00",
       "news": [
         {
           "title": "[기자수첩] 알테오젠에 붙은 '신뢰 할인'",
@@ -3214,14 +3220,20 @@
           "url": "https://www.sedaily.com/article/20088251",
           "source": "서울경제",
           "date": "2026-09-08"
+        },
+        {
+          "title": "하나증권 \"알테오젠 목표주가 무상증자로 조정, 기술수출 현금 유입시기 주목\"",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446634",
+          "source": "비즈니스포스트",
+          "date": "2026-09-08"
         }
       ]
     },
     "한지혜": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-08T14:13:00+09:00",
-      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:42:00+09:00",
       "news": [
         {
           "title": "한지혜, 탄탄한 복근 뽐내며…시애틀서 '바레' 운동 도전",
@@ -3240,14 +3252,20 @@
           "url": "https://m.news.nate.com/view/20260907n30619?mid=e01&list=recent&cpcd=",
           "source": "네이트",
           "date": "2026-09-08"
+        },
+        {
+          "title": "한지혜, 자기 관리 철저한 ♥검사 사모님..42세 안 믿겨",
+          "url": "https://v.daum.net/v/20260907190709629",
+          "source": "Daum",
+          "date": "2026-09-08"
         }
       ]
     },
     "애플": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-08T14:13:00+09:00",
-      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:42:00+09:00",
       "news": [
         {
           "title": "“결국, 이걸 진짜 본다” 사상 초유의 애플 ‘접는폰’…스펙 다 나왔다, 등장 임박",
@@ -3266,14 +3284,20 @@
           "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169644",
           "source": "IT조선",
           "date": "2026-09-08"
+        },
+        {
+          "title": "\"아이폰18 프로 나오면 애플 주가 하락\"…근거는?",
+          "url": "https://zdnet.co.kr/view/?no=20260908082358",
+          "source": "지디넷코리아",
+          "date": "2026-09-08"
         }
       ]
     },
     "항공": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-08T14:13:00+09:00",
-      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:42:00+09:00",
       "news": [
         {
           "title": "국제선 승객 ‘국내선 청사’에 내려준 대한항공···4명은 공항 나갔다 돌아와 입국심사",
@@ -3292,14 +3316,26 @@
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742465",
           "source": "SBS 뉴스",
           "date": "2026-09-08"
+        },
+        {
+          "title": "대한항공, 10년 만에 조종사 파업 위기…노동쟁의 조정 신청",
+          "url": "https://v.daum.net/v/20260908133301050",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "대한항공 조종사노조, '아시아나 합병 후 서열 문제'로 노동쟁의 조정 신청",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6850355_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-08"
         }
       ]
     },
     "담보 대출": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-08T14:13:00+09:00",
-      "lastSeen": "2026-09-08T14:13:00+09:00",
+      "lastSeen": "2026-09-08T14:42:00+09:00",
       "news": [
         {
           "title": "주담대 연체 ‘눈덩이’…연체 잔액 3년반만에 2.2배",
@@ -3317,6 +3353,18 @@
           "title": "'더는 못 버티겠다'…영끌족들, 금리 상승에 곡소리 [지금이뉴스]",
           "url": "https://www.ytn.co.kr/_ln/0545_202609080750013310",
           "source": "YTN",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "전북銀 주담대 연체율 반년 새 5배…집단대출 확대 '복병' 되나",
+          "url": "https://v.daum.net/v/20260908143302679",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "주담대 연체 ‘눈덩이’…연체 잔액 3년반만에 2.2배",
+          "url": "https://www.donga.com/news/Economy/article/all/20260908/134625219/2",
+          "source": "동아일보",
           "date": "2026-09-08"
         }
       ]
@@ -3353,6 +3401,84 @@
       "firstSeen": "2026-09-08T14:13:00+09:00",
       "lastSeen": "2026-09-08T14:13:00+09:00",
       "news": []
+    },
+    "춘천마라톤": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T14:42:00+09:00",
+      "lastSeen": "2026-09-08T14:42:00+09:00",
+      "news": [
+        {
+          "title": "회복의 핵심은 수면… 대회 앞두고 커피를 끊었다",
+          "url": "https://www.chosun.com/sports/sports_general/2026/09/08/RYMVOUX5SBHNRD7A33XL6DL3QU/",
+          "source": "조선일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "프로스펙스, 옛 매장 터에 서촌 플래그십 개장…‘모두의 스포츠’ 가치담는다",
+          "url": "https://v.daum.net/v/20260907163437247",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "프로-스펙스, 서촌에 플래그십 스토어 오픈…춘마 80주년 기념 전시도",
+          "url": "https://www.newsis.com/view/NISX20260907_0003778863",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "수학": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T14:42:00+09:00",
+      "lastSeen": "2026-09-08T14:42:00+09:00",
+      "news": [
+        {
+          "title": "[단독] “40년 수학 난제, AI로 두달 만에 해결… 필즈상 사라질지도 몰라”",
+          "url": "https://v.daum.net/v/20260908050217214",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[시론] AI 시대엔 달라져야 할 수학 인재 교육",
+          "url": "https://www.koreadaily.com/article/20260907081626067",
+          "source": "미주중앙일보",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "“수학자들이 수년 걸릴 일, AI는 11일 만에 끝냈다…클로드, ‘페르마의 마지막 정리’ 완전 검증",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=41782",
+          "source": "인공지능신문",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "한동훈": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-08T14:42:00+09:00",
+      "lastSeen": "2026-09-08T14:42:00+09:00",
+      "news": [
+        {
+          "title": "[단독] “김승원, 식약처장에 BH(청와대) 통해 보고서 올리라 했다” 브로커 녹취",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1276756.html",
+          "source": "한겨레",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "김민석 직격에 한동훈 \"민주당 오빠들 실망\"",
+          "url": "https://v.daum.net/v/20260908140750417",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "한동훈, 최재성 거론 추가 녹취 공개‥\"증인·청문위원, 뭐든 불러달라\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6850331_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-08"
+        }
+      ]
     }
   },
   "sections": {
