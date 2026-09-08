@@ -4173,10 +4173,10 @@
       ]
     },
     "키움 대 lg": {
-      "count": 2,
-      "maxTraffic": 2000,
+      "count": 3,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-08T18:43:00+09:00",
-      "lastSeen": "2026-09-08T19:14:00+09:00",
+      "lastSeen": "2026-09-08T19:42:00+09:00",
       "news": [
         {
           "title": "LG에 문책성 강등? 그런 것 없다…범인찾기보다 함께 이겨낸다, 그렇게 강팀이 됐으니까",
@@ -4200,6 +4200,12 @@
           "title": "[핌in잠실] 시차 적응 끝낸 고우석, 이제 '연투'도 된다…LG 필승조 본격 풀가동",
           "url": "https://www.newspim.com/news/view/20260908001122",
           "source": "뉴스핌",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "“고우석 이제 2연투도 된다” 드디어 봉인 해제, 이번 주 최대 4경기 등판할까...문보경 허리 근육통 \"AG 가서도 수비 안 될듯\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/08/202609081620777406O",
+          "source": "머니투데이",
           "date": "2026-09-08"
         }
       ]
@@ -4405,10 +4411,10 @@
       ]
     },
     "xrp": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-08T19:14:00+09:00",
-      "lastSeen": "2026-09-08T19:14:00+09:00",
+      "lastSeen": "2026-09-08T19:42:00+09:00",
       "news": [
         {
           "title": "Bitcoin, Ethereum, XRP Retreat but September Could Hold a Surprise, Data Shows",
@@ -4431,10 +4437,10 @@
       ]
     },
     "다산": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-08T19:14:00+09:00",
-      "lastSeen": "2026-09-08T19:14:00+09:00",
+      "lastSeen": "2026-09-08T19:42:00+09:00",
       "news": [
         {
           "title": "'二十四: 하늘을 읽어 땅을 살리다' 강진 다산박물관 특별전",
@@ -4457,10 +4463,10 @@
       ]
     },
     "두산 대 한화": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-08T19:14:00+09:00",
-      "lastSeen": "2026-09-08T19:14:00+09:00",
+      "lastSeen": "2026-09-08T19:42:00+09:00",
       "news": [
         {
           "title": "'한화 50안타 33득점 대폭발' 이제는 류현진도 덕 좀 보자! 6월이 마지막 선발승…89일 만의 승리투수 노린다",
@@ -4483,10 +4489,10 @@
       ]
     },
     "롯데 대 nc": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-08T19:14:00+09:00",
-      "lastSeen": "2026-09-08T19:14:00+09:00",
+      "lastSeen": "2026-09-08T19:42:00+09:00",
       "news": [
         {
           "title": "[8일 프리뷰] ‘롯데 킬러’ 토다, 롯데전 4승 도전",
@@ -4503,10 +4509,10 @@
       ]
     },
     "전국삼성전자노동조합": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-08T19:14:00+09:00",
-      "lastSeen": "2026-09-08T19:14:00+09:00",
+      "lastSeen": "2026-09-08T19:42:00+09:00",
       "news": [
         {
           "title": "전국삼성전자노조 위원장에 이호석 수원지부장",
@@ -4524,6 +4530,110 @@
           "title": "뉴욕 한복판에 \"우리도 있다\"…노조 광고 정체",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008740206",
           "source": "SBS 뉴스",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "지귀연": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T19:42:00+09:00",
+      "lastSeen": "2026-09-08T19:42:00+09:00",
+      "news": [
+        {
+          "title": "'술접대 의혹' 지귀연 판사 사건, 연수원 동기 판사가 심리",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850370_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "法, 지귀연 판사 '술접대 의혹' 사건 재판부 변경",
+          "url": "https://www.asiae.co.kr/article/2026090819171459159",
+          "source": "아시아경제",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "공수처의 판사 기소… 청탁금지법 수사권 없어 법 ��용 논란",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=225897",
+          "source": "법률신문",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "국민성장펀드": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-08T19:42:00+09:00",
+      "lastSeen": "2026-09-08T19:42:00+09:00",
+      "news": [
+        {
+          "title": "조기 완판 국민참여성장펀드, 30일부터 2주간 2차 판매",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971472",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "2차 국민성장펀드 30일 출시…서민 전용 물량 50%로 확대",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260909.22002002728",
+          "source": "국제신문",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "2차 국민성장펀드 30일부터 판매…자펀드 운용사 10곳 선정",
+          "url": "https://news.mtn.co.kr/news-detail/2026090814240140311",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "야구여왕": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-08T19:42:00+09:00",
+      "lastSeen": "2026-09-08T19:42:00+09:00",
+      "news": [
+        {
+          "title": "에이스 박민서 ‘흔들’…첫 볼넷 실점 위기 (야구여왕2)",
+          "url": "https://sports.khan.co.kr/article/202609080906003",
+          "source": "스포츠경향",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[10회예고] 포수로 데뷔하게 된 박민서와 선발 투수 아야카가 보여 줄 새로운 배터리 호흡은?",
+          "url": "https://ichannela.com/program/clip/000000549016.do",
+          "source": "채널A",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "블랙퀸즈, \"이걸 치느냐\" 당혹…'팀 해체' 위기에 에이스까지 무너졌다 ('야구여왕2')",
+          "url": "https://v.daum.net/v/20260908085219406",
+          "source": "Daum",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "정책": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-08T19:42:00+09:00",
+      "lastSeen": "2026-09-08T19:42:00+09:00",
+      "news": [
+        {
+          "title": "민선 9기 대구시장·구청장·군수 첫 정책회의…행정통합 등 현안 논의",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6284092",
+          "source": "뉴스1",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "대구시-9개 구·군 정책회의 재가동…행정통합·민생현안 공동 대응",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04106566645578152&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "추경호 대구시장과 9명의 구청장·군수 한자리에…지역 현안 논의",
+          "url": "https://www.nocutnews.co.kr/news/6575114",
+          "source": "노컷뉴스",
           "date": "2026-09-08"
         }
       ]
