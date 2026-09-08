@@ -680,10 +680,10 @@
       ]
     },
     "레알 마드리드 대 인테르": {
-      "count": 3,
-      "maxTraffic": 2000,
+      "count": 4,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-09T04:40:00+09:00",
-      "lastSeen": "2026-09-09T05:41:00+09:00",
+      "lastSeen": "2026-09-09T06:12:00+09:00",
       "news": []
     },
     "포르투 대 맨 시티": {
@@ -713,10 +713,10 @@
       ]
     },
     "real madrid vs inter": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T05:13:00+09:00",
-      "lastSeen": "2026-09-09T05:41:00+09:00",
+      "lastSeen": "2026-09-09T06:12:00+09:00",
       "news": [
         {
           "title": "Mourinho returns to Champions League as Real Madrid coach to face Inter - CHOSUNBIZ",
@@ -735,14 +735,26 @@
           "url": "https://onefootball.com/en/news/from-the-1964-final-to-the-new-bernabeu-the-history-of-real-madrid-vs-inter-43425005",
           "source": "OneFootball",
           "date": "2026-09-08"
+        },
+        {
+          "title": "Champions League: Man City goalless at Porto, Real Madrid 2-0 up against Inter",
+          "url": "https://www.bbc.co.uk/sport/football/live/cmde091l9kzkt",
+          "source": "BBC",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Real Madrid v Inter Milan LIVE: Latest score and updates from Champions League",
+          "url": "https://www.independent.co.uk/sport/football/real-madrid-inter-live-stream-score-champions-league-result-b3046726.html",
+          "source": "The Independent",
+          "date": "2026-09-08"
         }
       ]
     },
     "공소기각": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-09T05:13:00+09:00",
-      "lastSeen": "2026-09-09T05:41:00+09:00",
+      "lastSeen": "2026-09-09T06:12:00+09:00",
       "news": [
         {
           "title": "이미 공소기각 판결 급증… 檢 폐지로 범죄 처벌 더 힘들 것[사설]",
@@ -765,10 +777,10 @@
       ]
     },
     "도르트문트 대 비야레알": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-09T05:41:00+09:00",
-      "lastSeen": "2026-09-09T05:41:00+09:00",
+      "lastSeen": "2026-09-09T06:12:00+09:00",
       "news": [
         {
           "title": "보루시아 도르트문트 vs 비야레알 예측: 선두 경쟁의 뜨거운 승부",
@@ -812,6 +824,162 @@
           "title": "[오피셜]韓 축구 에이스! 이강인 정장 차림으로 UCL 정���준…최종 스쿼드 합류→리버풀 원정 출격",
           "url": "https://www.chosun.com/sports/world-football/2026/09/08/GUYDANDEMM4DQNZZGEZTMMZYHA/",
           "source": "조선일보",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "porto vs man city": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T06:12:00+09:00",
+      "lastSeen": "2026-09-09T06:12:00+09:00",
+      "news": [
+        {
+          "title": "Francesco Farioli: Porto boss out to stun Man City in Champions League",
+          "url": "https://www.bbc.com/sport/football/articles/c072j1r4e2do",
+          "source": "BBC",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Maresca: Now Haaland's the complete person - on and off the pitch",
+          "url": "https://www.mancity.com/news/mens/enzo-maresca-fc-porto-v-manchester-city-preview-63924396",
+          "source": "Manchester City FC",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Bouaddi handed full City debut - Foden and Nunes also start",
+          "url": "https://sports.yahoo.com/articles/bouaddi-handed-full-city-debut-175500499.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "김하영": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T06:12:00+09:00",
+      "lastSeen": "2026-09-09T06:12:00+09:00",
+      "news": [
+        {
+          "title": "'서프라이즈' 22년' 김하영, \"토니안 부인\" 됐다!..장기근속 보람",
+          "url": "https://v.daum.net/v/20260908211759627",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "'서프라이즈 그녀' 김하영, 토니안 부인 되다…\"연기도 잘하고 성격도 최고\"",
+          "url": "https://m.news.nate.com/view/20260908n03722?mid=e01&list=recent&cpcd=",
+          "source": "네이트",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "‘서프라이즈 걔’ 김하영, 이미 유부녀인데…“토니 부인까지 해보다니 영광”",
+          "url": "https://m.newsen.com/news_view.php?uid=202609080901092310",
+          "source": "뉴스엔",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "미래에셋": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T06:12:00+09:00",
+      "lastSeen": "2026-09-09T06:12:00+09:00",
+      "news": [
+        {
+          "title": "‘TIGER 미국S&P500미국채혼합50' ETF 신규 상장",
+          "url": "https://v.daum.net/v/20260908100600244",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "미래에셋 “9월 FOMC, 美 금융시장 신뢰 회복할 기회”",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=310536",
+          "source": "스트레이트뉴스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "한달 수익률 1위인데 상��폐지...자금 쏠림에 소형 ETF 생존 부담",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349527",
+          "source": "녹색경제신문",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "uefa champions league": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T06:12:00+09:00",
+      "lastSeen": "2026-09-09T06:12:00+09:00",
+      "news": [
+        {
+          "title": "Real Madrid vs Inter Milan: UEFA Champions League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cm7903l5470dt",
+          "source": "BBC",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Mourinho returns to Champions League as Real Madrid coach to face Inter - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-sports/2026/09/08/2WD5FS7BC5CPRFFVFE2V4WEB3E/",
+          "source": "Chosunbiz",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "From the 1964 final to the new Bernabéu: the history of Real Madrid vs. Inter",
+          "url": "https://onefootball.com/en/news/from-the-1964-final-to-the-new-bernabeu-the-history-of-real-madrid-vs-inter-43425005",
+          "source": "OneFootball",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "champions league": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T06:12:00+09:00",
+      "lastSeen": "2026-09-09T06:12:00+09:00",
+      "news": [
+        {
+          "title": "Champions League predicted line-ups: Matchday 1 team news, injuries, suspensions",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a9-2188cf675017-df8325ec95c3-1000--champions-league-predicted-line-ups-matchday-1-team-news-/",
+          "source": "UEFA.com",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Champions League returns: Your views and predictions",
+          "url": "https://www.bbc.com/sport/football/live/cj5ydp0p0x00t",
+          "source": "BBC",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Champions League expert picks, predictions, best bets: Liverpool, Arsenal in Matchday 1 action on Wednesday",
+          "url": "https://www.cbssports.com/soccer/news/champions-league-expert-picks-predictions-best-bets-liverpool-arsenal-in-matchday-1-action-on-wednesday/",
+          "source": "CBS Sports",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "이종석": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-09T06:12:00+09:00",
+      "lastSeen": "2026-09-09T06:12:00+09:00",
+      "news": [
+        {
+          "title": "‘아이유와 결별' 이종석 맞아?…배 나오고 턱선 사라진 근황",
+          "url": "https://v.daum.net/v/20260908210949460",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "이종석, 이별 후 밝은 모습…해변서 신난 발걸음",
+          "url": "https://www.newsis.com/view/NISX20260908_0003780503",
+          "source": "뉴시스",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "이종석, 아이유와 결별 후 일상 공개…휴양지서 환한 미소 [N샷]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6282951",
+          "source": "뉴스1",
           "date": "2026-09-08"
         }
       ]
