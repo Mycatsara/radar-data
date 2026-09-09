@@ -1479,10 +1479,10 @@
       ]
     },
     "투자": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T07:12:00+09:00",
-      "lastSeen": "2026-09-10T07:12:00+09:00",
+      "lastSeen": "2026-09-10T07:40:00+09:00",
       "news": [
         {
           "title": "美 제시 사업, 세 달 만에 436억→2093억달러…\"전례 없는 압박\"",
@@ -1500,6 +1500,18 @@
           "title": "\"원전 2기는 한국형으로...웨스팅하우스 지분 인수도 추진\"",
           "url": "https://www.ytn.co.kr/_ln/0102_202609082302134876",
           "source": "YTN",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "부채 210조 한전, 웨스팅하우스 지분 인수 실익 있나",
+          "url": "https://www.hani.co.kr/arti/society/environment/1277090.html",
+          "source": "한겨레",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "원전 대미투자, 두산에너빌 32조 잭팟?",
+          "url": "https://v.daum.net/v/20260910070042405",
+          "source": "Daum",
           "date": "2026-09-09"
         }
       ]
@@ -1708,6 +1720,240 @@
           "title": "“제조 과정 몰래 공개합니다”…‘카투사 탈락’ 윤민수 아들 윤후가 간 곳",
           "url": "https://v.daum.net/v/20260908073601493",
           "source": "Daum",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "ktx 추석 예매": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T07:40:00+09:00",
+      "lastSeen": "2026-09-10T07:40:00+09:00",
+      "news": [
+        {
+          "title": "7일부터 추석 기차표 예매 시작…온라인서만 판매",
+          "url": "https://www.yna.co.kr/view/MYH20260908002400038",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "추석 열차표 놓쳤다면 ‘예약대기 먼저’…미결제 취소표, 15일 후 대기자에 우선 배정",
+          "url": "https://v.daum.net/v/betmxyjJNt?f=p",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "코레일 '2026 추석 승차권 예매'…용산 출·도착 호남·전라선",
+          "url": "https://www.etoday.co.kr/news/view/2623305",
+          "source": "이투데이",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "srt": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T07:40:00+09:00",
+      "lastSeen": "2026-09-10T07:40:00+09:00",
+      "news": [
+        {
+          "title": "Chicago Dealer Selling Brand-New Dodge Challenger SRT Demon 170",
+          "url": "https://www.autoevolution.com/news/chicago-dealer-selling-brand-new-dodge-challenger-srt-demon-170-275201.html",
+          "source": "autoevolution",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Brand-new Dodge Challenger SRT Demon 170 surfaces for sale at Chicago dealer",
+          "url": "https://www.clubalfa.it/en/brand-new-dodge-challenger-srt-demon-170-surfaces-for-sale-at-chicago-dealer-44465",
+          "source": "ClubAlfa.it",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "2023 Dodge Challenger SRT Hellcat Widebody Jailbreak for Sale With 28 Miles",
+          "url": "https://autos.yahoo.com/deals-and-buying-guides/articles/2023-dodge-challenger-srt-hellcat-111200263.html",
+          "source": "Yahoo Autos",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "장례": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T07:40:00+09:00",
+      "lastSeen": "2026-09-10T07:40:00+09:00",
+      "news": [
+        {
+          "title": "\"나 죽거든 '여기'에 묻어줘\"…세계 최초 이색 '친환경 장례' 호주서 치러져",
+          "url": "https://v.daum.net/v/20260909091639516",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "“45일이면 흙으로 돌아가”…버섯으로 만든 ‘친환경 관’ 출시",
+          "url": "https://www.donga.com/news/It/article/all/20260909/134632651/2",
+          "source": "동아일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "“45일이면 흙으로”… 호주서 첫 '버섯 관' 장례 치러졌다",
+          "url": "https://www.etnews.com/20260908000296",
+          "source": "전자신문",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "chelsea đấu với leeds": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T07:40:00+09:00",
+      "lastSeen": "2026-09-10T07:40:00+09:00",
+      "news": [
+        {
+          "title": "Video bóng đá Chelsea - Leeds: Ngược dòng điên rồ, đẳng cấp ngôi sao (League Cup)",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-chelsea-leeds-ruot-duoi-dien-ro-dang-cap-ngoi-sao-league-cup-c48a1793472.html",
+          "source": "Tin tức 24h",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Nhận định bóng đá Chelsea vs Leeds, 02h00 ngày 10/9: Leeds lỳ lợm",
+          "url": "https://bongdaplus.vn/cup-lien-doan-anh/nhan-dinh-bong-da-chelsea-vs-leeds-02h00-ngay-10-9-leeds-ly-lom-5157742609.html",
+          "source": "Tạp chí Bóng đá",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "HLV Xabi Alonso yêu cầu Chelsea sửa sai ở hàng thủ",
+          "url": "https://yeuthethao.net.vn/hlv-xabi-alonso-yeu-cau-chelsea-sua-sai-o-hang-thu-d894252.html",
+          "source": "yeuthethao.net.vn",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "삼성 갤럭시 s26": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T07:40:00+09:00",
+      "lastSeen": "2026-09-10T07:40:00+09:00",
+      "news": [
+        {
+          "title": "\"내년에도 메모리 가격 상승...스마트폰 시장서 삼성·애플 수혜\"",
+          "url": "https://zdnet.co.kr/view/?no=20260908012643",
+          "source": "지디넷코리아",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "메모리값에 스마트폰 '선구매'…삼성전자 2Q 출하량 1위",
+          "url": "https://v.daum.net/v/WQcL3HEovd",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "“순식간에 20만원 올랐다” “그냥 작년에 살 걸”…이런 사람 많더니, 삼성폰 뜻밖의 결과",
+          "url": "https://biz.heraldcorp.com/article/10868087",
+          "source": "헤럴드경제",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "김도영": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T07:40:00+09:00",
+      "lastSeen": "2026-09-10T07:40:00+09:00",
+      "news": [
+        {
+          "title": "KIA 김도영, 번트 타구에 얼굴 맞아 부상…‘40호 홈런’ 하루만에 비상",
+          "url": "https://v.daum.net/v/20260909205437619",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "AG 핵심 김도영, 코뼈 골절 부상…최악은 피했다",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8659615",
+          "source": "KBS 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "KIA 김도영, 번트 시도 중 코뼈 골절…KIA·대표팀 초대형 악재",
+          "url": "https://www.yna.co.kr/view/MYH20260909024800038",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "종합격투기": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T07:40:00+09:00",
+      "lastSeen": "2026-09-10T07:40:00+09:00",
+      "news": [
+        {
+          "title": "일반인 기절시키고 뺨 ‘툭툭’…‘조폭 출신’ 격투기 선수, 소속 단체서 퇴출",
+          "url": "https://news.jtbc.co.kr/article/NB12317322",
+          "source": "JTBC",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "일반인 출연자 마비 증상까지…김중우 생방송 논란에 '정찬성 ZFN' 계약 해지",
+          "url": "https://v.daum.net/v/2oFVDiB3cQ",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘코리안 좀비’ 정찬성, ‘길로틴 초크’로 일반인 기절시킨 김중우 퇴출 - 스타투데이",
+          "url": "https://www.mk.co.kr/news/hot-issues/12147841",
+          "source": "매일경제",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "알테오젠": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T07:40:00+09:00",
+      "lastSeen": "2026-09-10T07:40:00+09:00",
+      "news": [
+        {
+          "title": "[기자수첩] 알테오젠에 붙은 '신뢰 할인'",
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3042536",
+          "source": "청년의사",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "신한증권, 알테오젠 목표가↓…\"노바티스 신약 1개 3상 실패\"",
+          "url": "https://www.yna.co.kr/view/AKR20260909030400008",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "알테오젠, AOC 일부 품목 임상 3상 실패…목표가 52만원 하향-신한",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02732246645578480",
+          "source": "마켓인",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "농업": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T07:40:00+09:00",
+      "lastSeen": "2026-09-10T07:40:00+09:00",
+      "news": [
+        {
+          "title": "괴산친환경농업대학 전문 농업인 70명 배출",
+          "url": "https://www.news1.kr/local/sejong-chungbuk/6285135",
+          "source": "뉴스1",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "괴산 친환경농업대학 전문농입인 70명 졸업",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1098848",
+          "source": "충청매일",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "봉화 농민사관학교 사과 병해충관리과정 수료 전문농업인 31명 배출",
+          "url": "https://www.hidomin.com/news/articleView.html?idxno=719597",
+          "source": "경북도민일보",
           "date": "2026-09-09"
         }
       ]
