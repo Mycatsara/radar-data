@@ -2515,10 +2515,10 @@
       ]
     },
     "먹방": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-09T12:13:00+09:00",
-      "lastSeen": "2026-09-09T12:42:00+09:00",
+      "lastSeen": "2026-09-09T13:13:00+09:00",
       "news": [
         {
           "title": "24세 먹방 유튜버의 비극…사망 사흘전 “칼륨 부족 입원” 고백",
@@ -2547,10 +2547,10 @@
       ]
     },
     "파주 카페": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-09T12:13:00+09:00",
-      "lastSeen": "2026-09-09T12:42:00+09:00",
+      "lastSeen": "2026-09-09T13:13:00+09:00",
       "news": [
         {
           "title": "냉동창고서 시신과 '500억 상품권'이…파주 카페 사장의 거짓말",
@@ -2683,10 +2683,10 @@
       ]
     },
     "chat gtp": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T12:42:00+09:00",
-      "lastSeen": "2026-09-09T12:42:00+09:00",
+      "lastSeen": "2026-09-09T13:13:00+09:00",
       "news": [
         {
           "title": "6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like",
@@ -2730,6 +2730,188 @@
           "title": "“중기부 산하 공영홈쇼핑서 수입 해산물이 국산 둔갑”",
           "url": "https://v.daum.net/v/20260909111949841",
           "source": "Daum",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "hd현대중공업": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T13:13:00+09:00",
+      "lastSeen": "2026-09-09T13:13:00+09:00",
+      "news": [
+        {
+          "title": "HD현대중공업 노조, 3차 제시안 압박···부분파업 '초읽기'",
+          "url": "https://v.daum.net/v/20260909101505633",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "HD현대重 임단협 2차 제시안도 불발… 노조 “여전히 부족”",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065575196475006",
+          "source": "울산종합일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "HD현대중공업 노조, 오늘 4시간 부분파업…임단협 갈등 고��",
+          "url": "https://www.etoday.co.kr/news/view/2623470",
+          "source": "이투데이",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "검사": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T13:13:00+09:00",
+      "lastSeen": "2026-09-09T13:13:00+09:00",
+      "news": [
+        {
+          "title": "‘수원지검 집단퇴정’ 서현욱 검사 “부당한 징계 다투겠다”…징계사유서 공개",
+          "url": "https://v.daum.net/v/20260909102410227",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'쌍방울 대북송금 국민참여재판' 기피신청 서현욱 검사, 법무부 징계에 반발",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782115",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'이화영 기소' 서현욱 검사, '집단퇴정' 징계청구서 공개 … \"기피 신청 의견이 죄인가\"",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/09/09/2026090900104.html",
+          "source": "뉴데일리",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "토스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T13:13:00+09:00",
+      "lastSeen": "2026-09-09T13:13:00+09:00",
+      "news": [
+        {
+          "title": "토스·PFCT, 신용평가 모형 고도화…대안신용평가 활용 확대",
+          "url": "https://www.yna.co.kr/view/AKR20260909035800017",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "토스, PFCT와 신용평가 모델 고도화 '맞손'…포용금융 실천",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782248",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "토스·PFCT, AI 신용평가 ‘맞손’…대출 심사 공식 바꾸는 테크 동맹",
+          "url": "https://www.dt.co.kr/article/12082900",
+          "source": "www.dt.co.kr",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "방탄소년단": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T13:13:00+09:00",
+      "lastSeen": "2026-09-09T13:13:00+09:00",
+      "news": [
+        {
+          "title": "BTS 지민 \"할아버지 낚시 조끼 같은 옷\"입고도 찬란히 빛났다, LA타임스 극찬한 스타일링[K-EYES]",
+          "url": "https://v.daum.net/v/7LTrlFOcWi",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "BTS 지민, 낚시조끼 패션도 소화했다…LA타임즈가 짚은 지민의 무대 스타일 : 네이버 블로그",
+          "url": "https://blog.naver.com/PostView.naver?blogId=yooju0913&logNo=224405671570&redirect=Dlog",
+          "source": "Naver Blog",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "BTS 지민, 할아버지 낚시조끼 같다고? 패션의 완성은 얼굴",
+          "url": "https://m.news.nate.com/view/20260909n05666?mid=e02&list=recent&cpcd=",
+          "source": "Nate News",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "사업": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T13:13:00+09:00",
+      "lastSeen": "2026-09-09T13:13:00+09:00",
+      "news": [
+        {
+          "title": "한화오션, 태국 호위함 우선협상자…총사업규모 최대 4조원 관측",
+          "url": "https://www.yna.co.kr/view/AKR20260909026800003",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "K-조선, 동남아 함정시장 '현지 건조'로 뚫었다",
+          "url": "https://news.mtn.co.kr/news-detail/2026090910524369125",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "선박엔진주, 태국 해군 건조 대규모 사업 호재에 강세…한화엔진 11%대↑",
+          "url": "https://stock.mk.co.kr/news/view/1155879",
+          "source": "매일경제 마켓",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "아이폰 18 프로": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T13:13:00+09:00",
+      "lastSeen": "2026-09-09T13:13:00+09:00",
+      "news": [
+        {
+          "title": "애플도 마침내 '접는다'…내일 새벽 첫 폴더블 아이폰 등판",
+          "url": "https://www.newsis.com/view/NISX20260908_0003781359",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "접는 아이폰 공개 이틀 전… 中, 신형 폰으로 선공",
+          "url": "https://www.chosun.com/economy/tech_it/2026/09/09/4SDGCOW4LFA4PGSFGSGLSDDPRM/",
+          "source": "조선일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"폴더블 아이폰, 팀 쿡이 밀어붙였다\"…개발 비화 공개",
+          "url": "https://zdnet.co.kr/view/?no=20260909082017",
+          "source": "지디넷코리아",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "챗": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T13:13:00+09:00",
+      "lastSeen": "2026-09-09T13:13:00+09:00",
+      "news": [
+        {
+          "title": "1년 된 오픈AI 코리아...데이터 주권 위해 ‘국내 추론 전용 데이터센터’ 추진",
+          "url": "https://v.daum.net/v/20260909121037721",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "오픈AI, 한국 지사 출범 1주년…기업용 챗GPT 이용자 수 28배↑ - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/09/09/2026090910360487726",
+          "source": "머니투데이",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[한국, 그리고 오픈AI①] 진출 1년 만에 기업 도입 28배 늘어났다",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=750283",
+          "source": "ER 이코노믹리뷰",
           "date": "2026-09-09"
         }
       ]
