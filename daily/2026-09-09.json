@@ -2735,10 +2735,10 @@
       ]
     },
     "hd현대중공업": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-09T13:13:00+09:00",
-      "lastSeen": "2026-09-09T13:13:00+09:00",
+      "lastSeen": "2026-09-09T13:42:00+09:00",
       "news": [
         {
           "title": "HD현대중공업 노조, 3차 제시안 압박···부분파업 '초읽기'",
@@ -2787,10 +2787,10 @@
       ]
     },
     "토스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T13:13:00+09:00",
-      "lastSeen": "2026-09-09T13:13:00+09:00",
+      "lastSeen": "2026-09-09T13:42:00+09:00",
       "news": [
         {
           "title": "토스·PFCT, 신용평가 모형 고도화…대안신용평가 활용 확대",
@@ -2809,14 +2809,20 @@
           "url": "https://www.dt.co.kr/article/12082900",
           "source": "www.dt.co.kr",
           "date": "2026-09-09"
+        },
+        {
+          "title": "토스, PFCT와 업무협약…신용평가 모델 고도화",
+          "url": "https://www.asiae.co.kr/article/2026090909131060572",
+          "source": "아시아경제",
+          "date": "2026-09-09"
         }
       ]
     },
     "방탄소년단": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-09T13:13:00+09:00",
-      "lastSeen": "2026-09-09T13:13:00+09:00",
+      "lastSeen": "2026-09-09T13:42:00+09:00",
       "news": [
         {
           "title": "BTS 지민 \"할아버지 낚시 조끼 같은 옷\"입고도 찬란히 빛났다, LA타임스 극찬한 스타일링[K-EYES]",
@@ -2835,14 +2841,26 @@
           "url": "https://m.news.nate.com/view/20260909n05666?mid=e02&list=recent&cpcd=",
           "source": "Nate News",
           "date": "2026-09-09"
+        },
+        {
+          "title": "BTS 정국 '상탈' 영상, 저스틴 비버도 퍼갔다…2억8000만 팔로워에 노출",
+          "url": "https://v.daum.net/v/20260909040127958",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "정국 상의 탈의 영상, 저스틴 비버도 퍼갔다…2.8억 팔로워 계정에 ‘깜짝’",
+          "url": "https://www.mk.co.kr/news/culture/12147960",
+          "source": "매일경제",
+          "date": "2026-09-09"
         }
       ]
     },
     "사업": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-09T13:13:00+09:00",
-      "lastSeen": "2026-09-09T13:13:00+09:00",
+      "lastSeen": "2026-09-09T13:42:00+09:00",
       "news": [
         {
           "title": "한화오션, 태국 호위함 우선협상자…총사업규모 최대 4조원 관측",
@@ -2860,6 +2878,18 @@
           "title": "선박엔진주, 태국 해군 건조 대규모 사업 호재에 강세…한화엔진 11%대↑",
           "url": "https://stock.mk.co.kr/news/view/1155879",
           "source": "매일경제 마켓",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "신동아건설, 부산 범천1구역 가로주택정비사업 시공사 선정",
+          "url": "https://www.yna.co.kr/view/AKR20260909055300003",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "신동아건설, '2500억' 부산 범천동 가로주택정비 수주",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782144",
+          "source": "뉴시스",
           "date": "2026-09-09"
         }
       ]
@@ -2891,10 +2921,10 @@
       ]
     },
     "챗": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T13:13:00+09:00",
-      "lastSeen": "2026-09-09T13:13:00+09:00",
+      "lastSeen": "2026-09-09T13:42:00+09:00",
       "news": [
         {
           "title": "1년 된 오픈AI 코리아...데이터 주권 위해 ‘국내 추론 전용 데이터센터’ 추진",
@@ -2912,6 +2942,148 @@
           "title": "[한국, 그리고 오픈AI①] 진출 1년 만에 기업 도입 28배 늘어났다",
           "url": "https://www.econovill.com/news/articleView.html?idxno=750283",
           "source": "ER 이코노믹리뷰",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "OpenAI, ChatGPT 이미지 2.5 출시... 생성 속도 향상",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2087158",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "오픈AI, AI 편집 정확도·품질 높인 '챗GPT 이미지 2.5' 공개",
+          "url": "https://www.etnews.com/20260909000024",
+          "source": "전자신문",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "카를로스 알카라스": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T13:42:00+09:00",
+      "lastSeen": "2026-09-09T13:42:00+09:00",
+      "news": [
+        {
+          "title": "알카라스-즈베레프, 사바렌카-리바키나…US오픈 ‘꿈의 결승’ 보인다",
+          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19416",
+          "source": "테니스피플",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘억만장자의 딸들’ 대결…페굴라와 나바로, US오픈 4강 놓고 격돌",
+          "url": "https://sports.khan.co.kr/article/202609090957003",
+          "source": "스포츠경향",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "“제발 XXX좀 가려��”…파격 노출 ‘테니스 스타’ 조롱한 여자 동료, 왜?",
+          "url": "https://v.daum.net/v/pQpzb1mjSd",
+          "source": "Daum",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "진중권": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T13:42:00+09:00",
+      "lastSeen": "2026-09-09T13:42:00+09:00",
+      "news": [
+        {
+          "title": "진중권 “국힘 의원 100명 넘는데 한동훈만 못해”",
+          "url": "https://www.munhwa.com/article/11615644",
+          "source": "문화일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "권영세 \"'한동훈 잘 싸운다'…靑, 임명강행시 김어준 말대로 지지율 20%대\"",
+          "url": "https://v.daum.net/v/20260909104857684",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "한동훈 연일 의혹 공세에 민주당 '총력 대응' [시사정���]",
+          "url": "https://www.ytn.co.kr/_ln/0101_202609091232513935",
+          "source": "YTN",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "아이폰 폴드": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T13:42:00+09:00",
+      "lastSeen": "2026-09-09T13:42:00+09:00",
+      "news": [
+        {
+          "title": "애플도 마침내 '접는다'…내일 새벽 첫 폴더블 아이폰 등판",
+          "url": "https://www.newsis.com/view/NISX20260908_0003781359",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "접는 아이폰 공개 이틀 전… 中, 신형 폰으로 선공",
+          "url": "https://www.chosun.com/economy/tech_it/2026/09/09/4SDGCOW4LFA4PGSFGSGLSDDPRM/",
+          "source": "조선일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "화웨이 '로직폴딩' 기술에 중국 AI 반도체 미래 걸었다, 미국의 규제 극복의 핵심 과제",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446668",
+          "source": "비즈니스포스트",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "iphone 18": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T13:42:00+09:00",
+      "lastSeen": "2026-09-09T13:42:00+09:00",
+      "news": [
+        {
+          "title": "2台のiPhoneで同じ電話番号を使えるように iOS 27の新機能が便利そう（アスキー）",
+          "url": "https://news.yahoo.co.jp/articles/1fadcf88a73fedc33023d05c1639dbae665de2e7",
+          "source": "Yahoo!ニュース",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "iOS 27のカメラが本格派に進化か、マニュアルフォーカスや可変絞りに対応へ",
+          "url": "https://sumahodigest.com/?p=69910",
+          "source": "スマホダイジェスト",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "iOS27のカメラの新機能！UIや操作性の刷新やSiriモード、RAW9対応など - iPhone Mania",
+          "url": "https://iphone-mania.jp/ios-605350/",
+          "source": "iPhone Mania",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "고은아": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T13:42:00+09:00",
+      "lastSeen": "2026-09-09T13:42:00+09:00",
+      "news": [
+        {
+          "title": "\"여배우 포기했나\"...뱃살 적나라하게 깐 고은아, 2주 만에 벌어진 일 [헬스톡]",
+          "url": "https://v.daum.net/v/20260909064529355",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘60kg’ 고은아, 풍선 뱃살 공개…여배우 이미지 괜찮나?",
+          "url": "https://sports.khan.co.kr/article/202609022328003",
+          "source": "스포츠경향",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "고은아, 이미지 관리가 뭐예요?…60.9kg→57.6kg ���얼 다이어트",
+          "url": "https://sports.donga.com/ent/article/all/20260903/134597250/1",
+          "source": "스포츠동아",
           "date": "2026-09-09"
         }
       ]
