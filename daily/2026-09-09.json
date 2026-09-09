@@ -4313,6 +4313,266 @@
           "date": "2026-09-09"
         }
       ]
+    },
+    "복권": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T19:14:00+09:00",
+      "lastSeen": "2026-09-09T19:14:00+09:00",
+      "news": [
+        {
+          "title": "’로또 1등 인증’ 대기업 직원…당첨금 12억 찍힌 통장 공개",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260909143928pBY",
+          "source": "연합뉴스TV",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"로또 1등 당첨인데, 출근은 계속\"…'12억' 받은 직장인의 선택",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03752326645578480&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "로또 1등 직장인 “빚 갚고 차 바꾸니 얼마 안남아…바로 출근했다”",
+          "url": "https://www.donga.com/news/Society/article/all/20260909/134633056/2",
+          "source": "동아일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "제복": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T19:14:00+09:00",
+      "lastSeen": "2026-09-09T19:14:00+09:00",
+      "news": [
+        {
+          "title": "10년 만에 경찰제복 바뀐다…헌 제복은 가방·의류로 재활용",
+          "url": "https://v.daum.net/v/20260909140215892",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "폐경찰제복 소각 대신 ‘순환이용’…기후부·경찰청 등 7개 기관·기업 맞손",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372228",
+          "source": "전기신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "2년간 나올 경찰 폐제복 13만 명분…소각 대신 재활용",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8658878",
+          "source": "KBS 뉴스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "이희진": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T19:14:00+09:00",
+      "lastSeen": "2026-09-09T19:14:00+09:00",
+      "news": [
+        {
+          "title": "베이비복스 이희진, 제주서 봉변당했다..얼굴 뒤덮은 머리카락 \"바람아 멈추어다오\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-09/202609090100062610004033",
+          "source": "스포츠조선",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "이희진, 제주서 뜻밖의 굴욕 \"바람에 제발 멈춰\"",
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=89236",
+          "source": "미디어파인",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "베이비복스 이희진, 제주도 갔다가 봉변…네티즌 귀여워서 '깜짝'",
+          "url": "https://news.nate.com/view/20260909n03682",
+          "source": "Nate News",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "아침마당": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T19:14:00+09:00",
+      "lastSeen": "2026-09-09T19:14:00+09:00",
+      "news": [
+        {
+          "title": "\"엄마인 줄 알았는데 할머니\" 10세 한수정, 자신 키운 조모에 눈물 (아침마당)",
+          "url": "https://v.daum.net/v/20260909090356918",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"엄마인 줄 알았는데 할머니\"…트로트 신동 한수정, 조모 향한 애틋한 마음 ('아침마당')",
+          "url": "https://m.news.nate.com/view/20260909n25360?mid=e02&list=recent&cpcd=",
+          "source": "Nate News",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'아침마당' 한수정, 본선 5조 우승 \"우리 엄마, 알고보니 할머니\" 눈물 [종합]",
+          "url": "https://www.joynews24.com/view/2003528",
+          "source": "조이뉴스24",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "공군사관학교": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T19:14:00+09:00",
+      "lastSeen": "2026-09-09T19:14:00+09:00",
+      "news": [
+        {
+          "title": "청주시의회 \"성무비행장, 공군사관학교와 함께 이전하라\"",
+          "url": "https://www.yna.co.kr/view/AKR20260909098100064",
+          "source": "���합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "청주시의회, 성무비행장 동반 이전 촉구 건의안 채택",
+          "url": "https://www.nocutnews.co.kr/news/6575807",
+          "source": "노컷뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "거세지는 국군사관학교 반대…대전 유치전은 '무풍지대'",
+          "url": "https://v.daum.net/v/20260908193949285",
+          "source": "Daum",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "sony": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T19:14:00+09:00",
+      "lastSeen": "2026-09-09T19:14:00+09:00",
+      "news": [
+        {
+          "title": "Sony isn’t phasing out discs quite as quickly as we thought",
+          "url": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
+          "source": "The Verge",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Sony's PlayStation disc plant is losing 10 percent of its volume in 2028, not 90",
+          "url": "https://game.substack.com/p/sonys-playstation-disc-plant-is-losing",
+          "source": "Substack",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Sony's phaseout of PlayStation discs sparks outcry over ownership rights",
+          "url": "https://asia.nikkei.com/business/media-entertainment/sony-s-phaseout-of-playstation-discs-sparks-outcry-over-ownership-rights",
+          "source": "Nikkei Asia",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "김신영": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-09T19:14:00+09:00",
+      "lastSeen": "2026-09-09T19:14:00+09:00",
+      "news": [
+        {
+          "title": "\"김신영이 사라졌다\"…'조작방송 논란' 나혼산 근황",
+          "url": "https://v.daum.net/v/20260909145050412",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘나혼산’ 전현무 즉흥여행 논란이 낳은 궁금증···일반인도 공항서 즉석 해외여행, 가능할까?",
+          "url": "https://www.khan.co.kr/article/202609071010001",
+          "source": "경향신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "’나 혼자 산다’ 패러디?…200만뷰 터진 ’충주맨’ 김선태 즉흥 여행",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260908133344Ywu",
+          "source": "연합뉴스TV",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "배틀그라운드": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T19:14:00+09:00",
+      "lastSeen": "2026-09-09T19:14:00+09:00",
+      "news": [
+        {
+          "title": "크래프톤 '배틀그라운드 모바일', 신규 테마 모드 '블러드헌트' 추가",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1404385",
+          "source": "데일리한국",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "배그 모바일, 뱀파이어 테마 모드 '블러드헌트' 추가",
+          "url": "https://news.nate.com/view/20260909n27032",
+          "source": "Nate News",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "PUBG Mobile 4.6 업데이트: 뱀파이어 모드 및 시즌 32 출시",
+          "url": "https://games.gg/ko/news/pubg-mobile-46-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EB%B1%80%ED%8C%8C%EC%9D%B4%EC%96%B4-%EB%AA%A8%EB%93%9C-%EB%B0%8F-%EC%8B%9C%EC%A6%8C-32-%EC%B6%9C%EC%8B%9C/",
+          "source": "games.gg",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "nc 대 kia": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-09T19:14:00+09:00",
+      "lastSeen": "2026-09-09T19:14:00+09:00",
+      "news": [
+        {
+          "title": "“대한민국 홈런왕이 빠지니까…” 40홈런 타자 김도영 없는 타선, 꽃감독도 머리 아프다 “어떻게 메울지 고민” [오!쎈 대구]",
+          "url": "https://v.daum.net/v/20260909094038754",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "NC전 6연패 탈출 나선 KIA, 왜 포수 주효상 카드 던졌나...김도영 타이거즈 새 역사 41홈런 도전 [오!쎈 광주]",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/09/GQYGIYZSGJSTOYJUGUYWKMZUMI/",
+          "source": "조선일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"이호연 1번 배치하려 했는데 몸살 기운이...\" 꽃감독이 DH 박상준 테이블 세터 배치한 이유 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/08/2026090814425627360",
+          "source": "머니투데이",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "ssg 대 두산": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T19:14:00+09:00",
+      "lastSeen": "2026-09-09T19:14:00+09:00",
+      "news": [
+        {
+          "title": "[포토] 곽빈도 집중 '두산-SSG전 시구나선' 배우 남태우 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/09/2026090918470614910",
+          "source": "머니투데이",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[사진]남태우,'잠실야구장에서 시구'",
+          "url": "https://www.osen.co.kr/article/G1112872691",
+          "source": "OSEN",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"하사 최일구 시구 명받았습니다\" 드라마 `신병` 출연 배우 남태우 9일 두산-SSG전 시구자 초청",
+          "url": "https://mydaily.co.kr/page/view/2026090716394365941",
+          "source": "마이데일리",
+          "date": "2026-09-09"
+        }
+      ]
     }
   },
   "sections": {
