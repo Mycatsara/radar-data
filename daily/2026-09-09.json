@@ -1859,10 +1859,10 @@
       "news": []
     },
     "홍윤화": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T09:22:00+09:00",
-      "lastSeen": "2026-09-09T09:22:00+09:00",
+      "lastSeen": "2026-09-09T09:47:00+09:00",
       "news": [
         {
           "title": "동상이몽2_너는 내 운명 : 오경주, 홍윤화의 독보적인 ‘먹부림 스킬’ 전수받아 치즈와 물아일체 퍼포먼스",
@@ -1885,10 +1885,10 @@
       ]
     },
     "리버풀 fc": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T09:22:00+09:00",
-      "lastSeen": "2026-09-09T09:22:00+09:00",
+      "lastSeen": "2026-09-09T09:47:00+09:00",
       "news": [
         {
           "title": "챔피언스 리그 경기 결과 예측: 리버풀, 아틀레티코 마드리드에 무력화될 것",
@@ -1907,14 +1907,20 @@
           "url": "https://ko.martincid.com/sports-ko/%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4%EB%A6%AC%EA%B7%B8-2026-27-1%EB%9D%BC%EC%9A%B4%EB%93%9C-%EC%A0%84%EC%88%A0%EC%A0%81-%ED%9D%A5%EB%AF%B8%EB%A1%9C-%EC%88%9C%EC%9C%84/",
           "source": "Martin Cid Magazine",
           "date": "2026-09-08"
+        },
+        {
+          "title": "챔스 의무 기자회견 '노쇼'한 아스널, 그런데 벌금은 없다…UEFA가 인정한 '불가항력'",
+          "url": "https://m.news.nate.com/view/20260909n08485?mid=s22&list=recent&cpcd=",
+          "source": "Nate News",
+          "date": "2026-09-08"
         }
       ]
     },
     "삼성sds": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T09:22:00+09:00",
-      "lastSeen": "2026-09-09T09:22:00+09:00",
+      "lastSeen": "2026-09-09T09:47:00+09:00",
       "news": [
         {
           "title": "삼성SDS “로봇통합운영 플랫폼 내년 출시”",
@@ -1937,10 +1943,10 @@
       ]
     },
     "이종상": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-09T09:22:00+09:00",
-      "lastSeen": "2026-09-09T09:22:00+09:00",
+      "lastSeen": "2026-09-09T09:47:00+09:00",
       "news": [
         {
           "title": "5만원권 신사임당·5천원권 율곡 이이 그린 이종상 화백 별세",
@@ -1959,14 +1965,26 @@
           "url": "https://www.chosun.com/national/people/2026/09/08/QL476UNP25CIDK24BALCV5WBHA/",
           "source": "조선일보",
           "date": "2026-09-08"
+        },
+        {
+          "title": "5만원 신사임당·5천원 율곡 그린 한국화 거장 이종상 화백 별세",
+          "url": "https://www.hani.co.kr/arti/culture/culture_general/1276899.html",
+          "source": "한겨레",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "지폐 속 '율곡 이이·신사임당' 그린 이종상 화백 별세…향년 88세",
+          "url": "https://v.daum.net/v/20260909090550980",
+          "source": "Daum",
+          "date": "2026-09-08"
         }
       ]
     },
     "폭발": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-09T09:22:00+09:00",
-      "lastSeen": "2026-09-09T09:22:00+09:00",
+      "lastSeen": "2026-09-09T09:47:00+09:00",
       "news": [
         {
           "title": "\"기름 다 뺐는데‥\"‥갑자기 폭발 1명 사망",
@@ -1989,10 +2007,10 @@
       ]
     },
     "의왕역": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T09:22:00+09:00",
-      "lastSeen": "2026-09-09T09:22:00+09:00",
+      "lastSeen": "2026-09-09T09:47:00+09:00",
       "news": [
         {
           "title": "[단독] 의왕역 사망 근로자, 열차 꽁무니에 매달렸다가 결국…",
@@ -2011,14 +2029,26 @@
           "url": "https://v.daum.net/v/20260909060303771",
           "source": "Daum",
           "date": "2026-09-08"
+        },
+        {
+          "title": "[단독] 의왕역 사망 근로자, 열차 꽁무니에 매달렸다가 결국…",
+          "url": "https://v.daum.net/v/20260909073353259",
+          "source": "Daum",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "반복되는 철도 차량정리 사고…국토부, 작업 방식부터 바꾼다",
+          "url": "https://news.tf.co.kr/read/economy/2363370.htm",
+          "source": "더팩트",
+          "date": "2026-09-08"
         }
       ]
     },
     "황희찬": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T09:22:00+09:00",
-      "lastSeen": "2026-09-09T09:22:00+09:00",
+      "lastSeen": "2026-09-09T09:47:00+09:00",
       "news": [
         {
           "title": "말도 안 돼! 김민재 '주전 입지' 다시 흔들리나...'경쟁자' 샬케전 최우수 선수 선정, \"KIM과의 센터백 경쟁 우위 점할 것\"",
@@ -2114,6 +2144,84 @@
           "title": "정준호♥이하정 7살 딸, 한정판 명품백 자랑…\"한 달 월급인데 현타오네\"",
           "url": "https://mydaily.co.kr/page/view/2026090313332291981",
           "source": "마이데일리",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "이재명 정부": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T09:47:00+09:00",
+      "lastSeen": "2026-09-09T09:47:00+09:00",
+      "news": [
+        {
+          "title": "이재명 정부의 위기, 지지율보다 더 심각한 것 [신진욱의 시선]",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1276913.html",
+          "source": "한겨레",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[강준만의 화이부동]이재명, ‘부정적 당파성’ 약발이 떨어졌다",
+          "url": "https://www.khan.co.kr/article/202609081959005",
+          "source": "경향신문",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "[이태규 칼럼] 흔들리는 국정, 좁아지는 외교",
+          "url": "https://www.hankookilbo.com/news/article/A2026090713580000228",
+          "source": "한국일보",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "땅집고": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T09:47:00+09:00",
+      "lastSeen": "2026-09-09T09:47:00+09:00",
+      "news": [
+        {
+          "title": "원주민 이익 빼앗는 지분 쪼개기, \"조합원 추가분담금 폭탄으로\"",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/09/02/2026090200545.html",
+          "source": "땅집고",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "내 땅 뺏어가는 공공기여?…용적률 챙겨 분담금 폭탄 막는다",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/09/09/2026090900596.html",
+          "source": "땅집고",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "\"반포 새 아파트 분양권 달라!\" 50년 구축 아파트서 무슨일?",
+          "url": "https://v.daum.net/v/ppeX3kPKLR",
+          "source": "Daum",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "dwcs": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T09:47:00+09:00",
+      "lastSeen": "2026-09-09T09:47:00+09:00",
+      "news": [
+        {
+          "title": "Christian Natividad Scores First-Round TKO | Dana White's Contender Series, Season 10",
+          "url": "https://www.ufc.com/video/159927",
+          "source": "UFC.com",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "DWCS video: Christian Natividad smokes Colton Loud in 70 seconds",
+          "url": "https://www.centraloregondaily.com/sports/dwcs-video-christian-natividad-smokes-colton-loud-in-70-seconds/article_438686b2-8bab-5051-ac0b-5623d3e7a93d.html",
+          "source": "Central Oregon Daily",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Prediction, pick for Colton Loud vs. Christian Natividad at DWCS Season 10, Week 5",
+          "url": "https://dknetwork.draftkings.com/2026/09/08/prediction-pick-for-colton-loud-vs-christian-natividad-at-dwcs-season-10-week-5/",
+          "source": "DraftKings Network",
           "date": "2026-09-08"
         }
       ]
