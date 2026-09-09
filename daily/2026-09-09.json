@@ -5008,10 +5008,10 @@
       ]
     },
     "전희철": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-09T21:17:00+09:00",
-      "lastSeen": "2026-09-09T21:17:00+09:00",
+      "lastSeen": "2026-09-09T21:47:00+09:00",
       "news": [
         {
           "title": "전수완, 미코 탈락 후 5성급 호텔서 생일 즐겨",
@@ -5034,10 +5034,10 @@
       ]
     },
     "김지원": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-09T21:17:00+09:00",
-      "lastSeen": "2026-09-09T21:17:00+09:00",
+      "lastSeen": "2026-09-09T21:47:00+09:00",
       "news": [
         {
           "title": "\"다른 사람 같다\"…김지원, 묘하게 달라진 분위기 '깜짝 근황'",
@@ -5060,10 +5060,10 @@
       ]
     },
     "테트라포드": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-09T21:17:00+09:00",
-      "lastSeen": "2026-09-09T21:17:00+09:00",
+      "lastSeen": "2026-09-09T21:47:00+09:00",
       "news": [
         {
           "title": "“살려주세요” 외침에 달려간 울산 공무원 3명···함께 여행갔다가 테트라포드 빠진 여성 구조",
@@ -5086,10 +5086,10 @@
       ]
     },
     "sh공사": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-09T21:17:00+09:00",
-      "lastSeen": "2026-09-09T21:17:00+09:00",
+      "lastSeen": "2026-09-09T21:47:00+09:00",
       "news": [
         {
           "title": "SH, 재개발임대주택 3821가구 모집 재공고…전용 39㎡ 이하 소형 - 머니투데이",
@@ -5112,10 +5112,10 @@
       ]
     },
     "상인푸르지오센터파크": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-09T21:17:00+09:00",
-      "lastSeen": "2026-09-09T21:17:00+09:00",
+      "lastSeen": "2026-09-09T21:47:00+09:00",
       "news": [
         {
           "title": "텅 빈 ‘유령 아파트’였는데…텐트치고 ‘밤샘 오픈런’, 무슨 일",
@@ -5159,6 +5159,136 @@
           "title": "[8일 프리뷰] ‘롯데 킬러’ 토다, 롯데전 4승 도전",
           "url": "https://www.osen.co.kr/article/G1112871775",
           "source": "OSEN",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "김민석": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T21:47:00+09:00",
+      "lastSeen": "2026-09-09T21:47:00+09:00",
+      "news": [
+        {
+          "title": "김민석 수첩에 ‘서울시장 후보 정청래’ 메모···정청래 “이번엔 수첩으로 때리나” 발끈",
+          "url": "https://www.khan.co.kr/article/202609092005001",
+          "source": "경향신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "김민석 수첩에 '서울시장 후보 정청래'…鄭 \"민석·영길도 적어라\"(종합2보)",
+          "url": "https://v.daum.net/v/20260909212051147",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "김민석, 본회의장��� 수첩 포착…서울시장 후보 ’청래’ ’훈식’ ’원식’?",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260909164137AKW",
+          "source": "연합뉴스TV",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "민주노동조합총연맹": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T21:47:00+09:00",
+      "lastSeen": "2026-09-09T21:47:00+09:00",
+      "news": [
+        {
+          "title": "[단독] “내 세금으로 민주노총 사무실 보증금을 왜”…100억대 예산 삭감했다",
+          "url": "https://v.daum.net/v/20260909152706391",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[단독] “내 세금으로 민주노총 사무실 보증금을 왜”…100억대 예산 삭감했다",
+          "url": "https://www.mk.co.kr/news/economy/12148294",
+          "source": "매일경제",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "민노총 \"고용평등공시제 1년 넘게 제자리…연내 도입해야\"",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782468",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "고영표": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T21:47:00+09:00",
+      "lastSeen": "2026-09-09T21:47:00+09:00",
+      "news": [
+        {
+          "title": "실점 위기 넘긴 원태인",
+          "url": "https://www.newsis.com/view/NISI20260909_0021430888",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[사진] 고영표, 승리의 피칭",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/09/09/GJQWIMDFHE2DCN3CMJQTCYJXGA/",
+          "source": "조선일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘불과 0.5G 차’ 고영표, 원태인과 에이스 맞대결서 판정승…KT, 선두 삼성 턱밑까��� 따라붙었다 [오!쎈 대구]",
+          "url": "https://www.osen.co.kr/article/G1112872870",
+          "source": "OSEN",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "오 스탈": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T21:47:00+09:00",
+      "lastSeen": "2026-09-09T21:47:00+09:00",
+      "news": [
+        {
+          "title": "미투자회사, 오스탈USA 인수의향서 제출…한화와 경쟁",
+          "url": "https://www.yna.co.kr/view/AKR20260909094700009",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "오스탈 주식, 오늘 급등하는 이유?",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2087653",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "한화에 도전장 내민 미 투자사...오스탈USA 인수전 격화",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609091352231888",
+          "source": "YTN",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "김도영 부상": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T21:47:00+09:00",
+      "lastSeen": "2026-09-09T21:47:00+09:00",
+      "news": [
+        {
+          "title": "김도영, 번트 대다 얼굴에 타구 맞아 교체…병원 정밀 검진 예정",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8659248",
+          "source": "KBS 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "KIA 김도영, 번트 타구에 안면 강타‥'아시안게임 앞두고 비상'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850752_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'단순 타박인데 스기모토 2주 휴식' 최악 피한 KT도 웃을 수 없다... 박영현까지 빠지는데 1.5G 차 선두 추격 어쩌나",
+          "url": "https://v.daum.net/v/Y0vEQo9Uyq",
+          "source": "Daum",
           "date": "2026-09-09"
         }
       ]
