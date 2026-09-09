@@ -631,10 +631,10 @@
       ]
     },
     "iphone": {
-      "count": 3,
-      "maxTraffic": 100,
+      "count": 4,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T04:11:00+09:00",
+      "lastSeen": "2026-09-10T04:39:00+09:00",
       "news": [
         {
           "title": "アップル初の折り畳み式iPhone、開発に約10年－価格は2000ドル超か",
@@ -669,10 +669,10 @@
       ]
     },
     "애플": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T04:11:00+09:00",
+      "lastSeen": "2026-09-10T04:39:00+09:00",
       "news": [
         {
           "title": "\"아이폰18 사라진다…아이폰 에어2로 보급형 대체\"",
@@ -707,10 +707,10 @@
       ]
     },
     "보통주": {
-      "count": 3,
-      "maxTraffic": 100,
+      "count": 4,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T04:11:00+09:00",
+      "lastSeen": "2026-09-10T04:39:00+09:00",
       "news": [
         {
           "title": "유안타증권, 최대주주 Yuanta Securities Asia Financial Services 등 주식 1만500주 증가…최대주주 장내매수",
@@ -733,10 +733,10 @@
       ]
     },
     "파주 냉동창고": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T04:11:00+09:00",
+      "lastSeen": "2026-09-10T04:39:00+09:00",
       "news": [
         {
           "title": "[단독] 냉동창고에 가둔 직후 AI에 \"창고에 사람 있으면 어떻게 되나?\"",
@@ -797,10 +797,10 @@
       ]
     },
     "리버풀 대 아틀레티코": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-10T04:11:00+09:00",
-      "lastSeen": "2026-09-10T04:11:00+09:00",
+      "lastSeen": "2026-09-10T04:39:00+09:00",
       "news": [
         {
           "title": "\"이강인, 액션!\" 아틀레티코 유니폼 입고 'UCL 데뷔전' 개봉박두...스페인도 집중 조명 \"그리즈만 후계자로 스포트라이트\" - 머니투데이",
@@ -819,14 +819,20 @@
           "url": "https://www.newsis.com/view/NISX20260908_0003780331",
           "source": "뉴시스",
           "date": "2026-09-09"
+        },
+        {
+          "title": "[속보] 이강인·알바레스 '파격 투톱'...'연막작전' 뚫고 안필드 선발 출격",
+          "url": "https://news.tf.co.kr/read/soccer/2364107.htm",
+          "source": "더팩트",
+          "date": "2026-09-09"
         }
       ]
     },
     "폴드8": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-10T04:11:00+09:00",
-      "lastSeen": "2026-09-10T04:11:00+09:00",
+      "lastSeen": "2026-09-10T04:39:00+09:00",
       "news": [
         {
           "title": "갤럭시 Z8, 전작보다 8% 더 팔렸다…폴드8이 흥행 주도",
@@ -844,6 +850,116 @@
           "title": "Z 폴드8 경량화 위한 치밀한 설계… 부품 270개·부자재 180종 다시 뜯어봤다 - 조선비즈",
           "url": "https://biz.chosun.com/it-science/ict/2026/09/09/HZO4P47IQNEDTC753TFKWIYYBA/",
           "source": "Chosunbiz",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "253g→201g…삼성 폴더블, 270개 부품 ‘0.001g’까지 덜어냈다",
+          "url": "https://www.donga.com/news/It/article/all/20260909/134634024/1",
+          "source": "동아일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "psg 대 슬로반 브라티슬라바": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T04:39:00+09:00",
+      "lastSeen": "2026-09-10T04:39:00+09:00",
+      "news": [
+        {
+          "title": "파리 생제르맹 vs 슬로반 브라티슬라바 프리뷰: 치열한 우승 경쟁의 한복판",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-paris-saint-germain-vs-slovan-bratislava-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "챔피언스 리그 PSG 대 슬로반 브라티슬라바 경기 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-psg-vs-slovan-bratislava-tai-champions-league-1763673.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "PSG 대 슬로반 브라티슬라바, 9월 10일 새벽 2시: 생중계 링크, 분석 및 예측.",
+          "url": "https://www.vietnam.vn/ko/psg-vs-slovan-bratislava-2h-ngay-10-9-link-xem-truc-tiep-nhan-dinh-du-doan",
+          "source": "Vietnam.vn",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "나폴리 대 아스널": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T04:39:00+09:00",
+      "lastSeen": "2026-09-10T04:39:00+09:00",
+      "news": [
+        {
+          "title": "\"UCL서 맨유와 레알, 사실상 동급\" 슈퍼컴퓨터, 맨유 우승 확률에 \"레알과 차이는 불과 0.6%P\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/08/202609081913778855O",
+          "source": "머니투데이",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "아스널, UCL 나폴리 원정길 앞두고 항공편 지연으로 차질…공식 기자회견까지 취소",
+          "url": "https://sports.khan.co.kr/article/202609090747003",
+          "source": "스포츠경향",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "챔스 의무 기자회견 '노쇼'한 아스널, 그런데 벌금은 없다…UEFA가 인정한 '불가항력'",
+          "url": "https://m.news.nate.com/view/20260909n08485?mid=s22&list=recent&cpcd=",
+          "source": "Nate News",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "첼시 대 리즈 유나이티드": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T04:39:00+09:00",
+      "lastSeen": "2026-09-10T04:39:00+09:00",
+      "news": [
+        {
+          "title": "EFL Cup: Watson, 16, makes Chelsea debut against Leeds in third round",
+          "url": "https://www.bbc.com/sport/football/live/cq36l5n1kw23t",
+          "source": "BBC",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Kick-off against Leeds delayed | News | Official Site",
+          "url": "https://www.chelseafc.com/en/news/article/kick-off-against-leeds-delayed",
+          "source": "Chelsea Football Club",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Chelsea vs. Leeds—Carabao Cup: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/chelsea-vs-leeds-carabao-cup-preview-predictions-lineups-9-9-26",
+          "source": "Sports Illustrated",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "바르셀로나": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T04:39:00+09:00",
+      "lastSeen": "2026-09-10T04:39:00+09:00",
+      "news": [
+        {
+          "title": "\"어느 날 갑자기 1군에서 떼어놓더라\" 아스널 떠난 제주스의 폭로, \"설명도 없이 격리 훈련, 바르사에서 행복해\"",
+          "url": "https://m.news.nate.com/view/20260909n30331",
+          "source": "Nate News",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "레반도프스키 뒤를 이은 ���NO.9’ 가브리엘 제주스, 드디어 바르셀로나 데뷔전 소화…“이 유니폼 입고 뛰어 정말 행복하다”",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=694076",
+          "source": "인터풋볼",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "“팀 동료들과 떨어져 훈련하라 지시받았다”… 제주스, 아스널 떠난 뒤 ‘충격 폭로’",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1532111",
+          "source": "MHN스포츠",
           "date": "2026-09-09"
         }
       ]
