@@ -3469,10 +3469,10 @@
       ]
     },
     "베스트셀러": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-09T15:17:00+09:00",
-      "lastSeen": "2026-09-09T15:46:00+09:00",
+      "lastSeen": "2026-09-09T16:14:00+09:00",
       "news": [
         {
           "title": "베스트셀러 순위 올리려 1천6백 권 '사재기'‥유명 작가 기소",
@@ -3495,10 +3495,10 @@
       ]
     },
     "kbo 리그 신인 드래프트": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-09T15:17:00+09:00",
-      "lastSeen": "2026-09-09T15:46:00+09:00",
+      "lastSeen": "2026-09-09T16:14:00+09:00",
       "news": [
         {
           "title": "최지만 어디로 갈까…2027 KBO 신인 드래프트 21일 개최",
@@ -3662,10 +3662,10 @@
       ]
     },
     "최태원": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-09T15:46:00+09:00",
-      "lastSeen": "2026-09-09T15:46:00+09:00",
+      "lastSeen": "2026-09-09T16:14:00+09:00",
       "news": [
         {
           "title": "최태원, 노소영 재산분할 7천억은 인정…나머지 2천440억만 다툰다",
@@ -3684,14 +3684,26 @@
           "url": "https://www.donga.com/news/Economy/article/all/20260909/134634700/1",
           "source": "동아일보",
           "date": "2026-09-09"
+        },
+        {
+          "title": "최태원, 노소영 재산분할 7천억원 수용…2천440억원만 다투기로",
+          "url": "https://v.daum.net/v/20260909160352497",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "최태���·노소영, 대법서 2440억원만 다툰다…崔, 7000억원은 인정",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782492",
+          "source": "뉴시스",
+          "date": "2026-09-09"
         }
       ]
     },
     "커버 드 콜": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-09T15:46:00+09:00",
-      "lastSeen": "2026-09-09T15:46:00+09:00",
+      "lastSeen": "2026-09-09T16:14:00+09:00",
       "news": [
         {
           "title": "\"격주로 분배금 받으세요\"…S&P500커버드콜 투자 전략은? - 머니투데이",
@@ -3714,10 +3726,10 @@
       ]
     },
     "김천시": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-09T15:46:00+09:00",
-      "lastSeen": "2026-09-09T15:46:00+09:00",
+      "lastSeen": "2026-09-09T16:14:00+09:00",
       "news": [
         {
           "title": "코오롱인더, 반도체 기판 소재 mPPO 생산능력 확대",
@@ -3740,10 +3752,10 @@
       ]
     },
     "만평": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T15:46:00+09:00",
-      "lastSeen": "2026-09-09T15:46:00+09:00",
+      "lastSeen": "2026-09-09T16:14:00+09:00",
       "news": [
         {
           "title": "인천시, 해양안전 최일선 지킨 모범해양경찰 8명 표창",
@@ -3761,6 +3773,122 @@
           "title": "인천시 남동구, '청렴이 빛나는 순간' 청렴 전시회 개최",
           "url": "https://www.kgnews.co.kr/mobile/article_comment.html?no=910866&comment_mode=write",
           "source": "경기신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "194억 경찰 보디캠에 ‘중국산’ 의혹…KT·납품업체 압수수색",
+          "url": "https://www.kgnews.co.kr/mobile/article_comment.html?no=910910&comment_mode=write",
+          "source": "경기신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "경기 학교에 수영장·도서관…10년간 복합시설 100곳 짓는다",
+          "url": "https://www.kgnews.co.kr/mobile/article_comment.html?no=910908&comment_mode=write",
+          "source": "경기신문",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "한화그룹": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T16:14:00+09:00",
+      "lastSeen": "2026-09-09T16:14:00+09:00",
+      "news": [
+        {
+          "title": "[단독]KAI 사장 \"한화에 인수될리 없어..독점시 방산 다 망해 정부가 반대\"",
+          "url": "https://v.daum.net/v/20260909144243070",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "김종출 KAI 사장 \"한화 인수, 방산 경쟁 무너져…정부 반대할 것\"",
+          "url": "https://v.daum.net/v/20260909154906705",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "KAI 지분 인수 승인…한화 “우주 생태계 협력” vs 노조 “수직 계열화 저지”",
+          "url": "https://m.ekn.kr/view.php?key=20260907020021514",
+          "source": "에너지경제신문",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "스트레티지": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T16:14:00+09:00",
+      "lastSeen": "2026-09-09T16:14:00+09:00",
+      "news": [
+        {
+          "title": "‘비트코인 큰손’ 스트레티지, 비트코인 대신 우선주 2천5백억 매수",
+          "url": "https://stock.mk.co.kr/news/view/1155770",
+          "source": "매일경제 마켓",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "스트래티지, 비트코인 매매 건너뛰어…우선주 매입 규모 확대",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434034",
+          "source": "연합인포맥스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Strive의 SATA 시가총액이 10억 달러에 육박하며 ASST가 MSTR에 대한 우위를 확대",
+          "url": "https://www.coindesk.com/ko/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
+          "source": "CoinDesk",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "스마트 tv": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T16:14:00+09:00",
+      "lastSeen": "2026-09-09T16:14:00+09:00",
+      "news": [
+        {
+          "title": "LG전자 TV '꺼져도 듣는다' 의혹…LG \"주변 대화 수집 안 해\"",
+          "url": "http://www.press9.kr/news/articleView.html?idxno=82446",
+          "source": "PRESS9",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "스마트TV 화면 꺼져 있어도 녹음 가능성 논란에⋯업계 “사실 아니다”반박",
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=600275",
+          "source": "엠투데이",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "LG 스마트TV, 화면 꺼져도 음성 저장···과도한 개인정보 수집 논란",
+          "url": "https://www.globale.co.kr/news/articleView.html?idxno=40290",
+          "source": "글로벌E",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "테트리스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T16:14:00+09:00",
+      "lastSeen": "2026-09-09T16:14:00+09:00",
+      "news": [
+        {
+          "title": "이민자 추방, 테트리스 장벽 쌓기... 백악관이 공개한 ‘트럼프 게임’ 논란",
+          "url": "https://v.daum.net/v/WL265XDgtT",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "“사람목숨 게임점수 취급하는 대통령”…백악관 홍보게임에 비난폭주",
+          "url": "https://www.mk.co.kr/news/world/12145361",
+          "source": "매일경제",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "트럼프, 게임으로 젊은층에 정책 알린다",
+          "url": "https://www.koreadaily.com/article/20260904181619057",
+          "source": "미주중앙일보",
           "date": "2026-09-09"
         }
       ]
