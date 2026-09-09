@@ -418,10 +418,10 @@
       ]
     },
     "개헌": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-10T01:14:00+09:00",
-      "lastSeen": "2026-09-10T02:41:00+09:00",
+      "lastSeen": "2026-09-10T03:43:00+09:00",
       "news": [
         {
           "title": "[속보] 이 대통령 “제 임기, 헌법상 명확하게 제한돼 있어”···연임 개헌에 첫 입장",
@@ -463,10 +463,10 @@
       "news": []
     },
     "barcelona vs feyenoord": {
-      "count": 3,
-      "maxTraffic": 500,
+      "count": 4,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-10T02:12:00+09:00",
-      "lastSeen": "2026-09-10T03:16:00+09:00",
+      "lastSeen": "2026-09-10T03:43:00+09:00",
       "news": [
         {
           "title": "UEFA Champions League live updates: Barcelona begin campaign against Feyenoord",
@@ -501,10 +501,10 @@
       ]
     },
     "바르셀로나 대 페예노르트": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T02:12:00+09:00",
-      "lastSeen": "2026-09-10T03:16:00+09:00",
+      "lastSeen": "2026-09-10T03:43:00+09:00",
       "news": [
         {
           "title": "\"우리는 UCL 우승할 능력 있다\" 플릭의 선전포고...'19세 주장' 야말도 \"올해는 가능하다\" - 머니투데이",
@@ -527,10 +527,10 @@
       ]
     },
     "서안": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T02:12:00+09:00",
-      "lastSeen": "2026-09-10T03:16:00+09:00",
+      "lastSeen": "2026-09-10T03:43:00+09:00",
       "news": [
         {
           "title": "영국·이스라엘, 정착촌 놓고 ‘정면충돌’···“수십년 우방 관계 최악”",
@@ -573,10 +573,10 @@
       ]
     },
     "틈만나면,": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T02:41:00+09:00",
-      "lastSeen": "2026-09-10T03:16:00+09:00",
+      "lastSeen": "2026-09-10T03:43:00+09:00",
       "news": [
         {
           "title": "존박, 알고 보니 고졸…\"'슈스케2' 출연 후 美 명문대 중퇴\"",
@@ -599,10 +599,10 @@
       ]
     },
     "뷔": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T02:41:00+09:00",
-      "lastSeen": "2026-09-10T03:16:00+09:00",
+      "lastSeen": "2026-09-10T03:43:00+09:00",
       "news": [
         {
           "title": "방탄소년단 뷔, 상의 탈의 하고 타투 새기나...월드스타의 일상 훔쳐보기",
@@ -625,10 +625,10 @@
       ]
     },
     "iphone": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T03:16:00+09:00",
+      "lastSeen": "2026-09-10T03:43:00+09:00",
       "news": [
         {
           "title": "アップル初の折り畳み式iPhone、開発に約10年－価格は2000ドル超か",
@@ -647,14 +647,26 @@
           "url": "https://ascii.jp/elem/000/004/433/4433337/galleryimg.html?num=3",
           "source": "ASCII.jp",
           "date": "2026-09-09"
+        },
+        {
+          "title": "李・在鎔が洪・羅熙のサムスン電子718万株を1.9兆円で取得 - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/jp/jp-it/2026/09/09/OG6MWCCWP5EIBM63KBQQXI52UI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "【速報】李在鎔会長、母親のホン・ラヒ氏が保有するサムスン電子株718万株を1兆9,000億ウォンで買い付け",
+          "url": "https://www.mk.co.kr/jp/business/12148598",
+          "source": "매일경제",
+          "date": "2026-09-09"
         }
       ]
     },
     "애플": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T03:16:00+09:00",
+      "lastSeen": "2026-09-10T03:43:00+09:00",
       "news": [
         {
           "title": "\"아이폰18 사라진다…아이폰 에어2로 보급형 대체\"",
@@ -673,14 +685,26 @@
           "url": "https://www.hankyung.com/article/202609093980g",
           "source": "한국경제",
           "date": "2026-09-09"
+        },
+        {
+          "title": "애플 '터너스 시대' 첫 아이폰…2나노·AI 품은 '아이폰18 프로' 공개(종합)",
+          "url": "https://v.daum.net/v/20260910025443362",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[속보] 애플, 첫 폴더블폰 ‘아이폰 듀오’ 공개",
+          "url": "https://www.khan.co.kr/article/202609100302001",
+          "source": "경향신문",
+          "date": "2026-09-09"
         }
       ]
     },
     "보통주": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T03:16:00+09:00",
+      "lastSeen": "2026-09-10T03:43:00+09:00",
       "news": [
         {
           "title": "유안타증권, 최대주주 Yuanta Securities Asia Financial Services 등 주식 1만500주 증가…최대주주 장내매수",
@@ -703,10 +727,10 @@
       ]
     },
     "파주 냉동창고": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T03:16:00+09:00",
+      "lastSeen": "2026-09-10T03:43:00+09:00",
       "news": [
         {
           "title": "[단독] 냉동창고에 가둔 직후 AI에 \"창고에 사람 있으면 어떻게 되나?\"",
@@ -723,6 +747,12 @@
         {
           "title": "'파주 냉동창고 살인' 피의자 추가 입건...유가증권 위조 적용",
           "url": "https://www.ytn.co.kr/_ln/0103_202609091604391582",
+          "source": "YTN",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[단독] 경찰, '상품권 위조'도 입건...\"영화 촬영용 인쇄\"",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202609100010156771_005.html",
           "source": "YTN",
           "date": "2026-09-09"
         }
