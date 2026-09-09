@@ -4815,10 +4815,10 @@
       ]
     },
     "관리종목": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-09T20:13:00+09:00",
-      "lastSeen": "2026-09-09T20:42:00+09:00",
+      "lastSeen": "2026-09-09T21:17:00+09:00",
       "news": [
         {
           "title": "\"준비할 시간 없었다\"…상폐 기로 골드앤에스, 거래소 상대 가처분(종합)",
@@ -4841,17 +4841,17 @@
       ]
     },
     "옥순이": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T20:13:00+09:00",
-      "lastSeen": "2026-09-09T20:42:00+09:00",
+      "lastSeen": "2026-09-09T21:17:00+09:00",
       "news": []
     },
     "거스 히딩크": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-09T20:13:00+09:00",
-      "lastSeen": "2026-09-09T20:42:00+09:00",
+      "lastSeen": "2026-09-09T21:17:00+09:00",
       "news": [
         {
           "title": "24년째 '편파 판정' 물고 늘어진 이탈리아…히딩크 \"신사답게 행동해\" - 머니투데이",
@@ -4970,10 +4970,10 @@
       ]
     },
     "홍라희": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-09T20:42:00+09:00",
-      "lastSeen": "2026-09-09T20:42:00+09:00",
+      "lastSeen": "2026-09-09T21:17:00+09:00",
       "news": [
         {
           "title": "이재용, 1조 9천억 들여 홍라희 삼성전자 지분 인수‥자금원은 '배당금'?",
@@ -4991,6 +4991,174 @@
           "title": "이재용 삼전 회장, 홍라희 보유 주식 718만8793주 장외매수 계획",
           "url": "https://v.daum.net/v/20260909175609042",
           "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "홍라희, 삼성전자 지분 1.9조원어치 이재용에 매각",
+          "url": "https://news.mtn.co.kr/news-detail/2026090917543233050",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "홍라희, 이재용에 삼성전자 1.9조 매각⋯'12조 상속세' 막바지",
+          "url": "https://v.daum.net/v/20260909195127173",
+          "source": "Daum",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "전희철": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T21:17:00+09:00",
+      "lastSeen": "2026-09-09T21:17:00+09:00",
+      "news": [
+        {
+          "title": "전수완, 미코 탈락 후 5성급 호텔서 생일 즐겨",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782236",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘미코 진’ 우서윤에 밀린 전희철 딸…미코 탈락 후 더 예뻐졌다",
+          "url": "https://sports.khan.co.kr/article/202609091421003",
+          "source": "스포츠경향",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "전수완, '성형 논란' 우서윤과는 달랐다…왁자지껄 생일 파티 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/09/MI2TOZRQMU3TEYZRMYYGENRRGU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "김지원": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T21:17:00+09:00",
+      "lastSeen": "2026-09-09T21:17:00+09:00",
+      "news": [
+        {
+          "title": "\"다른 사람 같다\"…김지원, 묘하게 달라진 분위기 '깜짝 근황'",
+          "url": "https://v.daum.net/v/20260909175328935",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[1차 티저] “나는 실패도 하지 않습니다” 김지원, 죽음 앞에서도 반드시 살려내는 천재의사 등장★",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC481645803?cliptyp=01&div=hotissue",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'닥터X' 김우석, 김지원 대형견 활약…극과 극 사제 케미 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/08/2026090810027273315",
+          "source": "머니투데이",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "테트라포드": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T21:17:00+09:00",
+      "lastSeen": "2026-09-09T21:17:00+09:00",
+      "news": [
+        {
+          "title": "“살려주세요” 외침에 달려간 울산 공무원 3명···함께 여행갔다가 테트라포드 빠진 여성 구조",
+          "url": "https://www.khan.co.kr/article/202609091511011",
+          "source": "경향신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "“살려달라” 밤바다서 비명…테트라포드 추락 여성, 공무원 3명이 구했다",
+          "url": "https://www.donga.com/news/Society/article/all/20260909/134635365/2",
+          "source": "동아일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "바다여행 간 울산 공무원 동기들, 테트라포드 빠진 여성 구조",
+          "url": "https://www.yna.co.kr/view/AKR20260909093400057",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "sh공사": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T21:17:00+09:00",
+      "lastSeen": "2026-09-09T21:17:00+09:00",
+      "news": [
+        {
+          "title": "SH, 재개발임대주택 3821가구 모집 재공고…전용 39㎡ 이하 소형 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/09/09/2026090916483512189",
+          "source": "머니투데이",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "SH, 재개발임대주택 3821가구 입주자 모집… 29일부터 선순위 접수 - 조선비즈",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/09/23WKCS3JBBEU7JRQCBXSW3BM64/",
+          "source": "Chosunbiz",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "SH, 재개발임대 3821가구 공급 재개…저소득 청년 입주 기회 확대",
+          "url": "https://www.viva100.com/article/20260909501135",
+          "source": "브릿지경제",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "상인푸르지오센터파크": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T21:17:00+09:00",
+      "lastSeen": "2026-09-09T21:17:00+09:00",
+      "news": [
+        {
+          "title": "텅 빈 ‘유령 아파트’였는데…텐트치고 ‘밤샘 오픈런’, 무슨 일",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03066806645578480&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘미분양 무덤’ 대구에 전세분양 ‘오픈런’ 왜…다주택자 규제 강화가 부른 역설",
+          "url": "https://v.daum.net/v/20260909165209912",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "분양 때는 외면받더니…'상인푸르지오' 전세에 텐트치고 오픈런",
+          "url": "https://www.newsis.com/view/NISX20260909_0003781931",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "고승민": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T21:17:00+09:00",
+      "lastSeen": "2026-09-09T21:17:00+09:00",
+      "news": [
+        {
+          "title": "[영상] 김태형 감독 경기 중 훈계…박세웅 힘겹게 시즌 3승",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8658831",
+          "source": "KBS 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "동점까지 갔지만 역전은 없었다…NC, 롯데에 3-6 패배",
+          "url": "https://v.daum.net/v/20260908224007075",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[8일 프리뷰] ‘롯데 킬러’ 토다, 롯데전 4승 도전",
+          "url": "https://www.osen.co.kr/article/G1112871775",
+          "source": "OSEN",
           "date": "2026-09-09"
         }
       ]
