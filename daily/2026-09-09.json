@@ -1,6 +1,32 @@
 {
   "date": "2026-09-09",
   "keywords": {
+    "2027": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T14:41:00+09:00",
+      "lastSeen": "2026-09-09T14:41:00+09:00",
+      "news": [
+        {
+          "title": "Exclusive | Jimmy Kimmel’s late-night show set to end in 2027 after 24 years on air",
+          "url": "https://pagesix.com/2026/09/08/entertainment/jimmy-kimmels-late-night-show-set-to-end-after-next-season-after-24-years/",
+          "source": "Page Six",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘Jimmy Kimmel Live!’ is reportedly ending, ABC pushes back",
+          "url": "https://thehill.com/blogs/in-the-know/6077857-page-six-reports-kimmel-exit/",
+          "source": "The Hill",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "ABC responds to report 'Jimmy Kimmel Live' will end in 2027",
+          "url": "https://www.usatoday.com/story/entertainment/tv/2026/09/08/jimmy-kimmel-live-ending-2027/91666177007/",
+          "source": "USA Today",
+          "date": "2026-09-09"
+        }
+      ]
+    },
     "고려대": {
       "count": 8,
       "maxTraffic": 100,
@@ -3115,10 +3141,10 @@
       ]
     },
     "최승호": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-09T14:12:00+09:00",
-      "lastSeen": "2026-09-09T14:12:00+09:00",
+      "lastSeen": "2026-09-09T14:41:00+09:00",
       "news": [
         {
           "title": "삼성 노조위원장, 장인 회사에 3억대 집회용 조끼 발주 논란…\"가장 저렴했다\"",
@@ -3137,14 +3163,20 @@
           "url": "https://www.yna.co.kr/view/AKR20260909068600546",
           "source": "연합뉴스",
           "date": "2026-09-09"
+        },
+        {
+          "title": "삼전노조 최승호 위원장, 장인 회사와 집회용품 계약 논란…\"금전 이익 없었다\"",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=55098",
+          "source": "주간조선",
+          "date": "2026-09-09"
         }
       ]
     },
     "류현진": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T14:12:00+09:00",
-      "lastSeen": "2026-09-09T14:12:00+09:00",
+      "lastSeen": "2026-09-09T14:41:00+09:00",
       "news": [
         {
           "title": "한화, 5위 '8G 차' 기적 일어날까…\"류현진 마음고생 컸을 텐데 후련해졌길\" 달감독 미소→9일 LG전 왕옌청 출격 [대전 현장]",
@@ -3163,14 +3195,20 @@
           "url": "https://www.chosun.com/sports/baseball/2026/09/09/HA2TGZRSG42DSOJZGBSDANLEMY/",
           "source": "조선일보",
           "date": "2026-09-09"
+        },
+        {
+          "title": "[엠빅뉴스] “죄송합니다” 석 달 만의 승리, 류현진의 사과",
+          "url": "https://imnews.imbc.com/original/mbig/6850647_29041.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-09"
         }
       ]
     },
     "송진우": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T14:12:00+09:00",
-      "lastSeen": "2026-09-09T14:12:00+09:00",
+      "lastSeen": "2026-09-09T14:41:00+09:00",
       "news": [
         {
           "title": "“송진우 선배님 기록 갈아치우는 걸 보고 싶다” 꽃범호 진심…KIA 대투수 12번째 10승, 멀기만 하던 210승 혹시 내년에?[MD광주]",
@@ -3193,10 +3231,10 @@
       ]
     },
     "조혜련": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T14:12:00+09:00",
-      "lastSeen": "2026-09-09T14:12:00+09:00",
+      "lastSeen": "2026-09-09T14:41:00+09:00",
       "news": [
         {
           "title": "조권 \"부모님 암 투병에 발가락 절단·수술 4번...김혜수가 도와줘\"",
@@ -3215,14 +3253,20 @@
           "url": "https://www.news1.kr/entertain/celebrity-topic/6284820",
           "source": "뉴스1",
           "date": "2026-09-09"
+        },
+        {
+          "title": "조권, '깝' 오브 레전드..\"군대에서 털기춤으로 포상휴가 받아\"",
+          "url": "https://v.daum.net/v/20260909082437492",
+          "source": "Daum",
+          "date": "2026-09-09"
         }
       ]
     },
     "이재명": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-09T14:12:00+09:00",
-      "lastSeen": "2026-09-09T14:12:00+09:00",
+      "lastSeen": "2026-09-09T14:41:00+09:00",
       "news": [
         {
           "title": "이재명 정부의 위기, 지지율보다 더 심각한 것 [신진욱의 시선]",
@@ -3241,14 +3285,26 @@
           "url": "https://www.hankookilbo.com/news/article/A2026090713580000228",
           "source": "한국일보",
           "date": "2026-09-09"
+        },
+        {
+          "title": "\"호르무즈 긴밀 공조\"‥안보·국방 협력 강화",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6850529_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "2026년 프랑스 국빈방문",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148971559",
+          "source": "정책브리핑",
+          "date": "2026-09-09"
         }
       ]
     },
     "목동윤슬자이": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T14:12:00+09:00",
-      "lastSeen": "2026-09-09T14:12:00+09:00",
+      "lastSeen": "2026-09-09T14:41:00+09:00",
       "news": [
         {
           "title": "“아파트 대체한다”…옛 KT 부지 ‘목동윤슬자이’ 평균 경쟁률 5.8대 1 기록",
@@ -3318,6 +3374,84 @@
           "title": "소방청, 추석 맞아 '고향집에 주택용소방시설 설치하기' 전국 홍보(캠페인) 전개",
           "url": "https://go.seoul.co.kr/news/prnewsView.php?id=446150",
           "source": "서울Pn",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "미스터 트롯": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T14:41:00+09:00",
+      "lastSeen": "2026-09-09T14:41:00+09:00",
+      "news": [
+        {
+          "title": "황가람 생애 첫 트로트 도전…김용빈 견제 난리 (미스트롯 포유)",
+          "url": "https://sports.donga.com/ent/article/all/20260909/134634269/1",
+          "source": "스포츠동아",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "트로트판 황가람 경계령!…김용빈 “우리 자리 없어지겠다” 촉각 (미스트롯 포유)",
+          "url": "https://sports.khan.co.kr/article/202609091139003",
+          "source": "스포츠경향",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "황가람 '미스터트롯4' 출연 금지 당했다…김용빈 \"우리 자리 없어지겠어\" 견제(미스트롯 포유)",
+          "url": "https://m.news.nate.com/view/20260909n09813?mid=e02&list=recent&cpcd=",
+          "source": "Nate News",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "중국": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T14:41:00+09:00",
+      "lastSeen": "2026-09-09T14:41:00+09:00",
+      "news": [
+        {
+          "title": "단양군, 중국 장백산 세계지질공원과 업무협약",
+          "url": "https://www.yna.co.kr/view/AKR20260909092900064",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "제주 세계지질공원 국제교류 확대…모로코 '므군'과 자매결연",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782205",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "13일은 국제 동굴의 날… 단양 ‘고수-온달동굴’ 가치 알린다",
+          "url": "https://www.donga.com/news/Society/article/all/20260909/134629599/2",
+          "source": "동아일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "이채영": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T14:41:00+09:00",
+      "lastSeen": "2026-09-09T14:41:00+09:00",
+      "news": [
+        {
+          "title": "데프콘·이이경 아니었다…'나솔' PD 선택은 안정환·효연·이채영 ('계약결혼')",
+          "url": "https://v.daum.net/v/20260909100008664",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "안정환·효연·이채영, 새 예능 ‘계약결혼’ MC…‘나는 솔로’ 남규홍 PD 신작",
+          "url": "https://www.viva100.com/article/20260909500913",
+          "source": "브릿지경제",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "결혼 실험 예능 '계약결혼' 28일 첫선…'나는 솔로' PD 연출",
+          "url": "https://www.yna.co.kr/view/AKR20260907036700005",
+          "source": "연합뉴스",
           "date": "2026-09-09"
         }
       ]
