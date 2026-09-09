@@ -1859,10 +1859,10 @@
       "news": []
     },
     "홍윤화": {
-      "count": 3,
-      "maxTraffic": 200,
+      "count": 4,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-09T09:22:00+09:00",
-      "lastSeen": "2026-09-09T10:12:00+09:00",
+      "lastSeen": "2026-09-09T10:42:00+09:00",
       "news": [
         {
           "title": "동상이몽2_너는 내 운명 : 오경주, 홍윤화의 독보적인 ‘먹부림 스킬’ 전수받아 치즈와 물아일체 퍼포먼스",
@@ -1881,14 +1881,26 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/08/MMYWKODGME2TANDDG44DSNBZGA/",
           "source": "조선일보",
           "date": "2026-09-08"
+        },
+        {
+          "title": "‘고기 전문가’ 홍윤화×김민기, 오경주의 신메뉴 ‘된장 숙성 삼겹살’에 두 눈 번쩍!",
+          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC481691760",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "홍윤화, 40㎏ 빼더니 요요 왔나…\"금팔찌 타이트해져\"",
+          "url": "https://mobile.newsis.com/view.html?ar_id=NISX20260909_0003782123",
+          "source": "뉴시스",
+          "date": "2026-09-08"
         }
       ]
     },
     "리버풀 fc": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T09:22:00+09:00",
-      "lastSeen": "2026-09-09T10:12:00+09:00",
+      "lastSeen": "2026-09-09T10:42:00+09:00",
       "news": [
         {
           "title": "챔피언스 리그 경기 결과 예측: 리버풀, 아틀레티코 마드리드에 무력화될 것",
@@ -1923,10 +1935,10 @@
       ]
     },
     "삼성sds": {
-      "count": 3,
-      "maxTraffic": 100,
+      "count": 4,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-09T09:22:00+09:00",
-      "lastSeen": "2026-09-09T10:12:00+09:00",
+      "lastSeen": "2026-09-09T10:42:00+09:00",
       "news": [
         {
           "title": "삼성SDS “로봇통합운영 플랫폼 내년 출시”",
@@ -1949,10 +1961,10 @@
       ]
     },
     "이종상": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T09:22:00+09:00",
-      "lastSeen": "2026-09-09T10:12:00+09:00",
+      "lastSeen": "2026-09-09T10:42:00+09:00",
       "news": [
         {
           "title": "5만원권 신사임당·5천원권 율곡 이이 그린 이종상 화백 별세",
@@ -2155,10 +2167,10 @@
       ]
     },
     "이재명 정부": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-09T09:47:00+09:00",
-      "lastSeen": "2026-09-09T10:12:00+09:00",
+      "lastSeen": "2026-09-09T10:42:00+09:00",
       "news": [
         {
           "title": "이재명 정부의 위기, 지지율보다 더 심각한 것 [신진욱의 시선]",
@@ -2181,10 +2193,10 @@
       ]
     },
     "땅집고": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T09:47:00+09:00",
-      "lastSeen": "2026-09-09T10:12:00+09:00",
+      "lastSeen": "2026-09-09T10:42:00+09:00",
       "news": [
         {
           "title": "원주민 이익 빼앗는 지분 쪼개기, \"조합원 추가분담금 폭탄으로\"",
@@ -2207,10 +2219,10 @@
       ]
     },
     "dwcs": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T09:47:00+09:00",
-      "lastSeen": "2026-09-09T10:12:00+09:00",
+      "lastSeen": "2026-09-09T10:42:00+09:00",
       "news": [
         {
           "title": "Christian Natividad Scores First-Round TKO | Dana White's Contender Series, Season 10",
@@ -2240,6 +2252,84 @@
           "title": "DWCS video: Martin Kozak dismantles tough Christian Echols for TKO",
           "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/08/ufc-dwcs-martin-kozak-vs-christian-echols-video/91667176007/",
           "source": "MMA Junkie",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "이유비": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T10:42:00+09:00",
+      "lastSeen": "2026-09-09T10:42:00+09:00",
+      "news": [
+        {
+          "title": "‘견미리 딸’ 이유비, 이훈과 집 데이트 ‘포착’…공개열애 시작",
+          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/09/08/20260908500039",
+          "source": "TWIG",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "AI가 사람과 연애하고 벌칙까지 정한다…‘예능판’ 누비는 인공지능",
+          "url": "https://v.daum.net/v/pXY8jqyOAY",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "SBS 흥행 카드 처참히 무너졌다…’대상 스타’에도→1% 성적으로 안방 극장 표류 중인 韓 예능",
+          "url": "https://tvreport.co.kr/breaking/article/1073467/",
+          "source": "TV리포트",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "송가 인": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T10:42:00+09:00",
+      "lastSeen": "2026-09-09T10:42:00+09:00",
+      "news": [
+        {
+          "title": "\"가인님은 그저 빛\" 송가인, 몰라보게 날씬해진 근황…운동과 식단은",
+          "url": "https://www.newsis.com/view/NISX20260908_0003780594",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "빛과 바람으로 만든 실루엣…까이에, 서울패션위크서 '생트로페의 황금 시간' 공개",
+          "url": "https://news.nate.com/view/20260908n04506",
+          "source": "네이트",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "유선, 매력 뽐내는 손하트 [포토엔HD]",
+          "url": "https://www.newsen.com/news_view.php?uid=202609041555565510",
+          "source": "뉴스엔",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "손녀": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T10:42:00+09:00",
+      "lastSeen": "2026-09-09T10:42:00+09:00",
+      "news": [
+        {
+          "title": "“손주 키우기 더는 공짜 아냐“…조부모의 ’황혼 육아’ 소송",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202609081610253FU",
+          "source": "연합뉴스TV",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "\"손주 봐주는 게 당연한가요?\"…15년 키운 할머니가 아들 고소",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03224246645578480",
+          "source": "마켓인",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "“손녀 15년 키운 돈 7200만원”…‘황혼육아’ 청구서 내민 할머니",
+          "url": "https://v.daum.net/v/20260909001111350",
+          "source": "Daum",
           "date": "2026-09-08"
         }
       ]
