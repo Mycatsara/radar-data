@@ -1751,10 +1751,10 @@
       ]
     },
     "srt": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T07:40:00+09:00",
-      "lastSeen": "2026-09-10T07:40:00+09:00",
+      "lastSeen": "2026-09-10T08:12:00+09:00",
       "news": [
         {
           "title": "Chicago Dealer Selling Brand-New Dodge Challenger SRT Demon 170",
@@ -1777,10 +1777,10 @@
       ]
     },
     "장례": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T07:40:00+09:00",
-      "lastSeen": "2026-09-10T07:40:00+09:00",
+      "lastSeen": "2026-09-10T08:12:00+09:00",
       "news": [
         {
           "title": "\"나 죽거든 '여기'에 묻어줘\"…세계 최초 이색 '친환경 장례' 호주서 치러져",
@@ -1954,6 +1954,214 @@
           "title": "봉화 농민사관학교 사과 병해충관리과정 수료 전문농업인 31명 배출",
           "url": "https://www.hidomin.com/news/articleView.html?idxno=719597",
           "source": "경북도민일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "sk온": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T08:12:00+09:00",
+      "lastSeen": "2026-09-10T08:12:00+09:00",
+      "news": [
+        {
+          "title": "유일로보틱스-SK온, 휴머노이드 전고체 배터리 개발",
+          "url": "https://www.etnews.com/20260909000223",
+          "source": "전자신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[AI 대전환 리딩 전략]삼성SDI, 데이터센터·로봇까지 영토 확장",
+          "url": "https://v.daum.net/v/9JQhsWAidi",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "에코프로비엠, 2027년 전고체 상용화 ‘원팀’ 띄운다",
+          "url": "https://news.bizwatch.co.kr/article/industry/2026/08/31/0032",
+          "source": "비즈워치",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "nfl": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T08:12:00+09:00",
+      "lastSeen": "2026-09-10T08:12:00+09:00",
+      "news": [
+        {
+          "title": "Column | Bold predictions ahead of the NFL season",
+          "url": "https://pittnews.com/article/202820/sports/column-bold-predictions-ahead-of-the-nfl-season/",
+          "source": "The Pitt News",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Jacksonville Jaguars 2026 season predictions: How well will they do?",
+          "url": "https://www.jacksonville.com/story/sports/columns/ryan-o-halloran/2026/09/09/nfl-super-bowl-jacksonville-jaguars-liam-coen-josh-allen-dallas-cowboys-dak-prescott/91551857007/",
+          "source": "The Florida Times-Union",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "NFL predictions: Division winners, Super Bowl champ, MVP and more",
+          "url": "https://www.desertsun.com/story/sports/nfl/2026/09/09/nfl-predictions-division-winners-super-bowl-champ-mvp-and-more/91677013007/",
+          "source": "The Desert Sun",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "유무 인 복합 전투 체계": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T08:12:00+09:00",
+      "lastSeen": "2026-09-10T08:12:00+09:00",
+      "news": [
+        {
+          "title": "폴란드서 FA-50 입증한 KAI…이번엔 KF-21·무인기 띄운다",
+          "url": "https://v.daum.net/v/20260909141607624",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[영상] 폴란드형 K2전차, 동유럽 최대 방산전시회서 처음 공개",
+          "url": "https://www.yna.co.kr/view/AKR20260909149700704",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "한 발 2000원 ‘드론 킬러’가 장갑차에…한화가 50㎾ 레이저 싣는 이유 [밀리터리+]",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260909601025",
+          "source": "나우뉴스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "코레일 추석예매": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T08:12:00+09:00",
+      "lastSeen": "2026-09-10T08:12:00+09:00",
+      "news": [
+        {
+          "title": "7일부터 추석 기차표 예매 시작…온라인서만 판매",
+          "url": "https://www.yna.co.kr/view/MYH20260908002400038",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "추석 열차표 놓쳤다면 ‘예약대기 먼저’…미결제 취소표, 15일 후 대기자에 우선 배정",
+          "url": "https://v.daum.net/v/betmxyjJNt?f=p",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "코레일 '2026 추석 승차권 예매'…용산 출·도착 호남·전라선",
+          "url": "https://www.etoday.co.kr/news/view/2623305",
+          "source": "이투데이",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "구미시": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T08:12:00+09:00",
+      "lastSeen": "2026-09-10T08:12:00+09:00",
+      "news": [
+        {
+          "title": "개그맨 이선민 구미시 홍보대사에 위촉",
+          "url": "https://v.daum.net/v/20260909162753597",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[패트롤] 구미시",
+          "url": "https://m.ekn.kr/view.php?key=20260910026402787",
+          "source": "에너지경제신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'구미 당기는' 특별한 장터...구미 로컬푸드 페스타",
+          "url": "https://www.ytn.co.kr/_ln/0115_202609091306595738",
+          "source": "YTN",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "주식": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T08:12:00+09:00",
+      "lastSeen": "2026-09-10T08:12:00+09:00",
+      "news": [
+        {
+          "title": "전세계 ‘유가 패닉’ 빠졌는데…“트럼프는 주식으로 440억 벌어”",
+          "url": "https://v.daum.net/v/20260910055808897",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "이란전 6개월간 트럼프 석유·가스 주식 평가액 최대 59억원↑",
+          "url": "https://www.yna.co.kr/view/AKR20260910001800072",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "“전쟁 or 휴전”…트럼프 말 한 마디에 지갑 속 석유株 60억 불었다",
+          "url": "https://www.sedaily.com/article/20089178",
+          "source": "서울경제",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "박주봉": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T08:12:00+09:00",
+      "lastSeen": "2026-09-10T08:12:00+09:00",
+      "news": [
+        {
+          "title": "'日에서 神으로 추앙' 韓 전설의 당황·복잡한 감정 \"20년 동고동락, 이제 적이라니 부담이네요\"",
+          "url": "https://v.daum.net/v/qtxP6KGhwx",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "애플, 접이식 '아이폰 듀오' 공개…폴더블 시장서 삼성과 격돌",
+          "url": "https://www.yna.co.kr/view/IPT20260910000001365?section=gallery/index",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "안세영, 2주 연속 ‘무결점 우승’…AG 금메달 보인다!",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8655922&section_id=28154",
+          "source": "KBS 뉴스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "별자리": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T08:12:00+09:00",
+      "lastSeen": "2026-09-10T08:12:00+09:00",
+      "news": [
+        {
+          "title": "[오늘의 운세] 2026년 09월 10일 띠별 운세",
+          "url": "https://www.ytn.co.kr/_ln/0121_202609100000000001",
+          "source": "YTN",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[오늘의 운세] 9월 10일 목요일 (음력 7월 29일) 띠별 운세",
+          "url": "https://www.kyeonggi.com/article/20260907580248",
+          "source": "경기일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[오늘의 별자리 운세] 9월 10일 목요일 - 조선비즈",
+          "url": "https://biz.chosun.com/culture/culture_general/2026/09/09/R4S3IVFGQVBHHJGVU45XY7SGGY/",
+          "source": "Chosunbiz",
           "date": "2026-09-09"
         }
       ]
