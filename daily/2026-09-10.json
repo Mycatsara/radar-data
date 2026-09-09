@@ -631,10 +631,10 @@
       ]
     },
     "iphone": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T04:39:00+09:00",
+      "lastSeen": "2026-09-10T05:13:00+09:00",
       "news": [
         {
           "title": "アップル初の折り畳み式iPhone、開発に約10年－価格は2000ドル超か",
@@ -669,10 +669,10 @@
       ]
     },
     "애플": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T04:39:00+09:00",
+      "lastSeen": "2026-09-10T05:13:00+09:00",
       "news": [
         {
           "title": "\"아이폰18 사라진다…아이폰 에어2로 보급형 대체\"",
@@ -707,10 +707,10 @@
       ]
     },
     "보통주": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T04:39:00+09:00",
+      "lastSeen": "2026-09-10T05:13:00+09:00",
       "news": [
         {
           "title": "유안타증권, 최대주주 Yuanta Securities Asia Financial Services 등 주식 1만500주 증가…최대주주 장내매수",
@@ -797,10 +797,10 @@
       ]
     },
     "리버풀 대 아틀레티코": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-10T04:11:00+09:00",
-      "lastSeen": "2026-09-10T04:39:00+09:00",
+      "lastSeen": "2026-09-10T05:13:00+09:00",
       "news": [
         {
           "title": "\"이강인, 액션!\" 아틀레티코 유니폼 입고 'UCL 데뷔전' 개봉박두...스페인도 집중 조명 \"그리즈만 후계자로 스포트라이트\" - 머니투데이",
@@ -824,6 +824,12 @@
           "title": "[속보] 이강인·알바레스 '파격 투톱'...'연막작전' 뚫고 안필드 선발 출격",
           "url": "https://news.tf.co.kr/read/soccer/2364107.htm",
           "source": "더팩트",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'이강인 선발' ATM, 리버풀 원정서 1-0 리드...요렌테, 또 리버풀 흔들었다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/10/202609100349777734O",
+          "source": "머니투데이",
           "date": "2026-09-09"
         }
       ]
@@ -861,10 +867,10 @@
       ]
     },
     "psg 대 슬로반 브라티슬라바": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T04:39:00+09:00",
-      "lastSeen": "2026-09-10T04:39:00+09:00",
+      "lastSeen": "2026-09-10T05:13:00+09:00",
       "news": [
         {
           "title": "파리 생제르맹 vs 슬로반 브라티슬라바 프리뷰: 치열한 우승 경쟁의 한복판",
@@ -887,10 +893,10 @@
       ]
     },
     "나폴리 대 아스널": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T04:39:00+09:00",
-      "lastSeen": "2026-09-10T04:39:00+09:00",
+      "lastSeen": "2026-09-10T05:13:00+09:00",
       "news": [
         {
           "title": "\"UCL서 맨유와 레알, 사실상 동급\" 슈퍼컴퓨터, 맨유 우승 확률에 \"레알과 차이는 불과 0.6%P\" - 머니투데이",
@@ -913,10 +919,10 @@
       ]
     },
     "첼시 대 리즈 유나이티드": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T04:39:00+09:00",
-      "lastSeen": "2026-09-10T04:39:00+09:00",
+      "lastSeen": "2026-09-10T05:13:00+09:00",
       "news": [
         {
           "title": "EFL Cup: Watson, 16, makes Chelsea debut against Leeds in third round",
@@ -934,6 +940,12 @@
           "title": "Chelsea vs. Leeds—Carabao Cup: Preview, Predictions and Lineups",
           "url": "https://www.si.com/soccer/chelsea-vs-leeds-carabao-cup-preview-predictions-lineups-9-9-26",
           "source": "Sports Illustrated",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Confirmed Chelsea line up vs Leeds | News | Official Site",
+          "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-leeds-aug-26",
+          "source": "Chelsea Football Club",
           "date": "2026-09-09"
         }
       ]
@@ -960,6 +972,84 @@
           "title": "“팀 동료들과 떨어져 훈련하라 지시받았다”… 제주스, 아스널 떠난 뒤 ‘충격 폭로’",
           "url": "https://mhnse.com/news/articleView.html?idxno=1532111",
           "source": "MHN스포츠",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "후지 산": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T05:13:00+09:00",
+      "lastSeen": "2026-09-10T05:13:00+09:00",
+      "news": [
+        {
+          "title": "하늘로 '촤악' 지하로 '콸콸'‥태풍 뒤끝 '나고야 마비'",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6850664_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[영상] 터지고 잠기고…폭우에 일본 중부 곳곳 '만신창이'",
+          "url": "https://www.yna.co.kr/view/MYH20260909014900704",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"무서워, 제발 지금 일�� 가지 마라\"…사망자 나오고 전철 멈추자 여행객 '비상'",
+          "url": "https://view.asiae.co.kr/article/2026090915492746875",
+          "source": "아시아경제",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "스포티비": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T05:13:00+09:00",
+      "lastSeen": "2026-09-10T05:13:00+09:00",
+      "news": [
+        {
+          "title": "‘AG 2회 우승 주역’ 김주성, 스포티비 농구 중계 합류",
+          "url": "https://biz.heraldcorp.com/article/10867381",
+          "source": "헤럴드경제",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "스포티비, 2026 아이치-나고야 아시안게임 중계진 발표",
+          "url": "https://v.daum.net/v/20260909110008404?t=m&x_mn=6aa1132beefa53584b3a4606",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "김주성·김병현에 ‘전클노’까지…SPOTV, AG 호화 해설진 공개",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03191446645578480&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "갤럭시 폴드8": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T05:13:00+09:00",
+      "lastSeen": "2026-09-10T05:13:00+09:00",
+      "news": [
+        {
+          "title": "갤럭시 Z8, 전작보다 8% 더 팔렸다…폴드8이 흥행 주도",
+          "url": "https://www.yna.co.kr/view/AKR20260909162700017",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "276g→201g…폴더블 아이폰 등판 직전 '7년 내공' 꺼낸 삼성",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782310",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Z 폴드8 경량화 위한 치밀한 설계… 부품 270개·부자재 180종 다시 뜯어봤다 - 조선비즈",
+          "url": "https://biz.chosun.com/it-science/ict/2026/09/09/HZO4P47IQNEDTC753TFKWIYYBA/",
+          "source": "Chosunbiz",
           "date": "2026-09-09"
         }
       ]
