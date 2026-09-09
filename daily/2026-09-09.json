@@ -3956,10 +3956,10 @@
       ]
     },
     "중앙그룹": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T16:42:00+09:00",
-      "lastSeen": "2026-09-09T17:42:00+09:00",
+      "lastSeen": "2026-09-09T18:14:00+09:00",
       "news": [
         {
           "title": "“돌려막기 구조 설계”···중앙그룹 채권 피해자들, 홍정도·홍석현 등 20인 형사고소",
@@ -3984,14 +3984,20 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8658973",
           "source": "KBS 뉴스",
           "date": "2026-09-09"
+        },
+        {
+          "title": "중앙그룹 채권자들, 홍석현 등 총수 일가 고소",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850705_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-09"
         }
       ]
     },
     "범죄": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-09T16:42:00+09:00",
-      "lastSeen": "2026-09-09T17:42:00+09:00",
+      "lastSeen": "2026-09-09T18:14:00+09:00",
       "news": [
         {
           "title": "[단독] 냉동창고에 가둔 직후 AI에 \"창고에 사람 있으면 어떻게 되나?\"",
@@ -4026,10 +4032,10 @@
       ]
     },
     "동아일보": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T16:42:00+09:00",
-      "lastSeen": "2026-09-09T17:42:00+09:00",
+      "lastSeen": "2026-09-09T18:14:00+09:00",
       "news": [
         {
           "title": "’로또 1등 인증’ 대기업 직원…당첨금 12억 찍힌 통장 공개",
@@ -4048,14 +4054,26 @@
           "url": "https://www.donga.com/news/Society/article/all/20260909/134633056/2",
           "source": "동아일보",
           "date": "2026-09-09"
+        },
+        {
+          "title": "\"실수령 12억, 입 근질거려 못 참겠다\"…대기업 직장인 로또 1등 '인증'",
+          "url": "https://www.news1.kr/society/general-society/6284651",
+          "source": "뉴스1",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"로또 1등 당첨인데, 출근은 계속\"…'12억' 받은 직장인의 선택",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03752326645578480&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-09"
         }
       ]
     },
     "신한은행 채용": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T16:42:00+09:00",
-      "lastSeen": "2026-09-09T17:42:00+09:00",
+      "lastSeen": "2026-09-09T18:14:00+09:00",
       "news": [
         {
           "title": "[게시판] 신한은행 하반기 신입행원 등 130여명 채용",
@@ -4078,10 +4096,10 @@
       ]
     },
     "레버리지": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-09T17:14:00+09:00",
-      "lastSeen": "2026-09-09T17:42:00+09:00",
+      "lastSeen": "2026-09-09T18:14:00+09:00",
       "news": [
         {
           "title": "[단독] 외국계 초단타에 판 깔아준 증권사, 상반기 1400억원 벌었다",
@@ -4099,6 +4117,123 @@
           "title": "“이러다 한국처럼 될라” 빚내서 주식 샀다가 와르���…中·日도 ‘빚투 폭탄’ 경고등",
           "url": "https://www.sedaily.com/article/20088431",
           "source": "서울경제",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[단독] 단종레 3000만원 규제에 개인만 퇴출…외국계 HFT는 절반 생존",
+          "url": "https://www.hankyung.com/article/202609094256i",
+          "source": "한국경제",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "지방": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T18:14:00+09:00",
+      "lastSeen": "2026-09-09T18:14:00+09:00",
+      "news": [
+        {
+          "title": "외발 지방의회, 독립 법안 없는 불합리 깨지나",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1331621",
+          "source": "인천일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "임인환 대구시의장 국회로…TK신공항 등 국비 ‘막판 증액전’",
+          "url": "https://v.daum.net/v/20260909164407515",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "전국 광역의회 “지방의회법 연내 제정해야”…국회에 촉구",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034182",
+          "source": "기호일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "김설현": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-09T18:14:00+09:00",
+      "lastSeen": "2026-09-09T18:14:00+09:00",
+      "news": []
+    },
+    "소나무재선충": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T18:14:00+09:00",
+      "lastSeen": "2026-09-09T18:14:00+09:00",
+      "news": [
+        {
+          "title": "한국 기술로 소나무 살린 중국... 실패의 길로 가는 산림청 [최병성 리포트]",
+          "url": "https://v.daum.net/v/20260909072241062",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "1천284만그루 금강송 지켜라…경북 울진 '재선충병과 전쟁'",
+          "url": "https://www.yna.co.kr/view/AKR20260908134500053",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "정읍시 \"재선충 확산 막고 산림 회복\"…152㏊ 수종전환 방제 착수",
+          "url": "https://www.news1.kr/local/jeonbuk/6284828",
+          "source": "뉴스1",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "그린란드": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T18:14:00+09:00",
+      "lastSeen": "2026-09-09T18:14:00+09:00",
+      "news": [
+        {
+          "title": "트럼프, 미 지도에 다른 국가 미국 땅으로 표시‥아이슬란드, 미 대사 초치",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6850485_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "그린란드 위협에 불안 커진 아이슬란드…트럼프 ‘성조기 지도’에 발끈",
+          "url": "https://www.munhwa.com/article/11615817",
+          "source": "문화일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "트럼프 해협, 트럼프 센터에 ‘뉴아메리카’까지···트럼프는 왜 이름에 집착할까?[사이월드]",
+          "url": "https://v.daum.net/v/20260909060128564",
+          "source": "Daum",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "정영숙": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T18:14:00+09:00",
+      "lastSeen": "2026-09-09T18:14:00+09:00",
+      "news": [
+        {
+          "title": "[TV조선] 배우 정영숙의 건강 비결",
+          "url": "https://v.daum.net/v/20260909004046732",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "정영숙, 80세 맞아? 손바닥 바닥에 ‘척’…“30대도 힘든 자세”",
+          "url": "https://sports.donga.com/ent/article/all/20260909/134633022/1",
+          "source": "스포츠동아",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "정영숙, 80세 맞아? 남다른 유연성에 \"30대도 힘든 자세\" (퍼펙트 라이프)",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/517728",
+          "source": "iMBC 연예",
           "date": "2026-09-09"
         }
       ]
