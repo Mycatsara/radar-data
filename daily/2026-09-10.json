@@ -1311,10 +1311,10 @@
       ]
     },
     "เชลซี พบ ลีดส์": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T06:40:00+09:00",
-      "lastSeen": "2026-09-10T06:40:00+09:00",
+      "lastSeen": "2026-09-10T07:12:00+09:00",
       "news": [
         {
           "title": "ชี้ 4 ตัวเต็งบอลน่าเชียร์ 8 ก.ย. 69 : ทีเด็ดบอลวันนี้ ลุ้น ซันเดอร์แลนด์-นิวคาสเซิ่ล ตีตั๋วบอลถ้วย",
@@ -1332,6 +1332,18 @@
           "title": "แนะลิงค์ถ่ายทอดสดคาราบาว คัพ Carabao Cup รอบ 3 เช็กตารางแข่ง -ดูสดช่อง MONOMAX",
           "url": "https://www.thansettakij.com/sport/668455",
           "source": "Thansettakij",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "ยิงรวมกัน 9 ประตู! เชลซีตาม 2 ลูกก่อนแซงชนะลีดส์ ผ่านเข้ารอบศึก คาราบาว คัพ",
+          "url": "https://today.line.me/th/v3/article/XYRoLzX",
+          "source": "LINE TODAY",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "LIVE ลิงค์ดูบอลสด \"เชลซี พบ ���ีดส์ ยูไนเต็ด\" ถ่ายทอดสด คาราบาว คัพ",
+          "url": "https://www.komchadluek.net/news/sport/622544",
+          "source": "komchadluek",
           "date": "2026-09-09"
         }
       ]
@@ -1462,6 +1474,240 @@
           "title": "¡GOL! anota para Atlético de Madrid. Marcos Llorente",
           "url": "https://www.tudn.com/futbol/uefa-champions-league/gol-anota-para-atletico-de-madrid-marcos-llorente-video-2",
           "source": "TUDN",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "투자": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T07:12:00+09:00",
+      "lastSeen": "2026-09-10T07:12:00+09:00",
+      "news": [
+        {
+          "title": "美 제시 사업, 세 달 만에 436억→2093억달러…\"전례 없는 압박\"",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04460806645578480&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[단독] 미, 2천억달러 대미투자 ‘최종 안전판’ 깼다…일부 사업 원금 회수 어려울 수도",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1277093.html",
+          "source": "한겨레",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"원전 2기는 한국형으로...웨스팅하우스 지분 인수도 추진\"",
+          "url": "https://www.ytn.co.kr/_ln/0102_202609082302134876",
+          "source": "YTN",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "김나영": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T07:12:00+09:00",
+      "lastSeen": "2026-09-10T07:12:00+09:00",
+      "news": [
+        {
+          "title": "“머리띠 또 유행하겠네”..김나영, 패션 선두주자 답게 가을·겨울룩 찰떡 소화",
+          "url": "https://v.daum.net/v/20260909235808071",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'마이큐♥' 김나영, '뼈말라' 몸매의 정석…애엄마 안 믿기는 동안 미모",
+          "url": "https://m.news.nate.com/view/20260908n18387?mid=e01&list=recent&cpcd=",
+          "source": "네이트",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "김나영, ♥마이큐도 다시 반할 능소화 빛 아름다움",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/10/MQ2DAMTFMQ2GIMZWMRTDINZSMI/",
+          "source": "조선일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "콜레스테롤": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T07:12:00+09:00",
+      "lastSeen": "2026-09-10T07:12:00+09:00",
+      "news": [
+        {
+          "title": "“콜레스테롤 수치 낮추는 확실한 효과”… 하버드에서 밝힌 3가지 음식",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/09/09/2026090902107.html",
+          "source": "헬스조선",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "국산 귀리 하루 70g, 식후 혈당·콜레스테롤 동시 관리",
+          "url": "https://www.hkbs.co.kr/news/articleView.html?idxno=832191",
+          "source": "환경일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"고구마보다 3배 많다\"… 의외로 식이섬유 풍부한 '이 곡물'",
+          "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=66915",
+          "source": "하이닥",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "첼시": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T07:12:00+09:00",
+      "lastSeen": "2026-09-10T07:12:00+09:00",
+      "news": [
+        {
+          "title": "'0-2→6-3' 도파민 터지는 '알론소볼' 첼시, 리즈에 6-3 대역전승...웰백 멀티골+로저스 3어시스트→EFL컵 4라운드로",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/10/GRQTEMRSGM2WCZJVHA3GKMDDGE/",
+          "source": "조선일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"첼시의 수비? 어수선한 느낌\" 맨유 레전드 네빌, '3경기 7실점' 알론소의 백3 혹평…\"그래도 최소 3위, 2위도 가능할 듯\"",
+          "url": "https://m.news.nate.com/view/20260907n06449",
+          "source": "네이트",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘수비진이 너무 산만해!’ 첼시 수비에 네빌 충격 혹평...“완전히 엉망, 추가 영입 필요”",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97524",
+          "source": "포포투",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "태풍": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-10T07:12:00+09:00",
+      "lastSeen": "2026-09-10T07:12:00+09:00",
+      "news": [
+        {
+          "title": "‘일본 심상찮다’…265만명에 피난 지시, “산사태 경계해야”",
+          "url": "https://www.munhwa.com/article/11615860",
+          "source": "문화일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "하늘로 '촤악' 지하로 '콸콸'‥태풍 뒤끝 '나고야 마비'",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6850664_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "가을 폭우 덮친 일본…차량 잠기고 맨홀 역류",
+          "url": "https://www.yna.co.kr/view/MYH20260909024700038",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "원자력": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T07:12:00+09:00",
+      "lastSeen": "2026-09-10T07:12:00+09:00",
+      "news": [
+        {
+          "title": "고리원자력본부, 불법 드론 비행 방지 총력대응 체계 구축",
+          "url": "https://v.daum.net/v/qKkJmTNdAS",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "고리원전 18.5㎞ 내 불법 드론 띄우면 ‘징역형’…17일부터 처벌 강화",
+          "url": "https://www.sedaily.com/article/20088874",
+          "source": "서울경제",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "한수원 고리본부, 개정법 맞춰 불법 드론비행 방지 강화",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782558",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "아시아나항공": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T07:12:00+09:00",
+      "lastSeen": "2026-09-10T07:12:00+09:00",
+      "news": [
+        {
+          "title": "아시아나와 합병 후 ‘서열 갈등’… 대한항공 조종사노조 파업 위기",
+          "url": "https://v.daum.net/v/674bU7vmHl",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"서열 불만\" 대한항공 조종사들, 노동쟁의 조정신청",
+          "url": "https://www.ytn.co.kr/_ln/0102_202609082259409947",
+          "source": "YTN",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘조종사 서열 조종사 손으로’ 노조 주장에…대한항공 “고유 인사권으로 조정 대상 될 수 없어”",
+          "url": "https://www.donga.com/news/Economy/article/all/20260908/134627746/1",
+          "source": "동아일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "미라 안드레예바": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T07:12:00+09:00",
+      "lastSeen": "2026-09-10T07:12:00+09:00",
+      "news": [
+        {
+          "title": "오스트리아 포타포바, US 오픈 16강서 러시아 안드레예바와 맞대결",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3689074",
+          "source": "국제뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘절친' 포타포바 꺾고 마음 아파한 미라 안드레예바…“그가 넘어지는 걸 보는 건 쉽지 않았다\"",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53661",
+          "source": "테니스코리아",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘테니스 요정’ 이알라 “돈보다 亞게임 금메달 도전”",
+          "url": "https://www.donga.com/news/Sports/article/all/20260909/134630801/2",
+          "source": "동아일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "윤후": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T07:12:00+09:00",
+      "lastSeen": "2026-09-10T07:12:00+09:00",
+      "news": [
+        {
+          "title": "윤후, 결국 父윤민수 따라 가수 길 간다",
+          "url": "https://www.newsis.com/view/NISX20260909_0003783302",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'카투사 불학격' 윤후, 정식 가수 데뷔하나..성시경 '좋을텐데' 리메이크 예고 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/09/MFTDOZRQME4DCMZSMJRTSNZXGM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "“제조 과정 몰래 공개합니다”…‘카투사 탈락’ 윤민수 아들 윤후가 간 곳",
+          "url": "https://v.daum.net/v/20260908073601493",
+          "source": "Daum",
           "date": "2026-09-09"
         }
       ]
