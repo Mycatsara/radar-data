@@ -3469,10 +3469,10 @@
       ]
     },
     "베스트셀러": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T15:17:00+09:00",
-      "lastSeen": "2026-09-09T15:17:00+09:00",
+      "lastSeen": "2026-09-09T15:46:00+09:00",
       "news": [
         {
           "title": "베스트셀러 순위 올리려 1천6백 권 '사재기'‥유명 작가 기소",
@@ -3495,10 +3495,10 @@
       ]
     },
     "kbo 리그 신인 드래프트": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T15:17:00+09:00",
-      "lastSeen": "2026-09-09T15:17:00+09:00",
+      "lastSeen": "2026-09-09T15:46:00+09:00",
       "news": [
         {
           "title": "최지만 어디로 갈까…2027 KBO 신인 드래프트 21일 개최",
@@ -3517,14 +3517,26 @@
           "url": "https://www.mt.co.kr/sports/2026/09/09/2026090910032777650",
           "source": "머니투데이",
           "date": "2026-09-09"
+        },
+        {
+          "title": "KBO 신인 드래프트 오는 21일 열려…키움·두산·KIA 순 지명",
+          "url": "https://v.daum.net/v/20260909111710664",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "해외파 신인 '흑역사' 2번 겪었는데, 또 최지만 고를까?…'미움받을 용기'가 필요해 [SC포커스]",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/08/MIZTSMZUGZQWEMJWGJSTGZJUGA/",
+          "source": "조선일보",
+          "date": "2026-09-09"
         }
       ]
     },
     "은마아파트": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T15:17:00+09:00",
-      "lastSeen": "2026-09-09T15:17:00+09:00",
+      "lastSeen": "2026-09-09T15:46:00+09:00",
       "news": [
         {
           "title": "희림건축, 은마아파트 재건축 건설사업관리업체 선정",
@@ -3547,10 +3559,10 @@
       ]
     },
     "아이폰 에어": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T15:17:00+09:00",
-      "lastSeen": "2026-09-09T15:17:00+09:00",
+      "lastSeen": "2026-09-09T15:46:00+09:00",
       "news": [
         {
           "title": "애플도 마침내 '접는다'…내일 새벽 첫 폴더블 아이폰 등판",
@@ -3569,21 +3581,27 @@
           "url": "https://zdnet.co.kr/view/?no=20260909092134",
           "source": "지디넷코리아",
           "date": "2026-09-09"
+        },
+        {
+          "title": "애플, 내일 새 아이폰 발표…첫 폴더블폰 출시할지 시선집중",
+          "url": "https://v.daum.net/v/20260909142339041",
+          "source": "Daum",
+          "date": "2026-09-09"
         }
       ]
     },
     "춘천마라톤": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T15:17:00+09:00",
-      "lastSeen": "2026-09-09T15:17:00+09:00",
+      "lastSeen": "2026-09-09T15:46:00+09:00",
       "news": []
     },
     "차준환": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-09T15:17:00+09:00",
-      "lastSeen": "2026-09-09T15:17:00+09:00",
+      "lastSeen": "2026-09-09T15:46:00+09:00",
       "news": [
         {
           "title": "'김부장' 서수민, 차준환과 청춘 로맨스...'스파클' MV 주인공 - 머니투데이",
@@ -3601,6 +3619,18 @@
           "title": "‘김부장’ 소지섭 딸 서수민, 또 다른 청춘의 얼굴",
           "url": "https://sports.khan.co.kr/article/202609090939003",
           "source": "스포츠경향",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘김부장 민지’ 서수민, 차준환과 로맨스…‘너의 이름은.’ OST 리메이크 MV 출연",
+          "url": "https://v.daum.net/v/20260909102042985",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "차준환, 연기 활동 돌입…로이킴 '스파클' MV 출연",
+          "url": "https://www.dispatch.co.kr/2347634",
+          "source": "디스패치",
           "date": "2026-09-09"
         }
       ]
@@ -3627,6 +3657,110 @@
           "title": "미래에셋자산운용 “S&P500·나스닥100 조합해 월 2회 분배”",
           "url": "https://www.metroseoul.co.kr/article/20260909500177",
           "source": "메트로신문",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "최태원": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T15:46:00+09:00",
+      "lastSeen": "2026-09-09T15:46:00+09:00",
+      "news": [
+        {
+          "title": "최태원, 노소영 재산분할 7천억은 인정…나머지 2천440억만 다툰다",
+          "url": "https://v.daum.net/v/20260909133331634",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[단독] 최태원, 재산분할 재상고심서 2,440억원만 다툰다…법원에 감축 신청",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260909115306cjz",
+          "source": "연합뉴스TV",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "9440억 중 7000억 인정한 최태원…재상고 범위 2440억으로 축소",
+          "url": "https://www.donga.com/news/Economy/article/all/20260909/134634700/1",
+          "source": "동아일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "커버 드 콜": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T15:46:00+09:00",
+      "lastSeen": "2026-09-09T15:46:00+09:00",
+      "news": [
+        {
+          "title": "\"격주로 분배금 받으세요\"…S&P500커버드콜 투자 전략은? - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/09/09/2026090911413852055",
+          "source": "머니투데이",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "TIGER S&P500 커버드콜, 분배 재원 강화...원금 손실은 주의",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=310749",
+          "source": "스트레이트뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "미래에셋자산운용 “S&P500·나스닥100 조합해 월 2회 분배”",
+          "url": "https://www.metroseoul.co.kr/article/20260909500177",
+          "source": "메트로신문",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "김천시": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T15:46:00+09:00",
+      "lastSeen": "2026-09-09T15:46:00+09:00",
+      "news": [
+        {
+          "title": "코오롱인더, 반도체 기판 소재 mPPO 생산능력 확대",
+          "url": "https://www.yna.co.kr/view/AKR20260909048300003",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "코오롱인더스트리, 김천에 360억 투자…AI·6G 핵심소재 생산 본격화",
+          "url": "https://m.ekn.kr/view.php?key=20260909020352509",
+          "source": "에너지경제신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"범용 제품만으론 성장 한계\"... K화학, 반도체 소재 승부수 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/08/2026090719593371788",
+          "source": "머니투데이",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "만평": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T15:46:00+09:00",
+      "lastSeen": "2026-09-09T15:46:00+09:00",
+      "news": [
+        {
+          "title": "인천시, 해양안전 최일선 지킨 모범해양경찰 8명 표창",
+          "url": "https://www.kgnews.co.kr/mobile/article_comment.html?no=910888&comment_mode=write",
+          "source": "경기신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "인천시 연수구드림스타트 더하기통합발달센터 업무협약",
+          "url": "https://www.kgnews.co.kr/mobile/article_comment.html?no=910874&comment_mode=write",
+          "source": "경기신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "인천시 남동구, '청렴이 빛나는 순간' 청렴 전시회 개최",
+          "url": "https://www.kgnews.co.kr/mobile/article_comment.html?no=910866&comment_mode=write",
+          "source": "경기신문",
           "date": "2026-09-09"
         }
       ]
