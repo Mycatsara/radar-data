@@ -3662,10 +3662,10 @@
       ]
     },
     "최태원": {
-      "count": 2,
-      "maxTraffic": 2000,
+      "count": 3,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-09T15:46:00+09:00",
-      "lastSeen": "2026-09-09T16:14:00+09:00",
+      "lastSeen": "2026-09-09T16:42:00+09:00",
       "news": [
         {
           "title": "최태원, 노소영 재산분할 7천억은 인정…나머지 2천440억만 다툰다",
@@ -3790,10 +3790,10 @@
       ]
     },
     "한화그룹": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T16:14:00+09:00",
-      "lastSeen": "2026-09-09T16:14:00+09:00",
+      "lastSeen": "2026-09-09T16:42:00+09:00",
       "news": [
         {
           "title": "[단독]KAI 사장 \"한화에 인수될리 없어..독점시 방산 다 망해 정부가 반대\"",
@@ -3812,14 +3812,26 @@
           "url": "https://m.ekn.kr/view.php?key=20260907020021514",
           "source": "에너지경제신문",
           "date": "2026-09-09"
+        },
+        {
+          "title": "한화에 도전장 내민 미 투자사...오스탈USA 인수전 격화",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609091352231888",
+          "source": "YTN",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "미투자회사, 오스탈USA 인수의향서 제출…한화와 경쟁",
+          "url": "https://www.yna.co.kr/view/AKR20260909094700009",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
         }
       ]
     },
     "스트레티지": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T16:14:00+09:00",
-      "lastSeen": "2026-09-09T16:14:00+09:00",
+      "lastSeen": "2026-09-09T16:42:00+09:00",
       "news": [
         {
           "title": "‘비트코인 큰손’ 스트레티지, 비트코인 대신 우선주 2천5백억 매수",
@@ -3838,14 +3850,20 @@
           "url": "https://www.coindesk.com/ko/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
           "source": "CoinDesk",
           "date": "2026-09-09"
+        },
+        {
+          "title": "Strategy, 디지털 크레딧 증권 자사주 매입 프로그램 규모 20억 달러로 확대",
+          "url": "https://kr.investing.com/news/cryptocurrency-news/article-432SI-2086657",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-09"
         }
       ]
     },
     "스마트 tv": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T16:14:00+09:00",
-      "lastSeen": "2026-09-09T16:14:00+09:00",
+      "lastSeen": "2026-09-09T16:42:00+09:00",
       "news": [
         {
           "title": "LG전자 TV '꺼져도 듣는다' 의혹…LG \"주변 대화 수집 안 해\"",
@@ -3868,10 +3886,10 @@
       ]
     },
     "테트리스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T16:14:00+09:00",
-      "lastSeen": "2026-09-09T16:14:00+09:00",
+      "lastSeen": "2026-09-09T16:42:00+09:00",
       "news": [
         {
           "title": "이민자 추방, 테트리스 장벽 쌓기... 백악관이 공개한 ‘트럼프 게임’ 논란",
@@ -3889,6 +3907,136 @@
           "title": "트럼프, 게임으로 젊은층에 정책 알린다",
           "url": "https://www.koreadaily.com/article/20260904181619057",
           "source": "미주중앙일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "노동조합": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-09T16:42:00+09:00",
+      "lastSeen": "2026-09-09T16:42:00+09:00",
+      "news": [
+        {
+          "title": "삼성 노조위원장, 장인 회사에 3억대 집회용 조끼 발주 논란…\"가장 저렴했다\"",
+          "url": "https://v.daum.net/v/20260909114236353",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "삼전노조 위원장 입었던 조끼, ‘장인회사’거였다…최승호 “부당이익 없어”",
+          "url": "https://www.munhwa.com/article/11615809",
+          "source": "문화일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "최승호 삼전 노조위원장, 장인 업체와 집회조끼 납품 계약",
+          "url": "https://www.donga.com/news/Economy/article/all/20260909/134634625/2",
+          "source": "동아일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "중앙그룹": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T16:42:00+09:00",
+      "lastSeen": "2026-09-09T16:42:00+09:00",
+      "news": [
+        {
+          "title": "“돌려막기 구조 설계”···중앙그룹 채권 피해자들, 홍정도·홍석현 등 20인 형사고소",
+          "url": "https://www.khan.co.kr/article/202609091140001",
+          "source": "경향신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "중앙그룹 투자자, 홍석현 등 총수일가 고소…\"최소 325억 피해\"(종합)",
+          "url": "https://v.daum.net/v/20260909161245955",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "’중앙 회사채 불완전판매 의혹’ 신한투자증권, 회사채 순위 10위로 추락",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260909162144HcP",
+          "source": "연합뉴스TV",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "범죄": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T16:42:00+09:00",
+      "lastSeen": "2026-09-09T16:42:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 냉동창고에 가둔 직후 AI에 \"창고에 사람 있으면 어떻게 되나?\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850682_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'수십억 채무' 있던 파주 냉동창고 살인범…위조 상품권 거래 추진",
+          "url": "https://www.news1.kr/local/gyeonggi/6285253",
+          "source": "뉴스1",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[단독] 경기 파주 냉동창고 살인 사건, 범행 1주일 전 냉동창고 운반한 영상 확보",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8658802",
+          "source": "KBS 뉴스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "동아일보": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T16:42:00+09:00",
+      "lastSeen": "2026-09-09T16:42:00+09:00",
+      "news": [
+        {
+          "title": "’로또 1등 인증’ 대기업 직원…당첨금 12억 찍힌 통장 공개",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260909143928pBY",
+          "source": "연합뉴스TV",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"대기업 다니는데 로또까지\"…30대 직장인 '당첨금 12억' 인증 진짜?",
+          "url": "https://www.asiae.co.kr/article/2026090916034971087",
+          "source": "아시아경제",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "로또 1등 직장인 “빚 갚고 차 바꾸니 얼마 안남아…바로 출근했다”",
+          "url": "https://www.donga.com/news/Society/article/all/20260909/134633056/2",
+          "source": "동아일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "신한은행 채용": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T16:42:00+09:00",
+      "lastSeen": "2026-09-09T16:42:00+09:00",
+      "news": [
+        {
+          "title": "[게시판] 신한은행 하반기 신입행원 등 130여명 채용",
+          "url": "https://www.yna.co.kr/view/AKR20260909122800002",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"공채 ��어도 테크 인재는 모신다\"…은행권, AI·IT·보안 '핀셋 영입전'",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349599",
+          "source": "녹색경제신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "“초봉 7000만원이면 뭐하나”…금취생 희망고문, 왜?",
+          "url": "https://www.etnews.com/20260906000125",
+          "source": "전자신문",
           "date": "2026-09-09"
         }
       ]
