@@ -463,10 +463,10 @@
       "news": []
     },
     "barcelona vs feyenoord": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T02:12:00+09:00",
-      "lastSeen": "2026-09-10T02:41:00+09:00",
+      "lastSeen": "2026-09-10T03:16:00+09:00",
       "news": [
         {
           "title": "UEFA Champions League live updates: Barcelona begin campaign against Feyenoord",
@@ -485,14 +485,26 @@
           "url": "https://sports.yahoo.com/articles/bar-host-feyenoord-viking-ucl-152700343.html",
           "source": "Yahoo Sports",
           "date": "2026-09-09"
+        },
+        {
+          "title": "Barcelona’s predicted lineup against Feyenoord in the Champions League",
+          "url": "https://www.voiceofemirates.com/en/sport/2026/09/09/barcelonas-predicted-lineup-against-feyenoord-in-the-champions-league/",
+          "source": "صوت الإمارات",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "📸 Dancing in the rain: has Raphinha pulled off the dribble of the year? 😳",
+          "url": "https://sports.yahoo.com/articles/dancing-rain-raphinha-pulled-off-170500730.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-09"
         }
       ]
     },
     "바르셀로나 대 페예노르트": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T02:12:00+09:00",
-      "lastSeen": "2026-09-10T02:41:00+09:00",
+      "lastSeen": "2026-09-10T03:16:00+09:00",
       "news": [
         {
           "title": "\"우리는 UCL 우승할 능력 있다\" 플릭의 선전포고...'19세 주장' 야말도 \"올해는 가능하다\" - 머니투데이",
@@ -515,10 +527,10 @@
       ]
     },
     "서안": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T02:12:00+09:00",
-      "lastSeen": "2026-09-10T02:41:00+09:00",
+      "lastSeen": "2026-09-10T03:16:00+09:00",
       "news": [
         {
           "title": "영국·이스라엘, 정착촌 놓고 ‘정면충돌’···“수십년 우방 관계 최악”",
@@ -561,10 +573,10 @@
       ]
     },
     "틈만나면,": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T02:41:00+09:00",
-      "lastSeen": "2026-09-10T02:41:00+09:00",
+      "lastSeen": "2026-09-10T03:16:00+09:00",
       "news": [
         {
           "title": "존박, 알고 보니 고졸…\"'슈스케2' 출연 후 美 명문대 중퇴\"",
@@ -587,10 +599,10 @@
       ]
     },
     "뷔": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T02:41:00+09:00",
-      "lastSeen": "2026-09-10T02:41:00+09:00",
+      "lastSeen": "2026-09-10T03:16:00+09:00",
       "news": [
         {
           "title": "방탄소년단 뷔, 상의 탈의 하고 타투 새기나...월드스타의 일상 훔쳐보기",
@@ -608,6 +620,136 @@
           "title": "BTS 뷔, 멤버들과 피자 파티…식물 걱정 담은 일상 공개",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16188096",
           "source": "톱스타뉴스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "iphone": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T03:16:00+09:00",
+      "lastSeen": "2026-09-10T03:16:00+09:00",
+      "news": [
+        {
+          "title": "アップル初の折り畳み式iPhone、開発に約10年－価格は2000ドル超か",
+          "url": "https://news.yahoo.co.jp/pickup/6594706",
+          "source": "Yahoo!ニュース",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Appleオンラインストアがメンテ中に",
+          "url": "https://k-tai.watch.impress.co.jp/docs/news/2139618.html",
+          "source": "ケータイ Watch",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "【折りたたみiPhone】製品名はiPhone Ultra？ iPhone Duo？ そもそも「iPhone」なのか？",
+          "url": "https://ascii.jp/elem/000/004/433/4433337/galleryimg.html?num=3",
+          "source": "ASCII.jp",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "애플": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T03:16:00+09:00",
+      "lastSeen": "2026-09-10T03:16:00+09:00",
+      "news": [
+        {
+          "title": "\"아이폰18 사라진다…아이폰 에어2로 보급형 대체\"",
+          "url": "https://zdnet.co.kr/view/?no=20260909092134",
+          "source": "지디넷코리아",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "애플 새 선장 터너스 첫 무대…아이폰18 프로부터 확 바꿨다",
+          "url": "https://v.daum.net/v/20260910024127304",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "300만원 넘는다는데 \"그래도 살 것\"…19년 만에 '승부수' [테크로그]",
+          "url": "https://www.hankyung.com/article/202609093980g",
+          "source": "한국경제",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "보통주": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T03:16:00+09:00",
+      "lastSeen": "2026-09-10T03:16:00+09:00",
+      "news": [
+        {
+          "title": "유안타증권, 최대주주 Yuanta Securities Asia Financial Services 등 주식 1만500주 증가…최대주주 장내매수",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699423",
+          "source": "디지털투데이",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "유안타씨큐리티즈아시아파이낸셜서비시스프라이빗리미티드, 유안타증권 주식 5만2500주 ↑…지분율 57.51%",
+          "url": "https://www.datatooza.com/article/20260908171137114952ef32cfc1_80",
+          "source": "데이터투자",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "유안타증권 최대주주, 1만500주 장내매수…지분 57.57%",
+          "url": "https://www.tokenpost.kr/news/market/405067",
+          "source": "토큰포스트",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "파주 냉동창고": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T03:16:00+09:00",
+      "lastSeen": "2026-09-10T03:16:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 냉동창고에 가둔 직후 AI에 \"창고에 사람 있으면 어떻게 되나?\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850682_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[단독] \"돈 받으면 풀어주려 했다\"…‘냉동창고 살인’ 오락가락 ���술",
+          "url": "https://news.jtbc.co.kr/article/NB12317595",
+          "source": "JTBC",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'파주 냉동창고 살인' 피의자 추가 입건...유가증권 위조 적용",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609091604391582",
+          "source": "YTN",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "개���": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T03:16:00+09:00",
+      "lastSeen": "2026-09-10T03:16:00+09:00",
+      "news": [
+        {
+          "title": "이 대통령 \"내 임기 헌법상 명확히 제한\"…연임 논란 속 언급 주목",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260909205343Y7Q",
+          "source": "연합뉴스TV",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "李대통령, 연임 선긋고 개혁 속도조절 시사…내치 과제 안고 귀국길",
+          "url": "https://www.news1.kr/politics/president/6285543",
+          "source": "뉴스1",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6850728_36911.html",
+          "source": "MBC 뉴스",
           "date": "2026-09-09"
         }
       ]
