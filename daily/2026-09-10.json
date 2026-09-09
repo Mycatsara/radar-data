@@ -463,10 +463,10 @@
       "news": []
     },
     "barcelona vs feyenoord": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T02:12:00+09:00",
-      "lastSeen": "2026-09-10T03:43:00+09:00",
+      "lastSeen": "2026-09-10T04:11:00+09:00",
       "news": [
         {
           "title": "UEFA Champions League live updates: Barcelona begin campaign against Feyenoord",
@@ -501,10 +501,10 @@
       ]
     },
     "바르셀로나 대 페예노르트": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T02:12:00+09:00",
-      "lastSeen": "2026-09-10T03:43:00+09:00",
+      "lastSeen": "2026-09-10T04:11:00+09:00",
       "news": [
         {
           "title": "\"우리는 UCL 우승할 능력 있다\" 플릭의 선전포고...'19세 주장' 야말도 \"올해는 가능하다\" - 머니투데이",
@@ -522,6 +522,12 @@
           "title": "‘나이는 숫자에 불과’ 19세 야말, 바르사 최연소 주장단 합류…이번 시즌 주장은 하피냐·페드리",
           "url": "https://sports.khan.co.kr/article/202609071821003",
           "source": "스포츠경향",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "라민 야말의 음바페 '저격'인가?…\"발롱도르를 애원하지는 않을 것\", UCL에 대해선 \"팀 전체가 동기부여 됐다\"",
+          "url": "https://m.news.nate.com/view/20260909n32644",
+          "source": "Nate News",
           "date": "2026-09-09"
         }
       ]
@@ -573,10 +579,10 @@
       ]
     },
     "틈만나면,": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T02:41:00+09:00",
-      "lastSeen": "2026-09-10T03:43:00+09:00",
+      "lastSeen": "2026-09-10T04:11:00+09:00",
       "news": [
         {
           "title": "존박, 알고 보니 고졸…\"'슈스케2' 출연 후 美 명문대 중퇴\"",
@@ -599,10 +605,10 @@
       ]
     },
     "뷔": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T02:41:00+09:00",
-      "lastSeen": "2026-09-10T03:43:00+09:00",
+      "lastSeen": "2026-09-10T04:11:00+09:00",
       "news": [
         {
           "title": "방탄소년단 뷔, 상의 탈의 하고 타투 새기나...월드스타의 일상 훔쳐보기",
@@ -625,10 +631,10 @@
       ]
     },
     "iphone": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T03:43:00+09:00",
+      "lastSeen": "2026-09-10T04:11:00+09:00",
       "news": [
         {
           "title": "アップル初の折り畳み式iPhone、開発に約10年－価格は2000ドル超か",
@@ -663,10 +669,10 @@
       ]
     },
     "애플": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T03:43:00+09:00",
+      "lastSeen": "2026-09-10T04:11:00+09:00",
       "news": [
         {
           "title": "\"아이폰18 사라진다…아이폰 에어2로 보급형 대체\"",
@@ -701,10 +707,10 @@
       ]
     },
     "보통주": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T03:43:00+09:00",
+      "lastSeen": "2026-09-10T04:11:00+09:00",
       "news": [
         {
           "title": "유안타증권, 최대주주 Yuanta Securities Asia Financial Services 등 주식 1만500주 증가…최대주주 장내매수",
@@ -727,10 +733,10 @@
       ]
     },
     "파주 냉동창고": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T03:16:00+09:00",
-      "lastSeen": "2026-09-10T03:43:00+09:00",
+      "lastSeen": "2026-09-10T04:11:00+09:00",
       "news": [
         {
           "title": "[단독] 냉동창고에 가둔 직후 AI에 \"창고에 사람 있으면 어떻게 되나?\"",
@@ -754,6 +760,12 @@
           "title": "[단독] 경찰, '상품권 위조'도 입건...\"영화 촬영용 인쇄\"",
           "url": "https://www.ytn.co.kr/_cs/_ln_0103_202609100010156771_005.html",
           "source": "YTN",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[단독] 경기 파주 냉동창고 살인 사건, 범행 1주일 전 냉동창고 운반한 영상 확보",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8658802",
+          "source": "KBS 뉴스",
           "date": "2026-09-09"
         }
       ]
@@ -780,6 +792,58 @@
           "title": "이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"",
           "url": "https://imnews.imbc.com/news/2026/politics/article/6850728_36911.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "리버풀 대 아틀레티코": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T04:11:00+09:00",
+      "lastSeen": "2026-09-10T04:11:00+09:00",
+      "news": [
+        {
+          "title": "\"이강인, 액션!\" 아틀레티코 유니폼 입고 'UCL 데뷔전' 개봉박두...스페인도 집중 조명 \"그리즈만 후계자로 스포트라이트\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/10/202609092023776524O",
+          "source": "머니투데이",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘별들의 전쟁’ 시작… 불 뿜는 골잡이들",
+          "url": "https://www.munhwa.com/article/11615673",
+          "source": "문화일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "이강인부터 김민재까지, '태극전사 4인방' 내일부터 UCL 출격",
+          "url": "https://www.newsis.com/view/NISX20260908_0003780331",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "폴드8": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T04:11:00+09:00",
+      "lastSeen": "2026-09-10T04:11:00+09:00",
+      "news": [
+        {
+          "title": "갤럭시 Z8, 전작보다 8% 더 팔렸다…폴드8이 흥행 주도",
+          "url": "https://www.yna.co.kr/view/AKR20260909162700017",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "276g→201g…폴더블 아이폰 등판 직전 '7년 내공' 꺼낸 삼성",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782310",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Z 폴드8 경량화 위한 치밀한 설계… 부품 270개·부자재 180종 다시 뜯어봤다 - 조선비즈",
+          "url": "https://biz.chosun.com/it-science/ict/2026/09/09/HZO4P47IQNEDTC753TFKWIYYBA/",
+          "source": "Chosunbiz",
           "date": "2026-09-09"
         }
       ]
