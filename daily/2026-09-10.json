@@ -34,10 +34,10 @@
       ]
     },
     "제주 sk fc": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T00:13:00+09:00",
-      "lastSeen": "2026-09-10T01:43:00+09:00",
+      "lastSeen": "2026-09-10T02:12:00+09:00",
       "news": [
         {
           "title": "광주FC, K리그 역대 최다 ’연속 무승’ 불명예…강원-전북, 무승부",
@@ -56,14 +56,26 @@
           "url": "https://v.daum.net/v/2Wo4ZtsAT4",
           "source": "Daum",
           "date": "2026-09-09"
+        },
+        {
+          "title": "제주SK 18세 유승재, 손흥민 있는 LA로 간다",
+          "url": "http://www.jemin.com/news/articleView.html?idxno=842737",
+          "source": "제민일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "K리그1 제주 18세 신예 유승재, 미국 LAFC 2군으로 임대",
+          "url": "https://www.yna.co.kr/view/AKR20260909042300007",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
         }
       ]
     },
     "뉴데일리": {
-      "count": 4,
-      "maxTraffic": 1000,
+      "count": 5,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-10T00:13:00+09:00",
-      "lastSeen": "2026-09-10T01:43:00+09:00",
+      "lastSeen": "2026-09-10T02:12:00+09:00",
       "news": [
         {
           "title": "[여론조사 ‘경향’]국정 운영 지지율 첫 30%대 하락…민주당·국힘 지지율도 근접",
@@ -98,10 +110,10 @@
       ]
     },
     "이정은": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T00:13:00+09:00",
-      "lastSeen": "2026-09-10T01:43:00+09:00",
+      "lastSeen": "2026-09-10T02:12:00+09:00",
       "news": [
         {
           "title": "\"나한테 담배 가르쳐\"…유재석이 언급한 유명 배우 - 머니투데이",
@@ -330,10 +342,10 @@
       ]
     },
     "신탁": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T00:43:00+09:00",
-      "lastSeen": "2026-09-10T01:43:00+09:00",
+      "lastSeen": "2026-09-10T02:12:00+09:00",
       "news": [
         {
           "title": "큐에스아이, 20억 원 규모 자사주 매입 신탁계약 체결...주주가치 제고 및 임직원 보상 재원 확보",
@@ -368,10 +380,10 @@
       ]
     },
     "apple": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T00:43:00+09:00",
-      "lastSeen": "2026-09-10T01:43:00+09:00",
+      "lastSeen": "2026-09-10T02:12:00+09:00",
       "news": [
         {
           "title": "Apple event live updates: Foldable iPhone and watches expected",
@@ -406,10 +418,10 @@
       ]
     },
     "개헌": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-10T01:14:00+09:00",
-      "lastSeen": "2026-09-10T01:43:00+09:00",
+      "lastSeen": "2026-09-10T02:12:00+09:00",
       "news": [
         {
           "title": "[속보] 이 대통령 “제 임기, 헌법상 명확하게 제한돼 있어”···연임 개헌에 첫 입장",
@@ -443,6 +455,104 @@
       "firstSeen": "2026-09-10T01:43:00+09:00",
       "lastSeen": "2026-09-10T01:43:00+09:00",
       "news": []
+    },
+    "barcelona vs feyenoord": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T02:12:00+09:00",
+      "lastSeen": "2026-09-10T02:12:00+09:00",
+      "news": [
+        {
+          "title": "UEFA Champions League live updates: Barcelona begin campaign against Feyenoord",
+          "url": "https://www.espn.com/soccer/story/_/id/49829954/uefa-champions-league-live-updates-barcelona-feyenoord-liverpool-atletico-madrid-napoli-arsenal",
+          "source": "ESPN",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Live Updates, Scores, Highlights and Standings from the UEFA Champions League (9/9)",
+          "url": "https://bleacherreport.com/liveblogs/25497613-live-updates-scores-highlights-and-standings-uefa-champions-league-99",
+          "source": "Bleacher Report",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Barça to host Feyenoord & Viking make UCL return vs Stuttgart; more to come",
+          "url": "https://sports.yahoo.com/articles/bar-host-feyenoord-viking-ucl-152700343.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "바르셀로나 대 페예노르트": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T02:12:00+09:00",
+      "lastSeen": "2026-09-10T02:12:00+09:00",
+      "news": [
+        {
+          "title": "\"우리는 UCL 우승할 능력 있다\" 플릭의 선전포고...'19세 주장' 야말도 \"올해는 가능하다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/09/202609091409776507O",
+          "source": "머니투데이",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'07년생이 벌써 완장을' 라민 야말, 바르셀로나 '5번째 주장'으로 주장단 합류...\"나이는 중요치 않아\"",
+          "url": "https://v.daum.net/v/20260907154509768",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘나이는 숫자에 불과’ 19세 야말, 바르사 최연소 주장단 합류…이번 시즌 주장은 하피냐·페드리",
+          "url": "https://sports.khan.co.kr/article/202609071821003",
+          "source": "스포츠경향",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "서안": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T02:12:00+09:00",
+      "lastSeen": "2026-09-10T02:12:00+09:00",
+      "news": [
+        {
+          "title": "영국·이스라엘, 정착촌 놓고 ‘정면충돌’···“수십년 우방 관계 최악”",
+          "url": "https://www.khan.co.kr/article/202609091521001",
+          "source": "경향신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "사우디·UAE 등 8개국, 英 서안 정착촌 수입금지 \"환영\"",
+          "url": "https://v.daum.net/v/20260910012949941",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[속보]영 -프랑스-캐나다 정상들, 팔레스타인 \"2개국 해법\"수호 공동선언",
+          "url": "https://www.newsis.com/view/NISX20260909_0003781686",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "서��진": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T02:12:00+09:00",
+      "lastSeen": "2026-09-10T02:12:00+09:00",
+      "news": [
+        {
+          "title": "[Who Is ?] 서정진 셀트리온그룹 회장",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446427",
+          "source": "비즈니스포스트",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "세금 체납했던 서정진 내연녀, 결국 용인 아파트 경매로 매각",
+          "url": "https://v.daum.net/v/20260910000236163",
+          "source": "Daum",
+          "date": "2026-09-09"
+        }
+      ]
     }
   },
   "sections": {
