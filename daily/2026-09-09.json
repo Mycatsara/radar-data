@@ -3918,10 +3918,10 @@
       ]
     },
     "노동조합": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-09T16:42:00+09:00",
-      "lastSeen": "2026-09-09T17:42:00+09:00",
+      "lastSeen": "2026-09-09T18:42:00+09:00",
       "news": [
         {
           "title": "삼성 노조위원장, 장인 회사에 3억대 집회용 조끼 발주 논란…\"가장 저렴했다\"",
@@ -3956,10 +3956,10 @@
       ]
     },
     "중앙그룹": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T16:42:00+09:00",
-      "lastSeen": "2026-09-09T18:14:00+09:00",
+      "lastSeen": "2026-09-09T18:42:00+09:00",
       "news": [
         {
           "title": "“돌려막기 구조 설계”···중앙그룹 채권 피해자들, 홍정도·홍석현 등 20인 형사고소",
@@ -4096,10 +4096,10 @@
       ]
     },
     "레버리지": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-09T17:14:00+09:00",
-      "lastSeen": "2026-09-09T18:14:00+09:00",
+      "lastSeen": "2026-09-09T18:42:00+09:00",
       "news": [
         {
           "title": "[단독] 외국계 초단타에 판 깔아준 증권사, 상반기 1400억원 벌었다",
@@ -4124,14 +4124,20 @@
           "url": "https://www.hankyung.com/article/202609094256i",
           "source": "한국경제",
           "date": "2026-09-09"
+        },
+        {
+          "title": "[단독] '삼전닉스 레버리지'로 '외국인 초단타 세력' 활개…증권사는 최대 47배 수익 챙겨",
+          "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/09/2026090990166.html",
+          "source": "TV조선뉴스",
+          "date": "2026-09-09"
         }
       ]
     },
     "지방": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-09T18:14:00+09:00",
-      "lastSeen": "2026-09-09T18:14:00+09:00",
+      "lastSeen": "2026-09-09T18:42:00+09:00",
       "news": [
         {
           "title": "외발 지방의회, 독립 법안 없는 불합리 깨지나",
@@ -4150,21 +4156,27 @@
           "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034182",
           "source": "기호일보",
           "date": "2026-09-09"
+        },
+        {
+          "title": "경기도시군의회의장協, 17기 회장에 강상태 성남시의장 추대",
+          "url": "https://www.yna.co.kr/view/AKR20260909040900061",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
         }
       ]
     },
     "김설현": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-09T18:14:00+09:00",
-      "lastSeen": "2026-09-09T18:14:00+09:00",
+      "lastSeen": "2026-09-09T18:42:00+09:00",
       "news": []
     },
     "소나무재선충": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T18:14:00+09:00",
-      "lastSeen": "2026-09-09T18:14:00+09:00",
+      "lastSeen": "2026-09-09T18:42:00+09:00",
       "news": [
         {
           "title": "한국 기술로 소나무 살린 중국... 실패의 길로 가는 산림청 [최병성 리포트]",
@@ -4187,10 +4199,10 @@
       ]
     },
     "그린란드": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-09T18:14:00+09:00",
-      "lastSeen": "2026-09-09T18:14:00+09:00",
+      "lastSeen": "2026-09-09T18:42:00+09:00",
       "news": [
         {
           "title": "트럼프, 미 지도에 다른 국가 미국 땅으로 표시‥아이슬란드, 미 대사 초치",
@@ -4209,14 +4221,20 @@
           "url": "https://v.daum.net/v/20260909060128564",
           "source": "Daum",
           "date": "2026-09-09"
+        },
+        {
+          "title": "[밀물썰물] 달의 소유권",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026090917595580359",
+          "source": "부산일보",
+          "date": "2026-09-09"
         }
       ]
     },
     "정영숙": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-09T18:14:00+09:00",
-      "lastSeen": "2026-09-09T18:14:00+09:00",
+      "lastSeen": "2026-09-09T18:42:00+09:00",
       "news": [
         {
           "title": "[TV조선] 배우 정영숙의 건강 비결",
@@ -4234,6 +4252,64 @@
           "title": "정영숙, 80세 맞아? 남다른 유연성에 \"30대도 힘든 자세\" (퍼펙트 라이프)",
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/517728",
           "source": "iMBC 연예",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'80세' 정영숙, \"이제는 갈 준비 해야..피해 주지 말아야\" 의미심장 ('퍼펙트라이프')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/09/MJSGCNJTHAYDQZLFHEZTQMLGMI/",
+          "source": "조선일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "lg 대 한화": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T18:42:00+09:00",
+      "lastSeen": "2026-09-09T18:42:00+09:00",
+      "news": [
+        {
+          "title": "'한화 10승 투수' 대표팀 완전체 합류 미뤘다…\"9일 등판 이후 한 번 더 던진다\"",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/09/MQ4GKZJXMFQWCNJYGFSWCMRZMM/",
+          "source": "조선일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[AI프리뷰] 9일 대전 한화-LG전, 4연승 한화의 기세와 3연패 LG의 절실함",
+          "url": "https://www.newspim.com/news/view/20260909000437",
+          "source": "뉴스핌",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "노시환+문현빈은 당장 다음주부터 없는데, '한화 팬들도 궁금' 10승 대만 특급 언제 떠나나…\"아직 정해진 게 없다\"",
+          "url": "https://v.daum.net/v/20260909044251361",
+          "source": "Daum",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "한돈": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-09T18:42:00+09:00",
+      "lastSeen": "2026-09-09T18:42:00+09:00",
+      "news": [
+        {
+          "title": "추석 농축산물 할인에 1490억 원 투입…지난해보다 3배↑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971581&pWise=sub&pWiseSub=C3",
+          "source": "정책브리핑",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "李 지명철회 농담에 900억 더 태웠다…농축수산물 할인에 1930억 투입",
+          "url": "https://v.daum.net/v/20260909133131558",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "한우·한돈 50% 가격에 먹는다…정부·농협 손잡고 할인 확대",
+          "url": "https://www.kyeonggi.com/article/20260909580212",
+          "source": "경기일보",
           "date": "2026-09-09"
         }
       ]
