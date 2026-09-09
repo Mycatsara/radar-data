@@ -4315,10 +4315,10 @@
       ]
     },
     "복권": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-09T19:14:00+09:00",
-      "lastSeen": "2026-09-09T19:14:00+09:00",
+      "lastSeen": "2026-09-09T19:42:00+09:00",
       "news": [
         {
           "title": "’로또 1등 인증’ 대기업 직원…당첨금 12억 찍힌 통장 공개",
@@ -4570,6 +4570,234 @@
           "title": "\"하사 최일구 시구 명받았습니다\" 드라마 `신병` 출연 배우 남태우 9일 두산-SSG전 시구자 초청",
           "url": "https://mydaily.co.kr/page/view/2026090716394365941",
           "source": "마이데일리",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "이만기": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-09T19:42:00+09:00",
+      "lastSeen": "2026-09-09T19:42:00+09:00",
+      "news": [
+        {
+          "title": "64세 이만기, 맡겨진 세쌍둥이에 눈 질끈…아내 \"뒤늦게 황혼 육아\" 폭발(만기TV)",
+          "url": "https://m.news.nate.com/view/20260909n27925?mid=e02&list=recent&cpcd=",
+          "source": "Nate News",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "이만기, 세쌍둥이 육아 나섰는데...아내 \"얌전할 때만 보고 가\" 불만",
+          "url": "https://www.xportsnews.com/article/2193963",
+          "source": "엑스포츠뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "이만기, 세쌍둥이 손주 동시 울음 터지자 진땀...황혼 육아에 폭발한 할머니",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-09/202609090100062810004050",
+          "source": "스포츠조선",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "포항 대 김천상무": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-09T19:42:00+09:00",
+      "lastSeen": "2026-09-09T19:42:00+09:00",
+      "news": [
+        {
+          "title": "'이동 부담마저 크게 줄었다' 김천상무, 유독 강했던 포항스틸러스 원정, 이번엔 부대와 가까운 상주시민운동장에서",
+          "url": "https://v.daum.net/v/20260909092548030?t=m&x_mn=6aa0c4eeeefa53584b3a4511",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "안전조치로 상주서 홈경기…포항 스틸러스, 9일 상주시민운동장서 김천 상무와 격돌→ 다양한 이벤트 마련",
+          "url": "https://m.news.nate.com/view/20260908n25961",
+          "source": "Nate News",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[오피셜] K리그1 32R 서울-김천, ACL2 일정으로 하루 연기…\"충분한 경기 간격 확보 위함\"",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AF-k%E1%84%85%E1%85%B5%E1%84%80%E1%85%B31-32r-%E1%84%89%E1%85%A5%E1%84%8B%E1%85%AE%E1%86%AF-%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8E%E1%85%A5%E1%86%AB-acl2-%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9-%E1%84%92%E1%85%A1%E1%84%85%E1%85%AE-%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%B5--%E1%84%8E%E1%85%AE%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%B5-%E1%84%80%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8-%E1%84%92%E1%85%AA%E1%86%A8%E1%84%87%E1%85%A9-%E1%84%8B%E1%85%B1%E1%84%92%E1%85%A1%E1%86%B7/blt7ffc40f8d6136336",
+          "source": "Goal.com",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "스토킹": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T19:42:00+09:00",
+      "lastSeen": "2026-09-09T19:42:00+09:00",
+      "news": [
+        {
+          "title": "[잇슈 컬처] ‘황정민 스토킹 혐의’ 40대 여성, 1심서 벌금형",
+          "url": "https://v.daum.net/v/20260909070008613",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "“황정민에 공포심 유발”…40대女 스토커 벌금 600만원 선고",
+          "url": "https://www.donga.com/news/Society/article/all/20260908/134625483/2?gid=134625921&srev=1&regdate=20260908",
+          "source": "동아일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "황정민 소속사 \"명백한 스토킹 밝혀...사법부 판단 존중\"",
+          "url": "https://www.ytn.co.kr/_ln/0106_202609081516089932",
+          "source": "YTN",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "국가보훈부": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T19:42:00+09:00",
+      "lastSeen": "2026-09-09T19:42:00+09:00",
+      "news": [
+        {
+          "title": "보훈부･공영홈쇼핑 “취약계층 국가유공자 400가구에 생활용품 지원”",
+          "url": "https://www.munhwa.com/article/11615652",
+          "source": "문화일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "보훈부·공영홈쇼핑, 취약계층 국가유공자 400가구에 전기압력가마솥 지원",
+          "url": "https://www.newspim.com/news/view/20260909001217",
+          "source": "뉴스핌",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "국가보훈부-공영홈쇼핑, 취약 국가유공자 400가구 생활용품 지원",
+          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6284339",
+          "source": "뉴스1",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "택지": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T19:42:00+09:00",
+      "lastSeen": "2026-09-09T19:42:00+09:00",
+      "news": [
+        {
+          "title": "LH, 인천 계양테크노밸리 근린생활시설용지 최초 공급",
+          "url": "https://www.kyeongin.com/article/1770525",
+          "source": "경인일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "3년 기다린 대가 1억8000만원…본청약 분양가 줄인상 예고",
+          "url": "https://v.daum.net/v/20260908050644390",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "LH, 인천계양 실수요자 대상 근린생활시설용지 최초 공급",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363736183",
+          "source": "중부일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "강원 대 전북": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-09T19:42:00+09:00",
+      "lastSeen": "2026-09-09T19:42:00+09:00",
+      "news": [
+        {
+          "title": "징크스 깬 강원FC, 전북현대 넘어 선두권 노린다",
+          "url": "https://v.daum.net/v/20260909000802226",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[SD 강릉 라이브] 강원 준프로 최재혁, 전북전 교체명단에 이름올려…데뷔시 16세 10개월 5일로 구단 최연소 출전 기록 수립",
+          "url": "https://sports.donga.com/sports/article/all/20260909/134636286/1",
+          "source": "스포츠동아",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "누구도 안심할 수 없다…K리그 살얼음판 순위 경쟁",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260907232852JU6",
+          "source": "연합뉴스TV",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "부모": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T19:42:00+09:00",
+      "lastSeen": "2026-09-09T19:42:00+09:00",
+      "news": [
+        {
+          "title": "“오빠한테 사진 좀 보내줄래” 성착취 당한 딸…흥분한 부모 이건 절대 안됩니다 [세상&플러스]",
+          "url": "https://biz.heraldcorp.com/article/10868073",
+          "source": "헤럴드경제",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "미성년 자녀 사진 SNS에 올린 부모 68%는 ’자녀 의사 묻지 않아’",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260909132730pOW",
+          "source": "연합뉴스TV",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "SNS 이용자 절반 이상, 1년간 타인 사진·개인정보 게시·공유",
+          "url": "https://v.daum.net/v/20260909105112845",
+          "source": "Daum",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "신한투자증권": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T19:42:00+09:00",
+      "lastSeen": "2026-09-09T19:42:00+09:00",
+      "news": [
+        {
+          "title": "“돌려막기 구조 설계”···중앙그룹 채권 피해자들, 홍정도·홍석현 등 20인 형사고소",
+          "url": "https://www.khan.co.kr/article/202609091140001",
+          "source": "경향신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "중앙그룹 채권자들, 홍석현 등 총수 일가 고소",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850705_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "’중앙 회사채 불완전판매 의혹’ 신한투자증권, 회사채 순위 10위로 추락",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260909162144HcP",
+          "source": "연합뉴스TV",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "세무서": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T19:42:00+09:00",
+      "lastSeen": "2026-09-09T19:42:00+09:00",
+      "news": [
+        {
+          "title": "[동서남북] ‘부담만 큰’ 언론사 관할 세무서장, ‘인사 상 우대는 없다?’",
+          "url": "https://www.intn.co.kr/news/articleView.html?idxno=2053186",
+          "source": "Daily NTN",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "최근 영등포세무서 서장 10명, 모두 비고시 출신",
+          "url": "https://www.intn.co.kr/news/articleView.html?idxno=2053106",
+          "source": "Daily NTN",
           "date": "2026-09-09"
         }
       ]
