@@ -1137,10 +1137,10 @@
       ]
     },
     "걷기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T06:11:00+09:00",
-      "lastSeen": "2026-09-10T06:11:00+09:00",
+      "lastSeen": "2026-09-10T06:40:00+09:00",
       "news": [
         {
           "title": "하루 7500~1만 보, 조기 사망 위험 최저…못 채운다면 ‘속도’ 높여라 [바디플랜]",
@@ -1163,10 +1163,10 @@
       ]
     },
     "금양": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-10T06:11:00+09:00",
-      "lastSeen": "2026-09-10T06:11:00+09:00",
+      "lastSeen": "2026-09-10T06:40:00+09:00",
       "news": [
         {
           "title": "금양, 기장공장을 데이터센터로 물적분할 추진…상폐 돌파구",
@@ -1189,10 +1189,10 @@
       ]
     },
     "napoli vs arsenal": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-10T06:11:00+09:00",
-      "lastSeen": "2026-09-10T06:11:00+09:00",
+      "lastSeen": "2026-09-10T06:40:00+09:00",
       "news": [
         {
           "title": "Napoli vs Arsenal: UEFA Champions League stats & head-to-head",
@@ -1211,14 +1211,26 @@
           "url": "https://paininthearsenal.com/only-cristhian-mosquera-william-saliba-missing-arsenal-pre-napoli-training",
           "source": "Pain in the Arsenal",
           "date": "2026-09-09"
+        },
+        {
+          "title": "Ancelotti anuncia la lista de Brasil para medirse a Australia e India",
+          "url": "https://onefootball.com/en/video/ancelotti-anuncia-la-lista-de-brasil-para-medirse-a-australia-e-india-43430855",
+          "source": "OneFootball",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Arteta on Champions League return and Napoli trip",
+          "url": "https://www.arsenal.com/news/arteta-on-champions-league-return-and-napoli-trip-aFaYY9K7ZHLJ",
+          "source": "Arsenal.com",
+          "date": "2026-09-09"
         }
       ]
     },
     "al-nassr vs abha": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T06:11:00+09:00",
-      "lastSeen": "2026-09-10T06:11:00+09:00",
+      "lastSeen": "2026-09-10T06:40:00+09:00",
       "news": [
         {
           "title": "Is Cristiano Ronaldo playing today? Confirmed lineups for Al-Nassr vs Abha in 2026-27 Saudi Pro League season",
@@ -1235,6 +1247,12 @@
         {
           "title": "Ronaldo is not alone: Postecoglou changes Al-Nassr's plan in the absence of Felix and Coman",
           "url": "https://www.goal.com/en-za/news/ronaldo-is-not-alone-postecoglou-changes-al-nassr-s-plan-in-the-absence-of-felix-and-coman/bltc3354402b601bc2d",
+          "source": "Goal.com",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Postecoglou: We faced Abha frustrated because of Al-Ittihad, and the Ronaldo and Al-Hamdan option is good",
+          "url": "https://www.goal.com/en-za/news/postecoglou-we-faced-abha-frustrated-because-of-al-ittihad-and-the-ronaldo-and-al-hamdan-option-is-good/blt2bdb1a16eddc516c",
           "source": "Goal.com",
           "date": "2026-09-09"
         }
@@ -1288,6 +1306,162 @@
           "title": "이창용 전 한은 총재 \"원화 변동성 과도하게 우려할 필요 없어\"",
           "url": "https://bloomingbit.io/feed/news/120011",
           "source": "블루밍비트",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "เชลซี พบ ลีดส์": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T06:40:00+09:00",
+      "lastSeen": "2026-09-10T06:40:00+09:00",
+      "news": [
+        {
+          "title": "ชี้ 4 ตัวเต็งบอลน่าเชียร์ 8 ก.ย. 69 : ทีเด็ดบอลวันนี้ ลุ้น ซันเดอร์แลนด์-นิวคาสเซิ่ล ตีตั๋วบอลถ้วย",
+          "url": "https://www.siamsport.co.th/football-international/109035/",
+          "source": "Siamsport",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"อลอนโซ่\" ยังเชื่อมั่น \"เอสเตเวา\" ปีกดาวรุ่งเชลซี ต้องรักษาความกระหาย",
+          "url": "https://www.pptvhd36.com/sport/news/283122",
+          "source": "pptvhd36",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "แนะลิงค์ถ่ายทอดสดคาราบาว คัพ Carabao Cup รอบ 3 เช็กตารางแข่ง -ดูสดช่อง MONOMAX",
+          "url": "https://www.thansettakij.com/sport/668455",
+          "source": "Thansettakij",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "psg vs slovan bratislava": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T06:40:00+09:00",
+      "lastSeen": "2026-09-10T06:40:00+09:00",
+      "news": [
+        {
+          "title": "Licensable picture: PSG v SK Slovan Bratislava - UEFA Champions League",
+          "url": "https://www.reutersconnect.com/item/psg-v-sk-slovan-bratislava-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwMU1MOFBK",
+          "source": "Reuters Connect",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "LdC: Dembélé’s perfect cross for Ferran Torres",
+          "url": "https://frenchfootballweekly.com/2026/09/09/ldc-dembeles-perfect-cross-for-ferran-torres/",
+          "source": "French Football Weekly",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "On video: Paris crush Slovan with a six-goal haul, sending a strong warning in the defence of their European title",
+          "url": "https://www.goal.com/en/news/on-video-paris-thrash-slovan-with-six-goals-and-issue-a-strong-warning-in-the-defence-of-their-european-title/blt3238737fb97374e7",
+          "source": "Goal.com",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "ลิเวอร์พูล พบ อัตเลติโกมาดริด": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T06:40:00+09:00",
+      "lastSeen": "2026-09-10T06:40:00+09:00",
+      "news": [
+        {
+          "title": "การแข่งขันที่ถูก 'ห้าม' จัดขึ้นที่แอนฟิลด์ในศึกแชมเปี้ยนส์ลีกฤดูกาลหน้า",
+          "url": "https://www.vietnam.vn/th/cap-dau-bi-cam-o-anfield-tai-champions-league-mua-sau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "ลิเวอร์พูลกลับสู่แชมเปี้ยนลีก ชนะ แอตเลติโก มาดริด",
+          "url": "https://www.liverpoolfc.com/th/news/liverpool-comeback-clinches-champions-league-win-over-atletico-madrid",
+          "source": "Liverpool FC",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "LIVE ดูบอลสด ลิเวอร์พูล พบ แอตฯ มาดริด (9 ก.ย.) ถ่ายทอดสด 02.00 น. ยูฟ่า แชมเปียนส์ลีก 2026-27",
+          "url": "https://www.thairath.co.th/sport/eurofootball/uefa/2957938",
+          "source": "Thairath.co.th",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "경제 안보": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T06:40:00+09:00",
+      "lastSeen": "2026-09-10T06:40:00+09:00",
+      "news": [
+        {
+          "title": "한성숙 총리, 이시바 전 日총리 및 캐나다 상원의장 면담",
+          "url": "https://v.daum.net/v/20260909090109744",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"韓日 뭉치면 GDP 세계 3위 … 양국 경제·안보 연합 구축하자\"",
+          "url": "https://www.mk.co.kr/news/business/12148606",
+          "source": "매일경제",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "이시바 시게루 전 일본총리 접견하는 조정식 국회의장",
+          "url": "https://www.newsis.com/view/NISI20260908_0021429014",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "채무": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T06:40:00+09:00",
+      "lastSeen": "2026-09-10T06:40:00+09:00",
+      "news": [
+        {
+          "title": "[이슈저격] \"한숨 돌려\" vs \"갚은 사람만 바보?\"…코��나 소상공인 '빚 탕감'",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008745718",
+          "source": "SBS 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "채무조정 실패해도 구제…새도약기금, 장기연체 1조 추가 매입",
+          "url": "https://www.sedaily.com/article/20089108",
+          "source": "서울경제",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "캠코, 채무조정 후 '경제적 재기' 까지 돕는다",
+          "url": "https://www.fnnews.com/news/202609091827303013",
+          "source": "파이낸셜뉴스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "liverpool vs atlético madrid": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T06:40:00+09:00",
+      "lastSeen": "2026-09-10T06:40:00+09:00",
+      "news": [
+        {
+          "title": "Alineación confirmada del Atlético ante el Liverpool en Champions hoy",
+          "url": "https://as.com/futbol/champions/alineacion-confirmada-del-atletico-ante-el-liverpool-en-champions-hoy-f202609-n/",
+          "source": "Diario AS",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "🤯 ¡Anfield es suyo! El crack del Atleti alarga su racha ante Liverpool",
+          "url": "https://es-us.noticias.yahoo.com/deportes/anfield-suyo-crack-atleti-alarga-194100762.html",
+          "source": "Yahoo",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "¡GOL! anota para Atlético de Madrid. Marcos Llorente",
+          "url": "https://www.tudn.com/futbol/uefa-champions-league/gol-anota-para-atletico-de-madrid-marcos-llorente-video-2",
+          "source": "TUDN",
           "date": "2026-09-09"
         }
       ]
