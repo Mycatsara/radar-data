@@ -34,10 +34,10 @@
       ]
     },
     "제주 sk fc": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-10T00:13:00+09:00",
-      "lastSeen": "2026-09-10T00:43:00+09:00",
+      "lastSeen": "2026-09-10T01:14:00+09:00",
       "news": [
         {
           "title": "광주FC, K리그 역대 최다 ’연속 무승’ 불명예…강원-전북, 무승부",
@@ -60,10 +60,10 @@
       ]
     },
     "뉴데일리": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T00:13:00+09:00",
-      "lastSeen": "2026-09-10T00:43:00+09:00",
+      "lastSeen": "2026-09-10T01:14:00+09:00",
       "news": [
         {
           "title": "[여론조사 ‘경향’]국정 운영 지지율 첫 30%대 하락…민주당·국힘 지지율도 근접",
@@ -92,10 +92,10 @@
       ]
     },
     "이정은": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T00:13:00+09:00",
-      "lastSeen": "2026-09-10T00:43:00+09:00",
+      "lastSeen": "2026-09-10T01:14:00+09:00",
       "news": [
         {
           "title": "\"나한테 담배 가르쳐\"…유재석이 언급한 유명 배우 - 머니투데이",
@@ -150,10 +150,10 @@
       ]
     },
     "서정진": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T00:13:00+09:00",
-      "lastSeen": "2026-09-10T00:43:00+09:00",
+      "lastSeen": "2026-09-10T01:14:00+09:00",
       "news": [
         {
           "title": "[Who Is ?] 서정진 셀트리온그룹 회장",
@@ -177,6 +177,12 @@
           "title": "세금 체납했던 서정진 내연녀, 결국 용인 아파트 경매로 매각",
           "url": "https://news.tf.co.kr/read/economy/2363826.htm",
           "source": "더팩트",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "세금 체납했던 서정진 내연녀, 결국 용인 아파트 경매로 매각",
+          "url": "https://v.daum.net/v/20260910000236163",
+          "source": "Daum",
           "date": "2026-09-09"
         }
       ]
@@ -208,10 +214,10 @@
       ]
     },
     "정치인": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T00:13:00+09:00",
-      "lastSeen": "2026-09-10T00:43:00+09:00",
+      "lastSeen": "2026-09-10T01:14:00+09:00",
       "news": [
         {
           "title": "부산시선관위, 추석 전후 위법행위 예방·단속 강화",
@@ -234,10 +240,10 @@
       ]
     },
     "사이언스 투데이": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-10T00:13:00+09:00",
-      "lastSeen": "2026-09-10T00:13:00+09:00",
+      "lastSeen": "2026-09-10T01:14:00+09:00",
       "news": [
         {
           "title": "[다시보기] 9월 9일 (수) 오후 사이언스 투데이",
@@ -280,10 +286,10 @@
       ]
     },
     "언어의 온도": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T00:43:00+09:00",
-      "lastSeen": "2026-09-10T00:43:00+09:00",
+      "lastSeen": "2026-09-10T01:14:00+09:00",
       "news": [
         {
           "title": "베스트셀러가 알고 보니?…1,600권 사재기한 작가 재판행",
@@ -302,14 +308,26 @@
           "url": "https://www.donga.com/news/Society/article/all/20260909/134633643/2",
           "source": "동아일보",
           "date": "2026-09-09"
+        },
+        {
+          "title": "전국 돌며 1,600여 권 사재기‥이렇게 베스트셀러?",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850743_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "베스트셀러 순위 올리려… ‘사재기’ 작가 기소",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000010691&code=11131412&sid1=prj",
+          "source": "국민일보",
+          "date": "2026-09-09"
         }
       ]
     },
     "신탁": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-10T00:43:00+09:00",
-      "lastSeen": "2026-09-10T00:43:00+09:00",
+      "lastSeen": "2026-09-10T01:14:00+09:00",
       "news": [
         {
           "title": "큐에스아이, 20억 원 규모 자사주 매입 신탁계약 체결...주주가치 제고 및 임직원 보상 재원 확보",
@@ -328,14 +346,26 @@
           "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03332486645578480",
           "source": "마켓인",
           "date": "2026-09-09"
+        },
+        {
+          "title": "\"치매 걸리면 강남 아파트는 손자에게\"… 유언대용신탁 7조원 넘었다",
+          "url": "https://www.hankyung.com/article/202609093635i",
+          "source": "한국경제",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "치매 있어도 일상 누릴 수 있게! 예방·돌봄·재산관리 촘촘하게 돌본다",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971242",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-09"
         }
       ]
     },
     "apple": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-10T00:43:00+09:00",
-      "lastSeen": "2026-09-10T00:43:00+09:00",
+      "lastSeen": "2026-09-10T01:14:00+09:00",
       "news": [
         {
           "title": "Apple event live updates: Foldable iPhone and watches expected",
@@ -353,6 +383,44 @@
           "title": "Apple to Unveil $2,000 Foldable iPhone Duo at High-Stakes Event",
           "url": "https://www.bloomberg.com/news/articles/2026-09-09/apple-event-details-2-000-iphone-duo-apple-watch-series-12-recording-feature",
           "source": "Bloomberg.com",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Apple to Debut New Foldable iPhone, New CEO and New Prices",
+          "url": "https://www.wsj.com/tech/apple-to-debut-new-foldable-iphone-new-ceo-and-new-prices-b2485b9f",
+          "source": "WSJ",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Apple expected to unveil first folding phone, with new CEO Ternus in command",
+          "url": "https://www.reuters.com/business/retail-consumer/apple-expected-unveil-first-folding-phone-with-new-ceo-ternus-command-2026-09-09/",
+          "source": "Reuters",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "개헌": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-10T01:14:00+09:00",
+      "lastSeen": "2026-09-10T01:14:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 이 대통령 “제 임기, 헌법상 명확하게 제한돼 있어”···연임 개헌에 첫 입장",
+          "url": "https://www.khan.co.kr/article/202609091934001",
+          "source": "경향신문",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "’연임개헌’ 선그은 이 대통령…“임기 헌법상 명확히 제한“",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260910004945iAe",
+          "source": "연합뉴스TV",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6850728_36911.html",
+          "source": "MBC 뉴스",
           "date": "2026-09-09"
         }
       ]
@@ -954,6 +1022,12 @@
         "title": "허깅페이스 소형 로봇 '마이크로덕'⋯한 달 안 돼 15000대 판매",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rY2hJNE05cWtxalRJa1BWb0U0ZUZnWm9yS0dwSHVIdXlyX0dEWm9LS1FsSlpyN2s5a0hNNXE2SEY0eWNwT0VJQ0tnVQ?oc=5",
         "source": "inews24.com",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "오픈AI ‘아���트라’, ‘인간 인증’ 캡차 48단계 모두 통과",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTVhpYjJRSVZDRmNyOEpRN3FJXzh2eWpnYU9xZkoxVGlncGtMZTc2MkFwaDlIdXRITVVvaWw0emFmM1hVY2t5YTBNa3F3TDFvTkl4YjgtZVozRnlVX3otZnp1a0lWWXdsSTBUZ1htdUpvRC1EbzU2Qm1ZSU96MmV0dTQ2bw?oc=5",
+        "source": "조선일보",
         "date": "2026-09-09"
       }
     ],
