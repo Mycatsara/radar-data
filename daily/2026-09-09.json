@@ -3379,10 +3379,10 @@
       ]
     },
     "미스터 트롯": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-09T14:41:00+09:00",
-      "lastSeen": "2026-09-09T14:41:00+09:00",
+      "lastSeen": "2026-09-09T15:17:00+09:00",
       "news": [
         {
           "title": "황가람 생애 첫 트로트 도전…김용빈 견제 난리 (미스트롯 포유)",
@@ -3405,10 +3405,10 @@
       ]
     },
     "중국": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-09T14:41:00+09:00",
-      "lastSeen": "2026-09-09T14:41:00+09:00",
+      "lastSeen": "2026-09-09T15:17:00+09:00",
       "news": [
         {
           "title": "단양군, 중국 장백산 세계지질공원과 업무협약",
@@ -3427,14 +3427,26 @@
           "url": "https://www.donga.com/news/Society/article/all/20260909/134629599/2",
           "source": "동아일보",
           "date": "2026-09-09"
+        },
+        {
+          "title": "중국 황제 의복 입고 경복궁 활보하는 중국인들...영상·사진 확산",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202609091342057216_005.html",
+          "source": "YTN",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "경복궁서 한푸 입은 중국인들 '인증샷 찰칵'…우려 쏟아졌다",
+          "url": "https://www.hankyung.com/article/202609093072H",
+          "source": "한국경제",
+          "date": "2026-09-09"
         }
       ]
     },
     "이채영": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-09T14:41:00+09:00",
-      "lastSeen": "2026-09-09T14:41:00+09:00",
+      "lastSeen": "2026-09-09T15:17:00+09:00",
       "news": [
         {
           "title": "데프콘·이이경 아니었다…'나솔' PD 선택은 안정환·효연·이채영 ('계약결혼')",
@@ -3452,6 +3464,169 @@
           "title": "결혼 실험 예능 '계약결혼' 28일 첫선…'나는 솔로' PD 연출",
           "url": "https://www.yna.co.kr/view/AKR20260907036700005",
           "source": "연합뉴스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "베스트셀러": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T15:17:00+09:00",
+      "lastSeen": "2026-09-09T15:17:00+09:00",
+      "news": [
+        {
+          "title": "베스트셀러 순위 올리려 1천6백 권 '사재기'‥유명 작가 기소",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850640_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "유명 작가, 베스트셀러 순위 올리려 책 1천631권 ‘사재기’",
+          "url": "https://v.daum.net/v/20260909111411437",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "신간 순위 높이려 1600여권 사재기…유명 에세이 작가 기소",
+          "url": "https://www.donga.com/news/Society/article/all/20260909/134633643/2",
+          "source": "동아일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "kbo 리그 신인 드래프트": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-09T15:17:00+09:00",
+      "lastSeen": "2026-09-09T15:17:00+09:00",
+      "news": [
+        {
+          "title": "최지만 어디로 갈까…2027 KBO 신인 드래프트 21일 개최",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782369",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "2027 프로야구 신인 드래프트, 21일 서울 롯데호텔서 개최",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034087",
+          "source": "기호일보",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[오피셜] 키움→두산→KIA→롯데→KT→NC→삼성→SSG→한화→LG, 대망의 2027 KBO 신인 드래프트 21일 개최 '총 1280명 지원' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/09/2026090910032777650",
+          "source": "머니투데이",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "은마아파트": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T15:17:00+09:00",
+      "lastSeen": "2026-09-09T15:17:00+09:00",
+      "news": [
+        {
+          "title": "희림건축, 은마아파트 재건축 건설사업관리업체 선정",
+          "url": "https://stock.mk.co.kr/news/view/1155975",
+          "source": "매일경제 마켓",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "희림건축, 은마아파트 재건축 CM 수주…설계 이어 사업관리까지",
+          "url": "https://www.viva100.com/article/20260909500943",
+          "source": "브릿지경제",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "한미글로벌·희림, 서울 대치동 은마아파트 재건축 건설사업관리 업무 맡아",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446568",
+          "source": "비즈니스포스트",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "아이폰 에어": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-09T15:17:00+09:00",
+      "lastSeen": "2026-09-09T15:17:00+09:00",
+      "news": [
+        {
+          "title": "애플도 마침내 '접는다'…내일 새벽 첫 폴더블 아이폰 등판",
+          "url": "https://www.newsis.com/view/NISX20260908_0003781359",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "애플, 내일 새 아이폰 발표…첫 폴더블폰 출시할지 관심",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8658900",
+          "source": "KBS 뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "\"아이폰18 사라진다…아이폰 에어2로 보급형 대체\"",
+          "url": "https://zdnet.co.kr/view/?no=20260909092134",
+          "source": "지디넷코리아",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "춘천마라톤": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T15:17:00+09:00",
+      "lastSeen": "2026-09-09T15:17:00+09:00",
+      "news": []
+    },
+    "차준환": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-09T15:17:00+09:00",
+      "lastSeen": "2026-09-09T15:17:00+09:00",
+      "news": [
+        {
+          "title": "'김부장' 서수민, 차준환과 청춘 로맨스...'스파클' MV 주인공 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/09/2026090910447220581",
+          "source": "머니투데이",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "로이킴, ‘너의 이름은.’ OST ‘스파클’ 다시 부른다",
+          "url": "https://v.daum.net/v/YZvnWA8BDb",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘김부장’ 소지섭 딸 서수민, 또 다른 청춘의 얼굴",
+          "url": "https://sports.khan.co.kr/article/202609090939003",
+          "source": "스포츠경향",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "커버드 콜": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-09T15:17:00+09:00",
+      "lastSeen": "2026-09-09T15:17:00+09:00",
+      "news": [
+        {
+          "title": "\"격주로 분배금 받으세요\"…S&P500커버드콜 투자 전략은? - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/09/09/2026090911413852055",
+          "source": "머니투데이",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "TIGER S&P500 커버드콜, 분배 재원 강화...원금 손실은 주의",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=310749",
+          "source": "스트레이트뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "미래에셋자산운용 “S&P500·나스닥100 조합해 월 2회 분배”",
+          "url": "https://www.metroseoul.co.kr/article/20260909500177",
+          "source": "메트로신문",
           "date": "2026-09-09"
         }
       ]
