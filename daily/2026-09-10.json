@@ -3425,10 +3425,10 @@
       ]
     },
     "습관": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T13:13:00+09:00",
-      "lastSeen": "2026-09-10T13:42:00+09:00",
+      "lastSeen": "2026-09-10T14:12:00+09:00",
       "news": [
         {
           "title": "인천세종병원, 생활습관개선클리닉 개소…음주·금연·비만 관리",
@@ -3567,10 +3567,10 @@
       ]
     },
     "오륙도": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-10T13:42:00+09:00",
-      "lastSeen": "2026-09-10T13:42:00+09:00",
+      "lastSeen": "2026-09-10T14:12:00+09:00",
       "news": [
         {
           "title": "오륙도 실종 기관사, 100㎞ 밖 포항서 발견…인니 생존자가 “나 따라오다 빠졌다”던 ‘세컨드 엔지니어’",
@@ -3593,10 +3593,10 @@
       ]
     },
     "김하성": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T13:42:00+09:00",
-      "lastSeen": "2026-09-10T13:42:00+09:00",
+      "lastSeen": "2026-09-10T14:12:00+09:00",
       "news": [
         {
           "title": "김하성 없었으면 어쩔 뻔했나! '타율 0.068' 딛고 다저스 격침→ATL 선두 이끈 \"예상 밖 영웅\" 美 극찬",
@@ -3615,14 +3615,20 @@
           "url": "https://www.osen.co.kr/article/G1112873050",
           "source": "OSEN",
           "date": "2026-09-10"
+        },
+        {
+          "title": "‘다저스전 끝내기 안타 믿음 끝났나’ 김하성, 2G 연속 결장…ATL, TB전 2-7 완패→3연패 수렁 [ATL 리뷰] - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/09/10/GFSDMOJQGZRWKZJVGVSTQMTFHA/",
+          "source": "Chosunbiz",
+          "date": "2026-09-10"
         }
       ]
     },
     "단체교섭": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T13:42:00+09:00",
-      "lastSeen": "2026-09-10T13:42:00+09:00",
+      "lastSeen": "2026-09-10T14:12:00+09:00",
       "news": [
         {
           "title": "불 보듯 뻔했던 노란봉투법 혼란…‘카산드라 경고’가 떠오르는 이유 [기자24시]",
@@ -3640,6 +3646,162 @@
           "title": "현대차, 이 대통령 발언 근거로 “성과급은 단체교섭 대상 아냐” 주장",
           "url": "https://www.hani.co.kr/arti/society/labor/1277095.html",
           "source": "한겨레",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "미국 중간선거": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T14:12:00+09:00",
+      "lastSeen": "2026-09-10T14:12:00+09:00",
+      "news": [
+        {
+          "title": "다급해진 트럼프?…\"공화당 승리하면 1인당 5천 달러 준다\"",
+          "url": "https://news.jtbc.co.kr/article/NB12317710",
+          "source": "JTBC",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "공화당 전당대회 나선 트럼프...″공화당이 이기면 1인당 670만원 나눠줄 것″",
+          "url": "https://v.daum.net/v/20260910135209422",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "대선도 아닌데 '전당대회'?‥중간선거 앞둔 트럼프의 몸부림",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850741_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "lafc vs ny red bulls": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T14:12:00+09:00",
+      "lastSeen": "2026-09-10T14:12:00+09:00",
+      "news": [
+        {
+          "title": "Son Heung-min's Seven Shots Lead LAFC to 2-0 Victory",
+          "url": "https://www.chosun.com/english/sports-en/2026/09/10/2V53WIDHCNCDPJHF47TTBFOPKA/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Los Angeles FC - New York Red Bulls",
+          "url": "https://www.flashscore.com/match/football/los-angeles-fc-txUJt9AR/new-york-red-bulls-zV5YmQAr/summary/lineups/?mid=MBEQJUDD",
+          "source": "Flashscore.com",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Red Bull New York Add RBNY II Winger Dennis Nelich and Midfielder Sekou Kone on Short-Term Agreement Ahead of Match Against LAFC",
+          "url": "https://www.newyorkredbulls.com/news/red-bull-new-york-add-rbny-ii-winger-dennis-nelich-and-midfielder-sekou-kone-on-short-term-agreement-ahead-of-match-against-lafc",
+          "source": "Red Bull New York",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "다음 뉴스": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T14:12:00+09:00",
+      "lastSeen": "2026-09-10T14:12:00+09:00",
+      "news": [
+        {
+          "title": "쓰레기만 보냈는데 전액 환불?…\"어떻게 이러나\" 분통",
+          "url": "https://v.daum.net/v/20260910084805613",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "소주까지 마셨는데 \"벌레 나와\" 환불…쓰레기만 돌려준 배달거지 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/10/2026091011083232255",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "초밥 식었다더니…회만 쏙 골라 먹고 환불 요구에 ’분통’",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260908115157Jdb",
+          "source": "연합뉴스TV",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "캐나다 총리": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T14:12:00+09:00",
+      "lastSeen": "2026-09-10T14:12:00+09:00",
+      "news": [
+        {
+          "title": "외계인 침공하면 뭉쳐야‥트럼프 보복에 캐나다 '끝까지 간다'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850740_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "지지율, 한 번에 11%P 급등했다…역대 최고치 찍은 캐나다 총리, 비결은",
+          "url": "https://v.daum.net/v/20260910074200513",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "美 첫 수입 전면 금지…韓에도 ‘관세 압박’ 쓰일까 [글로벌 모닝 브리핑]",
+          "url": "https://www.sedaily.com/article/20089168",
+          "source": "서울경제",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "교사": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T14:12:00+09:00",
+      "lastSeen": "2026-09-10T14:12:00+09:00",
+      "news": [
+        {
+          "title": "기간제 교사 밀어내고 수당 챙겼나, ‘얌체복직’ 논란···21명은 학기 시작 맞춰 다시 휴직",
+          "url": "https://v.daum.net/v/20260910080328171",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"두 달 월급·명절수당·퇴직금까지\" 기간제 교사 울리는 '조기 복직' 실태 살펴보니",
+          "url": "https://v.daum.net/v/20260910094552568",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "「정교사 '얌체복직' 296건, 8만 기간제교원 해고 위기?」 : 사회",
+          "url": "https://news.jkn.co.kr/post/981679",
+          "source": "재경일보",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "아시안게임": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T14:12:00+09:00",
+      "lastSeen": "2026-09-10T14:12:00+09:00",
+      "news": [
+        {
+          "title": "아시안게임도 네이버 '치지직'에서 본다",
+          "url": "https://www.newsis.com/view/NISX20260910_0003784098",
+          "source": "뉴시스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"AI가 알아서 하이라이트\"…네이버, 치지직 AG 중계 AI 강화 - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/09/10/2026091010114637177",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "네이버, 아이치·나고야 아시안게임 생중계…AI로 더 편하게",
+          "url": "https://stock.mk.co.kr/news/view/1156807",
+          "source": "매일경제 마켓",
           "date": "2026-09-10"
         }
       ]
