@@ -4723,10 +4723,10 @@
       ]
     },
     "법안": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-10T17:43:00+09:00",
-      "lastSeen": "2026-09-10T17:43:00+09:00",
+      "lastSeen": "2026-09-10T18:13:00+09:00",
       "news": [
         {
           "title": "與 “선관위 특검 파견검사 수사권 폐지안 잘못 발의…철회하겠다”",
@@ -4745,14 +4745,20 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8660082",
           "source": "KBS 뉴스",
           "date": "2026-09-10"
+        },
+        {
+          "title": "[단독]민주, 선관위특검 발족 하루만 ‘파견검사 수사권’ 폐지안 발의",
+          "url": "https://v.daum.net/v/20260910112109355",
+          "source": "Daum",
+          "date": "2026-09-10"
         }
       ]
     },
     "파키스탄": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-10T17:43:00+09:00",
-      "lastSeen": "2026-09-10T17:43:00+09:00",
+      "lastSeen": "2026-09-10T18:13:00+09:00",
       "news": [
         {
           "title": "“사우디 공격 멈춰라”…파키스탄, 이란에 경고장 전달",
@@ -4770,6 +4776,12 @@
           "title": "중동 분쟁 격화에 사우디 석유 수출량 13년 만 최저치···세계 원유 시장 들썩",
           "url": "https://www.khan.co.kr/article/202609101706001",
           "source": "경향신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "호르무즈 마비에 전략적 요충지로…홍해 목줄 쥔 예멘 '페림섬'",
+          "url": "https://www.news1.kr/world/middleeast-africa/6286476",
+          "source": "뉴스1",
           "date": "2026-09-10"
         }
       ]
@@ -4825,6 +4837,195 @@
           "date": "2026-09-10"
         }
       ]
+    },
+    "엔진": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T18:13:00+09:00",
+      "lastSeen": "2026-09-10T18:13:00+09:00",
+      "news": [
+        {
+          "title": "HD현대중공업, AI 전력시장에 1조 투자…엔진 공장 증설하고 SMR 핵심설비 공장도 짓는다",
+          "url": "https://v.daum.net/v/20260910143407438",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "HD현대중공업, '힘센엔진'·SMR 전용공장 신설에 1조 투자한다(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260910092951003",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "정기선의 승부수…HD현대, 발전용 엔진과 SMR��� 1조원 쓴다 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/10/2026091015312191134",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "어머니": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T18:13:00+09:00",
+      "lastSeen": "2026-09-10T18:13:00+09:00",
+      "news": [
+        {
+          "title": "어머니 영정 앞에 나흘 늦게 도착한 아들",
+          "url": "https://v.daum.net/v/20260910095756189",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "15년째 가족 그리는 ‘평양시민’ 김련희의 눈물",
+          "url": "https://www.tongilnews.com/news/articleView.html?idxno=217409",
+          "source": "통일뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“어머니, 너무 늦게 와서 죄송합니다”… 20년 세월 눈물겨운 상봉, 그리고 슬픈 이별",
+          "url": "https://www.minplusnews.com/news/articleView.html?idxno=18322",
+          "source": "현장언론 민플러스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "인천 도시철도 2호선": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T18:13:00+09:00",
+      "lastSeen": "2026-09-10T18:13:00+09:00",
+      "news": [
+        {
+          "title": "강화남단 IFEZ 지정 1년 가까이 지연…윤재상 인천시의원 “신속 추진해야”",
+          "url": "https://www.kyeonggi.com/article/20260909580379",
+          "source": "경기일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "지연되는 강화남단 경자구역·5호선 연장… 인천시의회, 시 적극행정 촉구",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363736294",
+          "source": "중부일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"강화군은 인천시의 서자가 아니다.\"",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3690429",
+          "source": "국제뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "연방준비제도": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T18:13:00+09:00",
+      "lastSeen": "2026-09-10T18:13:00+09:00",
+      "news": [
+        {
+          "title": "로이터 설문조사…\"70%, 9월에 연준 금리동결 예상\"",
+          "url": "https://v.daum.net/v/20260910121158633",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "워시, 정책적 실수를 자초하고 있나?",
+          "url": "https://kr.investing.com/analysis/article-200458961",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "9월 FOMC 인상? 아직 가봐야 한다 [베스트 애널리스트 추천 전략]",
+          "url": "https://magazine.hankyung.com/business/article/202609032674b",
+          "source": "한경매거진&북",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "설경구": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T18:13:00+09:00",
+      "lastSeen": "2026-09-10T18:13:00+09:00",
+      "news": [
+        {
+          "title": "설경구·김재중이 가압류한 트리마제…두 번 유찰 끝 59억 낙찰",
+          "url": "https://v.daum.net/v/20260910125555754",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "설경구가 가압류한 트리마제…두 번 유찰 끝에 59억 낙찰",
+          "url": "https://ichannela.com/news/detail/000000549718.do",
+          "source": "채널A",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "설경구·김재중이 가압류한 트리마제…두 번 유찰 끝 59억 낙찰",
+          "url": "https://www.news1.kr/realestate/general/6285979",
+          "source": "뉴스1",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "김성경": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T18:13:00+09:00",
+      "lastSeen": "2026-09-10T18:13:00+09:00",
+      "news": [
+        {
+          "title": "'별거 고백' 김성령 재력가 남편 이기수, 처제 김성경 채널 등장 \"형부랑 잘맞아\" [핫피플]",
+          "url": "https://v.daum.net/v/20260910132240343",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'별거 중' 김성령 남편, 처제 김성경 유튜브 등장..\"아내가 너 제일 싫어해\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-10/202609100100071430004599",
+          "source": "스포츠조선",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "별거 중이라는 김성령 남편 깜짝 공개, 처제 김성령 지원사격 (절에 간 성경)",
+          "url": "https://m.newsen.com/news_view.php?uid=202609100849142410",
+          "source": "뉴스엔",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "추석": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T18:13:00+09:00",
+      "lastSeen": "2026-09-10T18:13:00+09:00",
+      "news": [
+        {
+          "title": "「국가데이터처, 추석 물가조사 작년 판박이」(아이뉴스24, 2026.9.10.) 보도 관련 설명자료",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148971673",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“장바구니 부담 낮춘다”...농협, 추석 농축산물 할인에 877억 투입",
+          "url": "https://m.ekn.kr/view.php?key=20260910026263180",
+          "source": "에너지경제신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "추석 연휴에도 22개 시군서 농기계임대사업소 운영",
+          "url": "https://www.yna.co.kr/view/AKR20260910086500030",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "배그": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T18:13:00+09:00",
+      "lastSeen": "2026-09-10T18:13:00+09:00",
+      "news": []
     }
   },
   "sections": {
