@@ -370,10 +370,10 @@
       ]
     },
     "구글": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-11T01:13:00+09:00",
-      "lastSeen": "2026-09-11T02:12:00+09:00",
+      "lastSeen": "2026-09-11T02:40:00+09:00",
       "news": [
         {
           "title": "구글, ‘원전 강국’ 핀란드에 20조원 AI 투자",
@@ -396,10 +396,10 @@
       ]
     },
     "유해진": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T01:13:00+09:00",
-      "lastSeen": "2026-09-11T02:12:00+09:00",
+      "lastSeen": "2026-09-11T02:40:00+09:00",
       "news": [
         {
           "title": "멜로 감독의 장르물…“육 여사 사건, 10년 전부터 만들고 싶었다”",
@@ -434,10 +434,10 @@
       ]
     },
     "히 샬리 송": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T01:13:00+09:00",
-      "lastSeen": "2026-09-11T02:12:00+09:00",
+      "lastSeen": "2026-09-11T02:40:00+09:00",
       "news": [
         {
           "title": "'토트넘과 법정 싸움 불사' 히샬리송, U-21 강등에 폭발...계약 해지 후 '어린 시절 꿈' 바스쿠행 추진",
@@ -530,10 +530,10 @@
       ]
     },
     "google": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T01:41:00+09:00",
-      "lastSeen": "2026-09-11T02:12:00+09:00",
+      "lastSeen": "2026-09-11T02:40:00+09:00",
       "news": [
         {
           "title": "Google Has Removed The Pixel Tablet From Its Store",
@@ -594,10 +594,10 @@
       ]
     },
     "채무": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T02:12:00+09:00",
-      "lastSeen": "2026-09-11T02:12:00+09:00",
+      "lastSeen": "2026-09-11T02:40:00+09:00",
       "news": [
         {
           "title": "\"'빚→주식' 못 바꾸나\"…中정부 제동에 부동산기업 채무조정 '비상'",
@@ -641,6 +641,136 @@
           "title": "엎친 데 덮친 격…박진영, ‘국회 주의→신사옥 백지화’ 위기 속 “검토 중” 입장",
           "url": "https://tvreport.co.kr/entertainment/article/1074799/",
           "source": "TV리포트",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "ucl": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T02:40:00+09:00",
+      "lastSeen": "2026-09-11T02:40:00+09:00",
+      "news": [
+        {
+          "title": "Manchester United v Sabah: Meet Azerbaijani club's coach Valdas Dambrauskas",
+          "url": "https://www.bbc.com/sport/football/articles/cvgy8w548yyo",
+          "source": "BBC",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "LIVE: Manchester United vs Sabah – UEFA Champions League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league",
+          "source": "Al Jazeera",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Who will start v Sabah? Make your predictions...",
+          "url": "https://www.manutd.com/en/news/who-will-start-v-sabah-make-your-predictions",
+          "source": "Official Manchester United Website",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "유가": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T02:40:00+09:00",
+      "lastSeen": "2026-09-11T02:40:00+09:00",
+      "news": [
+        {
+          "title": "[글로벌증시] 유가·국채 금리 급등에 뉴욕증시 일제 하락",
+          "url": "https://www.yna.co.kr/view/MYH20260910002800038",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "WTI 국제유가 100달러 돌파…중동전쟁 장기화 우려에 급등",
+          "url": "https://www.newsis.com/view/NISX20260911_0003785076",
+          "source": "뉴시스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "유가 치솟자 금융시장 흔들… 추석앞 물가관리 비상",
+          "url": "https://v.daum.net/v/20260911003157992",
+          "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "먹방": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T02:40:00+09:00",
+      "lastSeen": "2026-09-11T02:40:00+09:00",
+      "news": [
+        {
+          "title": "‘120만’ 먹방 유튜버, 24세에 사망…“반복적 폭식에 ‘이 수치’ 뚝” [월드픽]",
+          "url": "https://www.seoul.co.kr/news/international/2026/09/09/20260909500382",
+          "source": "서울신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"삭힌 오리알 70개씩 먹었다\"…24살 먹방 인플루언서 '칼륨 손실' 사망",
+          "url": "https://v.daum.net/v/z9Yx8JqF1G",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘중국판 쯔양’ 120만 인플루언서 비보에… “극한 폭식 괜찮나?”비판 점화",
+          "url": "https://sports.khan.co.kr/article/202609092332003",
+          "source": "스포츠경향",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "ai": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T02:40:00+09:00",
+      "lastSeen": "2026-09-11T02:40:00+09:00",
+      "news": [
+        {
+          "title": "Opinion | Big Tech Fooled America Once. The Second Time’s Not Going So Well.",
+          "url": "https://www.nytimes.com/2026/09/10/opinion/ai-big-tech-america-politics.html",
+          "source": "The New York Times",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Editorial: R-E-S-P-E-C-T is the only way for AI advocates to deal with data center haters",
+          "url": "https://www.chicagotribune.com/2026/09/10/editorial-artificial-intelligence-data-centers-opposition-technology-industry-finance/",
+          "source": "Chicago Tribune",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "How AI can put out its PR dumpster fire",
+          "url": "https://www.ft.com/content/115c886f-23e4-4a8d-9656-5d7fc9480803?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "송창식": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T02:40:00+09:00",
+      "lastSeen": "2026-09-11T02:40:00+09:00",
+      "news": [
+        {
+          "title": "“감옥에서 이익 많이 봤다”…송창식이 21일간 수감됐던 사연",
+          "url": "https://v.daum.net/v/20260910130840004?f=p",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "송창식, 설치법 위반으로 21일 간 수감…\"홍콩에서 공연하던 중 귀국해 감옥행\" - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/10/HEYDQOLEMVSGKY3DGE3TCOBTGM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "송창식, 홍콩 공연 귀�� 도중 수감…무슨 일? (데이앤나잇)",
+          "url": "https://sports.donga.com/ent/article/all/20260910/134640396/1",
+          "source": "스포츠동아",
           "date": "2026-09-10"
         }
       ]
@@ -1176,6 +1306,12 @@
         "title": "\"한국이 유일한 대안\" 제 2의 전성기 온다…목표가 줄상향",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyT1N1ZnVuc2hXeHRzRkJCVDJNMkhKYUViWk9TeU56Ym5kSzU4Tm51Yko1UzJGckVoVUU5UWlCRFBudXQ1Z05fSWR1dHUyZ3NVN2tEOVFTWTk1dw?oc=5",
         "source": "한국경제",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "“1회 보다 말았다” “12회는 너무 길다” 이런 사람 많다더니…중국 ‘공습’에 국내 OTT 초긴장",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CcFFhNHp0NUxiYVlfaUNPV1BmY3lESDNEN0lMcWk1NzRaOWVxa2tGc09HZnF2TTdlN0Q5TkJlQTMzLVlwa05BZlI0bUdUcFk?oc=5",
+        "source": "v.daum.net",
         "date": "2026-09-10"
       }
     ],
