@@ -2387,10 +2387,10 @@
       ]
     },
     "아시안 게임 배드민턴": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-10T09:18:00+09:00",
-      "lastSeen": "2026-09-10T09:18:00+09:00",
+      "lastSeen": "2026-09-10T09:45:00+09:00",
       "news": [
         {
           "title": "'日에서 神으로 추앙' 韓 전설의 당황·복잡한 감정 \"20년 동고동락, 이제 적이라니 부담이네요\"",
@@ -2409,14 +2409,26 @@
           "url": "https://www.newsis.com/view/NISI20260908_0021429041",
           "source": "뉴시스",
           "date": "2026-09-09"
+        },
+        {
+          "title": "'日에서 神으로 추앙' 韓 전설의 당황·복잡한 감정 \"20년 동고동락, 이제 적이라니 부담이네요\"",
+          "url": "https://v.daum.net/v/20260909084800233",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "AG 메달 사냥 나서는 배드민턴 국가대표팀",
+          "url": "https://www.newsis.com/view/NISI20260908_0021428741",
+          "source": "뉴시스",
+          "date": "2026-09-09"
         }
       ]
     },
     "애플워치": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T09:18:00+09:00",
-      "lastSeen": "2026-09-10T09:18:00+09:00",
+      "lastSeen": "2026-09-10T09:45:00+09:00",
       "news": [
         {
           "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
@@ -2435,14 +2447,20 @@
           "url": "https://www.cnet.com/tech/mobile/apple-redesigned-health-app/",
           "source": "CNET",
           "date": "2026-09-09"
+        },
+        {
+          "title": "The Apple Watch Ultra 4 Brings Siri AI, Live Recording Features to More Places",
+          "url": "https://www.cnet.com/tech/mobile/the-apple-watch-ultra-4-brings-siri-ai-live-recording-features-to-more-places/",
+          "source": "CNET",
+          "date": "2026-09-09"
         }
       ]
     },
     "우규민": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T09:18:00+09:00",
-      "lastSeen": "2026-09-10T09:18:00+09:00",
+      "lastSeen": "2026-09-10T09:45:00+09:00",
       "news": [
         {
           "title": "'LG→삼성→KT' 프로 23년차 베테랑 철완에 우승 명장 극찬 \"우규민 정말 대단! 선발까지 했는데 902G나 던졌다\" - 머니투데이",
@@ -2465,10 +2483,10 @@
       ]
     },
     "ios27": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T09:18:00+09:00",
-      "lastSeen": "2026-09-10T09:18:00+09:00",
+      "lastSeen": "2026-09-10T09:45:00+09:00",
       "news": [
         {
           "title": "Apple releases iOS 27 RC ahead of public launch",
@@ -2491,10 +2509,10 @@
       ]
     },
     "이정후": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T09:18:00+09:00",
-      "lastSeen": "2026-09-10T09:18:00+09:00",
+      "lastSeen": "2026-09-10T09:45:00+09:00",
       "news": [
         {
           "title": "이정후, 극적인 동점 2타점 2루타…멀티히트로 타율 0.281",
@@ -2512,6 +2530,18 @@
           "title": "샌프란시스코 이정후, 대타 출전해 무안타…타율 0.279",
           "url": "https://www.yna.co.kr/view/AKR20260909105200007",
           "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "이정후, 동점 2타점 2루타에 역전 득점까지…'대역전극' 주역",
+          "url": "https://www.news1.kr/sports/overseas-baseball/6285717",
+          "source": "뉴스1",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'대타' 이정후, 세인트루이스전 만루 찬스서 침묵…타율 0.279",
+          "url": "https://v.daum.net/v/20260909134154980",
+          "source": "Daum",
           "date": "2026-09-09"
         }
       ]
@@ -2543,10 +2573,10 @@
       ]
     },
     "에코프로": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T09:18:00+09:00",
-      "lastSeen": "2026-09-10T09:18:00+09:00",
+      "lastSeen": "2026-09-10T09:45:00+09:00",
       "news": [
         {
           "title": "에코프로비엠 주가, 9월 9일 114,900원 9.64% 상승 마감",
@@ -2642,6 +2672,110 @@
           "title": "Alexis Mac Allister makes his point as Liverpool fight back to defeat Atlético",
           "url": "https://www.theguardian.com/football/2026/sep/09/liverpool-atletico-madrid-champions-league-match-report",
           "source": "The Guardian",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "차태현": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T09:45:00+09:00",
+      "lastSeen": "2026-09-10T09:45:00+09:00",
+      "news": [
+        {
+          "title": "차태현 “술 끊은 지 3년…무알코올 맥주 마시다 자연스럽게 금주”",
+          "url": "https://v.daum.net/v/20260910063154641",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "'엔터사 대표' 된 차태현 \"김숙 영입? 3년치 매출 봐야…같이 망하면 안되니까\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6285680",
+          "source": "뉴스1",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "차태현, 차차차기작 바쁜 근황..\"소속��� 대표 되고, 마인드 고쳐먹어\" (비보티비)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/09/MNQWEMRWGI2GIYZWMJTDQMTDGQ/",
+          "source": "조선일보",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "메타 뮤즈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T09:45:00+09:00",
+      "lastSeen": "2026-09-10T09:45:00+09:00",
+      "news": [
+        {
+          "title": "2000억원 연봉 제안도 못 붙잡았다…AI 스타 연구자들, 빅테크 잇단 이탈",
+          "url": "https://v.daum.net/v/20260910081242413",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "베센트 카드 안 통했다? 'AI 에이전트'시대 연 메타…\"인류 멸망 확률 10%\" [김현석의 월스트리트나우]",
+          "url": "https://www.hankyung.com/article/202609105159i",
+          "source": "한국경제",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "여행 예약·결제까지 하는 ‘뮤즈’ 출시…‘에이전트 AI’ 경쟁 뛰어든 메타",
+          "url": "https://www.khan.co.kr/article/202609092041005",
+          "source": "경향신문",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "유가": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T09:45:00+09:00",
+      "lastSeen": "2026-09-10T09:45:00+09:00",
+      "news": [
+        {
+          "title": "유가 다시 100달러 돌파…국채금리까지 증시 압박[뉴욕마감] - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/10/2026091005583082882",
+          "source": "머니투데이",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "[특징주] 국제유가 100달러 돌파에 정유주 줄줄이 급등",
+          "url": "https://www.yna.co.kr/view/AKR20260910038600008",
+          "source": "연합뉴스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "미·이란 격돌 홍해로 번져‥사우디·후티 전면전",
+          "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6850771_36989.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "레이스 대 브레이브스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T09:45:00+09:00",
+      "lastSeen": "2026-09-10T09:45:00+09:00",
+      "news": [
+        {
+          "title": "김하성 없었으면 어쩔 뻔했나! '타율 0.068' 딛고 다저스 격침→ATL 선두 이끈 \"예상 밖 영웅\" 美 극찬",
+          "url": "https://v.daum.net/v/20260910044207202",
+          "source": "Daum",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "홈런 3방 맞은 애틀랜타, 탬파베이에 1-7 패배…김하성 결장",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782251",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "애틀랜타 김하성, 3타수 무안타 2삼진…타율 0.110",
+          "url": "https://www.yna.co.kr/view/AKR20260908013600007",
+          "source": "연합뉴스",
           "date": "2026-09-09"
         }
       ]
