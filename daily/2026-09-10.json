@@ -2387,10 +2387,10 @@
       ]
     },
     "아시안 게임 배드민턴": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T09:18:00+09:00",
-      "lastSeen": "2026-09-10T10:12:00+09:00",
+      "lastSeen": "2026-09-10T10:42:00+09:00",
       "news": [
         {
           "title": "'日에서 神으로 추앙' 韓 전설의 당황·복잡한 감정 \"20년 동고동락, 이제 적이라니 부담이네요\"",
@@ -2425,10 +2425,10 @@
       ]
     },
     "애플워치": {
-      "count": 3,
-      "maxTraffic": 100,
+      "count": 4,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-10T09:18:00+09:00",
-      "lastSeen": "2026-09-10T10:12:00+09:00",
+      "lastSeen": "2026-09-10T10:42:00+09:00",
       "news": [
         {
           "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
@@ -2453,14 +2453,20 @@
           "url": "https://www.cnet.com/tech/mobile/the-apple-watch-ultra-4-brings-siri-ai-live-recording-features-to-more-places/",
           "source": "CNET",
           "date": "2026-09-09"
+        },
+        {
+          "title": "Apple Takes on AI Wearables With Always-Listening Watch Features",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-09/apple-takes-on-ai-wearables-with-always-listening-watch-features",
+          "source": "Bloomberg.com",
+          "date": "2026-09-09"
         }
       ]
     },
     "우규민": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T09:18:00+09:00",
-      "lastSeen": "2026-09-10T10:12:00+09:00",
+      "lastSeen": "2026-09-10T10:42:00+09:00",
       "news": [
         {
           "title": "'LG→삼성→KT' 프로 23년차 베테랑 철완에 우승 명장 극찬 \"우규민 정말 대단! 선발까지 했는데 902G나 던졌다\" - 머니투데이",
@@ -2509,10 +2515,10 @@
       ]
     },
     "이정후": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T09:18:00+09:00",
-      "lastSeen": "2026-09-10T09:45:00+09:00",
+      "lastSeen": "2026-09-10T10:42:00+09:00",
       "news": [
         {
           "title": "이정후, 극적인 동점 2타점 2루타…멀티히트로 타율 0.281",
@@ -2677,10 +2683,10 @@
       ]
     },
     "차태현": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T09:45:00+09:00",
-      "lastSeen": "2026-09-10T10:12:00+09:00",
+      "lastSeen": "2026-09-10T10:42:00+09:00",
       "news": [
         {
           "title": "차태현 “술 끊은 지 3년…무알코올 맥주 마시다 자연스럽게 금주”",
@@ -2703,10 +2709,10 @@
       ]
     },
     "메타 뮤즈": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T09:45:00+09:00",
-      "lastSeen": "2026-09-10T10:12:00+09:00",
+      "lastSeen": "2026-09-10T10:42:00+09:00",
       "news": [
         {
           "title": "2000억원 연봉 제안도 못 붙잡았다…AI 스타 연구자들, 빅테크 잇단 이탈",
@@ -2729,10 +2735,10 @@
       ]
     },
     "유가": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T09:45:00+09:00",
-      "lastSeen": "2026-09-10T10:12:00+09:00",
+      "lastSeen": "2026-09-10T10:42:00+09:00",
       "news": [
         {
           "title": "유가 다시 100달러 돌파…국채금리까지 증시 압박[뉴욕마감] - 머니투데이",
@@ -2757,14 +2763,20 @@
           "url": "https://m.ekn.kr/view.php?key=20260910022162940",
           "source": "에너지경제신문",
           "date": "2026-09-09"
+        },
+        {
+          "title": "모건스탠리 \"전쟁 피로감에 석유 트레이더들 장기 베팅 회피\" By The Guru",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2089269",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-09"
         }
       ]
     },
     "레이스 대 브레이브스": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T09:45:00+09:00",
-      "lastSeen": "2026-09-10T10:12:00+09:00",
+      "lastSeen": "2026-09-10T10:42:00+09:00",
       "news": [
         {
           "title": "김하성 없었으면 어쩔 뻔했나! '타율 0.068' 딛고 다저스 격침→ATL 선두 이끈 \"예상 밖 영웅\" 美 극찬",
@@ -2787,10 +2799,10 @@
       ]
     },
     "자산": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-10T10:12:00+09:00",
-      "lastSeen": "2026-09-10T10:12:00+09:00",
+      "lastSeen": "2026-09-10T10:42:00+09:00",
       "news": [
         {
           "title": "\"빚이 곧 자산증식 기회더라\"…가계빚 2천조 시대의 단면",
@@ -2808,6 +2820,18 @@
           "title": "”��부, ‘대출 정책’ 다시 보라!” 전문가 탄식, 가난할수록 고금리로 몰리는 규제의 역설",
           "url": "https://www.ytn.co.kr/_ln/0103_202609080851042142",
           "source": "YTN",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "같은 비트코인 투자도 수익률 다르다?…직접투자·ETF·트레저리株 세금 차이",
+          "url": "https://v.daum.net/v/20260909111443460",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[코인 과세⑦] 이재명이 힘 실은 금투세 폐지…코인은 왜?",
+          "url": "https://www.dailian.co.kr/news/view/1688282/%EC%BD%94%EC%9D%B8-%EA%B3%BC%EC%84%B8%E2%91%A6-%EC%9D%B4%EC%9E%AC%EB%AA%85-%ED%9E%98-%EC%8B%A4%EC%9D%80-%EA%B8%88%ED%88%AC%EC%84%B8-2026",
+          "source": "데일리안",
           "date": "2026-09-10"
         }
       ]
@@ -2835,6 +2859,32 @@
           "url": "https://www.newsis.com/view/NISX20260909_0003782310",
           "source": "뉴시스",
           "date": "2026-09-09"
+        }
+      ]
+    },
+    "알렉산더 즈베레프": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T10:42:00+09:00",
+      "lastSeen": "2026-09-10T10:42:00+09:00",
+      "news": [
+        {
+          "title": "'브레이크도, 미니브레이크도 허용하지 않는다' 즈베레프, 무결점 경기력으로 8강 진출",
+          "url": "https://v.daum.net/v/20260908140552354",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'엄청난 내구성과 회복력' 즈베레프는 이 시대의 금강불괴",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53637",
+          "source": "테니스코리아",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "즈베레프, 4대 ���이저 모두 8강…US오픈 첫 우승 정조준",
+          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19415",
+          "source": "테니스피플",
+          "date": "2026-09-10"
         }
       ]
     }
