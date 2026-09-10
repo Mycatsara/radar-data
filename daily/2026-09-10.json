@@ -4517,10 +4517,10 @@
       ]
     },
     "노동자": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-10T17:14:00+09:00",
-      "lastSeen": "2026-09-10T17:14:00+09:00",
+      "lastSeen": "2026-09-10T17:43:00+09:00",
       "news": [
         {
           "title": "HL만도 하청노동자 49재에 유족 무기한 농성 돌입…노동부 장관 면담 요구",
@@ -4539,14 +4539,20 @@
           "url": "https://v.daum.net/v/99ElQj4qpD",
           "source": "Daum",
           "date": "2026-09-10"
+        },
+        {
+          "title": "중대재해 사고조사 과�� 및 결과 정보공개청구 유가족 기자회견",
+          "url": "https://m.news.nate.com/view/20260907n20072?mid=m03",
+          "source": "Nate News",
+          "date": "2026-09-10"
         }
       ]
     },
     "이준수": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T17:14:00+09:00",
-      "lastSeen": "2026-09-10T17:14:00+09:00",
+      "lastSeen": "2026-09-10T17:43:00+09:00",
       "news": [
         {
           "title": "\"이준수 보고 황재균 '이 XX 잡는다'고…'술래게임' 결승전 후 대성통곡\"",
@@ -4565,14 +4571,20 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/10/G4ZDGNJRGUZDSY3BHA4WIYZZGA/",
           "source": "조선일보",
           "date": "2026-09-10"
+        },
+        {
+          "title": "'피의 게임' 현정완 PD, 디즈니플러스 새 예능 '술래게임' 론칭",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02889686645576840&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-10"
         }
       ]
     },
     "두산퓨얼셀": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T17:14:00+09:00",
-      "lastSeen": "2026-09-10T17:14:00+09:00",
+      "lastSeen": "2026-09-10T17:43:00+09:00",
       "news": [
         {
           "title": "\"두산퓨얼셀, 주가에 '미국 진출' 미반영…목표가 73% 상향\"[클릭 e종목]",
@@ -4595,10 +4607,10 @@
       ]
     },
     "토마호크": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T17:14:00+09:00",
-      "lastSeen": "2026-09-10T17:14:00+09:00",
+      "lastSeen": "2026-09-10T17:43:00+09:00",
       "news": [
         {
           "title": "토마호크 10분 1가격 '앤섬', 세계 방산 흔든다",
@@ -4621,10 +4633,10 @@
       ]
     },
     "병역 기피": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T17:14:00+09:00",
-      "lastSeen": "2026-09-10T17:14:00+09:00",
+      "lastSeen": "2026-09-10T17:43:00+09:00",
       "news": [
         {
           "title": "군 내 당 조직의 조화와 통일성을 확보하기 위해 규정을 수정 및 보완한다.",
@@ -4647,10 +4659,10 @@
       ]
     },
     "lng선": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T17:14:00+09:00",
-      "lastSeen": "2026-09-10T17:14:00+09:00",
+      "lastSeen": "2026-09-10T17:43:00+09:00",
       "news": [
         {
           "title": "[단독] 조선사-가스公, LNG 화물창 국산화 재도전",
@@ -4668,6 +4680,18 @@
           "title": "'껍데기만 1위' 굴레 벗는다…'FLNG' 원천기술 자립 선언",
           "url": "https://www.nocutnews.co.kr/news/6573610",
           "source": "노컷뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "한화오션, 러 LNG선 건조 관련 두 번째 피소…\"청구액 1.37조원\"",
+          "url": "https://v.daum.net/v/20260909232652865",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "러시아 제재 후폭풍에 한화·삼성重 ‘소송 몸살’…수조원대 국제중재",
+          "url": "https://supple.kr/news/cmtl8qdof000bsg34ws5smyne",
+          "source": "https://spt.co.kr/",
           "date": "2026-09-10"
         }
       ]
@@ -4694,6 +4718,110 @@
           "title": "에바 \"한국에서 약쟁이도, 바람둥이도 만나봐…지금 남편은 잘 만나\"",
           "url": "https://www.news1.kr/entertain/celebrity-topic/6286126",
           "source": "뉴스1",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "법안": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T17:43:00+09:00",
+      "lastSeen": "2026-09-10T17:43:00+09:00",
+      "news": [
+        {
+          "title": "與 “선관위 특검 파견검사 수사권 폐지안 잘못 발의…철회하겠다”",
+          "url": "https://www.donga.com/news/Politics/article/all/20260910/134644396/1",
+          "source": "동아일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "3·15의거 관련자 단체 \"특검, 선거관리 부실 철저히 규명해야\"",
+          "url": "https://www.yna.co.kr/view/AKR20260909118100052",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "정점식, 민주당 ‘파견검사 ���사권 박탈’ 법안에 “‘깡통 선관위 특검’ 흉계”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8660082",
+          "source": "KBS 뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "파키스탄": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T17:43:00+09:00",
+      "lastSeen": "2026-09-10T17:43:00+09:00",
+      "news": [
+        {
+          "title": "“사우디 공격 멈춰라”…파키스탄, 이란에 경고장 전달",
+          "url": "https://v.daum.net/v/20260910070608662",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"후티·이라크 친이란 민병대 결탁\"…이란 '대리전' 전술 바꿨나",
+          "url": "https://www.yna.co.kr/view/AKR20260909153100079",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "중동 분쟁 격화에 사우디 석유 수출량 13년 만 최저치···세계 원유 시장 들썩",
+          "url": "https://www.khan.co.kr/article/202609101706001",
+          "source": "경향신문",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "박스오피스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T17:43:00+09:00",
+      "lastSeen": "2026-09-10T17:43:00+09:00",
+      "news": [
+        {
+          "title": "[매경포럼] 아날로그 장인정신의 반격",
+          "url": "https://v.daum.net/v/20260910171207944",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[핫클립] “극장 암흑기 끝?”…코로나 전 99% 회복했다",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8659040",
+          "source": "KBS 뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "기세 꺾인 '오디세이', 이젠 하루 7만명대…그럼에도 요지부동 1위 [박스오피스] - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/10/2026091009327261885",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "리브 골프": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T17:43:00+09:00",
+      "lastSeen": "2026-09-10T17:43:00+09:00",
+      "news": [
+        {
+          "title": "'파산신청' LIV골프, 안병훈에게도 빚졌다…법원 제출 문서 들여다보니",
+          "url": "https://www.chosun.com/sports/golf/2026/09/10/MI3TKMJTGU4TMMBTMIZDSYZUGE/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "사우디 돈줄 끊긴 LIV골프, 1.3조 부채에 결국 법정관리 신청",
+          "url": "https://www.donga.com/news/Inter/article/all/20260909/134633138/1",
+          "source": "동아일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'재정난' LIV골프, 법원에 파산 보호 신청",
+          "url": "https://v.daum.net/v/20260910053513785",
+          "source": "Daum",
           "date": "2026-09-10"
         }
       ]
