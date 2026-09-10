@@ -110,10 +110,10 @@
       ]
     },
     "이정은": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T00:13:00+09:00",
-      "lastSeen": "2026-09-10T20:13:00+09:00",
+      "lastSeen": "2026-09-10T20:41:00+09:00",
       "news": [
         {
           "title": "\"나한테 담배 가르쳐\"…유재석이 언급한 유명 배우 - 머니투데이",
@@ -5334,10 +5334,10 @@
       ]
     },
     "한화 대 ssg": {
-      "count": 2,
-      "maxTraffic": 5000,
+      "count": 3,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-10T19:42:00+09:00",
-      "lastSeen": "2026-09-10T20:13:00+09:00",
+      "lastSeen": "2026-09-10T20:41:00+09:00",
       "news": [
         {
           "title": "[한번에쓱] '선선한 가을밤에 역투를 펼치다!' 한화 박준영 - 머니투데이",
@@ -5355,6 +5355,18 @@
           "title": "[10일 프리뷰] SSG 구세주 아���라, 시즌 6승 도전",
           "url": "https://www.osen.co.kr/article/G1112873041",
           "source": "OSEN",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[사진]아빌라,'정준재 수비 끝내준다' - 조선비즈",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/09/10/GMYDAZLFHE2WGZTBGRRWCNRWMM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[AI프리뷰] 10일 인천 SSG-한화전, SSG 아빌라 '19득점' 한화 불방망이 막을 수 있나",
+          "url": "https://www.newspim.com/news/view/20260910000679",
+          "source": "뉴스핌",
           "date": "2026-09-10"
         }
       ]
@@ -5471,10 +5483,10 @@
       ]
     },
     "시장": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-10T20:13:00+09:00",
-      "lastSeen": "2026-09-10T20:13:00+09:00",
+      "lastSeen": "2026-09-10T20:41:00+09:00",
       "news": [
         {
           "title": "김민석 “서울시장·강릉 국회의원 보궐선거 99.99% 있을 것…수첩에 적힌 MS는 나”",
@@ -5497,10 +5509,10 @@
       ]
     },
     "노화": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T20:13:00+09:00",
-      "lastSeen": "2026-09-10T20:13:00+09:00",
+      "lastSeen": "2026-09-10T20:41:00+09:00",
       "news": [
         {
           "title": "노화 염증 줄이려면…설탕부터 줄여야 할까, 의사가 짚은 생활습관",
@@ -5523,10 +5535,10 @@
       ]
     },
     "일교차": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-10T20:13:00+09:00",
-      "lastSeen": "2026-09-10T20:13:00+09:00",
+      "lastSeen": "2026-09-10T20:41:00+09:00",
       "news": [
         {
           "title": "오늘보다 더 춥다…내일 아침 10도 '뚝'",
@@ -5545,14 +5557,26 @@
           "url": "https://www.ytn.co.kr/_ln/0108_202609101304083632",
           "source": "YTN",
           "date": "2026-09-10"
+        },
+        {
+          "title": "[날씨] 내일(목) 선선한 초가을 날씨…강한 바람 유의",
+          "url": "https://m.science.ytn.co.kr/weather/weather_view.php?s_mcd=1000&key=202609091537350002",
+          "source": "YTN 사이언스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "주말까지 쌀쌀한 아침…일교차 큰 가을 날씨",
+          "url": "https://v.daum.net/v/20260910193553089",
+          "source": "Daum",
+          "date": "2026-09-10"
         }
       ]
     },
     "고소": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-10T20:13:00+09:00",
-      "lastSeen": "2026-09-10T20:13:00+09:00",
+      "lastSeen": "2026-09-10T20:41:00+09:00",
       "news": [
         {
           "title": "[속보]빅뱅 출신 승리, 30대男 특수폭행 혐의 피소",
@@ -5570,6 +5594,12 @@
           "title": "빅뱅 출신 승리, 특수폭행 혐의 피소…경찰 \"아직 고소인 조사도 안해\"",
           "url": "https://www.newsis.com/view/NISX20260910_0003784966",
           "source": "뉴시스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[단독] 빅뱅 출신 승리, 30대 남성 특수폭행 혐의로 피소",
+          "url": "https://www.news1.kr/society/incident-accident/6286876",
+          "source": "뉴스1",
           "date": "2026-09-10"
         }
       ]
@@ -5648,6 +5678,104 @@
           "title": "검찰개혁추진단 前자문위원장 \"경찰 수사 점검도 색안경 끼고 막나\"",
           "url": "https://imnews.imbc.com/news/2026/society/article/6850947_36918.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "안성훈": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T20:41:00+09:00",
+      "lastSeen": "2026-09-10T20:41:00+09:00",
+      "news": [
+        {
+          "title": "“방송사고” 비명…안성훈·손빈아 무대 중 돌발 상황 (미스트롯 포유)",
+          "url": "https://sports.donga.com/ent/article/all/20260910/134643772/1",
+          "source": "스포츠동아",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "춘길, \"이렇게 더는 못하겠다\"라며 은퇴 선언…대체 무슨 일? (미스트롯포유) - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/10/GU2DKMZZGJQWINZXMM3GGMBRGE/",
+          "source": "Chosunbiz",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘미스트롯 포유’ 춘길, 돌연 은퇴 선언",
+          "url": "https://v.daum.net/v/20260910131442140?f=m",
+          "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "화산분화": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T20:41:00+09:00",
+      "lastSeen": "2026-09-10T20:41:00+09:00",
+      "news": [
+        {
+          "title": "인니 화산 분화 취재하던 사진기자 5명 등 8명 해상서 실종",
+          "url": "https://v.daum.net/v/20260910104709130",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[포착] 수백㎞ 뻗어나간 지옥의 흰 연기…NASA 위성이 촬영한 인도네시아 화산",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260910601015",
+          "source": "나우뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "두 달째 불타는 산, 화산까지 분화…인도네시아 ‘복합 재난’ 비상",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1276825.html",
+          "source": "한겨레",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "메이플 블루아카이브": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T20:41:00+09:00",
+      "lastSeen": "2026-09-10T20:41:00+09:00",
+      "news": [
+        {
+          "title": "선생님, 헤네시스 출장입니다!…메이플·블루 아카 11월 컬래버",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317628",
+          "source": "월요신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“신창섭님 이거 메이플 나우 맞나요? 쇼케이스인줄...”",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111373",
+          "source": "게임톡",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "배그 주술회전": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T20:41:00+09:00",
+      "lastSeen": "2026-09-10T20:41:00+09:00",
+      "news": [
+        {
+          "title": "패치 노트 - 업데이트 43.1 - 뉴스 - PUBG: 배틀그라운드",
+          "url": "https://www.pubg.com/ko/news/11057",
+          "source": "PUBG: BATTLEGROUNDS",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[오늘의 게임 소식] 배틀그라운드, 애니메이션 ‘주술회전’과 협업 진행 外 : 네이버 블로그",
+          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224406308217&redirect=Dlog",
+          "source": "Naver Blog",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'주술회전' 세��관 입힌 배틀그라운드 뜬다",
+          "url": "https://v.daum.net/v/pBGonEQ9Nc",
+          "source": "Daum",
           "date": "2026-09-10"
         }
       ]
