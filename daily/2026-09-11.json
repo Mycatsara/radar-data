@@ -2,10 +2,10 @@
   "date": "2026-09-11",
   "keywords": {
     "어디가": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T00:13:00+09:00",
-      "lastSeen": "2026-09-11T00:13:00+09:00",
+      "lastSeen": "2026-09-11T00:42:00+09:00",
       "news": [
         {
           "title": "“액티브냐 패시브냐” 끝났다…기관 돈 잡는 ‘크로스플랫폼’ 경쟁",
@@ -28,10 +28,10 @@
       ]
     },
     "농구": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T00:13:00+09:00",
-      "lastSeen": "2026-09-11T00:13:00+09:00",
+      "lastSeen": "2026-09-11T00:42:00+09:00",
       "news": [
         {
           "title": "男농구 이현중, 에이스 폼 어디 안 갔네…사우디전 23득점 활약 [현장영상]",
@@ -54,10 +54,10 @@
       ]
     },
     "이혜정": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T00:13:00+09:00",
-      "lastSeen": "2026-09-11T00:13:00+09:00",
+      "lastSeen": "2026-09-11T00:42:00+09:00",
       "news": [
         {
           "title": "이혜정, 아들 장가 보내고 명품 플렉스…\"억울하고 분해서 하나 사\" (빅마마)",
@@ -80,10 +80,10 @@
       ]
     },
     "가천대": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-11T00:13:00+09:00",
-      "lastSeen": "2026-09-11T00:13:00+09:00",
+      "lastSeen": "2026-09-11T00:42:00+09:00",
       "news": [
         {
           "title": "목포대·지역 6개 대학, 에너지 전문인력 2천800명 양성",
@@ -106,10 +106,10 @@
       ]
     },
     "수시 원서 접수": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T00:13:00+09:00",
-      "lastSeen": "2026-09-11T00:13:00+09:00",
+      "lastSeen": "2026-09-11T00:42:00+09:00",
       "news": [
         {
           "title": "우리 대학, 2027학년도 수시 2,153명 선발…9월 7일부터 원서접수",
@@ -128,14 +128,20 @@
           "url": "https://www.veritas-a.com/news/articleView.html?idxno=627308",
           "source": "베리타스알파",
           "date": "2026-09-10"
+        },
+        {
+          "title": "서류 평가만 하는데 10만원…깜깜이 대입 전형료에 한숨만",
+          "url": "https://v.daum.net/v/20260911000153459",
+          "source": "Daum",
+          "date": "2026-09-10"
         }
       ]
     },
     "cpi": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T00:13:00+09:00",
-      "lastSeen": "2026-09-11T00:13:00+09:00",
+      "lastSeen": "2026-09-11T00:42:00+09:00",
       "news": [
         {
           "title": "Which sectors are most exposed if Friday’s inflation data comes in hot?",
@@ -158,10 +164,10 @@
       ]
     },
     "변우석": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-11T00:13:00+09:00",
-      "lastSeen": "2026-09-11T00:13:00+09:00",
+      "lastSeen": "2026-09-11T00:42:00+09:00",
       "news": [
         {
           "title": "130억 한남더힐 전액 현금으로…변우석, '선���튀' 2년 만에 깜짝 [집코노미-핫!부동산]",
@@ -179,6 +185,12 @@
           "title": "“아이유한테 배웠나?” 변우석, 전액 현금으로 한남더힐 130억원에 매입설…아이유는 청담 에테르노",
           "url": "https://www.munhwa.com/article/11616130",
           "source": "문화일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'선업튀' 변우석, 한남더힐 130억 매입설…전액 현금 추정",
+          "url": "https://www.mt.co.kr/society/2026/09/10/2026091021383422008",
+          "source": "머니투데이",
           "date": "2026-09-10"
         }
       ]
@@ -257,6 +269,84 @@
           "title": "\"2호선이 피자 들고 도망\"…지하철 승객들 '빵 터진' 사연 - 머니투데이",
           "url": "https://www.mt.co.kr/society/2026/09/10/2026091021342959804",
           "source": "머니투데이",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "금메달": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T00:42:00+09:00",
+      "lastSeen": "2026-09-11T00:42:00+09:00",
+      "news": [
+        {
+          "title": "설기현 이영표 조원희 “이민성호 전력은 역대급, 문제는…”",
+          "url": "https://v.daum.net/v/xglsY3IkWQ?f=p",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"당연히 이길 생각, 우승하겠다!\" 日 16년 만의 亞 정상 탈환 도전…'이민성호' 최대 라이벌 오이와 고 감독 \"경험 쌓으려 출전하는 것 아니다\"",
+          "url": "https://www.chosun.com/sports/football/2026/09/10/GUZTONJTGBSDSZDDGJRTMZJYGI/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[단독] 단장 교체 불똥 튄 이영준, AG 조기 합류 불발…‘예비역’의 헌신은 토너먼트부터",
+          "url": "https://sports.khan.co.kr/article/202609101541003",
+          "source": "스포츠경향",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "신지": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-11T00:42:00+09:00",
+      "lastSeen": "2026-09-11T00:42:00+09:00",
+      "news": [
+        {
+          "title": "'신혼' 신지, 외식 두 달에 한 번…\"익숙하지 않은 것 두려워\"",
+          "url": "https://v.daum.net/v/20260910142642056?f=p",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "신지, ♥문원과 신혼인데..\"남편이 억지로 끌고 나가야 데이트\" (어떠신지)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/10/MFRDMMRUMU2GGMTEME3WEYZSGY/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "신지 \"익숙하지 않은 것에 두려움 있어\" 고백",
+          "url": "https://www.newsis.com/view/NISX20260909_0003783300",
+          "source": "뉴시스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "유인나": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T00:42:00+09:00",
+      "lastSeen": "2026-09-11T00:42:00+09:00",
+      "news": [
+        {
+          "title": "아이유, 오늘 1년 만의 싱글 '이 별로부터'…직접 작사",
+          "url": "https://www.yna.co.kr/view/AKR20260910036600005",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "별 하나를 떠난 보낸 아이유, 유인��·유애나의 영원한 솔메이트",
+          "url": "https://www.newsis.com/view/NISX20260910_0003784953",
+          "source": "뉴시스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "아이유, 경찰 변신→김영옥 깜짝 등장…1년 만의 신곡",
+          "url": "https://m.imbc.com/enews/view/517818",
+          "source": "MBC",
           "date": "2026-09-10"
         }
       ]
@@ -679,6 +769,84 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xQ2hybXY5dnNLZFc2c3JSeGhZNm9VX0tNQi1jRDZqa0Rxd2trRFl6anB1X0hJWHFLdWV4ZERyZ01qVGt1eXVrenJJdW5LNElEMjJkRUd3?oc=5",
         "source": "지디넷코리아",
         "date": "2026-09-09"
+      },
+      {
+        "title": "88시간 만에 ‘세계 7대 수학 난제’ 난제 풀었다더니…오픈AI 발표 하루 만에 진흙탕 싸움",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80a2twdVpWVWhxM2Jfa243cFEwVVIybm1nMno0VlhoQjRVTzh1dXZJUE55MWZsbl9XZnJlekJ5SWlON0lUZWRTUHE1RzB0eU0?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "잘 나가던 27세 연구원, 공포감에 퇴사했다…“사람 말 안 듣는 AI, 곧 올 것”",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1rNUJVMnlvMFVpNjZsbVJ2ZHEzdHBqN0pEU1pNN3JvSExvdlJpV2RlaFlneWZ5bWR4eDNlQWRMcDJZaUdReWc?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "이동국 아내, 운전대 놓고 간식 먹방…자율주행 감탄",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PX3J0cGx0UnBQOXBhS215TXNGOU12OVI5cGtzSFk0YTBEck9hVWo1cEgxOTV1Nm9mQ0dLUWlfUC1iQnBZanl4bDdPYTA4Vk02NVNzdlk2b3TSAVRBVV95cUxQMmp2cnZkSDhVNEUtbVdVQXNCZzdkY3U2aktzRUpwRjFta0REU1B2QWcwNlFtMGprQjMySzBuWm9aVm5Uc2d4a2JaWjVCcW4wR1NSdW0?oc=5",
+        "source": "세계일보",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "미국의 첨단 무인 잠수정, 이란혁명수비대 손에 넘어갔다",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbnNma213a1hBellSM1E3eVBzczhReE96d3dvSzVlOV83RzRyQ3I0a01fOEVrUkNHR0lPbkxXZVh1WXhFczhQVXlQLXBxYlIzSXBUSzBUZlJvOUJyek1zOWFtQ1lYMnFUbS1vUGk1VUc1TnlXbHFBUmViTXFSUlVXRndFR2NpemtUU280WHhZNkFGOGxhdmpIVEY0YmRpZw?oc=5",
+        "source": "chosun.com",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "“7조원 물려있지만 우리는 믿습니다”...세계 최대 이더리움 큰 손의 배짱",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DVW9taGtaUkVBUDRWd1l1ZEF5WUV4Z0VKemFZSGlNdXo1aTlOclZFVnZPR3VjVWQydDYyRTVMR293S2RPaV9WdWJIQnd3ZGRZa2c?oc=5",
+        "source": "매일경제",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "삼전닉스만 있는 게 아니었다…AI 랠리 '다음 타자' 정체",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RMVFLTk5TemJpdG1DT2VDQ2hTdWZ1ejBSMVVkLXE4Nk5wMGRpWmpxZnFhdm5LLWlBX0pxT3FLZTljNnZ6MVEzRHVHYTVhc2QwZGRjVTNtQndkQQ?oc=5",
+        "source": "한국경제",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "「Nintendo Direct 2026.9.9」에서 공개된 소프트웨어의 최신 정보 소개! | News | 한국닌텐도주식회사",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YeXlMVjBIemhhNjRXR0dNcWQ0aWI3cmFjY0lHUnMyakVIRGVOVnl1VlgwTFd0RXh5dVZlWnpLSTZ4OXBELTRlbHRoY19mdFVRS2JMXzJGWHAtVmpJU2JPQjAwRWNNNHVtUWNfTmZsbjM?oc=5",
+        "source": "Nintendo",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "퀄컴·코닝 대형 계약 발표, 美 AI 인프라주 일제히 급등",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd2NVT3duSDh6MlNUV3hiUWJPVi1qRFlVMGVOcTNDOUlGakNVdDZhVXB4UzVfX2FEd1Y5b0tScklCaFRxdWNzZERmdTdUNnR4bDIzMDBSOWFUdUhnMlJfZTgxT1RUdVJrUTRFb2JFMGlNbkEzTDA2aDFxZUQxQWtacA?oc=5",
+        "source": "chosun.com",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "애플 반기는 삼성전자 \"웰컴 투 폴더블\"",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrVzNmUHVjVU5KMGFSOWNpeEFEUmZ0NjNrREVqZGNuVmMyMEYtLWdvaTgzUDZYVnNZTmtWWlVjVXdpRncxeDQtcmp4QWhRbVE?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "[단독] \"수천억 날릴 판\"…주 52시간에 발목 잡힌 K원전 '비명'",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tcU1ucEVKU1d2TUpPRU1OTWQyelc0b3VSR0hTWHB5MWVrRF92NDJiMGZnR2phV2RwRFJMeUtNcmpZbmlSNE9EZXVKd1pWeHdkRUFieW5IdjN1Zw?oc=5",
+        "source": "한국경제",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "[단독] \"휘발유차도 자율주행\"…현대차 '기�� 성벽' 쌓는다",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxS0tKTG9vN2UxQ2tpdnZ0eU5aOTdscktfbG00YW9OVW9YOEdMS3NMMWcwODFtbW1lcnczU1kzNU1zN1NxXy1oRC12alByNWtzaUI1eXdXbmhZdw?oc=5",
+        "source": "한국경제",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "LG전자, '화웨이서 분사' 아너에 미국 특허 15건 양도",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WM0VDckhuUTdTQ3o5bDRxaXFGbV9DbG1vVURFRElmWVp5cjNnZlBTZlBHWmRJZ21oUm9KUE5CbU1DeGxkSFlXWGFBVU84cjRORHdDMHdB?oc=5",
+        "source": "지디넷코리아",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "“15년 전 270만원 투자했는데 현재 60억원”",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBybS1JNnJTVjlDTXdKc2JVUWpDV0MyVEwwMW04dmk4bElGS0hqUkg1bzR6ZGRrcUVkWkxadFZ1ZUl5TGp3ek1LeExWYWZ0eVox?oc=5",
+        "source": "문화일보",
+        "date": "2026-09-07"
       }
     ],
     "ENTERTAINMENT": [
@@ -1216,6 +1384,72 @@
         "title": "선수촌 없이 컨테이너까지 동원... 우려 쏟아진 아시안게임",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PdVVmQ1N3WU1hNUFqejBOekZzM21zeHVGNFlPM29tY2s4UUhFNzN5SFExUUotXzhvNEFSMXJpODFZWFVkb0wwbFJEYzhQZmp2dlJZeVN4M0lXUFZFRXc2SzlvbG5fOU9nWEVkRGJUOU9ERmVvT3cw?oc=5",
         "source": "OhmyNews",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "세베리노 3타점·벤자민 4이닝 무실점…두산, 2연패 탈출",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NVV80bUpiQ2ZJeDNDbzhaMVota0xzU0ZCaHI5SDlVS2JsLUg3M04tTXVMRHZ1LWE2Tl9INGYxa2JqT3dyTXpxUVNoa2tPQmNwVXZIekR1bXJObU0?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "모레노 축구대표팀 코치진에 조용형·이재홍 코치 합류",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IUWxmc05WN3R6c0h2YVdydk9aU0Jva0x5N1o3ajVFYkxHc3BQMUVVRkVWWXRHblJod242Q1VLQnN4OXlBNWxRRG95Ym5QNFhTdkpCRTNyZlNRNzlzenc?oc=5",
+        "source": "YTN",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "’동점 적시타·결승 득점’ 이정후 맹활약…팀도 짜릿한 역전승",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94d1Z3TmR5VVhkYUgzT0ZlOUdsSHlpYXJBdDF3X3MyV2d5MG5QdjRZa1FXT0RBbl93Q1dBOUxFSGZMdEtVaG1lVjIyOTllUUVNSWZmVE5oTVY2WkhwUjJCd2tUQnl1bjQ?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "U-18 야구대표팀, 조 1위로 슈퍼 라운드행",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWmx4dUNBcXd0SFNLQ0lSNWVyLS1uLW00V0o4bU9aaDBpUEROYXI1bzF3c3RmMGhlSmZpSzNmQnFyeU5LaHB4el8zNTVlWnlyTEc2MmZYQlVkMEtmSkhmN3FQSXkwQlltZUU2bmpDY2RoeHNRRXdQbmNYRU5ucXoxMWhZTndob2NWSy1JZk9B?oc=5",
+        "source": "국제신문",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "네이버, '2026 아시안게임' 생중계…라운지·같이보기도 운영",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BYi1KVmhNaVE1TTd1amlwVW5rY1dZeW9QbWgwcUFFWHppU2pjVlNKX0ExbzdfT2ZpSzJFWmtJTGlaREZvR3JrS2RnUWdBZllRb2lwaUx3?oc=5",
+        "source": "지디넷코리아",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "다저스 오타니, 오른팔 통증으로 15일짜리 IL행…23일 복귀 전망",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WVjMtUU5KTEhkOG9RcnU0LXJkRzluSE80eC1QZVdIZllORG9HY1JTUmEyZzFOMTZZUzQydEN4Y3pPOVduZG9Md0NsQ0RBRXVzTXlpLUY5YXlQQmc?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "프로축구연맹, '응원석 상대 비방 걸개' FC서울에 제재금 800만 원",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxdGUwXzdzR2FWa2szZzlMY3E3ZE13a0xZTmdqMGdveU5JTTJkTjJqWEM5MUc1Tng3V3piWjZnelFzZGVrQnVvY0R1djNqVE9xS1hxQmpMTnM4dzBYUmkzakMtVzNWaWNnQnVVU2RiZzBINFdEMVHSAXZBVV95cUxNUmdlVjc4NkZwVkRNdmU0Tm5lXzNudnJMLWtlclQ4bS1zVVBnV0I5eGs0MGpiajNfSlNFdnNyT05jY1daZzZrRm9KYlNfaVY1LU00YkUwUUxMcnk4UTlQbnBjS0hrdk5TT0s2WmVNbURCV0FjbG9n?oc=5",
+        "source": "MBC 뉴스",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "‘AG 대만 국가대표’ 왕옌청, 한국전 등판 불발? 한화에서 1G 더 던지고 나고야 간다 [오!쎈 인천]",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNczFPWGxrSVZPUjdVSE5qV2ZHWEZSVk1NVXNoczB1Q0NHU1dPV2pCWmhYNE5sQ2xZRHhha0pRSHZDYkQzOUhyRTZZNnpYSVdrOFZVNTRFU1FGY2lhWENCM0psbHNwWG00VUhLYkNKWjJwUHJvbGNhUUlLbDNkTXhUU2dDTQ?oc=5",
+        "source": "chosun.com",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "“우생순 넘는 스토리 쓴다” 류은희의 라스트 댄스",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jWnhZQ2RQMUhEd1FqdXhlSmNCMmNQOXl2akdYUzFtSm5RbUNMVzY1RnB3WGdJT2ZHblE3Uzkwc1NtcTlVU1FBdlpBQldiMEE?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "2027 KBO 신인 드래프트 개최",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBNaTlNNDlIYzZvTy1HOC1GNVZSbGMyNzVZS18xUjR6Smo2UDdxeFBicHZxYW9zeF9XMGR1MnhiNTlsc2l1?oc=5",
+        "source": "newszoom.kr",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "한국 축구 재건 맡은 모레노 13일 입국…분위기 쇄신 성공할까",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yeG83T1V1SEZITG9mcl93b3JtRFF1OXR0N0t6UXdfQW9GR2pRRG1QemlLNXFXTU9MLUNfM01OX2lRS3lXeHlzcURHcVpHU2R1OWR1Vzh3a1R4THc?oc=5",
+        "source": "kwnews.co.kr",
         "date": "2026-09-09"
       }
     ]
