@@ -3651,10 +3651,10 @@
       ]
     },
     "미국 중간선거": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-10T14:12:00+09:00",
-      "lastSeen": "2026-09-10T14:12:00+09:00",
+      "lastSeen": "2026-09-10T14:41:00+09:00",
       "news": [
         {
           "title": "다급해진 트럼프?…\"공화당 승리하면 1인당 5천 달러 준다\"",
@@ -3673,14 +3673,26 @@
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850741_37004.html",
           "source": "MBC 뉴스",
           "date": "2026-09-10"
+        },
+        {
+          "title": "백악관, 이란전쟁 엇갈린 시선...트럼프 '11월 종전' vs 참모진 '장기화' - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/10/2026091008255630252",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"이란전, 중간선거 직후 종결\"‥'새 통제구역' 예고",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6850820_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-10"
         }
       ]
     },
     "lafc vs ny red bulls": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T14:12:00+09:00",
-      "lastSeen": "2026-09-10T14:12:00+09:00",
+      "lastSeen": "2026-09-10T14:41:00+09:00",
       "news": [
         {
           "title": "Son Heung-min's Seven Shots Lead LAFC to 2-0 Victory",
@@ -3699,14 +3711,26 @@
           "url": "https://www.newyorkredbulls.com/news/red-bull-new-york-add-rbny-ii-winger-dennis-nelich-and-midfielder-sekou-kone-on-short-term-agreement-ahead-of-match-against-lafc",
           "source": "Red Bull New York",
           "date": "2026-09-10"
+        },
+        {
+          "title": "Son Heung-min Sparks Opening Goal Despite Crossbar Bad Luck, LAFC Secures First Win in 7 Matches",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008747060",
+          "source": "news.sbs.co.kr",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Son Heung-min leads LAFC attack but fails to score in 2-0 win over New York - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-sports/2026/09/10/R5XHW4YDPZCDHAMMMOQP6Z4TGU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-10"
         }
       ]
     },
     "다음 뉴스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T14:12:00+09:00",
-      "lastSeen": "2026-09-10T14:12:00+09:00",
+      "lastSeen": "2026-09-10T14:41:00+09:00",
       "news": [
         {
           "title": "쓰레기만 보냈는데 전액 환불?…\"어떻게 이러나\" 분통",
@@ -3725,14 +3749,20 @@
           "url": "https://www.yonhapnewstv.co.kr/news/AKR20260908115157Jdb",
           "source": "연합뉴스TV",
           "date": "2026-09-10"
+        },
+        {
+          "title": "\"배달된 초밥 차가워서 못 먹겠다\" 환불 요청한 손님…회만 쏙 빼 먹었다",
+          "url": "https://www.news1.kr/society/general-society/6284709",
+          "source": "뉴스1",
+          "date": "2026-09-10"
         }
       ]
     },
     "캐나다 총리": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T14:12:00+09:00",
-      "lastSeen": "2026-09-10T14:12:00+09:00",
+      "lastSeen": "2026-09-10T14:41:00+09:00",
       "news": [
         {
           "title": "외계인 침공하면 뭉쳐야‥트럼프 보복에 캐나다 '끝까지 간다'",
@@ -3751,14 +3781,20 @@
           "url": "https://www.sedaily.com/article/20089168",
           "source": "서울경제",
           "date": "2026-09-10"
+        },
+        {
+          "title": "\"대가 치르더라도 후퇴는 없다\" 캐나다인, 美보복관세에 강경",
+          "url": "https://www.chosun.com/international/international_general/2026/09/10/XBYILFRROJHDNLUYGFGSHF2SQE/",
+          "source": "조선일보",
+          "date": "2026-09-10"
         }
       ]
     },
     "교사": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T14:12:00+09:00",
-      "lastSeen": "2026-09-10T14:12:00+09:00",
+      "lastSeen": "2026-09-10T14:41:00+09:00",
       "news": [
         {
           "title": "기간제 교사 밀어내고 수당 챙겼나, ‘얌체복직’ 논란···21명은 학기 시작 맞춰 다시 휴직",
@@ -3781,10 +3817,10 @@
       ]
     },
     "아시안게임": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-10T14:12:00+09:00",
-      "lastSeen": "2026-09-10T14:12:00+09:00",
+      "lastSeen": "2026-09-10T14:41:00+09:00",
       "news": [
         {
           "title": "아시안게임도 네이버 '치지직'에서 본다",
@@ -3802,6 +3838,122 @@
           "title": "네이버, 아이치·나고야 아시안게임 생중계…AI로 더 편하게",
           "url": "https://stock.mk.co.kr/news/view/1156807",
           "source": "매일경제 마켓",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[社告] 연합뉴스 아이치·나고야 아시안게임 특별취재단 가동",
+          "url": "https://www.yna.co.kr/view/AKR20260909147800007",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[AG D-10]K양궁, 금 5개 싹쓸이 겨냥…맏형 김우진 ‘선봉’",
+          "url": "https://www.khan.co.kr/article/202609090600015",
+          "source": "경향신문",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "항공": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T14:41:00+09:00",
+      "lastSeen": "2026-09-10T14:41:00+09:00",
+      "news": [
+        {
+          "title": "공정위, 대한항공 '좌석 유지 의무' 완화에 기각 의견…심의 개시",
+          "url": "https://v.daum.net/v/20260910133001549",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "대한항공-아시아나 기업결합 시정조치 변경신청 2건, (주)대한항공 및 소속 직원들의 조사방해 사건 심의 절차 개시",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=446697",
+          "source": "서��Pn",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"좌석 줄여달라\" 떼쓰다 증거인멸…대한항공 법인·직원 검찰 고발 예고한 공정위",
+          "url": "https://www.asiae.co.kr/article/2026091009190471323",
+          "source": "아시아경제",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "트레이드": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T14:41:00+09:00",
+      "lastSeen": "2026-09-10T14:41:00+09:00",
+      "news": [
+        {
+          "title": "어떻게 다저스 위협하는 3대3 초대형 트레이드가 됐나…\"올스타급 선수 하나 없는데\" 대반전",
+          "url": "https://v.daum.net/v/20260910055051854",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'슈퍼스타 없이 만든 윈-윈 신화' 과거 사례로 본 보스턴-밀워키 트레이드의 독특한 가치",
+          "url": "https://www.mlbkor.com/news/articleView.html?idxno=32876",
+          "source": "https://www.mlbkor.com/",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'우리는 5년 미래 잃었는데 레너드는 고작 70만 달러?'…분노한 클리퍼스, '솜방망이 징계'에 NBA 레전드도 의심→압둘-자바 \"거대한 은폐처럼 느껴진다\"",
+          "url": "https://m.news.nate.com/view/20260909n21051",
+          "source": "Nate News",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "불펜": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T14:41:00+09:00",
+      "lastSeen": "2026-09-10T14:41:00+09:00",
+      "news": [
+        {
+          "title": "“불펜 ERA 1위, 이승민이 가장 큰 역할” 레이예스·김도영도 잡았다…국민 유격수가 활짝 웃는 이유 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/10/202609101403771192O",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"불펜 ERA 1위, 이승민이 가장 큰 역할\" 레이예스·김도영도 잡았다…국민 유격수가 활짝 웃는 이유",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/10/HA3TON3DGE4DCMZXGVRWGMZWME/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"홀드왕 경쟁, 하늘에 맡긴다\" 시즌 전엔 상상도 못한 '20홀드' 해냈다…그러나 '타이틀' 목표 대신 \"마지막에 웃는 팀이길\" [대구 인터뷰]",
+          "url": "https://m.news.nate.com/view/20260909n26510",
+          "source": "Nate News",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "컵스 대 브루어스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T14:41:00+09:00",
+      "lastSeen": "2026-09-10T14:41:00+09:00",
+      "news": [
+        {
+          "title": "[포토뉴스]끝내기 안타로 시원한 물세례",
+          "url": "https://www.khan.co.kr/article/20260909202300A",
+          "source": "경향신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "100승이 보인다! 밀워키 90승 선착→MLB 승률 1위 질주…다저스는 6연승 '시즌 88승째'",
+          "url": "https://m.news.nate.com/view/20260909n26848",
+          "source": "Nate News",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'지구 우승 독주 체제' 밀워키, 옐리치·추리오 홈런포 앞세워 컵스 제압...지구 4연패 매직넘버 '5'",
+          "url": "https://www.mlbkor.com/news/articleView.html?idxno=32904",
+          "source": "www.mlbkor.com",
           "date": "2026-09-10"
         }
       ]
