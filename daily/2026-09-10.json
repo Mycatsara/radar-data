@@ -3265,10 +3265,10 @@
       ]
     },
     "조용필": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T12:42:00+09:00",
-      "lastSeen": "2026-09-10T13:13:00+09:00",
+      "lastSeen": "2026-09-10T13:42:00+09:00",
       "news": [
         {
           "title": "박정수, 조용필 콘서트 갔다가 명품 시계 질렀다…“노래는 안 들리고”",
@@ -3287,14 +3287,20 @@
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/10/GE3TGYJYGE3WIMDDG4ZTKM3CGE/",
           "source": "Chosunbiz",
           "date": "2026-09-10"
+        },
+        {
+          "title": "박정수 \"조용필 콘서트 갔다가 1억원 피아제 시계 질러\"",
+          "url": "https://www.segye.com/newsView/20260910502733",
+          "source": "세계일보",
+          "date": "2026-09-10"
         }
       ]
     },
     "레즈 대 다저스": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T12:42:00+09:00",
-      "lastSeen": "2026-09-10T13:13:00+09:00",
+      "lastSeen": "2026-09-10T13:42:00+09:00",
       "news": [
         {
           "title": "이상 신호 보내는 오타니…복귀 하루 만에 또 선발 제외(종합)",
@@ -3419,10 +3425,10 @@
       ]
     },
     "습관": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-10T13:13:00+09:00",
-      "lastSeen": "2026-09-10T13:13:00+09:00",
+      "lastSeen": "2026-09-10T13:42:00+09:00",
       "news": [
         {
           "title": "인천세종병원, 생활습관개선클리닉 개소…음주·금연·비만 관리",
@@ -3445,10 +3451,10 @@
       ]
     },
     "주드 테리": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T13:13:00+09:00",
-      "lastSeen": "2026-09-10T13:13:00+09:00",
+      "lastSeen": "2026-09-10T13:42:00+09:00",
       "news": [
         {
           "title": "'손흥민이 세 번 두드리고 테리가 열었다' LAFC, 뉴욕에 1-0 전반 리드...SON 슈팅 선방 직후 선제골 - 머니투데이",
@@ -3471,10 +3477,10 @@
       ]
     },
     "mls": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-10T13:13:00+09:00",
-      "lastSeen": "2026-09-10T13:13:00+09:00",
+      "lastSeen": "2026-09-10T13:42:00+09:00",
       "news": [
         {
           "title": "Rapid Reactions: Grizi for Heisman",
@@ -3493,14 +3499,26 @@
           "url": "https://www.foxsports.com/articles/soccer/griezmann-scores-2-goals-orlando-city-beats-atlanta-united-32",
           "source": "FOX Sports",
           "date": "2026-09-10"
+        },
+        {
+          "title": "Match report: Antoine Griezmann’s brace powers Orlando City SC to 3-2 win at Atlanta United FC",
+          "url": "https://www.orlandocitysc.com/news/match-report-antoine-griezmann-s-brace-powers-orlando-city-sc-to-3-2-win-at-atlanta-united-fc",
+          "source": "Orlando City",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Atlanta United FC vs. Orlando City SC - Game Highlights",
+          "url": "https://www.espn.com/video/clip/_/id/49887088/atlanta-united-fc-vs-orlando-city-sc-game-highlights",
+          "source": "ESPN",
+          "date": "2026-09-10"
         }
       ]
     },
     "코리아 디스카운트": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T13:13:00+09:00",
-      "lastSeen": "2026-09-10T13:13:00+09:00",
+      "lastSeen": "2026-09-10T13:42:00+09:00",
       "news": [
         {
           "title": "로이터 \"삼전닉스 130조 주주환원, 코리아 디스카운트 해소엔 부족\"",
@@ -3523,10 +3541,10 @@
       ]
     },
     "마이크론 테크놀로지": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T13:13:00+09:00",
-      "lastSeen": "2026-09-10T13:13:00+09:00",
+      "lastSeen": "2026-09-10T13:42:00+09:00",
       "news": [
         {
           "title": "83개월치 보너스 충돌… 마이크론 대만 파업 위기에 HBM 수급 촉각",
@@ -3544,6 +3562,84 @@
           "title": "월가 \"마이크론 좋지만 SK하이닉스는 더 강력… AI 메모리 승자 하이닉스\"",
           "url": "https://www.g-enews.com/article/Securities/2026/09/202609100605213201e250e8e188_1",
           "source": "글로벌이코노믹",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "오륙도": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T13:42:00+09:00",
+      "lastSeen": "2026-09-10T13:42:00+09:00",
+      "news": [
+        {
+          "title": "오륙도 실종 기관사, 100㎞ 밖 포항서 발견…인니 생존자가 “나 따라오다 빠졌다”던 ‘세컨드 엔지니어’",
+          "url": "https://www.munhwa.com/article/11615906",
+          "source": "문화일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "포항서 발견된 '부산 예인선 전복' 실종자…유족 \"초기 대응 미흡\"",
+          "url": "https://v.daum.net/v/20260910130300883",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "부산 예인선 침몰 사고 ��종자 1명 시신 포항 해변서 발견",
+          "url": "https://www.khan.co.kr/article/202609092239001",
+          "source": "경향신문",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "김하성": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T13:42:00+09:00",
+      "lastSeen": "2026-09-10T13:42:00+09:00",
+      "news": [
+        {
+          "title": "김하성 없었으면 어쩔 뻔했나! '타율 0.068' 딛고 다저스 격침→ATL 선두 이끈 \"예상 밖 영웅\" 美 극찬",
+          "url": "https://v.daum.net/v/20260910044207202",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "애틀랜타, 탬파베이에 2-7로 져 3연패…김하성, 두 경기 연속 결장",
+          "url": "https://www.newsis.com/view/NISX20260910_0003783986",
+          "source": "뉴시스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘다저스전 끝내기 안타 믿음 ��났나’ 김하성, 2G 연속 결장…ATL, TB전 2-7 완패→3연패 수렁 [ATL 리뷰]",
+          "url": "https://www.osen.co.kr/article/G1112873050",
+          "source": "OSEN",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "단체교섭": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T13:42:00+09:00",
+      "lastSeen": "2026-09-10T13:42:00+09:00",
+      "news": [
+        {
+          "title": "불 보듯 뻔했던 노란봉투법 혼란…‘카산드라 경고’가 떠오르는 이유 [기자24시]",
+          "url": "https://stock.mk.co.kr/news/view/1156874",
+          "source": "매일경제 마켓",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "공장은 지을 수 있는데, 사람은 옮길 수 없다[전문가 시선]",
+          "url": "https://www.munhwa.com/article/11616031",
+          "source": "문화일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "현대차, 이 대통령 발언 근거로 “성과급은 단체교섭 대상 아냐” 주장",
+          "url": "https://www.hani.co.kr/arti/society/labor/1277095.html",
+          "source": "한겨레",
           "date": "2026-09-10"
         }
       ]
