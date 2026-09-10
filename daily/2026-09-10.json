@@ -110,10 +110,10 @@
       ]
     },
     "이정은": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T00:13:00+09:00",
-      "lastSeen": "2026-09-10T02:12:00+09:00",
+      "lastSeen": "2026-09-10T20:13:00+09:00",
       "news": [
         {
           "title": "\"나한테 담배 가르쳐\"…유재석이 언급한 유명 배우 - 머니투데이",
@@ -132,6 +132,18 @@
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/517702",
           "source": "iMBC 연예",
           "date": "2026-09-09"
+        },
+        {
+          "title": "“하루 5개만 피우자” 실패한 유재석…20년 금연한 몸은 어떻게 달라졌나",
+          "url": "https://www.donga.com/news/Culture/article/all/20260910/134640721/2",
+          "source": "동아일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“화장실서 반라로 발견될 정도”…이준서 의사, 9년 알코올 중독 고백 [TVis] (유퀴즈)",
+          "url": "https://v.daum.net/v/GaWuCZwar4",
+          "source": "Daum",
+          "date": "2026-09-10"
         }
       ]
     },
@@ -5322,10 +5334,10 @@
       ]
     },
     "한화 대 ssg": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-10T19:42:00+09:00",
-      "lastSeen": "2026-09-10T19:42:00+09:00",
+      "lastSeen": "2026-09-10T20:13:00+09:00",
       "news": [
         {
           "title": "[한번에쓱] '선선한 가을밤에 역투를 펼치다!' 한화 박준영 - 머니투데이",
@@ -5348,10 +5360,10 @@
       ]
     },
     "광주광역시": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-10T19:42:00+09:00",
-      "lastSeen": "2026-09-10T19:42:00+09:00",
+      "lastSeen": "2026-09-10T20:13:00+09:00",
       "news": []
     },
     "김창옥": {
@@ -5454,6 +5466,188 @@
           "title": "'마약 전과' 돈스파이크, 연예계 퇴출 4년 만 심경…\"같은 잘못 반복 안 해\"",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747176",
           "source": "SBS 뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "시장": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-10T20:13:00+09:00",
+      "lastSeen": "2026-09-10T20:13:00+09:00",
+      "news": [
+        {
+          "title": "김민석 “서울시장·강릉 국회의원 보궐선거 99.99% 있을 것…수첩에 적힌 MS는 나”",
+          "url": "https://www.khan.co.kr/article/202609101147001",
+          "source": "경향신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "김민석 \"한동훈·이진숙, 자격정지 추진\"‥한동훈 \"허위사실 고소\" 맞불",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851007_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "오세훈 측 “김민석, ‘재보궐 99.99%’ 망언…사법부 압박하나”",
+          "url": "https://v.daum.net/v/20260910190549256",
+          "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "노화": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T20:13:00+09:00",
+      "lastSeen": "2026-09-10T20:13:00+09:00",
+      "news": [
+        {
+          "title": "노화 염증 줄이려면…설탕부터 줄여야 할까, 의사가 짚은 생활습관",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16189014",
+          "source": "톱스타뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "면역은 강한 것이 아니라 균형이 중요하다",
+          "url": "https://www.artsnculture.com/news/articleView.html?idxno=7081",
+          "source": "Arts & Culture",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[생활속 과학이야기] 면역은 늘 우리 편이 아니다",
+          "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2299047",
+          "source": "대전일보",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "일교차": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T20:13:00+09:00",
+      "lastSeen": "2026-09-10T20:13:00+09:00",
+      "news": [
+        {
+          "title": "오늘보다 더 춥다…내일 아침 10도 '뚝'",
+          "url": "https://v.daum.net/v/20260910191728596",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[뉴스7 날씨] 다시 낮 기온 올라…일교차 커요!",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8660362",
+          "source": "KBS 뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[날씨] \"갑자기 싸늘해요\" 한낮에도 서늘...내일까지 해상 '강풍·풍랑'",
+          "url": "https://www.ytn.co.kr/_ln/0108_202609101304083632",
+          "source": "YTN",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "고소": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T20:13:00+09:00",
+      "lastSeen": "2026-09-10T20:13:00+09:00",
+      "news": [
+        {
+          "title": "[속보]빅뱅 출신 승리, 30대男 특수폭행 혐의 피소",
+          "url": "https://v.daum.net/v/20260910184439626",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "그룹 빅뱅 출신 승리, 특수폭행 혐의로 고소당해…강남서 접수",
+          "url": "https://www.yna.co.kr/view/AKR20260910163100004",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "빅뱅 출신 승리, 특수폭행 혐의 피소…경찰 \"아직 고소인 조사도 안해\"",
+          "url": "https://www.newsis.com/view/NISX20260910_0003784966",
+          "source": "뉴시스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "미스트롯 포유": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T20:13:00+09:00",
+      "lastSeen": "2026-09-10T20:13:00+09:00",
+      "news": [
+        {
+          "title": "“방송사고” 비명…안성훈·손빈아 무대 중 돌발 상황 (미스트롯 포유)",
+          "url": "https://sports.donga.com/ent/article/all/20260910/134643772/1",
+          "source": "스포츠동아",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "춘길, \"이렇게 더는 못하겠다\"��며 은퇴 선언…대체 무슨 일? (미스트롯포유) - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/10/GU2DKMZZGJQWINZXMM3GGMBRGE/",
+          "source": "Chosunbiz",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘미스트롯 포유’ 춘길, 돌연 은퇴 선언",
+          "url": "https://v.daum.net/v/20260910131442140?f=m",
+          "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "공화당": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T20:13:00+09:00",
+      "lastSeen": "2026-09-10T20:13:00+09:00",
+      "news": [
+        {
+          "title": "트럼프 \"공화당이 선거 승리하면 국민 1명당 5천 달러\"",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6850921_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "수세 몰린 트럼프 “상하원 승리 시 전국민에 670만원 지급”(종합)",
+          "url": "https://www.sedaily.com/article/20089323",
+          "source": "서울경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "배당이냐 부채폭주냐…중간선거 화두 오른 트럼프 1인당 5천달러",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434325",
+          "source": "연합인포맥스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "검사": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T20:13:00+09:00",
+      "lastSeen": "2026-09-10T20:13:00+09:00",
+      "news": [
+        {
+          "title": "\"전국민 콜센터 된 지 오래\"…젊은 경찰들 5년도 못 버텼다 [불신 청구서]",
+          "url": "https://www.hankyung.com/article/202609092902H",
+          "source": "한국경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "이 대통령, 공소청 직제안 수정 지시…'검사 정원·사법통제부' 지적",
+          "url": "https://v.daum.net/v/20260910191803615",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "검찰개혁추진단 前자문위원장 \"경찰 수사 점검도 색안경 끼고 막나\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850947_36918.html",
+          "source": "MBC 뉴스",
           "date": "2026-09-10"
         }
       ]
