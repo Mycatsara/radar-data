@@ -620,10 +620,10 @@
       ]
     },
     "채무": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T02:12:00+09:00",
-      "lastSeen": "2026-09-11T03:15:00+09:00",
+      "lastSeen": "2026-09-11T03:43:00+09:00",
       "news": [
         {
           "title": "\"'빚→주식' 못 바꾸나\"…中정부 제동에 부동산기업 채무조정 '비상'",
@@ -672,10 +672,10 @@
       ]
     },
     "ucl": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T02:40:00+09:00",
-      "lastSeen": "2026-09-11T02:40:00+09:00",
+      "lastSeen": "2026-09-11T03:43:00+09:00",
       "news": [
         {
           "title": "Manchester United v Sabah: Meet Azerbaijani club's coach Valdas Dambrauskas",
@@ -693,6 +693,18 @@
           "title": "Who will start v Sabah? Make your predictions...",
           "url": "https://www.manutd.com/en/news/who-will-start-v-sabah-make-your-predictions",
           "source": "Official Manchester United Website",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Carrick names his Champions League XI",
+          "url": "https://www.manutd.com/en/news/carrick-names-his-champions-league-xi-versus-sabah",
+          "source": "Official Manchester United Website",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Man United vs. Sabah LIVE: Champions League updates as Michael Carrick and Co. begin campaign",
+          "url": "https://www.espn.com/soccer/story/_/id/49893438/man-united-vs-sabah-live-champions-league-updates-commentary-score-result",
+          "source": "ESPN",
           "date": "2026-09-10"
         }
       ]
@@ -724,10 +736,10 @@
       ]
     },
     "먹방": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T02:40:00+09:00",
-      "lastSeen": "2026-09-11T03:15:00+09:00",
+      "lastSeen": "2026-09-11T03:43:00+09:00",
       "news": [
         {
           "title": "‘120만’ 먹방 유튜버, 24세에 사망…“반복적 폭식에 ‘이 수치’ 뚝” [월드픽]",
@@ -762,10 +774,10 @@
       ]
     },
     "ai": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T02:40:00+09:00",
-      "lastSeen": "2026-09-11T03:15:00+09:00",
+      "lastSeen": "2026-09-11T03:43:00+09:00",
       "news": [
         {
           "title": "Opinion | Big Tech Fooled America Once. The Second Time’s Not Going So Well.",
@@ -800,10 +812,10 @@
       ]
     },
     "송창식": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T02:40:00+09:00",
-      "lastSeen": "2026-09-11T03:15:00+09:00",
+      "lastSeen": "2026-09-11T03:43:00+09:00",
       "news": [
         {
           "title": "“감옥에서 이익 많이 봤다”…송창식이 21일간 수감됐던 사연",
@@ -826,10 +838,10 @@
       ]
     },
     "전국삼성전자노동조합": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T03:15:00+09:00",
-      "lastSeen": "2026-09-11T03:15:00+09:00",
+      "lastSeen": "2026-09-11T03:43:00+09:00",
       "news": [
         {
           "title": "최승호 위원장, '장인 수의계약 잘못' 따진 노조원에 '인사 보복' 압박",
@@ -852,10 +864,10 @@
       ]
     },
     "아마존": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T03:15:00+09:00",
-      "lastSeen": "2026-09-11T03:15:00+09:00",
+      "lastSeen": "2026-09-11T03:43:00+09:00",
       "news": [
         {
           "title": "Cockpit voice recorder indicates pilot tried to abort landing before Amazon cargo plane crash: NTSB",
@@ -874,14 +886,20 @@
           "url": "https://www.miamiherald.com/news/local/community/miami-dade/article317186931.html",
           "source": "Miami Herald",
           "date": "2026-09-10"
+        },
+        {
+          "title": "Amazon Cargo Plane Crash Was Result of Several ‘Failures,’ Widow’s Lawyers Claim in Wrongful Death Suit",
+          "url": "https://people.com/amazon-cargo-plane-crash-was-result-of-several-failures-widows-lawyers-claim-in-wrongful-death-suit-12114521",
+          "source": "People.com",
+          "date": "2026-09-10"
         }
       ]
     },
     "g": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T03:15:00+09:00",
-      "lastSeen": "2026-09-11T03:15:00+09:00",
+      "lastSeen": "2026-09-11T03:43:00+09:00",
       "news": [
         {
           "title": "All 206 holes found gold at Tectonic’s Alaska project. 97 more await assays.",
@@ -904,10 +922,10 @@
       ]
     },
     "유": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T03:15:00+09:00",
-      "lastSeen": "2026-09-11T03:15:00+09:00",
+      "lastSeen": "2026-09-11T03:43:00+09:00",
       "news": [
         {
           "title": "[글로벌증시] 유가·국채 금리 급등에 뉴욕증시 일제 하락",
@@ -924,6 +942,44 @@
         {
           "title": "유가 치솟자 금융시장 흔들… 추석앞 물가관리 비상",
           "url": "https://v.daum.net/v/20260911003157992",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "이란전 격화에 국제유가 급등…WTI도 배럴당 100달러 돌파",
+          "url": "https://v.daum.net/v/20260910223753733",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "유가 치솟자 금융시장 흔들… 추석앞 물가관리 비상",
+          "url": "https://www.donga.com/news/Economy/article/all/20260910/134646308/2",
+          "source": "동아일보",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "아스널 fc": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T03:43:00+09:00",
+      "lastSeen": "2026-09-11T03:43:00+09:00",
+      "news": [
+        {
+          "title": "'외데고르 결승포' 아스날, 슈팅 24개 맹폭 끝 나폴리 원정 1-0 승리...UCL 첫판부터 승점 3점 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/10/202609100600777561O",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "36경기 1골→5경기 4골…지난 시즌과 확 달라진 외데고르, 비결은 ‘많아진 박스 침투’",
+          "url": "https://sports.khan.co.kr/article/202609101532003",
+          "source": "스포츠경향",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“너무 많은 기회를 놓쳤다”…아스널 아르테타 감독, UCL 승리에도 결정력 지적",
+          "url": "https://v.daum.net/v/20260910113017803",
           "source": "Daum",
           "date": "2026-09-10"
         }
