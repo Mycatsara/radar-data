@@ -274,10 +274,10 @@
       ]
     },
     "금메달": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-11T00:42:00+09:00",
-      "lastSeen": "2026-09-11T01:13:00+09:00",
+      "lastSeen": "2026-09-11T01:41:00+09:00",
       "news": [
         {
           "title": "설기현 이영표 조원희 “이민성호 전력은 역대급, 문제는…”",
@@ -300,10 +300,10 @@
       ]
     },
     "신지": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-11T00:42:00+09:00",
-      "lastSeen": "2026-09-11T01:13:00+09:00",
+      "lastSeen": "2026-09-11T01:41:00+09:00",
       "news": [
         {
           "title": "'신혼' 신지, 외식 두 달에 한 번…\"익숙하지 않은 것 두려워\"",
@@ -322,14 +322,26 @@
           "url": "https://www.newsis.com/view/NISX20260909_0003783300",
           "source": "뉴시스",
           "date": "2026-09-10"
+        },
+        {
+          "title": "‘신혼’ 신지, 42㎏ ‘뼈말라 몸매’ 인증…홀쭉 얼굴에도 건강해 보이는 비결은?",
+          "url": "https://www.sedaily.com/article/20087957",
+          "source": "서울경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "42kg 신지, 신체 나이 50대라더니…문원 “운동 기합 대회급”",
+          "url": "https://sports.donga.com/ent/article/all/20260910/134640084/1",
+          "source": "스포츠동아",
+          "date": "2026-09-10"
         }
       ]
     },
     "유인나": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T00:42:00+09:00",
-      "lastSeen": "2026-09-11T01:13:00+09:00",
+      "lastSeen": "2026-09-11T01:41:00+09:00",
       "news": [
         {
           "title": "아이유, 오늘 1년 만의 싱글 '이 별로부터'…직접 작사",
@@ -358,10 +370,10 @@
       ]
     },
     "구글": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-11T01:13:00+09:00",
-      "lastSeen": "2026-09-11T01:13:00+09:00",
+      "lastSeen": "2026-09-11T01:41:00+09:00",
       "news": [
         {
           "title": "구글, ‘원전 강국’ 핀란드에 20조원 AI 투자",
@@ -384,10 +396,10 @@
       ]
     },
     "유해진": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-11T01:13:00+09:00",
-      "lastSeen": "2026-09-11T01:13:00+09:00",
+      "lastSeen": "2026-09-11T01:41:00+09:00",
       "news": [
         {
           "title": "멜로 감독의 장르물…“육 여사 사건, 10년 전부터 만들고 싶었다”",
@@ -406,14 +418,26 @@
           "url": "https://star.ytn.co.kr/_sn/0117_202609101634418311_001",
           "source": "YTN star",
           "date": "2026-09-10"
+        },
+        {
+          "title": "\"상 때문에 연기하니? 됐어\"…백상 주연상 불발에 유해진이 유해진 했다 [유퀴즈]",
+          "url": "https://v.daum.net/v/BnkIHFOcEF",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "유해진 \"백상 남우주연상 받을 줄 알았는데…\"",
+          "url": "https://www.newsis.com/view/NISX20260910_0003783465",
+          "source": "뉴시스",
+          "date": "2026-09-10"
         }
       ]
     },
     "히 샬리 송": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T01:13:00+09:00",
-      "lastSeen": "2026-09-11T01:13:00+09:00",
+      "lastSeen": "2026-09-11T01:41:00+09:00",
       "news": [
         {
           "title": "'토트넘과 법정 싸움 불사' 히샬리송, U-21 강등에 폭발...계약 해지 후 '어린 시절 꿈' 바스쿠행 추진",
@@ -432,14 +456,20 @@
           "url": "https://v.daum.net/v/20260910050056389",
           "source": "Daum",
           "date": "2026-09-10"
+        },
+        {
+          "title": "양민혁 눈물나게 고마워! 히샬리송 죽다 살아났다→'토트넘 탈출' 마지막 기회…\"규정상 브라질 임대 이적 가능해\"",
+          "url": "https://www.sportschosun.com/football/2026-09-10/202609100100068400004406",
+          "source": "스포츠조선",
+          "date": "2026-09-10"
         }
       ]
     },
     "웹툰": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T01:13:00+09:00",
-      "lastSeen": "2026-09-11T01:13:00+09:00",
+      "lastSeen": "2026-09-11T01:41:00+09:00",
       "news": [
         {
           "title": "네이버웹툰, 영남·충청·호남 지역 작가 정서 돌봄·교류 지원",
@@ -458,14 +488,26 @@
           "url": "https://www.news1.kr/it-science/general-it/6286699",
           "source": "뉴스1",
           "date": "2026-09-10"
+        },
+        {
+          "title": "네이버웹툰 직계약 창작자 10명 중 9명, 수익 정산 과정 만족",
+          "url": "https://v.daum.net/v/20260910202451435",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "지방 작가 챙기러 간 네이버웹툰…조석 작가 등판해 20년 경험 나눠 - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/09/10/2026091009534363204",
+          "source": "머니투데이",
+          "date": "2026-09-10"
         }
       ]
     },
     "수시 경쟁률": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T01:13:00+09:00",
-      "lastSeen": "2026-09-11T01:13:00+09:00",
+      "lastSeen": "2026-09-11T01:41:00+09:00",
       "news": [
         {
           "title": "\"10년 걸려 의사한다고?\"…부모들 돌변하더니 '대반전'",
@@ -483,6 +525,58 @@
           "title": "‘서연고 의대’ 수시 지원자 11.3% 감소…“지역의사제 따른 분산”",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8659948",
           "source": "KBS 뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "google": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T01:41:00+09:00",
+      "lastSeen": "2026-09-11T01:41:00+09:00",
+      "news": [
+        {
+          "title": "Google Has Removed The Pixel Tablet From Its Store",
+          "url": "https://www.engadget.com/2254487/google-store-removed-pixel-tablet/",
+          "source": "Engadget",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Google Pixel Tablet has been discontinued, out of stock everywhere",
+          "url": "https://9to5google.com/2026/09/09/google-pixel-tablet-discontinued/",
+          "source": "9to5Google",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Google has killed again. The Pixel Tablet is dead",
+          "url": "https://www.androidpolice.com/google-has-already-killed-off-this-three-year-old-device/",
+          "source": "Android Police",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "무신사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T01:41:00+09:00",
+      "lastSeen": "2026-09-11T01:41:00+09:00",
+      "news": [
+        {
+          "title": "'무신사 뷰티' 첫 단독 오프라인 매장 11일 홍대에 오픈",
+          "url": "https://www.yna.co.kr/view/PYH20260910131400013",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "외국인 관광객 약국 쇼핑 ‘10배 폭증’…상비약 대신 ‘K-뷰티·영양제’ 쓸어 담아",
+          "url": "https://v.daum.net/v/20260910175128533",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "뷰티 특화 약국 품은 '후발주자' 무신사 뷰티…홍대에 도전장 내밀었다",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434311",
+          "source": "연합인포맥스",
           "date": "2026-09-10"
         }
       ]
