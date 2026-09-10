@@ -1953,10 +1953,10 @@
       ]
     },
     "암호화폐": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-11T08:10:00+09:00",
-      "lastSeen": "2026-09-11T08:10:00+09:00",
+      "lastSeen": "2026-09-11T08:38:00+09:00",
       "news": [
         {
           "title": "코인 운명 가를 '클래리티 법'…15일 표결 못 넘으면 연내 입법 가능성 '뚝'",
@@ -1975,14 +1975,26 @@
           "url": "https://v.daum.net/v/p6B2gHEokV",
           "source": "Daum",
           "date": "2026-09-10"
+        },
+        {
+          "title": "클럽서 '에르메스백' 뿌리던 20대…3300억대 비트코인 절도 자백",
+          "url": "https://v.daum.net/v/20260911074929815",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'3300억' 초대형 가상화폐 절도 사건 주범 잡고 보니?",
+          "url": "https://www.etnews.com/20260909000383",
+          "source": "전자신문",
+          "date": "2026-09-10"
         }
       ]
     },
     "폴더 블 스마트 폰": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T08:10:00+09:00",
-      "lastSeen": "2026-09-11T08:10:00+09:00",
+      "lastSeen": "2026-09-11T08:38:00+09:00",
       "news": [
         {
           "title": "베일 벗은 애플 첫 ‘접는 아이폰’… “갤럭시보다 두껍고 무거워”",
@@ -2000,6 +2012,12 @@
           "title": "\"삼전닉스 보복?\"…'애플식 환율'에 韓 아이폰 듀오 美 보다 10% 비싸",
           "url": "https://v.daum.net/v/20260911060307655",
           "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "아이폰만 쓰던 일본…'월급 받아 뭐하나' 심상치 않은 분위기 [도쿄나우]",
+          "url": "https://www.hankyung.com/article/202609107471i",
+          "source": "한국경제",
           "date": "2026-09-10"
         }
       ]
@@ -2182,6 +2200,208 @@
           "title": "'파리' 간 화사, 잘록 허리 과시…물오른 미모까지 [N샷]",
           "url": "https://www.news1.kr/entertain/celebrity-topic/6286474",
           "source": "뉴스1",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "앤 트로픽": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T08:38:00+09:00",
+      "lastSeen": "2026-09-11T08:38:00+09:00",
+      "news": [
+        {
+          "title": "앤트로픽, 'AI 외부 해킹' 네번째 사례 공개",
+          "url": "https://www.yna.co.kr/view/AKR20260910024100009",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "앤트로픽, 클로드 AI 모델서 4번째 보안 사고 발생 발표",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2088976",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "클로드 유료 계정 토큰 탈취 잇달아…'인포스���러' 주의보",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215037",
+          "source": "AI타임스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "manchester united f.c. vs sabah fk standings": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-11T08:38:00+09:00",
+      "lastSeen": "2026-09-11T08:38:00+09:00",
+      "news": [
+        {
+          "title": "Man Utd 4-0 Sabah: Red Devils hit four against Sabah FK on Champions League return",
+          "url": "https://www.bbc.com/sport/football/live/c67830ezxn4xt",
+          "source": "BBC",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Shaw Given Extra Rest After Everton",
+          "url": "https://www.chosun.com/english/sports-en/2026/09/10/DF4GBFCCCFEAPPFSQJS7VCRZW4/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Sesko soars as Manchester United surge past Sabah on Champions League return",
+          "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-champions-league-match-report",
+          "source": "The Guardian",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "요르단": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T08:38:00+09:00",
+      "lastSeen": "2026-09-11T08:38:00+09:00",
+      "news": [
+        {
+          "title": "\"이란의 요르단 美기지 공습에 F-15·A-10 전투기 9대 손상\"",
+          "url": "https://www.yna.co.kr/view/AKR20260911000600071",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "이란 혁명수비대 “호르무즈서 미국 스파이 무인정 타격”",
+          "url": "https://www.khan.co.kr/article/202609110731001",
+          "source": "경향신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "유조선 난타전에 통제구역 확대 \"들어오면 ��재\"‥유가 어쩌나",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851011_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "삼성 전자 월세": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T08:38:00+09:00",
+      "lastSeen": "2026-09-11T08:38:00+09:00",
+      "news": [
+        {
+          "title": "“수백 명 조사 중”…삼성 직원들 ‘대량 징계’ 위기 [잇슈 키워드]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8659619",
+          "source": "KBS 뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "6억 성과급 부족했나…삼전 직원들, 70만원 위해 서류위조",
+          "url": "https://v.daum.net/v/20260910002807559",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘월세 70만원’ 지원금 챙기려 꼼수?···삼성전자, 일��� 직원 조사 ‘발칵’",
+          "url": "https://www.khan.co.kr/article/202609081840001",
+          "source": "경향신문",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "ott 서비스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T08:38:00+09:00",
+      "lastSeen": "2026-09-11T08:38:00+09:00",
+      "news": [
+        {
+          "title": "Genre-Specific OTT Services Gain Traction as Market Matures",
+          "url": "https://www.chosun.com/english/industry-en/2026/09/11/Y2ZLSMN73FD6XED4V4KEQEINEM/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Crunchyroll Enters South Korean Market, Intensifying Animation OTT Competition",
+          "url": "https://www.chosun.com/english/industry-en/2026/09/10/DZFHUFALYBCVJPRBAFCRALJPHE/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "양민혁": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T08:38:00+09:00",
+      "lastSeen": "2026-09-11T08:38:00+09:00",
+      "news": [
+        {
+          "title": "설기현 이영표 조원희 “이민성호 전력은 역대급, 문제는…”",
+          "url": "https://v.daum.net/v/xglsY3IkWQ?f=p",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"당연히 이길 생각, 우승하겠다!\" 日 16년 만의 亞 정상 탈환 도전…'이민성호' 최대 라이벌 오이와 고 감독 \"경험 쌓으려 출전하는 것 아니다\"",
+          "url": "https://www.chosun.com/sports/football/2026/09/10/GUZTONJTGBSDSZDDGJRTMZJYGI/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[단독] 단장 교체 불똥 튄 이영준, AG 조기 합류 불발…‘예비역’의 헌신은 토너먼트부터",
+          "url": "https://sports.khan.co.kr/article/202609101541003",
+          "source": "스포츠경향",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "베트남 축구 국가대표팀": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T08:38:00+09:00",
+      "lastSeen": "2026-09-11T08:38:00+09:00",
+      "news": [
+        {
+          "title": "[오피셜] '베트남 KING' 김상식 감독, 트로피 추가 도전한다! 초대 FIFA 아세안컵 24일 개막",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AF--%E1%84%87%E1%85%A6%E1%84%90%E1%85%B3%E1%84%82%E1%85%A1%E1%86%B7-king-%E1%84%80%E1%85%B5%E1%86%B7%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A9%E1%86%A8-%E1%84%90%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5-%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A1-%E1%84%83%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A1-%E1%84%8E%E1%85%A9%E1%84%83%E1%85%A2-fifa-%E1%84%8B%E1%85%A1%E1%84%89%E1%85%A6%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%8F%E1%85%A5%E1%86%B8-24%E1%84%8B%E1%85%B5%E1%86%AF-%E1%84%80%E1%85%A2%E1%84%86%E1%85%A1%E1%86%A8/blt2d1f87aab8c3e814",
+          "source": "Goal.com",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "베트남 축구 연맹(VFF)은 베트남 국가대표팀의 귀화 선수 수를 제한하지 않습니다.",
+          "url": "https://www.vietnam.vn/ko/vff-khong-gioi-han-cau-thu-nhap-tich-o-tuyen-viet-nam",
+          "source": "Vietnam.vn",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "베트남축구 FIFA ASEAN컵 앞두고 주전 좌측 수비수 부재…전술 변화 불가피",
+          "url": "https://chaovietnam.co.kr/187450/",
+          "source": "씬짜오베트남",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "카카오모빌리티": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T08:38:00+09:00",
+      "lastSeen": "2026-09-11T08:38:00+09:00",
+      "news": [
+        {
+          "title": "카카오 서울자율차가 복잡한 강남 밤길 누비는 이유",
+          "url": "https://zdnet.co.kr/view/?no=20260909160312",
+          "source": "지디넷코리아",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "자율주행 힘주는 카카오모빌리티…'韓 특화 데이터' 앞세워 빅테크와 경쟁",
+          "url": "https://v.daum.net/v/UIEsECnQHJ",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "TS, 세계 전문가들과 미래 모빌리티 일상화 해법 모색",
+          "url": "https://www.munhwa.com/article/11616118",
+          "source": "문화일보",
           "date": "2026-09-10"
         }
       ]
