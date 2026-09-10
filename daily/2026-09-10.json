@@ -2683,10 +2683,10 @@
       ]
     },
     "차태현": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T09:45:00+09:00",
-      "lastSeen": "2026-09-10T11:13:00+09:00",
+      "lastSeen": "2026-09-10T11:42:00+09:00",
       "news": [
         {
           "title": "차태현 “술 끊은 지 3년…무알코올 맥주 마시다 자연스럽게 금주”",
@@ -2709,10 +2709,10 @@
       ]
     },
     "메타 뮤즈": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T09:45:00+09:00",
-      "lastSeen": "2026-09-10T11:13:00+09:00",
+      "lastSeen": "2026-09-10T11:42:00+09:00",
       "news": [
         {
           "title": "2000억원 연봉 제안도 못 붙잡았다…AI 스타 연구자들, 빅테크 잇단 이탈",
@@ -2735,10 +2735,10 @@
       ]
     },
     "유가": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T09:45:00+09:00",
-      "lastSeen": "2026-09-10T11:13:00+09:00",
+      "lastSeen": "2026-09-10T11:42:00+09:00",
       "news": [
         {
           "title": "유가 다시 100달러 돌파…국채금리까지 증시 압박[뉴욕마감] - 머니투데이",
@@ -2811,10 +2811,10 @@
       ]
     },
     "자산": {
-      "count": 3,
-      "maxTraffic": 1000,
+      "count": 4,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-10T10:12:00+09:00",
-      "lastSeen": "2026-09-10T11:13:00+09:00",
+      "lastSeen": "2026-09-10T11:42:00+09:00",
       "news": [
         {
           "title": "\"빚이 곧 자산증식 기회더라\"…가계빚 2천조 시대의 단면",
@@ -2875,10 +2875,10 @@
       ]
     },
     "알렉산더 즈베레프": {
-      "count": 2,
-      "maxTraffic": 1000,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-10T10:42:00+09:00",
-      "lastSeen": "2026-09-10T11:13:00+09:00",
+      "lastSeen": "2026-09-10T11:42:00+09:00",
       "news": [
         {
           "title": "'브레이크도, 미니브레이크도 허용하지 않는다' 즈베레프, 무결점 경기력으로 8강 진출",
@@ -2901,10 +2901,10 @@
       ]
     },
     "필리핀": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T11:13:00+09:00",
-      "lastSeen": "2026-09-10T11:13:00+09:00",
+      "lastSeen": "2026-09-10T11:42:00+09:00",
       "news": [
         {
           "title": "'중국 쪽지'에 분노‥\"주권 지지해야 무기 구입\"",
@@ -2923,14 +2923,26 @@
           "url": "https://v.daum.net/v/20260910060213094",
           "source": "Daum",
           "date": "2026-09-10"
+        },
+        {
+          "title": "국토안전관리원-필리핀 정부 ‘기반 시설 안전관리’ 업무협약",
+          "url": "https://v.daum.net/v/20260909175755107",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "국토안전관리원, 필리핀과 기반시설 안전관리 협약 체결",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782517",
+          "source": "뉴시스",
+          "date": "2026-09-10"
         }
       ]
     },
     "chicago vs inter miami": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T11:13:00+09:00",
-      "lastSeen": "2026-09-10T11:13:00+09:00",
+      "lastSeen": "2026-09-10T11:42:00+09:00",
       "news": [
         {
           "title": "MATCH PREVIEW: Inter Miami CF Visits Chicago Fire FC in Midweek MLS Regular Season Action",
@@ -2949,14 +2961,20 @@
           "url": "https://www.syracuse.com/tv/2026/09/where-to-watch-chicago-fire-vs-inter-miami-mls-soccer-for-free-today.html",
           "source": "Syracuse.com",
           "date": "2026-09-10"
+        },
+        {
+          "title": "Listen Live to Chicago Fire vs. Lionel Messi’s Inter Miami on SiriusXM",
+          "url": "https://www.siriusxm.com/blog/inter-miami-chicago-fire-live-radio",
+          "source": "SiriusXM",
+          "date": "2026-09-10"
         }
       ]
     },
     "김대호": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-10T11:13:00+09:00",
-      "lastSeen": "2026-09-10T11:13:00+09:00",
+      "lastSeen": "2026-09-10T11:42:00+09:00",
       "news": [
         {
           "title": "'전속계약 해지통보' 김대호 \"너무 잘 산다? 외로워진지 좀 됐다\"('나혼산')",
@@ -2979,10 +2997,10 @@
       ]
     },
     "현대자동차": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T11:13:00+09:00",
-      "lastSeen": "2026-09-10T11:13:00+09:00",
+      "lastSeen": "2026-09-10T11:42:00+09:00",
       "news": [
         {
           "title": "NS홈쇼핑, 추석 앞두고 판매대금 150억원 조기 지급",
@@ -3000,6 +3018,38 @@
           "title": "현대차그룹, 추석 앞두고 협력사 납품대금 2조2562억원 조기 지급",
           "url": "https://www.ujnews.co.kr/news/newsview.php?ncode=1065574285275995",
           "source": "울산종합일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "현대차그룹, 추석 연휴 전 협력사 납품대금 2조2562억원 조기 지급",
+          "url": "https://www.mt.co.kr/industry/2026/09/09/2026090908543576382",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "skt": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T11:42:00+09:00",
+      "lastSeen": "2026-09-10T11:42:00+09:00",
+      "news": [
+        {
+          "title": "SKT's chief participates global mobile industry event in Malaysia",
+          "url": "https://en.yna.co.kr/view/AEN20260910002700320",
+          "source": "Yonhap News Agency",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "SK Telecom CEO discusses AI growth strategy with global telecom leaders at GSMA M360 ASEAN",
+          "url": "https://mbiz.heraldcorp.com/article/10868544",
+          "source": "헤럴드경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "SKT President Jung Jae-heon discusses AI growth strategy cooperation at 'GSMA M360 ASEAN'",
+          "url": "https://www.starnewskorea.com/en/business-life/2026/09/10/2026091009444684361",
+          "source": "스타뉴스",
           "date": "2026-09-10"
         }
       ]
