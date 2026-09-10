@@ -4439,10 +4439,10 @@
       ]
     },
     "트레킹": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T16:42:00+09:00",
-      "lastSeen": "2026-09-10T16:42:00+09:00",
+      "lastSeen": "2026-09-10T17:14:00+09:00",
       "news": [
         {
           "title": "[2026 가을 JOY트레킹] 온가족 함께 단풍 둘레길 걸어요",
@@ -4465,10 +4465,10 @@
       ]
     },
     "운전": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T16:42:00+09:00",
-      "lastSeen": "2026-09-10T16:42:00+09:00",
+      "lastSeen": "2026-09-10T17:14:00+09:00",
       "news": [
         {
           "title": "\"뻔뻔하다, 뻔뻔해\"..'음주운전' 이혁재·'마약 출소' 돈스파이크 행보 '경악' [스타이슈]",
@@ -4491,10 +4491,10 @@
       ]
     },
     "전국지표조사": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T16:42:00+09:00",
-      "lastSeen": "2026-09-10T16:42:00+09:00",
+      "lastSeen": "2026-09-10T17:14:00+09:00",
       "news": [
         {
           "title": "李대통령 지지율 NBS 조사 첫 역전…긍정 43%·부정 48%",
@@ -4512,6 +4512,188 @@
           "title": "[속보]“대통령 지지했지만 현재는 안해” 28.4%-미디어토마토",
           "url": "https://www.munhwa.com/article/11615878",
           "source": "문화일보",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "노동자": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T17:14:00+09:00",
+      "lastSeen": "2026-09-10T17:14:00+09:00",
+      "news": [
+        {
+          "title": "HL만도 하청노동자 49재에 유족 무기한 농성 돌입…노동부 장관 면담 요구",
+          "url": "https://www.khan.co.kr/article/202609091025001",
+          "source": "경향신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[단독] 청년 노동자 사망에 \"주가 하락 우려\", 국민연금에 알리지 말라는 HL만도",
+          "url": "https://www.pressian.com/pages/articles/2026091013162015294",
+          "source": "프레시안",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "장례도 못 치른 49재... \"청년 노동자 삼킨 만도 불법파견, 실질 책임자 수사하라\"",
+          "url": "https://v.daum.net/v/99ElQj4qpD",
+          "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "이준수": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T17:14:00+09:00",
+      "lastSeen": "2026-09-10T17:14:00+09:00",
+      "news": [
+        {
+          "title": "\"이준수 보고 황재균 '이 XX 잡는다'고…'술래게임' 결승전 후 대성통곡\"",
+          "url": "https://v.daum.net/v/20260909170615704",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“잡히면 죽는다” 황재균 쫓고 말왕 뛴다…‘술래게임’ 살벌한 추격전",
+          "url": "https://sports.donga.com/ent/article/all/20260910/134640271/1",
+          "source": "스포츠동아",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'이종혁 子' 이준수, '아빠어디가' 꼬마 맞아?..194cm 황재균 압도하는 피지컬(술래잡기)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/10/G4ZDGNJRGUZDSY3BHA4WIYZZGA/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "두산퓨얼셀": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T17:14:00+09:00",
+      "lastSeen": "2026-09-10T17:14:00+09:00",
+      "news": [
+        {
+          "title": "\"두산퓨얼셀, 주가에 '미국 진출' 미반영…목표가 73% 상향\"[클릭 e종목]",
+          "url": "https://v.daum.net/v/20260910060640270",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "가스터빈 공급난에 연료전지 대안 부각…AI 데이터센터 수주 확대 주목",
+          "url": "https://www.asiae.co.kr/article/2026090914165509004",
+          "source": "아시아경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "크레이그-할럼, 퓨얼셀 에너지 투자의견 ’매수’ 재개...시장 입지 개선",
+          "url": "https://kr.investing.com/news/analyst-ratings/article-93CH-2088604",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "토마호크": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T17:14:00+09:00",
+      "lastSeen": "2026-09-10T17:14:00+09:00",
+      "news": [
+        {
+          "title": "토마호크 10분 1가격 '앤섬', 세계 방산 흔든다",
+          "url": "https://v.daum.net/v/20260910104805177",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "코버넌트, 독일 순항 미사일 공장 개설",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2088325",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "연 1만 2000발 찍겠다는 美 순항미사일…‘토마호크보다 싼’ 이유 [밀리터리+]",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260910601010",
+          "source": "나우뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "병역 기피": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T17:14:00+09:00",
+      "lastSeen": "2026-09-10T17:14:00+09:00",
+      "news": [
+        {
+          "title": "군 내 당 조직의 조화와 통일성을 확보하기 위해 규정을 수정 및 보완한다.",
+          "url": "https://www.vietnam.vn/ko/sua-doi-bo-sung-cac-quy-dinh-bao-dam-to-chuc-dang-trong-quan-doi-dong-bo-thong-nhat",
+          "source": "Vietnam.vn",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "군 복무 회피 행위에 대한 새로운 규정",
+          "url": "https://ko.laodong.vn/thoi-su/quy-dinh-moi-ve-cac-hanh-vi-tron-nghia-vu-quan-su-1764360.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "2027년에는 어떤 상황에서 개인이 병역 의무에서 면제될까요?",
+          "url": "https://www.vietnam.vn/ko/truong-hop-nao-duoc-mien-nghia-vu-quan-su-nam-2027",
+          "source": "Vietnam.vn",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "lng선": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T17:14:00+09:00",
+      "lastSeen": "2026-09-10T17:14:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 조선사-가스公, LNG 화물창 국산화 재도전",
+          "url": "https://www.hankyung.com/article/202609106199i",
+          "source": "한국경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "조선해양 '소부장 특화단지' 지정 나선 경남",
+          "url": "https://m.news.nate.com/view/20260907n33349?mid=m03&list=recent&cpcd=",
+          "source": "네이트",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'껍데기만 1위' 굴레 벗는다…'FLNG' 원천기술 자립 선언",
+          "url": "https://www.nocutnews.co.kr/news/6573610",
+          "source": "노컷뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "탁재훈": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-10T17:14:00+09:00",
+      "lastSeen": "2026-09-10T17:14:00+09:00",
+      "news": [
+        {
+          "title": "구잘, 탁재훈과 핑크빛 분위기? \"나 어때…한 번도 안 갔고 오빠보다 17살 어려\"",
+          "url": "https://v.daum.net/v/20260910112959773",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "에바 \"약쟁이 만나 봐\"",
+          "url": "https://www.newsis.com/view/NISX20260909_0003783315",
+          "source": "뉴시스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "에바 \"한국에서 약쟁이도, 바람둥이도 만나봐…지금 남편은 잘 만나\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6286126",
+          "source": "뉴스1",
           "date": "2026-09-10"
         }
       ]
