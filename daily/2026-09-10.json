@@ -4839,10 +4839,10 @@
       ]
     },
     "엔진": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T18:13:00+09:00",
-      "lastSeen": "2026-09-10T18:42:00+09:00",
+      "lastSeen": "2026-09-10T19:14:00+09:00",
       "news": [
         {
           "title": "HD현대중공업, AI 전력시장에 1조 투자…엔진 공장 증설하고 SMR 핵심설비 공장도 짓는다",
@@ -4860,6 +4860,18 @@
           "title": "정기선의 승부수…HD현대, 발전용 엔진과 SMR��� 1조원 쓴다 - 머니투데이",
           "url": "https://www.mt.co.kr/industry/2026/09/10/2026091015312191134",
           "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "HD현대중공업, ‘AI 전력난’에 1조원 배팅…발전엔진·SMR 생산라인 구축",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372306",
+          "source": "전기신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "HD현대중공업, 육상용 발전엔진·SMR에 1조원대 투자…“AI 데이터센터 전력 수요 대응”",
+          "url": "https://www.khan.co.kr/article/202609101642011",
+          "source": "경향신문",
           "date": "2026-09-10"
         }
       ]
@@ -5034,10 +5046,10 @@
       "news": []
     },
     "kt 대 롯데": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-10T18:42:00+09:00",
-      "lastSeen": "2026-09-10T18:42:00+09:00",
+      "lastSeen": "2026-09-10T19:14:00+09:00",
       "news": [
         {
           "title": "600승 제물은 롯데? 이강철 감독, 대망의 600승까지 단 1승…KBO 역대 13번째 대기록 눈앞",
@@ -5060,10 +5072,10 @@
       ]
     },
     "한우": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-10T18:42:00+09:00",
-      "lastSeen": "2026-09-10T18:42:00+09:00",
+      "lastSeen": "2026-09-10T19:14:00+09:00",
       "news": [
         {
           "title": "장수 한우랑사과랑축제 내일부터 나흘간 열려",
@@ -5082,14 +5094,26 @@
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3691256",
           "source": "국제뉴스",
           "date": "2026-09-10"
+        },
+        {
+          "title": "농식품부, 12일부터 추석 맞아 한우 최대 52% 할인",
+          "url": "https://www.yna.co.kr/view/AKR20260910066500030",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"이틀만 기다렸다 사세요\"…추석 앞 '반값 한우' 풀린다",
+          "url": "https://v.daum.net/v/20260910143150252",
+          "source": "Daum",
+          "date": "2026-09-10"
         }
       ]
     },
     "김가람": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-10T18:42:00+09:00",
-      "lastSeen": "2026-09-10T18:42:00+09:00",
+      "lastSeen": "2026-09-10T19:14:00+09:00",
       "news": [
         {
           "title": "‘르세라핌 탈퇴’ 김가람, 배우로 새 출발…프로필 공개",
@@ -5112,10 +5136,10 @@
       ]
     },
     "송치": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T18:42:00+09:00",
-      "lastSeen": "2026-09-10T18:42:00+09:00",
+      "lastSeen": "2026-09-10T19:14:00+09:00",
       "news": [
         {
           "title": "‘실종 신고 허위 종결’ 부 경장, 성범죄 혐의 추가 송치​",
@@ -5133,6 +5157,142 @@
           "title": "'실종 허위종결' 제주 경찰관 구속기간 열흘 연장",
           "url": "https://www.yna.co.kr/view/AKR20260909173500056",
           "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[속보] 제주 '실종 허위종결' 경찰, 女화장실 침입 혐의도 송치⋯\"성적 목적 판단\"",
+          "url": "https://v.daum.net/v/20260910180927284",
+          "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "울진군": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T19:14:00+09:00",
+      "lastSeen": "2026-09-10T19:14:00+09:00",
+      "news": [
+        {
+          "title": "“X이나 쳐 드세요”…1인당 30만원 ‘없던 일’되자 울진군민 분노",
+          "url": "https://v.daum.net/v/20260910112436537",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“추석 전에 30만원씩 준다더니” 없던 일 됐다…140억 전액 삭감에 주민들 ‘부글’",
+          "url": "https://www.sedaily.com/article/20089624",
+          "source": "서울경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "민생지원금 부결에 성난 울진 민심…군의원 연수도 제동",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083634",
+          "source": "경북일보",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "강남구": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T19:14:00+09:00",
+      "lastSeen": "2026-09-10T19:14:00+09:00",
+      "news": [
+        {
+          "title": "강남·서초 이어 송파도 하락 전환... 서울 아파트 83주 연속 상승",
+          "url": "https://www.chosun.com/economy/real_estate/2026/09/10/F67XOLBILZEORDPGULEJOXCCRM/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "서울 ‘매물 잠김’ 풀렸지만 거래 가뭄… 시장에 7만채 쌓였다 [뉴스 투데이]",
+          "url": "https://v.daum.net/v/20260910185843021",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'강남은 빠지고 외곽은 오르고'… 서울 집값 디커플링 더 벌어지나 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/09/10/2026091011322016798",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "에어팟 5": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T19:14:00+09:00",
+      "lastSeen": "2026-09-10T19:14:00+09:00",
+      "news": [
+        {
+          "title": "Apple, 오픈형 이어폰 중 동급 최고의 액티브 노이즈 캔슬링을 탑재한 AirPods 5 공개",
+          "url": "https://www.apple.com/kr/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+          "source": "Apple",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "애플 '에어팟5'…ANC 강화·시리 AI·실시간 번역 지원",
+          "url": "https://www.etnews.com/20260910000007",
+          "source": "전자신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "애플, AirPods 5·Apple Watch Series 12·Ultra 4 공식 공개… 먼저 확인한 세부 정보",
+          "url": "https://hypebeast.kr/2026/9/apple-officially-unveils-airpods-5-apple-watch-series-12-and-the-ultra-4-and-we-got-early-details",
+          "source": "Hypebeast.KR",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "위원장": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T19:14:00+09:00",
+      "lastSeen": "2026-09-10T19:14:00+09:00",
+      "news": [
+        {
+          "title": "최승호 위원장, '장인 수의계약 잘못' 따진 노조원에 '인사 보복' 압박",
+          "url": "https://v.daum.net/v/20260910171651128",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "삼성전자 '성과급 투쟁' 조끼‥\"노조위원장 장인 업체서 샀다\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850742_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[단독] 6억 예산인데 리조트 ‘11.7억’ 중복 계약…초기업노조 최승호 배임 논란",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169853",
+          "source": "IT조선",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "서영교": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T19:14:00+09:00",
+      "lastSeen": "2026-09-10T19:14:00+09:00",
+      "news": [
+        {
+          "title": "與, 연일 \"한동훈 아웃\"…\"제명 처음도 아냐\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260910111337TR4",
+          "source": "연합뉴스TV",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[사설]의혹 눈덩인데 김승원 ‘무증인’ 청문회, 당치 않다",
+          "url": "https://v.daum.net/v/20260910181210401",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "안철수 \"김승원, 국감 도중 브로커와 통화 문자…TV에 고스란히 잡혀\"",
+          "url": "https://news.jtbc.co.kr/article/NB12317712",
+          "source": "JTBC",
           "date": "2026-09-10"
         }
       ]
