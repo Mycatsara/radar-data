@@ -972,10 +972,10 @@
       ]
     },
     "아스널 fc": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T03:43:00+09:00",
-      "lastSeen": "2026-09-11T05:41:00+09:00",
+      "lastSeen": "2026-09-11T06:11:00+09:00",
       "news": [
         {
           "title": "'외데고르 결승포' 아스날, 슈팅 24개 맹폭 끝 나폴리 원정 1-0 승리...UCL 첫판부터 승점 3점 - 머니투데이",
@@ -1010,10 +1010,10 @@
       ]
     },
     "skt": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T04:10:00+09:00",
-      "lastSeen": "2026-09-11T05:41:00+09:00",
+      "lastSeen": "2026-09-11T06:11:00+09:00",
       "news": [
         {
           "title": "SK Telecom discusses AI growth strategy with global telecom leaders",
@@ -1036,10 +1036,10 @@
       ]
     },
     "챔스": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-11T04:10:00+09:00",
-      "lastSeen": "2026-09-11T05:41:00+09:00",
+      "lastSeen": "2026-09-11T06:11:00+09:00",
       "news": [
         {
           "title": "이강인 UCL 데뷔전서 '안필드 5호골' 작렬, '리버풀 킬러' 등극! 아틀레티코 역전패에 빛 바랜 '선제골'...\"팀이 지면 아무 의미 없어\"",
@@ -1164,10 +1164,10 @@
       ]
     },
     "ios27": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T05:12:00+09:00",
-      "lastSeen": "2026-09-11T05:41:00+09:00",
+      "lastSeen": "2026-09-11T06:11:00+09:00",
       "news": [
         {
           "title": "iOS 27 launches on September 14th with Siri AI",
@@ -1202,10 +1202,10 @@
       ]
     },
     "오세훈": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T05:12:00+09:00",
-      "lastSeen": "2026-09-11T05:41:00+09:00",
+      "lastSeen": "2026-09-11T06:11:00+09:00",
       "news": [
         {
           "title": "‘한동훈·이진숙 OUT’ 다음날… 김민석 “법 개정해 의원 자격정지”",
@@ -1230,14 +1230,20 @@
           "url": "https://v.daum.net/v/qt22bo9Uvf",
           "source": "Daum",
           "date": "2026-09-10"
+        },
+        {
+          "title": "김용남 \"정청래, 서울시장 후보 메모가 기분 나쁠 일인가?\"[여의도 사자후]",
+          "url": "https://v.daum.net/v/fosDLSgRma",
+          "source": "Daum",
+          "date": "2026-09-10"
         }
       ]
     },
     "스포티비": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T05:12:00+09:00",
-      "lastSeen": "2026-09-11T05:41:00+09:00",
+      "lastSeen": "2026-09-11T06:11:00+09:00",
       "news": [
         {
           "title": "[아시안게임] 개회 9일 남은 나고야…아직은 조용한 분위기로 준비 중",
@@ -1260,10 +1266,10 @@
       ]
     },
     "바이에른 대 보되/글림트": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T05:12:00+09:00",
-      "lastSeen": "2026-09-11T05:41:00+09:00",
+      "lastSeen": "2026-09-11T06:11:00+09:00",
       "news": [
         {
           "title": "바이에른 뮌헨 콤파이 감독, 우파메카노-요나단 타 듀오 재신임…UCL 첫 경기 현지 예측",
@@ -1287,6 +1293,12 @@
           "title": "챔피언스리그: 바이에른이 작년의 강팀 킬러를 맞이한다",
           "url": "https://sbotopkr.tistory.com/2543",
           "source": "티스토리",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘올리세 원더골’ 바이에른, 보되 5-0 대파하며 순조로운 UCL 첫발… 김민재는 결장 [UCL 리뷰]",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=214660",
+          "source": "풋볼리스트",
           "date": "2026-09-10"
         }
       ]
@@ -1318,17 +1330,36 @@
       ]
     },
     "แมนยู พบ สโมสรฟุตบอลซาบาห์": {
-      "count": 1,
-      "maxTraffic": 100,
-      "firstSeen": "2026-09-11T05:41:00+09:00",
-      "lastSeen": "2026-09-11T05:41:00+09:00",
-      "news": []
-    },
-    "맨유": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T05:41:00+09:00",
-      "lastSeen": "2026-09-11T05:41:00+09:00",
+      "lastSeen": "2026-09-11T06:11:00+09:00",
+      "news": [
+        {
+          "title": "โค้ชแคร์ริคแจ้งข่าวดีก่อนที่แมนฯ ยูไนเต็ดจะกลับมาลงเล่นในแชมเปี้ยนส์ลีกอีกครั้ง",
+          "url": "https://www.vietnam.vn/th/hlv-carrick-bao-tin-vui-truoc-ngay-man-utd-tro-lai-champions-league",
+          "source": "Vietnam.vn",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "ได้ใจแมนยู \"เอ็มเบอโม่\" พูดตรงๆ ก่อนลงเล่น UCL ครั้งแรกในชีวิต ปะทะ \"ซาบาห์\"",
+          "url": "https://www.thairath.co.th/sport/eurofootball/uefa/2958851",
+          "source": "Thairath.co.th",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "แบบนี้มันไม่ผ่านกฎ! แมนยู ต้องปรับแก้เสื้อแข่งชุด 3 ก่อนลุยศึกยูฟ่า แชมเปียนส์ลีก",
+          "url": "https://www.sanook.com/sport/1671865/",
+          "source": "Sanook.com",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "맨유": {
+      "count": 2,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T05:41:00+09:00",
+      "lastSeen": "2026-09-11T06:11:00+09:00",
       "news": [
         {
           "title": "\"예전엔 당연했던 챔스, 못 나가보니…\" UCL 1,003일 만에 복귀한 맨유 캐릭 감독, \"얼마나 특별한지 알겠다\"",
@@ -1346,6 +1377,38 @@
           "title": "맨체스터 유나이티드 '충격' 반전! 돌아온 '탕아' 1036일 만에 UCL 명단 포함, 약 3년 만에 '복귀전' 임박…사바하전 '반등' 노린다",
           "url": "https://m.news.nate.com/view/20260910n36135",
           "source": "Nate News",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "필승! 압승을 향한 땀방울!",
+          "url": "https://www.manutd.com/ko/news/counting-down-to-sabah-showdown-gallery",
+          "source": "Official Manchester United Website",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "경로당": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T06:11:00+09:00",
+      "lastSeen": "2026-09-11T06:11:00+09:00",
+      "news": [
+        {
+          "title": "“돈 내고 눈치보기 싫어” 경로당 떠나는 노인들",
+          "url": "https://v.daum.net/v/20260911004041188",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'한 수' 즐기던 사랑방… 하나 둘 사라진다 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/11/2026091019592410798",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "하나둘 사라지는 '기원'…도박에 얼룩진 '4000원 사랑방'",
+          "url": "https://supple.kr/news/cmtv7o1lj007nlrbqpk8nv4p0",
+          "source": "https://spt.co.kr/",
           "date": "2026-09-10"
         }
       ]
