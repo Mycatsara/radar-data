@@ -6104,10 +6104,10 @@
       ]
     },
     "미스 트롯 포유": {
-      "count": 3,
-      "maxTraffic": 2000,
+      "count": 4,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-10T22:13:00+09:00",
-      "lastSeen": "2026-09-10T23:12:00+09:00",
+      "lastSeen": "2026-09-10T23:43:00+09:00",
       "news": [
         {
           "title": "“방송사고” 비명…안성훈·손빈아 무대 중 돌발 상황 (미스트롯 포유)",
@@ -6142,10 +6142,10 @@
       ]
     },
     "도둑": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T22:13:00+09:00",
-      "lastSeen": "2026-09-10T23:12:00+09:00",
+      "lastSeen": "2026-09-10T23:43:00+09:00",
       "news": []
     },
     "jyp 엔터테인먼트": {
@@ -6181,10 +6181,10 @@
       ]
     },
     "송미령": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T22:42:00+09:00",
-      "lastSeen": "2026-09-10T23:12:00+09:00",
+      "lastSeen": "2026-09-10T23:43:00+09:00",
       "news": [
         {
           "title": "농사를 못 지으면 농지를 팔아야 한다? 사실은 이렇습니다",
@@ -6207,10 +6207,10 @@
       ]
     },
     "ppi": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-10T22:42:00+09:00",
-      "lastSeen": "2026-09-10T23:12:00+09:00",
+      "lastSeen": "2026-09-10T23:43:00+09:00",
       "news": [
         {
           "title": "Wholesale prices rose 0.4% in August, as expected",
@@ -6235,14 +6235,20 @@
           "url": "https://www.tradingview.com/news/macenews:25716fa91094b:0-us-aug-ppi-ex-food-and-energy-4-6-y-y-vs-4-6-expected-and-4-2-in-july/",
           "source": "TradingView",
           "date": "2026-09-10"
+        },
+        {
+          "title": "PPI data shows wholesale prices advancing in line with expectations",
+          "url": "https://finance.yahoo.com/economy/article/ppi-data-shows-wholesale-prices-advancing-in-line-with-expectations-124319008.html",
+          "source": "Yahoo Finance",
+          "date": "2026-09-10"
         }
       ]
     },
     "wti": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T23:12:00+09:00",
-      "lastSeen": "2026-09-10T23:12:00+09:00",
+      "lastSeen": "2026-09-10T23:43:00+09:00",
       "news": [
         {
           "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
@@ -6261,14 +6267,20 @@
           "url": "https://apnews.com/article/stocks-markets-oil-trump-rates-7fbc77061abd778608068d3beb1bbbaf",
           "source": "AP News",
           "date": "2026-09-10"
+        },
+        {
+          "title": "Iran War Updates: Oil tops $100 per barrel as U.S. fighter jets are damaged in Iranian strikes on Jordan",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-tankers-attacks-strikes-strait-of-hormuz-oil-price/",
+          "source": "CBS News",
+          "date": "2026-09-10"
         }
       ]
     },
     "서울 지하철 2호선": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-10T23:12:00+09:00",
-      "lastSeen": "2026-09-10T23:12:00+09:00",
+      "lastSeen": "2026-09-10T23:43:00+09:00",
       "news": [
         {
           "title": "“지하철에 피자만 탔습니다”…2호선 기관사 또 단호한 대처 [이런뉴스]",
@@ -6291,10 +6303,10 @@
       ]
     },
     "사랑 이 온다": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T23:12:00+09:00",
-      "lastSeen": "2026-09-10T23:12:00+09:00",
+      "lastSeen": "2026-09-10T23:43:00+09:00",
       "news": [
         {
           "title": "안희연 '싱글맘' 아니고, 하석진은 결별했다…'사랑이 온다' 나비효과",
@@ -6313,14 +6325,20 @@
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/08/GJTDONBSMVRTAOJVGU2DGMJSGU/",
           "source": "Chosunbiz",
           "date": "2026-09-10"
+        },
+        {
+          "title": "안희연, KBS에서 일내나…주말극 ‘사랑이 온다’ 자체최고시청률 경신",
+          "url": "https://www.osen.co.kr/article/G1112871716",
+          "source": "OSEN",
+          "date": "2026-09-10"
         }
       ]
     },
     "대우건설": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T23:12:00+09:00",
-      "lastSeen": "2026-09-10T23:12:00+09:00",
+      "lastSeen": "2026-09-10T23:43:00+09:00",
       "news": [
         {
           "title": "대우건설 '오픈 이노베이션 데이'…스타트업과 협업 본격화",
@@ -6338,6 +6356,70 @@
           "title": "대우건설, 스타트업 혁신기술 최종 평가…AI·로보틱스 스마트 경쟁력 강화",
           "url": "https://www.newsis.com/view/NISX20260910_0003783674",
           "source": "뉴시스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "대우건설 '오픈 이노베이션 데이'…스타트업과 협업 본격화",
+          "url": "https://www.yna.co.kr/view/AKR20260910033700003",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "AI부터 로봇까지…대우건설, 스타트업 9곳과 오픈 이노베이션 데이 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/09/10/2026091009284356476",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "변우석": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T23:43:00+09:00",
+      "lastSeen": "2026-09-10T23:43:00+09:00",
+      "news": [
+        {
+          "title": "130억 한남더힐 전액 현금으로…변우석, '선업튀' 2년 만에 깜짝 [집코노미-핫!부동산]",
+          "url": "https://www.hankyung.com/article/202609107236H",
+          "source": "한국경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "변우석, 한남동 고급주택 전액 현금 매입…소지섭 이웃사촌 됐다",
+          "url": "https://star.ytn.co.kr/_sn/0117_202609101748017641",
+          "source": "YTN star",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“아이유한테 배웠나?” 변우석, 전액 현금으로 한남더힐 130억원에 매입설…아이유는 청담 에테르노",
+          "url": "https://www.munhwa.com/article/11616130",
+          "source": "문화일보",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "신애라": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T23:43:00+09:00",
+      "lastSeen": "2026-09-10T23:43:00+09:00",
+      "news": [
+        {
+          "title": "57세 신애라, 30년 전 사진 맞아? 머리만 달라진 방부제 미모 '깜짝' [N샷]",
+          "url": "https://v.daum.net/v/20260910165646135",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "신애라, 30년 전 미모가 이 정도였어?..♥차인표가 반한 '원조 미인'",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/10/HA4WEMZZHAZDKZJRMFQTAMRZMQ/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'차인표♥' 신애라, '사전 장례식' 치른 90세 父에 애틋..\"면허 반납해주셔서 감사\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-10/202609100100072450004676",
+          "source": "스포츠조선",
           "date": "2026-09-10"
         }
       ]
