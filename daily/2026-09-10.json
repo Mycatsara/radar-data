@@ -2683,10 +2683,10 @@
       ]
     },
     "차태현": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T09:45:00+09:00",
-      "lastSeen": "2026-09-10T10:42:00+09:00",
+      "lastSeen": "2026-09-10T11:13:00+09:00",
       "news": [
         {
           "title": "차태현 “술 끊은 지 3년…무알코올 맥주 마시다 자연스럽게 금주”",
@@ -2709,10 +2709,10 @@
       ]
     },
     "메타 뮤즈": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T09:45:00+09:00",
-      "lastSeen": "2026-09-10T10:42:00+09:00",
+      "lastSeen": "2026-09-10T11:13:00+09:00",
       "news": [
         {
           "title": "2000억원 연봉 제안도 못 붙잡았다…AI 스타 연구자들, 빅테크 잇단 이탈",
@@ -2735,10 +2735,10 @@
       ]
     },
     "유가": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T09:45:00+09:00",
-      "lastSeen": "2026-09-10T10:42:00+09:00",
+      "lastSeen": "2026-09-10T11:13:00+09:00",
       "news": [
         {
           "title": "유가 다시 100달러 돌파…국채금리까지 증시 압박[뉴욕마감] - 머니투데이",
@@ -2773,10 +2773,10 @@
       ]
     },
     "레이스 대 브레이브스": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T09:45:00+09:00",
-      "lastSeen": "2026-09-10T10:42:00+09:00",
+      "lastSeen": "2026-09-10T11:13:00+09:00",
       "news": [
         {
           "title": "김하성 없었으면 어쩔 뻔했나! '타율 0.068' 딛고 다저스 격침→ATL 선두 이끈 \"예상 밖 영웅\" 美 극찬",
@@ -2795,14 +2795,26 @@
           "url": "https://www.yna.co.kr/view/AKR20260908013600007",
           "source": "연합뉴스",
           "date": "2026-09-09"
+        },
+        {
+          "title": "애틀랜타, 탬파베이에 2-7로 져 3연패…김하성, 두 경기 연속 결장",
+          "url": "https://www.newsis.com/view/NISX20260910_0003783986",
+          "source": "뉴시스",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "‘다저스전 끝내기 안타 믿음 끝났나’ 김하성, 2G 연속 결장…ATL, TB전 2-7 완패→3연패 수렁 [ATL 리뷰]",
+          "url": "https://www.osen.co.kr/article/G1112873050",
+          "source": "OSEN",
+          "date": "2026-09-09"
         }
       ]
     },
     "자산": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-10T10:12:00+09:00",
-      "lastSeen": "2026-09-10T10:42:00+09:00",
+      "lastSeen": "2026-09-10T11:13:00+09:00",
       "news": [
         {
           "title": "\"빚이 곧 자산증식 기회더라\"…가계빚 2천조 시대의 단면",
@@ -2863,10 +2875,10 @@
       ]
     },
     "알렉산더 즈베레프": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T10:42:00+09:00",
-      "lastSeen": "2026-09-10T10:42:00+09:00",
+      "lastSeen": "2026-09-10T11:13:00+09:00",
       "news": [
         {
           "title": "'브레이크도, 미니브레이크도 허용하지 않는다' 즈베레프, 무결점 경기력으로 8강 진출",
@@ -2884,6 +2896,110 @@
           "title": "즈베레프, 4대 ���이저 모두 8강…US오픈 첫 우승 정조준",
           "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19415",
           "source": "테니스피플",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "필리핀": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T11:13:00+09:00",
+      "lastSeen": "2026-09-10T11:13:00+09:00",
+      "news": [
+        {
+          "title": "'중국 쪽지'에 분노‥\"주권 지지해야 무기 구입\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6850571_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "中 \"대중 관심 끌려는 행동 중단해야\"…필리핀 국방 겨냥 경고",
+          "url": "https://www.yna.co.kr/view/AKR20260909169100083",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[기고] 남중국해, 한국이 아세안과 함께 해나갈 일",
+          "url": "https://v.daum.net/v/20260910060213094",
+          "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "chicago vs inter miami": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T11:13:00+09:00",
+      "lastSeen": "2026-09-10T11:13:00+09:00",
+      "news": [
+        {
+          "title": "MATCH PREVIEW: Inter Miami CF Visits Chicago Fire FC in Midweek MLS Regular Season Action",
+          "url": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-visits-chicago-fire-fc-in-midweek-mls-regular-season-action",
+          "source": "Inter Miami CF",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Messi, Lewandowski meet in first MLS showdown at sold-out Soldier Field",
+          "url": "https://www.miamiherald.com/sports/mls/inter-miami/article317185703.html",
+          "source": "Miami Herald",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Where to watch Chicago Fire vs. Inter Miami MLS soccer for free today",
+          "url": "https://www.syracuse.com/tv/2026/09/where-to-watch-chicago-fire-vs-inter-miami-mls-soccer-for-free-today.html",
+          "source": "Syracuse.com",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "김대호": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T11:13:00+09:00",
+      "lastSeen": "2026-09-10T11:13:00+09:00",
+      "news": [
+        {
+          "title": "'전속계약 해지통보' 김대호 \"너무 잘 산다? 외로워진지 좀 됐다\"('나혼산')",
+          "url": "https://v.daum.net/v/20260910061728414",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"김신영이 사라졌다\"…'조작방송 논란' 나혼산 근황",
+          "url": "https://v.daum.net/v/20260909145050412",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘나혼산’ 전현무 즉흥여행 논란이 낳은 궁금증···일반인도 공항서 즉석 해외여행, 가능할까?",
+          "url": "https://www.khan.co.kr/article/202609071010001",
+          "source": "경향신문",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "현대자동차": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T11:13:00+09:00",
+      "lastSeen": "2026-09-10T11:13:00+09:00",
+      "news": [
+        {
+          "title": "NS홈쇼핑, 추석 앞두고 판매대금 150억원 조기 지급",
+          "url": "https://www.yna.co.kr/view/AKR20260910024900030",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "NS홈쇼핑, 추석 앞두고 협력사 판매대금 150억원 조기지급",
+          "url": "https://www.ekn.kr/web/view.php?key=20260910026042996",
+          "source": "에너지경제신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "현대차그룹, 추석 앞두고 협력사 납품대금 2조2562억원 조기 지급",
+          "url": "https://www.ujnews.co.kr/news/newsview.php?ncode=1065574285275995",
+          "source": "울산종합일보",
           "date": "2026-09-10"
         }
       ]
