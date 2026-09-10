@@ -1685,6 +1685,266 @@
           "date": "2026-09-10"
         }
       ]
+    },
+    "코레일 추석예매": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-11T07:40:00+09:00",
+      "lastSeen": "2026-09-11T07:40:00+09:00",
+      "news": [
+        {
+          "title": "추석 경부선 예매 첫날, 최대 50여만 명 몰려 서버 2시간 대기…통합 KTX 호언장담 ‘무색’",
+          "url": "https://v.daum.net/v/20260910162005560",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "코레일 '2026 추석 승차권 예매' 마지막날…경부선 KTX",
+          "url": "https://www.etoday.co.kr/news/view/2624271",
+          "source": "이투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "김은혜, KTX 불법 예매대행 방치 지적…“긴급 차단해야”",
+          "url": "https://www.kyeonggi.com/article/20260910580366",
+          "source": "경기일보",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "당뇨병": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T07:40:00+09:00",
+      "lastSeen": "2026-09-11T07:40:00+09:00",
+      "news": [
+        {
+          "title": "젊은 당뇨병, ‘이 수치’ 변화가 갈랐다… 27만명 분석 결과",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/09/09/2026090901400.html",
+          "source": "헬스조선",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "성인 6명중 1명 앓는 ‘이 질환’…“방치시 시력상실”",
+          "url": "https://www.donga.com/news/Society/article/all/20260910/134641719/1",
+          "source": "동아일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "심하면 생명까지 위협한다! 치명적인 당뇨 합병증",
+          "url": "https://ichannela.com/program/clip/000000549516.do",
+          "source": "채널A",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "사업": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T07:40:00+09:00",
+      "lastSeen": "2026-09-11T07:40:00+09:00",
+      "news": [
+        {
+          "title": "인천시 제물포구, ‘그냥드림’ 시작…위기 가구에 2만 원 상당 생필품 즉시 지원",
+          "url": "https://v.daum.net/v/20260910183407263",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "서류없이 도움, 11개 군·구에서 ‘그냥드림’",
+          "url": "https://www.kyeongin.com/article/1770579",
+          "source": "경인일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "제물포구, 생활고 주민에 생필품 지원한다…그냥드림 등[인천소식]",
+          "url": "https://www.newsis.com/view/NISX20260910_0003783970",
+          "source": "뉴시스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "이다해": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T07:40:00+09:00",
+      "lastSeen": "2026-09-11T07:40:00+09:00",
+      "news": [
+        {
+          "title": "이다해, 임신 근황…여전히 뼈말라 “압박스타킹 신고 잘 돌아다니는 임산부”",
+          "url": "https://www.koreadaily.com/article/20260908180448207",
+          "source": "미주중앙일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘세븐♥’ 이다해, 만삭 맞아?…D라인 실종된 늘씬 근황",
+          "url": "https://sports.khan.co.kr/article/202609091441003",
+          "source": "스포츠경향",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "이다해, 출산 두 달인데 “임산부 아닌 것 같아요”…명품 아기 옷장 눈독",
+          "url": "https://www.mk.co.kr/news/entertain/12148966",
+          "source": "매일경제",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "신진 서": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T07:40:00+09:00",
+      "lastSeen": "2026-09-11T07:40:00+09:00",
+      "news": [
+        {
+          "title": "한국 바둑 첫 주자 안성준, 농심신라면배 2국서 양딩신에 패배(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260910089751007",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "선봉 김영삼, 경쾌한 행마로 전투회피형 차오다위안류 제압",
+          "url": "https://www.cyberoro.com/news/news_view.oro?num=532787",
+          "source": "사이버오로",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "엇갈린 형님과 동생의 희비…백산수배 韓 선봉 김영삼은 차오다위안 격파, 신라면배 韓 선봉 안성준은 양딩신에 패배",
+          "url": "https://sports.khan.co.kr/article/202609101915003",
+          "source": "스포츠경향",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "폴더블 스마트폰": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-11T07:40:00+09:00",
+      "lastSeen": "2026-09-11T07:40:00+09:00",
+      "news": [
+        {
+          "title": "베일 벗은 애플 첫 ‘접는 아이폰’… “갤럭시보다 두껍고 무거워”",
+          "url": "https://www.donga.com/news/Economy/article/all/20260910/134646232/2",
+          "source": "동아일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"삼전닉스 보복?\"…'애플식 환율'에 韓 아이폰 듀오 美 보다 10% 비싸",
+          "url": "https://v.daum.net/v/20260911060307655",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "아이폰도 ‘접는다’…폴더블폰 시장서 삼성에 도전장",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8660572",
+          "source": "KBS 뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "다니엘": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T07:40:00+09:00",
+      "lastSeen": "2026-09-11T07:40:00+09:00",
+      "news": [
+        {
+          "title": "감정 자료 공개·절차 지연 두고 또 서로 탓한 어도어vs다니엘[현장EN:]",
+          "url": "https://v.daum.net/v/20260910180601166",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "어도어VS다니엘 손배소, '4인조 뉴진스' 컴백 계획 밝혀라...왜? [MTN 현장+]",
+          "url": "https://news.mtn.co.kr/news-detail/2026091017074618488",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "다니엘, 어도어에 자료 요구...\"뉴진스 활동계획 제출해야\"",
+          "url": "https://www.dispatch.co.kr/2347737",
+          "source": "디스패치",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "man utd vs sabah fk": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T07:40:00+09:00",
+      "lastSeen": "2026-09-11T07:40:00+09:00",
+      "news": [
+        {
+          "title": "Champions League LIVE: Man Utd vs Sabah plus five games - scores, commentary & updates",
+          "url": "https://www.bbc.com/sport/football/live/ckgjq23d1d6qt",
+          "source": "BBC",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"Slavia\" lost victory in 2 minutes, \"Bayern\" and Man United ran riot: Champions League match results",
+          "url": "https://unn.ua/en/news/slavia-lost-victory-in-2-minutes-bayern-and-man-united-ran-riot-champions-league-match-results",
+          "source": "Українські Національні Новини (УНН)",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Live Updates, Scores, Highlights and Standings from the UEFA Champions League (9/10)",
+          "url": "https://bleacherreport.com/liveblogs/25497950-live-updates-scores-highlights-and-standings-uefa-champions-league-910",
+          "source": "Bleacher Report",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "김수미": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T07:40:00+09:00",
+      "lastSeen": "2026-09-11T07:40:00+09:00",
+      "news": [
+        {
+          "title": "김영옥 “아이유가 나와 나문희 선택”…MV 출연 비화",
+          "url": "https://v.daum.net/v/20260911060003341",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "김영옥, 故 김수미 그리움에 \"못 해준 것 같아 아쉬워\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/11/MIYTKNRYHFSTMMLFMVTGGMDBMQ/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "김영욱, 식사 중 떠올린 故 김수미⋯\"다 갈 건데도 아쉬워\"",
+          "url": "https://www.etoday.co.kr/news/view/2624267",
+          "source": "이투데이",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "토트넘 홋스퍼 fc": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T07:40:00+09:00",
+      "lastSeen": "2026-09-11T07:40:00+09:00",
+      "news": [
+        {
+          "title": "\"충격\" '너무 안 풀린다!' 18위 토트넘 미하일로 무드리크, 훈련 중 부상 OUT 'A매치 휴식기 이후 복귀 예정'",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/10/MZSTGNZYGE4TSNJRG4ZTEZDDGM/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘토트넘 비상 또 비상!’ 1700억 사나이, 미친 듯이 뛰어도 부족한 시기에 “훈련 중 부상, 6~8주 결장 ...",
+          "url": "https://sports.khan.co.kr/article/202609101819003",
+          "source": "스포츠경향",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'이럴 수가' 2년 만에 돌아온 '손흥민 후계자' 복귀하자마자 날벼락…토트넘서 단 16분 뛰고 발목 부상→최대 2개월 결장 전망",
+          "url": "https://m.news.nate.com/view/20260911n00751",
+          "source": "Nate News",
+          "date": "2026-09-10"
+        }
+      ]
     }
   },
   "sections": {
