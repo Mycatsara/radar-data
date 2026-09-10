@@ -672,10 +672,10 @@
       ]
     },
     "ucl": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T02:40:00+09:00",
-      "lastSeen": "2026-09-11T03:43:00+09:00",
+      "lastSeen": "2026-09-11T04:10:00+09:00",
       "news": [
         {
           "title": "Manchester United v Sabah: Meet Azerbaijani club's coach Valdas Dambrauskas",
@@ -710,10 +710,10 @@
       ]
     },
     "유가": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T02:40:00+09:00",
-      "lastSeen": "2026-09-11T02:40:00+09:00",
+      "lastSeen": "2026-09-11T04:10:00+09:00",
       "news": [
         {
           "title": "[글로벌증시] 유가·국채 금리 급등에 뉴욕증시 일제 하락",
@@ -732,14 +732,26 @@
           "url": "https://v.daum.net/v/20260911003157992",
           "source": "Daum",
           "date": "2026-09-10"
+        },
+        {
+          "title": "이란전 격화에 국제유가 급등…WTI도 배럴당 100달러 돌파",
+          "url": "https://v.daum.net/v/20260910223753733",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "유가 치솟자 금융시장 흔들… 추석앞 물가관리 비상",
+          "url": "https://www.donga.com/news/Economy/article/all/20260910/134646308/2",
+          "source": "동아일보",
+          "date": "2026-09-10"
         }
       ]
     },
     "먹방": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T02:40:00+09:00",
-      "lastSeen": "2026-09-11T03:43:00+09:00",
+      "lastSeen": "2026-09-11T04:10:00+09:00",
       "news": [
         {
           "title": "‘120만’ 먹방 유튜버, 24세에 사망…“반복적 폭식에 ‘이 수치’ 뚝” [월드픽]",
@@ -774,10 +786,10 @@
       ]
     },
     "ai": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T02:40:00+09:00",
-      "lastSeen": "2026-09-11T03:43:00+09:00",
+      "lastSeen": "2026-09-11T04:10:00+09:00",
       "news": [
         {
           "title": "Opinion | Big Tech Fooled America Once. The Second Time’s Not Going So Well.",
@@ -838,10 +850,10 @@
       ]
     },
     "전국삼성전자노동조합": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T03:15:00+09:00",
-      "lastSeen": "2026-09-11T03:43:00+09:00",
+      "lastSeen": "2026-09-11T04:10:00+09:00",
       "news": [
         {
           "title": "최승호 위원장, '장인 수의계약 잘못' 따진 노조원에 '인사 보복' 압박",
@@ -981,6 +993,136 @@
           "title": "“너무 많은 기회를 놓쳤다”…아스널 아르테타 감독, UCL 승리에도 결정력 지적",
           "url": "https://v.daum.net/v/20260910113017803",
           "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "skt": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T04:10:00+09:00",
+      "lastSeen": "2026-09-11T04:10:00+09:00",
+      "news": [
+        {
+          "title": "SK Telecom discusses AI growth strategy with global telecom leaders",
+          "url": "https://www.telecompaper.com/news/sk-telecom-discusses-ai-growth-strategy-with-global-telecom-leaders--1582252",
+          "source": "Telecompaper",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "SKT's chief participates global mobile industry event in Malaysia",
+          "url": "https://en.yna.co.kr/view/AEN20260910002700320",
+          "source": "Yonhap News Agency",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "SKT CEO Jung Jae-heon (정재헌) meets GSMA chief to seek AI growth strategy",
+          "url": "https://www.digitaltoday.co.kr/en/view/101920/skt-ceo-jung-jaeheon-meets-gsma-chief-to-seek-ai-growth-strategy",
+          "source": "디지털투데이",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "챔스": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-09-11T04:10:00+09:00",
+      "lastSeen": "2026-09-11T04:10:00+09:00",
+      "news": [
+        {
+          "title": "이강인 UCL 데뷔전서 '안필드 5호골' 작렬, '리버풀 킬러' 등극! 아틀레티코 역전패에 빛 바랜 '선제골'...\"팀이 지면 아무 의미 없어\"",
+          "url": "https://v.daum.net/v/20260910183441279",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'이게 팀이야!' LEE 얼굴 맞고 축구화 벗겨져도…심판 묵인→이강인 경기력 저하 '밀려나듯 물러났다' 분노 폭발",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/10/GE2TEZBZGA2DSNTBGNRTMZTBGY/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'이강인 59분' 아틀레티코, 챔스 1차전 리버풀에 1-2 역전패",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6850835_36946.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "google usa": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T04:10:00+09:00",
+      "lastSeen": "2026-09-11T04:10:00+09:00",
+      "news": [
+        {
+          "title": "New Mexico leaders ask Apple and Google not to use ‘New America’ on their maps",
+          "url": "https://www.washingtonpost.com/politics/2026/09/10/new-mexico-leaders-ask-apple-google-not-use-new-america-their-maps/",
+          "source": "The Washington Post",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "New Mexicans meet Trump’s threat to change state’s name with ridicule and outrage",
+          "url": "https://www.theguardian.com/us-news/2026/sep/09/new-mexico-response-name-change",
+          "source": "The Guardian",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Why Trump can't rename New Mexico as \"New America\"",
+          "url": "https://www.axios.com/2026/09/08/trump-new-mexico-america-rename",
+          "source": "Axios",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "숲": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T04:10:00+09:00",
+      "lastSeen": "2026-09-11T04:10:00+09:00",
+      "news": [
+        {
+          "title": "제주, 2030 온실가스 감축 목표 58%로 상향",
+          "url": "http://www.jemin.com/news/articleView.html?idxno=842814",
+          "source": "제민일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "기후위기 시대 ‘숲’ 재설계… “생물다양성 확보가 핵심”",
+          "url": "https://v.daum.net/v/20260911005607268",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"청정에너지·재생원료 결합 '순환경제 2.0'으로 가야\"",
+          "url": "https://www.news1.kr/local/jeju/6286456",
+          "source": "뉴스1",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "ios 27": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T04:10:00+09:00",
+      "lastSeen": "2026-09-11T04:10:00+09:00",
+      "news": [
+        {
+          "title": "iOS 27 Is Coming. Here Are the Best New iPhone Features and How to Get the Beta Today",
+          "url": "https://www.pcmag.com/news/ios-27-coming-install-beta-best-features-supported-phones-apple-event",
+          "source": "PCMag",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "macOS Golden Gate Release Candidate Now Available",
+          "url": "https://www.macrumors.com/2026/09/09/apple-seeds-macos-27-rc/",
+          "source": "MacRumors",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "iOS 27 New Features: What Siri AI Does and Who Gets It",
+          "url": "https://apple.gadgethacks.com/news/ios-27-new-features-what-siri-ai-does-and-who-gets-it/",
+          "source": "Gadget Hacks",
           "date": "2026-09-10"
         }
       ]
@@ -1522,6 +1664,36 @@
         "title": "“1회 보다 말았다” “12회는 너무 길다” 이런 사람 많다더니…중국 ‘공습’에 국내 OTT 초긴장",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CcFFhNHp0NUxiYVlfaUNPV1BmY3lESDNEN0lMcWk1NzRaOWVxa2tGc09HZnF2TTdlN0Q5TkJlQTMzLVlwa05BZlI0bUdUcFk?oc=5",
         "source": "v.daum.net",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "폴더블 '아이폰 듀오' 써보니…\"접히는 흔적 없이 화면 깨끗해\"",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLalBnY0FKME05ajBob3ZURF95dEhtWmdUMk5hVzYtY0VETFdXamozVXZJeDhzbDIyTzZXTm1EN3JodWV1ZGVNNk9HSXlET0k?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "폴란드서 FA-50 입증한 KAI…이번엔 KF-21·무인기 띄운다",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JRTFEN0IzMGlmM1EyekdhNVpJSWJud3NkZC1fbWZKVHhQd2tMSHR3UU5aZGxlVHhZbnAzTGEtVjJkT1MtdTByNHRsaEVXdVU?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "티빙, 개인정보 유출 보상 신청 시작…탈퇴 회원도 대상",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hZngzVWVkc1pPdlNMWldpcnBHOEFNV0V3QllZRXI4bllLT0tVMWNnR0o4bG5GY2hsWjR4ckh3WFhhUzB6YnlVWDNvN3N3Y2NDVXhZaV9ES3Rfa1nSAWBBVV95cUxOMmJscWNidlZQbnJFUHlvS3JTOFFiM1dCYXpjLXdEMDVTNUxYekhsejBQdXRRdXYtcnZaczBZZzNBMTYybDhmVjB6UzFndlk2UWpVQWJtM3o1V3lFTGNHdTI?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-09-07"
+      },
+      {
+        "title": "카카오 서울자율차가 복잡한 강남 밤길 누비는 이유",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmakxydjdfcC1KTGNTbmpjNGxPcVkwa3ZQdU9EUGpxRndvTEZGLVl3cUExY2pYWXF1cXhsTUx4cWZzdFl0MWgwZmF4dVJhbThGQmZFaVV3?oc=5",
+        "source": "지디넷코리아",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "비트코인 4000개 훔친 해커들, 돌려주며 “버그부터 고쳐라” 요구",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ya3hvbmFUaGNoSENjUkZBNVBvU0M1QWhHczI3TFdQNnpHaXRqMDRlaUY5NjN3RU9KdGU4NG13Y2RSQ3doWWRKUzVXMEllRHVkdHcwQmFoa1RZMVhSMHl2WmFzNGxZVFpMWXhz?oc=5",
+        "source": "보안뉴스",
         "date": "2026-09-10"
       }
     ],
