@@ -5483,10 +5483,10 @@
       ]
     },
     "시장": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-10T20:13:00+09:00",
-      "lastSeen": "2026-09-10T20:41:00+09:00",
+      "lastSeen": "2026-09-10T21:17:00+09:00",
       "news": [
         {
           "title": "김민석 “서울시장·강릉 국회의원 보궐선거 99.99% 있을 것…수첩에 적힌 MS는 나”",
@@ -5505,14 +5505,26 @@
           "url": "https://v.daum.net/v/20260910190549256",
           "source": "Daum",
           "date": "2026-09-10"
+        },
+        {
+          "title": "김민석 \"한동훈·이진숙, 자격정지 추진\"‥한동훈 \"허위사실 고소\" 맞불",
+          "url": "https://v.daum.net/v/20260910200111760",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "김민석 수첩에 \"서울시장 후보 정청래...한동훈 아웃\"",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202609100624018565_005.html",
+          "source": "YTN",
+          "date": "2026-09-10"
         }
       ]
     },
     "노화": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T20:13:00+09:00",
-      "lastSeen": "2026-09-10T20:41:00+09:00",
+      "lastSeen": "2026-09-10T21:17:00+09:00",
       "news": [
         {
           "title": "노화 염증 줄이려면…설탕부터 줄여야 할까, 의사가 짚은 생활습관",
@@ -5530,6 +5542,18 @@
           "title": "[생활속 과학이야기] 면역은 늘 우리 편이 아니다",
           "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2299047",
           "source": "대전일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "노화로 빠지는 근육을 되살렸다 [언박싱 연구실]",
+          "url": "https://v.daum.net/v/BCaju1mjNm",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "노화성 근감소증 극복할 핵심 단백질과 치료 후보물질 발굴",
+          "url": "https://www.koreahealthlog.com/news/articleView.html?idxno=58902",
+          "source": "코리아헬스로그",
           "date": "2026-09-10"
         }
       ]
@@ -5683,10 +5707,10 @@
       ]
     },
     "안성훈": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T20:41:00+09:00",
-      "lastSeen": "2026-09-10T20:41:00+09:00",
+      "lastSeen": "2026-09-10T21:17:00+09:00",
       "news": [
         {
           "title": "“방송사고” 비명…안성훈·손빈아 무대 중 돌발 상황 (미스트롯 포유)",
@@ -5705,14 +5729,20 @@
           "url": "https://v.daum.net/v/20260910131442140?f=m",
           "source": "Daum",
           "date": "2026-09-10"
+        },
+        {
+          "title": "‘미스트롯 포유’ 춘길, 돌연 은퇴 선언",
+          "url": "https://v.daum.net/v/20260910131442140",
+          "source": "Daum",
+          "date": "2026-09-10"
         }
       ]
     },
     "화산분화": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T20:41:00+09:00",
-      "lastSeen": "2026-09-10T20:41:00+09:00",
+      "lastSeen": "2026-09-10T21:17:00+09:00",
       "news": [
         {
           "title": "인니 화산 분화 취재하던 사진기자 5명 등 8명 해상서 실종",
@@ -5735,10 +5765,10 @@
       ]
     },
     "메이플 블루아카이브": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T20:41:00+09:00",
-      "lastSeen": "2026-09-10T20:41:00+09:00",
+      "lastSeen": "2026-09-10T21:17:00+09:00",
       "news": [
         {
           "title": "선생님, 헤네시스 출장입니다!…메이플·블루 아카 11월 컬래버",
@@ -5750,6 +5780,12 @@
           "title": "“신창섭님 이거 메이플 나우 맞나요? 쇼케이스인줄...”",
           "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111373",
           "source": "게임톡",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘메이플스토리’, 블루 아카이브 콜라보·‘방탈출 카페’ 등 특별한 가을 예고",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308267",
+          "source": "경향게임스",
           "date": "2026-09-10"
         }
       ]
@@ -5776,6 +5812,117 @@
           "title": "'주술회전' 세��관 입힌 배틀그라운드 뜬다",
           "url": "https://v.daum.net/v/pBGonEQ9Nc",
           "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "김종규": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T21:17:00+09:00",
+      "lastSeen": "2026-09-10T21:17:00+09:00",
+      "news": [
+        {
+          "title": "'황정음과 공개연애' 김종규, 결별 2년 만에 경사…\"느낌 아니까\"",
+          "url": "https://v.daum.net/v/20260910105149389",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "김종규, 아시안게임 KBS 농구 해설 출격",
+          "url": "https://biz.heraldcorp.com/article/10868827",
+          "source": "헤럴드경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "김��, TV·유튜브 넘나드는 활약… ‘2026 아이치·나고야 아시안게임’ 캐스터로",
+          "url": "https://sports.khan.co.kr/article/202609091035003",
+          "source": "스포츠경향",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "신진서": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T21:17:00+09:00",
+      "lastSeen": "2026-09-10T21:17:00+09:00",
+      "news": [
+        {
+          "title": "한국 바둑 첫 주자 안성준, 농심신라면배 2국서 양딩신에 패배(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260910089751007",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "엇갈린 형님과 동생의 희비…백산수배 韓 선봉 김영삼은 차오다위안 격파, 신라면배 韓 선봉 안성준은 양딩신에 패배",
+          "url": "https://sports.khan.co.kr/article/202609101915003",
+          "source": "스포츠경향",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "신진서 앞세운 한국, 농심배 7연패 도전…시니어 백산수배도 동시 개최",
+          "url": "https://www.hani.co.kr/arti/sports/baduk/1276931.html",
+          "source": "한겨레",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "pakistan vs england": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T21:17:00+09:00",
+      "lastSeen": "2026-09-10T21:17:00+09:00",
+      "news": [
+        {
+          "title": "England vs Pakistan LIVE: Third Test, day two, Edgbaston - cricket score, radio & video highlights",
+          "url": "https://www.bbc.com/sport/cricket/live/cj94v3ly8j4t",
+          "source": "BBC",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Ball by Ball Commentary & Live Score - ENG vs PAK, 3rd Test",
+          "url": "https://www.cricinfo.com/series/pakistan-tour-in-england-2026-1496563/england-vs-pakistan-3rd-test-1496584/ball-by-ball-commentary",
+          "source": "Cricinfo",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'Don't deserve to play': Shakeel calls out Pak batting after another sorry display in England",
+          "url": "https://www.wionews.com/sports/don-t-deserve-to-play-shakeel-calls-out-pak-batting-after-another-sorry-display-in-england-1789025396312",
+          "source": "WION",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "skc": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T21:17:00+09:00",
+      "lastSeen": "2026-09-10T21:17:00+09:00",
+      "news": []
+    },
+    "주성엔지니어링": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T21:17:00+09:00",
+      "lastSeen": "2026-09-10T21:17:00+09:00",
+      "news": [
+        {
+          "title": "주성엔지·티에스이 10% 급등…리밸런싱 수요에 소부장 강세",
+          "url": "https://www.hankyung.com/article/202609106282i",
+          "source": "한국경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "주성엔지니어링 주가, 급등세... 이유는?",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1180966",
+          "source": "금강일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[마감영상] 9/8(화) 관심종목 10선 — 주성엔지니어링 196,000원 돌파 지지 매수",
+          "url": "https://contents.premium.naver.com/ontimebrief/sihwangontime/contents/260907221414423og",
+          "source": "네이버 프리미엄콘텐츠",
           "date": "2026-09-10"
         }
       ]
