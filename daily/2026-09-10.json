@@ -5168,10 +5168,10 @@
       ]
     },
     "울진군": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T19:14:00+09:00",
-      "lastSeen": "2026-09-10T19:14:00+09:00",
+      "lastSeen": "2026-09-10T19:42:00+09:00",
       "news": [
         {
           "title": "“X이나 쳐 드세요”…1인당 30만원 ‘없던 일’되자 울진군민 분노",
@@ -5190,14 +5190,26 @@
           "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083634",
           "source": "경북일보",
           "date": "2026-09-10"
+        },
+        {
+          "title": "\"추석 앞두고 희망고문\"…울진군 '1인당 30만원' 지원금 무산 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/10/2026091018224985319",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "140억원 민생지원금 삭감 후폭풍…울진군의회 입장문에 잇단 반론",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083838",
+          "source": "경북일보",
+          "date": "2026-09-10"
         }
       ]
     },
     "강남구": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T19:14:00+09:00",
-      "lastSeen": "2026-09-10T19:14:00+09:00",
+      "lastSeen": "2026-09-10T19:42:00+09:00",
       "news": [
         {
           "title": "강남·서초 이어 송파도 하락 전환... 서울 아파트 83주 연속 상승",
@@ -5216,14 +5228,20 @@
           "url": "https://www.mt.co.kr/estate/2026/09/10/2026091011322016798",
           "source": "머니투데이",
           "date": "2026-09-10"
+        },
+        {
+          "title": "[그래픽] 송파 집값도 '하락' 전환…강북은 상승세 키워",
+          "url": "https://mobile.newsis.com/photo/NISI20260910_0002235408",
+          "source": "뉴시스",
+          "date": "2026-09-10"
         }
       ]
     },
     "에어팟 5": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T19:14:00+09:00",
-      "lastSeen": "2026-09-10T19:14:00+09:00",
+      "lastSeen": "2026-09-10T19:42:00+09:00",
       "news": [
         {
           "title": "Apple, 오픈형 이어폰 중 동급 최고의 액티브 노이즈 캔슬링을 탑재한 AirPods 5 공개",
@@ -5246,10 +5264,10 @@
       ]
     },
     "위원장": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T19:14:00+09:00",
-      "lastSeen": "2026-09-10T19:14:00+09:00",
+      "lastSeen": "2026-09-10T19:42:00+09:00",
       "news": [
         {
           "title": "최승호 위원장, '장인 수의계약 잘못' 따진 노조원에 '인사 보복' 압박",
@@ -5267,6 +5285,12 @@
           "title": "[단독] 6억 예산인데 리조트 ‘11.7억’ 중복 계약…초기업노조 최승호 배임 논란",
           "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169853",
           "source": "IT조선",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "최승호 삼전 노조 위원장, '장인 업체 계약' 감사 요구에 '인사보복' 시사…녹취록 파문",
+          "url": "https://v.daum.net/v/20260910181639568",
+          "source": "Daum",
           "date": "2026-09-10"
         }
       ]
@@ -5293,6 +5317,143 @@
           "title": "안철수 \"김승원, 국감 도중 브로커와 통화 문자…TV에 고스란히 잡혀\"",
           "url": "https://news.jtbc.co.kr/article/NB12317712",
           "source": "JTBC",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "한화 대 ssg": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-10T19:42:00+09:00",
+      "lastSeen": "2026-09-10T19:42:00+09:00",
+      "news": [
+        {
+          "title": "[한번에쓱] '선선한 가을밤에 역투를 펼치다!' 한화 박준영 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/10/2026091018534714786",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[사진]박준영,'아빌라와 선발 맞대결'",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/09/10/MJRDEMBRG4YDSNRWGBSDOYZSGQ/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[10일 프리뷰] SSG 구세주 아���라, 시즌 6승 도전",
+          "url": "https://www.osen.co.kr/article/G1112873041",
+          "source": "OSEN",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "광주광역시": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T19:42:00+09:00",
+      "lastSeen": "2026-09-10T19:42:00+09:00",
+      "news": []
+    },
+    "김창옥": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T19:42:00+09:00",
+      "lastSeen": "2026-09-10T19:42:00+09:00",
+      "news": [
+        {
+          "title": "김창옥, ‘두 집 살림’ 중이었다…자녀들 “다신 아빠집 안 가”",
+          "url": "https://eye.seoul.co.kr/news/newsView.php?id=20260909500032",
+          "source": "서울Eye",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "김창옥, 9년째 두 집 살림 사연…\"아이들 다시는 제주도 안 온다고\"",
+          "url": "https://www.segye.com/newsView/20260910505800",
+          "source": "세계일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“정신과 약 끊었다” 김창옥 극복 도운 활동, 뭐였을까?",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/09/10/2026091001343.html",
+          "source": "헬스조선",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "김도향": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T19:42:00+09:00",
+      "lastSeen": "2026-09-10T19:42:00+09:00",
+      "news": [
+        {
+          "title": "김도향 \"아버지가 50명과 외도…계속 바꾸며 상간녀를 '네 엄마' 소개\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6286621",
+          "source": "뉴스1",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "김도향 “父 50명과 외도, 참 미워했다” (특종세상)",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12149498",
+          "source": "매일경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“‘네 엄마다’ 소개한 사람 50명”…아버지 외도 고백, 눈물 흘린 원로 가수",
+          "url": "https://v.daum.net/v/20260910153002694",
+          "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "슈카": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T19:42:00+09:00",
+      "lastSeen": "2026-09-10T19:42:00+09:00",
+      "news": [
+        {
+          "title": "신세계 장녀가 슈카 재테크 강의서 한 말 “2조8천억이면 …”",
+          "url": "https://www.munhwa.com/article/11615944",
+          "source": "문화일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'신세계 손녀' 애니, 재테크 수업서 말 아끼더니…복권 당첨금 2조 8000억에 \"대박\"",
+          "url": "https://v.daum.net/v/6fc1bMUZYQ",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "슈카 만난 ‘신세계 외손녀’ 애니, 재테크 수업서 말 아끼더니 꺼낸 한마디는?",
+          "url": "https://www.sedaily.com/article/20089461",
+          "source": "서울경제",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "돈 스파이크": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T19:42:00+09:00",
+      "lastSeen": "2026-09-10T19:42:00+09:00",
+      "news": [
+        {
+          "title": "돈스파이크, 출소 후 바비큐 매장 준비…“과오 반성, 새로운 시작”",
+          "url": "https://www.mk.co.kr/news/hot-issues/12149252",
+          "source": "매일경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'마약' 돈스파이크, 징역 2년 출소 후 근황…멕시코 음식점 도전[N이슈]",
+          "url": "https://v.daum.net/v/20260910093450967",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'마약 전과' 돈스파이크, 연예계 퇴출 4년 만 심경…\"같은 잘못 반복 안 해\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747176",
+          "source": "SBS 뉴스",
           "date": "2026-09-10"
         }
       ]
