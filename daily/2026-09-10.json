@@ -5817,10 +5817,10 @@
       ]
     },
     "김종규": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T21:17:00+09:00",
-      "lastSeen": "2026-09-10T22:13:00+09:00",
+      "lastSeen": "2026-09-10T22:42:00+09:00",
       "news": [
         {
           "title": "'황정음과 공개연애' 김종규, 결별 2년 만에 경사…\"느낌 아니까\"",
@@ -5958,10 +5958,10 @@
       ]
     },
     "카페": {
-      "count": 2,
-      "maxTraffic": 2000,
+      "count": 3,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-10T21:46:00+09:00",
-      "lastSeen": "2026-09-10T22:13:00+09:00",
+      "lastSeen": "2026-09-10T22:42:00+09:00",
       "news": [
         {
           "title": "‘아이들 볼까 무섭다’ 커피 주문에 하녀복 입고 무대서 춤추는 여성…경찰, 불법영업 2곳 단속 입건[세상&]",
@@ -5996,10 +5996,10 @@
       ]
     },
     "강선영": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-10T21:46:00+09:00",
-      "lastSeen": "2026-09-10T22:13:00+09:00",
+      "lastSeen": "2026-09-10T22:42:00+09:00",
       "news": [
         {
           "title": "韓총리, '군대 안 가 국방 무지' 지적에 \"그렇다고 애국심 없는 것 아냐\"",
@@ -6018,14 +6018,20 @@
           "url": "https://www.donga.com/news/Politics/article/all/20260910/134644028/2",
           "source": "동아일보",
           "date": "2026-09-10"
+        },
+        {
+          "title": "野 \"군대 안 가 안보 무지\"…與 \"계엄이 외교 망쳐\"",
+          "url": "https://v.daum.net/v/20260910220655259",
+          "source": "Daum",
+          "date": "2026-09-10"
         }
       ]
     },
     "방아쇠": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T21:46:00+09:00",
-      "lastSeen": "2026-09-10T22:13:00+09:00",
+      "lastSeen": "2026-09-10T22:42:00+09:00",
       "news": [
         {
           "title": "강도범이 몸싸움 중 떨어진 권총 주워 경찰관 향해 방아쇠 당겨",
@@ -6044,14 +6050,26 @@
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008746563",
           "source": "SBS 뉴스",
           "date": "2026-09-10"
+        },
+        {
+          "title": "3m 거리서 경찰 권총 빼앗아 방아쇠 당긴 강도…‘안전장치’가 살렸다",
+          "url": "https://v.daum.net/v/20260910115130670",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "몸싸움 중 권총 떨어뜨린 경찰…강도가 주워 방아쇠",
+          "url": "https://www.munhwa.com/article/11616159",
+          "source": "문화일보",
+          "date": "2026-09-10"
         }
       ]
     },
     "승리": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T21:46:00+09:00",
-      "lastSeen": "2026-09-10T22:13:00+09:00",
+      "lastSeen": "2026-09-10T22:42:00+09:00",
       "news": [
         {
           "title": "그룹 빅뱅 출신 승리, 특수폭행 혐의로 고소당해…강남서 접수",
@@ -6076,14 +6094,20 @@
           "url": "https://www.fnnews.com/news/202609102052066798",
           "source": "파이낸셜뉴스",
           "date": "2026-09-10"
+        },
+        {
+          "title": "빅뱅 출신 승리, 자숙은 없었다...특수폭행 혐의로 입건",
+          "url": "https://www.mk.co.kr/news/entertain/12149821",
+          "source": "매일경제",
+          "date": "2026-09-10"
         }
       ]
     },
     "미스 트롯 포유": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T22:13:00+09:00",
-      "lastSeen": "2026-09-10T22:13:00+09:00",
+      "lastSeen": "2026-09-10T22:42:00+09:00",
       "news": [
         {
           "title": "“방송사고” 비명…안성훈·손빈아 무대 중 돌발 상황 (미스트롯 포유)",
@@ -6102,21 +6126,33 @@
           "url": "https://v.daum.net/v/20260910131442140?f=m",
           "source": "Daum",
           "date": "2026-09-10"
+        },
+        {
+          "title": "김용빈-이소나, 환상의 듀엣…“오늘 잊지 못할 것” (미스트롯 포유)",
+          "url": "https://sports.khan.co.kr/article/202609100842003",
+          "source": "스포츠경향",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘미스트롯 포유’ 김용빈-이소나, 眞끼리 만났다 “오늘 잊지 못할 것”",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/517891",
+          "source": "iMBC 연예",
+          "date": "2026-09-10"
         }
       ]
     },
     "도둑": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-10T22:13:00+09:00",
-      "lastSeen": "2026-09-10T22:13:00+09:00",
+      "lastSeen": "2026-09-10T22:42:00+09:00",
       "news": []
     },
     "jyp 엔터테인먼트": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-10T22:13:00+09:00",
-      "lastSeen": "2026-09-10T22:13:00+09:00",
+      "lastSeen": "2026-09-10T22:42:00+09:00",
       "news": [
         {
           "title": "“전면 백지화로 가닥”…3년 공들인 JYP 신사옥, 결국 무산되나",
@@ -6134,6 +6170,58 @@
           "title": "JYP, 고덕 신사옥 건립 철수설에 \"대응 방안 다각도로 검토\"",
           "url": "https://www.newsis.com/view/NISX20260910_0003784528",
           "source": "뉴시스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "송미령": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T22:42:00+09:00",
+      "lastSeen": "2026-09-10T22:42:00+09:00",
+      "news": [
+        {
+          "title": "농사를 못 지으면 농지를 팔아야 한다? 사실은 이렇습니다",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148971508",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "장동혁 수첩에 적힌 ‘농지조사’…송미령 “대부분 사실 아니다”",
+          "url": "https://v.daum.net/v/20260910180237035",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "장동혁 “국민 재산은 좌파 정권 소유물 아니다…농민의 땅까지 빼앗아”",
+          "url": "https://www.kyeonggi.com/article/20260910580108",
+          "source": "경기일보",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "ppi": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T22:42:00+09:00",
+      "lastSeen": "2026-09-10T22:42:00+09:00",
+      "news": [
+        {
+          "title": "Wholesale prices rose 0.4% in August, as expected",
+          "url": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html",
+          "source": "CNBC",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "U.S. August Producer Prices Rise 5.4% Year-on-Year... Slightly Above Expectations",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008747827",
+          "source": "news.sbs.co.kr",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "US PPI Ex Food, Energy and Trade (Aug MM) 0.3% (Prev. 0.4%)",
+          "url": "https://www.newsquawk.com/headlines/us-ppi-ex-food-energy-and-trade-aug-mm-03-prev-04",
+          "source": "Newsquawk",
           "date": "2026-09-10"
         }
       ]
