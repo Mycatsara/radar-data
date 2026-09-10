@@ -972,10 +972,10 @@
       ]
     },
     "아스널 fc": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T03:43:00+09:00",
-      "lastSeen": "2026-09-11T03:43:00+09:00",
+      "lastSeen": "2026-09-11T05:12:00+09:00",
       "news": [
         {
           "title": "'외데고르 결승포' 아스날, 슈팅 24개 맹폭 끝 나폴리 원정 1-0 승리...UCL 첫판부터 승점 3점 - 머니투데이",
@@ -994,14 +994,20 @@
           "url": "https://v.daum.net/v/20260910113017803",
           "source": "Daum",
           "date": "2026-09-10"
+        },
+        {
+          "title": "[오피셜]\"1골, 더 넣었어야 한다\" '또 무실점, 짠물 수비' 아스널, 외데고르 결승골로 나폴리 원정 1-0 승.. 아르테타 감독 \"아쉽다, 너무 많은 기회 놓쳤다\"",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/10/MU3DGNRWMUYWMZJSGE3DKMBZMQ/",
+          "source": "조선일보",
+          "date": "2026-09-10"
         }
       ]
     },
     "skt": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T04:10:00+09:00",
-      "lastSeen": "2026-09-11T04:10:00+09:00",
+      "lastSeen": "2026-09-11T05:12:00+09:00",
       "news": [
         {
           "title": "SK Telecom discusses AI growth strategy with global telecom leaders",
@@ -1024,10 +1030,10 @@
       ]
     },
     "챔스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-11T04:10:00+09:00",
-      "lastSeen": "2026-09-11T04:10:00+09:00",
+      "lastSeen": "2026-09-11T05:12:00+09:00",
       "news": [
         {
           "title": "이강인 UCL 데뷔전서 '안필드 5호골' 작렬, '리버풀 킬러' 등극! 아틀레티코 역전패에 빛 바랜 '선제골'...\"팀이 지면 아무 의미 없어\"",
@@ -1046,14 +1052,26 @@
           "url": "https://imnews.imbc.com/news/2026/sports/article/6850835_36946.html",
           "source": "MBC 뉴스",
           "date": "2026-09-10"
+        },
+        {
+          "title": "'이강인, 얼굴 얻어맞고 걷어차였다'... 무려 \"판 다이크·소보슬러이·맥알리스터 집중견제\" 축구도 제대로 못 할 지경",
+          "url": "https://v.daum.net/v/6EpkLSgRy8",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'이강인 59분' 아틀레티코, UCL 1차전 리버풀에 1-2 역전패",
+          "url": "https://www.yna.co.kr/view/AKR20260910016600007",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
         }
       ]
     },
     "google usa": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T04:10:00+09:00",
-      "lastSeen": "2026-09-11T04:10:00+09:00",
+      "lastSeen": "2026-09-11T05:12:00+09:00",
       "news": [
         {
           "title": "New Mexico leaders ask Apple and Google not to use ‘New America’ on their maps",
@@ -1076,10 +1094,10 @@
       ]
     },
     "숲": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-11T04:10:00+09:00",
-      "lastSeen": "2026-09-11T04:10:00+09:00",
+      "lastSeen": "2026-09-11T05:12:00+09:00",
       "news": [
         {
           "title": "제주, 2030 온실가스 감축 목표 58%로 상향",
@@ -1097,6 +1115,18 @@
           "title": "\"청정에너지·재생원료 결합 '순환경제 2.0'으로 가야\"",
           "url": "https://www.news1.kr/local/jeju/6286456",
           "source": "뉴스1",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "기후위기 시대 ‘숲’ 재설계… “생물다양성 확보가 핵심”",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000011069&code=11131100&sid1=soc&stg=ws_real",
+          "source": "국민일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "제주형 그린 네트워크·공간전략 제시…\"도시-숲 하나로\"",
+          "url": "https://www.newsis.com/view/NISX20260910_0003784806",
+          "source": "뉴시스",
           "date": "2026-09-10"
         }
       ]
@@ -1123,6 +1153,136 @@
           "title": "iOS 27 New Features: What Siri AI Does and Who Gets It",
           "url": "https://apple.gadgethacks.com/news/ios-27-new-features-what-siri-ai-does-and-who-gets-it/",
           "source": "Gadget Hacks",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "ios27": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T05:12:00+09:00",
+      "lastSeen": "2026-09-11T05:12:00+09:00",
+      "news": [
+        {
+          "title": "iOS 27 launches on September 14th with Siri AI",
+          "url": "https://www.theverge.com/news/992408/ios-27-release-date-features",
+          "source": "The Verge",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "macOS Golden Gate Release Candidate Now Available",
+          "url": "https://www.macrumors.com/2026/09/09/apple-seeds-macos-27-rc/",
+          "source": "MacRumors",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Apple opens App Store submissions for apps built with iOS 27, iPadOS 27 and more",
+          "url": "https://www.theapplepost.com/2026/09/10/71615/apple-opens-app-store-submissions-for-apps-built-with-ios-27-ipados-27-and-more/",
+          "source": "The Apple Post",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "오세훈": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T05:12:00+09:00",
+      "lastSeen": "2026-09-11T05:12:00+09:00",
+      "news": [
+        {
+          "title": "‘한동훈·이진숙 OUT’ 다음날… 김민석 “법 개정해 의원 자격정지”",
+          "url": "https://v.daum.net/v/20260911004407216",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "김민석 “수첩에 적힌 MS는 내 이름… 김현종-김경민도 서울시장 후보군”",
+          "url": "https://www.donga.com/news/Politics/article/all/20260911/134647504/2",
+          "source": "동아일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "김민석 “서울시장·강릉 국회의원 보궐선거 99.99% 있을 것…수첩에 적힌 MS는 나”",
+          "url": "https://www.khan.co.kr/article/202609101147001",
+          "source": "경향신문",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "스포티비": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T05:12:00+09:00",
+      "lastSeen": "2026-09-11T05:12:00+09:00",
+      "news": [
+        {
+          "title": "[아시안게임] 개회 9일 남은 나고야…아직은 조용한 분위기로 준비 중",
+          "url": "https://www.yna.co.kr/view/AKR20260910155200007",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"AI가 알아서 하이라이트\"…네이버, 치지직 AG 중계 AI 강화 - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/09/10/2026091010114637177",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "아이치-나고야 아시안게임 출전 경기도 선수단 명단 확정",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034241",
+          "source": "기호일보",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "바이에른 대 보되/글림트": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-11T05:12:00+09:00",
+      "lastSeen": "2026-09-11T05:12:00+09:00",
+      "news": [
+        {
+          "title": "바이에른 뮌헨 콤파이 감독, 우파메카노-요나단 타 듀오 재신임…UCL 첫 경기 현지 예측",
+          "url": "https://v.daum.net/v/20260910200328849",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"여러 선수들 활용하고 싶다\"…연속 선발→샬케전 벤치, 김민재 UCL에서 다시 선발? 보되/글림트전 활용 여부 주���",
+          "url": "https://m.news.nate.com/view/20260911n00198",
+          "source": "Nate News",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "바이에른 뮌헨 vs 보도/글림트 예측: 좋은 컨디션을 유지하고 있는 두 팀의 맞대결.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-bayern-munchen-vs-bodo-glimt-man-so-tai-cua-hai-doi-vao-phom",
+          "source": "Vietnam.vn",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "한우랑 사과랑 축제": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T05:12:00+09:00",
+      "lastSeen": "2026-09-11T05:12:00+09:00",
+      "news": [
+        {
+          "title": "'색에 반하고 맛에 취한다' 장수 한우랑사과랑축제 개막",
+          "url": "https://v.daum.net/v/20260910105657660",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "장수 한우랑사과랑축제 내일부터 나흘간 열려",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8659217",
+          "source": "KBS 뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "명품 한우 맛보고 승마로드 달린다… 제20회 장수한우랑사과랑축제 개막",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349795",
+          "source": "녹색경제신문",
           "date": "2026-09-10"
         }
       ]
@@ -1694,6 +1854,42 @@
         "title": "비트코인 4000개 훔친 해커들, 돌려주며 “버그부터 고쳐라” 요구",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ya3hvbmFUaGNoSENjUkZBNVBvU0M1QWhHczI3TFdQNnpHaXRqMDRlaUY5NjN3RU9KdGU4NG13Y2RSQ3doWWRKUzVXMEllRHVkdHcwQmFoa1RZMVhSMHl2WmFzNGxZVFpMWXhz?oc=5",
         "source": "보안뉴스",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "애플 ‘접는 폰’ 공개하자···삼성 “우리가 남긴 거 재탕” 온라인 디스전 [이윤정 기자의 소소월드]",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBaUx3UjcyM1JmUU5SS1dYYk9aMlR1SUZPZVZxalhfMy1ZT09kb1gxeHZETlBBdGd4R0ZqS3ZBTWVRVy1PVGc?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "[AI는 지금] 클로드, 실제 인터넷인 줄 알면서 공격…앤트로픽 \"정렬 실패\"",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91Xy1URTg5Q1h6OXVxelUwcWw4LVdybURieldtLTk1QVdSR0k3SERXdlRvbThjMXNVSkdsbnI0blhJcVl0VzRuUmZxQVJPQ2lJVW96NGFn?oc=5",
+        "source": "zdnet.co.kr",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "[단독] 中 해커 “SSG 결제망 침입”…SSG닷컴 “프론트 API 접근”",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrYTloUjhQSGtUOVFDX25tM2NMZmk5cGNGc1o2Vl9wOEE0VFZyNlNKX3RBalZWOWhVd0lqNGxUcnRBR05sQnJUeWxoTlRDZlVsSmJ2eGxiMEhla1FnbFAzcEp5Uk80OWNhbFNtNjRmaHbSAXRBVV95cUxORGRwMGNsRWV6UENCZXJnc0FVYzEwQUYyX2FuMy1uSEFDVmk1cWRUb0hacGI2RHhaTnYtT1RTMDNXVDBjSmxVbEhSOU54UDlwaEhDYUszS1l4RzZwdTllNldKOXNSS0RCX3g0ZWVqU0duNW1CVA?oc=5",
+        "source": "IT조선",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "애플 '에어팟5'…ANC 강화·시리 AI·실시간 번역 지원",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfNEg2eVhrd1lNLXhXeXAwUTQ1MnFXNnVEcFAxWkVBQXBYTFdSdEsxei1YUTNCaXZrS19kbkV5NVVOZFp4c082M0Vudkc0Zw?oc=5",
+        "source": "��자신문",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "내전까지 드론전… 수단 민간인 1100명 당했다",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVktamE2eGRRaXZhS3NJcWJ4SXdkX3U4aUQ0Q0tmZE5RdzVTUjZ2ZjEzQUlKU0Z5NWZ6b2haY2NiSDhjNDQ1X1NETjBzSDR0dHd4aUFpdURCSXpzRE1DalRLazdnaEtuaURMNWtfWTRWLWQtTmpzU0NITG1KTGpldGdZcjVsbVpjeFhtR05MTzR3d1cxMzg1YXJCRjc?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "트럼프 절친인 윗코프 특사... ‘트럼프 코인’으로 작년 1400억원 벌어",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZFI0QW1pR3h3Yy16Rm9RTHhfajZObTRZUy1lSzh6TlVRSTlLTHJmRUpJRlE5aVdFeExwaWlFLUc3WmFERWM0RDBHajZkY1dWOUlnT25Mem9VcW5zMGpzM0pUd1NMYWM2ZEMtMTZNaGE4U1pOczk3VUFaNXEwM2pTa01vYmVKUno4WEREY2FoclhWY1pZNnVrMll5S0I4UQ?oc=5",
+        "source": "조선일보",
         "date": "2026-09-10"
       }
     ],
