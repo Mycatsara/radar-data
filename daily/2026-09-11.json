@@ -972,10 +972,10 @@
       ]
     },
     "아스널 fc": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T03:43:00+09:00",
-      "lastSeen": "2026-09-11T06:11:00+09:00",
+      "lastSeen": "2026-09-11T06:40:00+09:00",
       "news": [
         {
           "title": "'외데고르 결승포' 아스날, 슈팅 24개 맹폭 끝 나폴리 원정 1-0 승리...UCL 첫판부터 승점 3점 - 머니투데이",
@@ -1010,10 +1010,10 @@
       ]
     },
     "skt": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T04:10:00+09:00",
-      "lastSeen": "2026-09-11T06:11:00+09:00",
+      "lastSeen": "2026-09-11T06:40:00+09:00",
       "news": [
         {
           "title": "SK Telecom discusses AI growth strategy with global telecom leaders",
@@ -1036,10 +1036,10 @@
       ]
     },
     "챔스": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-11T04:10:00+09:00",
-      "lastSeen": "2026-09-11T06:11:00+09:00",
+      "lastSeen": "2026-09-11T06:40:00+09:00",
       "news": [
         {
           "title": "이강인 UCL 데뷔전서 '안필드 5호골' 작렬, '리버풀 킬러' 등극! 아틀레티코 역전패에 빛 바랜 '선제골'...\"팀이 지면 아무 의미 없어\"",
@@ -1202,10 +1202,10 @@
       ]
     },
     "오세훈": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T05:12:00+09:00",
-      "lastSeen": "2026-09-11T06:11:00+09:00",
+      "lastSeen": "2026-09-11T06:40:00+09:00",
       "news": [
         {
           "title": "‘한동훈·이진숙 OUT’ 다음날… 김민석 “법 개정해 의원 자격정지”",
@@ -1240,10 +1240,10 @@
       ]
     },
     "스포티비": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T05:12:00+09:00",
-      "lastSeen": "2026-09-11T06:11:00+09:00",
+      "lastSeen": "2026-09-11T06:40:00+09:00",
       "news": [
         {
           "title": "[아시안게임] 개회 9일 남은 나고야…아직은 조용한 분위기로 준비 중",
@@ -1266,10 +1266,10 @@
       ]
     },
     "바이에른 대 보되/글림트": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T05:12:00+09:00",
-      "lastSeen": "2026-09-11T06:11:00+09:00",
+      "lastSeen": "2026-09-11T06:40:00+09:00",
       "news": [
         {
           "title": "바이에른 뮌헨 콤파이 감독, 우파메카노-요나단 타 듀오 재신임…UCL 첫 경기 현지 예측",
@@ -1330,10 +1330,10 @@
       ]
     },
     "แมนยู พบ สโมสรฟุตบอลซาบาห์": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T05:41:00+09:00",
-      "lastSeen": "2026-09-11T06:11:00+09:00",
+      "lastSeen": "2026-09-11T06:40:00+09:00",
       "news": [
         {
           "title": "โค้ชแคร์ริคแจ้งข่าวดีก่อนที่แมนฯ ยูไนเต็ดจะกลับมาลงเล่นในแชมเปี้ยนส์ลีกอีกครั้ง",
@@ -1352,14 +1352,20 @@
           "url": "https://www.sanook.com/sport/1671865/",
           "source": "Sanook.com",
           "date": "2026-09-10"
+        },
+        {
+          "title": "LIVE ดูบอลสด แมนยู พบ ซาบาห์ บอลวันนี้ (10 ก.ย.) ถ่ายทอดสด 02.00 น. ยูฟ่า แชมเปียนส์ลีก 2026-27",
+          "url": "https://www.thairath.co.th/sport/eurofootball/uefa/2957939",
+          "source": "Thairath.co.th",
+          "date": "2026-09-10"
         }
       ]
     },
     "맨유": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T05:41:00+09:00",
-      "lastSeen": "2026-09-11T06:11:00+09:00",
+      "lastSeen": "2026-09-11T06:40:00+09:00",
       "news": [
         {
           "title": "\"예전엔 당연했던 챔스, 못 나가보니…\" UCL 1,003일 만에 복귀한 맨유 캐릭 감독, \"얼마나 특별한지 알겠다\"",
@@ -1388,10 +1394,10 @@
       ]
     },
     "경로당": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T06:11:00+09:00",
-      "lastSeen": "2026-09-11T06:11:00+09:00",
+      "lastSeen": "2026-09-11T06:40:00+09:00",
       "news": [
         {
           "title": "“돈 내고 눈치보기 싫어” 경로당 떠나는 노인들",
@@ -1409,6 +1415,32 @@
           "title": "하나둘 사라지는 '기원'…도박에 얼룩진 '4000원 사랑방'",
           "url": "https://supple.kr/news/cmtv7o1lj007nlrbqpk8nv4p0",
           "source": "https://spt.co.kr/",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "man utd vs sabah": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T06:40:00+09:00",
+      "lastSeen": "2026-09-11T06:40:00+09:00",
+      "news": [
+        {
+          "title": "Man Utd 4-0 Sabah: Red Devils hit four against Sabah FK on Champions League return",
+          "url": "https://www.bbc.com/sport/football/live/c67830ezxn4xt",
+          "source": "BBC",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Shaw Given Extra Rest After Everton",
+          "url": "https://www.chosun.com/english/sports-en/2026/09/10/DF4GBFCCCFEAPPFSQJS7VCRZW4/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Licensable picture: UK: UEFA Champions League Matchday 1 of 8 Manchester United v Sabah FK",
+          "url": "https://www.reutersconnect.com/item/uk-uefa-champions-league-matchday-1-of-8-manchester-united-v-sabah-fk/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDA1MU9ZOFc",
+          "source": "Reuters Connect",
           "date": "2026-09-10"
         }
       ]
