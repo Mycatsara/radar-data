@@ -3651,10 +3651,10 @@
       ]
     },
     "미국 중간선거": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-10T14:12:00+09:00",
-      "lastSeen": "2026-09-10T14:41:00+09:00",
+      "lastSeen": "2026-09-10T15:18:00+09:00",
       "news": [
         {
           "title": "다급해진 트럼프?…\"공화당 승리하면 1인당 5천 달러 준다\"",
@@ -3727,10 +3727,10 @@
       ]
     },
     "다음 뉴스": {
-      "count": 2,
-      "maxTraffic": 1000,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-10T14:12:00+09:00",
-      "lastSeen": "2026-09-10T14:41:00+09:00",
+      "lastSeen": "2026-09-10T15:18:00+09:00",
       "news": [
         {
           "title": "쓰레기만 보냈는데 전액 환불?…\"어떻게 이러나\" 분통",
@@ -3759,10 +3759,10 @@
       ]
     },
     "캐나다 총리": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-10T14:12:00+09:00",
-      "lastSeen": "2026-09-10T14:41:00+09:00",
+      "lastSeen": "2026-09-10T15:18:00+09:00",
       "news": [
         {
           "title": "외계인 침공하면 뭉쳐야‥트럼프 보복에 캐나다 '끝까지 간다'",
@@ -3786,6 +3786,12 @@
           "title": "\"대가 치르더라도 후퇴는 없다\" 캐나다인, 美보복관세에 강경",
           "url": "https://www.chosun.com/international/international_general/2026/09/10/XBYILFRROJHDNLUYGFGSHF2SQE/",
           "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“대가 치르더라도 후퇴는 없다” 캐나다인, 美보복관세에 강경",
+          "url": "https://v.daum.net/v/20260910004415720",
+          "source": "Daum",
           "date": "2026-09-10"
         }
       ]
@@ -3855,10 +3861,10 @@
       ]
     },
     "항공": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-10T14:41:00+09:00",
-      "lastSeen": "2026-09-10T14:41:00+09:00",
+      "lastSeen": "2026-09-10T15:18:00+09:00",
       "news": [
         {
           "title": "공정위, 대한항공 '좌석 유지 의무' 완화에 기각 의견…심의 개시",
@@ -3877,14 +3883,20 @@
           "url": "https://www.asiae.co.kr/article/2026091009190471323",
           "source": "아시아경제",
           "date": "2026-09-10"
+        },
+        {
+          "title": "공정위 “합병 조건 지켜라”… 대한항공 좌석 유지 완화안 ‘퇴짜’",
+          "url": "https://stock.mk.co.kr/news/view/1156966",
+          "source": "매일경제 마켓",
+          "date": "2026-09-10"
         }
       ]
     },
     "트레이드": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-10T14:41:00+09:00",
-      "lastSeen": "2026-09-10T14:41:00+09:00",
+      "lastSeen": "2026-09-10T15:18:00+09:00",
       "news": [
         {
           "title": "어떻게 다저스 위협하는 3대3 초대형 트레이드가 됐나…\"올스타급 선수 하나 없는데\" 대반전",
@@ -3903,14 +3915,20 @@
           "url": "https://m.news.nate.com/view/20260909n21051",
           "source": "Nate News",
           "date": "2026-09-10"
+        },
+        {
+          "title": "\"본즈 이후 최고 재능\" 이정후와 정반대, 트레이드 실패작이라고 했는데…무서운 뒷심, SF '역대 최초' 보인다",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/09/GQZGMMBUHEYTAYZSGE4TEZBQMY/",
+          "source": "조선일보",
+          "date": "2026-09-10"
         }
       ]
     },
     "불펜": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-10T14:41:00+09:00",
-      "lastSeen": "2026-09-10T14:41:00+09:00",
+      "lastSeen": "2026-09-10T15:18:00+09:00",
       "news": [
         {
           "title": "“불펜 ERA 1위, 이승민이 가장 큰 역할” 레이예스·김도영도 잡았다…국민 유격수가 활짝 웃는 이유 - 머니투데이",
@@ -3928,6 +3946,12 @@
           "title": "\"홀드왕 경쟁, 하늘에 맡긴다\" 시즌 전엔 상상도 못한 '20홀드' 해냈다…그러나 '타이틀' 목표 대신 \"마지막에 웃는 팀이길\" [대구 인터뷰]",
           "url": "https://m.news.nate.com/view/20260909n26510",
           "source": "Nate News",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘와~’ 롯데 불펜, 특급 필승조가 내년 돌아온다. 1라운드 유망주, 1이닝 세이브→5경기 연속 무실점 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/10/202609100100778417O",
+          "source": "머니투데이",
           "date": "2026-09-10"
         }
       ]
@@ -3954,6 +3978,110 @@
           "title": "'지구 우승 독주 체제' 밀워키, 옐리치·추리오 홈런포 앞세워 컵스 제압...지구 4연패 매직넘버 '5'",
           "url": "https://www.mlbkor.com/news/articleView.html?idxno=32904",
           "source": "www.mlbkor.com",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "조부모": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T15:18:00+09:00",
+      "lastSeen": "2026-09-10T15:18:00+09:00",
+      "news": [
+        {
+          "title": "’돈·금팔찌 훔친 손녀’ 감옥 보낸 조부모…그 이유 들어보니",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260910110943Tgv",
+          "source": "연합뉴스TV",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"가족이라도 도둑질은 안 돼\"…금팔찌 훔쳐 탕진한 손녀 참교육한 中 조부모",
+          "url": "https://view.asiae.co.kr/article/2026091009484902524",
+          "source": "아시아경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"이번엔 버릇 고치겠��\"…상습 절도 손녀 감옥 보낸 조부모",
+          "url": "https://www.sportschosun.com/life/2026-09-09/202609090100065690004213",
+          "source": "스포츠조선",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "아디다스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T15:18:00+09:00",
+      "lastSeen": "2026-09-10T15:18:00+09:00",
+      "news": [
+        {
+          "title": "“제니, 제발 아디다스 떠나라”…불매운동 불똥, 무슨일?",
+          "url": "https://www.donga.com/news/Inter/article/all/20260909/134637792/1",
+          "source": "동아일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“아디다스와 관계 끊어라“…광고 논란에 제니 ’불똥’ [뉴스더보기]",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260910144335ysd",
+          "source": "연합뉴스TV",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "제니�� “협업 중단해라” 속출…“아디다스 불매” 확산하는 이유 [월드픽]",
+          "url": "https://www.twig24.com/news/world/global-topic/2026/09/09/20260909500304",
+          "source": "www.twig24.com",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "엘에이 fc": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T15:18:00+09:00",
+      "lastSeen": "2026-09-10T15:18:00+09:00",
+      "news": [
+        {
+          "title": "Jude Terry and Armindo Sieb score goals, LAFC beats Red Bulls 2-0 to snap winless streak",
+          "url": "https://www.cbsnews.com/losangeles/news/jude-terry-and-armindo-sieb-score-goals-lafc-beats-red-bulls-2-0-to-snap-winless-streak-3/",
+          "source": "CBS News",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "LAFC shuts out Red Bull New York for 1st MLS win since July 25",
+          "url": "https://www.dailynews.com/2026/09/09/lafc-shuts-out-red-bull-new-york-for-1st-mls-win-since-july-25/",
+          "source": "Los Angeles Daily News",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Los Angeles FC - NY Red Bulls LIVE. Major League Soccer latest updates",
+          "url": "https://www.marca.com/en/soccer/major-league-soccer/los-angeles-fc-ny-red-bulls/2026/09/10/01_0164_20260910_11690_399-live.html",
+          "source": "MARCA",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "소농": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T15:18:00+09:00",
+      "lastSeen": "2026-09-10T15:18:00+09:00",
+      "news": [
+        {
+          "title": "“농사는 남이 짓고 직불금은 내가?”…소농 직불금이 부른 ‘위장자경’ 그림자",
+          "url": "https://v.daum.net/v/20260910092114164",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "농지임차 대규모 농가 집중 심화…10ha 이상 농가 비중 20년 새 6%→25%",
+          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=70084",
+          "source": "한국영농신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "농지 임대차 줄어드는데 대농 쏠림 심화…10㏊ 이상 비중 6%→25%",
+          "url": "https://www.newsis.com/view/NISX20260908_0003780065",
+          "source": "뉴시스",
           "date": "2026-09-10"
         }
       ]
