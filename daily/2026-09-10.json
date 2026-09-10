@@ -2901,10 +2901,10 @@
       ]
     },
     "필리핀": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-10T11:13:00+09:00",
-      "lastSeen": "2026-09-10T11:42:00+09:00",
+      "lastSeen": "2026-09-10T12:13:00+09:00",
       "news": [
         {
           "title": "'중국 쪽지'에 분노‥\"주권 지지해야 무기 구입\"",
@@ -2939,10 +2939,10 @@
       ]
     },
     "chicago vs inter miami": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-10T11:13:00+09:00",
-      "lastSeen": "2026-09-10T11:42:00+09:00",
+      "lastSeen": "2026-09-10T12:13:00+09:00",
       "news": [
         {
           "title": "MATCH PREVIEW: Inter Miami CF Visits Chicago Fire FC in Midweek MLS Regular Season Action",
@@ -2971,10 +2971,10 @@
       ]
     },
     "김대호": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T11:13:00+09:00",
-      "lastSeen": "2026-09-10T11:42:00+09:00",
+      "lastSeen": "2026-09-10T12:13:00+09:00",
       "news": [
         {
           "title": "'전속계약 해지통보' 김대호 \"너무 잘 산다? 외로워진지 좀 됐다\"('나혼산')",
@@ -2992,6 +2992,12 @@
           "title": "‘나혼산’ 전현무 즉흥여행 논란이 낳은 궁금증···일반인도 공항서 즉석 해외여행, 가능할까?",
           "url": "https://www.khan.co.kr/article/202609071010001",
           "source": "경향신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'전속계약 해지통보' 김대호 \"너무 잘 산다? 외로워진지 좀 됐다\"('나혼산')",
+          "url": "https://v.daum.net/v/20260910061728414?f=p",
+          "source": "Daum",
           "date": "2026-09-10"
         }
       ]
@@ -3029,10 +3035,10 @@
       ]
     },
     "skt": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-10T11:42:00+09:00",
-      "lastSeen": "2026-09-10T11:42:00+09:00",
+      "lastSeen": "2026-09-10T12:13:00+09:00",
       "news": [
         {
           "title": "SKT's chief participates global mobile industry event in Malaysia",
@@ -3050,6 +3056,174 @@
           "title": "SKT President Jung Jae-heon discusses AI growth strategy cooperation at 'GSMA M360 ASEAN'",
           "url": "https://www.starnewskorea.com/en/business-life/2026/09/10/2026091009444684361",
           "source": "스타뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "SK Telecom CEO attends GSMA event in Malaysia",
+          "url": "https://ua.news/en/world/gendirektor-sk-telecom-vziav-uchast-u-zakhodi-gsma-v-malaiziyi",
+          "source": "UA.NEWS",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "SK Telecom's AI model push offers a blueprint for telcos seeking sovereignty",
+          "url": "https://www.fierce-network.com/cloud/sk-telecoms-ai-model-strategy-puts-sovereignty-first",
+          "source": "Fierce Network",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "김녹완": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T12:13:00+09:00",
+      "lastSeen": "2026-09-10T12:13:00+09:00",
+      "news": [
+        {
+          "title": "성범죄집단 '자경단' 총책 김녹완 무기징역 확정…25개 혐의 유죄(종합)",
+          "url": "https://v.daum.net/v/20260910111610009",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“성관계 점수 잘 받으면 졸업”…60시간 영상 속 ‘초대남’ 정체 [下]",
+          "url": "https://www.joongang.co.kr/article/25459627",
+          "source": "중앙일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[속보] 성착취 집단 ’자경단’ 총책 김녹완 무기징역 확정",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260910104552Xts",
+          "source": "연합뉴스TV",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "조혜련": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-10T12:13:00+09:00",
+      "lastSeen": "2026-09-10T12:13:00+09:00",
+      "news": [
+        {
+          "title": "조권 \"부모님 암 투병에 발가락 절단·수술 4번...김혜수가 도와줘\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/09/2026090905045129663",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"브래지어 엄청 사줘, 국내엔 없었다\"…조혜련, 절친 김혜수 '파격 선물' 공개 (신여성)",
+          "url": "https://v.daum.net/v/3BAocLKpGd",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "조권, 전성기에도 생활고…\"母, 온수 끊겨 찬물로 머리 감아\"",
+          "url": "https://www.newsis.com/view/NISX20260909_0003782818",
+          "source": "뉴시스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "송은이": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-10T12:13:00+09:00",
+      "lastSeen": "2026-09-10T12:13:00+09:00",
+      "news": [
+        {
+          "title": "송은이, 1993년 가입한 고금리 적금 안 깨더니…\"누적 수익률 30%대\" 또 화제 되겠네 (비보티비)",
+          "url": "https://v.daum.net/v/20260909215750837",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "송은이 33년째 '이자율 20% 적금' 유지…누적 수익률 얼마? - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/10/2026091010263811080",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "김숙 \"ETF -37%\" 피눈물…송은이 \"연금 수익률 30%\"",
+          "url": "https://www.hankyung.com/article/202609106247H",
+          "source": "한국경제",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "지민": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T12:13:00+09:00",
+      "lastSeen": "2026-09-10T12:13:00+09:00",
+      "news": [
+        {
+          "title": "BTS 지민 \"할아버지 낚시 조끼 같은 옷\"입고도 찬란히 빛났다, LA타임스 극찬한 스타일링[K-EYES]",
+          "url": "https://www.starnewskorea.com/music/2026/09/08/2026090817415953852",
+          "source": "스타뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "BTS 지민, 낚시조끼 패션도 소화했다…LA타임즈가 짚은 지민의 무대 스타일 : 네이버 블로그",
+          "url": "https://blog.naver.com/PostView.naver?blogId=yooju0913&logNo=224405671570&redirect=Dlog",
+          "source": "Naver Blog",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "BTS 지민, 할아버지 낚시조끼 같다고? 패션의 완성은 얼굴",
+          "url": "https://m.news.nate.com/view/20260909n05666?mid=e02&list=recent&cpcd=",
+          "source": "Nate News",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "장훈": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T12:13:00+09:00",
+      "lastSeen": "2026-09-10T12:13:00+09:00",
+      "news": [
+        {
+          "title": "日 프로야구 최다 안타 기록, 재일동포 타자 장훈 별세",
+          "url": "https://www.joongang.co.kr/article/25460677",
+          "source": "중앙일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "재일동포 야구 레전드 ‘안타 제조기’ 장훈 별세···일본 통산 ‘3085 안타’ 불멸의 1위",
+          "url": "https://www.khan.co.kr/article/202609100954001",
+          "source": "경향신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "재일교포 일본야구 영웅 장훈, 향년 86세로 별세",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6850886_36946.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "nep vs oma": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-10T12:13:00+09:00",
+      "lastSeen": "2026-09-10T12:13:00+09:00",
+      "news": [
+        {
+          "title": "NEP vs OMAN, 1st Semi-Final, ACC Men's Premier Cup, 2026 - Commentary",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/170361/nep-vs-oman-1st-semi-final-acc-mens-premier-cup-2026",
+          "source": "Cricbuzz",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Nepal vs Oman Live Streaming & Score: When And Where To Watch ACC Men's Premier Cup 2026 1st Semi-Final",
+          "url": "https://www.ndtvprofit.com/sports/nepal-vs-oman-live-streaming-when-and-where-to-watch-acc-mens-premier-cup-2026-1st-semi-final-12021064",
+          "source": "NDTV Profit",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Match Predictions: ACC Mens Premier Cup 2026 - Semi Final - Nepal vs Oman; UAE vs Hong Kong - September 10th",
+          "url": "https://www.cricketworld.com/match-predictions-acc-mens-premier-cup-2026-semi-final-nepal-vs-oman-uae-vs-hong-kong-september-10th/113181.htm",
+          "source": "Cricket World",
           "date": "2026-09-10"
         }
       ]
