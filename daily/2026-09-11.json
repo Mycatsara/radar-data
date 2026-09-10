@@ -1,6 +1,32 @@
 {
   "date": "2026-09-11",
   "keywords": {
+    "3": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T03:15:00+09:00",
+      "lastSeen": "2026-09-11T03:15:00+09:00",
+      "news": [
+        {
+          "title": "Opinion | Trump Is Sabotaging the Midterms. The Supreme Court Must Stop Him.",
+          "url": "https://www.nytimes.com/2026/09/09/opinion/mail-voting-chaos-trump-supreme-court.html",
+          "source": "The New York Times",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "US appeals court rejects Trump’s bid to impose restrictions on mail-in voting before midterms",
+          "url": "https://www.theguardian.com/us-news/2026/sep/10/usps-mail-ballot-voting-court-ruling",
+          "source": "The Guardian",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Republican chief election officials say it is too late to implement Trump’s mail ballot order",
+          "url": "https://www.politico.com/news/2026/09/10/trump-mail-ballot-order-republican-election-officials-01070426",
+          "source": "Politico",
+          "date": "2026-09-10"
+        }
+      ]
+    },
     "어디가": {
       "count": 3,
       "maxTraffic": 500,
@@ -530,10 +556,10 @@
       ]
     },
     "google": {
-      "count": 3,
-      "maxTraffic": 100,
+      "count": 4,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-11T01:41:00+09:00",
-      "lastSeen": "2026-09-11T02:40:00+09:00",
+      "lastSeen": "2026-09-11T03:15:00+09:00",
       "news": [
         {
           "title": "Google Has Removed The Pixel Tablet From Its Store",
@@ -594,10 +620,10 @@
       ]
     },
     "채무": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T02:12:00+09:00",
-      "lastSeen": "2026-09-11T02:40:00+09:00",
+      "lastSeen": "2026-09-11T03:15:00+09:00",
       "news": [
         {
           "title": "\"'빚→주식' 못 바꾸나\"…中정부 제동에 부동산기업 채무조정 '비상'",
@@ -698,10 +724,10 @@
       ]
     },
     "먹방": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T02:40:00+09:00",
-      "lastSeen": "2026-09-11T02:40:00+09:00",
+      "lastSeen": "2026-09-11T03:15:00+09:00",
       "news": [
         {
           "title": "‘120만’ 먹방 유튜버, 24세에 사망…“반복적 폭식에 ‘이 수치’ 뚝” [월드픽]",
@@ -720,14 +746,26 @@
           "url": "https://sports.khan.co.kr/article/202609092332003",
           "source": "스포츠경향",
           "date": "2026-09-10"
+        },
+        {
+          "title": "‘중국판 쯔양’ 120만 인플루언서 비보에… “극한 폭식 괜찮나?”비판 점화",
+          "url": "https://v.daum.net/v/yt0UcloMu8",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "중국 유명 24세 먹방 인플루언서 사망…\"돈 보다 건강 챙기세요\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260909141300Oxt",
+          "source": "연합뉴스TV",
+          "date": "2026-09-10"
         }
       ]
     },
     "ai": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-11T02:40:00+09:00",
-      "lastSeen": "2026-09-11T02:40:00+09:00",
+      "lastSeen": "2026-09-11T03:15:00+09:00",
       "news": [
         {
           "title": "Opinion | Big Tech Fooled America Once. The Second Time’s Not Going So Well.",
@@ -746,14 +784,26 @@
           "url": "https://www.ft.com/content/115c886f-23e4-4a8d-9656-5d7fc9480803?syn-25a6b1a6=1",
           "source": "Financial Times",
           "date": "2026-09-10"
+        },
+        {
+          "title": "How Would AI Actually Kill Us All? What to Know About the AI Doomsday Debate",
+          "url": "https://www.wsj.com/tech/ai/how-would-ai-actually-kill-us-all-what-to-know-about-the-ai-doomsday-debate-034270d1",
+          "source": "WSJ",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "We asked AI how it could kill humanity. Here's what it told us.",
+          "url": "https://tech.yahoo.com/ai/articles/asked-ai-could-kill-humanity-155428972.html",
+          "source": "Yahoo Tech",
+          "date": "2026-09-10"
         }
       ]
     },
     "송창식": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T02:40:00+09:00",
-      "lastSeen": "2026-09-11T02:40:00+09:00",
+      "lastSeen": "2026-09-11T03:15:00+09:00",
       "news": [
         {
           "title": "“감옥에서 이익 많이 봤다”…송창식이 21일간 수감됐던 사연",
@@ -771,6 +821,110 @@
           "title": "송창식, 홍콩 공연 귀�� 도중 수감…무슨 일? (데이앤나잇)",
           "url": "https://sports.donga.com/ent/article/all/20260910/134640396/1",
           "source": "스포츠동아",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "전국삼성전자노동조합": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T03:15:00+09:00",
+      "lastSeen": "2026-09-11T03:15:00+09:00",
+      "news": [
+        {
+          "title": "최승호 위원장, '장인 수의계약 잘못' 따진 노조원에 '인사 보복' 압박",
+          "url": "https://v.daum.net/v/20260910171651128",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "삼성전자 '성과급 투쟁' 조끼‥\"노조위원장 장인 업체서 샀다\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850742_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[단독] 삼��� 노조위원장 GV80 논란에… “처가 도움은 사실, 노조 활동 전 구매” - 조선비즈",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/09/10/XZFY26BDXNFWJMXNPJRCD5OC5A/",
+          "source": "Chosunbiz",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "아마존": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T03:15:00+09:00",
+      "lastSeen": "2026-09-11T03:15:00+09:00",
+      "news": [
+        {
+          "title": "Cockpit voice recorder indicates pilot tried to abort landing before Amazon cargo plane crash: NTSB",
+          "url": "https://abcnews.com/US/ntsb-release-readout-cockpit-voice-recorder-amazon-cargo/story?id=136292103",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘Too fast,’ ‘too low’ warnings called out ahead of MIA plane crash, NTSB says",
+          "url": "https://www.channel3000.com/news/shareable-stories/too-fast-too-low-warnings-called-out-ahead-of-mia-plane-crash-ntsb-says/article_1c3e7c5c-e9f2-5ee3-a0e4-47ad25b95b91.html",
+          "source": "Channel 3000",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "After media dust-up, Miami-Dade sheriff tells mayor: That can’t happen again",
+          "url": "https://www.miamiherald.com/news/local/community/miami-dade/article317186931.html",
+          "source": "Miami Herald",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "g": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T03:15:00+09:00",
+      "lastSeen": "2026-09-11T03:15:00+09:00",
+      "news": [
+        {
+          "title": "All 206 holes found gold at Tectonic’s Alaska project. 97 more await assays.",
+          "url": "https://www.stocktitan.net/news/TETOF/tectonic-metals-drills-1-40-g-t-au-over-30-00-metres-including-4-58-e7stfd72y9gs.html",
+          "source": "Stock Titan",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Juggernaut Drills 3.08 G/T Au Over 5.03 Meters From Whopper Zone On New District Scale Gold Silver Copper Discovery On 100% Controlled Big One Property, Golden Triangle, B.C.",
+          "url": "https://www.tradingview.com/news/reuters.com,2026-09-10:newsml_Tnw21dLRx:0-juggernaut-drills-3-08-g-t-au-over-5-03-meters-from-whopper-zone-on-new-district-scale-gold-silver-copper-discovery-on-100-controlled-big-one-property-golden-triangle-b-c/",
+          "source": "TradingView",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Pan Global Intersects 15 Meters of 3.9 g/t Gold From Surface, Cármenes Project, Spain",
+          "url": "https://ca.finance.yahoo.com/news/pan-global-intersects-15-meters-113000670.html",
+          "source": "Yahoo! Finance Canada",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "유": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T03:15:00+09:00",
+      "lastSeen": "2026-09-11T03:15:00+09:00",
+      "news": [
+        {
+          "title": "[글로벌증시] 유가·국채 금리 급등에 뉴욕증시 일제 하락",
+          "url": "https://www.yna.co.kr/view/MYH20260910002800038",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "WTI 국제유가 100달러 돌파…중동전쟁 장기화 우려에 급등",
+          "url": "https://www.newsis.com/view/NISX20260911_0003785076",
+          "source": "뉴시스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "유가 치솟자 금융시장 흔들… 추석앞 물가관리 비상",
+          "url": "https://v.daum.net/v/20260911003157992",
+          "source": "Daum",
           "date": "2026-09-10"
         }
       ]
