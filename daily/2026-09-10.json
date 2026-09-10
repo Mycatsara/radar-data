@@ -5958,10 +5958,10 @@
       ]
     },
     "카페": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-10T21:46:00+09:00",
-      "lastSeen": "2026-09-10T22:42:00+09:00",
+      "lastSeen": "2026-09-10T23:12:00+09:00",
       "news": [
         {
           "title": "‘아이들 볼까 무섭다’ 커피 주문에 하녀복 입고 무대서 춤추는 여성…경찰, 불법영업 2곳 단속 입건[세상&]",
@@ -6104,10 +6104,10 @@
       ]
     },
     "미스 트롯 포유": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T22:13:00+09:00",
-      "lastSeen": "2026-09-10T22:42:00+09:00",
+      "lastSeen": "2026-09-10T23:12:00+09:00",
       "news": [
         {
           "title": "“방송사고” 비명…안성훈·손빈아 무대 중 돌발 상황 (미스트롯 포유)",
@@ -6142,17 +6142,17 @@
       ]
     },
     "도둑": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-10T22:13:00+09:00",
-      "lastSeen": "2026-09-10T22:42:00+09:00",
+      "lastSeen": "2026-09-10T23:12:00+09:00",
       "news": []
     },
     "jyp 엔터테인먼트": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-10T22:13:00+09:00",
-      "lastSeen": "2026-09-10T22:42:00+09:00",
+      "lastSeen": "2026-09-10T23:12:00+09:00",
       "news": [
         {
           "title": "“전면 백지화로 가닥”…3년 공들인 JYP 신사옥, 결국 무산되나",
@@ -6171,14 +6171,20 @@
           "url": "https://www.newsis.com/view/NISX20260910_0003784528",
           "source": "뉴시스",
           "date": "2026-09-10"
+        },
+        {
+          "title": "JYP, 신사옥 건립 무산되나…유현준 “전면 백지화로 가닥 잡혔다”",
+          "url": "https://biz.heraldcorp.com/article/10869331",
+          "source": "헤럴드경제",
+          "date": "2026-09-10"
         }
       ]
     },
     "송미령": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-10T22:42:00+09:00",
-      "lastSeen": "2026-09-10T22:42:00+09:00",
+      "lastSeen": "2026-09-10T23:12:00+09:00",
       "news": [
         {
           "title": "농사를 못 지으면 농지를 팔아야 한다? 사실은 이렇습니다",
@@ -6201,10 +6207,10 @@
       ]
     },
     "ppi": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-10T22:42:00+09:00",
-      "lastSeen": "2026-09-10T22:42:00+09:00",
+      "lastSeen": "2026-09-10T23:12:00+09:00",
       "news": [
         {
           "title": "Wholesale prices rose 0.4% in August, as expected",
@@ -6222,6 +6228,116 @@
           "title": "US PPI Ex Food, Energy and Trade (Aug MM) 0.3% (Prev. 0.4%)",
           "url": "https://www.newsquawk.com/headlines/us-ppi-ex-food-energy-and-trade-aug-mm-03-prev-04",
           "source": "Newsquawk",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "US AUG PPI EX-FOOD AND ENERGY +4.6% Y/Y VS +4.6% EXPECTED AND +4.2% IN JULY",
+          "url": "https://www.tradingview.com/news/macenews:25716fa91094b:0-us-aug-ppi-ex-food-and-energy-4-6-y-y-vs-4-6-expected-and-4-2-in-july/",
+          "source": "TradingView",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "wti": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-10T23:12:00+09:00",
+      "lastSeen": "2026-09-10T23:12:00+09:00",
+      "news": [
+        {
+          "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
+          "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+          "source": "CNBC",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "U.S. crude oil hits $100 for the first time since May",
+          "url": "https://www.nbcnews.com/business/energy/us-crude-oil-iran-trump-hormuz-rcna596997",
+          "source": "NBC News",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "World shares retreat and oil prices trade above $100 a barrel",
+          "url": "https://apnews.com/article/stocks-markets-oil-trump-rates-7fbc77061abd778608068d3beb1bbbaf",
+          "source": "AP News",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "서울 지하철 2호선": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T23:12:00+09:00",
+      "lastSeen": "2026-09-10T23:12:00+09:00",
+      "news": [
+        {
+          "title": "“지하철에 피자만 탔습니다”…2호선 기관사 또 단호한 대처 [이런뉴스]",
+          "url": "https://v.daum.net/v/20260910180411098",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"2호선이 피자 뺏고 도망갔다\"…열차 안에 피자만 덩그러니",
+          "url": "https://www.newsis.com/view/NISX20260910_0003785000",
+          "source": "뉴시스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"2호선이 피자 들고 도망\"…지하철 승객들 '빵 터진' 사연 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/10/2026091021342959804",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "사랑 이 온다": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-10T23:12:00+09:00",
+      "lastSeen": "2026-09-10T23:12:00+09:00",
+      "news": [
+        {
+          "title": "안희연 '싱글맘' 아니고, 하석진은 결별했다…'사랑이 온다' 나비효과",
+          "url": "https://v.daum.net/v/20260910154208426",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[종합] ‘사랑이 온다’ 출생의 비밀→자매 전쟁까지! 세 가족의 ‘진실 폭탄’…17.2% 최고 시청률",
+          "url": "https://sports.khan.co.kr/article/202609100954003",
+          "source": "스포츠경향",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "안희연, KBS에서 일내나…주말극 ‘사랑이 온다’ 자체최고시청률 경신 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/08/GJTDONBSMVRTAOJVGU2DGMJSGU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "대우건설": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-10T23:12:00+09:00",
+      "lastSeen": "2026-09-10T23:12:00+09:00",
+      "news": [
+        {
+          "title": "대우건설 '오픈 이노베이션 데이'…스타트업과 협업 본격화",
+          "url": "https://v.daum.net/v/20260910091554907",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "대우건설, 건설 새싹기업 혁신기�� 현장 적용 돕는다",
+          "url": "https://view.asiae.co.kr/article/2026091009223207099",
+          "source": "아시아경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "대우건설, 스타트업 혁신기술 최종 평가…AI·로보틱스 스마트 경쟁력 강화",
+          "url": "https://www.newsis.com/view/NISX20260910_0003783674",
+          "source": "뉴시스",
           "date": "2026-09-10"
         }
       ]
