@@ -1687,10 +1687,10 @@
       ]
     },
     "코레일 추석예매": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T07:40:00+09:00",
-      "lastSeen": "2026-09-11T07:40:00+09:00",
+      "lastSeen": "2026-09-11T08:10:00+09:00",
       "news": [
         {
           "title": "추석 경부선 예매 첫날, 최대 50여만 명 몰려 서버 2시간 대기…통합 KTX 호언장담 ‘무색’",
@@ -1708,6 +1708,12 @@
           "title": "김은혜, KTX 불법 예매대행 방치 지적…“긴급 차단해야”",
           "url": "https://www.kyeonggi.com/article/20260910580366",
           "source": "경기일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“서버 확충했다더니”…KTX 추석 경부선 예매 대기만 ‘50만 명’ 부글부글",
+          "url": "https://www.idaegu.com/news/articleView.html?idxno=665580",
+          "source": "대구일보",
           "date": "2026-09-10"
         }
       ]
@@ -1942,6 +1948,240 @@
           "title": "'이럴 수가' 2년 만에 돌아온 '손흥민 후계자' 복귀하자마자 날벼락…토트넘서 단 16분 뛰고 발목 부상→최대 2개월 결장 전망",
           "url": "https://m.news.nate.com/view/20260911n00751",
           "source": "Nate News",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "암호화폐": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T08:10:00+09:00",
+      "lastSeen": "2026-09-11T08:10:00+09:00",
+      "news": [
+        {
+          "title": "코인 운명 가를 '클래리티 법'…15일 표결 못 넘으면 연내 입법 가능성 '뚝'",
+          "url": "https://www.news1.kr/finance/blockchain-fintech/6286591",
+          "source": "뉴스1",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘클래리티 법안’ 표결 눈앞…암호화폐 업계 vs 은행권 의회 로비 총력전",
+          "url": "https://www.g-enews.com/article/Securities/2026/09/202609100545504581e250e8e188_1",
+          "source": "글로벌이코노믹",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "美 공화당 상원의원 \"클래리티 법안, 다음주 부결될 가능성 높아\"",
+          "url": "https://v.daum.net/v/p6B2gHEokV",
+          "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "폴더 블 스마트 폰": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-11T08:10:00+09:00",
+      "lastSeen": "2026-09-11T08:10:00+09:00",
+      "news": [
+        {
+          "title": "베일 벗은 애플 첫 ‘접는 아이폰’… “갤럭시보다 두껍고 무거워”",
+          "url": "https://www.donga.com/news/Economy/article/all/20260910/134646232/2",
+          "source": "동아일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"원조는 삼성인데\" 중국폰에 애플까지 가세…폴더블 판 흔들린다 - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/09/11/2026091016151273317",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"삼전닉스 보복?\"…'애플식 환율'에 韓 아이폰 듀오 美 보다 10% 비싸",
+          "url": "https://v.daum.net/v/20260911060307655",
+          "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "lg에너지솔루션": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-11T08:10:00+09:00",
+      "lastSeen": "2026-09-11T08:10:00+09:00",
+      "news": [
+        {
+          "title": "현대차·기아, LG엔솔·원익피앤이와 UBESS 실증 추진",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372283",
+          "source": "전기신문",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "현대차그룹, LG엔솔·원익피앤이와 EV 폐배터리 ESS로 재활용 실증",
+          "url": "https://www.yna.co.kr/view/PYH20260910161100013",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"오래된 전기차 배터리에 '두 번째 생애' 선물\"…현대차, 사용 후 배터리 ESS 첫 활용",
+          "url": "https://v.daum.net/v/20260910140019770",
+          "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "노동조합": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-11T08:10:00+09:00",
+      "lastSeen": "2026-09-11T08:10:00+09:00",
+      "news": [
+        {
+          "title": "최승호 위원장, '장인 수의계약 잘못' 따진 노조원에 '인사 보복' 압박",
+          "url": "https://v.daum.net/v/20260910171651128",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "삼성전자 '성과급 투쟁' 조끼‥\"노조위원장 장인 업체서 샀다\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850742_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[단독] 삼성 노조위원장 GV80 논란에… “처가 도움은 사실, 노조 활동 전 구매” - 조선비즈",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/09/10/XZFY26BDXNFWJMXNPJRCD5OC5A/",
+          "source": "Chosunbiz",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "thứ hạng của man utd gặp câu lạc bộ bóng đá sabah": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T08:10:00+09:00",
+      "lastSeen": "2026-09-11T08:10:00+09:00",
+      "news": [
+        {
+          "title": "Champions League thử thách chiều sâu của Man Utd",
+          "url": "https://vnexpress.net/champions-league-thu-thach-chieu-sau-cua-man-utd-5118560.html",
+          "source": "VnExpress",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Nhận định bóng đá MU vs Sabah (2h00 ngày 11/9): Quỷ đỏ quyết thắng",
+          "url": "https://bongda24h.vn/nhan-dinh-bong-da/nhan-dinh-mu-vs-sabah-2h00-ngay-11-9-quy-do-quyet-thang-344-459390.html",
+          "source": "Bongda24h",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Điểm tựa Tielemans mở đường cho MU tiến vào derby Manchester",
+          "url": "https://yeuthethao.net.vn/diem-tua-tielemans-mo-duong-cho-mu-tien-vao-derby-manchester-d894450.html",
+          "source": "yeuthethao.net.vn",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "네이버시계": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-11T08:10:00+09:00",
+      "lastSeen": "2026-09-11T08:10:00+09:00",
+      "news": [
+        {
+          "title": "모두가 부동산에 올인할 때, 전현무가 끝까지 건물 안 사는 이유",
+          "url": "https://www.segye.com/newsView/20260824516418",
+          "source": "세계일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "전현무, 건물 1채 없는 이유→”하이 리스크, 하이 리턴”…철두철미한 분석과 ‘절제’",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1533052",
+          "source": "MHN스포츠",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "전현무, 건물 1채 없는 이유→\"하이 리스크, 하이 리턴\"…철두철미한 분석과 '절제'",
+          "url": "https://news.nate.com/view/20260909n32254",
+          "source": "Nate News",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "해리 케인": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T08:10:00+09:00",
+      "lastSeen": "2026-09-11T08:10:00+09:00",
+      "news": [
+        {
+          "title": "73골 터트린 ‘득점 기계’ 해리 케인, 생애 첫 발롱도르 도전",
+          "url": "https://v.daum.net/v/8y6F8me45K?f=p",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "메시·음바페·케인…’발롱도르’ 후보 30명 발표",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202609092329563p1",
+          "source": "연합뉴스TV",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘월드컵 우승’ 로드리냐, ‘73골’ 케인이냐",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260910.22015002875",
+          "source": "국제신문",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "알 테오 젠": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T08:10:00+09:00",
+      "lastSeen": "2026-09-11T08:10:00+09:00",
+      "news": [
+        {
+          "title": "알테오젠, 올해만 6.2조 기술수출…빅파마 홀린 ‘플랫폼의 힘’",
+          "url": "https://v.daum.net/v/20260910103008221",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "신한증권, 알테오젠 목표가↓…\"노바티스 신약 1개 3상 실패\"",
+          "url": "https://www.yna.co.kr/view/AKR20260909030400008",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "알테오젠, 유성 둔곡 생산라인 통해 의약품생산 자립 추진",
+          "url": "https://m.joongdo.co.kr/view.php?key=20260910010003499",
+          "source": "중도일보",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "화사": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T08:10:00+09:00",
+      "lastSeen": "2026-09-11T08:10:00+09:00",
+      "news": [
+        {
+          "title": "마크롱 여사 만난 화사, 파리 길거리서 ‘벌러덩’ [IS하이컷]",
+          "url": "https://v.daum.net/v/1Enp2P3GwD",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "파리를 홀린 화사, 패션 피플 사이에서도 단연 눈에 띈 이유",
+          "url": "https://www.harpersbazaar.co.kr/article/1909410",
+          "source": "하퍼스 바자 코리아",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'파리' 간 화사, 잘록 허리 과시…물오른 미모까지 [N샷]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6286474",
+          "source": "뉴스1",
           "date": "2026-09-10"
         }
       ]
