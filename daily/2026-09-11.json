@@ -2,10 +2,10 @@
   "date": "2026-09-11",
   "keywords": {
     "어디가": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T00:13:00+09:00",
-      "lastSeen": "2026-09-11T00:42:00+09:00",
+      "lastSeen": "2026-09-11T01:13:00+09:00",
       "news": [
         {
           "title": "“액티브냐 패시브냐” 끝났다…기관 돈 잡는 ‘크로스플랫폼’ 경쟁",
@@ -28,10 +28,10 @@
       ]
     },
     "농구": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T00:13:00+09:00",
-      "lastSeen": "2026-09-11T00:42:00+09:00",
+      "lastSeen": "2026-09-11T01:13:00+09:00",
       "news": [
         {
           "title": "男농구 이현중, 에이스 폼 어디 안 갔네…사우디전 23득점 활약 [현장영상]",
@@ -274,10 +274,10 @@
       ]
     },
     "금메달": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T00:42:00+09:00",
-      "lastSeen": "2026-09-11T00:42:00+09:00",
+      "lastSeen": "2026-09-11T01:13:00+09:00",
       "news": [
         {
           "title": "설기현 이영표 조원희 “이민성호 전력은 역대급, 문제는…”",
@@ -300,10 +300,10 @@
       ]
     },
     "신지": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-11T00:42:00+09:00",
-      "lastSeen": "2026-09-11T00:42:00+09:00",
+      "lastSeen": "2026-09-11T01:13:00+09:00",
       "news": [
         {
           "title": "'신혼' 신지, 외식 두 달에 한 번…\"익숙하지 않은 것 두려워\"",
@@ -326,10 +326,10 @@
       ]
     },
     "유인나": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T00:42:00+09:00",
-      "lastSeen": "2026-09-11T00:42:00+09:00",
+      "lastSeen": "2026-09-11T01:13:00+09:00",
       "news": [
         {
           "title": "아이유, 오늘 1년 만의 싱글 '이 별로부터'…직접 작사",
@@ -347,6 +347,142 @@
           "title": "아이유, 경찰 변신→김영옥 깜짝 등장…1년 만의 신곡",
           "url": "https://m.imbc.com/enews/view/517818",
           "source": "MBC",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'경찰 변신' 아이유, 오늘 신곡 발표…정규 6집 포문 연다",
+          "url": "https://v.daum.net/v/20260910095711160",
+          "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "구글": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-11T01:13:00+09:00",
+      "lastSeen": "2026-09-11T01:13:00+09:00",
+      "news": [
+        {
+          "title": "구글, ‘원전 강국’ 핀란드에 20조원 AI 투자",
+          "url": "https://v.daum.net/v/20260911003637125",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "J.P. Morgan, 골드만삭스, Google 전력 계약으로 Fortum 목표가 상향",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2089903",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "구글, 핀란드 디지털 인프라에 20조 투자 …“유럽 내 구글 단일 투자 최대 규모”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8659199",
+          "source": "KBS 뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "유해진": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T01:13:00+09:00",
+      "lastSeen": "2026-09-11T01:13:00+09:00",
+      "news": [
+        {
+          "title": "멜로 감독의 장르물…“육 여사 사건, 10년 전부터 만들고 싶었다”",
+          "url": "https://v.daum.net/v/20260911000320547",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "박해일 \"기자라는 직종 설득력 있게 전달하는 게 과제였죠\"",
+          "url": "https://www.yna.co.kr/view/AKR20260910135300005",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[인터뷰] 4년 만에 돌아온 박해일…\"'암살자(들)', 정답 대신 물음표 남기는 영화\"",
+          "url": "https://star.ytn.co.kr/_sn/0117_202609101634418311_001",
+          "source": "YTN star",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "히 샬리 송": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T01:13:00+09:00",
+      "lastSeen": "2026-09-11T01:13:00+09:00",
+      "news": [
+        {
+          "title": "'토트넘과 법정 싸움 불사' 히샬리송, U-21 강등에 폭발...계약 해지 후 '어린 시절 꿈' 바스쿠행 추진",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/10/HBRDGMBWGZTDIYZWMJQWIZRYMY/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "토트넘 떠나려 ‘법원’까지 간다…히샬리송, 법적 절차 밟아 ‘계약 해지’ 신청 예정",
+          "url": "https://sports.khan.co.kr/article/202609101513003",
+          "source": "스포츠경향",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'토트넘 탈출 막힌 줄 알았는데' 손흥민 절친에게 열린 마지막 기회! '임대 불가능' 보도 뒤집혔다→브라질 바스쿠 다 가마행 급물살",
+          "url": "https://v.daum.net/v/20260910050056389",
+          "source": "Daum",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "웹툰": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T01:13:00+09:00",
+      "lastSeen": "2026-09-11T01:13:00+09:00",
+      "news": [
+        {
+          "title": "네이버웹툰, 영남·충청·호남 지역 작가 정서 돌봄·교류 지원",
+          "url": "https://v.daum.net/v/20260910162127622",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"정산·복지 제일 만족\"…네이버웹툰서 일하는 작가, 만족도는? - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/09/10/2026091016033555285",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "네이버웹툰 직계약 창작자 10명 중 9명, 수익 정산 과정 만족",
+          "url": "https://www.news1.kr/it-science/general-it/6286699",
+          "source": "뉴스1",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "수시 경쟁률": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T01:13:00+09:00",
+      "lastSeen": "2026-09-11T01:13:00+09:00",
+      "news": [
+        {
+          "title": "\"10년 걸려 의사한다고?\"…부모들 돌변하더니 '대반전'",
+          "url": "https://www.hankyung.com/article/2026091073241",
+          "source": "한국경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "SKY 평균 경쟁률 하락… 지역 국립대 지원 늘어날까 [2027학년도 대입 수시모집 분석]",
+          "url": "https://v.daum.net/v/20260910182601904",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘서연고 의대’ 수시 지원자 11.3% 감소…“지역의사제 따른 분산”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8659948",
+          "source": "KBS 뉴스",
           "date": "2026-09-10"
         }
       ]
@@ -847,6 +983,36 @@
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBybS1JNnJTVjlDTXdKc2JVUWpDV0MyVEwwMW04dmk4bElGS0hqUkg1bzR6ZGRrcUVkWkxadFZ1ZUl5TGp3ek1LeExWYWZ0eVox?oc=5",
         "source": "문화일보",
         "date": "2026-09-07"
+      },
+      {
+        "title": "[비즈톡톡] “AI가 인류 멸종시킬 수도”… AI發 종말론 불지핀 ‘자기개선형 초지능’ 뭐길래 - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2w3ZTItVmdrNlJBRjlSNUIzbEJPUFctY2FnU1duWkE3dEt2SEJCOThISkV0VVJJOF81SnNYb1d2YnZCaTFaQ1RGcjFCdWtmWHRnR0thMmxoeHRkWmF1ci1Tc3JfUFpGM0s2SW13WTByNVVraXJ0dm1EY3pIN0FPWktn0gGWAUFVX3lxTE8wZU1wcjdhWlctNms5NUt3SU5Fak9DblpSSzNmci1qTm1FTFE4QXh0eWlsYUVkM1pJR3hVYkEzcmphTElnWGZ0UDN1OF9ZQzJkQ2Z4NlNYcm1qdks1ZlA4X0o5MjZKLV9pUnFBWTNZaG1UaFNfUHV1ZzdfaHhoODJlNDlYYVh4OU1BbEtnekVMUEF3Q01PUQ?oc=5",
+        "source": "Chosunbiz",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "미국 8월 PPI 5.4%…예상치 5.3% 웃돌아",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wZFp5V3U4RlZJUmNOaVllOEFYQW8xakh2bDlXalVTRkNlQlphd0wwUDlfRXNkb0FoZDBOV0dkblBiRGFIMlZzSjRPWkdBcjZDb1UzMzM2RTHSAV5BVV95cUxNQTFhT19mb21MYnFqR3lyb2V3azlidGV5UWd4ZnlCb2hELUZZQWVJc01LWXQ1SmJuVjV6ZFd2ZlpwN3NBdS1wS1doRDFBVjM3YVJJYTJrbGZHVlpDcjJ3?oc=5",
+        "source": "tokenpost.kr",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "20년 전 PS3 디스크, PC에 꽂으면 바로 돌아간다?",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42TXR6bm1JYmhnTW5EcWxjYmNGWEszb2RXWmlfTTBTTHM5bkVDRmJuVzB2TUMybHhlYmk1SE9mSEVPUUd3XzdUVFVZcGktZy0xUW1QWndtUU5qQjlhdXNCSDJFSmJ1Z9IBakFVX3lxTFBuRmVRZmo3Vk4wMkJxUll6WENBUGdBYmVYVDBOdy1EN2dVcFBhdEFaNU00aW4yWjVQU2NucGFIVENfUVpCVTRFY1dBaHNKYUZBc3hjNzUyU1pJc2l0RnF4UHNzdEJ0Y3RCbEE?oc=5",
+        "source": "게임와이",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "\"이더리움 상승추세 다시 온다\"…비트마인, 2.8만개 추가 매집",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVzV5elR6ek9fbGp5M08ySTZaWHVIVVJXV0hTZTJrbkhjUmZ3eDZ4TjBXNlVKR1NHdWtFM0FCXzFsZTMyR1B5WTQxYlREdWlLckhTQTBJbEJBZXVWTDRnVWhXNTFYdnJ1VWNJem5wMkNVU0V6Z2t5RVVmakJ6bVFycQ?oc=5",
+        "source": "edaily.co.kr",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "유일로보틱스-SK온, 휴머노이드 전고체 배터리 개발",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wdmE0Nkw3ZXdSeFh0TzVBZTVTdXJCdlNrY0VkUTZ0Q2pPMEpxNGliZk10N21lcV9VNUNyS2Z3Y3M4ZDZ1M1h5bGt1Mm5sUQ?oc=5",
+        "source": "전자신문",
+        "date": "2026-09-09"
       }
     ],
     "ENTERTAINMENT": [
