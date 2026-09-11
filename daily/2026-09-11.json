@@ -2792,10 +2792,10 @@
       "news": []
     },
     "슈퍼맨이 돌아왔다": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T10:11:00+09:00",
-      "lastSeen": "2026-09-11T11:42:00+09:00",
+      "lastSeen": "2026-09-11T12:13:00+09:00",
       "news": [
         {
           "title": "'억만장자설' 기욤, 양평 별장 규모가 이 정도…딸 위해 풀파티 준비까지 (슈돌)[전일야화]",
@@ -2830,10 +2830,10 @@
       ]
     },
     "대한민국 의 대법관": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-11T10:11:00+09:00",
-      "lastSeen": "2026-09-11T11:42:00+09:00",
+      "lastSeen": "2026-09-11T12:13:00+09:00",
       "news": [
         {
           "title": "26명 대법관과 대법원장, 지금 방식대로 뽑을 순 없다",
@@ -2862,10 +2862,10 @@
       ]
     },
     "리노베이션": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T10:11:00+09:00",
-      "lastSeen": "2026-09-11T11:42:00+09:00",
+      "lastSeen": "2026-09-11T12:13:00+09:00",
       "news": [
         {
           "title": "A 283-year-old N.J. restaurant returns after huge renovation. Did it lose its charm? | Review",
@@ -2894,10 +2894,10 @@
       ]
     },
     "제시카 페굴라": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T10:11:00+09:00",
-      "lastSeen": "2026-09-11T11:42:00+09:00",
+      "lastSeen": "2026-09-11T12:13:00+09:00",
       "news": [
         {
           "title": "취미로 테니스 한다고? ‘15조 금수저’ 한국계 페굴라의 반란",
@@ -2932,10 +2932,10 @@
       ]
     },
     "강남구": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T11:13:00+09:00",
-      "lastSeen": "2026-09-11T11:42:00+09:00",
+      "lastSeen": "2026-09-11T12:13:00+09:00",
       "news": [
         {
           "title": "\"세무사가 구민 곁으로\"…강남구 '찾아가는 세금 상담회'",
@@ -2970,10 +2970,10 @@
       ]
     },
     "구축함": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T11:42:00+09:00",
-      "lastSeen": "2026-09-11T11:42:00+09:00",
+      "lastSeen": "2026-09-11T12:13:00+09:00",
       "news": [
         {
           "title": "[르포] 中과 일촉즉발 대치했던 美구축함…\"언제든 작전, 중동도 가능\"",
@@ -3018,6 +3018,110 @@
           "url": "https://ichannela.com/news/detail/000000549758.do",
           "source": "채널A",
           "date": "2026-09-10"
+        }
+      ]
+    },
+    "파운드리": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-11T12:13:00+09:00",
+      "lastSeen": "2026-09-11T12:13:00+09:00",
+      "news": [
+        {
+          "title": "'삼성전자, 드디어 터지나' 들썩…증권가서 '파격 전망' 나왔다 [분석+]",
+          "url": "https://www.hankyung.com/article/2026091178816",
+          "source": "한국경제",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"FOMC 전까지 관망해야 하나\"…전문가가 본 삼전하닉 10월 반등의 조건",
+          "url": "https://www.newsis.com/view/NISX20260910_0003783590",
+          "source": "뉴시스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "“삼성전자 HBM4 매출, 3배 이상 늘어난다”…파운드리까지 ‘청신호’",
+          "url": "https://stock.mk.co.kr/news/view/1157489",
+          "source": "매일경제 마켓",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "여권": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T12:13:00+09:00",
+      "lastSeen": "2026-09-11T12:13:00+09:00",
+      "news": [
+        {
+          "title": "“도난 당했다”…일본 간 한국인들 ‘긴급여권’ 발급 급증, 무슨 일",
+          "url": "https://v.daum.net/v/20260911064007540",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"여권 잃어버렸다\"…일본 간 한국인들 '긴급 여권' 3배 급증",
+          "url": "https://www.hankyung.com/article/202609118369H",
+          "source": "한국경제",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "역대 최대 규모 일본 여행에…일본서 발급된 긴급여권도 급증세",
+          "url": "https://www.yna.co.kr/view/AKR20260910080100001",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "카카오 모빌리티": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T12:13:00+09:00",
+      "lastSeen": "2026-09-11T12:13:00+09:00",
+      "news": [
+        {
+          "title": "택시노동자들, 카카오모빌리티에 단체교섭 요구",
+          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=236725",
+          "source": "매일노동뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "카카오 서울자율차가 복잡한 강남 밤길 누비는 이유",
+          "url": "https://zdnet.co.kr/view/?no=20260909160312",
+          "source": "지디넷코리아",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "자율주행 힘주는 카카오모빌리티…'韓 특화 데이터' 앞세워 빅테크와 경쟁",
+          "url": "https://v.daum.net/v/UIEsECnQHJ",
+          "source": "Daum",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "엘레나 리바키나": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T12:13:00+09:00",
+      "lastSeen": "2026-09-11T12:13:00+09:00",
+      "news": [
+        {
+          "title": "테니스 리바키나, US오픈 4강 오르며 생애 첫 세계 1위 확정(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260910061451007",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "리바키나, US오픈 4강 진출…카자흐스탄 선수 최초 세계 1위 확정",
+          "url": "https://www.news1.kr/sports/general-sport/6285855",
+          "source": "뉴스1",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "리바키나, 정친원 잡았다…US오픈 준결승 진출·생애 첫 테니스 1위",
+          "url": "https://www.newsis.com/view/NISX20260910_0003784094",
+          "source": "뉴시스",
+          "date": "2026-09-11"
         }
       ]
     }
