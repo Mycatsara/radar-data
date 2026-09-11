@@ -2613,10 +2613,10 @@
       ]
     },
     "pba 팀리그": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-11T09:44:00+09:00",
-      "lastSeen": "2026-09-11T09:44:00+09:00",
+      "lastSeen": "2026-09-11T10:11:00+09:00",
       "news": [
         {
           "title": "\"회장님 울컥에 선수들도 눈물바다\" PBA 휴온스, 창단 첫 PS 이어 새 역사도 쓰나",
@@ -2635,14 +2635,20 @@
           "url": "https://mkbn.mk.co.kr/news/sports/12149955",
           "source": "mkbn.mk.co.kr",
           "date": "2026-09-10"
+        },
+        {
+          "title": "브레이커스, 우리금융 꺾고 PBA 팀리그 3R 쾌조 스타트",
+          "url": "https://www.yna.co.kr/view/AKR20260911021900007",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
         }
       ]
     },
     "스페이스x": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T09:44:00+09:00",
-      "lastSeen": "2026-09-11T09:44:00+09:00",
+      "lastSeen": "2026-09-11T10:11:00+09:00",
       "news": [
         {
           "title": "“머스크 안믿었어?”…스페이스X 락업물량 풀려도 걱정없는 이유",
@@ -2661,14 +2667,26 @@
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434067",
           "source": "연합인포맥스",
           "date": "2026-09-10"
+        },
+        {
+          "title": "우주를 향한 야망·혁신… ‘로켓 개발의 역사’ 추적[천문학자의 서재]",
+          "url": "https://www.munhwa.com/article/11616243",
+          "source": "문화일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "신우주경쟁 시대… 달을 향한 40만㎞ 달리기의 승자는 누굴까",
+          "url": "https://www.hankookilbo.com/news/article/A2026091009470003618",
+          "source": "한국일보",
+          "date": "2026-09-10"
         }
       ]
     },
     "마우리시오 포체티노": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T09:44:00+09:00",
-      "lastSeen": "2026-09-11T09:44:00+09:00",
+      "lastSeen": "2026-09-11T10:11:00+09:00",
       "news": [
         {
           "title": "\"토트넘에 우승 줘야 해\" 손흥민도 리그 타이틀 생긴다? 포체티노 깜짝 주장...\"징계받은 첼시, 2017년 우승 박탈해라\" - 머니투데이",
@@ -2691,10 +2709,10 @@
       ]
     },
     "연금복권720+": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T09:44:00+09:00",
-      "lastSeen": "2026-09-11T09:44:00+09:00",
+      "lastSeen": "2026-09-11T10:11:00+09:00",
       "news": [
         {
           "title": "“여보, 나 1등이래” 복권 긁다 ‘싸한 느낌’…5억원 대박 터진 사연",
@@ -2713,14 +2731,20 @@
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3691510",
           "source": "국제뉴스",
           "date": "2026-09-10"
+        },
+        {
+          "title": "\"좋은 일 있을 것 같더라\"…'하트 구름' 본 뒤 복권 20억 당첨 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/08/2026090816031488756",
+          "source": "머니투데이",
+          "date": "2026-09-10"
         }
       ]
     },
     "코모": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T09:44:00+09:00",
-      "lastSeen": "2026-09-11T09:44:00+09:00",
+      "lastSeen": "2026-09-11T10:11:00+09:00",
       "news": [
         {
           "title": "아직도 이런 '낭만 팀'이 있었나…伊 코모, 암 진단 선수 재계약 → 고령 팬에 챔스 좌석 양도 '눈길'",
@@ -2739,15 +2763,125 @@
           "url": "https://www.vietnam.vn/ko/nhan-dinh-como-vs-rb-leipzig-diem-nong-cuoc-dua-top-dau",
           "source": "Vietnam.vn",
           "date": "2026-09-10"
+        },
+        {
+          "title": "새로운 명장 파브레가스, UCL 환상적인 데뷔! 독일 라이프치히 완파",
+          "url": "https://v.daum.net/v/20260911081250317",
+          "source": "Daum",
+          "date": "2026-09-10"
         }
       ]
     },
     "반찬": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T09:44:00+09:00",
-      "lastSeen": "2026-09-11T09:44:00+09:00",
+      "lastSeen": "2026-09-11T10:11:00+09:00",
       "news": []
+    },
+    "슈퍼맨이 돌아왔다": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T10:11:00+09:00",
+      "lastSeen": "2026-09-11T10:11:00+09:00",
+      "news": [
+        {
+          "title": "'억만장자설' 기욤, 양평 별장 규모가 이 정도…딸 위해 풀파티 준비까지 (슈돌)[전일야화]",
+          "url": "https://v.daum.net/v/5hrj9EQ9ZW",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "‘슈돌’ 기욤 딸 레아, 시장서 걷기만 해도 용돈…“벌써 3만원 받았어”",
+          "url": "https://www.donga.com/news/article/all/20260910/134642486/2?gid=134633397&srev=2&regdate=20260909",
+          "source": "동아일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"슈퍼카에 별장까지\"…'코인 대박' 기욤 패트리, 근황 공개",
+          "url": "https://www.hankyung.com/article/202609105729H",
+          "source": "한국경제",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "대한민국 의 대법관": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T10:11:00+09:00",
+      "lastSeen": "2026-09-11T10:11:00+09:00",
+      "news": [
+        {
+          "title": "26명 대법관과 대법원장, 지금 방식대로 뽑을 순 없다",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1277265.html",
+          "source": "한겨레",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "대법관 2명 공백 현실화…조희대 오늘도 '묵묵부답'",
+          "url": "https://www.ytn.co.kr/replay/view.php?idx=21&key=202609110914053362",
+          "source": "YTN",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "靑 ‘��제청 요구’에 꼬인 대법관 인선…190일째 공전하는 대법원",
+          "url": "https://v.daum.net/v/20260911064151559",
+          "source": "Daum",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "리노베이션": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T10:11:00+09:00",
+      "lastSeen": "2026-09-11T10:11:00+09:00",
+      "news": [
+        {
+          "title": "A 283-year-old N.J. restaurant returns after huge renovation. Did it lose its charm? | Review",
+          "url": "https://www.nj.com/food/2026/09/a-283-year-old-nj-restaurant-returns-after-huge-renovation-did-it-lose-its-charm-review.html",
+          "source": "NJ.com",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "$1 million renovation aims to earn Pearland steakhouse a Michelin star",
+          "url": "https://houston.culturemap.com/news/restaurants-bars/killens-steakhouse-pearland-reopening-michelin/",
+          "source": "CultureMap Houston",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Killen's Steakhouse reopens after three-month renovation in Pearland",
+          "url": "https://communityimpact.com/pearland-friendswood-manvel/dining/killen-s-steakhouse-reopens-after-three-month-renovation-in-pearland/",
+          "source": "Community Impact",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "제시카 페굴라": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T10:11:00+09:00",
+      "lastSeen": "2026-09-11T10:11:00+09:00",
+      "news": [
+        {
+          "title": "취미로 테니스 한다고? ‘15조 금수저’ 한국계 페굴라의 반란",
+          "url": "https://v.daum.net/v/20260911050253530",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'망사 드레스 논란' 사발렌카, 이겼는데 세계 1위 뺏긴다? 100주 천하 끝날 위기...4강 진출에도 '자력 수성' 불가능 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/10/202609092237773982O",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘금수저 더비’ 승자는 페굴라…나바로 꺾고 3년 연속 US 오픈 4강행",
+          "url": "https://www.donga.com/news/Sports/article/all/20260909/134633897/1",
+          "source": "동아일보",
+          "date": "2026-09-10"
+        }
+      ]
     }
   },
   "sections": {
