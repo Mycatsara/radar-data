@@ -5648,10 +5648,10 @@
       ]
     },
     "윤석열 무죄": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-11T21:45:00+09:00",
-      "lastSeen": "2026-09-11T22:13:00+09:00",
+      "lastSeen": "2026-09-11T22:42:00+09:00",
       "news": [
         {
           "title": "'이종섭 호주 도피' 윤석열 1심 무죄‥법원 \"수사방해 의도 단정 못 해\"",
@@ -5686,10 +5686,10 @@
       ]
     },
     "신지은": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T21:45:00+09:00",
-      "lastSeen": "2026-09-11T22:13:00+09:00",
+      "lastSeen": "2026-09-11T22:42:00+09:00",
       "news": [
         {
           "title": "V리그 경기 현장|대한민국 '최고 미녀 선수' 뜬다…\"설레는 마음으로 후회 없이 준비\" 비치발리볼 신지은 출사표 [나고야 AG]",
@@ -5776,10 +5776,10 @@
       ]
     },
     "콜 오브 듀티": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T22:13:00+09:00",
-      "lastSeen": "2026-09-11T22:13:00+09:00",
+      "lastSeen": "2026-09-11T22:42:00+09:00",
       "news": [
         {
           "title": "[기자수첩] 한국전쟁은 게임으로 만들면 왜 안 된다는 것인가",
@@ -5802,10 +5802,10 @@
       ]
     },
     "한화 이글스": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-11T22:13:00+09:00",
-      "lastSeen": "2026-09-11T22:13:00+09:00",
+      "lastSeen": "2026-09-11T22:42:00+09:00",
       "news": [
         {
           "title": "'한화가 6억 질렀는데' ERA 14.06→선발 박탈, '1이닝-2이닝' 연투도 문제없었다…최인호 미친 수비에 무실점 이어가다",
@@ -5828,10 +5828,10 @@
       ]
     },
     "목사": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-11T22:13:00+09:00",
-      "lastSeen": "2026-09-11T22:13:00+09:00",
+      "lastSeen": "2026-09-11T22:42:00+09:00",
       "news": [
         {
           "title": "학대 목사, 숨진 ‘장애 11살’ 활동지원사 등록…급여 받았다",
@@ -5850,14 +5850,20 @@
           "url": "https://www.newspim.com/news/view/20260911000859",
           "source": "뉴스핌",
           "date": "2026-09-11"
+        },
+        {
+          "title": "엄마 같던 목사님 '반전 정체'…탈출한 신도들 입 열자 '경악' [자막뉴스]",
+          "url": "https://v.daum.net/v/POTQMrRf0Q",
+          "source": "Daum",
+          "date": "2026-09-11"
         }
       ]
     },
     "김세의": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T22:13:00+09:00",
-      "lastSeen": "2026-09-11T22:13:00+09:00",
+      "lastSeen": "2026-09-11T22:42:00+09:00",
       "news": [
         {
           "title": "'김수현 명예훼손' 김세의 국민참여재판 안한다…법원, 배제 결정(종합)",
@@ -5875,6 +5881,110 @@
           "title": "'김수현 명예훼손' 혐의 가세연 김세의, 첫 재판서 \"허위사실 아냐\"",
           "url": "https://www.newsis.com/view/NISX20260911_0003786355",
           "source": "뉴시스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "cpi 발표": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T22:42:00+09:00",
+      "lastSeen": "2026-09-11T22:42:00+09:00",
+      "news": [
+        {
+          "title": "[2보] 美 8월 근원 소비자물가 전월 대비 0.3%↑…예상치 웃돌아",
+          "url": "https://www.yna.co.kr/view/AKR20260911166551072",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "美 8월 CPI 3.4%↑ 전망…연준 9월 금리인상 '마지막 관문'",
+          "url": "https://www.news1.kr/world/international-economy/6287641",
+          "source": "뉴스1",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "미국 8월 생산자물가 전년 대비 5.4%↑‥전망치 소폭 상회",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6851042_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "미국 cpi": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T22:42:00+09:00",
+      "lastSeen": "2026-09-11T22:42:00+09:00",
+      "news": [
+        {
+          "title": "치솟는 유가·금리에 휘청이는 亞 증시[Asia오전] - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/11/2026091111494874563",
+          "source": "머니투데이",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[도쿄증시-마감] 유가 상승에 약세…닛케이 막판 64,000선 사수",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434494",
+          "source": "연합인포맥스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "아시아증시, 미국 CPI 발표 앞두고 전반적 하락⋯일본만 0.20%↑",
+          "url": "https://v.daum.net/v/bXPHksd8yb",
+          "source": "Daum",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "라이머": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T22:42:00+09:00",
+      "lastSeen": "2026-09-11T22:42:00+09:00",
+      "news": [
+        {
+          "title": "'신랑수업2' 라이머, AI에 연애 상담…\"좋은 여자 만날 준비 됐나?\"",
+          "url": "https://v.daum.net/v/20260911212328568",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "홍진경, 기억력 저하에 우울감 호소하더니…‘뇌 치료’ 받았다",
+          "url": "https://www.seoul.co.kr/news/entertainment/broadcastN/2026/09/11/20260911500042?aiMbti=result&wlog_tag1=aiMbti_pc",
+          "source": "서울신문",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[선공개] 래퍼 겸 프로듀서이자 CEO인 힙합 대부 4학��� 9반 라이머! 장가보내기 프로젝트★",
+          "url": "https://ichannela.com/program/clip/000000549725.do",
+          "source": "채널A",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "전소연": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T22:42:00+09:00",
+      "lastSeen": "2026-09-11T22:42:00+09:00",
+      "news": [
+        {
+          "title": "익스 이상미, 전소연 '퇴사할게여' 유사 의혹에 직접 등판…\"억측 그만\"",
+          "url": "https://v.daum.net/v/20260911175949929?f=m",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "“나만의 음악이 경쟁력”…아티스트로 진화하는 중소 엔터 걸그룹[연승의 엔터 만담]",
+          "url": "https://www.sedaily.com/article/20089625",
+          "source": "서울경제",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"억측 노노\" 익스 이상미, 입 열었다..'퇴사할게여' 도입부 유사 논란 종결 [Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/11/GNTDONJWHAYTGMBWMY4TCMLFMI/",
+          "source": "조선일보",
           "date": "2026-09-11"
         }
       ]
