@@ -27,6 +27,32 @@
         }
       ]
     },
+    "911": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T09:19:00+09:00",
+      "lastSeen": "2026-09-11T09:19:00+09:00",
+      "news": [
+        {
+          "title": "He Lost His Mother on 9/11. He Grew Up in Her Childhood Bedroom.",
+          "url": "https://www.nytimes.com/2026/09/10/nyregion/9-11-child-grandmother.html",
+          "source": "The New York Times",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Former FBI special agent details hunt for alleged 9/11 mastermind",
+          "url": "https://www.modernghana.com/videonews/cbs/1/715060",
+          "source": "Modern Ghana",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Video Man turns 9/11 grief into podcast of healing",
+          "url": "https://abcnews.com/video/136327901/",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "date": "2026-09-10"
+        }
+      ]
+    },
     "어디가": {
       "count": 3,
       "maxTraffic": 500,
@@ -2205,10 +2231,10 @@
       ]
     },
     "앤 트로픽": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T08:38:00+09:00",
-      "lastSeen": "2026-09-11T08:38:00+09:00",
+      "lastSeen": "2026-09-11T09:19:00+09:00",
       "news": [
         {
           "title": "앤트로픽, 'AI 외부 해킹' 네번째 사례 공개",
@@ -2226,6 +2252,12 @@
           "title": "클로드 유료 계정 토큰 탈취 잇달아…'인포스���러' 주의보",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=215037",
           "source": "AI타임스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "앤스로픽, 클로드 ‘생물무기 악용 우려’ 5건 차단",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/09/2026091108184934909a1f309431_1",
+          "source": "글로벌이코노믹",
           "date": "2026-09-10"
         }
       ]
@@ -2257,10 +2289,10 @@
       ]
     },
     "요르단": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-11T08:38:00+09:00",
-      "lastSeen": "2026-09-11T08:38:00+09:00",
+      "lastSeen": "2026-09-11T09:19:00+09:00",
       "news": [
         {
           "title": "\"이란의 요르단 美기지 공습에 F-15·A-10 전투기 9대 손상\"",
@@ -2278,6 +2310,12 @@
           "title": "유조선 난타전에 통제구역 확대 \"들어오면 ��재\"‥유가 어쩌나",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851011_37004.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "이란 \"미 무인정찰정 공격\"…구호대 2진 네팔로 출국",
+          "url": "https://v.daum.net/v/20260911083847936",
+          "source": "Daum",
           "date": "2026-09-10"
         }
       ]
@@ -2329,10 +2367,10 @@
       ]
     },
     "양민혁": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T08:38:00+09:00",
-      "lastSeen": "2026-09-11T08:38:00+09:00",
+      "lastSeen": "2026-09-11T09:19:00+09:00",
       "news": [
         {
           "title": "설기현 이영표 조원희 “이민성호 전력은 역대급, 문제는…”",
@@ -2350,6 +2388,12 @@
           "title": "[단독] 단장 교체 불똥 튄 이영준, AG 조기 합류 불발…‘예비역’의 헌신은 토너먼트부터",
           "url": "https://sports.khan.co.kr/article/202609101541003",
           "source": "스포츠경향",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "이민성호 ‘이영준·엄지성·배준호 3각편대’ 4연속 금 시동",
+          "url": "https://www.hani.co.kr/arti/sports/sportstemp/asiangame/1277312.html",
+          "source": "한겨레",
           "date": "2026-09-10"
         }
       ]
@@ -2402,6 +2446,162 @@
           "title": "TS, 세계 전문가들과 미래 모빌리티 일상화 해법 모색",
           "url": "https://www.munhwa.com/article/11616118",
           "source": "문화일보",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "장교": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-11T09:19:00+09:00",
+      "lastSeen": "2026-09-11T09:19:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 최근 3년간 사관학교 출신 장교 42명, 의대시험 안보고 의대行[이현호의 밀리터리!톡]",
+          "url": "https://www.sedaily.com/article/20089608",
+          "source": "서울경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "“같은 전문의인데 진급은 3~4년 차이”…장기 군의관 떠미는 ‘출신 격차’",
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3042252",
+          "source": "청년의사",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "북중·북러 관계의 진화…노비첸코교와 신압록강대교",
+          "url": "https://www.yna.co.kr/view/AKR20260910062900504",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "김연정": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-11T09:19:00+09:00",
+      "lastSeen": "2026-09-11T09:19:00+09:00",
+      "news": [
+        {
+          "title": "\"노시환-하지원 열애설, 하늘에 맹세코 아니다\" 김연정이 밝힌 진실, 야구선수-치어리더 부부는 오해까지 받았다",
+          "url": "https://v.daum.net/v/20260911002451925",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"노시환·하지원 열애설? 맹세코 아냐\"…김연정, 대신 해명 [엑's 이슈]",
+          "url": "https://v.daum.net/v/20260911081110275",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"노시환-하지원 열애설, 하늘에 맹세코 아니다\" 김연정이 밝힌 진실, 야구선수-치어리더 부부는 오해까지 받았다",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1006864",
+          "source": "SPOTV NEWS",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "기사": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T09:19:00+09:00",
+      "lastSeen": "2026-09-11T09:19:00+09:00",
+      "news": [
+        {
+          "title": "부산 삼락·화명 수상 레포츠타운 조류경보 '관심'으로 하향",
+          "url": "https://www.yna.co.kr/view/AKR20260910120600051",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "부산 낙동강 조류경보 '경계→관심'…15일만에 하향됐다",
+          "url": "https://www.newsis.com/view/NISX20260910_0003784608",
+          "source": "뉴시스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "부산시, 낙동강 조류경보 '관심' 하향…친수 활동 제한 완화",
+          "url": "https://www.newspim.com/news/view/20260910001071",
+          "source": "뉴스핌",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "시위": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T09:19:00+09:00",
+      "lastSeen": "2026-09-11T09:19:00+09:00",
+      "news": [
+        {
+          "title": "전남광주 농민들 “반도체 삶아 드시라”…CPTPP 가입 추진에 트랙터 시위",
+          "url": "https://www.hani.co.kr/arti/area/honam/1277200.html",
+          "source": "한겨레",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "송미령, CPTPP 가입 “새로운 기회요인 있을 수도”",
+          "url": "https://v.daum.net/v/20260910191812625",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "CPTPP, 농업 내주고 디지털 산업 얻는 거래 아니다",
+          "url": "https://www.sedaily.com/article/20089405",
+          "source": "서울경제",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "엘링 홀란": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T09:19:00+09:00",
+      "lastSeen": "2026-09-11T09:19:00+09:00",
+      "news": [
+        {
+          "title": "‘무려 2732억!’ 괴물 FW 홀란, FC 바르셀로나 이적 고려 중 “맨시티의 방향성에 불만, 에이전트들 이미 접촉”",
+          "url": "https://v.daum.net/v/20260910194909441",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'홀란 바르셀로나 이적' 추가협상, ���시티 대충격…\"마레스카 감독 방향성 불만\"→바이아웃 2725억",
+          "url": "https://www.sportschosun.com/football/2026-09-10/202609100100071550004605",
+          "source": "스포츠조선",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "‘짧은 머리’ 홀란, ‘장발’ 자른 이유는?",
+          "url": "https://sports.khan.co.kr/article/202609091712003",
+          "source": "스포츠경향",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "도지코인": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T09:19:00+09:00",
+      "lastSeen": "2026-09-11T09:19:00+09:00",
+      "news": [
+        {
+          "title": "비트와이즈, 도지코인 ETF 'BWOW' 청산 및 상장폐지 결정",
+          "url": "https://www.datatooza.com/article/202609110518133231cd1e77fdd5_80",
+          "source": "데이터투자",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "비트와이즈 도지코인 ETF 청산…잔고 $72.2만, 경쟁 ETF도 따를까?",
+          "url": "https://kr.beincrypto.com/bitwise-dogecoin-etf-liquidation-bwow/",
+          "source": "BeInCrypto",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "도지코인 ETF, 120만달러 유출 뒤 10월 14일 종료 예정",
+          "url": "https://www.tokenpost.kr/news/breaking/406051",
+          "source": "토큰포스트",
           "date": "2026-09-10"
         }
       ]
