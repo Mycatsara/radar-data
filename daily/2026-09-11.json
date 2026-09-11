@@ -3406,10 +3406,10 @@
       ]
     },
     "유보영": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T14:12:00+09:00",
-      "lastSeen": "2026-09-11T14:41:00+09:00",
+      "lastSeen": "2026-09-11T15:17:00+09:00",
       "news": [
         {
           "title": "치어리더 유보영,’잠실 찾은 랜더스 여신’ [O! SPORTS 숏폼]",
@@ -3432,10 +3432,10 @@
       ]
     },
     "귀금속": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-11T14:41:00+09:00",
-      "lastSeen": "2026-09-11T14:41:00+09:00",
+      "lastSeen": "2026-09-11T15:17:00+09:00",
       "news": [
         {
           "title": "전쟁·AI·약달러가 불붙였다…이례적 원자재 '에브리싱 랠리'",
@@ -3454,14 +3454,26 @@
           "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01580966645579136",
           "source": "마켓인",
           "date": "2026-09-11"
+        },
+        {
+          "title": "폐지 줍다 금 장신구 발견…78세 할머니의 선택은",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260910114457vMJ",
+          "source": "연합뉴스TV",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "폐지로 생계 꾸리던 베트남 할머니…금은보화 줍고 망설임 없이 한 행동",
+          "url": "https://www.hankyung.com/article/2026091188357",
+          "source": "한국경제",
+          "date": "2026-09-11"
         }
       ]
     },
     "김강우": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T14:41:00+09:00",
-      "lastSeen": "2026-09-11T14:41:00+09:00",
+      "lastSeen": "2026-09-11T15:17:00+09:00",
       "news": [
         {
           "title": "김강우♥한무영 아들, 얼굴 공개 선언…\"김강우 닮아 잘생긴 줄 알았는데\" 폭소 [마데핫리뷰]",
@@ -3484,10 +3496,10 @@
       ]
     },
     "이용진": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-11T14:41:00+09:00",
-      "lastSeen": "2026-09-11T14:41:00+09:00",
+      "lastSeen": "2026-09-11T15:17:00+09:00",
       "news": [
         {
           "title": "이용진, ‘1박 2일’ 합류 3개월 만에 촬영 보이콧 선언…“이럴 거면 안 해”",
@@ -3506,14 +3518,20 @@
           "url": "https://v.daum.net/v/20260911090551920",
           "source": "Daum",
           "date": "2026-09-11"
+        },
+        {
+          "title": "이용진, 멤버들 비난에 촬영 '보이콧' 선언…\"나 안 해\" ('1박 2일')",
+          "url": "https://v.daum.net/v/20260911090934056",
+          "source": "Daum",
+          "date": "2026-09-11"
         }
       ]
     },
     "앤 해서웨이": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T14:41:00+09:00",
-      "lastSeen": "2026-09-11T14:41:00+09:00",
+      "lastSeen": "2026-09-11T15:17:00+09:00",
       "news": [
         {
           "title": "앤 해서웨이, ‘가짜 임신설’ 잠재운 완벽 만삭 D라인… 여전한 할리우드 여신 미모",
@@ -3560,6 +3578,117 @@
           "date": "2026-09-11"
         }
       ]
+    },
+    "mlb": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T15:17:00+09:00",
+      "lastSeen": "2026-09-11T15:17:00+09:00",
+      "news": [
+        {
+          "title": "Unsure when -- or if -- he'd be back, Volpe makes grand return to Yanks",
+          "url": "https://www.mlb.com/news/anthony-volpe-playing-second-base-in-return-to-yankees",
+          "source": "MLB.com",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Rockies Crushed by Yankees in Series Finale",
+          "url": "https://sports.yahoo.com/articles/rockies-crushed-yankees-series-finale-031211554.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Yankees' Volpe has grand slam, 5 RBIs in return to majors",
+          "url": "https://www.espn.com/mlb/story/_/id/49900251/yankees-volpe-grand-slam-5-rbis-return-majors",
+          "source": "ESPN",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "홍준표": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-11T15:17:00+09:00",
+      "lastSeen": "2026-09-11T15:17:00+09:00",
+      "news": [
+        {
+          "title": "홍준표 \"변호사 재등록, 오늘부터 업무 시작\".. '명태균 의혹' 수사 대응?",
+          "url": "https://v.daum.net/v/20260911094536710",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "홍준표, 정계 은퇴 후 변호사 업무 재개…\"자택 사무실서 상담 집중\"",
+          "url": "https://www.kyeonggi.com/article/20260911580035",
+          "source": "경기일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "“백수로 지내려 했는데”…정계 떠난 홍준표 “오늘부터 변호사 다시 시작”",
+          "url": "https://www.mk.co.kr/news/politics/12150215",
+          "source": "매일경제",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "갤럽": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T15:17:00+09:00",
+      "lastSeen": "2026-09-11T15:17:00+09:00",
+      "news": [
+        {
+          "title": "[속보]李 지지율 38% 역대 최저치…40·50대서도 급락",
+          "url": "https://www.donga.com/news/Politics/article/all/20260911/134649096/2",
+          "source": "동아일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "이재명 대통령 지지율 '38%' 최저치 경신…갤럽 \"인선 파장\"",
+          "url": "https://v.daum.net/v/20260911132508134",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "(정기여론조사)①국민 10명 중 3명 \"대통령 지지 철회\"…73.4% \"용혜인 임명 반대\"(종합)",
+          "url": "https://www.newstomato.com/readnews.aspx?no=1313174",
+          "source": "뉴스토마토",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "테니스": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-11T15:17:00+09:00",
+      "lastSeen": "2026-09-11T15:17:00+09:00",
+      "news": [
+        {
+          "title": "테니스 사발렌카, US오픈 결승행…리바키나 꺾으면 '3연패'",
+          "url": "https://www.newsis.com/view/NISX20260911_0003785826",
+          "source": "뉴시스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"내 절반은 한국인!\" 부모 재산 합쳐 무려 '20조원'…억만장자 딸들의 US 오픈 맞대결, 페굴라가 웃었다",
+          "url": "https://v.daum.net/v/20260909214836687",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "취미로 테니스 한다고? ‘15조 금수저’ 한국계 페굴라의 반란",
+          "url": "https://www.koreadaily.com/article/20260910130054658",
+          "source": "미주중앙일보",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "jtbc": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T15:17:00+09:00",
+      "lastSeen": "2026-09-11T15:17:00+09:00",
+      "news": []
     }
   },
   "sections": {
