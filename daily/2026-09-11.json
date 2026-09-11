@@ -4866,10 +4866,10 @@
       ]
     },
     "ssg 대 kia": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-11T19:14:00+09:00",
-      "lastSeen": "2026-09-11T19:42:00+09:00",
+      "lastSeen": "2026-09-11T20:13:00+09:00",
       "news": [
         {
           "title": "NC전 6연패 탈출 나선 KIA, 왜 포수 주효상 카드 던졌나...김도영 타이거즈 새 역사 41홈런 도전 [오!쎈 광주]",
@@ -5132,10 +5132,10 @@
       ]
     },
     "인도": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T19:42:00+09:00",
-      "lastSeen": "2026-09-11T19:42:00+09:00",
+      "lastSeen": "2026-09-11T20:13:00+09:00",
       "news": [
         {
           "title": "中 “시진핑, 브릭스 정상회의서 연설…모디 총리와 회담 준비”",
@@ -5158,10 +5158,10 @@
       ]
     },
     "결혼식": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T19:42:00+09:00",
-      "lastSeen": "2026-09-11T19:42:00+09:00",
+      "lastSeen": "2026-09-11T20:13:00+09:00",
       "news": [
         {
           "title": "\"토욜 왕십리 결혼식, 빈자리 채워주실 분\"…예비부부 단톡방 '하객 품앗이' [어떻게 생각하세요]",
@@ -5179,6 +5179,200 @@
           "title": "“이번 주 토요일 결혼식 와서 밥 먹고 가세요”…요즘 나타난 낯선 하객들의 정체는",
           "url": "https://www.sedaily.com/article/20089849",
           "source": "서울경제",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "결혼식·장례식 작아지자…일본 꽃시장 직격탄",
+          "url": "https://www.hankyung.com/article/202609117967i",
+          "source": "한국경제",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "조선에 웨딩업체가 있었다면? 과부의 시끌벅적 결혼식은 이렇게",
+          "url": "https://v.daum.net/v/20260911094750797",
+          "source": "Daum",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "이준기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T20:13:00+09:00",
+      "lastSeen": "2026-09-11T20:13:00+09:00",
+      "news": [
+        {
+          "title": "'키드냅 게임' 사카구치 켄타로·이준기, 극한의 생존 게임 돌입",
+          "url": "https://v.daum.net/v/20260911110352412",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "사카구치 켄타로, 비연예인 여성과 기습 결혼 발표…\"배우로서 더욱 정진할 것\"",
+          "url": "https://news.nate.com/view/20260907n00125",
+          "source": "네이트",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "사카구치 켄타로·이준기, '키드냅 게임' 아시아 7개 도시 생존 서바이벌",
+          "url": "https://www.newspim.com/news/view/20260911000759",
+          "source": "뉴스핌",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "동아일보": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T20:13:00+09:00",
+      "lastSeen": "2026-09-11T20:13:00+09:00",
+      "news": [
+        {
+          "title": "李 “노인이 빵 훔치는 사회는 모두가 죄인…‘그냥드림’ 전국 확대”",
+          "url": "https://www.donga.com/news/Politics/article/all/20260911/134650324/2",
+          "source": "동아일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "세븐일레븐, 취약계층 먹거리 '그냥드림'…전국 점포망 활용",
+          "url": "https://www.newsis.com/view/NISX20260911_0003785191",
+          "source": "뉴시스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "인천시 제물포구, ‘그냥드림’ 시작…위기 가구에 2만 원 상당 생필품 즉시 지원",
+          "url": "https://v.daum.net/v/ucCEdNfzvR",
+          "source": "Daum",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "아버지": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T20:13:00+09:00",
+      "lastSeen": "2026-09-11T20:13:00+09:00",
+      "news": [
+        {
+          "title": "\"양념통닭이 먹고 싶구나\"…93세 아버지 전화에 오열 [SNS 와글]",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260911102653RsQ",
+          "source": "연합뉴스TV",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "93세 아버지, 꾹 참다 '양념통닭' 부탁...\"그게 뭐라고\" 펑펑 운 딸 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/11/2026091115440352586",
+          "source": "머니투데이",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "양념통닭 생각난다던 93세 아버지... 자식에게 망설이다 건넨 전화 한 통에 ‘오열’",
+          "url": "https://www.insight.co.kr/news/573077",
+          "source": "인사이트",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "xsmn": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T20:13:00+09:00",
+      "lastSeen": "2026-09-11T20:13:00+09:00",
+      "news": [
+        {
+          "title": "Xổ số miền Nam ngày 11 tháng 9: Tin vui cho khách trúng đài Trà Vinh",
+          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-11-thang-9-tin-vui-cho-khach-trung-dai-tra-vinh-185260910113259996.htm",
+          "source": "Thanh Niên",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Kết quả xổ s��� miền Trung hôm nay 11.9: Gia Lai, Ninh Thuận",
+          "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-119-gia-lai-ninh-thuan-1765173.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "XSMN 11/9 - Kết quả xổ số miền Nam hôm nay ngày 11/9/2026",
+          "url": "https://giaoducthoidai.vn/xsmn-119-ket-qua-xo-so-mien-nam-hom-nay-ngay-1192026-post792186.html",
+          "source": "Báo Giáo dục và Thời đại Online",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "박정훈": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T20:13:00+09:00",
+      "lastSeen": "2026-09-11T20:13:00+09:00",
+      "news": [
+        {
+          "title": "‘박정훈 허위 구속영장 작성’ 군검사들 2심도 무죄",
+          "url": "https://v.daum.net/v/20260911135711175",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'박정훈 허위영장' 채상병 사건 군검사 2심도 무죄…\"고의 없어\"",
+          "url": "https://www.yna.co.kr/view/AKR20260911096700004",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'박정훈 허위 영장' 軍검사, 항소심 출석",
+          "url": "https://www.news1.kr/photos/8101476",
+          "source": "뉴스1",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "홍정도": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T20:13:00+09:00",
+      "lastSeen": "2026-09-11T20:13:00+09:00",
+      "news": [
+        {
+          "title": "\"신한투자증권 등이 부실 방조했다\"…중앙그룹 채권 피해자, 증권사도 고소",
+          "url": "https://v.daum.net/v/6jMNfwMVto",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "“돌려막기 구조 설계”···중앙그룹 채권 피해자들, 홍정도·홍석현 등 20인 형사고소",
+          "url": "https://www.khan.co.kr/article/202609091140001",
+          "source": "경향신문",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "중앙그룹 채권자들, 홍석현 등 총수 일가 고소",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850705_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "nc 대 한화": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-11T20:13:00+09:00",
+      "lastSeen": "2026-09-11T20:13:00+09:00",
+      "news": [
+        {
+          "title": "'마침내 돌아왔다' 35세 베테랑 사이드암, 2년 만의 감격 복귀전…NC 파죽의 7연승 서막 책임졌다",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/07/MQYDCNTEGFQTMOJUMY3WEMTBGY/",
+          "source": "조선일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'7경기 연속' 심우준 톱타자, 포수 허인서 선발 복귀, 한화 라인업 공개...황준서 선발 등판 [오!쎈 대전] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/11/202609111526774308O",
+          "source": "머니투데이",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[AI프리뷰] 11일 대전 한화-NC전, '790일 만에 승리 도전' 이재학 NC 5강 불씨 살릴까",
+          "url": "https://www.newspim.com/news/view/20260911000703",
+          "source": "뉴스핌",
           "date": "2026-09-11"
         }
       ]
