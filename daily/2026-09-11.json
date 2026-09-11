@@ -4308,10 +4308,10 @@
       "news": []
     },
     "유현조": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-11T17:43:00+09:00",
-      "lastSeen": "2026-09-11T17:43:00+09:00",
+      "lastSeen": "2026-09-11T18:13:00+09:00",
       "news": [
         {
           "title": "서교림, KB금융 챔피언십 1R 공동 2위…김민솔은 공동 67위",
@@ -4485,6 +4485,240 @@
           "title": "시민단체 \"국토부, 광주공항 국제선 재취항 결단해야\"",
           "url": "https://www.yna.co.kr/view/AKR20260910126400054",
           "source": "연합뉴스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "대한민국 해양경찰청": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T18:13:00+09:00",
+      "lastSeen": "2026-09-11T18:13:00+09:00",
+      "news": [
+        {
+          "title": "대한민국, 단 하나의 바다를 위해 - 영상 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148971624&pWise=sub&pWiseSub=R2",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "제73주년 해양경찰의 날 기념식 열려",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8660511",
+          "source": "KBS 뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "심승일 인천해경 정책자문위원장, 해수부 장관 표창 수상",
+          "url": "https://www.newsis.com/view/NISX20260910_0003784010",
+          "source": "뉴시스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "그랜드 테 프트 오토 vi": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T18:13:00+09:00",
+      "lastSeen": "2026-09-11T18:13:00+09:00",
+      "news": [
+        {
+          "title": "게임이 정교해진 탓?… GTA6 출시 앞두고 美서 ‘가상 외도’ 논란",
+          "url": "https://v.daum.net/v/20260911110110209",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "GTA 6 열풍 벌써 뜨겁다…PS5 프로 품귀에 웃돈까지",
+          "url": "https://www.yna.co.kr/view/AKR20260909108000017",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'GTA 6', 지역별 순차 출시…전 세계 최대 19시간 시차",
+          "url": "https://zdnet.co.kr/view/?no=20260908095852",
+          "source": "지디넷코리아",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "두산": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T18:13:00+09:00",
+      "lastSeen": "2026-09-11T18:13:00+09:00",
+      "news": [
+        {
+          "title": "프로야구 하이라이트 두산:키움",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8660596",
+          "source": "KBS 뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "두산 벤자민, 23일 만의 복귀전 성공적…4이닝 무실점 호투",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008749229",
+          "source": "SBS 뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[사진]세베리노, 만루 찬스 놓치지 않아 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/10/202609101943772563O",
+          "source": "머니투데이",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "하현승": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T18:13:00+09:00",
+      "lastSeen": "2026-09-11T18:13:00+09:00",
+      "news": [
+        {
+          "title": "정윤진 감독 \"김민훈 역투가 U-18 야구 한일전 역전승 원동력\"",
+          "url": "https://www.yna.co.kr/view/AKR20260911150600007",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "박준현에 쓰린 키움, 하현승에 웃었다…日 잡고 U-18 亞선수권 결승행",
+          "url": "https://www.donga.com/news/Sports/article/all/20260911/134652341/1",
+          "source": "동아일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "하현승 미쳤다! 'KKKKK'→한국 U-18, 일본 무너트렸다! 한일전 승리로 결승 '눈앞' [SS시선집중]",
+          "url": "https://sports.news.nate.com/view/20260911n26747",
+          "source": "네이트",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "이진숙": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-11T18:13:00+09:00",
+      "lastSeen": "2026-09-11T18:13:00+09:00",
+      "news": [
+        {
+          "title": "\"이진숙, 그냥 안 둘 것\"‥\"김승원, 국조·특검해야\"",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6851170_36967.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "국회 등장한 ‘대통령 영정사진’…이진숙 “개인이 가져온 것” 해명 [지금뉴스]",
+          "url": "https://v.daum.net/v/20260911175553826",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "與 \"이진숙 국회 집회에 李대통령 영정…후안무치 그냥 안둘 것\"",
+          "url": "https://www.yna.co.kr/view/AKR20260911054200001",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "시프트업": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T18:13:00+09:00",
+      "lastSeen": "2026-09-11T18:13:00+09:00",
+      "news": [
+        {
+          "title": "시프트업, 게임 패키지 중요성 잘 알아...",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349898",
+          "source": "녹색경제신문",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "시프트업, '스텔라 블레이드' 닌텐도 스위치 2 버전 11월 출시",
+          "url": "https://www.yna.co.kr/view/AKR20260910056300017",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'스텔라 블레이드 컴플리트 에디션', 베요네타 협업 영상 공개",
+          "url": "https://v.daum.net/v/20260910110530367",
+          "source": "Daum",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "부산국제영화제": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T18:13:00+09:00",
+      "lastSeen": "2026-09-11T18:13:00+09:00",
+      "news": [
+        {
+          "title": "박해일·김아중·엄태구도 부국제 뜬다…커뮤니티비프 라인업 공개",
+          "url": "https://v.daum.net/v/20260911170933369",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[대담한K] 한불 영화 협력…위상 높인 BIFF",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8660326",
+          "source": "KBS 뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "나홍진, 부산영화제 간다…'마스터 클래스' 강연 초청",
+          "url": "https://www.dispatch.co.kr/2347827",
+          "source": "디스패치",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "백신": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T18:13:00+09:00",
+      "lastSeen": "2026-09-11T18:13:00+09:00",
+      "news": [
+        {
+          "title": "GC녹십자, 코로나19 mRNA 백신 임상 2상 승인…연내 투약",
+          "url": "https://www.yna.co.kr/view/AKR20260911026600017",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "GC녹십자, 코로나19 mRNA 백신 임상 2상 IND 승인…연내 첫 환자 투약",
+          "url": "https://pharm.edaily.co.kr/News/Read?newsId=03972086645579136",
+          "source": "팜이데일리",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "전남광주시, AI 활용 백신 제조·품질관리 기술개발 추진",
+          "url": "https://v.daum.net/v/20260910095206887",
+          "source": "Daum",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "조용형": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T18:13:00+09:00",
+      "lastSeen": "2026-09-11T18:13:00+09:00",
+      "news": [
+        {
+          "title": "축구 대표팀 모레노 사단에 조용형·이재홍 코치 합류",
+          "url": "https://v.daum.net/v/XVUTfxpXYL",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'모레노호 출범' 축구 대표팀, 9·10월 A매치 티켓 15일부터 판매",
+          "url": "https://www.newsis.com/view/NISX20260911_0003786093",
+          "source": "뉴시스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "‘캡틴 손흥민의 라스트댄스', 아시안컵 우승으로 결실 맺나…한국축구 새로 맡은 전술가 모레노 감독에게 쏟아지는 기대감 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/11/202609110933770057O",
+          "source": "머니투데이",
           "date": "2026-09-11"
         }
       ]
