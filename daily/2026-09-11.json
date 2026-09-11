@@ -5648,10 +5648,10 @@
       ]
     },
     "윤석열 무죄": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-11T21:45:00+09:00",
-      "lastSeen": "2026-09-11T22:42:00+09:00",
+      "lastSeen": "2026-09-11T23:13:00+09:00",
       "news": [
         {
           "title": "'이종섭 호주 도피' 윤석열 1심 무죄‥법원 \"수사방해 의도 단정 못 해\"",
@@ -5776,10 +5776,10 @@
       ]
     },
     "콜 오브 듀티": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T22:13:00+09:00",
-      "lastSeen": "2026-09-11T22:42:00+09:00",
+      "lastSeen": "2026-09-11T23:13:00+09:00",
       "news": [
         {
           "title": "[기자수첩] 한국전쟁은 게임으로 만들면 왜 안 된다는 것인가",
@@ -5802,10 +5802,10 @@
       ]
     },
     "한화 이글스": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T22:13:00+09:00",
-      "lastSeen": "2026-09-11T22:42:00+09:00",
+      "lastSeen": "2026-09-11T23:13:00+09:00",
       "news": [
         {
           "title": "'한화가 6억 질렀는데' ERA 14.06→선발 박탈, '1이닝-2이닝' 연투도 문제없었다…최인호 미친 수비에 무실점 이어가다",
@@ -5824,14 +5824,26 @@
           "url": "https://www.chosun.com/sports/sports_photo/2026/09/10/GQZWIZBTGFRTIOLFMVTDCZRQG4/",
           "source": "조선일보",
           "date": "2026-09-11"
+        },
+        {
+          "title": "‘ERA 14.88 부진→2G 연속 무실점’ 짐머맨, 이제 와서 살아나면 뭐하나…뒤늦은 반등 조짐",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/11/MZRTSMBSGQ4DAOLFMEZTQOLEMU/",
+          "source": "조선일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[사진]최인호,'아빌라 상대로 선제 적시타' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/10/202609101918771288O",
+          "source": "머니투데이",
+          "date": "2026-09-11"
         }
       ]
     },
     "목사": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T22:13:00+09:00",
-      "lastSeen": "2026-09-11T22:42:00+09:00",
+      "lastSeen": "2026-09-11T23:13:00+09:00",
       "news": [
         {
           "title": "학대 목사, 숨진 ‘장애 11살’ 활동지원사 등록…급여 받았다",
@@ -5860,10 +5872,10 @@
       ]
     },
     "김세의": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-11T22:13:00+09:00",
-      "lastSeen": "2026-09-11T22:42:00+09:00",
+      "lastSeen": "2026-09-11T23:13:00+09:00",
       "news": [
         {
           "title": "'김수현 명예훼손' 김세의 국민참여재판 안한다…법원, 배제 결정(종합)",
@@ -5886,10 +5898,10 @@
       ]
     },
     "cpi 발표": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-11T22:42:00+09:00",
-      "lastSeen": "2026-09-11T22:42:00+09:00",
+      "lastSeen": "2026-09-11T23:13:00+09:00",
       "news": [
         {
           "title": "[2보] 美 8월 근원 소비자물가 전월 대비 0.3%↑…예상치 웃돌아",
@@ -5907,6 +5919,18 @@
           "title": "미국 8월 생산자물가 전년 대비 5.4%↑‥전망치 소폭 상회",
           "url": "https://imnews.imbc.com/news/2026/world/article/6851042_36925.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[속보] 美 8월 근원 CPI, 컨센서스 웃돌아 금리 인상 가능성 커져",
+          "url": "https://www.hankyung.com/article/202609119887i",
+          "source": "한국경제",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[투자 노하우] 美8월 생산자물가 0.4%↑…유가 급등에 인플레 압력",
+          "url": "https://v.daum.net/v/20260911165901005",
+          "source": "Daum",
           "date": "2026-09-11"
         }
       ]
@@ -5938,10 +5962,10 @@
       ]
     },
     "라이머": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T22:42:00+09:00",
-      "lastSeen": "2026-09-11T22:42:00+09:00",
+      "lastSeen": "2026-09-11T23:13:00+09:00",
       "news": [
         {
           "title": "'신랑수업2' 라이머, AI에 연애 상담…\"좋은 여자 만날 준비 됐나?\"",
@@ -5960,14 +5984,26 @@
           "url": "https://ichannela.com/program/clip/000000549725.do",
           "source": "채널A",
           "date": "2026-09-11"
+        },
+        {
+          "title": "'김구라 子' 그리가 던진 진심…\"아빠 재혼 후 훨씬 밝아져, 동생도 태어났다\"",
+          "url": "https://v.daum.net/v/20260911222950622",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "“대표님 부끄러워요 진짜루;; 소개팅에서 자꾸 꺼드럭 시전하는 라이머",
+          "url": "https://ichannela.com/program/clip/000000550066.do",
+          "source": "채널A",
+          "date": "2026-09-11"
         }
       ]
     },
     "전소연": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T22:42:00+09:00",
-      "lastSeen": "2026-09-11T22:42:00+09:00",
+      "lastSeen": "2026-09-11T23:13:00+09:00",
       "news": [
         {
           "title": "익스 이상미, 전소연 '퇴사할게여' 유사 의혹에 직접 등판…\"억측 그만\"",
@@ -5985,6 +6021,64 @@
           "title": "\"억측 노노\" 익스 이상미, 입 열었다..'퇴사할게여' 도입부 유사 논란 종결 [Oh!쎈 이슈]",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/11/GNTDONJWHAYTGMBWMY4TCMLFMI/",
           "source": "조선일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"억측 NO\" 전소연 유사성 논란, 원곡자가 종결했다 [MD이슈]",
+          "url": "https://v.daum.net/v/20260911192927761",
+          "source": "Daum",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "대한민국의 대법관": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-11T23:13:00+09:00",
+      "lastSeen": "2026-09-11T23:13:00+09:00",
+      "news": [
+        {
+          "title": "조희대 \"법원, 다른 국가기관 부당 간섭에 영향받지 않아야\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6851190_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "靑 \"대법관 재제청 신속 진행해주길 바라…추천위 추천 내용 존중해달라\"",
+          "url": "https://www.newsis.com/view/NISX20260911_0003786435",
+          "source": "뉴시스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "청와대, 조희대에 \"대법관 재제청, 신속히 진행해야\"",
+          "url": "https://v.daum.net/v/6JrvBloM7N",
+          "source": "Daum",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "마무리 투수": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T23:13:00+09:00",
+      "lastSeen": "2026-09-11T23:13:00+09:00",
+      "news": [
+        {
+          "title": "다저스 6900만 달러 완전히 헛돈썼네…'최고 168km' 무명 투수 PS 마무리 1순위 급부상, 사사키도 후보",
+          "url": "https://v.daum.net/v/20260911094327608",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "마무리 불안? 103마일 파이어볼러가 있다!…WS 3연패 도전 다저스, 'ERA 2.62' 엔리케스 새 마무리 후보 급부상→\"PS에서 빛날 구위 갖췄다\"",
+          "url": "https://sports.news.nate.com/view/20260911n17047",
+          "source": "네이트",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[워싱턴 다저스] 에드가르도 엔리케스 '삼진으로 세이브 성공'",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3687212",
+          "source": "국제뉴스",
           "date": "2026-09-11"
         }
       ]
