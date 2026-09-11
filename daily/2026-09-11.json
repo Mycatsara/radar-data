@@ -5474,10 +5474,10 @@
       ]
     },
     "아나운서": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T21:17:00+09:00",
-      "lastSeen": "2026-09-11T21:45:00+09:00",
+      "lastSeen": "2026-09-11T22:13:00+09:00",
       "news": [
         {
           "title": "전현무 소속사, 일본 아나운서 출신 아사코 영입",
@@ -5500,10 +5500,10 @@
       ]
     },
     "임영웅": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T21:17:00+09:00",
-      "lastSeen": "2026-09-11T21:45:00+09:00",
+      "lastSeen": "2026-09-11T22:13:00+09:00",
       "news": [
         {
           "title": "임영웅, 'AAA 2026 스타킹' 최정상 등극…3주 연속 1위→150점 만점으로 막강 화력",
@@ -5648,10 +5648,10 @@
       ]
     },
     "윤석열 무죄": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-11T21:45:00+09:00",
-      "lastSeen": "2026-09-11T21:45:00+09:00",
+      "lastSeen": "2026-09-11T22:13:00+09:00",
       "news": [
         {
           "title": "'이종섭 호주 도피' 윤석열 1심 무죄‥법원 \"수사방해 의도 단정 못 해\"",
@@ -5670,14 +5670,26 @@
           "url": "https://www.chosun.com/national/court_law/2026/09/11/V23UTZKFWFEDJDHM3JQO4N2JI4/",
           "source": "조선일보",
           "date": "2026-09-11"
+        },
+        {
+          "title": "[앵커 한마디] 국격 떨어뜨리고…무죄 뒤 '웃음'",
+          "url": "https://v.daum.net/v/20260911213533752",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[속보]‘이종섭 도피 의혹’ 윤석열 1심 무죄 선고···법원 “범인도피 의사 추단하기 어려워”",
+          "url": "https://www.khan.co.kr/article/202609111509001",
+          "source": "경향신문",
+          "date": "2026-09-11"
         }
       ]
     },
     "신지은": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T21:45:00+09:00",
-      "lastSeen": "2026-09-11T21:45:00+09:00",
+      "lastSeen": "2026-09-11T22:13:00+09:00",
       "news": [
         {
           "title": "V리그 경기 현장|대한민국 '최고 미녀 선수' 뜬다…\"설레는 마음으로 후회 없이 준비\" 비치발리볼 신지은 출사표 [나고야 AG]",
@@ -5700,10 +5712,10 @@
       ]
     },
     "의과대학": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T21:45:00+09:00",
-      "lastSeen": "2026-09-11T21:45:00+09:00",
+      "lastSeen": "2026-09-11T22:13:00+09:00",
       "news": [
         {
           "title": "수학·통계 배우는 의대생…연세의대, 예과부터 ‘의사과학자’ 양성",
@@ -5722,14 +5734,26 @@
           "url": "https://news.nate.com/view/20260911n24768",
           "source": "네이트",
           "date": "2026-09-11"
+        },
+        {
+          "title": "이화의료원, 독일 잘란트대와 성차의학 연구·교육 '맞손'",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1404942",
+          "source": "데일리한국",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "이화의료원, 독일 잘란트 의과대학과 업무협약 체결",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03526006645578808&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-11"
         }
       ]
     },
     "전경철": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T21:45:00+09:00",
-      "lastSeen": "2026-09-11T21:45:00+09:00",
+      "lastSeen": "2026-09-11T22:13:00+09:00",
       "news": [
         {
           "title": "발달장애인과 가족의 '보통의 일상' 국가와 지역사회가 함께합니다",
@@ -5747,6 +5771,110 @@
           "title": "\"가족의 희생 끝내겠다\"…주말 끊기던 최중증 돌봄, 내년부터 365일 상시 가동",
           "url": "https://v.daum.net/v/US9TcFOcj3?f=p",
           "source": "Daum",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "콜 오브 듀티": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T22:13:00+09:00",
+      "lastSeen": "2026-09-11T22:13:00+09:00",
+      "news": [
+        {
+          "title": "[기자수첩] 한국전쟁은 게임으로 만들면 왜 안 된다는 것인가",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=127575",
+          "source": "펜앤마이크",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[글로컬] '제2차 한국전쟁' 게임으로 오락화하다니",
+          "url": "https://v.daum.net/v/20260911070852061",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "한반도 전쟁 설정…미국 슈팅게임 출시 우려한다 [왜냐면]",
+          "url": "https://www.hani.co.kr/arti/opinion/because/1277064.html",
+          "source": "한겨레",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "한화 이글스": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-11T22:13:00+09:00",
+      "lastSeen": "2026-09-11T22:13:00+09:00",
+      "news": [
+        {
+          "title": "'한화가 6억 질렀는데' ERA 14.06→선발 박탈, '1이닝-2이닝' 연투도 문제없었다…최인호 미친 수비에 무실점 이어가다",
+          "url": "https://v.daum.net/v/tRUfse71mY",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "‘ERA 14.88 부진→2G 연속 무실점’ 짐머맨, 이제 와서 살아나면 뭐하나…뒤늦은 반등 조짐 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/11/202609102212777516O",
+          "source": "머니투데이",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[사진]최인호,'아빌라 상대로 선제 적시타'",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/09/10/GQZWIZBTGFRTIOLFMVTDCZRQG4/",
+          "source": "조선일보",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "목사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T22:13:00+09:00",
+      "lastSeen": "2026-09-11T22:13:00+09:00",
+      "news": [
+        {
+          "title": "학대 목사, 숨진 ‘장애 11살’ 활동지원사 등록…급여 받았다",
+          "url": "https://www.hani.co.kr/arti/area/chungcheong/1277361.html",
+          "source": "한겨레",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "아동 학대치사 교회 목사…쇠사슬 결박 와중에도 활동지원사 기록 입력",
+          "url": "https://www.yna.co.kr/view/AKR20260911068900063",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "최보윤 \"경찰, 11살 장애아동 사망 부실수사…핵심 참고인 조사도 안 해\"",
+          "url": "https://www.newspim.com/news/view/20260911000859",
+          "source": "뉴스핌",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "김세의": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T22:13:00+09:00",
+      "lastSeen": "2026-09-11T22:13:00+09:00",
+      "news": [
+        {
+          "title": "'김수현 명예훼손' 김세의 국민참여재판 안한다…법원, 배제 결정(종합)",
+          "url": "https://v.daum.net/v/20260911183851901",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'김수현 명예훼손' 김세의 측 \"유족에 받은 자료, 허위 아니다\" 주장 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/11/2026091116432346292",
+          "source": "머니투데이",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'김수현 명예훼손' 혐의 가세연 김세의, 첫 재판서 \"허위사실 아냐\"",
+          "url": "https://www.newsis.com/view/NISX20260911_0003786355",
+          "source": "뉴시스",
           "date": "2026-09-11"
         }
       ]
