@@ -1302,10 +1302,10 @@
       ]
     },
     "พยากรณ์อากาศ": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T07:13:00+09:00",
-      "lastSeen": "2026-09-12T07:13:00+09:00",
+      "lastSeen": "2026-09-12T07:39:00+09:00",
       "news": [
         {
           "title": "กรมอุตุนิยมวิทยา ออกประกาศเตือนฉบับที่ 1 ฝนตกหนักมาก ตั้งแต่วันที่ 8-13 ก.ย.-พายุลูกใหม่ก่อตัว ฟิลิปปินส์",
@@ -1318,14 +1318,20 @@
           "url": "https://www.mumkhao.com/news/regional/26290",
           "source": "Mumkhao",
           "date": "2026-09-11"
+        },
+        {
+          "title": "ประจำวันที่ 5 กันยายน 2569 23.00 น.",
+          "url": "https://www.tmd.go.th/forecast/daily/060920260000",
+          "source": "กรมอุตุนิยมวิทยา",
+          "date": "2026-09-11"
         }
       ]
     },
     "보험": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T07:13:00+09:00",
-      "lastSeen": "2026-09-12T07:13:00+09:00",
+      "lastSeen": "2026-09-12T07:39:00+09:00",
       "news": [
         {
           "title": "법인보험대리점 운영위험 등급 매긴다…불완전판매 비율 등 기준",
@@ -1374,10 +1380,10 @@
       ]
     },
     "손예진": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-12T07:13:00+09:00",
-      "lastSeen": "2026-09-12T07:13:00+09:00",
+      "lastSeen": "2026-09-12T07:39:00+09:00",
       "news": [
         {
           "title": "'현빈♥' 손예진 \"네살 아들, 배우 안 하기도 힘든 외모\"…남다른 비주얼 자랑",
@@ -1421,6 +1427,188 @@
           "title": "NH농협은행, 주담대 최대 0.45%p↓…신용대출 0.20%p 하향",
           "url": "https://www.yonhapnewstv.co.kr/news/AKR202609111015195at",
           "source": "연합뉴스TV",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "야구": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T07:39:00+09:00",
+      "lastSeen": "2026-09-12T07:39:00+09:00",
+      "news": [
+        {
+          "title": "“꼴찌팀이 고교 최대어 독점, 이래도 되나”",
+          "url": "https://v.daum.net/v/20260912003552232",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "정윤진 감독 \"김민훈 역투가 U-18 야구 한일전 역전승 원동력\"",
+          "url": "https://www.yna.co.kr/view/AKR20260911150600007",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "홈런 치고 결승타까지…이호민이 뒤집은 한일전",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661527",
+          "source": "KBS 뉴스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "넷마블": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T07:39:00+09:00",
+      "lastSeen": "2026-09-12T07:39:00+09:00",
+      "news": [
+        {
+          "title": "엔씨·삼성, 도쿄게임쇼서 손잡는다…게임·3D 전시 협업",
+          "url": "https://www.yna.co.kr/view/AKR20260911052300017",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "넷마블, TGS 2026 출품작 3종 무대 행사 공개",
+          "url": "https://v.daum.net/v/20260911144528034",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[TGS 2026] 30주년 맞은 도쿄게임쇼 부스맵 및 주요 이벤트는?",
+          "url": "https://www.thisisgame.com/articles/429871",
+          "source": "디스이즈게임",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "체포": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T07:39:00+09:00",
+      "lastSeen": "2026-09-12T07:39:00+09:00",
+      "news": [
+        {
+          "title": "남자친구 체포 막다 경찰관 손가락 깨문 50대…공무집행방해·상해 혐의 인정",
+          "url": "https://www.kyeonggi.com/article/20260912580005",
+          "source": "경기일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "남친 체포하자 경찰관 손가락 깨문 여성…징역형 집행유예",
+          "url": "https://www.donga.com/news/Society/article/all/20260911/134652633/1",
+          "source": "동아일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "음주운전 신고 출동했더니...경찰 때린 남친, 깨물고 체포 방해한 여친 - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/society/2026/09/11/2026091116440068163",
+          "source": "머니투데이",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "대학": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T07:39:00+09:00",
+      "lastSeen": "2026-09-12T07:39:00+09:00",
+      "news": [
+        {
+          "title": "수시모집 원서접수 마감시간 연장…일부 학생들 원서 접수 못해(종합)",
+          "url": "https://v.daum.net/v/20260911204200837",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[단독] 결국 사달 난 ‘민간 어플라이’.. 2027수시 마감일 유웨이 ‘전산장애’ 원서접수 연장 사태",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=627536",
+          "source": "베리타스알파",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "대입 수시 원서접수 마감 1시간 연장…\"시스템 서버 오류\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260911161051530",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "us 오픈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T07:39:00+09:00",
+      "lastSeen": "2026-09-12T07:39:00+09:00",
+      "news": [
+        {
+          "title": "취미로 테니스 한다고? ‘15조 금수저’ 한국계 페굴라의 반란",
+          "url": "https://v.daum.net/v/qgIT3SgRvt",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'3연패' 사발렌카 vs '첫 우승' 리바키나, US오픈 결승서 격돌(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260911057051007",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "사발렌카-페굴라 경기 직관하는 미셸 오바마",
+          "url": "https://www.newsis.com/view/NISI20260911_0002236441",
+          "source": "뉴시스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "박재현": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-09-12T07:39:00+09:00",
+      "lastSeen": "2026-09-12T07:39:00+09:00",
+      "news": [
+        {
+          "title": "'비자책 11승' 대투수 또 연패 끊다! 김도영 대신 3번타자 박재현 역전포...KIA 5-2 승리, 3연패 탈출 [광주 리뷰]",
+          "url": "https://v.daum.net/v/20260911213352721",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "박정우 4출루 2득점 쐐기타+김민규 2출루, 파격 세터진 대성공...이범호 \"앞으로 더 기대된다\"",
+          "url": "https://www.osen.co.kr/article/G1112874148",
+          "source": "OSEN",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[AI상보] '양현종 11승+박재현 결승포' KIA, SSG 5-2 제압 후 3연패 탈출",
+          "url": "https://www.newspim.com/news/view/20260911001138",
+          "source": "뉴스핌",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "암호화폐": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T07:39:00+09:00",
+      "lastSeen": "2026-09-12T07:39:00+09:00",
+      "news": [
+        {
+          "title": "지난 1시간 2.36억 달러 규모 선물 포지션 강제 청산",
+          "url": "https://www.coinreaders.com/257844",
+          "source": "코인리더스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "1시간 암호화폐 1억2900만달러 청산…롱 포지션 집중",
+          "url": "https://www.tokenpost.kr/news/breaking/405889",
+          "source": "토큰포스트",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[08:13 가상자산] 비트코인, 2100억원 규모 레버리지 포지션 청산에 상승",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5059072",
+          "source": "신아일보",
           "date": "2026-09-11"
         }
       ]
