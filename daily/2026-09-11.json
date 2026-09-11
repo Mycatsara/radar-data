@@ -2451,10 +2451,10 @@
       ]
     },
     "장교": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-11T09:19:00+09:00",
-      "lastSeen": "2026-09-11T09:19:00+09:00",
+      "lastSeen": "2026-09-11T09:44:00+09:00",
       "news": [
         {
           "title": "[단독] 최근 3년간 사관학교 출신 장교 42명, 의대시험 안보고 의대行[이현호의 밀리터리!톡]",
@@ -2477,10 +2477,10 @@
       ]
     },
     "김연정": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T09:19:00+09:00",
-      "lastSeen": "2026-09-11T09:19:00+09:00",
+      "lastSeen": "2026-09-11T09:44:00+09:00",
       "news": [
         {
           "title": "\"노시환-하지원 열애설, 하늘에 맹세코 아니다\" 김연정이 밝힌 진실, 야구선수-치어리더 부부는 오해까지 받았다",
@@ -2499,14 +2499,20 @@
           "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1006864",
           "source": "SPOTV NEWS",
           "date": "2026-09-10"
+        },
+        {
+          "title": "'경기장의 꽃' 치어리더 열전",
+          "url": "https://m.news.zum.com/photo/15816740/107686671?cm=news_photolist&r=1&thumb=1",
+          "source": "ZUM 뉴스",
+          "date": "2026-09-10"
         }
       ]
     },
     "기사": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T09:19:00+09:00",
-      "lastSeen": "2026-09-11T09:19:00+09:00",
+      "lastSeen": "2026-09-11T09:44:00+09:00",
       "news": [
         {
           "title": "부산 삼락·화명 수상 레포츠타운 조류경보 '관심'으로 하향",
@@ -2529,10 +2535,10 @@
       ]
     },
     "시위": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T09:19:00+09:00",
-      "lastSeen": "2026-09-11T09:19:00+09:00",
+      "lastSeen": "2026-09-11T09:44:00+09:00",
       "news": [
         {
           "title": "전남광주 농민들 “반도체 삶아 드시라”…CPTPP 가입 추진에 트랙터 시위",
@@ -2605,6 +2611,143 @@
           "date": "2026-09-10"
         }
       ]
+    },
+    "pba 팀리그": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T09:44:00+09:00",
+      "lastSeen": "2026-09-11T09:44:00+09:00",
+      "news": [
+        {
+          "title": "\"회장님 울컥에 선수들도 눈물바다\" PBA 휴온스, 창단 첫 PS 이어 새 역사도 쓰나",
+          "url": "https://www.nocutnews.co.kr/news/6574718",
+          "source": "노컷뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "임경진 김다희 1승씩 합작 브레이커스, 팀리그 3라운드 첫 경기 승리",
+          "url": "https://www.hani.co.kr/arti/sports/sports_general/1277322.html",
+          "source": "한겨레",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "NH농협카드, 휴온스 11연승 저지…김민아 복식 2승, 마민껌 마무리[PBA팀리그 3R]",
+          "url": "https://mkbn.mk.co.kr/news/sports/12149955",
+          "source": "mkbn.mk.co.kr",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "스페이스x": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T09:44:00+09:00",
+      "lastSeen": "2026-09-11T09:44:00+09:00",
+      "news": [
+        {
+          "title": "“머스크 안믿었어?”…스페이스X 락업물량 풀려도 걱정없는 이유",
+          "url": "https://v.daum.net/v/20260910234500344",
+          "source": "Daum",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "SpaceX 주가, 오늘 하락하는 이유는?",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2088786",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "피보탈, 스페이스X '매수'…\"스타십 재사용성이 핵심 투자논리\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434067",
+          "source": "연합인포맥스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "마우리시오 포체티노": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T09:44:00+09:00",
+      "lastSeen": "2026-09-11T09:44:00+09:00",
+      "news": [
+        {
+          "title": "\"토트넘에 우승 줘야 해\" 손흥민도 리그 타이틀 생긴다? 포체티노 깜짝 주장...\"징계받은 첼시, 2017년 우승 박탈해라\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/10/202609101655773353O",
+          "source": "머니투데이",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "포체티노 “2017년 토트넘 EPL 우승 트로피 받았어야”···첼시 징계 지적 ‘SON과 함께한 황금기’ 회상",
+          "url": "https://sports.khan.co.kr/article/202609101557003",
+          "source": "스포츠경향",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "'英 깜짝 보도' 손흥민, 충격의 '토트넘 복귀' 현실로 이루어질 수 있었나 \"포체티노 왔으면 가능성 있었다\"",
+          "url": "https://m.news.nate.com/view/20260911n02824",
+          "source": "네이트",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "연금복권720+": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T09:44:00+09:00",
+      "lastSeen": "2026-09-11T09:44:00+09:00",
+      "news": [
+        {
+          "title": "“여보, 나 1등이래” 복권 긁다 ‘싸한 느낌’…5억원 대박 터진 사연",
+          "url": "https://www.sedaily.com/article/20088569",
+          "source": "서울경제",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "",
+          "url": "https://news.nate.com/view/20260908n36842",
+          "source": "Nate News",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "연금복권 추첨시간 332회 1등당첨번호 발표",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3691510",
+          "source": "국제뉴스",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "코모": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T09:44:00+09:00",
+      "lastSeen": "2026-09-11T09:44:00+09:00",
+      "news": [
+        {
+          "title": "아직도 이런 '낭만 팀'이 있었나…伊 코모, 암 진단 선수 재계약 → 고령 팬에 챔스 좌석 양도 '눈길'",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/09/MYYTGNBWGVRTQYTFMI4DQMBVMM/",
+          "source": "조선일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "새로운 명장 파브레가스, UCL 환상적인 데뷔! 독일 라이프치히 완파",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=214667",
+          "source": "풋볼리스트",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "코모 vs RB 라이프치히 예측: 최상위권 경쟁의 뜨거운 승부",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-como-vs-rb-leipzig-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "반찬": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T09:44:00+09:00",
+      "lastSeen": "2026-09-11T09:44:00+09:00",
+      "news": []
     }
   },
   "sections": {
