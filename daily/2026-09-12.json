@@ -522,10 +522,10 @@
       ]
     },
     "손예진 아들": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T03:15:00+09:00",
-      "lastSeen": "2026-09-12T04:39:00+09:00",
+      "lastSeen": "2026-09-12T05:13:00+09:00",
       "news": [
         {
           "title": "'현빈♥' 손예진 \"네살 아들, 배우 안 하기도 힘든 외모\"…남다른 비주얼 자랑",
@@ -574,10 +574,10 @@
       ]
     },
     "x": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T03:42:00+09:00",
-      "lastSeen": "2026-09-12T04:39:00+09:00",
+      "lastSeen": "2026-09-12T05:13:00+09:00",
       "news": [
         {
           "title": "Despite Pledges From Musk, Child Sexual Abuse Material Persists on X",
@@ -600,10 +600,10 @@
       ]
     },
     "동남아시아": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T04:11:00+09:00",
-      "lastSeen": "2026-09-12T04:39:00+09:00",
+      "lastSeen": "2026-09-12T05:13:00+09:00",
       "news": [
         {
           "title": "인도네시아 축구계, \"우리가 동남아시아를 앞서가고 있다\"고 선언",
@@ -652,10 +652,10 @@
       ]
     },
     "롤": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T04:11:00+09:00",
-      "lastSeen": "2026-09-12T04:39:00+09:00",
+      "lastSeen": "2026-09-12T05:13:00+09:00",
       "news": [
         {
           "title": "리그 오브 레전드 26.18 패치 노트",
@@ -678,10 +678,10 @@
       ]
     },
     "이서진": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-12T04:39:00+09:00",
-      "lastSeen": "2026-09-12T04:39:00+09:00",
+      "lastSeen": "2026-09-12T05:13:00+09:00",
       "news": [
         {
           "title": "서인영, 파격 속옷 화보에 이서진 깜짝…\"오늘 수위가 세다\" (비서진)",
@@ -699,6 +699,142 @@
           "title": "'비서진' 이서진 \"서인영 비서 못하겠다\"…역대급 주의 사항에 포기",
           "url": "https://www.news1.kr/entertain/broadcast-tv/6288128",
           "source": "뉴스1",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'비서진' 서인영, 욕설 논란→이혼·재혼 다 밝혔다...인생사 고백",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3692693",
+          "source": "국제뉴스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "아스트라 ai": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T05:13:00+09:00",
+      "lastSeen": "2026-09-12T05:13:00+09:00",
+      "news": [
+        {
+          "title": "3D 작업도 '척척'…'아스트라' 등장에 술렁이는 게임업계",
+          "url": "https://v.daum.net/v/WGSud0CElI",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "주식 종목 분석하고 기업 실적 검토하는 챗GPT…애널리스트 업무 순식간에 ‘뚝딱’",
+          "url": "https://www.khan.co.kr/article/202609111117001",
+          "source": "경향신문",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"출근해서 뭐 하지?\"…사람보다 3배 더 일하는 AI에 '초긴장'",
+          "url": "https://www.hankyung.com/article/2026091196591",
+          "source": "한국경제",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "혈당": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T05:13:00+09:00",
+      "lastSeen": "2026-09-12T05:13:00+09:00",
+      "news": [
+        {
+          "title": "내년부터 당원병 환자 혈당관리 물품 본인부담금 지원",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971645",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "김윤 의원, ‘2형 당뇨 연속혈당측정기’ 지원 확대 위해 정부와 협의",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034314",
+          "source": "기호일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"중증당뇨병 의료비 지원 확대 환영…치료환경 개선\"",
+          "url": "https://v.daum.net/v/20260909150127982",
+          "source": "Daum",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "최저임금": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T05:13:00+09:00",
+      "lastSeen": "2026-09-12T05:13:00+09:00",
+      "news": [
+        {
+          "title": "천안시, 내년 생활임금 시급 12,603원…3.9% 인상",
+          "url": "https://v.daum.net/v/20260911152419753",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "2027년 인천 기초단체 생활임금 '껑충'…최대 7.9% 인상",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1331754",
+          "source": "인천일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "서울시 비정규직, 내년 생활임금 月 266만원",
+          "url": "https://www.donga.com/news/Society/article/all/20260910/134646613/2",
+          "source": "동아일보",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "100달러": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T05:13:00+09:00",
+      "lastSeen": "2026-09-12T05:13:00+09:00",
+      "news": [
+        {
+          "title": "유가 폭탄에 한국 경제도 '휘청'…물가 연쇄 상승 우려",
+          "url": "https://v.daum.net/v/20260911202708601",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "국제유가, 호르무즈 협상 기대에 2%대 하락…여전히 100달러대",
+          "url": "https://www.yna.co.kr/view/AKR20260912004900072",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[사설]중동 전쟁 확전, 고유가·국채 급등 충격에 대비를",
+          "url": "https://www.khan.co.kr/article/202609111810001",
+          "source": "경향신문",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "박정희": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T05:13:00+09:00",
+      "lastSeen": "2026-09-12T05:13:00+09:00",
+      "news": [
+        {
+          "title": "“내가 박근혜 알잖아”…박정희 조카사위, JP는 MB 밀어줬다",
+          "url": "https://www.joongang.co.kr/article/25460333",
+          "source": "중앙일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "“내가 박근혜 알잖아”…박정희 조카사위, JP는 MB 밀어줬다",
+          "url": "https://v.daum.net/v/fqqd08tWS0",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "남산 끌려가 매 맞고 수염 뽑힌 의원들...여당 항명에 박정희 격노했다",
+          "url": "https://www.hankookilbo.com/news/article/A2026091009270002627",
+          "source": "한국일보",
           "date": "2026-09-11"
         }
       ]
@@ -1258,6 +1394,12 @@
         "title": "자동화했더니 일자리 줄기는커녕 37% 늘었다…김영훈 “산업전환 중심은 사람”",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQczU1RzlpQ2pMWHVjNFBka3hyQ1hVbURWdE8zdnAxRlgzVUVMTk9hN2ZnNnNYX21ScWw4WlB3RTFlLUtXTlE?oc=5",
         "source": "v.daum.net",
+        "date": "2026-09-11"
+      },
+      {
+        "title": "주문 쏟아지는 중국산 AI칩… HBM 부족에 가격 급등",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeWliUVp3X2MxeTREbUc0c3J4cDBOYnhWbkdscTJGNFdlVG9SV3ZFN0s4NjYycFVvWThwLUlMUi1hblFRVUFhSUdmMDF3eWJjMkdLTy1ZaUVCY1l1WlFHczcwVjNPVG0zekYyUUhEaHlqQmhTUHJOQjNZa2lOZ3ByZzNIaw?oc=5",
+        "source": "조선일보",
         "date": "2026-09-11"
       }
     ],
