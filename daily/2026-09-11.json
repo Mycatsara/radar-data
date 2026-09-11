@@ -2613,10 +2613,10 @@
       ]
     },
     "pba 팀리그": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T09:44:00+09:00",
-      "lastSeen": "2026-09-11T10:11:00+09:00",
+      "lastSeen": "2026-09-11T10:41:00+09:00",
       "news": [
         {
           "title": "\"회장님 울컥에 선수들도 눈물바다\" PBA 휴온스, 창단 첫 PS 이어 새 역사도 쓰나",
@@ -2641,14 +2641,20 @@
           "url": "https://www.yna.co.kr/view/AKR20260911021900007",
           "source": "연합뉴스",
           "date": "2026-09-10"
+        },
+        {
+          "title": "김가영의 하나카드, PBA 팀리그 3R 첫 경기서 에스와이 격파",
+          "url": "https://www.donga.com/news/Sports/article/all/20260911/134648799/1",
+          "source": "동아일보",
+          "date": "2026-09-10"
         }
       ]
     },
     "스페이스x": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T09:44:00+09:00",
-      "lastSeen": "2026-09-11T10:11:00+09:00",
+      "lastSeen": "2026-09-11T10:41:00+09:00",
       "news": [
         {
           "title": "“머스크 안믿었어?”…스페이스X 락업물량 풀려도 걱정없는 이유",
@@ -2683,10 +2689,10 @@
       ]
     },
     "마우리시오 포체티노": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T09:44:00+09:00",
-      "lastSeen": "2026-09-11T10:11:00+09:00",
+      "lastSeen": "2026-09-11T10:41:00+09:00",
       "news": [
         {
           "title": "\"토트넘에 우승 줘야 해\" 손흥민도 리그 타이틀 생긴다? 포체티노 깜짝 주장...\"징계받은 첼시, 2017년 우승 박탈해라\" - 머니투데이",
@@ -2705,14 +2711,20 @@
           "url": "https://m.news.nate.com/view/20260911n02824",
           "source": "네이트",
           "date": "2026-09-10"
+        },
+        {
+          "title": "\"토트넘에 우승 줘야 해\" 손흥민도 리그 타이틀 생긴다? 포체티노 깜짝 주장...\"징계받은 첼시, 2017년 우승 박탈해라\"",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/10/MRRWGMBUMJSTEZTFMI2TMZDFGY/",
+          "source": "조선일보",
+          "date": "2026-09-10"
         }
       ]
     },
     "연금복권720+": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T09:44:00+09:00",
-      "lastSeen": "2026-09-11T10:11:00+09:00",
+      "lastSeen": "2026-09-11T10:41:00+09:00",
       "news": [
         {
           "title": "“여보, 나 1등이래” 복권 긁다 ‘싸한 느낌’…5억원 대박 터진 사연",
@@ -2741,10 +2753,10 @@
       ]
     },
     "코모": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T09:44:00+09:00",
-      "lastSeen": "2026-09-11T10:11:00+09:00",
+      "lastSeen": "2026-09-11T10:41:00+09:00",
       "news": [
         {
           "title": "아직도 이런 '낭만 팀'이 있었나…伊 코모, 암 진단 선수 재계약 → 고령 팬에 챔스 좌석 양도 '눈길'",
@@ -2773,17 +2785,17 @@
       ]
     },
     "반찬": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T09:44:00+09:00",
-      "lastSeen": "2026-09-11T10:11:00+09:00",
+      "lastSeen": "2026-09-11T10:41:00+09:00",
       "news": []
     },
     "슈퍼맨이 돌아왔다": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-11T10:11:00+09:00",
-      "lastSeen": "2026-09-11T10:11:00+09:00",
+      "lastSeen": "2026-09-11T10:41:00+09:00",
       "news": [
         {
           "title": "'억만장자설' 기욤, 양평 별장 규모가 이 정도…딸 위해 풀파티 준비까지 (슈돌)[전일야화]",
@@ -2806,10 +2818,10 @@
       ]
     },
     "대한민국 의 대법관": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-11T10:11:00+09:00",
-      "lastSeen": "2026-09-11T10:11:00+09:00",
+      "lastSeen": "2026-09-11T10:41:00+09:00",
       "news": [
         {
           "title": "26명 대법관과 대법원장, 지금 방식대로 뽑을 순 없다",
@@ -2828,14 +2840,20 @@
           "url": "https://v.daum.net/v/20260911064151559",
           "source": "Daum",
           "date": "2026-09-11"
+        },
+        {
+          "title": "대법, 내일 법원의날 기념식…故신종오 판사 대법원장 표창",
+          "url": "https://www.yna.co.kr/view/AKR20260910056600004",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
         }
       ]
     },
     "리노베이션": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T10:11:00+09:00",
-      "lastSeen": "2026-09-11T10:11:00+09:00",
+      "lastSeen": "2026-09-11T10:41:00+09:00",
       "news": [
         {
           "title": "A 283-year-old N.J. restaurant returns after huge renovation. Did it lose its charm? | Review",
@@ -2854,14 +2872,20 @@
           "url": "https://communityimpact.com/pearland-friendswood-manvel/dining/killen-s-steakhouse-reopens-after-three-month-renovation-in-pearland/",
           "source": "Community Impact",
           "date": "2026-09-11"
+        },
+        {
+          "title": "Bowen Field under renovation ahead of spring ball season",
+          "url": "https://www.wvva.com/2026/09/10/bowen-field-under-renovation-ahead-spring-ball-season/",
+          "source": "WVVA",
+          "date": "2026-09-11"
         }
       ]
     },
     "제시카 페굴라": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T10:11:00+09:00",
-      "lastSeen": "2026-09-11T10:11:00+09:00",
+      "lastSeen": "2026-09-11T10:41:00+09:00",
       "news": [
         {
           "title": "취미로 테니스 한다고? ‘15조 금수저’ 한국계 페굴라의 반란",
@@ -2879,6 +2903,18 @@
           "title": "‘금수저 더비’ 승자는 페굴라…나바로 꺾고 3년 연속 US 오픈 4강행",
           "url": "https://www.donga.com/news/Sports/article/all/20260909/134633897/1",
           "source": "동아일보",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "사발렌카, US오픈 테니스 결승 진출…세리나 이어 3연패 도전",
+          "url": "https://www.yna.co.kr/view/AKR20260911057000007",
+          "source": "연합뉴스",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "TENNIS-USA-OPEN",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3691884",
+          "source": "국제뉴스",
           "date": "2026-09-10"
         }
       ]
