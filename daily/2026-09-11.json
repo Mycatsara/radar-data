@@ -3727,10 +3727,10 @@
       "news": []
     },
     "운전": {
-      "count": 2,
-      "maxTraffic": 1000,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-11T15:46:00+09:00",
-      "lastSeen": "2026-09-11T16:13:00+09:00",
+      "lastSeen": "2026-09-11T16:42:00+09:00",
       "news": [
         {
           "title": "[자막뉴스] 아침 6시 도로 한복판 \"음주 의심\"…운전대 잡고 있던 건 '현직 판사'",
@@ -3748,6 +3748,18 @@
           "title": "현직 서울고법 판사 음주운전하다 경찰에 적발…면허정지 수준",
           "url": "https://www.yna.co.kr/view/AKR20260911038800004",
           "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "현직 서울고법 판사 음주운전 적발…면허정지 수준",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260911160353Lqx",
+          "source": "연합뉴스TV",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "현직 판사가 음주운전하다 경찰에 적발…면허정지 수준",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202609111055471975_005.html",
+          "source": "YTN",
           "date": "2026-09-11"
         }
       ]
@@ -3817,10 +3829,10 @@
       ]
     },
     "지상렬": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-11T16:13:00+09:00",
-      "lastSeen": "2026-09-11T16:13:00+09:00",
+      "lastSeen": "2026-09-11T16:42:00+09:00",
       "news": [
         {
           "title": "은지원, 지상렬 충격 비주얼에 연인 신보람과 결별설 제기? \"헤어진 거냐\"",
@@ -3843,10 +3855,10 @@
       ]
     },
     "울산 웨일즈": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-11T16:13:00+09:00",
-      "lastSeen": "2026-09-11T16:13:00+09:00",
+      "lastSeen": "2026-09-11T16:42:00+09:00",
       "news": [
         {
           "title": "'시민구단 초대형 경사' 울산 웨일즈 유일 AG 대표팀 합류→최기문 코치의 각오 \"책임감 느껴, 린위민 여전히 위력적\"",
@@ -3869,10 +3881,10 @@
       ]
     },
     "우도": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-11T16:13:00+09:00",
-      "lastSeen": "2026-09-11T16:13:00+09:00",
+      "lastSeen": "2026-09-11T16:42:00+09:00",
       "news": [
         {
           "title": "[자막뉴스] 중국 자본 침공에 \"제주 질식해!\"…독일 유력 일간지의 '송곳' 지적",
@@ -3895,10 +3907,10 @@
       ]
     },
     "전투기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-11T16:13:00+09:00",
-      "lastSeen": "2026-09-11T16:13:00+09:00",
+      "lastSeen": "2026-09-11T16:42:00+09:00",
       "news": [
         {
           "title": "美 해군장관대행 \"이란, 바레인 기지 박살냈다\"",
@@ -3917,14 +3929,26 @@
           "url": "https://www.khan.co.kr/article/202609110731001",
           "source": "경향신문",
           "date": "2026-09-11"
+        },
+        {
+          "title": "적은 비용으로 최대 효과...미국과 이란이 노리는 '급소' [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202609111337111550",
+          "source": "YTN",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "미 해군장관대행 \"이란, 바레인 미군 기지 박살내\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260911163242eIN",
+          "source": "연합뉴스TV",
+          "date": "2026-09-11"
         }
       ]
     },
     "그랜드 테프트 오토 vi": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T16:13:00+09:00",
-      "lastSeen": "2026-09-11T16:13:00+09:00",
+      "lastSeen": "2026-09-11T16:42:00+09:00",
       "news": [
         {
           "title": "게임이 정교해진 탓?… GTA6 출시 앞두고 美서 ‘가상 외도’ 논란",
@@ -3943,14 +3967,20 @@
           "url": "https://www.greened.kr/news/articleView.html?idxno=349696",
           "source": "녹색경제신문",
           "date": "2026-09-11"
+        },
+        {
+          "title": "'GTA 6', 지역별 순차 출시…전 세계 최대 19시간 시차",
+          "url": "https://zdnet.co.kr/view/?no=20260908095852",
+          "source": "지디넷코리아",
+          "date": "2026-09-11"
         }
       ]
     },
     "김예건": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T16:13:00+09:00",
-      "lastSeen": "2026-09-11T16:13:00+09:00",
+      "lastSeen": "2026-09-11T16:42:00+09:00",
       "news": [
         {
           "title": "즈베즈다 김예건, 교체투입 19분 만에 다시 벤치행…만만치 않은 유럽 무대",
@@ -3968,6 +3998,90 @@
           "title": "김예건, 교체투입 19분 만에 OUT 충격…최고 유망주 유럽 성장통 시작됐다…후반 15분 IN→34분 OUT",
           "url": "https://www.xportsnews.com/article/2194673",
           "source": "www.xportsnews.com",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'만만치 않은 유럽 무대' 김예건, 교체 출전 19분 만에 재교체",
+          "url": "https://www.news1.kr/sports/overseas-soccer/6287195",
+          "source": "뉴스1",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "김강률": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T16:42:00+09:00",
+      "lastSeen": "2026-09-11T16:42:00+09:00",
+      "news": [
+        {
+          "title": "1이닝 12실점 굴욕 때문인가, LG 불펜 3명 말소 칼바람…김강률 장현식 1군 경력직들 돌아오나",
+          "url": "https://v.daum.net/v/20260911043127856",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'QS 기계' 카라스코도 무너졌다, KBO 첫 조기강판→케네디+고우석도 연쇄 붕괴... 19실점-4연패 '대참사' [대전 현장] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/10/2026090915051595316",
+          "source": "머니투데이",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "또다시 시작된 '볼넷 악몽'…치열한 순위싸움, 흔들리는 LG",
+          "url": "https://www.newsis.com/view/NISX20260910_0003784114",
+          "source": "뉴시스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "만평": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T16:42:00+09:00",
+      "lastSeen": "2026-09-11T16:42:00+09:00",
+      "news": [
+        {
+          "title": "포도 제맛 즐길수 있는 안성맞춤 포도축제",
+          "url": "https://www.kgnews.co.kr/mobile/article_comment.html?no=911011&comment_mode=write",
+          "source": "경기신문",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "IFEZ, 청라호수공원 이색 스포츠 축제 열린다",
+          "url": "https://www.kgnews.co.kr/mobile/article_comment.html?no=911099&comment_mode=write",
+          "source": "경기신문",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "“새 술은 새 부대에”…인천시 산하기관장 ‘알박기’ 논란 다시 불붙나",
+          "url": "https://www.kgnews.co.kr/mobile/article_comment.html?no=911153&comment_mode=write",
+          "source": "경기신문",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "한고은": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T16:42:00+09:00",
+      "lastSeen": "2026-09-11T16:42:00+09:00",
+      "news": [
+        {
+          "title": "한고은 \"촬영 중 남편이 아프다며 울면서 전화…3일 동안 병수발\"",
+          "url": "https://v.daum.net/v/20260911112253445",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "한고은, 남편 휠체어 타고 입원 \"집에 우환 겹쳤다\"",
+          "url": "https://www.newsis.com/view/NISX20260911_0003785320",
+          "source": "뉴시스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "한고은 \"♥남편 울면서 전화…새벽 4시 급히 병원行\" [마데핫리뷰]",
+          "url": "https://mydaily.co.kr/page/view/2026091020145467868",
+          "source": "마이데일리",
           "date": "2026-09-11"
         }
       ]
