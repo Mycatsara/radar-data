@@ -368,10 +368,10 @@
       ]
     },
     "원자로": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T01:13:00+09:00",
-      "lastSeen": "2026-09-12T03:42:00+09:00",
+      "lastSeen": "2026-09-12T04:11:00+09:00",
       "news": [
         {
           "title": "소형모듈원자로(SMR) 특별법 시행…2035년 SMR 상용화 본격화",
@@ -444,10 +444,10 @@
       ]
     },
     "네이버웹툰": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T01:42:00+09:00",
-      "lastSeen": "2026-09-12T03:42:00+09:00",
+      "lastSeen": "2026-09-12T04:11:00+09:00",
       "news": [
         {
           "title": "네이버웹툰 작가 만족도 높았다…\"계약·정산 신뢰 88.9점\"",
@@ -470,10 +470,10 @@
       ]
     },
     "코믹월드": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T02:11:00+09:00",
-      "lastSeen": "2026-09-12T03:42:00+09:00",
+      "lastSeen": "2026-09-12T04:11:00+09:00",
       "news": [
         {
           "title": "2026년 8월 3주차 주간게임동향",
@@ -490,10 +490,10 @@
       ]
     },
     "파이널 테이블": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-12T02:11:00+09:00",
-      "lastSeen": "2026-09-12T03:42:00+09:00",
+      "lastSeen": "2026-09-12T04:11:00+09:00",
       "news": [
         {
           "title": "안효섭·홍화연, '파이널 테이블'로 시청자 오감 자극",
@@ -522,10 +522,10 @@
       ]
     },
     "손예진 아들": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T03:15:00+09:00",
-      "lastSeen": "2026-09-12T03:42:00+09:00",
+      "lastSeen": "2026-09-12T04:11:00+09:00",
       "news": [
         {
           "title": "'현빈♥' 손예진 \"네살 아들, 배우 안 하기도 힘든 외모\"…남다른 비주얼 자랑",
@@ -548,10 +548,10 @@
       ]
     },
     "타짜": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T03:15:00+09:00",
-      "lastSeen": "2026-09-12T03:42:00+09:00",
+      "lastSeen": "2026-09-12T04:11:00+09:00",
       "news": [
         {
           "title": "[피플] 배우 스윙스의 재발견",
@@ -574,10 +574,10 @@
       ]
     },
     "x": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T03:42:00+09:00",
-      "lastSeen": "2026-09-12T03:42:00+09:00",
+      "lastSeen": "2026-09-12T04:11:00+09:00",
       "news": [
         {
           "title": "Despite Pledges From Musk, Child Sexual Abuse Material Persists on X",
@@ -595,6 +595,84 @@
           "title": "Licensable video: Sopravvissuta ad abusi su minori fa causa a xAI per le immagini di Grok",
           "url": "https://www.reutersconnect.com/item/sopravvissuta-ad-abusi-su-minori-fa-causa-a-xai-per-le-immagini-di-grok/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzExODQ0OTg",
           "source": "Reuters Connect",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "동남아시아": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T04:11:00+09:00",
+      "lastSeen": "2026-09-12T04:11:00+09:00",
+      "news": [
+        {
+          "title": "인도네시아 축구계, \"우리가 동남아시아를 앞서가고 있다\"고 선언",
+          "url": "https://www.vietnam.vn/ko/lang-bong-da-indonesia-tuyen-bo-chung-ta-vuot-tren-dong-nam-a",
+          "source": "Vietnam.vn",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "FIFA 아세안컵을 앞두고 선수단이 대폭 보강되었습니다.",
+          "url": "https://www.vietnam.vn/ko/ram-ro-tang-cuong-luc-luong-cho-fifa-asean-cup",
+          "source": "Vietnam.vn",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "인도네시아 대표팀 주장이 베트남 대표팀을 공격한 후 엄중한 '징계'를 받았다.",
+          "url": "https://www.vietnam.vn/ko/doi-truong-tuyen-indonesia-nhan-don-trung-phat-nang-ne-sau-khi-cong-kich-tuyen-viet-nam",
+          "source": "Vietnam.vn",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "넷플": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T04:11:00+09:00",
+      "lastSeen": "2026-09-12T04:11:00+09:00",
+      "news": [
+        {
+          "title": "류준열·홍경·정호연의 추적극…넷플릭스, '아웃백' 제작",
+          "url": "https://www.yna.co.kr/view/AKR20260911047000005",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "홍경, 넷플릭스 새 시리즈 '아웃백' 출연 확정…위태로운 청춘 그린다",
+          "url": "https://v.daum.net/v/20260911105149831",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "류준열·홍경·정호연·원지안, 넷플릭스 ‘아웃백’ 캐스팅… 웹툰 ‘그다이’ 원작",
+          "url": "https://www.viva100.com/article/20260911500805",
+          "source": "브릿지경제",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "롤": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T04:11:00+09:00",
+      "lastSeen": "2026-09-12T04:11:00+09:00",
+      "news": [
+        {
+          "title": "리그 오브 레전드 26.18 패치 노트",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-18-notes/",
+          "source": "League of Legends",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "26.18 패치 롤 서버 점검 시간",
+          "url": "https://v.daum.net/v/3BvebdztMn",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "LoL 26.18 패치 적용…노틸러스·바드 하향, 비에고·에코·카사딘 상향",
+          "url": "http://www.gameinn.co.kr/news/articleView.html?idxno=13887",
+          "source": "게임인",
           "date": "2026-09-11"
         }
       ]
@@ -1149,6 +1227,12 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1o2ZEZvcnZBMGs5Yi1tYmJ3SEk1N3NFVFg5aU5zM0FiNEVVc0duejE1SFY2Z2R4UTFpWE5qaHBXQkcxTFc5UXZtNWo2ZFBLRklJQUVnNmFQVEZhNGwxQTlfLWxkSzBVRDBDX1F5UVR5Ym9aT2RKaXdSZ041SVJPN0JPQ0hLaUQ2aVMzS0NR?oc=5",
         "source": "국제신문",
         "date": "2026-09-10"
+      },
+      {
+        "title": "자동화했더니 일자리 줄기는커녕 37% 늘었다…김영훈 “산업전환 중심은 사람”",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQczU1RzlpQ2pMWHVjNFBka3hyQ1hVbURWdE8zdnAxRlgzVUVMTk9hN2ZnNnNYX21ScWw4WlB3RTFlLUtXTlE?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-11"
       }
     ],
     "ENTERTAINMENT": [
