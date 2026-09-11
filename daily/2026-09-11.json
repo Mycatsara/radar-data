@@ -5474,10 +5474,10 @@
       ]
     },
     "아나운서": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T21:17:00+09:00",
-      "lastSeen": "2026-09-11T21:17:00+09:00",
+      "lastSeen": "2026-09-11T21:45:00+09:00",
       "news": [
         {
           "title": "전현무 소속사, 일본 아나운서 출신 아사코 영입",
@@ -5500,10 +5500,10 @@
       ]
     },
     "임영웅": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T21:17:00+09:00",
-      "lastSeen": "2026-09-11T21:17:00+09:00",
+      "lastSeen": "2026-09-11T21:45:00+09:00",
       "news": [
         {
           "title": "임영웅, 'AAA 2026 스타킹' 최정상 등극…3주 연속 1위→150점 만점으로 막강 화력",
@@ -5526,10 +5526,10 @@
       ]
     },
     "경기도": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T21:17:00+09:00",
-      "lastSeen": "2026-09-11T21:17:00+09:00",
+      "lastSeen": "2026-09-11T21:45:00+09:00",
       "news": [
         {
           "title": "‘도비 30% 상한’ 후폭풍…시·군 반발 ‘경기도 무용론’까지",
@@ -5548,14 +5548,26 @@
           "url": "https://www.newsis.com/view/NISX20260911_0003786022",
           "source": "뉴시스",
           "date": "2026-09-11"
+        },
+        {
+          "title": "추미애, 산후조리비 기습 폐지... 경기도민 반대 청원 하루새 1만",
+          "url": "https://v.daum.net/v/20260911170207125",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "경기도 산후조리비 중단에 도민 청원 1만명 돌파",
+          "url": "https://www.yna.co.kr/view/AKR20260911094400061",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
         }
       ]
     },
     "박위": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-11T21:17:00+09:00",
-      "lastSeen": "2026-09-11T21:17:00+09:00",
+      "lastSeen": "2026-09-11T21:45:00+09:00",
       "news": [
         {
           "title": "'95만 붕괴' 박위, 356字 남기고 3주째 잠수…케냐 봉사도 '재조명' [Oh!쎈 이슈] - 조선비즈",
@@ -5574,14 +5586,20 @@
           "url": "https://www.newsnjoy.or.kr/news/articleView.html?idxno=400707",
           "source": "뉴스앤조이",
           "date": "2026-09-11"
+        },
+        {
+          "title": "박위, 구독자 94만 명 ‘급감’…케냐 봉사 논란까지 터지며 ‘KTX 저격 논란’ 여파ing",
+          "url": "https://v.daum.net/v/20260911211909511",
+          "source": "Daum",
+          "date": "2026-09-11"
         }
       ]
     },
     "충돌": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-11T21:17:00+09:00",
-      "lastSeen": "2026-09-11T21:17:00+09:00",
+      "lastSeen": "2026-09-11T21:45:00+09:00",
       "news": [
         {
           "title": "80대 운전자 충돌 사고뒤 100m 더 직진…주차차량 5대 ‘쾅’",
@@ -5604,10 +5622,10 @@
       ]
     },
     "합동 교전 능력": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-11T21:17:00+09:00",
-      "lastSeen": "2026-09-11T21:17:00+09:00",
+      "lastSeen": "2026-09-11T21:45:00+09:00",
       "news": [
         {
           "title": "美가 막은 CEC…‘한국판’ 만들어도 韓 이지스함엔 못 단다 [박수찬의 軍]",
@@ -5624,6 +5642,110 @@
         {
           "title": "美 이지스 핵심 CEC 수출 거부 장기화 국산 대안에도 韓·美 체계 연동 불투명",
           "url": "https://v.daum.net/v/bXj2cLKpAr?f=p",
+          "source": "Daum",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "윤석열 무죄": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T21:45:00+09:00",
+      "lastSeen": "2026-09-11T21:45:00+09:00",
+      "news": [
+        {
+          "title": "'이종섭 호주 도피' 윤석열 1심 무죄‥법원 \"수사방해 의도 단정 못 해\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6851206_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'이종섭 도피' 윤석열 1심 무죄…\"도피 목적 단정 못 해\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008749343",
+          "source": "SBS 뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "尹 ‘이종섭 호주 도피’ 1심 무죄... 法 “대사 임명, 대통령 인사권 행사”",
+          "url": "https://www.chosun.com/national/court_law/2026/09/11/V23UTZKFWFEDJDHM3JQO4N2JI4/",
+          "source": "조선일보",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "신지은": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T21:45:00+09:00",
+      "lastSeen": "2026-09-11T21:45:00+09:00",
+      "news": [
+        {
+          "title": "V리그 경기 현장|대한민국 '최고 미녀 선수' 뜬다…\"설레는 마음으로 후회 없이 준비\" 비치발리볼 신지은 출사표 [나고야 AG]",
+          "url": "https://m.news.zum.com/photo/57987096/107701850?cm=news_photolist&r=2&thumb=1",
+          "source": "ZUM 뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "대한민국 '최고 미녀 선수' 뜬다…\"설레는 마음으로 후회 없이 준비\" 비치발리볼 신지은 출사표 [나고야 AG]",
+          "url": "https://sports.news.nate.com/view/20260911n25786",
+          "source": "네이트",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "경일대 서가은·신지은 태극마크…아시안게임 모래코트 누빈다",
+          "url": "https://v.daum.net/v/9VsCic6brA",
+          "source": "Daum",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "의과대학": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-11T21:45:00+09:00",
+      "lastSeen": "2026-09-11T21:45:00+09:00",
+      "news": [
+        {
+          "title": "수학·통계 배우는 의대생…연세의대, 예과부터 ‘의사과학자’ 양성",
+          "url": "https://www.sedaily.com/article/20090010",
+          "source": "서울경제",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "연세의대, 의예과부터 의사과���자 키운다…심화전공 신설",
+          "url": "https://www.asiae.co.kr/article/2026091115510964205",
+          "source": "아시아경제",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "연세의대, 의예과부터 연구역량 키운다…의사과학자 과정 신설",
+          "url": "https://news.nate.com/view/20260911n24768",
+          "source": "네이트",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "전경철": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T21:45:00+09:00",
+      "lastSeen": "2026-09-11T21:45:00+09:00",
+      "news": [
+        {
+          "title": "발달장애인과 가족의 '보통의 일상' 국가와 지역사회가 함께합니다",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148971729",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "별이 된 ‘피터팬’ 아빠 故 전경철님이 남긴 소원",
+          "url": "https://www.president.go.kr/social-media/zXpZA2D7",
+          "source": "대한민국 청와대",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"가족의 희생 끝내겠다\"…주말 끊기던 최중증 돌봄, 내년부터 365일 상시 가동",
+          "url": "https://v.daum.net/v/US9TcFOcj3?f=p",
           "source": "Daum",
           "date": "2026-09-11"
         }
