@@ -3028,10 +3028,10 @@
       ]
     },
     "파운드리": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-11T12:13:00+09:00",
-      "lastSeen": "2026-09-11T13:14:00+09:00",
+      "lastSeen": "2026-09-11T13:42:00+09:00",
       "news": [
         {
           "title": "'삼성전자, 드디어 터지나' 들썩…증권가서 '파격 전망' 나왔다 [분석+]",
@@ -3060,10 +3060,10 @@
       ]
     },
     "여권": {
-      "count": 3,
-      "maxTraffic": 1000,
+      "count": 4,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-11T12:13:00+09:00",
-      "lastSeen": "2026-09-11T13:14:00+09:00",
+      "lastSeen": "2026-09-11T13:42:00+09:00",
       "news": [
         {
           "title": "“도난 당했다”…일본 간 한국인들 ‘긴급여권’ 발급 급증, 무슨 일",
@@ -3086,10 +3086,10 @@
       ]
     },
     "카카오 모빌리티": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-11T12:13:00+09:00",
-      "lastSeen": "2026-09-11T13:14:00+09:00",
+      "lastSeen": "2026-09-11T13:42:00+09:00",
       "news": [
         {
           "title": "택시노동자들, 카카오모빌리티에 단체교섭 요구",
@@ -3144,10 +3144,10 @@
       ]
     },
     "인터파크": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T12:42:00+09:00",
-      "lastSeen": "2026-09-11T13:14:00+09:00",
+      "lastSeen": "2026-09-11T13:42:00+09:00",
       "news": [
         {
           "title": "여행도 공연도 한곳에서…NOL, '슈퍼앱' 시동",
@@ -3196,10 +3196,10 @@
       ]
     },
     "김민수": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-11T13:14:00+09:00",
-      "lastSeen": "2026-09-11T13:14:00+09:00",
+      "lastSeen": "2026-09-11T13:42:00+09:00",
       "news": [
         {
           "title": "'남아공 월드컵 16강' 조용형 코치, 모레노 감독 '韓 적응' 돕는다...이재홍 피지컬 코치까지 '한국인 스태프' 2명 합류 [공식발표]",
@@ -3218,14 +3218,26 @@
           "url": "https://www.mt.co.kr/sports/2026/09/11/202609110933770057O",
           "source": "머니투데이",
           "date": "2026-09-11"
+        },
+        {
+          "title": "’김민수 교체 출전’ 레인저스, 극장골로 4연승",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202609100947259IX",
+          "source": "연합뉴스TV",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'말도 안 돼' 김민수 레인저스 '데뷔골' 무산…PK 실축에 첫 혹평! 현지 매체 \"자신감 떨어진 모습, 셀틱전 위해 선발 제외해야\"",
+          "url": "https://sports.news.nate.com/view/20260907n00945",
+          "source": "nate sports",
+          "date": "2026-09-11"
         }
       ]
     },
     "이동건": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-11T13:14:00+09:00",
-      "lastSeen": "2026-09-11T13:14:00+09:00",
+      "lastSeen": "2026-09-11T13:42:00+09:00",
       "news": [
         {
           "title": "\"2억 빚 내 차렸는데\"…제주 이동건 카페, 녹조 낀 연못에 벌레 '둥둥'",
@@ -3248,10 +3260,10 @@
       ]
     },
     "두산에너 빌리티": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T13:14:00+09:00",
-      "lastSeen": "2026-09-11T13:14:00+09:00",
+      "lastSeen": "2026-09-11T13:42:00+09:00",
       "news": [
         {
           "title": "증권가가 ‘핵심 원전주’ 두산에너빌리티를 주목하는 이유",
@@ -3274,10 +3286,10 @@
       ]
     },
     "이더 리움": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-11T13:14:00+09:00",
-      "lastSeen": "2026-09-11T13:14:00+09:00",
+      "lastSeen": "2026-09-11T13:42:00+09:00",
       "news": [
         {
           "title": "비트코인 급락에도 나홀로 버틴 이더리움, 본격 반등의 신호탄일까",
@@ -3296,14 +3308,26 @@
           "url": "https://yellow.com/ko/news/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-%EA%B1%B0%EB%9E%98%EB%9F%89-20-%EA%B8%89%EC%A6%9D%E2%80%A6%EA%B0%95%EC%84%B8%EC%9E%A5-2550%EB%8B%AC%EB%9F%AC-%EB%8F%8C%ED%8C%8C-%EB%85%B8%EB%A6%AC%EB%A9%B0-3000%EB%8B%AC%EB%9F%AC-%EB%9E%A0%EB%A6%AC-%EC%8B%9C%EB%8F%99",
           "source": "Yellow.com",
           "date": "2026-09-11"
+        },
+        {
+          "title": "ETH 현물 ETF 400억원 순유출...하루만에 전환",
+          "url": "https://www.coinreaders.com/257741",
+          "source": "코인리더스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "이더리움·XRP 연승 행진 피바다로 끝났다… 기관 자금 탈출에 ‘벌벌’",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483759",
+          "source": "핀포인트뉴스",
+          "date": "2026-09-11"
         }
       ]
     },
     "livenation": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-11T13:14:00+09:00",
-      "lastSeen": "2026-09-11T13:14:00+09:00",
+      "lastSeen": "2026-09-11T13:42:00+09:00",
       "news": [
         {
           "title": "Taylor Swift Promoter Says Live Nation Shut Him Out as AEG Calls for Ticketmaster Breakup",
@@ -3326,10 +3350,10 @@
       ]
     },
     "푸바오": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T13:14:00+09:00",
-      "lastSeen": "2026-09-11T13:14:00+09:00",
+      "lastSeen": "2026-09-11T13:42:00+09:00",
       "news": [
         {
           "title": "[포토타임] 에버랜드 막내 아기 판다 오늘 100일 잔치…이름은 ‘슈바오’",
@@ -3347,6 +3371,12 @@
           "title": "푸바오 막냇동생 이름 ‘슈바오’…프린세슈 100일 축하해!",
           "url": "https://www.hani.co.kr/arti/animalpeople/human_animal/1277359.html",
           "source": "한겨레",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "“내 이름은 ‘슈바오’, 푸바오 언니 막냇동생이죠”···100일 만에 30배 폭풍 성장",
+          "url": "https://www.khan.co.kr/article/202609111244001",
+          "source": "경향신문",
           "date": "2026-09-11"
         }
       ]
