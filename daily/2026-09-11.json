@@ -4087,10 +4087,10 @@
       ]
     },
     "금값": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-11T17:14:00+09:00",
-      "lastSeen": "2026-09-11T17:14:00+09:00",
+      "lastSeen": "2026-09-11T17:43:00+09:00",
       "news": [
         {
           "title": "[투데이’s 금 시세] 하락세 지속하는 금값···美 PPI 반등에 금리인상 가능성 높아져 By 투데이코리아",
@@ -4109,14 +4109,20 @@
           "url": "https://v.daum.net/v/7h6eZTNdGb?f=p",
           "source": "Daum",
           "date": "2026-09-11"
+        },
+        {
+          "title": "뜨거운 PPI에 연준 금리인상 기대 강화…금 선물 낙폭 축소",
+          "url": "https://kr.investing.com/news/commodities-news/article-2091259",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-11"
         }
       ]
     },
     "야구여왕": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-11T17:14:00+09:00",
-      "lastSeen": "2026-09-11T17:14:00+09:00",
+      "lastSeen": "2026-09-11T17:43:00+09:00",
       "news": [
         {
           "title": "‘야구여왕2’ 블랙퀸즈 존폐위기",
@@ -4290,6 +4296,195 @@
           "title": "[칼럼]쫓기듯 비워진 靑 정책실장, 李대통령 선택이 곧 메시지다",
           "url": "https://v.daum.net/v/20260909050300877?f=p",
           "source": "Daum",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "근로복지공단": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T17:43:00+09:00",
+      "lastSeen": "2026-09-11T17:43:00+09:00",
+      "news": []
+    },
+    "유현조": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T17:43:00+09:00",
+      "lastSeen": "2026-09-11T17:43:00+09:00",
+      "news": [
+        {
+          "title": "서교림, KB금융 챔피언십 1R 공동 2위…김민솔은 공동 67위",
+          "url": "https://www.yna.co.kr/view/AKR20260910162400007",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[KB금융 골든라이프 챔피언십] 1라운드 하이라이트",
+          "url": "https://programs.sbs.co.kr/sbsgolf/26klpgatour/clip/88959/22000635639",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "서교림 대 김민솔 ‘림솔대전’…스무살 동갑내기 우정의 경쟁",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8659628",
+          "source": "KBS 뉴스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "손연재": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-11T17:43:00+09:00",
+      "lastSeen": "2026-09-11T17:43:00+09:00",
+      "news": [
+        {
+          "title": "32세 손연재, 블랙 미니스커트 입고 전시 나들이…클래식 가을 패션",
+          "url": "https://www.newsis.com/view/NISX20260910_0003784860",
+          "source": "뉴시스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "손연재, 아시안게임 안 나가고 뭐해…아 결혼하고 아들 낳았지",
+          "url": "https://www.koreadaily.com/article/20260910021841610",
+          "source": "미주중앙일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "손연재, 아들맘 맞아?? 소녀같은 요정미 \"가을이 오고 있나봐요\" - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/10/MJQWGYZVGRSTSZJVGAYTQYLGMM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "대한민국 외무부 장관": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T17:43:00+09:00",
+      "lastSeen": "2026-09-11T17:43:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 호르무즈 파병 논란 속 한-이란 외교 전화통화",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260911141309JaX",
+          "source": "연합뉴스TV",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "진보 4당 “호르무즈 파병 검토 즉각 중단하고 파병 불가 선언해야”",
+          "url": "https://v.daum.net/v/20260911152723860",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[기고]5차원 고차 전략방정식이 돼버린 ‘한국의 호르무즈 파병’ 풀 묘책은? …김태준의 美·이란戰 중계",
+          "url": "https://www.munhwa.com/article/11616367",
+          "source": "문화일보",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "문상호": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T17:43:00+09:00",
+      "lastSeen": "2026-09-11T17:43:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 법원, '군사기밀 누설' 문상호 前정보사령관 1심 무죄",
+          "url": "https://v.daum.net/v/20260911144752119",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[속보] KB금융 차기 회장 후보에 이재근…양종희 연임 실패",
+          "url": "https://www.hankyung.com/article/2026091195597",
+          "source": "한국경제",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[속보] '군기누설' 문상호 전 정보사령관, 1심서 무죄 판결",
+          "url": "https://www.kyeonggi.com/article/20260911580161",
+          "source": "경기일보",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "스테이블코인": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T17:43:00+09:00",
+      "lastSeen": "2026-09-11T17:43:00+09:00",
+      "news": [
+        {
+          "title": "금도 석유도 끝났다...미국이 달러 지키기 위해 꺼낸 최후의 무기 [한방이슈]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202609111626325636",
+          "source": "YTN",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "금투협, 스테이블코인으로 읽는 '달러 패권의 미래' 이러닝 개설",
+          "url": "https://v.daum.net/v/20260911094615747",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "금투협, 화폐·달러 패권 변화 다룬 스테이블코인 과정 개설",
+          "url": "https://www.newspim.com/news/view/20260911000531",
+          "source": "뉴스핌",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "라이언 와이스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T17:43:00+09:00",
+      "lastSeen": "2026-09-11T17:43:00+09:00",
+      "news": [
+        {
+          "title": "'진짜 돌아올 생각인가봐'…前한화 와이스 아내 \"홈런클럽 시즌2 기대해\" 대전 복귀 '스포'?",
+          "url": "https://www.sportschosun.com/baseball/2026-09-10/202609100100070400004538",
+          "source": "스포츠조선",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "휴스턴과 67억은 없는 일, 대신 7억 받는 와이스…부인 헤일리는 \"한국 그립다\"",
+          "url": "https://news.jtbc.co.kr/article/NB12317930",
+          "source": "JTBC",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "와이스 내년에 한화로 돌아가야 하나…김혜성 삼진이 위로가 안 된다, 트리플A ERA 6.57 '씁쓸한 가을'",
+          "url": "https://m.news.nate.com/view/20260910n21012",
+          "source": "네이트",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "무안국제공항": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-11T17:43:00+09:00",
+      "lastSeen": "2026-09-11T17:43:00+09:00",
+      "news": [
+        {
+          "title": "무안공항 활성화추진위 \"활주로 긴급보수·재개항 확정해야\"",
+          "url": "https://v.daum.net/v/20260911102838779",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "무안공항 재개항 대신 광주공항 국제선?…무안 주민들 '거리로'",
+          "url": "https://news.mtn.co.kr/news-detail/2026091113210468137",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "시민단체 \"국토부, 광주공항 국제선 재취항 결단해야\"",
+          "url": "https://www.yna.co.kr/view/AKR20260910126400054",
+          "source": "연합뉴스",
           "date": "2026-09-11"
         }
       ]
