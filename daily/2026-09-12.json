@@ -304,10 +304,10 @@
       ]
     },
     "이엘리야": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T00:42:00+09:00",
-      "lastSeen": "2026-09-12T03:15:00+09:00",
+      "lastSeen": "2026-09-12T03:42:00+09:00",
       "news": [
         {
           "title": "‘유부녀 킬러’ 공효진 노린 ‘가짜 킹피셔’ 신현수 아닌 이엘리아였다",
@@ -342,10 +342,10 @@
       ]
     },
     "더커뮤니티2": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T00:42:00+09:00",
-      "lastSeen": "2026-09-12T03:15:00+09:00",
+      "lastSeen": "2026-09-12T03:42:00+09:00",
       "news": [
         {
           "title": "‘더 커뮤니티2’ 5화, 3시간 라이브로 함께 즐긴다",
@@ -368,10 +368,10 @@
       ]
     },
     "원자로": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T01:13:00+09:00",
-      "lastSeen": "2026-09-12T03:15:00+09:00",
+      "lastSeen": "2026-09-12T03:42:00+09:00",
       "news": [
         {
           "title": "소형모듈원자로(SMR) 특별법 시행…2035년 SMR 상용화 본격화",
@@ -406,10 +406,10 @@
       ]
     },
     "옵세션": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-12T01:13:00+09:00",
-      "lastSeen": "2026-09-12T03:15:00+09:00",
+      "lastSeen": "2026-09-12T03:42:00+09:00",
       "news": [
         {
           "title": "12 Must-Watch Films at the 2026 Toronto International Film Festival",
@@ -444,10 +444,10 @@
       ]
     },
     "네이버웹툰": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T01:42:00+09:00",
-      "lastSeen": "2026-09-12T03:15:00+09:00",
+      "lastSeen": "2026-09-12T03:42:00+09:00",
       "news": [
         {
           "title": "네이버웹툰 작가 만족도 높았다…\"계약·정산 신뢰 88.9점\"",
@@ -470,10 +470,10 @@
       ]
     },
     "코믹월드": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T02:11:00+09:00",
-      "lastSeen": "2026-09-12T03:15:00+09:00",
+      "lastSeen": "2026-09-12T03:42:00+09:00",
       "news": [
         {
           "title": "2026년 8월 3주차 주간게임동향",
@@ -490,10 +490,10 @@
       ]
     },
     "파이널 테이블": {
-      "count": 3,
-      "maxTraffic": 1000,
+      "count": 4,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-12T02:11:00+09:00",
-      "lastSeen": "2026-09-12T03:15:00+09:00",
+      "lastSeen": "2026-09-12T03:42:00+09:00",
       "news": [
         {
           "title": "안효섭·홍화연, '파이널 테이블'로 시청자 오감 자극",
@@ -522,10 +522,10 @@
       ]
     },
     "손예진 아들": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T03:15:00+09:00",
-      "lastSeen": "2026-09-12T03:15:00+09:00",
+      "lastSeen": "2026-09-12T03:42:00+09:00",
       "news": [
         {
           "title": "'현빈♥' 손예진 \"네살 아들, 배우 안 하기도 힘든 외모\"…남다른 비주얼 자랑",
@@ -548,10 +548,10 @@
       ]
     },
     "타짜": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T03:15:00+09:00",
-      "lastSeen": "2026-09-12T03:15:00+09:00",
+      "lastSeen": "2026-09-12T03:42:00+09:00",
       "news": [
         {
           "title": "[피플] 배우 스윙스의 재발견",
@@ -569,6 +569,32 @@
           "title": "욕망과 배신에 얼룩진 판…마지막 ‘패’가 펼쳐진다 [리뷰]",
           "url": "https://www.sedaily.com/article/20089565",
           "source": "서울경제",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "x": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T03:42:00+09:00",
+      "lastSeen": "2026-09-12T03:42:00+09:00",
+      "news": [
+        {
+          "title": "Despite Pledges From Musk, Child Sexual Abuse Material Persists on X",
+          "url": "https://www.nytimes.com/2026/09/11/technology/x-grok-child-images.html",
+          "source": "The New York Times",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images",
+          "url": "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit",
+          "source": "The Guardian",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Licensable video: Sopravvissuta ad abusi su minori fa causa a xAI per le immagini di Grok",
+          "url": "https://www.reutersconnect.com/item/sopravvissuta-ad-abusi-su-minori-fa-causa-a-xai-per-le-immagini-di-grok/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzExODQ0OTg",
+          "source": "Reuters Connect",
           "date": "2026-09-11"
         }
       ]
@@ -1111,6 +1137,18 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNNm85Q1VwRGpiNzY4UzdvUFhfTzFMMFNjLURxMnN6bnVMdTZnLV9uVk15MzJwLWNRMW1LS1YyQ19udjRYT2MyTFdUelloeVNOUzBrMHRR?oc=5",
         "source": "매일경제",
         "date": "2026-09-11"
+      },
+      {
+        "title": "액스비스, 현대모비스 로봇 액추에이터 생산라인 들어갔다‥\"양산체계 진입\"",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04TFBwNHFlRXBiUzVuZlhreWthVnVZLUQ1eVkwWVZ1cnRkdlpiWTRMNTVJX3hmcXU4azBvSGRKMGRkcldseC1kX3JITzRfWE1ySU5xbTZLMENjQjR3UlQwXzQ4TnZoRkRMbE5ESHZ4X2Y?oc=5",
+        "source": "데이터투자",
+        "date": "2026-09-11"
+      },
+      {
+        "title": "경남, SMR 제조거점 육성…원천기술 확보도(종합)",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1o2ZEZvcnZBMGs5Yi1tYmJ3SEk1N3NFVFg5aU5zM0FiNEVVc0duejE1SFY2Z2R4UTFpWE5qaHBXQkcxTFc5UXZtNWo2ZFBLRklJQUVnNmFQVEZhNGwxQTlfLWxkSzBVRDBDX1F5UVR5Ym9aT2RKaXdSZ041SVJPN0JPQ0hLaUQ2aVMzS0NR?oc=5",
+        "source": "국제신문",
+        "date": "2026-09-10"
       }
     ],
     "ENTERTAINMENT": [
