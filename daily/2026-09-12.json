@@ -2,10 +2,10 @@
   "date": "2026-09-12",
   "keywords": {
     "중앙일보": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-12T00:12:00+09:00",
-      "lastSeen": "2026-09-12T01:13:00+09:00",
+      "lastSeen": "2026-09-12T01:42:00+09:00",
       "news": [
         {
           "title": "중앙일보는 워크아웃, JTBC는 회생…리테일 채권 회수 전망도 갈린다",
@@ -28,10 +28,10 @@
       ]
     },
     "니콜 키드먼": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T00:12:00+09:00",
-      "lastSeen": "2026-09-12T01:13:00+09:00",
+      "lastSeen": "2026-09-12T01:42:00+09:00",
       "news": [
         {
           "title": "니콜 키드먼, 톰 크루즈와 헤어진 후 매우 외로웠다고 밝혀",
@@ -54,10 +54,10 @@
       ]
     },
     "공인중개사": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T00:12:00+09:00",
-      "lastSeen": "2026-09-12T01:13:00+09:00",
+      "lastSeen": "2026-09-12T01:42:00+09:00",
       "news": [
         {
           "title": "집 맘에 안 들어도 2만원? 임장비 논란에 발칵…중개사협회 \"사실 아냐\" - 머니투데이",
@@ -80,10 +80,10 @@
       ]
     },
     "김원호": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T00:12:00+09:00",
-      "lastSeen": "2026-09-12T01:13:00+09:00",
+      "lastSeen": "2026-09-12T01:42:00+09:00",
       "news": [
         {
           "title": "\"세계 1위 한국 이겼잖아! 왜 해체하나?\"…韓 서승재·김원호 이겼다고 이런 일이→'해체 철회' 말레이 조, 10월부터 다시 뛴다",
@@ -112,10 +112,10 @@
       ]
     },
     "대한민국의 대법관": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-12T00:12:00+09:00",
-      "lastSeen": "2026-09-12T01:13:00+09:00",
+      "lastSeen": "2026-09-12T01:42:00+09:00",
       "news": [
         {
           "title": "청와대, 조희대에 \"대법관 재제청, 신속히 진행해야\"",
@@ -298,10 +298,10 @@
       ]
     },
     "이엘리야": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T00:42:00+09:00",
-      "lastSeen": "2026-09-12T01:13:00+09:00",
+      "lastSeen": "2026-09-12T01:42:00+09:00",
       "news": [
         {
           "title": "‘유부녀 킬러’ 공효진 노린 ‘가짜 킹피셔’ 신현수 아닌 이엘리아였다",
@@ -320,14 +320,20 @@
           "url": "https://www.mk.co.kr/news/hot-issues/12150358",
           "source": "매일경제",
           "date": "2026-09-11"
+        },
+        {
+          "title": "'보이스피싱범' 잡은 며느리, 시어머니의 시선이 돌변했다",
+          "url": "https://v.daum.net/v/20260911180751170",
+          "source": "Daum",
+          "date": "2026-09-11"
         }
       ]
     },
     "더커뮤니티2": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T00:42:00+09:00",
-      "lastSeen": "2026-09-12T01:13:00+09:00",
+      "lastSeen": "2026-09-12T01:42:00+09:00",
       "news": [
         {
           "title": "‘더 커뮤니티2’ 5화, 3시간 라이브로 함께 즐긴다",
@@ -350,10 +356,10 @@
       ]
     },
     "원자로": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T01:13:00+09:00",
-      "lastSeen": "2026-09-12T01:13:00+09:00",
+      "lastSeen": "2026-09-12T01:42:00+09:00",
       "news": [
         {
           "title": "소형모듈원자로(SMR) 특별법 시행…2035년 SMR 상용화 본격화",
@@ -376,10 +382,10 @@
       ]
     },
     "옵세션": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-12T01:13:00+09:00",
-      "lastSeen": "2026-09-12T01:13:00+09:00",
+      "lastSeen": "2026-09-12T01:42:00+09:00",
       "news": [
         {
           "title": "12 Must-Watch Films at the 2026 Toronto International Film Festival",
@@ -397,6 +403,32 @@
           "title": "How ‘Obsession’ Rewrote TIFF History",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/how-obsession-rewrote-tiff-history-1236697010/",
           "source": "The Hollywood Reporter",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "네이버웹툰": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T01:42:00+09:00",
+      "lastSeen": "2026-09-12T01:42:00+09:00",
+      "news": [
+        {
+          "title": "네이버웹툰 작가 만족도 높았다…\"계약·정산 신뢰 88.9점\"",
+          "url": "https://v.daum.net/v/20260911123000864",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "지방 작가 챙기러 간 네이버웹툰…조석 작가 등판해 20년 경험 나눠 - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/09/10/2026091009534363204",
+          "source": "머니투데이",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "네이버웹툰 직계약 창작자 10명 중 9명, 수익 정산 과정 만족",
+          "url": "https://www.news1.kr/it-science/general-it/6286699",
+          "source": "뉴스1",
           "date": "2026-09-11"
         }
       ]
@@ -884,6 +916,18 @@
         "title": "미 8월 CPI 발표 직후 3대 지수 선물 상승",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HMTJmR2ZNQlplSWpPX1hOMWE5X1k1U3hDRVc5MmE5UU9leEpzSk11Q3AtVktPMzVOTzE3Z3BfaE1KZTNjTXBwN295MGs1ZzdzdVZ3a09namLSAV5BVV95cUxNWm8tRm5xcXNod0tfeHlCeVdSdkhiYjlLaHV4QURuU0VKMzdta3dtaE8yNmVDVkZUb0VKSjVGcE1SOTdweG1vdW1tRG1ralZzR2JIYjRxd1B6RHFBZlNR?oc=5",
         "source": "tokenpost.kr",
+        "date": "2026-09-11"
+      },
+      {
+        "title": "中배터리 택한 포드에 美 정부 제동…K-배터리 몸값 다시 오른다",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TYmxleU9WbTJFRGVPUnJwTFVhVzRQaVNGY1VscmRyT3EzSGVmc2txb0Z6NDVxaG04WmFyd3JLaHdWUGI4cW9RS2tnZkN5d2c?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "오픈AI, ‘아스트라’ 수요 폭증에 월 200달러 프로 신규 가입 중단",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV2xEQzFxUlVEOW5kdkxsQVVNOHVkZWxidVB3Q2R2eExDNHdoT1hMcFVnV1cwbE8yYm54TjVnY0toWnNTZ2lBT1hjdU02OTNheFRsQ2dGX2xTaDdjaFpWUno2bDNMTzRWU1EydllaQUh5aXl3dDF1UWJMdXNaUE55OTZZNA?oc=5",
+        "source": "조선일보",
         "date": "2026-09-11"
       }
     ],
