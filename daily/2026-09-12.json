@@ -1070,10 +1070,10 @@
       ]
     },
     "황희찬": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-12T06:38:00+09:00",
-      "lastSeen": "2026-09-12T06:38:00+09:00",
+      "lastSeen": "2026-09-12T07:13:00+09:00",
       "news": [
         {
           "title": "'韓 국대 에이스' 기대 만발! \"황희찬은 최고의 선택지\" → 개막 2경기 무득점 탈출 특명!",
@@ -1092,14 +1092,20 @@
           "url": "https://sports.khan.co.kr/article/202609101447003",
           "source": "스포츠경향",
           "date": "2026-09-11"
+        },
+        {
+          "title": "'부활포' 위기에 빛난 황희찬 클래스, 독일 1부 '데뷔전 공격포인트'... 1호 도움 작렬 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/12/2026091205574698482",
+          "source": "머니투데이",
+          "date": "2026-09-11"
         }
       ]
     },
     "한동훈": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-12T06:38:00+09:00",
-      "lastSeen": "2026-09-12T06:38:00+09:00",
+      "lastSeen": "2026-09-12T07:13:00+09:00",
       "news": [
         {
           "title": "박선원 \"한동훈 제보자는 조 모 씨‥국힘과 친분 과시한 검찰 도우미\"",
@@ -1118,14 +1124,20 @@
           "url": "https://www.munhwa.com/article/11616369",
           "source": "문화일보",
           "date": "2026-09-11"
+        },
+        {
+          "title": "김민석, ‘신약 로비 논란’ 김승원 후보자에 “보면 볼수록 잘된 인사”",
+          "url": "https://www.khan.co.kr/article/202609111110001",
+          "source": "경향신문",
+          "date": "2026-09-11"
         }
       ]
     },
     "엘니뇨": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-12T06:38:00+09:00",
-      "lastSeen": "2026-09-12T06:38:00+09:00",
+      "lastSeen": "2026-09-12T07:13:00+09:00",
       "news": [
         {
           "title": "인니 산불 진화 지원 나서는 日 자위대 치누크 헬기",
@@ -1148,10 +1160,10 @@
       ]
     },
     "고소영": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-12T06:38:00+09:00",
-      "lastSeen": "2026-09-12T06:38:00+09:00",
+      "lastSeen": "2026-09-12T07:13:00+09:00",
       "news": [
         {
           "title": "문상민, 한남동 포착된 '문짝 남친'",
@@ -1169,6 +1181,18 @@
           "title": "[포토] 고소영, 남��� 동건인데예",
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/518007",
           "source": "iMBC 연예",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[MD포토] 고소영, '행복 하트'",
+          "url": "https://v.daum.net/v/20260911183251727",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[영상] 문상민 '여심 저격'",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/11/2026091100274.html",
+          "source": "뉴데일리",
           "date": "2026-09-11"
         }
       ]
@@ -1247,6 +1271,156 @@
           "title": "[횡설수설/김준일]트럼프의 ‘빵과 서커스’",
           "url": "https://www.donga.com/news/Opinion/article/all/20260911/134653704/2",
           "source": "동아일보",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "토트넘 홋스퍼 fc": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T07:13:00+09:00",
+      "lastSeen": "2026-09-12T07:13:00+09:00",
+      "news": [
+        {
+          "title": "'약 2년 기다려 겨우 16분 뛰었는데' 무드릭, 훈련 중 발목 다쳐 최대 두 달 결장...머리가 아픈 데 제르비",
+          "url": "https://www.osen.co.kr/article/G1112873094",
+          "source": "OSEN",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'3G 0골' 토트넘 엎친 데 덮친 격...'1360억' 완전 영입 옵션 최악의 선택? '도핑 징계 FW' 훈련 중 발목 부상, 최대 8주 결장",
+          "url": "https://v.daum.net/v/20260910141251445?f=p",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"충격\" '너무 안 풀린다!' 18위 토트넘 미하일로 무드리크, 훈련 중 부상 OUT 'A매치 휴식기 이후 복귀 예정'",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/10/MZSTGNZYGE4TSNJRG4ZTEZDDGM/",
+          "source": "조선일보",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "พยากรณ์อากาศ": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T07:13:00+09:00",
+      "lastSeen": "2026-09-12T07:13:00+09:00",
+      "news": [
+        {
+          "title": "กรมอุตุนิยมวิทยา ออกประกาศเตือนฉบับที่ 1 ฝนตกหนักมาก ตั้งแต่วันที่ 8-13 ก.ย.-พายุลูกใหม่ก่อตัว ฟิลิปปินส์",
+          "url": "https://www.js100.com/en/site/news/view/164240",
+          "source": "js100.com",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "ประกาศแล้วมาหนักด้วย! กรมอุตุฯ เตือนภัย จังหวัดเตรียมร��บมือฝนถล่มหนัก",
+          "url": "https://www.mumkhao.com/news/regional/26290",
+          "source": "Mumkhao",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "보험": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T07:13:00+09:00",
+      "lastSeen": "2026-09-12T07:13:00+09:00",
+      "news": [
+        {
+          "title": "법인보험대리점 운영위험 등급 매긴다…불완전판매 비율 등 기준",
+          "url": "https://v.daum.net/v/20260911115459928",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "보험사 내년부터 GA 불완전판매 발생하면 지급여력비율 불이익, 관리 책임 강화",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447012",
+          "source": "비즈니스포스트",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "금융당국, ’계리가정 보고서’ 도입으로 보험부��평가 투명성 ’대수술’ By EBN",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2091477",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "리사": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T07:13:00+09:00",
+      "lastSeen": "2026-09-12T07:13:00+09:00",
+      "news": [
+        {
+          "title": "블랙핑크 리사 맞아? '태국 차은우'와 열애설 속 어딘가 달라진 얼굴 [스타이슈]",
+          "url": "https://v.daum.net/v/20260911175438792",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "블랙핑크 리사, 파격 시스루 누드톤 드레스…럭셔리 라이프",
+          "url": "https://sports.donga.com/ent/article/all/20260911/134653932/1",
+          "source": "스포츠동아",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "블핑 리사, 앤 해서웨이·두아 리��와 뉴욕서 만났다…글로벌 미모 대결 [N샷]",
+          "url": "https://www.news1.kr/entertain/music/6287046",
+          "source": "뉴스1",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "손예진": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T07:13:00+09:00",
+      "lastSeen": "2026-09-12T07:13:00+09:00",
+      "news": [
+        {
+          "title": "'현빈♥' 손예진 \"네살 아들, 배우 안 하기도 힘든 외모\"…남다른 비주얼 자랑",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6287227",
+          "source": "뉴스1",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'현빈♥' 손예진, 자식자랑 후회막급…\"꼴불견, 밖에 다니기 힘들겠다\" [Oh!쎈 이슈]",
+          "url": "https://www.koreadaily.com/article/20260911070821433",
+          "source": "미주중앙일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "아빠가 현빈인데…손예진, 아들 외모 자랑 “이렇게 생기면 배우 안 하기 힘들어”",
+          "url": "https://biz.heraldcorp.com/article/10870621",
+          "source": "헤럴드경제",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "농협은행": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T07:13:00+09:00",
+      "lastSeen": "2026-09-12T07:13:00+09:00",
+      "news": [
+        {
+          "title": "농협은행, 주담대 금리 최대 0.45% 인하…\"실수요자 지원\"",
+          "url": "https://v.daum.net/v/XaBh4GkLOO",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "NH농협은행, 가계대출 금리 인하…주담대 최대 0.45%p↓",
+          "url": "https://www.yna.co.kr/view/AKR20260911044800002",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "NH농협은행, 주담대 최대 0.45%p↓…신용대출 0.20%p 하향",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202609111015195at",
+          "source": "연합뉴스TV",
           "date": "2026-09-11"
         }
       ]
