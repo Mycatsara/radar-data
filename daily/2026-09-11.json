@@ -3580,10 +3580,10 @@
       ]
     },
     "mlb": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T15:17:00+09:00",
-      "lastSeen": "2026-09-11T15:46:00+09:00",
+      "lastSeen": "2026-09-11T16:13:00+09:00",
       "news": [
         {
           "title": "Unsure when -- or if -- he'd be back, Volpe makes grand return to Yanks",
@@ -3607,6 +3607,12 @@
           "title": "Fans all said the same thing about Anthony Volpe’s surprise game",
           "url": "https://larrybrownsports.com/baseball/fans-anthony-volpe-surprise-game/769609",
           "source": "Larry Brown Sports",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "MLB roundup: Anthony Volpe returns with grand slam as Yankees roll",
+          "url": "https://www.reuters.com/sports/mlb-roundup-anthony-volpe-returns-with-grand-slam-yankees-roll--flm-2026-09-11/",
+          "source": "Reuters",
           "date": "2026-09-11"
         }
       ]
@@ -3721,10 +3727,10 @@
       "news": []
     },
     "운전": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-11T15:46:00+09:00",
-      "lastSeen": "2026-09-11T15:46:00+09:00",
+      "lastSeen": "2026-09-11T16:13:00+09:00",
       "news": [
         {
           "title": "[자막뉴스] 아침 6시 도로 한복판 \"음주 의심\"…운전대 잡고 있던 건 '현직 판사'",
@@ -3747,10 +3753,10 @@
       ]
     },
     "사형": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T15:46:00+09:00",
-      "lastSeen": "2026-09-11T15:46:00+09:00",
+      "lastSeen": "2026-09-11T16:13:00+09:00",
       "news": [
         {
           "title": "“너 때문에 망신”···‘친딸 폭행·방치 살해’ 40대 가수 겸 유튜버에 사형 구형",
@@ -3769,14 +3775,20 @@
           "url": "https://www.chosun.com/national/2026/09/11/CFZDM5L2R5HOVOCBMRI55FENF4/",
           "source": "조선일보",
           "date": "2026-09-11"
+        },
+        {
+          "title": "친딸에 뜨거운 물 붓고 숨지게 한 40대 女가수, 사형 구형",
+          "url": "https://www.munhwa.com/article/11616186",
+          "source": "문화일보",
+          "date": "2026-09-11"
         }
       ]
     },
     "에버랜드": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T15:46:00+09:00",
-      "lastSeen": "2026-09-11T15:46:00+09:00",
+      "lastSeen": "2026-09-11T16:13:00+09:00",
       "news": [
         {
           "title": "에버랜드 '바오패밀리' 막내 판다 이름은 '슈바오'",
@@ -3794,6 +3806,168 @@
           "title": "푸바오 막내 동생 이름 '슈바오'로...생후 100일 모습 첫 공개",
           "url": "https://www.ytn.co.kr/_ln/0115_202609111438223861",
           "source": "YTN",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "23만명이 함께 지었다…에버랜드 막내 판다 ‘슈바오’",
+          "url": "https://www.sedaily.com/article/20089898",
+          "source": "서울경제",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "지상렬": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-11T16:13:00+09:00",
+      "lastSeen": "2026-09-11T16:13:00+09:00",
+      "news": [
+        {
+          "title": "은지원, 지상렬 충격 비주얼에 연인 신보람과 결별설 제기? \"헤어진 거냐\"",
+          "url": "https://v.daum.net/v/20260911102736743",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "은지원, G.C 해머 프로젝트 두 달째 매달리는 지상렬에 결별설 제기 “보람씨랑은 헤어졌냐” (살림남 2)",
+          "url": "https://sports.khan.co.kr/article/202609110907003",
+          "source": "스포츠경향",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"결혼 확고\" 지상렬, 16살 어린 ♥신보람과 결별설…사랑 아닌 음악 활동 전념 [살림남]",
+          "url": "https://news.nate.com/view/20260911n06193",
+          "source": "Nate News",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "울산 웨일즈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T16:13:00+09:00",
+      "lastSeen": "2026-09-11T16:13:00+09:00",
+      "news": [
+        {
+          "title": "'시민구단 초대형 경사' 울산 웨일즈 유일 AG 대표팀 합류→최기문 코치의 각오 \"책임감 느껴, 린위민 여전히 위력적\"",
+          "url": "https://v.daum.net/v/20260911070808056",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'최지만 애장품 받아가실 분?' 울산 웨일즈, 홈 최종전서 7299명 넘으면 화끈하게 쏜다! - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/10/2026091012282966146",
+          "source": "머니투데이",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "프로야구 울산, 13일 홈 최종전…김상욱 시장 시구",
+          "url": "https://www.yna.co.kr/view/AKR20260909144700007",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "우도": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T16:13:00+09:00",
+      "lastSeen": "2026-09-11T16:13:00+09:00",
+      "news": [
+        {
+          "title": "[자막뉴스] 중국 자본 침공에 \"제주 질식해!\"…독일 유력 일간지의 '송곳' 지적",
+          "url": "https://v.daum.net/v/20260911115705032",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "“중국인 뒤치다꺼리하느라 바쁜 한국”…어쩌다 외신들도 걱정하게 된 제주도",
+          "url": "https://www.etnews.com/20260911000244",
+          "source": "전자신문",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "獨 일간지 “中 자본 제주도 뒤덮어… 부동산 가격 뛰고 생활비도 올라” - 조선비즈",
+          "url": "https://biz.chosun.com/international/international_general/2026/09/10/S7GHMHQFBVD27AY52HCHO6PKPI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "전투기": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-11T16:13:00+09:00",
+      "lastSeen": "2026-09-11T16:13:00+09:00",
+      "news": [
+        {
+          "title": "美 해군장관대행 \"이란, 바레인 기지 박살냈다\"",
+          "url": "https://v.daum.net/v/20260911105140830",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'중동 두 해협' 덮친 불길...다급한 트럼프, '노골적 매표' [뉴스UP]",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609110908459773",
+          "source": "YTN",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "이란 혁명수비대 “호르무즈서 미국 스파이 무인정 타격”",
+          "url": "https://www.khan.co.kr/article/202609110731001",
+          "source": "경향신문",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "그랜드 테프트 오토 vi": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T16:13:00+09:00",
+      "lastSeen": "2026-09-11T16:13:00+09:00",
+      "news": [
+        {
+          "title": "게임이 정교해진 탓?… GTA6 출시 앞두고 美서 ‘가상 외도’ 논란",
+          "url": "https://www.chosun.com/economy/tech_it/2026/09/11/BVUWM7ICL5HYXN6Y5MJI42LQS4/",
+          "source": "조선일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "GTA 6 열풍 벌써 뜨겁다…PS5 프로 품귀에 웃돈까지",
+          "url": "https://v.daum.net/v/20260909135640504?f=p",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[기자수첩] ‘GTA 6’도 두렵지 않은 명작 IP의 힘",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349696",
+          "source": "녹색경제신문",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "김예건": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-11T16:13:00+09:00",
+      "lastSeen": "2026-09-11T16:13:00+09:00",
+      "news": [
+        {
+          "title": "즈베즈다 김예건, 교체투입 19분 만에 다시 벤치행…만만치 않은 유럽 무대",
+          "url": "https://v.daum.net/v/20260911144009817",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "이럴 수가! 韓 축구 유망주 김예건, 후반 15분 투입→34분 아웃…19분 만에 재교체",
+          "url": "https://sports.news.nate.com/view/20260911n10407",
+          "source": "네이트",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "김예건, 교체투입 19분 만에 OUT 충격…최고 유망주 유럽 성장통 시작됐다…후반 15분 IN→34분 OUT",
+          "url": "https://www.xportsnews.com/article/2194673",
+          "source": "www.xportsnews.com",
           "date": "2026-09-11"
         }
       ]
