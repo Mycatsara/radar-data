@@ -3432,10 +3432,10 @@
       ]
     },
     "귀금속": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T14:41:00+09:00",
-      "lastSeen": "2026-09-11T15:17:00+09:00",
+      "lastSeen": "2026-09-11T15:46:00+09:00",
       "news": [
         {
           "title": "전쟁·AI·약달러가 불붙였다…이례적 원자재 '에브리싱 랠리'",
@@ -3470,10 +3470,10 @@
       ]
     },
     "김강우": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-11T14:41:00+09:00",
-      "lastSeen": "2026-09-11T15:17:00+09:00",
+      "lastSeen": "2026-09-11T15:46:00+09:00",
       "news": [
         {
           "title": "김강우♥한무영 아들, 얼굴 공개 선언…\"김강우 닮아 잘생긴 줄 알았는데\" 폭소 [마데핫리뷰]",
@@ -3580,10 +3580,10 @@
       ]
     },
     "mlb": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T15:17:00+09:00",
-      "lastSeen": "2026-09-11T15:17:00+09:00",
+      "lastSeen": "2026-09-11T15:46:00+09:00",
       "news": [
         {
           "title": "Unsure when -- or if -- he'd be back, Volpe makes grand return to Yanks",
@@ -3602,14 +3602,20 @@
           "url": "https://www.espn.com/mlb/story/_/id/49900251/yankees-volpe-grand-slam-5-rbis-return-majors",
           "source": "ESPN",
           "date": "2026-09-11"
+        },
+        {
+          "title": "Fans all said the same thing about Anthony Volpe’s surprise game",
+          "url": "https://larrybrownsports.com/baseball/fans-anthony-volpe-surprise-game/769609",
+          "source": "Larry Brown Sports",
+          "date": "2026-09-11"
         }
       ]
     },
     "홍준표": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T15:17:00+09:00",
-      "lastSeen": "2026-09-11T15:17:00+09:00",
+      "lastSeen": "2026-09-11T15:46:00+09:00",
       "news": [
         {
           "title": "홍준표 \"변호사 재등록, 오늘부터 업무 시작\".. '명태균 의혹' 수사 대응?",
@@ -3628,14 +3634,20 @@
           "url": "https://www.mk.co.kr/news/politics/12150215",
           "source": "매일경제",
           "date": "2026-09-11"
+        },
+        {
+          "title": "\"백수로 지내려 했는데\"…정계 떠난 홍준표, 변호사로 복귀",
+          "url": "https://news.jtbc.co.kr/article/NB12317906",
+          "source": "JTBC",
+          "date": "2026-09-11"
         }
       ]
     },
     "갤럽": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-11T15:17:00+09:00",
-      "lastSeen": "2026-09-11T15:17:00+09:00",
+      "lastSeen": "2026-09-11T15:46:00+09:00",
       "news": [
         {
           "title": "[속보]李 지지율 38% 역대 최저치…40·50대서도 급락",
@@ -3654,14 +3666,20 @@
           "url": "https://www.newstomato.com/readnews.aspx?no=1313174",
           "source": "뉴스토마토",
           "date": "2026-09-11"
+        },
+        {
+          "title": "[맞수다] 갤럽도 李 40% 깨졌다 \"뉴이재명 사라져?\" \"반등 모멘텀은 이것?\"",
+          "url": "https://v.daum.net/v/20260911150710029",
+          "source": "Daum",
+          "date": "2026-09-11"
         }
       ]
     },
     "테니스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-11T15:17:00+09:00",
-      "lastSeen": "2026-09-11T15:17:00+09:00",
+      "lastSeen": "2026-09-11T15:46:00+09:00",
       "news": [
         {
           "title": "테니스 사발렌카, US오픈 결승행…리바키나 꺾으면 '3연패'",
@@ -3680,15 +3698,105 @@
           "url": "https://www.koreadaily.com/article/20260910130054658",
           "source": "미주중앙일보",
           "date": "2026-09-11"
+        },
+        {
+          "title": "테니스 코트 위 라이벌, 50년을 함께 달려온 두 전설",
+          "url": "https://v.daum.net/v/20260911145754607",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "취미로 테니스 한다고? ‘15조 금수저’ 한국계 페굴라의 반란",
+          "url": "https://v.daum.net/v/20260911050253530",
+          "source": "Daum",
+          "date": "2026-09-11"
         }
       ]
     },
     "jtbc": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T15:17:00+09:00",
-      "lastSeen": "2026-09-11T15:17:00+09:00",
+      "lastSeen": "2026-09-11T15:46:00+09:00",
       "news": []
+    },
+    "운전": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T15:46:00+09:00",
+      "lastSeen": "2026-09-11T15:46:00+09:00",
+      "news": [
+        {
+          "title": "[자막뉴스] 아침 6시 도로 한복판 \"음주 의심\"…운전대 잡고 있던 건 '현직 판사'",
+          "url": "https://v.daum.net/v/20260911114504538",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "서울고법 판사 술 마신 채 운전하다 적발‥\"면허 정지 수준\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6851136_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "현직 서울고법 판사 음주운전하다 경찰에 적발…면허정지 수준",
+          "url": "https://www.yna.co.kr/view/AKR20260911038800004",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "사형": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-11T15:46:00+09:00",
+      "lastSeen": "2026-09-11T15:46:00+09:00",
+      "news": [
+        {
+          "title": "“너 때문에 망신”···‘친딸 폭행·방치 살해’ 40대 가수 겸 유튜버에 사형 구형",
+          "url": "https://www.khan.co.kr/article/202609111422011",
+          "source": "경향신문",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'친딸 폭행·방치 살해' 가수 겸 유튜버 40대에 사형 구형",
+          "url": "https://www.yna.co.kr/view/AKR20260911045700052",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "뜨거운 물 붓고 때려 친딸 숨져... 검찰, 40대 女가수 ‘사형’ 구형",
+          "url": "https://www.chosun.com/national/2026/09/11/CFZDM5L2R5HOVOCBMRI55FENF4/",
+          "source": "조선일보",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "에버랜드": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-11T15:46:00+09:00",
+      "lastSeen": "2026-09-11T15:46:00+09:00",
+      "news": [
+        {
+          "title": "에버랜드 '바오패밀리' 막내 판다 이름은 '슈바오'",
+          "url": "https://www.yna.co.kr/view/AKR20260911034600061",
+          "source": "연합뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[포토] 눈 마주치면, 심장이 떨리는 귀여움…막내 판다 ‘슈바오’ 이름 공개",
+          "url": "https://www.hani.co.kr/arti/animalpeople/human_animal/1277381.html",
+          "source": "한겨레",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "푸바오 막내 동생 이름 '슈바오'로...생후 100일 모습 첫 공개",
+          "url": "https://www.ytn.co.kr/_ln/0115_202609111438223861",
+          "source": "YTN",
+          "date": "2026-09-11"
+        }
+      ]
     }
   },
   "sections": {
