@@ -5228,10 +5228,10 @@
       ]
     },
     "동아일보": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-11T20:13:00+09:00",
-      "lastSeen": "2026-09-11T20:40:00+09:00",
+      "lastSeen": "2026-09-11T21:17:00+09:00",
       "news": [
         {
           "title": "李 “노인이 빵 훔치는 사회는 모두가 죄인…‘그냥드림’ 전국 확대”",
@@ -5384,10 +5384,10 @@
       ]
     },
     "송지효": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-11T20:40:00+09:00",
-      "lastSeen": "2026-09-11T20:40:00+09:00",
+      "lastSeen": "2026-09-11T21:17:00+09:00",
       "news": [
         {
           "title": "송지효 \"오디션 볼 때 '너는 단점인 목소리 때문에 안 될 것'이란 말 들어\"",
@@ -5410,10 +5410,10 @@
       ]
     },
     "남편": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-11T20:40:00+09:00",
-      "lastSeen": "2026-09-11T20:40:00+09:00",
+      "lastSeen": "2026-09-11T21:17:00+09:00",
       "news": [
         {
           "title": "\"남편, 밤마다 몰래 통화\" 알고보니 '돌돌싱'...애까지 숨겼다 - 머니투데이",
@@ -5432,14 +5432,26 @@
           "url": "https://www.ytn.co.kr/_ln/0103_202609110015586170",
           "source": "YTN",
           "date": "2026-09-11"
+        },
+        {
+          "title": "한고은 \"촬영 중 남편이 아프다며 울면서 전화…3일 동안 병수발\"",
+          "url": "https://v.daum.net/v/20260911112253445",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "한고은, 남편 휠체어 타고 입원 \"집에 우환 겹쳤다\"",
+          "url": "https://www.newsis.com/view/NISX20260911_0003785320",
+          "source": "뉴시스",
+          "date": "2026-09-11"
         }
       ]
     },
     "서현숙": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-11T20:40:00+09:00",
-      "lastSeen": "2026-09-11T20:40:00+09:00",
+      "lastSeen": "2026-09-11T21:17:00+09:00",
       "news": [
         {
           "title": "[MD포토] 치어리더 서현숙, '하의실종 아찔'",
@@ -5457,6 +5469,162 @@
           "title": "[MD포토] '야구여왕' 장순영, '시구 마치고 환한 미소'",
           "url": "https://news.nate.com/view/20260910n36398",
           "source": "네이트",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "아나운서": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T21:17:00+09:00",
+      "lastSeen": "2026-09-11T21:17:00+09:00",
+      "news": [
+        {
+          "title": "전현무 소속사, 일본 아나운서 출신 아사코 영입",
+          "url": "https://v.daum.net/v/20260911112403512?f=p",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[공식] 이정진과 소개팅하더니…日 아나 아사코, 전현무 소속사 行",
+          "url": "https://news.nate.com/view/20260911n19121",
+          "source": "Nate News",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[공식] 日 아나 출신 아사코, 전현무와 한솥밥",
+          "url": "https://sports.khan.co.kr/article/202609111137003",
+          "source": "스포츠경향",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "임영웅": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-11T21:17:00+09:00",
+      "lastSeen": "2026-09-11T21:17:00+09:00",
+      "news": [
+        {
+          "title": "임영웅, 'AAA 2026 스타킹' 최정상 등극…3주 연속 1위→150점 만점으로 막강 화력",
+          "url": "https://v.daum.net/v/20260911152953944",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "임영웅, 'AAA 2026 스타킹' 만점 석권해 수상 확정 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/11/2026091115277243192",
+          "source": "머니투데이",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "임영웅 'AAA 2026' 인기상 男 솔로 사전투표 1위…히어로의 위엄",
+          "url": "https://news.nate.com/view/20260911n25344",
+          "source": "네이트",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "경기도": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-11T21:17:00+09:00",
+      "lastSeen": "2026-09-11T21:17:00+09:00",
+      "news": [
+        {
+          "title": "‘도비 30% 상한’ 후폭풍…시·군 반발 ‘경기도 무용론’까지",
+          "url": "https://www.kyeonggi.com/article/20260910580508",
+          "source": "경기일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "경기도의회 예결위, 도 추경 삭감 기준 재검증",
+          "url": "https://v.daum.net/v/20260911203832756",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "경기도, 도의회 상임위 증액안 난색…\"돈 끌어올데 없다\"",
+          "url": "https://www.newsis.com/view/NISX20260911_0003786022",
+          "source": "뉴시스",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "박위": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-11T21:17:00+09:00",
+      "lastSeen": "2026-09-11T21:17:00+09:00",
+      "news": [
+        {
+          "title": "'95만 붕괴' 박위, 356字 남기고 3주째 잠수…케냐 봉사도 '재조명' [Oh!쎈 이슈] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/11/G5SGGOJSG4YTAOBWMUYDCN3FMQ/",
+          "source": "Chosunbiz",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'100만 구독자' 반납한 박위, 빠질 구독자 다 빠졌나…95만 이후 '변동 無' [Oh!쎈 이슈]",
+          "url": "https://news.nate.com/view/20260910n10663",
+          "source": "네이트",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "나를 불편하게 하지 않는 장애인 [김예원의 다른 시선]",
+          "url": "https://www.newsnjoy.or.kr/news/articleView.html?idxno=400707",
+          "source": "뉴스앤조이",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "충돌": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-11T21:17:00+09:00",
+      "lastSeen": "2026-09-11T21:17:00+09:00",
+      "news": [
+        {
+          "title": "80대 운전자 충돌 사고뒤 100m 더 직진…주차차량 5대 ‘쾅’",
+          "url": "https://www.donga.com/news/Society/article/all/20260911/134650823/2",
+          "source": "동아일보",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "80대가 운전하던 승용차, 사고 후 직진…주차 차량 5대 파손",
+          "url": "https://v.daum.net/v/20260911140556499",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "목포서 승용차 충돌 후 주차장 돌진…차량 5대 잇달아 '쾅쾅' - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/11/2026091118543917156",
+          "source": "머니투데이",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "합동 교전 능력": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-11T21:17:00+09:00",
+      "lastSeen": "2026-09-11T21:17:00+09:00",
+      "news": [
+        {
+          "title": "美가 막은 CEC…‘한국판’ 만들어도 韓 이지스함엔 못 단다 [박수찬의 軍]",
+          "url": "https://v.daum.net/v/20260911094016453",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[단독] 美가 막�� 이지스함 '핵심'…2년 지나도 원격교전 제한",
+          "url": "https://news.nate.com/view/20260908n19630",
+          "source": "네이트",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "美 이지스 핵심 CEC 수출 거부 장기화 국산 대안에도 韓·美 체계 연동 불투명",
+          "url": "https://v.daum.net/v/bXj2cLKpAr?f=p",
+          "source": "Daum",
           "date": "2026-09-11"
         }
       ]
