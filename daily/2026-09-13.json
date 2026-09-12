@@ -472,10 +472,10 @@
       ]
     },
     "프리미어리그": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T02:38:00+09:00",
+      "lastSeen": "2026-09-13T03:14:00+09:00",
       "news": [
         {
           "title": "엔조 감독, 맨체스터 더비에 대해: \"이런 경기를 원합니다\"",
@@ -498,10 +498,10 @@
       ]
     },
     "블리치": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T02:38:00+09:00",
+      "lastSeen": "2026-09-13T03:14:00+09:00",
       "news": [
         {
           "title": "Bleach: Thousand-Year Blood War – The Calamity Episode 8: Release Date, Time, Where to Watch, and More",
@@ -562,10 +562,10 @@
       ]
     },
     "ngoại hạng anh": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T02:38:00+09:00",
+      "lastSeen": "2026-09-13T03:14:00+09:00",
       "news": [
         {
           "title": "Siêu máy tính Opta dự đoán Ngoại hạng Anh 12/9: Liverpool, Chelsea sáng cửa, đại chiến Villa - Forest dễ chia điểm",
@@ -626,10 +626,10 @@
       ]
     },
     "토트넘 대 에버턴": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T02:38:00+09:00",
+      "lastSeen": "2026-09-13T03:14:00+09:00",
       "news": [
         {
           "title": "“저는 믿습니다” 5500억 사용하고 ‘0승·0골·17위’ 진짜 승리가 필요한 시점에 토트넘 감독 “나는 선수들 능력에 확신이 있다”",
@@ -652,10 +652,10 @@
       ]
     },
     "pl": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T02:38:00+09:00",
+      "lastSeen": "2026-09-13T03:14:00+09:00",
       "news": [
         {
           "title": "Koniec z dominacją big techów w chmurze? KE ma plan, polska branża się spiera",
@@ -690,10 +690,10 @@
       ]
     },
     "이은결": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T02:38:00+09:00",
+      "lastSeen": "2026-09-13T03:14:00+09:00",
       "news": [
         {
           "title": "'870평 부지 소유' 이은결, 마술 공연 장비만 200억 이상 “2억짜리 기차도 한 번 써”",
@@ -712,14 +712,20 @@
           "url": "https://enter.etoday.co.kr/news/view/302336",
           "source": "비즈엔터",
           "date": "2026-09-12"
+        },
+        {
+          "title": "이은결, 2층 집에 유골함이? 마술 파트너 '가지' 무지개 다리 건넜다(전참시)",
+          "url": "https://news.nate.com/view/20260912n13835",
+          "source": "네이트",
+          "date": "2026-09-12"
         }
       ]
     },
     "epl": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T02:38:00+09:00",
+      "lastSeen": "2026-09-13T03:14:00+09:00",
       "news": [
         {
           "title": "Everton at Tottenham: Starting Lineups, TV and Live Streams, How to Watch Online",
@@ -780,10 +786,10 @@
       ]
     },
     "연애": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-13T02:11:00+09:00",
-      "lastSeen": "2026-09-13T02:38:00+09:00",
+      "lastSeen": "2026-09-13T03:14:00+09:00",
       "news": [
         {
           "title": "안은진, '임신' 의심에 \"안 한 지 6개월도 넘어\" 폭탄 발언..서강준 당황 [너 말고 다른 연애]",
@@ -801,6 +807,52 @@
           "title": "'너 말고 다른 연애' 10년 연애 서강준♥︎안은진, 첫방부터 '눈물' 위기 (방송 프리뷰)",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/12/MI4DMNJYMI4DMZJXG42DQYZUGM/",
           "source": "조선일보",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "twitch": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T03:14:00+09:00",
+      "lastSeen": "2026-09-13T03:14:00+09:00",
+      "news": [
+        {
+          "title": "Doja Cat Sparks Fan Concern After Slurring Words on Livestream: 'I'm So Tired of This, Man'",
+          "url": "https://www.complex.com/music/a/kris-seavers/doja-cat-slurring-twitch-stream",
+          "source": "Complex",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Twitch Plans To Shove More AI Down Creators’ Throats With Stream Coach Tool",
+          "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
+          "source": "Kotaku",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "도경완": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T03:14:00+09:00",
+      "lastSeen": "2026-09-13T03:14:00+09:00",
+      "news": [
+        {
+          "title": "도경완, 200만 원 대 텐트 구매했는데···장윤정 \"비닐하우스야?\"('도장TV')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/12/GQ2TIZLDMQ2DAM3DMMZGIN3CGM/",
+          "source": "조선일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "♥장윤정은 없었다…도경완 \"아이 둘 데리고 혼자 다녀\" ('도장TV')",
+          "url": "https://v.daum.net/v/20260912213548627",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "♥장윤정 따라잡으려다…도경완, 주식에 물렸다 \"많이 속상하지만 버틸 것\"(도장TV)",
+          "url": "https://news.nate.com/view/20260905n11548",
+          "source": "네이트",
           "date": "2026-09-12"
         }
       ]
