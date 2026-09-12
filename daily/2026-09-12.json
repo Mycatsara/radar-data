@@ -2097,10 +2097,10 @@
       ]
     },
     "도루": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T09:44:00+09:00",
-      "lastSeen": "2026-09-12T10:40:00+09:00",
+      "lastSeen": "2026-09-12T11:13:00+09:00",
       "news": [
         {
           "title": "듬성듬성 잔여일정에 선발진 숨 고르기…키움 마운드 '탄력 운용'",
@@ -2225,10 +2225,10 @@
       ]
     },
     "김호령": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-12T10:11:00+09:00",
-      "lastSeen": "2026-09-12T10:40:00+09:00",
+      "lastSeen": "2026-09-12T11:13:00+09:00",
       "news": [
         {
           "title": "'대박 FA' 노린 KIA 김호령, 타격 급제동…11년만 기적 앞두고 '흔들'",
@@ -2253,14 +2253,20 @@
           "url": "https://sports.news.nate.com/view/20260905n09953",
           "source": "네이트",
           "date": "2026-09-12"
+        },
+        {
+          "title": "“(김)호령 선배님 FA 계약으로 (KIA에)남으면 좋겠다” 박재현 진심…KIA 차세대 중견수? 아직은 배움의 시간[MD광주]",
+          "url": "https://v.daum.net/v/20260912041741080",
+          "source": "Daum",
+          "date": "2026-09-12"
         }
       ]
     },
     "벤 셸턴": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T10:11:00+09:00",
-      "lastSeen": "2026-09-12T10:40:00+09:00",
+      "lastSeen": "2026-09-12T11:13:00+09:00",
       "news": [
         {
           "title": "'무려 4시간 28분' 구토할 만했네! 경기 끝나니 '새벽 3시' 넘었다...세계 3위 알카라스, US오픈 2연패 무산 \"행복하게 떠난다\"",
@@ -2283,10 +2289,10 @@
       ]
     },
     "db하이텍": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T10:40:00+09:00",
-      "lastSeen": "2026-09-12T10:40:00+09:00",
+      "lastSeen": "2026-09-12T11:13:00+09:00",
       "news": [
         {
           "title": "DB하이텍, 8인치 차세대 전력반도체 공정 검증...내년 양산",
@@ -2309,10 +2315,10 @@
       ]
     },
     "전원주": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-12T10:40:00+09:00",
-      "lastSeen": "2026-09-12T10:40:00+09:00",
+      "lastSeen": "2026-09-12T11:13:00+09:00",
       "news": [
         {
           "title": "전원주, 유튜브 중단 이유 밝혔다…\"출연료 올리겠다 하니 그만두자고\"",
@@ -2331,14 +2337,20 @@
           "url": "https://www.sportschosun.com/entertainment/2026-09-12/202609110100080510005224",
           "source": "스포츠조선",
           "date": "2026-09-12"
+        },
+        {
+          "title": "전원주, 유튜브 중단 이유 건강 아닌 돈?…\"좀 올리려 했더니\"",
+          "url": "https://www.hankyung.com/article/2026091201747",
+          "source": "한국경제",
+          "date": "2026-09-12"
         }
       ]
     },
     "메이플 블루 아카이브": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T10:40:00+09:00",
-      "lastSeen": "2026-09-12T10:40:00+09:00",
+      "lastSeen": "2026-09-12T11:13:00+09:00",
       "news": [
         {
           "title": "[게임스냅] 넥슨, '메이플스토리 이스케이프' 방탈출 카페 오픈",
@@ -2356,6 +2368,110 @@
           "title": "[게임스테이션] '메이플 이스케이프' 21일 오픈·네오플 '일자리 으뜸기업'·릴 웨인 '포나 합류'·엔씨-삼전 'TGS서 협업'·'배그' 업뎃",
           "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=853414",
           "source": "뉴스웍스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "nep vs uae": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T11:13:00+09:00",
+      "lastSeen": "2026-09-12T11:13:00+09:00",
+      "news": [
+        {
+          "title": "Nepal to face UAE in ACC Men’s Premier Cup final for Asia Cup qualification",
+          "url": "https://radionepalonline.com/en/2026/09/10/435749.html",
+          "source": "radionepalonline.com",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Nepal Reach ACC Premier Cup Final After Defeating Oman",
+          "url": "https://ekantipur.com/sports/2026/09/10/en/nepal-defeats-oman-to-reach-acc-premier-cup-final-34-05.html",
+          "source": "Ekantipur",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "ACC Premier Cup: Nepal take on Oman today in decisive semifinal",
+          "url": "https://myrepublica.nagariknetwork.com/news/acc-premier-cup-nepal-take-on-oman-today-in-decisive-semifinal-79-13.html",
+          "source": "myRepublica",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "나이키": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T11:13:00+09:00",
+      "lastSeen": "2026-09-12T11:13:00+09:00",
+      "news": [
+        {
+          "title": "\"그 돈 주고 누가 신어요\"…'50만원→9만원' 나이키의 굴욕",
+          "url": "https://www.hankyung.com/article/2026091196731",
+          "source": "한국경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "18년 만에 S&P100 밀려난 나이키…美 증시 '간판주' 교체 가속",
+          "url": "https://v.daum.net/v/20260912090006774",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "“나이키 말고 호카 주세요”···왕좌 뺏긴 굴욕의 나이키, 옛 영광 고집하다 놓친 것들 [이윤정 기자의 소소월드]",
+          "url": "https://www.khan.co.kr/article/202609081023001",
+          "source": "경향신문",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "요즘 남자 라이프 - 신랑수업": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T11:13:00+09:00",
+      "lastSeen": "2026-09-12T11:13:00+09:00",
+      "news": [
+        {
+          "title": "전현무 소속사, 일본 아나운서 출신 아사코 영입",
+          "url": "https://v.daum.net/v/20260911112403512",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[공식] 이정진과 소개팅하더니…日 아나 아사코, 전현무 소속사 行",
+          "url": "https://news.nate.com/view/20260911n19121",
+          "source": "Nate News",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[공식] 日 아나 출신 아사코, 전현무와 한솥밥",
+          "url": "https://sports.khan.co.kr/article/202609111137003",
+          "source": "스포츠경향",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "허수봉": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T11:13:00+09:00",
+      "lastSeen": "2026-09-12T11:13:00+09:00",
+      "news": [
+        {
+          "title": "“한국, 대체 어떤 팀이야?” 결승 길목서 만난 日 초긴장…‘득점 2위’ 허수봉에 ‘수호신’ 박경민까지",
+          "url": "https://v.daum.net/v/20260912023112956",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "日열도 충격! “한국은 이기면 선수를 밟는다”…중국 꺾고 4강 진출! 韓배구 기세등등, 숙적 일본 사냥도 문제없다",
+          "url": "https://www.osen.co.kr/article/G1112874204",
+          "source": "OSEN",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "한국 남자배구, 아시아선수권 4강서 운명의 '한일전'",
+          "url": "https://www.yna.co.kr/view/AKR20260911165200007",
+          "source": "연합뉴스",
           "date": "2026-09-12"
         }
       ]
