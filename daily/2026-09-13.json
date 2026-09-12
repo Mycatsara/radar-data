@@ -318,10 +318,10 @@
       ]
     },
     "리버풀": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-13T00:39:00+09:00",
-      "lastSeen": "2026-09-13T01:13:00+09:00",
+      "lastSeen": "2026-09-13T01:39:00+09:00",
       "news": [
         {
           "title": "\"이강인 아직 60분 이상 못 뛴다\"...마르카의 냉정한 평가, 아틀레티코도 2연패·4경기 8실점 - 머니투데이",
@@ -460,10 +460,10 @@
       ]
     },
     "프리미어리그": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T01:13:00+09:00",
+      "lastSeen": "2026-09-13T01:39:00+09:00",
       "news": [
         {
           "title": "엔조 감독, 맨체스터 더비에 대해: \"이런 경기를 원합니다\"",
@@ -486,10 +486,10 @@
       ]
     },
     "블리치": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T01:13:00+09:00",
+      "lastSeen": "2026-09-13T01:39:00+09:00",
       "news": [
         {
           "title": "Bleach: Thousand-Year Blood War – The Calamity Episode 8: Release Date, Time, Where to Watch, and More",
@@ -512,10 +512,10 @@
       ]
     },
     "광명시의회": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T01:13:00+09:00",
+      "lastSeen": "2026-09-13T01:39:00+09:00",
       "news": [
         {
           "title": "회기 중 女와 호텔 간 광명시의원 “사생활 있는 것 아니냐”…항변에도 결국 징계 절차",
@@ -534,14 +534,20 @@
           "url": "https://www.kyeonggi.com/article/20260911580233",
           "source": "경기일보",
           "date": "2026-09-12"
+        },
+        {
+          "title": "회기 중 여성과 호텔로…시의원 \"사생활 있는 것 아니냐\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008749837",
+          "source": "SBS 뉴스",
+          "date": "2026-09-12"
         }
       ]
     },
     "ngoại hạng anh": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T01:13:00+09:00",
+      "lastSeen": "2026-09-13T01:39:00+09:00",
       "news": [
         {
           "title": "Siêu máy tính Opta dự đoán Ngoại hạng Anh 12/9: Liverpool, Chelsea sáng cửa, đại chiến Villa - Forest dễ chia điểm",
@@ -559,6 +565,12 @@
           "title": "Gặp đội bóng toàn thua, HLV Liverpool chỉ ra một sự thật bất ngờ",
           "url": "https://thethao247.vn/503-gap-doi-bong-toan-thua-hlv-liverpool-chi-ra-mot-su-that-bat-ngo-c8-d435866.html",
           "source": "Thể Thao 247",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Kết quả bóng đá Premier League: Chelsea và Liverpool cùng hòa",
+          "url": "https://thethaovanhoa.vn/ket-qua-bong-da-premier-league-chelsea-va-liverpool-cung-hoa-20260911203148786.htm",
+          "source": "thethaovanhoa.vn",
           "date": "2026-09-12"
         }
       ]
@@ -585,6 +597,136 @@
           "title": "David Moyes confirms Jack Grealish news ahead of Tottenham Hotspur clash",
           "url": "https://sports.yahoo.com/articles/david-moyes-confirms-jack-grealish-102000557.html",
           "source": "Yahoo Sports",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "토트넘 대 에버턴": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-13T01:39:00+09:00",
+      "lastSeen": "2026-09-13T01:39:00+09:00",
+      "news": [
+        {
+          "title": "“저는 믿습니다” 5500억 사용하고 ‘0승·0골·17위’ 진짜 승리가 필요한 시점에 토트넘 감독 “나는 선수들 능력에 확신이 있다”",
+          "url": "https://v.daum.net/v/20260912111240478",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "손흥민 있을 때 이렇게 하지! 토트넘, 연봉 상한선 허물었다…\"선수들 끌어오기 위해서\"",
+          "url": "https://sports.news.nate.com/view/20260912n05238",
+          "source": "네이트",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "손흥민 그리울 토트넘…7300억원 쓰고 EPL 개막 3경기 무득점",
+          "url": "https://www.newsis.com/view/NISX20260907_0003778550",
+          "source": "뉴시스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "pl": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T01:39:00+09:00",
+      "lastSeen": "2026-09-13T01:39:00+09:00",
+      "news": [
+        {
+          "title": "Koniec z dominacją big techów w chmurze? KE ma plan, polska branża się spiera",
+          "url": "https://www.wnp.pl/tech/koniec-z-dominacja-big-techow-w-chmurze-ke-ma-plan-polska-branza-sie-spiera,1097244.html",
+          "source": "wnp.pl",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Rządy na całym świecie zaczynają obawiać się o „suwerenność cyfrową”, ponieważ sztuczna inteligencja staje się zależna od wielkich firm technologicznych.",
+          "url": "https://www.vietnam.vn/pl/chinh-phu-cac-nuoc-bat-dau-lo-chu-quyen-so-khi-ai-phu-thuoc-big-tech",
+          "source": "Vietnam.vn",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Suwerenność po hasłach: dlaczego to, czyj jest sprzęt, decyduje o wszystkim",
+          "url": "https://crn.pl/artykuly/suwerennosc-po-haslach-dlaczego-to-czyj-jest-sprzet-decyduje-o-wszystkim/",
+          "source": "CRN Polska",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "이은결": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T01:39:00+09:00",
+      "lastSeen": "2026-09-13T01:39:00+09:00",
+      "news": [
+        {
+          "title": "'870평 부지 소유' 이은결, 마술 공연 장비만 200억 이상 “2억짜리 기차도 한 번 써”",
+          "url": "https://v.daum.net/v/20260913005349234",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "이은결, 데뷔 30년차인데 “무대공포증 극복해 본 적 없다” (전참시) - 스타투데이",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12151086",
+          "source": "매일경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'전참시' 이은결 30주년 마술쇼 공연 공개",
+          "url": "https://enter.etoday.co.kr/news/view/302336",
+          "source": "비즈엔터",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "epl": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T01:39:00+09:00",
+      "lastSeen": "2026-09-13T01:39:00+09:00",
+      "news": [
+        {
+          "title": "Everton at Tottenham: Starting Lineups, TV and Live Streams, How to Watch Online",
+          "url": "https://royalbluemersey.sbnation.com/everton-gamethread-live-blog/83221/tottenham-everton-starting-lineups-tv-and-live-streams-how-to-watch-online",
+          "source": "Royal Blue Mersey",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Spurs v Everton team news: Porro + Udogie out, Grealish still a sub",
+          "url": "https://www.fantasyfootballscout.co.uk/2026/09/12/spurs-v-everton-team-news-porro-udogie-out-grealish-still-a-sub/",
+          "source": "Fantasy Football Scout",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Spurs vs Everton betting offers & tips, including £300+ in free bets",
+          "url": "https://mybettingsites.co.uk/news/tottenham-vs-everton-betting-offers-tips-including-375-in-free-bets-12-sep/",
+          "source": "MyBettingSites.Co.UK",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "분데스리가": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-13T01:39:00+09:00",
+      "lastSeen": "2026-09-13T01:39:00+09:00",
+      "news": [
+        {
+          "title": "황희찬, 독일 데뷔전서 ‘택배 크로스’로 첫 도움…샬케 시즌 첫 승리",
+          "url": "https://www.khan.co.kr/article/202609120931001",
+          "source": "경향신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "독일에서 새 출발‥'데뷔전부터 어시스트'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851408_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "샬케 황희찬, 데뷔전서 첫 도움…베를린 정우영과 코리안더비 승리",
+          "url": "https://www.newsis.com/view/NISX20260912_0003786671",
+          "source": "뉴시스",
           "date": "2026-09-12"
         }
       ]
@@ -1175,6 +1317,24 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tcnJGY05UcXR0ZldQSVdyYVhyd0dUZHJvZXppd3lqeGIzcFd0WkM4cy0xQ2x4bndVUzZFWnViRTZaWks2bzFPYVVxSXhxekk?oc=5",
         "source": "v.daum.net",
         "date": "2026-09-12"
+      },
+      {
+        "title": "아이폰 듀오가 깨운 '경박단소' 기술…한국·일본 부품사 폴더블 특수",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yWkwwZTU0b0dPSHhuVFlRY0tjM0kteEVkTUYyN2V0cUxVWVVweTdQQi1xdXQtSjBzVU13cnFIQWFvTXJkWjJESm9OVkJLbU5LdEMw?oc=5",
+        "source": "네이트",
+        "date": "2026-09-11"
+      },
+      {
+        "title": "녹슨 제지공장이 AI 팩토리로…핀란드가 ‘유럽의 텍사스’가 된 이유[딥다이브]",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rZmo1X2VobkMyVERVVU92bDdLTUFIajZRd3JmM2Rqc3NxUjVLa0hUT3BZandGRzlLelJtNWw5TFV6bTVyTV9rR05HNU5JWTROOWV0OGF0Q01vZm0yQzBRakVoN09CTUdRV3h6YS1qRnpSVWxaOHfSAWZBVV95cUxOWnhZMGo1N3U3eVFiNjNtS0NhdE9BZW9SYVg0UDhnYk53S2NCVVljOGJrWkk2dm1hWnFmTHZFVHVzRVZKT0tEQjZVSEhQZXlhVnZ6Q0NMYmhBNm1qcFJ6Y04tdnhYanc?oc=5",
+        "source": "동아일보",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "빅쇼트 ’마이클 버리’ 백기? 엔비디아·팔란티어 공매도 축소 By The Guru",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uVW1OTzhKRmU3eHFTUmlCS1JQT2k1TE5vMTRVRjR4Uk14QU81ODBzQ1QzVDAxdW9nME0tQ0xqVVcxU3JHUTE5WGlfSTZrOHNiUGQzR3lydnNtelBUcWJzeU9JNjh2SG56eC14S2VPdEQ?oc=5",
+        "source": "Investing.com 한국어",
+        "date": "2026-09-11"
       }
     ],
     "ENTERTAINMENT": [
@@ -1749,6 +1909,36 @@
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DdmRPOW0zQk03WlM3N20tR0oxRDF1Q3NIU0tBWHpmWHhwZTJwYTlPRkM5bU5kRXJ2dENFOThBRUV0eHZseEFRM1dVVjVVeDRKZEJGV1d3QndhZGZWOVY5OUN4cU9ubEdSdVF0S2FR?oc=5",
         "source": "스포츠동아",
         "date": "2026-09-10"
+      },
+      {
+        "title": "1회부터 흔들린 대니엘에 마운드를 방문한 이강철 감독, 이후 확 바뀐 대니엘···개인 최다 9K ‘팀 5연승 견...",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kZDFlWHo0WjY2Um1STnRZZjNPbXZLaC1UZVJQbDdPRXpYWnFpa0syN0tNSUNlLUV3U0dTUy1PQnlUOW5PRWs2TW5ScVZRN1ZVNUJEUXBsTElEeUlCbXfSAWNBVV95cUxOc3lyVWRZV3lmYW1RcjNrMkF3VFlsaDdxNUhNTkl2RHY0cW1idzNHRUZsMW9XTF9lWDNQYWxyQ0VGZElrZW9RZV9feDc3Rno5SXRfWFdUSTlZWlBmbFBZbHo4bDQ?oc=5",
+        "source": "스포츠경향",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "'수술' 김도영 회복력 미쳤다! 광주 훈련 성공적→감독 오피셜 발표 \"통증 전혀 없어, 수비만 조심하면 문제없을 듯\" [오!쎈 수원]",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQci14emhYVkU3Z1ZpV2FHYXpzR2JMc2d4TEI1RGlRc0k2M3RBSjdTaUNJZHVmbkRmZlpEby1penZQazJkUXRpUWNCZzFKV0NiNktCQlVkT1M4U3ZISERvRDNlX2VyWjdJdndDR3A5eUNSUE1zbmV1ZWVRYTRqWFVsNld2VQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "남자배구, 일본에 완패…아시아선수권 결승 진출 좌절",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FOFlaU1M3WjdVV2U0SlkwSUhwR3QyemsyeVM5NDVmUDJXcG81ZGNPMUVuSFZtT3hDVFlaVmtNTktiM0tCczZ2bE5oX2ZqYkNEanc2Wk5BSWFiUW1wbmcxZFNDSXhLejhFT1E?oc=5",
+        "source": "news.sbs.co.kr",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "LG 오스틴 연타석 대포에 3타점 맹타…선두 kt는 5연승 신바람",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBeWdqYjZPMHp5WkdrZFAtWlNPRmQ3aWIwT0NlRW1OSnN1MG05LXVRZ1R6VFlJWEczVjRkTHZtZ29QUWd5OUVZejlVUUxqOVpGRUxoVXdBbnFxWG8?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "이정후, 상대 수비진의 잇단 호수비에 발목 잡혀 끝내 4타수 무안타 침묵",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pWG1KVTNyUDdvZlpqaE01SGJ3czhTcW1nRFlHTmNQU2Q5NEYyLUU5UHVxd2JPcXl0dnd6N3BZZnh2VVpTcmRtcmJBR19JN1FsVnhlNTdQSl9SN0wzNGdlZGM2QzlGVmFrLW5WVE16ZnBaN3cwbTc3OG9vWdIBf0FVX3lxTE5lQVZhY0I5ak1neEQxSVhiQzBpSFByY1ZqbzZ3R0RRQ0djT3FROGV0VW9ETHFoeDFrSHF2OUdjYk9Dd0xZU1JNLU1iNjBEc0E5WkhPc3JkcGJsOVcxSnZvV0xmMHlzY2xNblkwdEg5QmhvbEZJdnQyTmtGM2d2N1U?oc=5",
+        "source": "dailysportshankook.co.kr",
+        "date": "2026-09-12"
       }
     ]
   }
