@@ -1981,10 +1981,10 @@
       ]
     },
     "통장": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T09:18:00+09:00",
-      "lastSeen": "2026-09-12T10:11:00+09:00",
+      "lastSeen": "2026-09-12T10:40:00+09:00",
       "news": [
         {
           "title": "파킹통장 추천 고르는 기준…금리 말고 무엇을 봐야 하나",
@@ -2097,10 +2097,10 @@
       ]
     },
     "도루": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-12T09:44:00+09:00",
-      "lastSeen": "2026-09-12T10:11:00+09:00",
+      "lastSeen": "2026-09-12T10:40:00+09:00",
       "news": [
         {
           "title": "듬성듬성 잔여일정에 선발진 숨 고르기…키움 마운드 '탄력 운용'",
@@ -2135,10 +2135,10 @@
       ]
     },
     "아스트리드 공주": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T09:44:00+09:00",
-      "lastSeen": "2026-09-12T10:11:00+09:00",
+      "lastSeen": "2026-09-12T10:40:00+09:00",
       "news": [
         {
           "title": "노르웨이 왕실 또 부고…아스트리드 공주 94세로 별세",
@@ -2161,10 +2161,10 @@
       ]
     },
     "天気": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T09:44:00+09:00",
-      "lastSeen": "2026-09-12T10:11:00+09:00",
+      "lastSeen": "2026-09-12T10:40:00+09:00",
       "news": [
         {
           "title": "雨が続きそう 関東などでは気温が低くなった | NHKやさしいことばニュース",
@@ -2183,14 +2183,26 @@
           "url": "https://weathernews.jp/news/202609/120051/",
           "source": "ウェザーニュース",
           "date": "2026-09-11"
+        },
+        {
+          "title": "13日の天気（東日本）",
+          "url": "https://www.shinmai.co.jp/news/article/gfkn2026091202000011",
+          "source": "信濃毎日新聞デジタル",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "NY株式 11日終値",
+          "url": "https://www.shinmai.co.jp/news/article/gfkn2026091202000008",
+          "source": "信濃毎日新聞デジタル",
+          "date": "2026-09-11"
         }
       ]
     },
     "박명수": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-12T09:44:00+09:00",
-      "lastSeen": "2026-09-12T10:11:00+09:00",
+      "lastSeen": "2026-09-12T10:40:00+09:00",
       "news": [
         {
           "title": "박명수, 생활고 제작진에 용돈 \"어른으로서 통크게 쏴\"",
@@ -2213,10 +2225,10 @@
       ]
     },
     "김호령": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-12T10:11:00+09:00",
-      "lastSeen": "2026-09-12T10:11:00+09:00",
+      "lastSeen": "2026-09-12T10:40:00+09:00",
       "news": [
         {
           "title": "'대박 FA' 노린 KIA 김호령, 타격 급제동…11년만 기적 앞두고 '흔들'",
@@ -2235,14 +2247,20 @@
           "url": "https://www.osen.co.kr/article/G1112873414",
           "source": "OSEN",
           "date": "2026-09-12"
+        },
+        {
+          "title": "처음 보는 진풍경, 챔피언스필드에 난입한 새 한 마리…나성범도, 김현수도, 로건도 못 쫓아냈다[스경x현장]",
+          "url": "https://sports.news.nate.com/view/20260905n09953",
+          "source": "네이트",
+          "date": "2026-09-12"
         }
       ]
     },
     "벤 셸턴": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-12T10:11:00+09:00",
-      "lastSeen": "2026-09-12T10:11:00+09:00",
+      "lastSeen": "2026-09-12T10:40:00+09:00",
       "news": [
         {
           "title": "'무려 4시간 28분' 구토할 만했네! 경기 끝나니 '새벽 3시' 넘었다...세계 3위 알카라스, US오픈 2연패 무산 \"행복하게 떠난다\"",
@@ -2260,6 +2278,84 @@
           "title": "[��늘의영상] \"나 안아\"…대역전패 뒤 승자 품에서 폭풍 눈물",
           "url": "https://www.yonhapnewstv.co.kr/news/MYH20260909233050Fft",
           "source": "연합뉴스TV",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "db하이텍": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T10:40:00+09:00",
+      "lastSeen": "2026-09-12T10:40:00+09:00",
+      "news": [
+        {
+          "title": "DB하이텍, 8인치 차세대 전력반도체 공정 검증...내년 양산",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202609101102467165",
+          "source": "YTN 사이언스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "DB하이텍, 8인치 SiC 파운드리 양산 눈앞",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=62029",
+          "source": "디일렉",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"중국 AI·로봇 시장 수혜주\" DB하이텍, 목표가 20만↑-KB",
+          "url": "https://news.nate.com/view/20260908n06297",
+          "source": "네이트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "전원주": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-12T10:40:00+09:00",
+      "lastSeen": "2026-09-12T10:40:00+09:00",
+      "news": [
+        {
+          "title": "전원주, 유튜브 중단 이유 밝혔다…\"출연료 올리겠다 하니 그만두자고\"",
+          "url": "https://v.daum.net/v/20260912100451651",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "전원주 “다 고쳐서 다시 나타나겠다”…무대 섰는데 두 달째 새 영상은 아직",
+          "url": "https://www.mk.co.kr/news/entertain/12150047",
+          "source": "매일경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "전원주, 유튜브 중단 이유 고백 \"출연료 올리려 했더니 그만둔다고\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-12/202609110100080510005224",
+          "source": "스포츠조선",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "메이플 블루 아카이브": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T10:40:00+09:00",
+      "lastSeen": "2026-09-12T10:40:00+09:00",
+      "news": [
+        {
+          "title": "[게임스냅] 넥슨, '메이플스토리 이스케이프' 방탈출 카페 오픈",
+          "url": "https://www.yna.co.kr/view/AKR20260911135600017",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "넥슨, '메이플스토리 이스케이프' 홍대 방탈출 카페 마련",
+          "url": "https://zdnet.co.kr/view/?no=20260911161303",
+          "source": "지디넷코리아",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[게임스테이션] '메이플 이스케이프' 21일 오픈·네오플 '일자리 으뜸기업'·릴 웨인 '포나 합류'·엔씨-삼전 'TGS서 협업'·'배그' 업뎃",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=853414",
+          "source": "뉴스웍스",
           "date": "2026-09-12"
         }
       ]
