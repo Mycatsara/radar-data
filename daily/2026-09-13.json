@@ -1713,10 +1713,10 @@
       ]
     },
     "xrp 레저": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-13T07:12:00+09:00",
-      "lastSeen": "2026-09-13T07:12:00+09:00",
+      "lastSeen": "2026-09-13T07:41:00+09:00",
       "news": [
         {
           "title": "전 리플 CTO \"XRP가 비트코인 시총 추월 가능\"...역전 시나리오는?",
@@ -1968,6 +1968,240 @@
           "title": "A commanding win with a brace from Mbappé",
           "url": "https://www.realmadrid.com/en-US/news/football/first-team/reports/cronica-real-madrid-rayo-vallecano-12-09-2026",
           "source": "Real Madrid CF | Web Oficial",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "송혜교": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T07:41:00+09:00",
+      "lastSeen": "2026-09-13T07:41:00+09:00",
+      "news": [
+        {
+          "title": "송혜교, 길에서 책 봤을 뿐인데..화보 그 자체 “영화 한 편 뚝딱 분위기”",
+          "url": "https://v.daum.net/v/20260912204946014",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "송혜교, 파리서 남자 지인과 데이트…어깨에 살포시",
+          "url": "https://www.newsis.com/view/NISX20260910_0003784491",
+          "source": "뉴시스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "송혜교, UAA 떠난 후 물오른 여신 비주얼..원조 단발병 유발자의 위엄",
+          "url": "https://www.starnewskorea.com/star/2026/09/12/2026091211400887086",
+          "source": "스타뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "이강인": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-13T07:41:00+09:00",
+      "lastSeen": "2026-09-13T07:41:00+09:00",
+      "news": [
+        {
+          "title": "'이강인과 훈련 후 달라졌다'…이적 요청 논란 후 첫 선발 출전 '팀이 정상화되고 있다'",
+          "url": "https://v.daum.net/v/20260912192850018",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"이강인 아직 60분 이상 못 뛴다\"...마르카의 냉정한 평가, 아틀레티코도 2연패·4경기 8실점 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/12/202609122118772666O",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'이강인��� 최악의 선수 중 한 명이었다'…리버풀 거친 파울 비난에 반박 '심판 판정, 우리가 더 불만'",
+          "url": "https://sports.news.nate.com/view/20260912n00793",
+          "source": "네이트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "북한이탈주민": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T07:41:00+09:00",
+      "lastSeen": "2026-09-13T07:41:00+09:00",
+      "news": [
+        {
+          "title": "\"혹시 요즘\" 의문의 썩은내…'신변보호' 여성 숨져 있었다",
+          "url": "https://v.daum.net/v/20260911201200410",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"탈북 여성, 7월 마지막 대면\"...관리 허점 없었나",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609112152184419",
+          "source": "YTN",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "파주 ���북여성 시신 발견…신변보호 경찰, 한 달동안 연락 않아",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661299",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "회사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T07:41:00+09:00",
+      "lastSeen": "2026-09-13T07:41:00+09:00",
+      "news": [
+        {
+          "title": "\"장부 안 봅니다\"…30분 만에 '망할 회사' 걸러내는 고수의 눈 [권용훈의 직업불만족(族)]",
+          "url": "https://www.hankyung.com/article/202608314864i",
+          "source": "한국경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "이사 보수, 절차만큼 적정성에도 주목할 때 [디엘지 기업법무 핵심노트]",
+          "url": "https://www.hankyung.com/article/202609080821i",
+          "source": "한국경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "보수 한도 부결됐는데…코메론, 임원 보수 지급 논란",
+          "url": "https://www.sentv.co.kr/article/view/sentv202609070133",
+          "source": "서울경제TV",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "맨체스터 유나이티드 fc": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T07:41:00+09:00",
+      "lastSeen": "2026-09-13T07:41:00+09:00",
+      "news": [
+        {
+          "title": "이럴 수가! 맨유 비상 걸렸다…브루노 페르난데스 '리스크' 발생, 맨시티와 '더비' 앞두고 다리 절뚝→부상 우려",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/11/GQ4WINRRMI3TKNDDGVSGIOBZMU/",
+          "source": "조선일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "왜 우리 선수 안 써? ‘슬로베니아 언론의 맹비판 통했나?’ 드디어 맨유 선발로 나온 세슈코, 쐐기골로 캐릭 감독 마음 잡았다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/11/202609110829778559O",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "맨체스터 유나이티드 '충격' 반전! 돌아온 '탕아' 1036일 만에 UCL 명단 포함, 약 3년 만에 '복귀전' 임박…사바하전 '반등' 노린다",
+          "url": "https://sports.news.nate.com/view/20260910n36135",
+          "source": "네이트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "에너지": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T07:41:00+09:00",
+      "lastSeen": "2026-09-13T07:41:00+09:00",
+      "news": [
+        {
+          "title": "창원 도심서 기후정의행진…\"재생에너지 전환 서둘러야\"",
+          "url": "https://v.daum.net/v/20260912154652158",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "“땅·물 내주고 송전탑만 떠 안나”…‘9·19 기후정의행진’ 전북참가단 출범",
+          "url": "https://www.hani.co.kr/arti/area/honam/1277355.html",
+          "source": "한겨레",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "창원 도심서 기후정의행진…\"재생에너지 전환 서둘러야\"",
+          "url": "https://www.yna.co.kr/view/AKR20260911127000052",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "고우석": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T07:41:00+09:00",
+      "lastSeen": "2026-09-13T07:41:00+09:00",
+      "news": [
+        {
+          "title": "와! '무려 1141일 만의 승리' 고우석은 반성부터 했다 \"직전 경기서 준비 덜 된 모습 보였는데, 어려운 경기 잡아 다행\"",
+          "url": "https://v.daum.net/v/20260913051607396",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "3년 만에 복귀→첫 멀티 이닝→구원승→4연패 탈출, 고우석 동료 실책도 감싸다 \"바운드가 튀어서 어려운 타구였다\" - 머니투���이",
+          "url": "https://www.mt.co.kr/sports/2026/09/12/202609122053770619O",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "복귀 후 세번째 경기에서 삼성잡고 첫 승 올린 LG 고우석 \"어려운 경기 잡아 다행…컨디션이 정상 궤도로 올라가고 있다\"[스경X현장]",
+          "url": "https://sports.news.nate.com/view/20260912n12322",
+          "source": "네이트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "реал мадрид – райо вальекано": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T07:41:00+09:00",
+      "lastSeen": "2026-09-13T07:41:00+09:00",
+      "news": [
+        {
+          "title": "«Реал» разгромил «Райо Вальекано» в матче Ла Лиги, у Мбаппе — дубль и ассист",
+          "url": "https://www.championat.ru/football/news-6618330-real-madrid-rajo-valekano-rezultat-matcha-12-sentyabrya-2026-schet-4-1-5-j-tur-la-ligi-2026-2027.html",
+          "source": "https://www.championat.ru/",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Ла Лига. Реал крупно обыграл Райо Вальекано и продолжил погоню за Барселоной",
+          "url": "https://www.ua-football.com/foreign/spain/1789245466-la-liga-real-krupno-obygral-rayo-valekano-i-prodolzhil-pogonyu-za-barselonoy.html",
+          "source": "UA-Football",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Моуринью объяснил замену Вальверде в перерыве",
+          "url": "https://www.euro-football.ru/article/35/1006309705_mourinyu_obyyasnil_zamenu_valverde_v_pereryive",
+          "source": "Евро-Футбол",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "동아일보": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T07:41:00+09:00",
+      "lastSeen": "2026-09-13T07:41:00+09:00",
+      "news": [
+        {
+          "title": "“배송기사 의심했는데”…새벽마다 사라진 계란, 범인은",
+          "url": "https://www.donga.com/news/Society/article/all/20260912/134655365/2",
+          "source": "동아일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"배달 기사 의심했는데\"…새벽마다 사라진 계란, 범인은 할머니였다[영상]",
+          "url": "https://www.news1.kr/society/general-society/6287276",
+          "source": "뉴스1",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"나이가 면죄부가 될 수는 없다\"…CCTV 속 노인의 모습에 경악한 이유",
+          "url": "https://view.asiae.co.kr/article/2026091216093633379",
+          "source": "아시아경제",
           "date": "2026-09-12"
         }
       ]
