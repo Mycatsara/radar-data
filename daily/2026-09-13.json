@@ -1973,10 +1973,10 @@
       ]
     },
     "송혜교": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-13T07:41:00+09:00",
-      "lastSeen": "2026-09-13T07:41:00+09:00",
+      "lastSeen": "2026-09-13T08:12:00+09:00",
       "news": [
         {
           "title": "송혜교, 길에서 책 봤을 뿐인데..화보 그 자체 “영화 한 편 뚝딱 분위기”",
@@ -2025,10 +2025,10 @@
       ]
     },
     "북한이탈주민": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T07:41:00+09:00",
-      "lastSeen": "2026-09-13T07:41:00+09:00",
+      "lastSeen": "2026-09-13T08:12:00+09:00",
       "news": [
         {
           "title": "\"혹시 요즘\" 의문의 썩은내…'신변보호' 여성 숨져 있었다",
@@ -2202,6 +2202,214 @@
           "title": "\"나이가 면죄부가 될 수는 없다\"…CCTV 속 노인의 모습에 경악한 이유",
           "url": "https://view.asiae.co.kr/article/2026091216093633379",
           "source": "아시아경제",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "잔": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T08:12:00+09:00",
+      "lastSeen": "2026-09-13T08:12:00+09:00",
+      "news": [
+        {
+          "title": "뜨거운 커피·차 즐긴 사람 식도암 위험 높았다",
+          "url": "https://v.daum.net/v/20260911142947380",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "“후후 안 불고 꿀꺽 하다가”…음료 ‘이렇게’ 마시면 식도암 위험 3배 ‘비상’",
+          "url": "https://www.seoul.co.kr/news/life/health-news/2026/09/12/20260912500021",
+          "source": "서울신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "더워 죽어도 '뜨아'? 당신의 00가 죽어갑니다",
+          "url": "https://view.asiae.co.kr/visual-news/article/2026091015514021718",
+          "source": "아시아경제",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "가을": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T08:12:00+09:00",
+      "lastSeen": "2026-09-13T08:12:00+09:00",
+      "news": [
+        {
+          "title": "[7시 날씨] 휴일, 일교차 큰 날씨…남부 한낮 30도 안팎",
+          "url": "https://v.daum.net/v/20260913071926629",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[날씨] 일교차 큰 휴일...극심한 일교차에 독감 유행주의보",
+          "url": "https://www.ytn.co.kr/_ln/0108_202609130727382773",
+          "source": "YTN",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "전국 곳곳 약한 비…'낮 최고 30도' 환절기 큰 일교차 유의",
+          "url": "https://www.yna.co.kr/view/AKR20260913002500034",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "애스트로스 대 레이스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T08:12:00+09:00",
+      "lastSeen": "2026-09-13T08:12:00+09:00",
+      "news": [
+        {
+          "title": "MLB 탬파베이, 끝내기 홈런으로 가을 야구 확정",
+          "url": "https://www.yna.co.kr/view/AKR20260912025000007",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'거지구단' 놀림 받았는데 끝내기 홈런으로 PS 확정, 다저스 1/4 돈 쓰고 더 먼저 가을야구 간다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/13/202609121834774120O",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "20득점 폭발! 밀워키, NL팀 중에 가장 먼저 가을야구 확정",
+          "url": "https://www.mk.co.kr/news/sports/12151043",
+          "source": "매일경제",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "박위": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-13T08:12:00+09:00",
+      "lastSeen": "2026-09-13T08:12:00+09:00",
+      "news": [
+        {
+          "title": "'KTX 사고 CCTV' 박위, 케냐 방문 성격 두고도 갑론을박",
+          "url": "https://www.newsis.com/view/NISX20260910_0003785065",
+          "source": "뉴시스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[단독] 박위 케냐 방문 ‘봉사활동’도 아니었다",
+          "url": "https://sports.khan.co.kr/article/202609121436003",
+          "source": "스포츠경향",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "박위, 케냐 비전트립 '봉사'라고 안 했다…억측에 여론 반전될까 [Oh!쎈 이슈]",
+          "url": "https://www.koreadaily.com/article/20260912005521299",
+          "source": "미주중앙일보",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "real madrid vs rayo vallecano standings": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T08:12:00+09:00",
+      "lastSeen": "2026-09-13T08:12:00+09:00",
+      "news": [
+        {
+          "title": "Real Madrid vs Rayo Vallecano, 2026 La Liga: Predicted lineups",
+          "url": "https://sports.yahoo.com/articles/real-madrid-vs-rayo-vallecano-063703906.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Mbappe and Bellingham on target as Real Madrid thrash Rayo Vallecano",
+          "url": "https://www.bbc.com/sport/football/live/cr1e50y62d1dt",
+          "source": "BBC",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Real Madrid vs Rayo Vallecano: Lineups, Prediction, Odds & Bet Builder Tip",
+          "url": "https://www.whoscored.com/articles/cTQrCLBs0kCuTHLqvQ7tlg/show/20260912-real-madrid-vs-rayo-vallecano-prediction-1789212314",
+          "source": "WhoScored.com",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "天气": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T08:12:00+09:00",
+      "lastSeen": "2026-09-13T08:12:00+09:00",
+      "news": [
+        {
+          "title": "Heard About the Super Godzilla Monster El Niño? Here’s How It Could Actually Affect You.",
+          "url": "https://www.nytimes.com/2026/09/09/weather/el-nino-weather-forecast-facts.html",
+          "source": "The New York Times",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Winter outlook 2026-27: Where snow could be abundant",
+          "url": "https://weather.com/2026/09/11/news/weather/december-january-february-winter-outlook-is-in-see-who-gets-snow",
+          "source": "The Weather Channel",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "‘Super’ El Niño is now a near certainty. Here are 5 side effects you may not know about",
+          "url": "https://thehill.com/policy/energy-environment/6077236-super-el-nino-is-now-a-near-certainty-here-are-5-side-effects-you-may-not-know-about/",
+          "source": "The Hill",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "킬리안 음바페": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T08:12:00+09:00",
+      "lastSeen": "2026-09-13T08:12:00+09:00",
+      "news": [
+        {
+          "title": "\"나보다 잘한 선수 없어!\" 음바페 '발롱도르 병'에 열 받은 전 동료 \"네가 메날두야? 입 다물어\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/12/2026091217200345459",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "73골 터트린 ‘득점 기계’ 해리 케인, 생애 첫 발롱도르 도전",
+          "url": "https://v.daum.net/v/8y6F8me45K?f=p",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "케인·메시·뎀밸레 등 발롱도르 후보 30인 공개…아시아 선수 3년째 0명",
+          "url": "https://sports.news.nate.com/view/20260909n16569",
+          "source": "네이트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "총파업": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T08:12:00+09:00",
+      "lastSeen": "2026-09-13T08:12:00+09:00",
+      "news": [
+        {
+          "title": "서울 시내버스 노조, 총파업 가결…조정 결렬 시 16일 파업",
+          "url": "https://www.yna.co.kr/view/MYH20260912000700038",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "서울 버스 멈추나···서울버스노조 88% 파업 찬성, 임금협상 타결 못하면 16일 파업",
+          "url": "https://www.khan.co.kr/article/202609111942001",
+          "source": "경향신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "서울버스 파업 초읽기…서울시 비상수송대책 가동",
+          "url": "https://v.daum.net/v/20260912150323679",
+          "source": "Daum",
           "date": "2026-09-12"
         }
       ]
