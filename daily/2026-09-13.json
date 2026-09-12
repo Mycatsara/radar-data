@@ -978,10 +978,10 @@
       ]
     },
     "추미애": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-13T04:39:00+09:00",
-      "lastSeen": "2026-09-13T04:39:00+09:00",
+      "lastSeen": "2026-09-13T05:12:00+09:00",
       "news": [
         {
           "title": "\"대통령은 왜 내란세력에 전전긍긍하나\"…추미애, 작심 발언(종합)",
@@ -1030,10 +1030,10 @@
       ]
     },
     "토트넘": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T04:39:00+09:00",
-      "lastSeen": "2026-09-13T04:39:00+09:00",
+      "lastSeen": "2026-09-13T05:12:00+09:00",
       "news": [
         {
           "title": "'손흥민이 그렇게 아꼈는데' 불과 29세에 '커리어 폭망'... '마지막 희망' 토트넘 탈출마저 실패",
@@ -1051,6 +1051,12 @@
           "title": "토트넘 '1092억' 공중분해 위기! '최악 먹튀' 히샬리송, FIFA 제소 초강수 던진다…\"계약 기간 무효 원해\" - 머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/09/11/202609111920776696O",
           "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'충격, 구단간 합의했는데 개인 조건으로 또 무산' 토트넘 '먹튀' 히샬리송, 브라질 바스코 다 가마 이적 물거품..'EPL 25인 명단 제외→오도가도 못하는 신세, 커리어 최대 위기'",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/12/HE2DIZTCHBQWCY3GHA2TGZTBHA/",
+          "source": "조선일보",
           "date": "2026-09-12"
         }
       ]
@@ -1132,6 +1138,195 @@
           "date": "2026-09-12"
         }
       ]
+    },
+    "공휴일": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "news": [
+        {
+          "title": "\"토요일 겹쳤는데 왜 안돼?\" 2026년 추석 대체공휴일·임시공휴일 없는 이유",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3693264",
+          "source": "국제뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "짧은 추석 연휴 보완 9월 28일(月) 임시공휴일 가능성은? [금주의 이슈]",
+          "url": "https://www.imaeil.com/page/view/2026090815234735463",
+          "source": "매일신���",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"딱 하루만 붙이면 5일 전 국민 휴가\"... 9월 임시공휴일 가능성 날짜는?",
+          "url": "https://www.autotribune.co.kr/news/articleView.html?idxno=45433",
+          "source": "오토트리뷴",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "이지아": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "news": [
+        {
+          "title": "48세 이지아, 나이 믿기지 않는 동안 미모…쭉 뻗은 각선미까지 [N샷]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6288499",
+          "source": "뉴스1",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "이지아, 바지는 어디 갔어?…48세에 티셔츠보다 짧은 쇼츠",
+          "url": "https://www.mk.co.kr/news/entertain/12151157",
+          "source": "매일경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "이지아, 롯데월드타워 전망대서 여유로운 일상…‘끝내주는 해결사’ 이후 근황",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16191021",
+          "source": "톱스타뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "서정희": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "news": [
+        {
+          "title": "서정희, 외제차 팔고 경차 타더니..괜히 눈치 \"누가 볼까 싶어 마음 작아져\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/12/G44TAZTDGA2TEMJTMMZWEYJSMM/",
+          "source": "조선일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"누가 볼까 마음 작아져…\" 서정희, 외제차 팔고 경차 타는 '반전' 일상",
+          "url": "https://news.nate.com/view/20260912n08833",
+          "source": "네이트",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "서정희 \"한정판 수입 외제차 팔고 국산 경차로…작은 차 탄다고 작은 사람 아냐\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6288519",
+          "source": "뉴스1",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "아스날": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "news": [
+        {
+          "title": "26개 슈팅 퍼붓고도 1골…외데고르가 끝냈다, 아스널 나폴리 원정 승리",
+          "url": "https://v.daum.net/v/WnZOcFOc0v",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "36경기 1골→5���기 4골…지난 시즌과 확 달라진 외데고르, 비결은 ‘많아진 박스 침투’",
+          "url": "https://sports.khan.co.kr/article/202609101532003",
+          "source": "스포츠경향",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "아스널, UCL 나폴리 원정길 앞두고 항공편 지연으로 차질…공식 기자회견까지 취소",
+          "url": "https://sports.news.nate.com/view/20260909n04850",
+          "source": "네이트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "이준영": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "news": [
+        {
+          "title": "송강·이준영, 어른들 변수 앞 서로 다른 선택의 기로",
+          "url": "https://v.daum.net/v/20260911204505869?f=p",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'포핸즈' 송강-이준영, 국제 콩쿠르서 경쟁자로 격돌 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/12/2026091213007295637",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "이준영, 국제 콩쿠르 도중 납치…‘절체절명’ (포핸즈)",
+          "url": "https://sports.donga.com/ent/article/all/20260912/134655198/1",
+          "source": "스포츠동아",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "디아블로5": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "news": [
+        {
+          "title": "30주년 맞은 게임 '디아블로' 차기작…'디아블로 V' 2029년 출시",
+          "url": "https://v.daum.net/v/20260913041256662",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "2029, '디아블로5' 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320772",
+          "source": "인벤",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "성역이 몰락했다, 디아블로 5 2029년 봄 출시된다",
+          "url": "https://www.gamemeca.com/view.php?gid=1780397",
+          "source": "게임메카",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "입양": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "news": [
+        {
+          "title": "반려견 입양비 25달러로 낮췄다..패서디나 보호소 “새 가족 찾아요”",
+          "url": "https://radiokorea.com/news/article.php?uid=503989",
+          "source": "라디오코리아",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"체험판 입양\" vs \"한 마리라도 더\"…유기동물 예비입양제 논란",
+          "url": "https://news.nate.com/view/20260909n01788",
+          "source": "네이트",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "반복 분실 땐 입양 제한, 미등록 통보는 삭제… 달라진 동물보호지침 [Q&A]",
+          "url": "https://www.hankookilbo.com/news/article/A2026091017390003380",
+          "source": "한국일보",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "인벤": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "news": []
     }
   },
   "sections": {
