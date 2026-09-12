@@ -2899,10 +2899,10 @@
       ]
     },
     "집": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-12T14:11:00+09:00",
-      "lastSeen": "2026-09-12T14:11:00+09:00",
+      "lastSeen": "2026-09-12T14:40:00+09:00",
       "news": [
         {
           "title": "거래 절벽에 \"민간 살아나야\"...대출 규제 '딜레마'",
@@ -2921,14 +2921,26 @@
           "url": "https://www.segye.com/newsView/20260911511458",
           "source": "세계일보",
           "date": "2026-09-12"
+        },
+        {
+          "title": "30대 생애 첫 집 장만 어디가 대세? 동작​·노원·강동 선택",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661690",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'첫 집 사는 30대들, 몰려간 동네'…어디길래?",
+          "url": "https://v.daum.net/v/qH7rDXDgtl",
+          "source": "Daum",
+          "date": "2026-09-12"
         }
       ]
     },
     "리브 골프": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T14:11:00+09:00",
-      "lastSeen": "2026-09-12T14:11:00+09:00",
+      "lastSeen": "2026-09-12T14:40:00+09:00",
       "news": [
         {
           "title": "6.7조 쏟아붓고 스타 싹쓸이…\"돈 떨어지니 남남\" 허무한 몰락 [조수영의 구설(球說)]",
@@ -2951,10 +2963,10 @@
       ]
     },
     "박지현": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-12T14:11:00+09:00",
-      "lastSeen": "2026-09-12T14:11:00+09:00",
+      "lastSeen": "2026-09-12T14:40:00+09:00",
       "news": [
         {
           "title": "‘13억→31억’ 집 등장에 박지현 “집 사보고 싶다”",
@@ -2998,6 +3010,188 @@
           "title": "“애틀랜타 선수들은 김하성을 성실한 선수로 기억할 것” 현실은 1할대 유격수…헤어질 시간이 다가온다",
           "url": "https://v.daum.net/v/20260912060127363",
           "source": "Daum",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "경찰": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-12T14:40:00+09:00",
+      "lastSeen": "2026-09-12T14:40:00+09:00",
+      "news": [
+        {
+          "title": "박원석, '한동훈 십자포화' 민주당에 \"가능하지도 않은 일 호도 말라\"",
+          "url": "https://v.daum.net/v/20260912093753276",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "경찰, 김승원 법무장관 후보자 '신약 청탁' 연이틀 고발인 조사",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6851354_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "김민석 \"검찰 잔당 관종 정치\"…한동훈 \"아저씨! 검찰 없어져\"",
+          "url": "https://news.jtbc.co.kr/article/NB12317957",
+          "source": "JTBC",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "lck": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T14:40:00+09:00",
+      "lastSeen": "2026-09-12T14:40:00+09:00",
+      "news": [
+        {
+          "title": "Gumayusi vs Keria: T1 legends clash on Korean LoL's biggest weekend",
+          "url": "https://www.koreaherald.com/article/10868127",
+          "source": "The Korea Herald",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'Proof or Revenge'... Hanwha Life Esports and T1 in Unforgiving Elimination Match",
+          "url": "https://www.invenglobal.com/articles/25854/proof-or-revenge-hanwha-life-esports-and-t1-in-unforgiving-elimination-match",
+          "source": "Inven Global",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "5 Things You Need to Know About 2026 LCK Finals Weekend",
+          "url": "https://www.sheepesports.com/en/articles/5-things-you-need-to-know-about-2026-lck-finals-weekend/en",
+          "source": "Sheep Esports",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "궁금한 이야기 y": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T14:40:00+09:00",
+      "lastSeen": "2026-09-12T14:40:00+09:00",
+      "news": [
+        {
+          "title": "'궁금한 이야기Y' 밥 사줬더니 폭행 신고...앵벌이 청년 정체",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3692568",
+          "source": "국제뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "노숙한다는 20세 청년 도와줬더니…\"돌아온 건 폭행죄 신고\" ('궁금한 이야기 Y')",
+          "url": "https://v.daum.net/v/20260911090405856",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'궁금한 이야기 Y' 구걸 후 폭행 신고? 앵벌이 청년의 수상한 행적 추적",
+          "url": "https://m.news.nate.com/view/20260911n10727?mid=e01&list=recent&cpcd=",
+          "source": "네이트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "오스틴 딘": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T14:40:00+09:00",
+      "lastSeen": "2026-09-12T14:40:00+09:00",
+      "news": [
+        {
+          "title": "'밥상 좀 차려줘' LG 오스틴 타점왕 휘청?... 삼성 디아즈에 4개 차 턱밑 추격당해",
+          "url": "https://v.daum.net/v/20260912085549737",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[포토] 7번 타자로 선발 출전�� 디아즈",
+          "url": "https://www.sportschosun.com/baseball/2026-09-09/202609090100066750004290",
+          "source": "스포츠조선",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "역전에 미소 짓는 박진만 감독",
+          "url": "https://www.news1.kr/photos/8091038",
+          "source": "뉴스1",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "사모펀드": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T14:40:00+09:00",
+      "lastSeen": "2026-09-12T14:40:00+09:00",
+      "news": [
+        {
+          "title": "사모펀드 결국 이럴 줄 알았다...개미는 어쩌나",
+          "url": "https://v.daum.net/v/20260912053132847",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "‘부자들의 리그’ 된 사모시장…해외는 문 여는데, 한국은 진입장벽 여전",
+          "url": "https://contents.premium.naver.com/ledesk/agelimit/contents/260911131044286gs",
+          "source": "네이버 프리미엄콘텐츠",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "고액자산가들의 전유물이라더니 ＇역시＇...조정장에서도 ＇선방＇",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609110374",
+          "source": "한국경제TV",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "유가": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T14:40:00+09:00",
+      "lastSeen": "2026-09-12T14:40:00+09:00",
+      "news": [
+        {
+          "title": "국제유가 일주일 새 14달러 급등했는데 주유소 기름값은 17주째 하락...왜?",
+          "url": "https://v.daum.net/v/20260912101350781",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "주유소 기름값 17주째 하락 ‘1800원대’⋯국제유가 상승 속 최고가격제 효과",
+          "url": "https://www.viva100.com/article/20260912500108",
+          "source": "브릿지경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[호르무즈 봉쇄 6개월①] 최고가격제 6개월…다시 뛴 유가에 출구 안갯속",
+          "url": "https://www.newsis.com/view/NISX20260910_0003784134",
+          "source": "뉴시스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "대한민국 과학기술정보통신부": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T14:40:00+09:00",
+      "lastSeen": "2026-09-12T14:40:00+09:00",
+      "news": [
+        {
+          "title": "과기정통부, 한국 대표 ‘리더급 국가과학자’ 20명 선정",
+          "url": "https://v.daum.net/v/Xzitm3IkSv",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'리더급 국가과학기술자' 20人 첫 공모 착수… 선정 기준은? - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/09/11/2026091110580611776",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "한국 대표 연구자 뽑는다…리더급 국가과학자 20명 공모",
+          "url": "https://www.yna.co.kr/view/AKR20260910149900017",
+          "source": "연합뉴스",
           "date": "2026-09-12"
         }
       ]
