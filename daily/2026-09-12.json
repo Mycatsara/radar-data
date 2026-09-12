@@ -3395,10 +3395,10 @@
       ]
     },
     "설영우": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T15:43:00+09:00",
-      "lastSeen": "2026-09-12T16:12:00+09:00",
+      "lastSeen": "2026-09-12T16:39:00+09:00",
       "news": [
         {
           "title": "\"TV로 보던 팀들, 너무 설레요\" 분데스 입성, 활짝 웃은 설영우…\"에이전트 역할 한 자철이 형, 그 길 따라가고 싶다\"",
@@ -3421,10 +3421,10 @@
       ]
     },
     "박지원": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T15:43:00+09:00",
-      "lastSeen": "2026-09-12T16:12:00+09:00",
+      "lastSeen": "2026-09-12T16:39:00+09:00",
       "news": [
         {
           "title": "박지원 \"순천대 의대후보 선정 무효화 요구에 민형배 시장 완강\"",
@@ -3447,10 +3447,10 @@
       ]
     },
     "앤서니 조슈아": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T15:43:00+09:00",
-      "lastSeen": "2026-09-12T16:12:00+09:00",
+      "lastSeen": "2026-09-12T16:39:00+09:00",
       "news": [
         {
           "title": "Tyson Fury vs Anthony Joshua: Fight is '100 per cent happening' says Fury's manager as Cardiff emerges as potential venue",
@@ -3499,10 +3499,10 @@
       ]
     },
     "사랑이 온다": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-12T16:12:00+09:00",
-      "lastSeen": "2026-09-12T16:12:00+09:00",
+      "lastSeen": "2026-09-12T16:39:00+09:00",
       "news": [
         {
           "title": "안희연, 다시 배우로 우뚝…복귀작 17.2% 주말극 1위",
@@ -3525,10 +3525,10 @@
       ]
     },
     "사우디아라비아": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-12T16:12:00+09:00",
-      "lastSeen": "2026-09-12T16:12:00+09:00",
+      "lastSeen": "2026-09-12T16:39:00+09:00",
       "news": [
         {
           "title": "사우디 ‘생명줄’ 송유관까지 타격…친이란 세력에 바닷길·육로 포위",
@@ -3547,14 +3547,20 @@
           "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6851358_36967.html",
           "source": "MBC 뉴스",
           "date": "2026-09-12"
+        },
+        {
+          "title": "호르무즈 이어 홍해 비상…사우디발 원유수송 비상",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260912162508Gsn",
+          "source": "연합뉴스TV",
+          "date": "2026-09-12"
         }
       ]
     },
     "이정후": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-12T16:12:00+09:00",
-      "lastSeen": "2026-09-12T16:12:00+09:00",
+      "lastSeen": "2026-09-12T16:39:00+09:00",
       "news": [
         {
           "title": "부상이 이정후 발 묶고 있었다, 모두가 놀란 변화…\"몸이 강해졌다\" 도루 13번 중 12번, 도루 성공률 '92.3%'→샌프란시스코도 뛰는 야구 대변신",
@@ -3577,10 +3583,10 @@
       ]
     },
     "오마이뉴스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-12T16:12:00+09:00",
-      "lastSeen": "2026-09-12T16:12:00+09:00",
+      "lastSeen": "2026-09-12T16:39:00+09:00",
       "news": [
         {
           "title": "[신주현의 시사K] “용혜인 후보 지명은 제2의 조국 사태…최악의 수”",
@@ -3603,10 +3609,10 @@
       ]
     },
     "황교안": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-12T16:12:00+09:00",
-      "lastSeen": "2026-09-12T16:12:00+09:00",
+      "lastSeen": "2026-09-12T16:39:00+09:00",
       "news": [
         {
           "title": "올공 수호 ‘성조기 여성’, 이름 밝히고 황교안당 최고위원 입후보",
@@ -3625,14 +3631,20 @@
           "url": "https://www.kyeonggi.com/article/20260912580034",
           "source": "경기일보",
           "date": "2026-09-12"
+        },
+        {
+          "title": "얼굴·실명 공개한 '올다르크'…정치인 변신, 자유와혁신 최고위원 출마",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=55226",
+          "source": "주간조선",
+          "date": "2026-09-12"
         }
       ]
     },
     "회사채": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T16:12:00+09:00",
-      "lastSeen": "2026-09-12T16:12:00+09:00",
+      "lastSeen": "2026-09-12T16:39:00+09:00",
       "news": [
         {
           "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 ‘자금조달 경고등’ [김주완의 글로벌머니 X파일]",
@@ -3650,6 +3662,32 @@
           "title": "韓銀 ��AI 투자 예상보다 빨리 둔화될 수도”",
           "url": "https://v.daum.net/v/7l8YHkPKXj",
           "source": "Daum",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "sony": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T16:39:00+09:00",
+      "lastSeen": "2026-09-12T16:39:00+09:00",
+      "news": [
+        {
+          "title": "PlayStation Ditched Hideo Kojima’s ‘Physint’ on Budget Concerns, Missed Deadlines",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-11/hideo-kojima-s-physint-video-game-dropped-by-playstation-goes-to-xbox",
+          "source": "Bloomberg",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "XBOX and KOJIMA PRODUCTIONS Expand Partnership to Publish PHYSINT",
+          "url": "https://news.xbox.com/en-us/2026/09/09/xbox-and-kojima-productions-expand-partnership-to-publish-physint/",
+          "source": "XBOX Wire",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Sony divorces Kojima, while Nintendo (re)unites fans with Ocarina of Time | Rhys's Pieces",
+          "url": "https://alineaanalytics.substack.com/p/sony-divorces-kojima-while-nintendo",
+          "source": "The Alinea Insight newsletter",
           "date": "2026-09-12"
         }
       ]
