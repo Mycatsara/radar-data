@@ -3982,10 +3982,10 @@
       ]
     },
     "t1": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T17:41:00+09:00",
-      "lastSeen": "2026-09-12T18:12:00+09:00",
+      "lastSeen": "2026-09-12T18:40:00+09:00",
       "news": [
         {
           "title": "'오너' 바이가 열고 '페이즈' 제리가 쓸었다⋯T1, 한화생명에 1-2 추격 [현장]",
@@ -4004,6 +4004,18 @@
           "url": "http://www.osen.co.kr/article/G1112874272",
           "source": "OSEN",
           "date": "2026-09-12"
+        },
+        {
+          "title": "한화생명, T1에 3:1 승…LCK 결승서 젠지와 리매치 성사",
+          "url": "https://v.daum.net/v/20260912181722079",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'제우스' 갈리오의 도발 적중⋯한화생명, T1에 2-0 '결승 눈앞' [현장]",
+          "url": "https://www.etoday.co.kr/news/view/2624729",
+          "source": "이투데이",
+          "date": "2026-09-12"
         }
       ]
     },
@@ -4015,10 +4027,10 @@
       "news": []
     },
     "술": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-12T18:12:00+09:00",
-      "lastSeen": "2026-09-12T18:12:00+09:00",
+      "lastSeen": "2026-09-12T18:40:00+09:00",
       "news": [
         {
           "title": "줄줄이 \"술집 안 가요\"…20대들 향하는 곳",
@@ -4041,10 +4053,10 @@
       ]
     },
     "persija jakarta vs persib bandung": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-12T18:12:00+09:00",
-      "lastSeen": "2026-09-12T18:12:00+09:00",
+      "lastSeen": "2026-09-12T18:40:00+09:00",
       "news": [
         {
           "title": "The Jakmania Tumpah Ruah Menuju SUGBK, Yel-yel Persija Bergema di Jalan Gatot Subroto",
@@ -4063,14 +4075,20 @@
           "url": "https://news.detik.com/berita/d-8659751/polresta-tangerang-kawal-keberangkatan-suporter-amankan-nobar-persija-vs-persib",
           "source": "detikNews",
           "date": "2026-09-12"
+        },
+        {
+          "title": "BRI Super League: Pemain Persib Tiba di GBK Naik Rantis Baraccuda",
+          "url": "https://www.bola.com/indonesia/read/8290370/bri-super-league-pemain-persib-tiba-di-gbk-naik-rantis-baraccuda",
+          "source": "Bola.com",
+          "date": "2026-09-12"
         }
       ]
     },
     "k리그1": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-12T18:12:00+09:00",
-      "lastSeen": "2026-09-12T18:12:00+09:00",
+      "lastSeen": "2026-09-12T18:40:00+09:00",
       "news": [
         {
           "title": "'멀티골'로 대전 연승 이끈 주민규, K리그 28라운드 MVP",
@@ -4093,10 +4111,10 @@
       ]
     },
     "프랑코 마스탄투오노": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T18:12:00+09:00",
-      "lastSeen": "2026-09-12T18:12:00+09:00",
+      "lastSeen": "2026-09-12T18:40:00+09:00",
       "news": [
         {
           "title": "메시 넘은 마스탄투오노…19세 28일에 유럽 빅리그 해트트릭",
@@ -4114,6 +4132,117 @@
           "title": "메시를 넘어선 아르헨티나의 ‘신성’…마스탄투오노, ‘19세28일’에 유럽 빅리그 해트트릭 작성!",
           "url": "https://sports.khan.co.kr/article/202609121240003",
           "source": "스포츠경향",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "안리원": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T18:40:00+09:00",
+      "lastSeen": "2026-09-12T18:40:00+09:00",
+      "news": [
+        {
+          "title": "'뉴욕대 졸업' 안정환 딸, 한국서 취업…\"출근 2일차\" 자식자랑 ('놀면 뭐하니')[방송 프리뷰]",
+          "url": "https://v.daum.net/v/20260912133153658",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "안정환, 딸 안리원 취업 근황 공개 “뉴욕대 졸업 후 귀국…출근 2일차”",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260912/134654911/1",
+          "source": "동아일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "‘놀���’ 유재석 vs 안정환 벤치클리어링 발발 “오프닝 짧게”",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/518034",
+          "source": "iMBC 연예",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "대한민국 교육부": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T18:40:00+09:00",
+      "lastSeen": "2026-09-12T18:40:00+09:00",
+      "news": [
+        {
+          "title": "외국인 유학생 지난해 50만 첫 돌파…4년 새 6배 급증",
+          "url": "https://www.yna.co.kr/view/PYH20260910124700013",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "외국인 유학생 30만명 돌파…정부, 유치 확대보다 ‘교육 내실화’",
+          "url": "https://v.daum.net/v/bQsXQqyOlr",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'부실대학' 외국인 유학생 못 받는다…미인증·경영위기대학 비자 제한",
+          "url": "https://news.nate.com/view/20260908n16466",
+          "source": "네이트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "호시": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T18:40:00+09:00",
+      "lastSeen": "2026-09-12T18:40:00+09:00",
+      "news": []
+    },
+    "박수진": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-12T18:40:00+09:00",
+      "lastSeen": "2026-09-12T18:40:00+09:00",
+      "news": [
+        {
+          "title": "'박수진♥' 배용준, 백발 장발 근황 후 또 포착…'14세 장타자'와 라운딩",
+          "url": "https://v.daum.net/v/20260912135549879",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "‘백발’ 배용준, 근황 보니…골프장서 포착",
+          "url": "https://www.mk.co.kr/news/hot-issues/12151056",
+          "source": "매일경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "배용준, 골프장서 포착…환한 미소",
+          "url": "https://www.newsis.com/view/NISX20260912_0003786867",
+          "source": "뉴시스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "기부": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T18:40:00+09:00",
+      "lastSeen": "2026-09-12T18:40:00+09:00",
+      "news": [
+        {
+          "title": "삼성증권-KAIST, 신탁 활용 기부문화 확산 협약 체결 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/09/11/2026091109381873823",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "삼성증권, 카이스트와 '신탁 활용 기부문화 확산' 업무협약",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447057",
+          "source": "비즈니스포스트",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[증권UP+] 신탁부터 역이민·대학축제까지···금융권 고객 접점 다변화",
+          "url": "https://news.nate.com/view/20260911n25260",
+          "source": "네이트",
           "date": "2026-09-12"
         }
       ]
