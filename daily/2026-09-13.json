@@ -472,10 +472,10 @@
       ]
     },
     "프리미어리그": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T03:14:00+09:00",
+      "lastSeen": "2026-09-13T03:40:00+09:00",
       "news": [
         {
           "title": "엔조 감독, 맨체스터 더비에 대해: \"이런 경기를 원합니다\"",
@@ -498,10 +498,10 @@
       ]
     },
     "블리치": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T03:14:00+09:00",
+      "lastSeen": "2026-09-13T03:40:00+09:00",
       "news": [
         {
           "title": "Bleach: Thousand-Year Blood War – The Calamity Episode 8: Release Date, Time, Where to Watch, and More",
@@ -524,6 +524,12 @@
         {
           "title": "‘Bleach’ Season 17 Episode 48 Release Date, Time, Where To Watch & Preview",
           "url": "https://www.imdb.com/news/ni66003092/?ref_=int_nwr_2",
+          "source": "IMDb",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "‘Bleach: Thousand-Year Blood War’ Part 4, Episode 8 Release Date, Time and Where to Watch",
+          "url": "https://www.imdb.com/news/ni66003105/?ref_=int_nwr_6",
           "source": "IMDb",
           "date": "2026-09-12"
         }
@@ -626,10 +632,10 @@
       ]
     },
     "토트넘 대 에버턴": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T03:14:00+09:00",
+      "lastSeen": "2026-09-13T03:40:00+09:00",
       "news": [
         {
           "title": "“저는 믿습니다” 5500억 사용하고 ‘0승·0골·17위’ 진짜 승리가 필요한 시점에 토트넘 감독 “나는 선수들 능력에 확신이 있다”",
@@ -652,10 +658,10 @@
       ]
     },
     "pl": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T03:14:00+09:00",
+      "lastSeen": "2026-09-13T03:40:00+09:00",
       "news": [
         {
           "title": "Koniec z dominacją big techów w chmurze? KE ma plan, polska branża się spiera",
@@ -690,10 +696,10 @@
       ]
     },
     "이은결": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T03:14:00+09:00",
+      "lastSeen": "2026-09-13T03:40:00+09:00",
       "news": [
         {
           "title": "'870평 부지 소유' 이은결, 마술 공연 장비만 200억 이상 “2억짜리 기차도 한 번 써”",
@@ -722,10 +728,10 @@
       ]
     },
     "epl": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T03:14:00+09:00",
+      "lastSeen": "2026-09-13T03:40:00+09:00",
       "news": [
         {
           "title": "Everton at Tottenham: Starting Lineups, TV and Live Streams, How to Watch Online",
@@ -786,10 +792,10 @@
       ]
     },
     "연애": {
-      "count": 3,
-      "maxTraffic": 1000,
+      "count": 4,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-13T02:11:00+09:00",
-      "lastSeen": "2026-09-13T03:14:00+09:00",
+      "lastSeen": "2026-09-13T03:40:00+09:00",
       "news": [
         {
           "title": "안은진, '임신' 의심에 \"안 한 지 6개월도 넘어\" 폭탄 발언..서강준 당황 [너 말고 다른 연애]",
@@ -812,10 +818,10 @@
       ]
     },
     "twitch": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-13T03:14:00+09:00",
-      "lastSeen": "2026-09-13T03:14:00+09:00",
+      "lastSeen": "2026-09-13T03:40:00+09:00",
       "news": [
         {
           "title": "Doja Cat Sparks Fan Concern After Slurring Words on Livestream: 'I'm So Tired of This, Man'",
@@ -832,10 +838,10 @@
       ]
     },
     "도경완": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-13T03:14:00+09:00",
-      "lastSeen": "2026-09-13T03:14:00+09:00",
+      "lastSeen": "2026-09-13T03:40:00+09:00",
       "news": [
         {
           "title": "도경완, 200만 원 대 텐트 구매했는데···장윤정 \"비닐하우스야?\"('도장TV')",
@@ -853,6 +859,32 @@
           "title": "♥장윤정 따라잡으려다…도경완, 주식에 물렸다 \"많이 속상하지만 버틸 것\"(도장TV)",
           "url": "https://news.nate.com/view/20260905n11548",
           "source": "네이트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "spurs vs everton": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T03:40:00+09:00",
+      "lastSeen": "2026-09-13T03:40:00+09:00",
+      "news": [
+        {
+          "title": "Tottenham 0-0 Everton: Spurs still without Premier League goal this season",
+          "url": "https://www.bbc.com/sport/football/live/cqx2zkde1xpet",
+          "source": "BBC",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Sunderland vs Arsenal Premier League: How to watch and live stream for FREE and without cable",
+          "url": "https://www.goal.com/en-us/news/watch-live-stream-sunderland-arsenal-free/blt28c46091367bf1d6",
+          "source": "Goal.com",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Tottenham vs Everton live updates: Latest from north London plus reaction to today’s Premier League results",
+          "url": "https://www.nytimes.com/athletic/live-blogs/tottenham-vs-everton-live-updates-premier-league-score-result/gzkZxMocCKpg/",
+          "source": "The New York Times",
           "date": "2026-09-12"
         }
       ]
