@@ -286,10 +286,10 @@
       ]
     },
     "허성범": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T00:39:00+09:00",
-      "lastSeen": "2026-09-13T01:13:00+09:00",
+      "lastSeen": "2026-09-13T02:38:00+09:00",
       "news": [
         {
           "title": "허성범 집 이 정도였어? 한강뷰+노트북만 5대…GD가 준 선물까지 (전참시)",
@@ -313,6 +313,12 @@
           "title": "카이스트 연구원 허성범, IQ 151→영재고 상위 1% 고스펙 자랑 “측정할 수 있는 최고치”(전참시)",
           "url": "http://www.osen.co.kr/article/G1112874694",
           "source": "OSEN",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "허성범, AI 구독료만 월 100만원↑…주식부터 사주·야식까지 (전참시)",
+          "url": "https://www.donga.com/SODA/article/0210/20260912/134654577/1",
+          "source": "동아일보",
           "date": "2026-09-12"
         }
       ]
@@ -466,10 +472,10 @@
       ]
     },
     "프리미어리그": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T02:11:00+09:00",
+      "lastSeen": "2026-09-13T02:38:00+09:00",
       "news": [
         {
           "title": "엔조 감독, 맨체스터 더비에 대해: \"이런 경기를 원합니다\"",
@@ -492,10 +498,10 @@
       ]
     },
     "블리치": {
-      "count": 3,
-      "maxTraffic": 200,
+      "count": 4,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T02:11:00+09:00",
+      "lastSeen": "2026-09-13T02:38:00+09:00",
       "news": [
         {
           "title": "Bleach: Thousand-Year Blood War – The Calamity Episode 8: Release Date, Time, Where to Watch, and More",
@@ -514,14 +520,20 @@
           "url": "https://comicbook.com/anime/news/bleach-final-season-shares-new-looks-at-ichigo-more-ahead-of-animes-finale/",
           "source": "ComicBook.com",
           "date": "2026-09-12"
+        },
+        {
+          "title": "‘Bleach’ Season 17 Episode 48 Release Date, Time, Where To Watch & Preview",
+          "url": "https://www.imdb.com/news/ni66003092/?ref_=int_nwr_2",
+          "source": "IMDb",
+          "date": "2026-09-12"
         }
       ]
     },
     "광명시의회": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T02:11:00+09:00",
+      "lastSeen": "2026-09-13T02:38:00+09:00",
       "news": [
         {
           "title": "회기 중 女와 호텔 간 광명시의원 “사생활 있는 것 아니냐”…항변에도 결국 징계 절차",
@@ -550,10 +562,10 @@
       ]
     },
     "ngoại hạng anh": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T02:11:00+09:00",
+      "lastSeen": "2026-09-13T02:38:00+09:00",
       "news": [
         {
           "title": "Siêu máy tính Opta dự đoán Ngoại hạng Anh 12/9: Liverpool, Chelsea sáng cửa, đại chiến Villa - Forest dễ chia điểm",
@@ -614,10 +626,10 @@
       ]
     },
     "토트넘 대 에버턴": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T02:11:00+09:00",
+      "lastSeen": "2026-09-13T02:38:00+09:00",
       "news": [
         {
           "title": "“저는 믿습니다” 5500억 사용하고 ‘0승·0골·17위’ 진짜 승리가 필요한 시점에 토트넘 감독 “나는 선수들 능력에 확신이 있다”",
@@ -640,10 +652,10 @@
       ]
     },
     "pl": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T02:11:00+09:00",
+      "lastSeen": "2026-09-13T02:38:00+09:00",
       "news": [
         {
           "title": "Koniec z dominacją big techów w chmurze? KE ma plan, polska branża się spiera",
@@ -678,10 +690,10 @@
       ]
     },
     "이은결": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T02:11:00+09:00",
+      "lastSeen": "2026-09-13T02:38:00+09:00",
       "news": [
         {
           "title": "'870평 부지 소유' 이은결, 마술 공연 장비만 200억 이상 “2억짜리 기차도 한 번 써”",
@@ -704,10 +716,10 @@
       ]
     },
     "epl": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T02:11:00+09:00",
+      "lastSeen": "2026-09-13T02:38:00+09:00",
       "news": [
         {
           "title": "Everton at Tottenham: Starting Lineups, TV and Live Streams, How to Watch Online",
@@ -768,10 +780,10 @@
       ]
     },
     "연애": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-13T02:11:00+09:00",
-      "lastSeen": "2026-09-13T02:11:00+09:00",
+      "lastSeen": "2026-09-13T02:38:00+09:00",
       "news": [
         {
           "title": "안은진, '임신' 의심에 \"안 한 지 6개월도 넘어\" 폭탄 발언..서강준 당황 [너 말고 다른 연애]",
