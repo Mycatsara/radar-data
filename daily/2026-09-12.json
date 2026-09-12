@@ -2597,10 +2597,10 @@
       ]
     },
     "oman vs hong kong": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T13:12:00+09:00",
-      "lastSeen": "2026-09-12T13:12:00+09:00",
+      "lastSeen": "2026-09-12T13:40:00+09:00",
       "news": [
         {
           "title": "Oman to face Hong Kong for third place after big Nepal defeat",
@@ -2623,10 +2623,10 @@
       ]
     },
     "징역형": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T13:12:00+09:00",
-      "lastSeen": "2026-09-12T13:12:00+09:00",
+      "lastSeen": "2026-09-12T13:40:00+09:00",
       "news": [
         {
           "title": "[속보]‘정치자금법 위반’ 김영선 전 의원, 집행유예 선고",
@@ -2649,10 +2649,10 @@
       ]
     },
     "트롯 데스매치 금타는 금요일": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-12T13:12:00+09:00",
-      "lastSeen": "2026-09-12T13:12:00+09:00",
+      "lastSeen": "2026-09-12T13:40:00+09:00",
       "news": [
         {
           "title": "'윤여정과 이혼' 조영남 또..\"바람피우기 전, 행복하게 잘 살 때\" ('금타는 금요일')",
@@ -2671,14 +2671,20 @@
           "url": "https://v.daum.net/v/f2u3HkPK5S",
           "source": "Daum",
           "date": "2026-09-12"
+        },
+        {
+          "title": "조영남, 춘길에 “비겁한 놈, 두고 보자” 살벌 경고…무슨 일? (금타는 금���일)",
+          "url": "https://sports.donga.com/ent/article/all/20260911/134650171/1",
+          "source": "스포츠동아",
+          "date": "2026-09-12"
         }
       ]
     },
     "지민": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-12T13:12:00+09:00",
-      "lastSeen": "2026-09-12T13:12:00+09:00",
+      "lastSeen": "2026-09-12T13:40:00+09:00",
       "news": [
         {
           "title": "\"나의 지민 보러간다\" 방탄소년단 지민이 남긴 따뜻한 감동…치매 어머니 위한 딸의 콘서트 선물",
@@ -2696,6 +2702,162 @@
           "title": "\"MARRY ME JIMIN\" 남자도 홀린 지민",
           "url": "https://www.starnewskorea.com/star/2026/09/07/2026090708265429962",
           "source": "스타뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "원자력 발전소": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T13:40:00+09:00",
+      "lastSeen": "2026-09-12T13:40:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 원자력 발전소에 ‘만취 노동자’…사흘 새 2명 적발",
+          "url": "https://news.jtbc.co.kr/article/NB12317947",
+          "source": "JTBC",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "한전, 서울 방문한 페트로베트남과 닌투언 원전 프로젝트 협력 논의",
+          "url": "https://v.daum.net/v/20260909165929294",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "원자력 인력 양성 분야에서 협력을 강화합니다.",
+          "url": "https://www.vietnam.vn/ko/tang-cuong-hop-tac-dao-tao-nhan-luc-hat-nhan",
+          "source": "Vietnam.vn",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "캠브리콘": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T13:40:00+09:00",
+      "lastSeen": "2026-09-12T13:40:00+09:00",
+      "news": [
+        {
+          "title": "'웃돈 5배 줘도 못 구한다'…삼전닉스에 목줄 잡힌 中 [강경주의 테크X]",
+          "url": "https://www.hankyung.com/article/2026091194276",
+          "source": "한국경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "주문 쏟아지는 중국산 AI칩… HBM 부족에 가격 급등",
+          "url": "https://www.chosun.com/economy/tech_it/2026/09/11/DU4WNUNG6NDNXK6ZVHEIUGNQT4/",
+          "source": "조선일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[中 거인의 공급망] ②AI 서버 강자 '낭조정보' 없으면 '딥시크'도 없다",
+          "url": "https://www.newspim.com/news/view/20260911000928",
+          "source": "뉴스핌",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "중앙은행": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T13:40:00+09:00",
+      "lastSeen": "2026-09-12T13:40:00+09:00",
+      "news": [
+        {
+          "title": "러 중앙은행, 1년3개월 만에 기준금리 인하 멈춰…\"연 14% 동결\"",
+          "url": "https://v.daum.net/v/20260911213043664",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "러시아 중앙은행, 기준금리 14%로 동결",
+          "url": "https://kr.investing.com/news/economy-news/article-93CH-2091698",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "러시아 기준금리 14% 동결…추가 인하 기대 낮아져",
+          "url": "https://www.tokenpost.kr/news/economy/406438",
+          "source": "토큰포스트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "배구": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-12T13:40:00+09:00",
+      "lastSeen": "2026-09-12T13:40:00+09:00",
+      "news": [
+        {
+          "title": "“한국, 대체 어떤 팀이야?” 결승 길목서 만난 日 초긴장…‘득점 2위’ 허수봉에 ‘수호신’ 박경민까지",
+          "url": "https://v.daum.net/v/20260912023112956",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "한국 남자배구, 아시아선수권 4강서 운명의 '한일전'",
+          "url": "https://www.yna.co.kr/view/AKR20260911165200007",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "日열도 충격! “한국은 이기면 선수를 밟는다”…중국 꺾고 4강 진출! 韓배구 기세등등, 숙적 일본 사냥도 문제없다",
+          "url": "https://www.osen.co.kr/article/G1112874204",
+          "source": "OSEN",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "탄도 미사일": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T13:40:00+09:00",
+      "lastSeen": "2026-09-12T13:40:00+09:00",
+      "news": [
+        {
+          "title": "합참 “북한, 동해상으로 단거리 탄도미사일 수발 발사”",
+          "url": "https://www.khan.co.kr/article/202609120747001",
+          "source": "경향신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "국힘 \"北 미사일 쏘는데 정부는 가짜 평화·느슨한 안보관 일관\"",
+          "url": "https://v.daum.net/v/20260912131438520",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "미 태평양사령부 “즉각적 위협 아냐”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661767",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "판결": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T13:40:00+09:00",
+      "lastSeen": "2026-09-12T13:40:00+09:00",
+      "news": [
+        {
+          "title": "“변호사가 항소장 제출 안해 직장 잃었다”…2000만원 배상 판결",
+          "url": "https://v.daum.net/v/uHgkYUlw36",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[단독] 의뢰인 항소 요청 누락 변호사, 위자료 2000만 원 물어줘야",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260910.22006002970",
+          "source": "국제신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "항소장 안 낸 변호사…법원 \"항소기회 잃은 전직 경찰관에 2천만원 배상\"",
+          "url": "https://www.yna.co.kr/view/AKR20260909180400051",
+          "source": "연합뉴스",
           "date": "2026-09-12"
         }
       ]
