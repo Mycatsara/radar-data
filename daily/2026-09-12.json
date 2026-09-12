@@ -3693,10 +3693,10 @@
       ]
     },
     "서울e 대 수원": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-12T17:13:00+09:00",
-      "lastSeen": "2026-09-12T17:41:00+09:00",
+      "lastSeen": "2026-09-12T18:12:00+09:00",
       "news": [
         {
           "title": "\"폰게임도 12명 같이 합니다\" 이정효 감독도 흐뭇한 '수원 원팀' 원동력... \"전술보다 중요한 끈끈함\" [목동 현장] - 머니투데이",
@@ -3725,10 +3725,10 @@
       ]
     },
     "롯데 대 키움": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-12T17:13:00+09:00",
-      "lastSeen": "2026-09-12T17:41:00+09:00",
+      "lastSeen": "2026-09-12T18:12:00+09:00",
       "news": [
         {
           "title": "[12일 프리뷰] 키움 알칸타라, 3년 만에 시즌 10승 도전",
@@ -3751,10 +3751,10 @@
       ]
     },
     "kia 대 kt": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-12T17:13:00+09:00",
-      "lastSeen": "2026-09-12T17:41:00+09:00",
+      "lastSeen": "2026-09-12T18:12:00+09:00",
       "news": [
         {
           "title": "스윕 기억 살린다! KIA 라인업 공개, 카스트로-나성범-김선빈 클린업 네일-김태군 배터리 출격 [오!쎈 수원] - 머니투데이",
@@ -3779,14 +3779,20 @@
           "url": "https://www.newspim.com/news/view/20260912000063",
           "source": "뉴스핌",
           "date": "2026-09-12"
+        },
+        {
+          "title": "스윕 기억 살린다! KIA 라인업 공개, 카스트로-나성범-김선빈 클린업+네일-김태군 배터리 출격 [오!쎈 수원]",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/12/GJQTKYJUG43GCOLGMY2DSOLDMM/",
+          "source": "조선일보",
+          "date": "2026-09-12"
         }
       ]
     },
     "중앙정보국": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-12T17:13:00+09:00",
-      "lastSeen": "2026-09-12T17:41:00+09:00",
+      "lastSeen": "2026-09-12T18:12:00+09:00",
       "news": [
         {
           "title": "\"폭발물 실은 비행기 美로\" 경고에도…CIA, 9·11 기밀자료 공개",
@@ -3811,14 +3817,20 @@
           "url": "https://v.daum.net/v/20260912082357451",
           "source": "Daum",
           "date": "2026-09-12"
+        },
+        {
+          "title": "‘9·11 테러’ 25년 지나도 쫓는다…미 정부, 알카에다 지도부 1인당 최대 1000만 달러 현상금",
+          "url": "https://www.khan.co.kr/article/202609121045001",
+          "source": "경향신문",
+          "date": "2026-09-12"
         }
       ]
     },
     "변호사": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-12T17:13:00+09:00",
-      "lastSeen": "2026-09-12T17:41:00+09:00",
+      "lastSeen": "2026-09-12T18:12:00+09:00",
       "news": [
         {
           "title": "[단독] \"지귀연 접대 전 미리 예약…2차 비용 공모\"",
@@ -3970,11 +3982,30 @@
       ]
     },
     "t1": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-12T17:41:00+09:00",
-      "lastSeen": "2026-09-12T17:41:00+09:00",
-      "news": []
+      "lastSeen": "2026-09-12T18:12:00+09:00",
+      "news": [
+        {
+          "title": "'오너' 바이가 열고 '페이즈' 제리가 쓸었다⋯T1, 한화생명에 1-2 추격 [현장]",
+          "url": "https://www.etoday.co.kr/news/view/2624736",
+          "source": "이투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'48분 혈투' 한화생명, T1 꺾고 기선제압⋯결승까지 두 걸음 [현장]",
+          "url": "https://www.etoday.co.kr/news/view/2624728",
+          "source": "이투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[오!쎈 종로] '케리아' 류민석의 파이널 출사표, \"실력 비하면 아쉬운 커리어, LCK 우승으로 증명\"",
+          "url": "http://www.osen.co.kr/article/G1112874272",
+          "source": "OSEN",
+          "date": "2026-09-12"
+        }
+      ]
     },
     "부�� 대 제주": {
       "count": 1,
@@ -3982,6 +4013,110 @@
       "firstSeen": "2026-09-12T17:41:00+09:00",
       "lastSeen": "2026-09-12T17:41:00+09:00",
       "news": []
+    },
+    "술": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T18:12:00+09:00",
+      "lastSeen": "2026-09-12T18:12:00+09:00",
+      "news": [
+        {
+          "title": "줄줄이 \"술집 안 가요\"…20대들 향하는 곳",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008745927",
+          "source": "SBS 뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "“덜 마셔도 취향은 확실하게”…요즘 MZ세대가 주류 고르는 법 [트렌드]",
+          "url": "https://v.daum.net/v/20260912060342515",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "“MT는 가도 술은 안마셔요”… 주량·루틴 챙기는 대학생들",
+          "url": "https://www.munhwa.com/article/11616229",
+          "source": "문화일보",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "persija jakarta vs persib bandung": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T18:12:00+09:00",
+      "lastSeen": "2026-09-12T18:12:00+09:00",
+      "news": [
+        {
+          "title": "The Jakmania Tumpah Ruah Menuju SUGBK, Yel-yel Persija Bergema di Jalan Gatot Subroto",
+          "url": "https://depok.tribunnews.com/superball/52310/the-jakmania-tumpah-ruah-menuju-sugbk-yel-yel-persija-bergema-di-jalan-gatot-subroto",
+          "source": "Tribunnewsdepok.com",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "VIDEO: Bobotoh Dukung Larangan Away Ke Jakarta",
+          "url": "https://www.cnnindonesia.com/tv/20260912135145-400-1403131/video-bobotoh-dukung-larangan-away-ke-jakarta",
+          "source": "CNN Indonesia",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Polresta Tangerang Kawal Keberangkatan Suporter-Amankan Nobar Persija Vs Persib",
+          "url": "https://news.detik.com/berita/d-8659751/polresta-tangerang-kawal-keberangkatan-suporter-amankan-nobar-persija-vs-persib",
+          "source": "detikNews",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "k리그1": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T18:12:00+09:00",
+      "lastSeen": "2026-09-12T18:12:00+09:00",
+      "news": [
+        {
+          "title": "'멀티골'로 대전 연승 이끈 주민규, K리그 28라운드 MVP",
+          "url": "https://www.ytn.co.kr/_ln/0107_202609112311165988",
+          "source": "YTN",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"변화 너무 많았다\" 황선홍의 반성…'심플'해진 대전, 11위에서 6위로 껑충",
+          "url": "https://sports.news.nate.com/view/20260907n19147",
+          "source": "네이트",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"가을 마사? 저는 가을 전어 느낌으로 쫙!\" 대전 이명재의 '가을 타나 봐' [케터뷰]",
+          "url": "https://v.daum.net/v/20260911103607140",
+          "source": "Daum",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "프랑코 마스탄투오노": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T18:12:00+09:00",
+      "lastSeen": "2026-09-12T18:12:00+09:00",
+      "news": [
+        {
+          "title": "메시 넘은 마스탄투오노…19세 28일에 유럽 빅리그 해트트릭",
+          "url": "https://www.yna.co.kr/view/AKR20260912026600007",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "메시 대기록 깼다…마스탄투오노, 아르�� 최연소 유럽 빅리그 해트트릭",
+          "url": "https://www.newsis.com/view/NISX20260912_0003786771",
+          "source": "뉴시스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "메시를 넘어선 아르헨티나의 ‘신성’…마스탄투오노, ‘19세28일’에 유럽 빅리그 해트트릭 작성!",
+          "url": "https://sports.khan.co.kr/article/202609121240003",
+          "source": "스포츠경향",
+          "date": "2026-09-12"
+        }
+      ]
     }
   },
   "sections": {
