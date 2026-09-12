@@ -4875,10 +4875,10 @@
       ]
     },
     "경찰관": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T21:43:00+09:00",
-      "lastSeen": "2026-09-12T22:11:00+09:00",
+      "lastSeen": "2026-09-12T22:39:00+09:00",
       "news": [
         {
           "title": "경찰 내부망 개인정보 또 유출‥30대 현직 경찰관 체포",
@@ -4913,10 +4913,10 @@
       ]
     },
     "메이저 리그 베이스볼": {
-      "count": 2,
-      "maxTraffic": 1000,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-12T21:43:00+09:00",
-      "lastSeen": "2026-09-12T22:11:00+09:00",
+      "lastSeen": "2026-09-12T22:39:00+09:00",
       "news": [
         {
           "title": "“한국에서 성공한 뒤 MLB 가겠다”던 부산고 에이스는 결국… [베이스볼 비키니]",
@@ -4997,10 +4997,10 @@
       ]
     },
     "로또1241": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-12T22:11:00+09:00",
-      "lastSeen": "2026-09-12T22:11:00+09:00",
+      "lastSeen": "2026-09-12T22:39:00+09:00",
       "news": [
         {
           "title": "[속보]로또 1241회 당첨번호 ‘7·13·16·23·24·43’…보너스 ‘9’",
@@ -5019,14 +5019,20 @@
           "url": "https://www.ytn.co.kr/_ln/0134_202609101042277828",
           "source": "YTN",
           "date": "2026-09-12"
+        },
+        {
+          "title": "1241회 로또복권 1등 18명…당첨금 16억2839만 원",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260912.99099003916",
+          "source": "국제신문",
+          "date": "2026-09-12"
         }
       ]
     },
     "사고": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-12T22:11:00+09:00",
-      "lastSeen": "2026-09-12T22:11:00+09:00",
+      "lastSeen": "2026-09-12T22:39:00+09:00",
       "news": [
         {
           "title": "갯바위 고립되고 물놀이 사고도...'대조기' 주의보",
@@ -5044,6 +5050,18 @@
           "title": "태안 갯바위서 낚시하던 2명 고립…해경 구조",
           "url": "https://www.yna.co.kr/view/AKR20260912029100063",
           "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "만취해 시내서 시속 104㎞ 질주…사망사고 낸 20대 징역 5년",
+          "url": "https://www.yna.co.kr/view/AKR20260911128500062",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'제한속도 2배'...사망사고 낸 만취운전 20대, 항소심서 형량 늘어 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/12/2026091209221422021",
+          "source": "머니투데이",
           "date": "2026-09-12"
         }
       ]
@@ -5075,10 +5093,10 @@
       ]
     },
     "블리자드 엔터테인먼트": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-12T22:11:00+09:00",
-      "lastSeen": "2026-09-12T22:11:00+09:00",
+      "lastSeen": "2026-09-12T22:39:00+09:00",
       "news": [
         {
           "title": "스타크래프트 후속작 공개하나…블리즈컨 2026에 쏟아지는 관심",
@@ -5097,14 +5115,26 @@
           "url": "https://www.mk.co.kr/news/it/12151025",
           "source": "매일경제",
           "date": "2026-09-12"
+        },
+        {
+          "title": "SOOP, 블리자드 신작 행사 '블리즈컨 2026' 생중계",
+          "url": "https://v.daum.net/v/qWum6Dx2tU",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "스타크래프트 후속작 공개할까…3년 만에 블리자드 신작 행사 열린다",
+          "url": "https://www.munhwa.com/article/11616510",
+          "source": "문화일보",
+          "date": "2026-09-12"
         }
       ]
     },
     "apple store": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T22:11:00+09:00",
-      "lastSeen": "2026-09-12T22:11:00+09:00",
+      "lastSeen": "2026-09-12T22:39:00+09:00",
       "news": [
         {
           "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
@@ -5123,15 +5153,99 @@
           "url": "https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-15-pro-three-year-upgrade",
           "source": "AppleInsider",
           "date": "2026-09-12"
+        },
+        {
+          "title": "The best iPhone 18 preorder deals: Save up to $1,200 at T-Mobile, AT&T",
+          "url": "https://mashable.com/tech/sept-12-best-iphone-18-preorder-deals",
+          "source": "Mashable",
+          "date": "2026-09-12"
         }
       ]
     },
     "하이마트": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T22:11:00+09:00",
-      "lastSeen": "2026-09-12T22:11:00+09:00",
+      "lastSeen": "2026-09-12T22:39:00+09:00",
       "news": []
+    },
+    "너말고다른연애": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T22:39:00+09:00",
+      "lastSeen": "2026-09-12T22:39:00+09:00",
+      "news": [
+        {
+          "title": "손디아, 서강준·안은진 '너 말고 다른 연애' OST 첫 주자",
+          "url": "https://v.daum.net/v/xXWle3IkUH",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'너 말고 다른 연애' 10년 연애 서강준♥︎안은진, 첫방부터 '눈물' 위기 (방송 프리뷰)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/12/MI4DMNJYMI4DMZJXG42DQYZUGM/",
+          "source": "조선일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "서강준 안은진 '너 말고 다른 연애' 오늘 첫방송! \"사랑할까요? 결혼할까요?' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/12/2026091212457293592",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "한국인의 밥상": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T22:39:00+09:00",
+      "lastSeen": "2026-09-12T22:39:00+09:00",
+      "news": [
+        {
+          "title": "이찬원, 음식으로 전한 따뜻한 정...‘한국인의 밥상’ 15주년 특집서 요리부터 노래까지 선보여",
+          "url": "https://www.segye.com/newsView/20260911511322",
+          "source": "세계일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "‘한국인의 밥상’ 최수종, 두 손 감싸 쥐고 눈물 흘린 이유는?",
+          "url": "https://v.daum.net/v/15ZgoHEouN?f=p",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "이찬원 요리 얼마나 잘했길래…외국인 손님 “결혼하고 싶다”",
+          "url": "https://sports.donga.com/ent/article/all/20260911/134648569/1",
+          "source": "스포츠동아",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "애플": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-12T22:39:00+09:00",
+      "lastSeen": "2026-09-12T22:39:00+09:00",
+      "news": [
+        {
+          "title": "[테크톡노트] 329만원 아이폰, 접었다고 지갑도 열릴까",
+          "url": "https://www.yna.co.kr/view/AKR20260911129700017",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "“이거 월급으로 살 수 있어?” 난 못 사겠는데…월가 “합리적 가격”",
+          "url": "https://v.daum.net/v/20260912194155162",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"우린 세 번 접을 거야\"…애플 '아이폰 듀오'에 삼성전자 견제구",
+          "url": "https://view.asiae.co.kr/article/2026091210121921103",
+          "source": "아시아경제",
+          "date": "2026-09-12"
+        }
+      ]
     }
   },
   "sections": {
