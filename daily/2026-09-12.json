@@ -4559,10 +4559,10 @@
       ]
     },
     "호텔": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T20:11:00+09:00",
-      "lastSeen": "2026-09-12T20:39:00+09:00",
+      "lastSeen": "2026-09-12T21:16:00+09:00",
       "news": [
         {
           "title": "회기 중 女와 호텔 간 광명시의원 “사생활 있는 것 아니냐”…항변에도 결국 징계 절차",
@@ -4581,14 +4581,20 @@
           "url": "https://www.kyeonggi.com/article/20260911580233",
           "source": "경기일보",
           "date": "2026-09-12"
+        },
+        {
+          "title": "“남자로서 꿍꿍이” 모텔 사진 찍힌 유부남 광명시의원 해명",
+          "url": "https://www.munhwa.com/article/11616497",
+          "source": "문화일보",
+          "date": "2026-09-12"
         }
       ]
     },
     "가능한 사랑": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-12T20:11:00+09:00",
-      "lastSeen": "2026-09-12T20:39:00+09:00",
+      "lastSeen": "2026-09-12T21:16:00+09:00",
       "news": [
         {
           "title": "이창동 ‘가능한 사랑’, 베네치아영화제 국제비평가연맹상 [지금뉴스]",
@@ -4649,10 +4655,10 @@
       ]
     },
     "주얼리": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T20:39:00+09:00",
-      "lastSeen": "2026-09-12T20:39:00+09:00",
+      "lastSeen": "2026-09-12T21:16:00+09:00",
       "news": [
         {
           "title": "[민은미 더봄] 오랫동안 간직할 ‘아름다운 보물’···김보미 디자이너가 주얼리를 보는 시선",
@@ -4675,10 +4681,10 @@
       ]
     },
     "1기 신도시": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T20:39:00+09:00",
-      "lastSeen": "2026-09-12T20:39:00+09:00",
+      "lastSeen": "2026-09-12T21:16:00+09:00",
       "news": [
         {
           "title": "[비바100] 신도시 못 기다려… ‘완성형 도심’ 부상",
@@ -4701,10 +4707,10 @@
       ]
     },
     "충남 아산 fc 대 충북청주": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T20:39:00+09:00",
-      "lastSeen": "2026-09-12T20:39:00+09:00",
+      "lastSeen": "2026-09-12T21:16:00+09:00",
       "news": [
         {
           "title": "원정서 잘 버틴 충북청주, 충남아산 상대 승리 노린다",
@@ -4722,6 +4728,136 @@
           "title": "충남아산FC, 초중고생 ‘새학기 직관 패스’ 운영",
           "url": "https://www.dynews.co.kr/news/articleView.html?idxno=864831",
           "source": "동양일보",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "배우": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-12T21:16:00+09:00",
+      "lastSeen": "2026-09-12T21:16:00+09:00",
+      "news": [
+        {
+          "title": "SBS 제대로 판 키웠다…'시청률 24.9%' 배우 의사 가운 착장→초대박 예고한 韓 드라마 ('닥터X')",
+          "url": "https://v.daum.net/v/20260912130149404",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'닥터X' 김지원, 가죽 코트 걸치고 제대로 독하게 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/11/2026091110217218438",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "김지원, 올블랙 '메디컬 다크히어로' 변신…'닥터X' 메인 포스터 공개",
+          "url": "https://www.newspim.com/news/view/20260911000745",
+          "source": "뉴스핌",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "한반도": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T21:16:00+09:00",
+      "lastSeen": "2026-09-12T21:16:00+09:00",
+      "news": [
+        {
+          "title": "[2026년 태풍 전망]다음주 25호 태풍 두쥐안 발생 가능성, 26호 태풍 수리개,27호 태풍 초이완 한국 첫 태풍은?",
+          "url": "http://www.economytalk.kr/news/articleView.html?idxno=424051",
+          "source": "이코노미톡뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "2년째 한반도 비껴간 태풍…지금 바다에선 무슨 일이",
+          "url": "https://news.jtbc.co.kr/article/NB12317569",
+          "source": "JTBC",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"뜨거운 바다, 태풍 키웠다\" 해수 온도와 빙하가 바꾼 재난 지도 [재난으로 온 기후위기④]",
+          "url": "https://news.nate.com/view/20260910n03772",
+          "source": "네이트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "클론 강원래": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T21:16:00+09:00",
+      "lastSeen": "2026-09-12T21:16:00+09:00",
+      "news": [
+        {
+          "title": "구준엽 생일에 '故서희원' 언급한 강원래…김송도 '울컥' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/11/2026091119344846655",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "클론 강원래, 57세 구준엽 애틋 생일 축하…\"故서희원에 안부 전해줘\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6288372",
+          "source": "뉴스1",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"희원에게 안부 전해줘\"…강원래, '아내 보낸' 구준엽 생일에 보낸 눈물의 메시지",
+          "url": "https://v.daum.net/v/20260912165749991",
+          "source": "Daum",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "류화영": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T21:16:00+09:00",
+      "lastSeen": "2026-09-12T21:16:00+09:00",
+      "news": [
+        {
+          "title": "티아라 류화영, 오늘 3세 연상 사업가와 결혼 \"아빠 같은 남자\"",
+          "url": "https://www.newsis.com/view/NISX20260910_0003785066",
+          "source": "뉴시스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'오늘(12일) 결혼' 류화영, 듬직한 남편에 기대어...연신 \"고맙습니다\"",
+          "url": "https://v.daum.net/v/20260912205445098",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "류화영, 12일 비연예인 연인과 결혼…\"서로의 전부가 되기로\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6287962",
+          "source": "뉴스1",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "한혜연": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T21:16:00+09:00",
+      "lastSeen": "2026-09-12T21:16:00+09:00",
+      "news": [
+        {
+          "title": "'14kg 감량' 한혜연, 믿기 힘든 탄탄 다리 라인...\"근육이 갈라졌네\"",
+          "url": "https://v.daum.net/v/20260912070036483?f=p",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'-20kg' 한혜연, 크롭까지 야무지게 소화···유지어터의 승리",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/11/MVRTEMJSGQYGCMZTMMZTIYLDMM/",
+          "source": "조선일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'슈스스' 한혜연, 크롭니트로 납작배 노출…'뼈말라' 되더니 과감",
+          "url": "https://news.nate.com/view/20260911n19998?mid=e1100",
+          "source": "Nate News",
           "date": "2026-09-12"
         }
       ]
