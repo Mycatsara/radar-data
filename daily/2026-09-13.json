@@ -1140,10 +1140,10 @@
       ]
     },
     "공휴일": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-13T05:12:00+09:00",
-      "lastSeen": "2026-09-13T05:43:00+09:00",
+      "lastSeen": "2026-09-13T06:12:00+09:00",
       "news": [
         {
           "title": "\"토요일 겹쳤는데 왜 안돼?\" 2026년 추석 대체공휴일·임시공휴일 없는 이유",
@@ -1166,10 +1166,10 @@
       ]
     },
     "이지아": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T05:12:00+09:00",
-      "lastSeen": "2026-09-13T05:43:00+09:00",
+      "lastSeen": "2026-09-13T06:12:00+09:00",
       "news": [
         {
           "title": "48세 이지아, 나이 믿기지 않는 동안 미모…쭉 뻗은 각선미까지 [N샷]",
@@ -1347,10 +1347,10 @@
       "news": []
     },
     "아시안 게임": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-13T05:43:00+09:00",
-      "lastSeen": "2026-09-13T05:43:00+09:00",
+      "lastSeen": "2026-09-13T06:12:00+09:00",
       "news": [
         {
           "title": "1958년엔 못 왔고 1994년엔 안 왔다…북한, 사상 첫 ‘일본 아시안게임’ 입성",
@@ -1369,14 +1369,20 @@
           "url": "https://www.nocutnews.co.kr/news/6577127",
           "source": "노컷뉴스",
           "date": "2026-09-12"
+        },
+        {
+          "title": "북한 축구선수단 일본 도착…41년 만의 대규모 방일",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661317",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
         }
       ]
     },
     "real madrid vs rayo vallecano": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T05:43:00+09:00",
-      "lastSeen": "2026-09-13T05:43:00+09:00",
+      "lastSeen": "2026-09-13T06:12:00+09:00",
       "news": [
         {
           "title": "Audero evita el gol de Vinicius",
@@ -1395,14 +1401,20 @@
           "url": "https://www.vermouth-deportivo.com.ar/mbappe-tuvo-revancha-de-penal-en-la-liga-y-marco-ante-rayo-vallecano/",
           "source": "Vermouth Deportivo",
           "date": "2026-09-12"
+        },
+        {
+          "title": "Mbappé, Carreras y Bellingham golean en una primera parte imparable del Real Madrid",
+          "url": "https://okdiario.com/diariomadridista/real-madrid/mbappe-resarce-desde-punto-penalti-carreras-irrumpe-madrid-marca-dos-goles-tres-minutos-rayo-660027",
+          "source": "OkDiario",
+          "date": "2026-09-12"
         }
       ]
     },
     "석유": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-13T05:43:00+09:00",
-      "lastSeen": "2026-09-13T05:43:00+09:00",
+      "lastSeen": "2026-09-13T06:12:00+09:00",
       "news": [
         {
           "title": "IEA \"호르무즈, 올해 안 열린다\"…내년까지 '잃어버린 시대'",
@@ -1420,6 +1432,148 @@
           "title": "유가 뛸때 선박연료 날았다⋯ 해운업계 ‘벙커유 쇼크’",
           "url": "https://www.viva100.com/article/20260910500882",
           "source": "브릿지경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "사우디 ‘생명줄’ 송유관까지 타격…친이란 세력에 바닷길·육로 포위",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661870",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'친이란' 후티·사우디 충돌 계속…예멘 정부군, 빼앗�� 모카 공습",
+          "url": "https://v.daum.net/v/20260913055240675",
+          "source": "Daum",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "외국인": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T06:12:00+09:00",
+      "lastSeen": "2026-09-13T06:12:00+09:00",
+      "news": [
+        {
+          "title": "\"한국 오면 꼭 사야해\" 올영도 다이소도 아닌 이곳 꼭 간다…외국인이 바꾼 '돈 버는 공식'[주末머니]",
+          "url": "https://v.daum.net/v/20260912140127948",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "맛집·뷰티·굿즈까지 담는다...편의점업계 '공간 경쟁' 본격화 - 머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/09/12/2026091014482893890",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "15년 만에 점포 줄였는데…외국인 지갑 열리자 살아난 ＇이 종목＇ [주식R]",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609120414",
+          "source": "한국경제TV",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "홍서범": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T06:12:00+09:00",
+      "lastSeen": "2026-09-13T06:12:00+09:00",
+      "news": [
+        {
+          "title": "\"양육비 보내라\" 전 며느리 저격 속..홍서범, 子 외도 사과 후 '김구라 칭찬' 여유 근황 [스타이슈]",
+          "url": "https://v.daum.net/v/20260912195109278",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"임신 중 외도\" 전 며느리 소송 파장…홍서범, 뜻밖의 근황 포착",
+          "url": "https://news.nate.com/view/20260912n06609",
+          "source": "네이트",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "김구라, ‘아들 불륜 논란’ 홍서범 근황 공개 “최근 동네서 만나. 엄치 척 올리더라”",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-12/202609120100082490005365",
+          "source": "스포츠조선",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "sunderland vs arsenal": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T06:12:00+09:00",
+      "lastSeen": "2026-09-13T06:12:00+09:00",
+      "news": [
+        {
+          "title": "Mikel Arteta tries to hug referee Stuart Attwell as Arsenal boss 'finally' gets booked for leaving technical area",
+          "url": "https://www.thesun.co.uk/sport/40361776/arteta-hugs-referee-stuart-attwell-booked/",
+          "source": "The Sun",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Sunderland vs Arsenal live: Arteta suffers ’embarrassment’ over booking",
+          "url": "https://www.101greatgoals.com/football/premier-league/sunderland-vs-arsenal-live-mikel-arteta-booking/",
+          "source": "101 Great Goals",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Mikel Arteta spotted 'raging' at three Arsenal stars during Napoli win",
+          "url": "https://www.aol.co.uk/articles/mikel-arteta-spotted-raging-three-075723000.html",
+          "source": "AOL.co.uk",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "real madrid": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T06:12:00+09:00",
+      "lastSeen": "2026-09-13T06:12:00+09:00",
+      "news": [
+        {
+          "title": "Kylian Mbappé le empató un récord a James Rodríguez con Real Madrid en solo 17 minutos",
+          "url": "https://bolavip.com/laliga/kylian-mbappe-le-empato-un-record-a-james-rodriguez-con-real-madrid-en-solo-17-minutos",
+          "source": "Bolavip",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Paco González señala la principal diferencia del Real Madrid con el juego de otros equipos como el Barça o el Bayern: \"Aquí esperan\"",
+          "url": "https://www.cope.es/programas/tiempo-de-juego/audios/paco-gonzalez-senala-principal-diferencia-real-madrid-juego-otros-equipos-barca-bayern-esperan-20260912_3435424.html",
+          "source": "COPE",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Endrick pierde su sitio en el Real Madrid",
+          "url": "https://www.si.com/es-us/futbol/endrick-pierde-su-sitio-en-el-real-madrid",
+          "source": "Sports Illustrated",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "us오픈": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T06:12:00+09:00",
+      "lastSeen": "2026-09-13T06:12:00+09:00",
+      "news": [
+        {
+          "title": "남자 테니스 츠베레프, 하차노프 3-0 꺾고 US오픈 결승행",
+          "url": "https://v.daum.net/v/20260912080455251",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'3연속 결승' 츠베레프 vs '23년 숙원' 셸턴…US오픈 결승 격돌(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260912014151007",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "메이저 우승 맛 본 츠베레프 VS 알카라스 꺾은 셸턴 ... US오픈 남자 결승 맞붙는다",
+          "url": "https://www.chosun.com/international/international_general/2026/09/12/ZQUASFZPBZF5XDSBPUYIOP3YUY/",
+          "source": "조선일보",
           "date": "2026-09-12"
         }
       ]
