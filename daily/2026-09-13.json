@@ -472,10 +472,10 @@
       ]
     },
     "프리미어리그": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T03:40:00+09:00",
+      "lastSeen": "2026-09-13T04:10:00+09:00",
       "news": [
         {
           "title": "엔조 감독, 맨체스터 더비에 대해: \"이런 경기를 원합니다\"",
@@ -498,10 +498,10 @@
       ]
     },
     "블리치": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T01:13:00+09:00",
-      "lastSeen": "2026-09-13T03:40:00+09:00",
+      "lastSeen": "2026-09-13T04:10:00+09:00",
       "news": [
         {
           "title": "Bleach: Thousand-Year Blood War – The Calamity Episode 8: Release Date, Time, Where to Watch, and More",
@@ -632,10 +632,10 @@
       ]
     },
     "토트넘 대 에버턴": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T03:40:00+09:00",
+      "lastSeen": "2026-09-13T04:10:00+09:00",
       "news": [
         {
           "title": "“저는 믿습니다” 5500억 사용하고 ‘0승·0골·17위’ 진짜 승리가 필요한 시점에 토트넘 감독 “나는 선수들 능력에 확신이 있다”",
@@ -658,10 +658,10 @@
       ]
     },
     "pl": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T03:40:00+09:00",
+      "lastSeen": "2026-09-13T04:10:00+09:00",
       "news": [
         {
           "title": "Koniec z dominacją big techów w chmurze? KE ma plan, polska branża się spiera",
@@ -696,10 +696,10 @@
       ]
     },
     "이은결": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T03:40:00+09:00",
+      "lastSeen": "2026-09-13T04:10:00+09:00",
       "news": [
         {
           "title": "'870평 부지 소유' 이은결, 마술 공연 장비만 200억 이상 “2억짜리 기차도 한 번 써”",
@@ -792,10 +792,10 @@
       ]
     },
     "연애": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-13T02:11:00+09:00",
-      "lastSeen": "2026-09-13T03:40:00+09:00",
+      "lastSeen": "2026-09-13T04:10:00+09:00",
       "news": [
         {
           "title": "안은진, '임신' 의심에 \"안 한 지 6개월도 넘어\" 폭탄 발언..서강준 당황 [너 말고 다른 연애]",
@@ -814,14 +814,20 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/12/MI4DMNJYMI4DMZJXG42DQYZUGM/",
           "source": "조선일보",
           "date": "2026-09-12"
+        },
+        {
+          "title": "서강준·안은진, 첫방부터 격렬 키스+포옹으로 포문 (너 말고 다른 연애) [TV캡처]",
+          "url": "https://news.nate.com/view/20260912n13148",
+          "source": "네이트",
+          "date": "2026-09-12"
         }
       ]
     },
     "twitch": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-13T03:14:00+09:00",
-      "lastSeen": "2026-09-13T03:40:00+09:00",
+      "lastSeen": "2026-09-13T04:10:00+09:00",
       "news": [
         {
           "title": "Doja Cat Sparks Fan Concern After Slurring Words on Livestream: 'I'm So Tired of This, Man'",
@@ -838,10 +844,10 @@
       ]
     },
     "도경완": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-13T03:14:00+09:00",
-      "lastSeen": "2026-09-13T03:40:00+09:00",
+      "lastSeen": "2026-09-13T04:10:00+09:00",
       "news": [
         {
           "title": "도경완, 200만 원 대 텐트 구매했는데···장윤정 \"비닐하우스야?\"('도장TV')",
@@ -859,6 +865,12 @@
           "title": "♥장윤정 따라잡으려다…도경완, 주식에 물렸다 \"많이 속상하지만 버틸 것\"(도장TV)",
           "url": "https://news.nate.com/view/20260905n11548",
           "source": "네이트",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "♥장윤정은 없었다…도경완 \"아이 둘 데리고 혼자 다녀\" ('도장TV')",
+          "url": "https://v.daum.net/v/20260912213548627?f=p",
+          "source": "Daum",
           "date": "2026-09-12"
         }
       ]
@@ -885,6 +897,58 @@
           "title": "Tottenham vs Everton live updates: Latest from north London plus reaction to today’s Premier League results",
           "url": "https://www.nytimes.com/athletic/live-blogs/tottenham-vs-everton-live-updates-premier-league-score-result/gzkZxMocCKpg/",
           "source": "The New York Times",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "오버워치": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T04:10:00+09:00",
+      "lastSeen": "2026-09-13T04:10:00+09:00",
+      "news": [
+        {
+          "title": "르세라핌 ‘메이드 마이 나이트’ 발매…“‘오버워치’와 뮤직비디오 공동 제작”",
+          "url": "https://v.daum.net/v/GQxNHNfzWO",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "르세라핌, 새 싱글 '메이드 마이 나이트'로 컴백",
+          "url": "https://www.yna.co.kr/view/MYH20260912004400038",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[EVENT] LE SSERAFIM 2nd Single Album ‘Made My Night’ 대면 팬사인회 안내 (뮤직아트/final)",
+          "url": "https://weverse.io/lesserafim/notice/39153",
+          "source": "Weverse",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "세리에": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T04:10:00+09:00",
+      "lastSeen": "2026-09-13T04:10:00+09:00",
+      "news": [
+        {
+          "title": "메시 넘은 마스탄투오노…19세 28일에 유럽 빅리그 해트트릭",
+          "url": "https://www.yna.co.kr/view/AKR20260912026600007",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "메시 대기록 깼다…마스탄투오노, 아르헨 최연소 유럽 빅리그 해트트릭",
+          "url": "https://www.newsis.com/view/NISX20260912_0003786771",
+          "source": "��시스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "메시를 넘어선 아르헨티나의 ‘신성’…마스탄투오노, ‘19세28일’에 유럽 빅리그 해트트릭 작성!",
+          "url": "https://sports.khan.co.kr/article/202609121240003",
+          "source": "스포츠경향",
           "date": "2026-09-12"
         }
       ]
