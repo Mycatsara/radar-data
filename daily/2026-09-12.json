@@ -1794,10 +1794,10 @@
       ]
     },
     "오픈ai": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T08:38:00+09:00",
-      "lastSeen": "2026-09-12T08:38:00+09:00",
+      "lastSeen": "2026-09-12T09:18:00+09:00",
       "news": [
         {
           "title": "[특징주] S2W, '오픈AI 이니셔티브 합류'에 하락장서도 26% 폭등(종합)",
@@ -1820,10 +1820,10 @@
       ]
     },
     "중국": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-12T08:38:00+09:00",
-      "lastSeen": "2026-09-12T08:38:00+09:00",
+      "lastSeen": "2026-09-12T09:18:00+09:00",
       "news": [
         {
           "title": "\"너도 중국 가니?\" 6개월간 한국인 171만명 몰렸다…힙해진 '중티' - 머니투데이",
@@ -1842,21 +1842,33 @@
           "url": "https://kr.news.cn/20260909/b2a73b86337a406daf2e2fb40f7b315b/c.html",
           "source": "신화망",
           "date": "2026-09-11"
+        },
+        {
+          "title": "\"제주도, 이대로 두면 위험\" 경고 또 나왔다…\"길거리에 온통 중국어, 질식 위기\"",
+          "url": "https://v.daum.net/v/8y9PVA8Bc4",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"여기가 중국인지 한국인지\"…'중국인 80%' 우도 영상에 SNS 시끌",
+          "url": "https://news.nate.com/view/20260911n00801",
+          "source": "네이트",
+          "date": "2026-09-11"
         }
       ]
     },
     "제주특별자치도": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-12T08:38:00+09:00",
-      "lastSeen": "2026-09-12T08:38:00+09:00",
+      "lastSeen": "2026-09-12T09:18:00+09:00",
       "news": []
     },
     "구준엽": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T08:38:00+09:00",
-      "lastSeen": "2026-09-12T08:38:00+09:00",
+      "lastSeen": "2026-09-12T09:18:00+09:00",
       "news": [
         {
           "title": "구준엽 생일에 '故서희원' 언급한 강원래…김송도 '울컥' - 머니투데이",
@@ -1879,10 +1891,10 @@
       ]
     },
     "주성엔지니어링": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-12T08:38:00+09:00",
-      "lastSeen": "2026-09-12T08:38:00+09:00",
+      "lastSeen": "2026-09-12T09:18:00+09:00",
       "news": [
         {
           "title": "[장중수급포착] 주성엔지니어링, 기관 5일 연속 순매수행진... 주가 +10.65%",
@@ -1905,10 +1917,10 @@
       ]
     },
     "영덕군": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T08:38:00+09:00",
-      "lastSeen": "2026-09-12T08:38:00+09:00",
+      "lastSeen": "2026-09-12T09:18:00+09:00",
       "news": [
         {
           "title": "영덕군의회, 영해면 3개 주요사업 현지 확인",
@@ -1952,6 +1964,110 @@
           "title": "‘Super El Niño’ for the ages increasingly likely. What it means for Minnesota",
           "url": "https://bringmethenews.com/minnesota-weather/super-el-nino-for-the-ages-increasingly-likely-what-it-means-for-minnesota",
           "source": "Bring Me The News",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "통장": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T09:18:00+09:00",
+      "lastSeen": "2026-09-12T09:18:00+09:00",
+      "news": [
+        {
+          "title": "파킹통장 추천 고르는 기준…금리 말고 무엇을 봐야 하나",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=461882",
+          "source": "스페셜타임스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[크랩] “유지할 이유가 없어요”…청약통장 깨는 2030, 왜?",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661266",
+          "source": "KBS 뉴스",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "[AI 카드뉴스] 청약통장 9월 30일까지 꼭 확인하세요",
+          "url": "https://news.nate.com/view/20260909n15521?mid=n0000&isq=9974",
+          "source": "네이트",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "m": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T09:18:00+09:00",
+      "lastSeen": "2026-09-12T09:18:00+09:00",
+      "news": [
+        {
+          "title": "Sources: Bears, RB Swift agree to 3-year, $33.75M extension",
+          "url": "https://www.espn.com/nfl/story/_/id/49906474/bears-rb-swift-agree-3-year-3375m-extension",
+          "source": "ESPN",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Lions Former 2nd-Round Pick Lands $33.75M Deal With Rival",
+          "url": "https://sports.yahoo.com/articles/lions-former-2nd-round-pick-230946952.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Report: Bears, D'Andre Swift agree to three-year, $33.75 million extension that includes $27.5 million guaranteed",
+          "url": "https://www.nfl.com/news/bears-d-andre-swift-agree-to-three-year-33-75-million-extension",
+          "source": "NFL.com",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "안세영": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-12T09:18:00+09:00",
+      "lastSeen": "2026-09-12T09:18:00+09:00",
+      "news": [
+        {
+          "title": "안세영만 이기면 '88년치 급여' 손에 쥐는데…동남아 최강, 벌써 포기했다→인도네시아 \"아시안게임 남자 종목에서 금메달 목표\"",
+          "url": "https://v.daum.net/v/20260912050113475",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'안세영 이기고 AG 금메달 따자! 30억 루피아 쏜다'…일반 근로자 '88년치 급여' 미쳤다! 인도네시아, 배드민턴 우승에 파격 포상금 [오피셜]",
+          "url": "https://www.xportsnews.com/article/2194041",
+          "source": "www.xportsnews.com",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "스포츠 장관, 유도가 2026 아시안 게임에서 최선을 다하도록 요청",
+          "url": "https://voi.id/kr/sports/593746",
+          "source": "VOI.ID",
+          "date": "2026-09-11"
+        }
+      ]
+    },
+    "송지호 바다하늘길": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T09:18:00+09:00",
+      "lastSeen": "2026-09-12T09:18:00+09:00",
+      "news": [
+        {
+          "title": "바다를 걸어 섬 위 하늘로…6일 만에 2만명 발길",
+          "url": "https://v.daum.net/v/20260911204012805",
+          "source": "Daum",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "484억 투입 고성 송지호 바다하늘길, 유료화 전환 후 지속 가능성 주목",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003266108",
+          "source": "OhmyNews",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"걸어서 무인도까지 들어갈 수 있다니\"… 631m 다리로 이어지는 산책 명소",
+          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=18756",
+          "source": "아던트뉴스",
           "date": "2026-09-11"
         }
       ]
