@@ -4267,17 +4267,17 @@
       ]
     },
     "대학 입학": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-12T19:12:00+09:00",
-      "lastSeen": "2026-09-12T19:12:00+09:00",
+      "lastSeen": "2026-09-12T19:39:00+09:00",
       "news": []
     },
     "장기 기증 의 날": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T19:12:00+09:00",
-      "lastSeen": "2026-09-12T19:12:00+09:00",
+      "lastSeen": "2026-09-12T19:39:00+09:00",
       "news": [
         {
           "title": "“한 사람의 기증이 9명의 생명으로”…남동구 보건소, 장기기증 나눔 확산",
@@ -4300,10 +4300,10 @@
       ]
     },
     "정친원": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T19:12:00+09:00",
-      "lastSeen": "2026-09-12T19:12:00+09:00",
+      "lastSeen": "2026-09-12T19:39:00+09:00",
       "news": [
         {
           "title": "'파격 브라 노출' 사발렌카, 관심 받았지만 랭킹 추락...8강전 이겼는데, 왜 100주 만에 '세계 1위' 뺏겼나",
@@ -4326,10 +4326,10 @@
       ]
     },
     "중동": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-12T19:12:00+09:00",
-      "lastSeen": "2026-09-12T19:12:00+09:00",
+      "lastSeen": "2026-09-12T19:39:00+09:00",
       "news": [
         {
           "title": "사우디 핵심 송유관 피격‥육로도 막히나",
@@ -4346,6 +4346,18 @@
         {
           "title": "“후티 반군, 바브엘만데브 해협 통제권 확보”…이란군이 배후 지휘",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8661410",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "호르무즈 이어 홍해 비상…사우디발 원유수송 비상",
+          "url": "https://v.daum.net/v/20260912191648837",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[뉴스광장 헤드라인]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661658",
           "source": "KBS 뉴스",
           "date": "2026-09-12"
         }
@@ -4383,6 +4395,162 @@
       "firstSeen": "2026-09-12T19:12:00+09:00",
       "lastSeen": "2026-09-12T19:12:00+09:00",
       "news": []
+    },
+    "신지수": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T19:39:00+09:00",
+      "lastSeen": "2026-09-12T19:39:00+09:00",
+      "news": [
+        {
+          "title": "'슈퍼스타K' 출신 신지수, 오는 19일 비연예인과 결혼",
+          "url": "https://www.newsis.com/view/NISX20260912_0003786817",
+          "source": "뉴시스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "신지수, 웨딩화보 직접 공개 \"홍콩-서울 오가며 2년반 연애 끝 결혼..축하 감사\"[전문]",
+          "url": "https://v.daum.net/v/20260912162451614",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'슈퍼스타K' 출신 신지수, 품절녀 된���…결혼 청첩장 공개 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/12/2026091211404272967",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "재산": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T19:39:00+09:00",
+      "lastSeen": "2026-09-12T19:39:00+09:00",
+      "news": [
+        {
+          "title": "“내 재산은 평균일까?”…한국인 48세에 ‘빚’·61세 ‘자산’ 정점 [데이터로 읽는 머니 무브]",
+          "url": "https://www.mk.co.kr/news/economy/12149835",
+          "source": "매일경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"빚이 곧 자산증식 기회더라\"…가계빚 2천조 시대의 단면",
+          "url": "https://www.nocutnews.co.kr/news/6575780",
+          "source": "노컷뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "”정부, ‘��출 정책’ 다시 보라!” 전문가 탄식, 가난할수록 고금리로 몰리는 규제의 역설",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609080851042142",
+          "source": "YTN",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "키움 히어로즈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T19:39:00+09:00",
+      "lastSeen": "2026-09-12T19:39:00+09:00",
+      "news": [
+        {
+          "title": "키움, 'SGC E&C와 함께하는 THE LIV 8월 MVP'에 박진형·서건창 선정→퓨처스팀은 김성진·주성원 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/12/2026091217254943785",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "키움, 8월 월간 MVP에 투수 박진형-타자 서건창 선정…상금 150만원 수여",
+          "url": "https://sports.khan.co.kr/article/202609121809003",
+          "source": "스포츠경향",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "박진형·서건창, 키움 8월 MVP 선정…퓨처스팀 김성진·주성원도 각각 이름 올려",
+          "url": "https://mydaily.co.kr/page/view/2026091217375675513",
+          "source": "마이데일리",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "대구fc": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T19:39:00+09:00",
+      "lastSeen": "2026-09-12T19:39:00+09:00",
+      "news": [
+        {
+          "title": "\"5월의 한 갚았다\" 대구FC, 홈에서 용인FC 맞아 3대1 승리",
+          "url": "https://www.imaeil.com/page/view/2026091218493906711",
+          "source": "매일신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "팀당 8~9경기 남은 K리그2 승격 경쟁 판도는? 다이렉트 승격권 주어지는 1, 2위 경쟁-준PO 마지노선인 6위 경쟁에 주목",
+          "url": "https://sports.news.nate.com/view/20260910n29177",
+          "source": "네이트",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "승리 절실한 대구FC···홈에서 용인 상대 '승점 3점' 도전",
+          "url": "https://dgmbc.com/NewsArticle/861837",
+          "source": "대구MBC",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "lpl": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T19:39:00+09:00",
+      "lastSeen": "2026-09-12T19:39:00+09:00",
+      "news": [
+        {
+          "title": "Former LPL CEO Dan Arnold Lands at AI-Native Wealth Firm",
+          "url": "https://finance.yahoo.com/technology/ai/articles/former-lpl-ceo-dan-arnold-173541031.html",
+          "source": "Yahoo Finance",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Dan Arnold is back, and he’s leading a startup.",
+          "url": "https://www.investmentnews.com/independent-broker-dealers/dan-arnold-is-back-and-hes-leading-a-startup/268130",
+          "source": "InvestmentNews",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Former LPL Financial Boss Dan Arnold Joins Wealthtech Firm",
+          "url": "https://www.barrons.com/advisor/articles/former-lpl-ceo-dan-arnold-stirlingshire-0c8eae94",
+          "source": "Barron's",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "배용준": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-12T19:39:00+09:00",
+      "lastSeen": "2026-09-12T19:39:00+09:00",
+      "news": [
+        {
+          "title": "'박수진♥' 배용준, 백발 장발 근황 후 또 포착…'14세 장타자'와 라운딩",
+          "url": "https://v.daum.net/v/20260912135549879",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "‘백발’ 배용준, 근황 보니…골프장서 포착",
+          "url": "https://www.mk.co.kr/news/hot-issues/12151056",
+          "source": "매일경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "‘박수진♥’ 배용준, 백발 목격담 이후… 모자 눌러쓰고 포착된 근황",
+          "url": "https://sports.khan.co.kr/article/202609121623003",
+          "source": "스포츠경향",
+          "date": "2026-09-12"
+        }
+      ]
     }
   },
   "sections": {
