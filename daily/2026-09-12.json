@@ -4655,10 +4655,10 @@
       ]
     },
     "주얼리": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T20:39:00+09:00",
-      "lastSeen": "2026-09-12T21:16:00+09:00",
+      "lastSeen": "2026-09-12T21:43:00+09:00",
       "news": [
         {
           "title": "[민은미 더봄] 오랫동안 간직할 ‘아름다운 보물’···김보미 디자이너가 주얼리를 보는 시선",
@@ -4733,10 +4733,10 @@
       ]
     },
     "배우": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-12T21:16:00+09:00",
-      "lastSeen": "2026-09-12T21:16:00+09:00",
+      "lastSeen": "2026-09-12T21:43:00+09:00",
       "news": [
         {
           "title": "SBS 제대로 판 키웠다…'시청률 24.9%' 배우 의사 가운 착장→초대박 예고한 韓 드라마 ('닥터X')",
@@ -4759,10 +4759,10 @@
       ]
     },
     "한반도": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-12T21:16:00+09:00",
-      "lastSeen": "2026-09-12T21:16:00+09:00",
+      "lastSeen": "2026-09-12T21:43:00+09:00",
       "news": [
         {
           "title": "[2026년 태풍 전망]다음주 25호 태풍 두쥐안 발생 가능성, 26호 태풍 수리개,27호 태풍 초이완 한국 첫 태풍은?",
@@ -4785,10 +4785,10 @@
       ]
     },
     "클론 강원래": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-12T21:16:00+09:00",
-      "lastSeen": "2026-09-12T21:16:00+09:00",
+      "lastSeen": "2026-09-12T21:43:00+09:00",
       "news": [
         {
           "title": "구준엽 생일에 '故서희원' 언급한 강원래…김송도 '울컥' - 머니투데이",
@@ -4807,14 +4807,20 @@
           "url": "https://v.daum.net/v/20260912165749991",
           "source": "Daum",
           "date": "2026-09-12"
+        },
+        {
+          "title": "클론 강원래, 57세 구준엽 애틋 생일 축하…“故서희원에 안부 전해줘”",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260912/134654985/1",
+          "source": "동아일보",
+          "date": "2026-09-12"
         }
       ]
     },
     "류화영": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T21:16:00+09:00",
-      "lastSeen": "2026-09-12T21:16:00+09:00",
+      "lastSeen": "2026-09-12T21:43:00+09:00",
       "news": [
         {
           "title": "티아라 류화영, 오늘 3세 연상 사업가와 결혼 \"아빠 같은 남자\"",
@@ -4833,14 +4839,20 @@
           "url": "https://www.news1.kr/entertain/celebrity-topic/6287962",
           "source": "뉴스1",
           "date": "2026-09-12"
+        },
+        {
+          "title": "티아라 참석할까…류화영, 다이아 반지 끼고 사업가와 오늘(12일) 결혼 [Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/12/GMYWGNDEHE2DIZBRMFRGEZRVGY/",
+          "source": "조선일보",
+          "date": "2026-09-12"
         }
       ]
     },
     "한혜연": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T21:16:00+09:00",
-      "lastSeen": "2026-09-12T21:16:00+09:00",
+      "lastSeen": "2026-09-12T21:43:00+09:00",
       "news": [
         {
           "title": "'14kg 감량' 한혜연, 믿기 힘든 탄탄 다리 라인...\"근육이 갈라졌네\"",
@@ -4858,6 +4870,110 @@
           "title": "'슈스스' 한혜연, 크롭니트로 납작배 노출…'뼈말라' 되더니 과감",
           "url": "https://news.nate.com/view/20260911n19998?mid=e1100",
           "source": "Nate News",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "경찰관": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T21:43:00+09:00",
+      "lastSeen": "2026-09-12T21:43:00+09:00",
+      "news": [
+        {
+          "title": "경찰 내부망 개인정보 또 유출‥30대 현직 경찰관 체포",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6851372_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"돈 받고 개인정보 빼줬다\"…범인 누군가 봤더니 '충격'",
+          "url": "https://www.hankyung.com/article/2026091202837",
+          "source": "한국경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "경찰 내부망서 취득한 개인정보 외부인에게 넘긴 현직 경찰관 검거",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034453",
+          "source": "기호일보",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "메이저 리그 베이스볼": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T21:43:00+09:00",
+      "lastSeen": "2026-09-12T21:43:00+09:00",
+      "news": [
+        {
+          "title": "“한국에서 성공한 뒤 MLB 가겠다”던 부산고 에이스는 결국… [베이스볼 비키니]",
+          "url": "https://www.donga.com/news/Sports/article/all/20260912/134655105/1",
+          "source": "동아일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'무려 4개월 만에 연투' 롯데 1차 지명, 4G 연속 무실점 행진! \"세게만 던지려 했는데, 방향성 잡히니 제구까지 되더라\"",
+          "url": "https://v.daum.net/v/6FLya6FYWK?f=p",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "AG 대표팀 합류 앞둔 롯데 김진욱, 1군 말소…LG 김강률 복귀",
+          "url": "https://www.newsis.com/view/NISX20260912_0003786849",
+          "source": "뉴시스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "mbc": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T21:43:00+09:00",
+      "lastSeen": "2026-09-12T21:43:00+09:00",
+      "news": [
+        {
+          "title": "استقالة علي جابر... وخوف من عملية صرف واسعة | MBC: السَعوَدَة جارية على قدم وساق!",
+          "url": "https://www.al-akhbar.com/NewspaperArticles/culture/903884/%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%A9-%D8%B9%D9%84%D9%8A-%D8%AC%D8%A7%D8%A8%D8%B1----%D9%88%D8%AE%D9%88%D9%81-%D9%85%D9%86-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B5%D8%B1%D9%81-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9---mbc--%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D8%A9-%D8%AC",
+          "source": "Al Akhbar",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "بعد استقالته من MBC.. علي جابر ينتقل إلى دبي للإعلام| خاص",
+          "url": "https://www.cairo24.com/2491575",
+          "source": "القاهرة 24",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"إم بي سي\" تعلن مغادرة مديرها العام اللبناني علي جابر بعد 15 عاما",
+          "url": "https://arabi21.com/story/1787758/%D8%A5%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D9%85%D8%AF%D9%8A%D8%B1%D9%87%D8%A7-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D8%B9%D9%84%D9%8A-%D8%AC%D8%A7%D8%A8%D8%B1-%D8%A8%D8%B9%D8%AF-15-%D8%B9%D8%A7%D9%85%D8%A7",
+          "source": "عربي21",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "김정은": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T21:43:00+09:00",
+      "lastSeen": "2026-09-12T21:43:00+09:00",
+      "news": [
+        {
+          "title": "“김정은 욕해봐” 美기업 검증 강화에… 北, 외국인에 ‘면접 하청’",
+          "url": "https://v.daum.net/v/20260912173207451",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"김정은 욕해봐\" 말 못하더니…北, 위장취업 새 수법 나왔다",
+          "url": "https://www.hankyung.com/article/2026091203257",
+          "source": "한국경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "북한, 미국 기업 침투 계획의 일환 “해외 인재 물색 중”",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=715598",
+          "source": "뉴스타운",
           "date": "2026-09-12"
         }
       ]
