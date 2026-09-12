@@ -3015,10 +3015,10 @@
       ]
     },
     "경찰": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-12T14:40:00+09:00",
-      "lastSeen": "2026-09-12T14:40:00+09:00",
+      "lastSeen": "2026-09-12T15:16:00+09:00",
       "news": [
         {
           "title": "박원석, '한동훈 십자포화' 민주당에 \"가능하지도 않은 일 호도 말라\"",
@@ -3037,14 +3037,26 @@
           "url": "https://news.jtbc.co.kr/article/NB12317957",
           "source": "JTBC",
           "date": "2026-09-12"
+        },
+        {
+          "title": "[정치1인치] 한동훈이 살아남는 법…판 바꾸는 ‘일당백 정치’의 명암",
+          "url": "https://v.daum.net/v/20260912103150008",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "한동훈 “김민석 이빨 다 뽑겠다”…민주 “검사 때 그대로, 상대 인간으로 안 봐”",
+          "url": "https://www.hani.co.kr/arti/politics/assembly/1277464.html",
+          "source": "한겨레",
+          "date": "2026-09-12"
         }
       ]
     },
     "lck": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-12T14:40:00+09:00",
-      "lastSeen": "2026-09-12T14:40:00+09:00",
+      "lastSeen": "2026-09-12T15:16:00+09:00",
       "news": [
         {
           "title": "Gumayusi vs Keria: T1 legends clash on Korean LoL's biggest weekend",
@@ -3067,10 +3079,10 @@
       ]
     },
     "궁금한 이야기 y": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-12T14:40:00+09:00",
-      "lastSeen": "2026-09-12T14:40:00+09:00",
+      "lastSeen": "2026-09-12T15:16:00+09:00",
       "news": [
         {
           "title": "'궁금한 이야기Y' 밥 사줬더니 폭행 신고...앵벌이 청년 정체",
@@ -3093,10 +3105,10 @@
       ]
     },
     "오스틴 딘": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T14:40:00+09:00",
-      "lastSeen": "2026-09-12T14:40:00+09:00",
+      "lastSeen": "2026-09-12T15:16:00+09:00",
       "news": [
         {
           "title": "'밥상 좀 차려줘' LG 오스틴 타점왕 휘청?... 삼성 디아즈에 4개 차 턱밑 추격당해",
@@ -3192,6 +3204,162 @@
           "title": "한국 대표 연구자 뽑는다…리더급 국가과학자 20명 공모",
           "url": "https://www.yna.co.kr/view/AKR20260910149900017",
           "source": "연합뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "캠 브리 콘": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-12T15:16:00+09:00",
+      "lastSeen": "2026-09-12T15:16:00+09:00",
+      "news": [
+        {
+          "title": "'웃돈 5배 줘도 못 구한다'…삼전닉스에 목줄 잡힌 中 [강경주의 테크X]",
+          "url": "https://www.hankyung.com/article/2026091194276",
+          "source": "한국경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "주문 쏟아지는 중국산 AI칩… HBM 부족에 가격 급등",
+          "url": "https://www.chosun.com/economy/tech_it/2026/09/11/DU4WNUNG6NDNXK6ZVHEIUGNQT4/",
+          "source": "조선일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[中 거인의 공급망] ②AI 서버 강자 '낭조정보' 없으면 '딥시크'도 없다",
+          "url": "https://www.newspim.com/news/view/20260911000928",
+          "source": "뉴스핌",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "숲": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T15:16:00+09:00",
+      "lastSeen": "2026-09-12T15:16:00+09:00",
+      "news": [
+        {
+          "title": "포항청년회의소, ‘2026 포항 도시 숲 걷기대회’ 개최...포항 시민 800여명 모여",
+          "url": "https://www.hidomin.com/news/articleView.html?idxno=720794",
+          "source": "www.hidomin.com",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "북부지방산림청, 양평 잣나무 명품숲 관리방안 모색",
+          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=70271",
+          "source": "한국영농신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "북부지방산림청, 양평 삼산리 잣나무 명품숲 관리방안 모색",
+          "url": "https://news.nate.com/view/20260907n27547",
+          "source": "네이트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "치지직": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-12T15:16:00+09:00",
+      "lastSeen": "2026-09-12T15:16:00+09:00",
+      "news": [
+        {
+          "title": "[기업]네이버 치지직, LCK·오버워치 월드컵 결승 동시중계",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202609111822502969&s_mcd=0102",
+          "source": "YTN",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "LCK 결승부터 오버워치 월드컵까지…치지직 'e스포츠 주말' 개최",
+          "url": "https://www.etnews.com/20260911000219",
+          "source": "전자신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "치지직, LCK·오버워치 월드컵 결승 중계… 온·오프라인 참여형 이벤트 개최 - 조선비즈",
+          "url": "https://biz.chosun.com/it-science/ict/2026/09/11/ON5AZGWSIBENRNYB4C3KRILI3I/",
+          "source": "Chosunbiz",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "이범호": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T15:16:00+09:00",
+      "lastSeen": "2026-09-12T15:16:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 퇴원 직후 복귀한 김도영‥KBO \"AG 정상 합류 결정\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851288_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"팀 지분 50%\", \"형! 절대 다치지 마\" 뛰지 않고 벤��만 앉아도 이긴다...김도영의 존재감 이렇게 컸나 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/12/202609120923775439O",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "KIA 김도영, 코뼈 수술 후 퇴원…13일 한화전 출전 검토",
+          "url": "https://www.yna.co.kr/view/AKR20260911136500007",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "비행기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T15:16:00+09:00",
+      "lastSeen": "2026-09-12T15:16:00+09:00",
+      "news": [
+        {
+          "title": "\"탑승권 없어도?\" 공항 직원들만 몰래 가던 숨은 비행기 뷰 명당의 정체",
+          "url": "https://v.daum.net/v/20260912064530409?f=p",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "미국 CIA, 9·11 기밀자료 대거 공개…71건 대통령 일일 브리핑 자료",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661731",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "“제보해 달라”…‘9·11 테러’ 주도 8명에 ‘최대 134억’ 현상금",
+          "url": "https://v.daum.net/v/20260912143000324",
+          "source": "Daum",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "트롯 데스 매치 금 타는 금요일": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-12T15:16:00+09:00",
+      "lastSeen": "2026-09-12T15:16:00+09:00",
+      "news": [
+        {
+          "title": "'윤여정과 이혼' 조영남 또..\"바람피우기 전, 행복하게 잘 살 때\" ('금타는 금요일')",
+          "url": "https://www.koreadaily.com/article/20260911161951715",
+          "source": "미주중앙일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[TV조선] 조영남의 냉정한 심사평",
+          "url": "https://v.daum.net/v/f2u3HkPK5S",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "조영남, 춘길에 “비겁한 놈, 두고 보자” 살벌 경고…무슨 일? (금타는 금요일)",
+          "url": "https://sports.donga.com/ent/article/all/20260911/134650171/1",
+          "source": "스포츠동아",
           "date": "2026-09-12"
         }
       ]
