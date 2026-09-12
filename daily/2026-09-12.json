@@ -5248,10 +5248,10 @@
       ]
     },
     "리버풀 대 풀럼": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-12T23:12:00+09:00",
-      "lastSeen": "2026-09-12T23:12:00+09:00",
+      "lastSeen": "2026-09-12T23:40:00+09:00",
       "news": [
         {
           "title": "옵타 슈퍼컴퓨터가 9월 12일 프리미어 리그 경기를 예측했습니다. 리버풀과 첼시의 승리 가능성이 높고, 아스톤 빌라와 포레스트의 경기는 무승부로 끝날 가능성이 높습니다.",
@@ -5274,10 +5274,10 @@
       ]
     },
     "첼시 대 헐 시티": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-12T23:12:00+09:00",
-      "lastSeen": "2026-09-12T23:12:00+09:00",
+      "lastSeen": "2026-09-12T23:40:00+09:00",
       "news": [
         {
           "title": "[한국스포츠레저공동기획]강등 후보가 날고 절대강자가 흔들렸다…유럽 5대 리그 ‘이변의 시작’",
@@ -5300,10 +5300,10 @@
       ]
     },
     "동행": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T23:12:00+09:00",
-      "lastSeen": "2026-09-12T23:12:00+09:00",
+      "lastSeen": "2026-09-12T23:40:00+09:00",
       "news": [
         {
           "title": "기후동행카드, '기후동행패스'로 바꾸셨나요? 지하철역 12곳서 무료 교체",
@@ -5451,6 +5451,188 @@
           "title": "[OUT SOON] PCSO Swertres Lotto Result Today, September 11, 2026 LIVE: Check 3D Lotto 2 PM, 5 PM and 9 PM Winning Numbers | Here’s How to Play",
           "url": "https://sundayguardianlive.com/world/out-soon-pcso-swertres-lotto-result-today-september-11-2026-live-check-3d-lotto-2-pm-5-pm-and-9-pm-winning-numbers-heres-how-to-play-282255/",
           "source": "The Sunday Guardian",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "f1": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T23:40:00+09:00",
+      "lastSeen": "2026-09-12T23:40:00+09:00",
+      "news": [
+        {
+          "title": "F1 practice LIVE: Spanish Grand Prix 226 times, results, radio & updates from Madrid",
+          "url": "https://www.bbc.com/sport/formula1/live/c5yvxd2x8xkt",
+          "source": "BBC",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "What the teams learned about the Madring on a hectic Friday",
+          "url": "https://www.formula1.com/en/latest/article/what-the-f1-teams-learned-about-the-madring-after-their-first-day-of-running.6py1TfpxZ9i9421tmfKM8R",
+          "source": "Formula 1",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Max’s street circuit rant as Red Bull trail leaders in Spain",
+          "url": "https://novanews.co.za/verstappen-criticises-street-circuits-madrid-spanish-gp/",
+          "source": "https://novanews.co.za/",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "liverpool vs fulham": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T23:40:00+09:00",
+      "lastSeen": "2026-09-12T23:40:00+09:00",
+      "news": [
+        {
+          "title": "Liverpool vs Fulham: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cv5yj7z2xp2kt",
+          "source": "BBC",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Confirmed Liverpool line-up v Fulham",
+          "url": "https://www.liverpoolfc.com/news/confirmed-liverpool-line-v-fulham-9",
+          "source": "Liverpool FC",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "🚨 Liverpool v Fulham XIs: Barcola, Gonzalo and Affengruber start!",
+          "url": "https://sports.yahoo.com/articles/liverpool-v-fulham-xis-barcola-124800299.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "ลิเวอร์พูล พบ ฟูลัม": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T23:40:00+09:00",
+      "lastSeen": "2026-09-12T23:40:00+09:00",
+      "news": [
+        {
+          "title": "%~~*[[[SPORT TV>]* LIVE:ลิเวอร์พูล vs ฟูลัม ถ่ายทอดสด Liverpool Fulham 12 กันยายน 2569",
+          "url": "https://www.lboro.ac.uk/microsites/360s/computer-work-area/rvtouch.html?&xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url%3D%22%2F%5C%2Ftbsdemothree%2Egithub%2Eio%2Fevent%2Fbbc%2Exml%22%2F%3E%3C%2Fkrpano%3E&id=liverpool-vs-fulham-live-str-on-tv-th99xonr",
+          "source": "Loughborough University",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "ซูเปอร์คอมพิวเตอร์ทำนายผลการแข่งขันระหว่างลิเวอร์พูลกับฟูแล่ม",
+          "url": "https://www.vietnam.vn/th/sieu-may-tinh-du-doan-ket-qua-tran-liverpool-vs-fulham",
+          "source": "Vietnam.vn",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Andoni Iraola: เรากำลังแสดงจิตวิญญาณและการต่อสู้ นั่นคือเป้าหมายของเราในทุกเกม",
+          "url": "https://www.liverpoolfc.com/th/news/andoni-iraola-were-showing-spirit-and-fight-its-our-aim-every-game",
+          "source": "Liverpool FC",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "chelsea vs hull": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T23:40:00+09:00",
+      "lastSeen": "2026-09-12T23:40:00+09:00",
+      "news": [
+        {
+          "title": "Chelsea vs Hull City: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c6rr4q87p272t",
+          "source": "BBC",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Premier League predictions & Jones Knows' best bets: Hull's run can't continue at Chelsea, can it? Oh, it can",
+          "url": "https://www.skysports.com/football/news/11661/13583782/premier-league-predictions-and-jones-knows-best-bets-hulls-run-cant-continue-at-chelsea-can-it-oh-it-can",
+          "source": "Sky Sports",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Xabi Alonso Rules Moises Caicedo Out Of Chelsea’s Clash With Hull City",
+          "url": "https://chelseafconline.com/2026/09/xabi-alonso-rules-moises-caicedo-out-of-chelseas-clash-with-hull-city/",
+          "source": "chelseafconline.com",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "메간": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T23:40:00+09:00",
+      "lastSeen": "2026-09-12T23:40:00+09:00",
+      "news": [
+        {
+          "title": "\"가슴 움켜잡아\" 하이브 걸그룹, 성추행 피해 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/12/2026091210504717413",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "캣츠아이 메간 “관객이 내 가슴 잡았다” 공연 중 봉변",
+          "url": "https://sports.khan.co.kr/article/202609111428013",
+          "source": "스포츠경향",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"누군가 가슴 잡아\"…걸그룹 멤버, 공연 중 성추행 피해 고백",
+          "url": "https://www.hankyung.com/article/2026091202597",
+          "source": "한국경제",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "대구광역시": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T23:40:00+09:00",
+      "lastSeen": "2026-09-12T23:40:00+09:00",
+      "news": [
+        {
+          "title": "`도박·스마트폰 중독` 자녀 둔 부모들, 대구서 고심 털어놓는 자리 마련",
+          "url": "https://www.imaeil.com/page/view/2026091115530728362",
+          "source": "매일신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "대구광역시, 스마트폰 과의존·도박문제 토크 콘서트 개최...200여 명 학부모·시민 참여",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3692462",
+          "source": "국제뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "포토뉴스",
+          "url": "http://www.hsnews.or.kr/news/view.html?section=1&category=468&no=51287",
+          "source": "화성뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "어머니": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-12T23:40:00+09:00",
+      "lastSeen": "2026-09-12T23:40:00+09:00",
+      "news": [
+        {
+          "title": "강화도 주택서 60대 어머니 흉기로 찌른 20대 아들 체포",
+          "url": "https://www.yna.co.kr/view/AKR20260912027700065",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[속보]인천 강화서 60대 친모 살해 시도한 20대 아들 체포",
+          "url": "https://www.munhwa.com/article/11616479",
+          "source": "문화일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "인천 강화군서 어머니에게 흉기 휘두른 20대 아들 체포",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1331834",
+          "source": "인천일보",
           "date": "2026-09-12"
         }
       ]
