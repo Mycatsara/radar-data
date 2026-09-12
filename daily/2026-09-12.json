@@ -2379,10 +2379,10 @@
       ]
     },
     "nep vs uae": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-12T11:13:00+09:00",
-      "lastSeen": "2026-09-12T12:41:00+09:00",
+      "lastSeen": "2026-09-12T13:12:00+09:00",
       "news": [
         {
           "title": "Nepal to face UAE in ACC Men’s Premier Cup final for Asia Cup qualification",
@@ -2401,14 +2401,20 @@
           "url": "https://myrepublica.nagariknetwork.com/news/acc-premier-cup-nepal-take-on-oman-today-in-decisive-semifinal-79-13.html",
           "source": "myRepublica",
           "date": "2026-09-12"
+        },
+        {
+          "title": "Nepal's Asif Sheikh Hits Century Against UAE in ACC Premier Cup Final",
+          "url": "https://english.ratopati.com/story/78904/acc-premier-cup-asif-scores-century-against-uae-in-final",
+          "source": "Ratopati",
+          "date": "2026-09-12"
         }
       ]
     },
     "나이키": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-12T11:13:00+09:00",
-      "lastSeen": "2026-09-12T12:41:00+09:00",
+      "lastSeen": "2026-09-12T13:12:00+09:00",
       "news": [
         {
           "title": "\"그 돈 주고 누가 신어요\"…'50만원→9만원' 나이키의 굴욕",
@@ -2437,10 +2443,10 @@
       ]
     },
     "요즘 남자 라이프 - 신랑수업": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T11:13:00+09:00",
-      "lastSeen": "2026-09-12T12:41:00+09:00",
+      "lastSeen": "2026-09-12T13:12:00+09:00",
       "news": [
         {
           "title": "전현무 소속사, 일본 아나운서 출신 아사코 영입",
@@ -2469,10 +2475,10 @@
       ]
     },
     "허수봉": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-12T11:13:00+09:00",
-      "lastSeen": "2026-09-12T12:41:00+09:00",
+      "lastSeen": "2026-09-12T13:12:00+09:00",
       "news": [
         {
           "title": "“한국, 대체 어떤 팀이야?” 결승 길목서 만난 日 초긴장…‘득점 2위’ 허수봉에 ‘수호신’ 박경민까지",
@@ -2501,10 +2507,10 @@
       ]
     },
     "황신혜": {
-      "count": 3,
-      "maxTraffic": 200,
+      "count": 4,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-12T11:40:00+09:00",
-      "lastSeen": "2026-09-12T12:41:00+09:00",
+      "lastSeen": "2026-09-12T13:12:00+09:00",
       "news": [
         {
           "title": "황신혜, “가을옷 입으니 넘 좋당”…밀리터리 룩도 찰떡 소화하는 '방부제 미모'",
@@ -2523,14 +2529,20 @@
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16189792",
           "source": "톱스타뉴스",
           "date": "2026-09-12"
+        },
+        {
+          "title": "황신혜, 토스카나 추억의 길에서 여유로운 산책…방송·여행 병행 근황",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16190793",
+          "source": "톱스타뉴스",
+          "date": "2026-09-12"
         }
       ]
     },
     "민희진": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T11:40:00+09:00",
-      "lastSeen": "2026-09-12T12:41:00+09:00",
+      "lastSeen": "2026-09-12T13:12:00+09:00",
       "news": [
         {
           "title": "\"민희진, 뉴진스에 '아일릿 혼내줄까?' 해\"vs\"창작윤리 지키자는 것\"[현장EN:]",
@@ -2548,6 +2560,12 @@
           "title": "어도어·���고래유괴단, 뉴진스 MV 분쟁 항소심 판단 앞둬",
           "url": "https://www.dailian.co.kr/news/view/1689150/%EC%96%B4%EB%8F%84%EC%96%B4%EB%8F%8C%EA%B3%A0%EB%9E%98%EC%9C%A0%EA%B4%B4%EB%8B%A8-%EB%89%B4%EC%A7%84%EC%8A%A4-MV-%EB%B6%84%EC%9F%81-2026",
           "source": "데일리안",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "‘뉴진스 퇴출’ 다니엘, 또 법정으로…어도어와 331억 소송 5차전",
+          "url": "https://v.daum.net/v/Ge2Ly41yCz?f=p",
+          "source": "Daum",
           "date": "2026-09-12"
         }
       ]
@@ -2574,6 +2592,110 @@
           "title": "대구 남구청 사격팀, 제8회 창원시장배 전국사격대회, 화약권총 단체전 우승",
           "url": "https://www.gyeongsangtoday.com/news/view.php?idx=272690",
           "source": "경상투데이",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "oman vs hong kong": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T13:12:00+09:00",
+      "lastSeen": "2026-09-12T13:12:00+09:00",
+      "news": [
+        {
+          "title": "Oman to face Hong Kong for third place after big Nepal defeat",
+          "url": "https://www.omanobserver.om/article/1195943/sports/cricket/oman-to-face-hong-kong-for-third-place-after-big-nepal-defeat",
+          "source": "Oman Observer",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Oman vs Hong Kong, China 3/4 Place Play off Stats - Bangi | Most Runs, Wickets & Boundaries, 12 September 2026",
+          "url": "https://thesportstak.com/cricket/match/oma-vs-hk-3-4-place-play-off-acc-mens-premier-cup-12-september-2026-273945/stats",
+          "source": "SportsTak",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Match Predictions: ACC Mens Premier Cup 2026 - Finals Day - Hong Kong vs Oman; UAE vs Nepal - September 12th",
+          "url": "https://www.cricketworld.com/match-predictions-acc-mens-premier-cup-2026-finals-day-hong-kong-vs-oman-uae-vs-nepal-september-12th/113211.htm",
+          "source": "Cricket World",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "징역형": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T13:12:00+09:00",
+      "lastSeen": "2026-09-12T13:12:00+09:00",
+      "news": [
+        {
+          "title": "[속보]‘정치자금법 위반’ 김영선 전 의원, 집행유예 선고",
+          "url": "https://www.khan.co.kr/article/202609101642001",
+          "source": "경향신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'공천 수혜' 김영선은 징역형…'공익 신고' 강혜경은 벌금형",
+          "url": "https://v.daum.net/v/HmAMZf5TOz?f=p",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "김영선 전 국회의원 ‘불법 정치자금 수수’ 집행유예",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8660852",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "트롯 데스매치 금타는 금요일": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-12T13:12:00+09:00",
+      "lastSeen": "2026-09-12T13:12:00+09:00",
+      "news": [
+        {
+          "title": "'윤여정과 이혼' 조영남 또..\"바람피우기 전, 행복하게 잘 살 때\" ('금타는 금요일')",
+          "url": "https://www.koreadaily.com/article/20260911161951715",
+          "source": "미주중앙일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "조영남, 眞 김용빈 선곡에 \"바람 피우기 전\" 돌연 과거사 고백…'금타는금요일', 시청률 1위 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/12/MJRDMODDGQZDSZBSGY3GEOJYGQ/",
+          "source": "Chosunbiz",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[TV조선] 조영남의 냉정한 심사평",
+          "url": "https://v.daum.net/v/f2u3HkPK5S",
+          "source": "Daum",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "지민": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-12T13:12:00+09:00",
+      "lastSeen": "2026-09-12T13:12:00+09:00",
+      "news": [
+        {
+          "title": "\"나의 지민 보러간다\" 방탄소년단 지민이 남긴 따뜻한 감동…치매 어머니 위한 딸의 콘서트 선물",
+          "url": "https://news.nate.com/view/20260906n02520?mid=e0608",
+          "source": "네이트",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "방탄소년단 지민, 英 코미디언 “정말 사랑해” 고백에 세계 각지 팬심 재조명",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16190601",
+          "source": "톱스타뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"MARRY ME JIMIN\" 남자도 홀린 지민",
+          "url": "https://www.starnewskorea.com/star/2026/09/07/2026090708265429962",
+          "source": "스타뉴스",
           "date": "2026-09-12"
         }
       ]
