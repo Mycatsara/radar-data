@@ -4137,10 +4137,10 @@
       ]
     },
     "안리원": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-12T18:40:00+09:00",
-      "lastSeen": "2026-09-12T18:40:00+09:00",
+      "lastSeen": "2026-09-12T19:12:00+09:00",
       "news": [
         {
           "title": "'뉴욕대 졸업' 안정환 딸, 한국서 취업…\"출근 2일차\" 자식자랑 ('놀면 뭐하니')[방송 프리뷰]",
@@ -4163,10 +4163,10 @@
       ]
     },
     "대한민국 교육부": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-12T18:40:00+09:00",
-      "lastSeen": "2026-09-12T18:40:00+09:00",
+      "lastSeen": "2026-09-12T19:12:00+09:00",
       "news": [
         {
           "title": "외국인 유학생 지난해 50만 첫 돌파…4년 새 6배 급증",
@@ -4189,17 +4189,36 @@
       ]
     },
     "호시": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T18:40:00+09:00",
-      "lastSeen": "2026-09-12T18:40:00+09:00",
-      "news": []
+      "lastSeen": "2026-09-12T19:12:00+09:00",
+      "news": [
+        {
+          "title": "세븐틴 호시, 군 복무 중 부상…“전방십자인대 완전 파열”",
+          "url": "https://www.khan.co.kr/article/202609121521001",
+          "source": "경향신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "세븐틴 호시, 군복무중 '십자인대 완전파열' 날벼락..\"수술후 회복 집중\"[Oh!쎈 이슈]",
+          "url": "https://v.daum.net/v/3Rjr5Zwayp",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "호시, 전방십자인대 파열…'태권도시범대' 행사 불참",
+          "url": "https://www.dispatch.co.kr/2347836",
+          "source": "디스패치",
+          "date": "2026-09-12"
+        }
+      ]
     },
     "박수진": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-12T18:40:00+09:00",
-      "lastSeen": "2026-09-12T18:40:00+09:00",
+      "lastSeen": "2026-09-12T19:12:00+09:00",
       "news": [
         {
           "title": "'박수진♥' 배용준, 백발 장발 근황 후 또 포착…'14세 장타자'와 라운딩",
@@ -4246,6 +4265,124 @@
           "date": "2026-09-12"
         }
       ]
+    },
+    "대학 입학": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T19:12:00+09:00",
+      "lastSeen": "2026-09-12T19:12:00+09:00",
+      "news": []
+    },
+    "장기 기증 의 날": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T19:12:00+09:00",
+      "lastSeen": "2026-09-12T19:12:00+09:00",
+      "news": [
+        {
+          "title": "“한 사람의 기증이 9명의 생명으로”…남동구 보건소, 장기기증 나눔 확산",
+          "url": "https://www.viva100.com/article/20260911500358",
+          "source": "브릿지경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"천사야, 고마워!\"…6세 심장이식 소년이 전한 안부 인사",
+          "url": "https://v.daum.net/v/Ht8t1Ru5tF",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "㈔한국장기기증협회 ‘2026년 장기기증의 날 기념식’",
+          "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20260911.22017003596&kid=",
+          "source": "국제신문",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "정친원": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T19:12:00+09:00",
+      "lastSeen": "2026-09-12T19:12:00+09:00",
+      "news": [
+        {
+          "title": "'파격 브라 노출' 사발렌카, 관심 받았지만 랭킹 추락...8강전 이겼는데, 왜 100주 만에 '세계 1위' 뺏겼나",
+          "url": "https://v.daum.net/v/20260911014110456",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"이길땐 웃다가\"…역전패 뒤 차갑게 돌아선 中 테니스 여제, US오픈 8강서 태도 논란",
+          "url": "https://www.newsis.com/view/NISX20260911_0003785890",
+          "source": "뉴시스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "테니스 리바키나, US오픈 4강 오르며 생애 첫 세계 1위 확정",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8659901",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "중동": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-12T19:12:00+09:00",
+      "lastSeen": "2026-09-12T19:12:00+09:00",
+      "news": [
+        {
+          "title": "사우디 핵심 송유관 피격‥육로도 막히나",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6851358_36967.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "호르무즈 이어 홍해·송유관까지… 중동 원유 수송망 ‘비상’",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3432098",
+          "source": "천지일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "“후티 반군, 바브엘만데브 해협 통제권 확보”…이란군이 배후 지휘",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661410",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "kbo리그": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T19:12:00+09:00",
+      "lastSeen": "2026-09-12T19:12:00+09:00",
+      "news": [
+        {
+          "title": "KIA-삼성이 빙그레 웃는다? KBO 순위싸움, 공포의 지뢰가 떴다… 피할 수 없으면 쳐라",
+          "url": "https://v.daum.net/v/99T8AWAilD",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[영상] 승부욕의 화신 살벌한 에레디아…고개 숙인 박준영",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661161",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"아빌라 나오려나\" 1위 싸움 초대형 변수 등장, 삼성이 웃는다…\"폰세 능가\" 강철매직 극찬한 괴수, KT 겨냥한다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/12/202609111956773541O",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "박보겸": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T19:12:00+09:00",
+      "lastSeen": "2026-09-12T19:12:00+09:00",
+      "news": []
     }
   },
   "sections": {
