@@ -1347,10 +1347,10 @@
       "news": []
     },
     "아시안 게임": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T05:43:00+09:00",
-      "lastSeen": "2026-09-13T06:12:00+09:00",
+      "lastSeen": "2026-09-13T06:39:00+09:00",
       "news": [
         {
           "title": "1958년엔 못 왔고 1994년엔 안 왔다…북한, 사상 첫 ‘일본 아시안게임’ 입성",
@@ -1375,14 +1375,20 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8661317",
           "source": "KBS 뉴스",
           "date": "2026-09-12"
+        },
+        {
+          "title": "[아시안게임] 北, 14일 女축구로 일정 돌입…21일 '남북대결'",
+          "url": "https://v.daum.net/v/20260913060240914",
+          "source": "Daum",
+          "date": "2026-09-12"
         }
       ]
     },
     "real madrid vs rayo vallecano": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-13T05:43:00+09:00",
-      "lastSeen": "2026-09-13T06:12:00+09:00",
+      "lastSeen": "2026-09-13T06:39:00+09:00",
       "news": [
         {
           "title": "Audero evita el gol de Vinicius",
@@ -1406,6 +1412,12 @@
           "title": "Mbappé, Carreras y Bellingham golean en una primera parte imparable del Real Madrid",
           "url": "https://okdiario.com/diariomadridista/real-madrid/mbappe-resarce-desde-punto-penalti-carreras-irrumpe-madrid-marca-dos-goles-tres-minutos-rayo-660027",
           "source": "OkDiario",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Mbappé marca un doblete en goleada del Real Madrid ante el Rayo Vallecano",
+          "url": "https://es-us.noticias.yahoo.com/deportes/mbapp%C3%A9-marca-doblete-goleada-real-211955177.html",
+          "source": "Yahoo",
           "date": "2026-09-12"
         }
       ]
@@ -1449,10 +1461,10 @@
       ]
     },
     "외국인": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-13T06:12:00+09:00",
-      "lastSeen": "2026-09-13T06:12:00+09:00",
+      "lastSeen": "2026-09-13T06:39:00+09:00",
       "news": [
         {
           "title": "\"한국 오면 꼭 사야해\" 올영도 다이소도 아닌 이곳 꼭 간다…외국인이 바꾼 '돈 버는 공식'[주末머니]",
@@ -1475,10 +1487,10 @@
       ]
     },
     "홍서범": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-13T06:12:00+09:00",
-      "lastSeen": "2026-09-13T06:12:00+09:00",
+      "lastSeen": "2026-09-13T06:39:00+09:00",
       "news": [
         {
           "title": "\"양육비 보내라\" 전 며느리 저격 속..홍서범, 子 외도 사과 후 '김구라 칭찬' 여유 근황 [스타이슈]",
@@ -1497,14 +1509,20 @@
           "url": "https://www.sportschosun.com/entertainment/2026-09-12/202609120100082490005365",
           "source": "스포츠조선",
           "date": "2026-09-12"
+        },
+        {
+          "title": "홍서범 ‘아들 외도 논란’ 속…김구라가 전한 뜻밖의 근황",
+          "url": "https://biz.heraldcorp.com/article/10871333",
+          "source": "헤럴드경제",
+          "date": "2026-09-12"
         }
       ]
     },
     "sunderland vs arsenal": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T06:12:00+09:00",
-      "lastSeen": "2026-09-13T06:12:00+09:00",
+      "lastSeen": "2026-09-13T06:39:00+09:00",
       "news": [
         {
           "title": "Mikel Arteta tries to hug referee Stuart Attwell as Arsenal boss 'finally' gets booked for leaving technical area",
@@ -1522,6 +1540,18 @@
           "title": "Mikel Arteta spotted 'raging' at three Arsenal stars during Napoli win",
           "url": "https://www.aol.co.uk/articles/mikel-arteta-spotted-raging-three-075723000.html",
           "source": "AOL.co.uk",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Sunderland 0-2 Arsenal: Bruno Guimaraes and Bukayo Saka score in win",
+          "url": "https://www.bbc.com/sport/football/live/cw23xgym2p5zt",
+          "source": "BBC",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Arteta's update on White, Mosquera and Timber",
+          "url": "https://www.arsenal.com/news/artetas-update-on-white-mosquera-and-timber-axoYv8N7qYHf",
+          "source": "Arsenal.com",
           "date": "2026-09-12"
         }
       ]
@@ -1553,10 +1583,10 @@
       ]
     },
     "us오픈": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-13T06:12:00+09:00",
-      "lastSeen": "2026-09-13T06:12:00+09:00",
+      "lastSeen": "2026-09-13T06:39:00+09:00",
       "news": [
         {
           "title": "남자 테니스 츠베레프, 하차노프 3-0 꺾고 US오픈 결승행",
@@ -1574,6 +1604,110 @@
           "title": "메이저 우승 맛 본 츠베레프 VS 알카라스 꺾은 셸턴 ... US오픈 남자 결승 맞붙는다",
           "url": "https://www.chosun.com/international/international_general/2026/09/12/ZQUASFZPBZF5XDSBPUYIOP3YUY/",
           "source": "조선일보",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "엘레나 리바키나": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T06:39:00+09:00",
+      "lastSeen": "2026-09-13T06:39:00+09:00",
+      "news": [
+        {
+          "title": "\"유사 수영복 벗고 유니폼 똑바로 입어\"…프로 의식 비판, 결국 옳았나, 사발렌카, 99주 만에 1위 빼앗겨, 리바키나 생애 첫 1위 등극",
+          "url": "https://sports.news.nate.com/view/20260911n00618",
+          "source": "네이트",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"이길땐 웃다가\"…역전패 뒤 차갑게 돌아선 中 테니스 여제, US오픈 8강서 태도 논란",
+          "url": "https://www.chosun.com/sports/2026/09/12/7O6P74EKVRGMVHHMVQONGTNDJ4/",
+          "source": "조선일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'3연패' 사발렌카 vs '첫 우승' 리바키나, US오픈 결승서 격돌(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260911057051007",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "연금": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-13T06:39:00+09:00",
+      "lastSeen": "2026-09-13T06:39:00+09:00",
+      "news": [
+        {
+          "title": "대통령 '공정 원칙' 주문…사회보장제도 전면 손질로 이어질까",
+          "url": "https://www.yna.co.kr/view/AKR20260912044800530",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "외국인 연금 형평성 논란 후폭풍…사회보장제도 전방위 긴급점검",
+          "url": "https://www.yna.co.kr/view/AKR20260912044700530",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'한 달 붓고 평생 연금?'…국민연금 추납이 뭐길래?",
+          "url": "https://v.daum.net/v/UfA2QEQ9ZH",
+          "source": "Daum",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "대한민국 해양경찰청": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T06:39:00+09:00",
+      "lastSeen": "2026-09-13T06:39:00+09:00",
+      "news": [
+        {
+          "title": "73년 해경 역사가 한눈에…인천에 문 연 ‘해양경찰 특수기록관’",
+          "url": "https://v.daum.net/v/9UH0nj4qYj",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "대한민국, 단 하나의 바다를 위해 - 영상 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148971624&pWise=sub&pWiseSub=R2",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "50년전 순직한 경찰 유품… 해경청 ‘영구기록물 1호’",
+          "url": "https://www.kyeongin.com/article/1770645",
+          "source": "경인일보",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "김연경": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T06:39:00+09:00",
+      "lastSeen": "2026-09-13T06:39:00+09:00",
+      "news": [
+        {
+          "title": "'초대박' 185cm 중국 국가대표, 왜 2억에 한국행 택했나…\"김연경 선수도 괜찮은 선택이라고, 언제나 정관장 사랑해 주세요\" [MD인터뷰]",
+          "url": "https://v.daum.net/v/20260912064240400",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "코트에선 실전 점검, 밖에선 떡볶이 한 그릇…흥국생명-오사카 6박 7일 합동훈련 마무리",
+          "url": "https://www.koreadaily.com/article/20260912140104664",
+          "source": "미주중앙일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "여자배구 흥국생명, 日 강호 오사카 마블러스와 합동 훈련 진행",
+          "url": "https://v.daum.net/v/20260912210038165",
+          "source": "Daum",
           "date": "2026-09-12"
         }
       ]
