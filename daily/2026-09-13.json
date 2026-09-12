@@ -2207,10 +2207,10 @@
       ]
     },
     "잔": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-13T08:12:00+09:00",
-      "lastSeen": "2026-09-13T08:12:00+09:00",
+      "lastSeen": "2026-09-13T08:38:00+09:00",
       "news": [
         {
           "title": "뜨거운 커피·차 즐긴 사람 식도암 위험 높았다",
@@ -2229,14 +2229,20 @@
           "url": "https://view.asiae.co.kr/visual-news/article/2026091015514021718",
           "source": "아시아경제",
           "date": "2026-09-12"
+        },
+        {
+          "title": "아침마다 ‘따아’ 마셨는데…“뜨거울수록 식도암 위험 높아”",
+          "url": "https://www.mk.co.kr/news/it/12151038",
+          "source": "매일경제",
+          "date": "2026-09-12"
         }
       ]
     },
     "가을": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-13T08:12:00+09:00",
-      "lastSeen": "2026-09-13T08:12:00+09:00",
+      "lastSeen": "2026-09-13T08:38:00+09:00",
       "news": [
         {
           "title": "[7시 날씨] 휴일, 일교차 큰 날씨…남부 한낮 30도 안팎",
@@ -2259,10 +2265,10 @@
       ]
     },
     "애스트로스 대 레이스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T08:12:00+09:00",
-      "lastSeen": "2026-09-13T08:12:00+09:00",
+      "lastSeen": "2026-09-13T08:38:00+09:00",
       "news": [
         {
           "title": "MLB 탬파베이, 끝내기 홈런으로 가을 야구 확정",
@@ -2285,10 +2291,10 @@
       ]
     },
     "박위": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-13T08:12:00+09:00",
-      "lastSeen": "2026-09-13T08:12:00+09:00",
+      "lastSeen": "2026-09-13T08:38:00+09:00",
       "news": [
         {
           "title": "'KTX 사고 CCTV' 박위, 케냐 방문 성격 두고도 갑론을박",
@@ -2306,6 +2312,12 @@
           "title": "박위, 케냐 비전트립 '봉사'라고 안 했다…억측에 여론 반전될까 [Oh!쎈 이슈]",
           "url": "https://www.koreadaily.com/article/20260912005521299",
           "source": "미주중앙일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "현지인 고생='웃긴 장면' 희화화, 또 걸렸다..박위, 해외서도 도움받고 착한 이미지만 쏙 [스타이슈]",
+          "url": "https://v.daum.net/v/20260912212709533",
+          "source": "Daum",
           "date": "2026-09-12"
         }
       ]
@@ -2410,6 +2422,162 @@
           "title": "서울버스 파업 초읽기…서울시 비상수송대책 가동",
           "url": "https://v.daum.net/v/20260912150323679",
           "source": "Daum",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "범죄": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T08:38:00+09:00",
+      "lastSeen": "2026-09-13T08:38:00+09:00",
+      "news": [
+        {
+          "title": "\"이러다 제주 경제 폭망한다\"…'범죄의 섬' 낙인에 '초비상' [불신 청구서]",
+          "url": "https://news.nate.com/view/20260911n03292",
+          "source": "네이트",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "유튜버에 언론까지… ‘갈대밭 괴담’ 조회수 장사로 ‘제주 혐오’ 조장",
+          "url": "https://h21.hani.co.kr/arti/society/society_general/59898.html",
+          "source": "한겨레21",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "“제주 택시에서 눈 떴��니 갈대밭”…언론이 부추기는 괴담",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8658419",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "국가보훈부": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T08:38:00+09:00",
+      "lastSeen": "2026-09-13T08:38:00+09:00",
+      "news": [
+        {
+          "title": "\"보훈급여 과오급 6년새 100억 넘었는데 …환수율 매년 20%대\"",
+          "url": "https://v.daum.net/v/tHrEmrRf1N",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "보훈부 “보훈급여 과오급금 매년 감소…행정착오 과오급금 54.8% 환수 완료”",
+          "url": "https://www.munhwa.com/article/11616511",
+          "source": "문화일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "줄줄 새는 보훈급여... 잘못 지급된 보훈급여",
+          "url": "http://www.gcnaeil.com/default/index_view_page.php?part_idx=170&idx=85108",
+          "source": "김천내일신문",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "농민신문": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T08:38:00+09:00",
+      "lastSeen": "2026-09-13T08:38:00+09:00",
+      "news": [
+        {
+          "title": "'농사 안 짓는 땅 팔아라'...284만 필지 위반 의심, 얼어붙은 시장",
+          "url": "https://v.daum.net/v/W5Xf9TNdc9?f=p",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "농사를 못 지으면 농지를 팔아야 한다? 사실은 이렇습니다",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148971508",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "장동혁 \"김민석, 만나서 농지 전수조사 문제 풀자…협치 첫 사례 만들길\" - 머니��데이",
+          "url": "https://www.mt.co.kr/politics/2026/09/11/2026091115044228674",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "조민아": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T08:38:00+09:00",
+      "lastSeen": "2026-09-13T08:38:00+09:00",
+      "news": [
+        {
+          "title": "쥬얼리, 완전체 넘은 찐친···조민아 子 업은 이지현까지",
+          "url": "https://v.daum.net/v/20260913073110720",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"갱년기인가\" 서인영, 결국 훌쩍…쥬얼리 20년만 감격의 완전체 무대 [Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/12/GE3TSN3CGIYGINRWGM2TOZBXGU/",
+          "source": "조선일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "‘불후’ NEW WAVE Festival in 울산 1부 출연진 라인업, ���승기-클릭비 등",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3693111",
+          "source": "국제뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "청바지": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T08:38:00+09:00",
+      "lastSeen": "2026-09-13T08:38:00+09:00",
+      "news": [
+        {
+          "title": "수지처럼 올가을 청바지 점수는 발끝에서 결정됩니다",
+          "url": "https://www.elle.co.kr/article/1909213",
+          "source": "엘르 코리아 │ ELLE KOREA",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "9월에는 스웨터와 청바지를 입겠어요",
+          "url": "https://www.vogue.co.kr/2026/09/10/9%EC%9B%94%EC%97%90%EB%8A%94-%EC%8A%A4%EC%9B%A8%ED%84%B0%EC%99%80-%EC%B2%AD%EB%B0%94%EC%A7%80%EB%A5%BC-%EC%9E%85%EA%B2%A0%EC%96%B4%EC%9A%94/",
+          "source": "보그 코리아 (Vogue Korea)",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"때론 힙하게 때론 내추럴하게\"…문가영·장희진·나나, 스타들의 데님 패션 [MHN:뭐 입었지]",
+          "url": "https://news.nate.com/view/20260912n05659",
+          "source": "네이트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "us open": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T08:38:00+09:00",
+      "lastSeen": "2026-09-13T08:38:00+09:00",
+      "news": [
+        {
+          "title": "US Open 2026 final LIVE: Elena Rybakina beats Aryna Sabalenka for title - scores, radio & live text updates",
+          "url": "https://www.bbc.com/sport/tennis/live/ckgd2jp4pxvt",
+          "source": "BBC",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "The crowd wanted Coco Gauff but got Elena Rybakina instead",
+          "url": "https://www.cnn.com/2026/09/11/sport/coco-gauff-elena-rybakina-analysis",
+          "source": "CNN",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Kalshi Promo Code WHOSCORED: Get up to $25 in Bonuses for the Sabalenka vs Rybakina US Open Final",
+          "url": "https://www.whoscored.com/articles/CR8PyzWdqkGhy3kczo8ytw/show/kalshi-promo-code-whoscored-get-up-to-$25-in-bonuses-for-the-sabalenka-vs-rybakina-us-open-final",
+          "source": "WhoScored.com",
           "date": "2026-09-12"
         }
       ]
