@@ -3015,10 +3015,10 @@
       ]
     },
     "경찰": {
-      "count": 2,
-      "maxTraffic": 5000,
+      "count": 3,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-12T14:40:00+09:00",
-      "lastSeen": "2026-09-12T15:16:00+09:00",
+      "lastSeen": "2026-09-12T15:43:00+09:00",
       "news": [
         {
           "title": "박원석, '한동훈 십자포화' 민주당에 \"가능하지도 않은 일 호도 말라\"",
@@ -3209,10 +3209,10 @@
       ]
     },
     "캠 브리 콘": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-12T15:16:00+09:00",
-      "lastSeen": "2026-09-12T15:16:00+09:00",
+      "lastSeen": "2026-09-12T15:43:00+09:00",
       "news": [
         {
           "title": "'웃돈 5배 줘도 못 구한다'…삼전닉스에 목줄 잡힌 中 [강경주의 테크X]",
@@ -3235,10 +3235,10 @@
       ]
     },
     "숲": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-12T15:16:00+09:00",
-      "lastSeen": "2026-09-12T15:16:00+09:00",
+      "lastSeen": "2026-09-12T15:43:00+09:00",
       "news": [
         {
           "title": "포항청년회의소, ‘2026 포항 도시 숲 걷기대회’ 개최...포항 시민 800여명 모여",
@@ -3257,14 +3257,26 @@
           "url": "https://news.nate.com/view/20260907n27547",
           "source": "네이트",
           "date": "2026-09-12"
+        },
+        {
+          "title": "치악산 숲길 질주…2026 원주 산악자전거 파크 숲포츠 페스티벌 개막",
+          "url": "https://v.daum.net/v/20260912144949504",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"숲에서 산림 레포츠 즐기면서 힐링\"",
+          "url": "https://www.wonjutoday.co.kr/news/articleView.html?idxno=212275",
+          "source": "원주투데이",
+          "date": "2026-09-12"
         }
       ]
     },
     "치지직": {
-      "count": 1,
-      "maxTraffic": 5000,
+      "count": 2,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-12T15:16:00+09:00",
-      "lastSeen": "2026-09-12T15:16:00+09:00",
+      "lastSeen": "2026-09-12T15:43:00+09:00",
       "news": [
         {
           "title": "[기업]네이버 치지직, LCK·오버워치 월드컵 결승 동시중계",
@@ -3283,14 +3295,20 @@
           "url": "https://biz.chosun.com/it-science/ict/2026/09/11/ON5AZGWSIBENRNYB4C3KRILI3I/",
           "source": "Chosunbiz",
           "date": "2026-09-12"
+        },
+        {
+          "title": "[현장] 경기 전부터 달아오른 KSPO돔…LCK 팬들, 포토존·굿즈·체험 즐겨",
+          "url": "https://www.dailian.co.kr/news/view/1689578/%ED%98%84%EC%9E%A5-%EA%B2%BD%EA%B8%B0-%EC%A0%84-%EB%8B%AC%EC%95%84%EC%98%A4%EB%A5%B8-KSPO%EB%8F%94LC-2026",
+          "source": "데일리안",
+          "date": "2026-09-12"
         }
       ]
     },
     "이범호": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-12T15:16:00+09:00",
-      "lastSeen": "2026-09-12T15:16:00+09:00",
+      "lastSeen": "2026-09-12T15:43:00+09:00",
       "news": [
         {
           "title": "[단독] 퇴원 직후 복귀한 김도영‥KBO \"AG 정상 합류 결정\"",
@@ -3313,10 +3331,10 @@
       ]
     },
     "비행기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T15:16:00+09:00",
-      "lastSeen": "2026-09-12T15:16:00+09:00",
+      "lastSeen": "2026-09-12T15:43:00+09:00",
       "news": [
         {
           "title": "\"탑승권 없어도?\" 공항 직원들만 몰래 가던 숨은 비행기 뷰 명당의 정체",
@@ -3334,6 +3352,18 @@
           "title": "“제보해 달라”…‘9·11 테러’ 주도 8명에 ‘최대 134억’ 현상금",
           "url": "https://v.daum.net/v/20260912143000324",
           "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "박수홍, 98억 손배소 선고 하루 앞두고 연기 … 5년 넘긴 법정 싸움",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/09/11/2026091100136.html",
+          "source": "뉴데일리",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"무릎 꿇고 사과라도\" 박수홍, 민폐 논란 2주만 의의의 근황…라이프 포착 [Oh!쎈 이슈]",
+          "url": "https://www.osen.co.kr/article/G1112873905",
+          "source": "OSEN",
           "date": "2026-09-12"
         }
       ]
@@ -3360,6 +3390,110 @@
           "title": "조영남, 춘길에 “비겁한 놈, 두고 보자” 살벌 경고…무슨 일? (금타는 금요일)",
           "url": "https://sports.donga.com/ent/article/all/20260911/134650171/1",
           "source": "스포츠동아",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "설영우": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T15:43:00+09:00",
+      "lastSeen": "2026-09-12T15:43:00+09:00",
+      "news": [
+        {
+          "title": "\"TV로 보던 팀들, 너무 설레요\" 분데스 입성, 활짝 웃은 설영우…\"에이전트 역할 한 자철이 형, 그 길 따라가고 싶다\"",
+          "url": "https://sports.news.nate.com/view/20260909n36477",
+          "source": "네이트",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "설영우 \"김민재처럼 되고싶어\"…분데스리가 입성 각오 밝혀",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260910085544xsO",
+          "source": "연합뉴스TV",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'빅리그 입성' 축구대표 설영우 \"민재 형처럼 오래 뛰고 싶어\"",
+          "url": "https://www.yna.co.kr/view/AKR20260909175400007",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "박지원": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T15:43:00+09:00",
+      "lastSeen": "2026-09-12T15:43:00+09:00",
+      "news": [
+        {
+          "title": "박지원 \"순천대 의대후보 선정 무효화 요구에 민형배 시장 완강\"",
+          "url": "https://v.daum.net/v/20260912115456883",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "전남광주 동부권 시민단체 “국립의대 신설 최종심사 진행 촉구”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661105",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "순천 ���민·사회단체, 의대 설립 촉구 릴레이 성명",
+          "url": "https://www.newsis.com/view/NISX20260911_0003786306",
+          "source": "뉴시스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "앤서니 조슈아": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T15:43:00+09:00",
+      "lastSeen": "2026-09-12T15:43:00+09:00",
+      "news": [
+        {
+          "title": "Tyson Fury vs Anthony Joshua: Fight is '100 per cent happening' says Fury's manager as Cardiff emerges as potential venue",
+          "url": "https://www.skysports.com/boxing/news/12040/13584352/tyson-fury-vs-anthony-joshua-fight-is-100-per-cent-happening-says-furys-manager-as-cardiff-emerges-as-potential-venue",
+          "source": "Sky Sports",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Dana White rips Eddie Hearn for actively sabotaging Tyson Fury vs. Anthony Joshua fight: ‘It’s the weirdest thing ever’",
+          "url": "https://www.mmafighting.com/boxing/509506/dana-white-rips-eddie-hearn-for-actively-sabotaging-tyson-fury-vs-anthony-joshua-fight-its-the-weirdest-thing-ever",
+          "source": "MMA Fighting",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'Bring it on' - Cardiff businesses react to Fury vs Joshua rumours",
+          "url": "https://www.bbc.com/news/articles/cm27zjp2g98o",
+          "source": "BBC",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "슈퍼스타k": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T15:43:00+09:00",
+      "lastSeen": "2026-09-12T15:43:00+09:00",
+      "news": [
+        {
+          "title": "'슈퍼스타K' 출신 신지수, 오는 19일 비연예인과 결혼",
+          "url": "https://www.newsis.com/view/NISX20260912_0003786817",
+          "source": "뉴시스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'슈스케3' 신지수, 19일 품절녀된다…예비신랑은 홍콩대 출신 금융 전문가",
+          "url": "https://v.daum.net/v/20260912090927981",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'슈퍼스타K' 출신 신지수, 품절녀 된다…결혼 청첩장 공개 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/12/2026091211404272967",
+          "source": "머니투데이",
           "date": "2026-09-12"
         }
       ]
