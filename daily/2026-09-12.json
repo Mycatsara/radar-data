@@ -4875,10 +4875,10 @@
       ]
     },
     "경찰관": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T21:43:00+09:00",
-      "lastSeen": "2026-09-12T21:43:00+09:00",
+      "lastSeen": "2026-09-12T22:11:00+09:00",
       "news": [
         {
           "title": "경찰 내부망 개인정보 또 유출‥30대 현직 경찰관 체포",
@@ -4897,14 +4897,26 @@
           "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034453",
           "source": "기호일보",
           "date": "2026-09-12"
+        },
+        {
+          "title": "무면허로 오토바이 몰다 경찰 매달고 도주…50대 집유",
+          "url": "https://v.daum.net/v/20260912101500798",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'무면허' 오토바이 운전 발각, 경찰관 매단 채 도주 50대 남성 집유 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/12/2026091210185789274",
+          "source": "머니투데이",
+          "date": "2026-09-12"
         }
       ]
     },
     "메이저 리그 베이스볼": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-12T21:43:00+09:00",
-      "lastSeen": "2026-09-12T21:43:00+09:00",
+      "lastSeen": "2026-09-12T22:11:00+09:00",
       "news": [
         {
           "title": "“한국에서 성공한 뒤 MLB 가겠다”던 부산고 에이스는 결국… [베이스볼 비키니]",
@@ -4927,10 +4939,10 @@
       ]
     },
     "mbc": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-12T21:43:00+09:00",
-      "lastSeen": "2026-09-12T21:43:00+09:00",
+      "lastSeen": "2026-09-12T22:11:00+09:00",
       "news": [
         {
           "title": "استقالة علي جابر... وخوف من عملية صرف واسعة | MBC: السَعوَدَة جارية على قدم وساق!",
@@ -4953,10 +4965,10 @@
       ]
     },
     "김정은": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-12T21:43:00+09:00",
-      "lastSeen": "2026-09-12T21:43:00+09:00",
+      "lastSeen": "2026-09-12T22:11:00+09:00",
       "news": [
         {
           "title": "“김정은 욕해봐” 美기업 검증 강화에… 北, 외국인에 ‘면접 하청’",
@@ -4975,8 +4987,151 @@
           "url": "https://www.newstown.co.kr/news/articleView.html?idxno=715598",
           "source": "뉴스타운",
           "date": "2026-09-12"
+        },
+        {
+          "title": "\"북한, 서방 IT기업 위장취업 단속에 외국인 꾀어 대리면접\"",
+          "url": "https://www.yna.co.kr/view/AKR20260912034000009",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
         }
       ]
+    },
+    "로또1241": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T22:11:00+09:00",
+      "lastSeen": "2026-09-12T22:11:00+09:00",
+      "news": [
+        {
+          "title": "[속보]로또 1241회 당첨번호 ‘7·13·16·23·24·43’…보너스 ‘9’",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02578086645579464&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "로또 1등 16억씩 18명…자동 선택 명당 13곳 어디",
+          "url": "https://www.news1.kr/society/general-society/6288531",
+          "source": "뉴스1",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"드라마 주인공이네\"...직장인 난리 난 로또 1등 후기 [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202609101042277828",
+          "source": "YTN",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "사고": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T22:11:00+09:00",
+      "lastSeen": "2026-09-12T22:11:00+09:00",
+      "news": [
+        {
+          "title": "갯바위 고립되고 물놀이 사고도...'대조기' 주의보",
+          "url": "https://www.ytn.co.kr/_ln/0115_202609122001091818",
+          "source": "YTN",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"물때 확인하세요\"..충남 서해안 갯바위 고립사고 주의보",
+          "url": "https://v.daum.net/v/20260912202251704",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "태안 갯바위서 낚시하던 2명 고립…해경 구조",
+          "url": "https://www.yna.co.kr/view/AKR20260912029100063",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "아이폰 사전예약": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T22:11:00+09:00",
+      "lastSeen": "2026-09-12T22:11:00+09:00",
+      "news": [
+        {
+          "title": "이통3사, 아이폰18 프로 사전예약 돌입…할인·보상 경쟁",
+          "url": "https://www.etnews.com/20260911000191",
+          "source": "전자신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "“이거 월급으로 살 수 있어?” 난 못 사겠는데…월가 “합리적 가격”",
+          "url": "https://v.daum.net/v/20260912194155162",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"우린 세 번 접을 거야\"…애플 '아이폰 듀오'에 삼성전자 견제구",
+          "url": "https://view.asiae.co.kr/article/2026091210121921103",
+          "source": "아시아경제",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "블리자드 엔터테인먼트": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T22:11:00+09:00",
+      "lastSeen": "2026-09-12T22:11:00+09:00",
+      "news": [
+        {
+          "title": "스타크래프트 후속작 공개하나…블리즈컨 2026에 쏟아지는 관심",
+          "url": "https://v.daum.net/v/u1jibBWIHN",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "블리즈컨 2026 디아블로 미리보기 가이드 — 디아블로 IV — 블리자드 소식",
+          "url": "https://news.blizzard.com/ko-kr/article/24293056/2026",
+          "source": "Blizzard News",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "“스타크래프트 후속작 나오나?”…3년만에 열린 게임 축제에 쏠린 눈",
+          "url": "https://www.mk.co.kr/news/it/12151025",
+          "source": "매일경제",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "apple store": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T22:11:00+09:00",
+      "lastSeen": "2026-09-12T22:11:00+09:00",
+      "news": [
+        {
+          "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
+          "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+          "source": "Apple",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Where to preorder the iPhone 18 Pro and Pro Max",
+          "url": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
+          "source": "The Verge",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "iPhone 18 Pro vs iPhone 15 Pro: Three-year upgrade",
+          "url": "https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-15-pro-three-year-upgrade",
+          "source": "AppleInsider",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "하이마트": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T22:11:00+09:00",
+      "lastSeen": "2026-09-12T22:11:00+09:00",
+      "news": []
     }
   },
   "sections": {
