@@ -978,10 +978,10 @@
       ]
     },
     "추미애": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T04:39:00+09:00",
-      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:43:00+09:00",
       "news": [
         {
           "title": "\"대통령은 왜 내란세력에 전전긍긍하나\"…추미애, 작심 발언(종합)",
@@ -1140,10 +1140,10 @@
       ]
     },
     "공휴일": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-13T05:12:00+09:00",
-      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:43:00+09:00",
       "news": [
         {
           "title": "\"토요일 겹쳤는데 왜 안돼?\" 2026년 추석 대체공휴일·임시공휴일 없는 이유",
@@ -1166,10 +1166,10 @@
       ]
     },
     "이지아": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-13T05:12:00+09:00",
-      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:43:00+09:00",
       "news": [
         {
           "title": "48세 이지아, 나이 믿기지 않는 동안 미모…쭉 뻗은 각선미까지 [N샷]",
@@ -1192,10 +1192,10 @@
       ]
     },
     "서정희": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-13T05:12:00+09:00",
-      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:43:00+09:00",
       "news": [
         {
           "title": "서정희, 외제차 팔고 경차 타더니..괜히 눈치 \"누가 볼까 싶어 마음 작아져\"",
@@ -1214,14 +1214,20 @@
           "url": "https://www.news1.kr/entertain/celebrity-topic/6288519",
           "source": "뉴스1",
           "date": "2026-09-12"
+        },
+        {
+          "title": "\"���가 볼까 마음 작아져…\" 서정희, 외제차 팔고 경차 타는 `반전` 일상",
+          "url": "https://mydaily.co.kr/page/view/2026091216124039271",
+          "source": "마이데일리",
+          "date": "2026-09-12"
         }
       ]
     },
     "아스날": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T05:12:00+09:00",
-      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:43:00+09:00",
       "news": [
         {
           "title": "26개 슈팅 퍼붓고도 1골…외데고르가 끝냈다, 아스널 나폴리 원정 승리",
@@ -1270,10 +1276,10 @@
       ]
     },
     "디아블로5": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T05:12:00+09:00",
-      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:43:00+09:00",
       "news": [
         {
           "title": "30주년 맞은 게임 '디아블로' 차기작…'디아블로 V' 2029년 출시",
@@ -1296,10 +1302,10 @@
       ]
     },
     "입양": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-13T05:12:00+09:00",
-      "lastSeen": "2026-09-13T05:12:00+09:00",
+      "lastSeen": "2026-09-13T05:43:00+09:00",
       "news": [
         {
           "title": "반려견 입양비 25달러로 낮췄다..패서디나 보호소 “새 가족 찾아요”",
@@ -1318,6 +1324,18 @@
           "url": "https://www.hankookilbo.com/news/article/A2026091017390003380",
           "source": "한국일보",
           "date": "2026-09-12"
+        },
+        {
+          "title": "70여년만에 드러난 한국·노르웨이 불법 입양 실태…“진상규명 이제 시작일 뿐”[인터뷰]",
+          "url": "https://v.daum.net/v/PCly2xpXvH?f=p",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "해외입양단체, 장영수 진화위 상임위원 기피신청…\"공정성 우려\" - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/07/2026090710390559077",
+          "source": "머니투데이",
+          "date": "2026-09-12"
         }
       ]
     },
@@ -1327,6 +1345,84 @@
       "firstSeen": "2026-09-13T05:12:00+09:00",
       "lastSeen": "2026-09-13T05:12:00+09:00",
       "news": []
+    },
+    "아시안 게임": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T05:43:00+09:00",
+      "lastSeen": "2026-09-13T05:43:00+09:00",
+      "news": [
+        {
+          "title": "1958년엔 못 왔고 1994년엔 안 왔다…북한, 사상 첫 ‘일본 아시안게임’ 입성",
+          "url": "https://www.khan.co.kr/article/202609121359001",
+          "source": "경향신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "북한 선수단, AG 역사상 처음 일본 땅 밟아",
+          "url": "https://www.yna.co.kr/view/MYH20260912011700038",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'北, 역대 최초 日 AG 출전' 180염 11일 오사카 입국…사격, 역도 강��",
+          "url": "https://www.nocutnews.co.kr/news/6577127",
+          "source": "노컷뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "real madrid vs rayo vallecano": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T05:43:00+09:00",
+      "lastSeen": "2026-09-13T05:43:00+09:00",
+      "news": [
+        {
+          "title": "Audero evita el gol de Vinicius",
+          "url": "https://onefootball.com/es/noticias/audero-evita-el-gol-de-vinicius-43447975",
+          "source": "OneFootball",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Bellingham se une a la fiesta",
+          "url": "https://www.mundodeportivo.com/futbol/real-madrid/20260912/1004226477/bellingham-une-fiesta.html",
+          "source": "Mundo Deportivo",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Mbappé tuvo revancha de penal en La Liga y marcó ante Rayo Vallecano",
+          "url": "https://www.vermouth-deportivo.com.ar/mbappe-tuvo-revancha-de-penal-en-la-liga-y-marco-ante-rayo-vallecano/",
+          "source": "Vermouth Deportivo",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "석유": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T05:43:00+09:00",
+      "lastSeen": "2026-09-13T05:43:00+09:00",
+      "news": [
+        {
+          "title": "IEA \"호르무즈, 올해 안 열린다\"…내년까지 '잃어버린 시대'",
+          "url": "https://www.fnnews.com/news/202609120431322810",
+          "source": "파이낸셜뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "호르무즈 봉쇄 장기화에 국제기구 일제히 ‘경고등’…하반기 석유시장 긴장 고조",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372263",
+          "source": "전기신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "유가 뛸때 선박연료 날았다⋯ 해운업계 ‘벙커유 쇼크’",
+          "url": "https://www.viva100.com/article/20260910500882",
+          "source": "브릿지경제",
+          "date": "2026-09-12"
+        }
+      ]
     }
   },
   "sections": {
