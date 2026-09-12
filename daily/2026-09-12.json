@@ -5170,10 +5170,10 @@
       "news": []
     },
     "너말고다른연애": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-12T22:39:00+09:00",
-      "lastSeen": "2026-09-12T22:39:00+09:00",
+      "lastSeen": "2026-09-12T23:12:00+09:00",
       "news": [
         {
           "title": "손디아, 서강준·안은진 '너 말고 다른 연애' OST 첫 주자",
@@ -5196,10 +5196,10 @@
       ]
     },
     "한국인의 밥상": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-12T22:39:00+09:00",
-      "lastSeen": "2026-09-12T22:39:00+09:00",
+      "lastSeen": "2026-09-12T23:12:00+09:00",
       "news": [
         {
           "title": "이찬원, 음식으로 전한 따뜻한 정...‘한국인의 밥상’ 15주년 특집서 요리부터 노래까지 선보여",
@@ -5243,6 +5243,214 @@
           "title": "\"우린 세 번 접을 거야\"…애플 '아이폰 듀오'에 삼성전자 견제구",
           "url": "https://view.asiae.co.kr/article/2026091210121921103",
           "source": "아시아경제",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "리버풀 대 풀럼": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-12T23:12:00+09:00",
+      "lastSeen": "2026-09-12T23:12:00+09:00",
+      "news": [
+        {
+          "title": "옵타 슈퍼컴퓨터가 9월 12일 프리미어 리그 경기를 예측했습니다. 리버풀과 첼시의 승리 가능성이 높고, 아스톤 빌라와 포레스트의 경기는 무승부로 끝날 가능성이 높습니다.",
+          "url": "https://www.vietnam.vn/ko/sieu-may-tinh-opta-du-doan-ngoai-hang-anh-12-9-liverpool-chelsea-sang-cua-dai-chien-villa-forest-de-chia-diem",
+          "source": "Vietnam.vn",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "프리미어 리그 리버풀 대 풀럼 축구 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-liverpool-vs-fulham-tai-premier-league-1765313.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "유럽 ​​축구 일정: 첼시, 아스널, 레알 마드리드에 관심이 집중되고 있습니다.",
+          "url": "https://www.vietnam.vn/ko/lich-truc-tiep-bong-da-chau-au-tam-diem-chelsea-arsenal-real-madrid",
+          "source": "Vietnam.vn",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "첼시 대 헐 시티": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-12T23:12:00+09:00",
+      "lastSeen": "2026-09-12T23:12:00+09:00",
+      "news": [
+        {
+          "title": "[한국스포츠레저공동기획]강등 후보가 날고 절대강자가 흔들렸다…유럽 5대 리그 ‘이변의 시작’",
+          "url": "https://v.daum.net/v/b77GlCnQDQ",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "첼시 대 헐 시티의 프리미어 리그 4라운드 생중계 축구 경기",
+          "url": "https://www.vietnam.vn/ko/truc-tiep-bong-da-chelsea-vs-hull-vong-4-ngoai-hang-anh",
+          "source": "Vietnam.vn",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "‘파머 어떻게 막을 거냐고? 그냥 걷어차!’ 상대 감독의 살벌한 농담...‘승격 후 무실점’ 헐 시티, 리그 최강 화력 첼시와 맞대결",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97733",
+          "source": "포포투",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "동행": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T23:12:00+09:00",
+      "lastSeen": "2026-09-12T23:12:00+09:00",
+      "news": [
+        {
+          "title": "기후동행카드, '기후동행패스'로 바꾸셨나요? 지하철역 12곳서 무료 교체",
+          "url": "https://mediahub.seoul.go.kr/archives/2019275",
+          "source": "서울특별시",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "기후동행카드 사라져도 고객은 남는다···카드사 ‘K-패스 환승’ 전쟁",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423621",
+          "source": "시사저널e",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[통장잔GO] 기후동행패스, 뭐가 좋을까?…카드사별 혜택 따져보니",
+          "url": "https://www.dailian.co.kr/news/view/1689312/%ED%86%B5%EC%9E%A5%EC%9E%94GO-%EA%B8%B0%ED%9B%84%EB%8F%99%ED%96%89%ED%8C%A8%EC%8A%A4-%EB%AD%90%EA%B0%80-%EC%A2%8B%EC%9D%84%EA%B9%8C%EC%B9%B4-2026",
+          "source": "데일리안",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "원자력": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T23:12:00+09:00",
+      "lastSeen": "2026-09-12T23:12:00+09:00",
+      "news": [
+        {
+          "title": "제 2026-14 회 원자력안전위원회 개최",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=447049",
+          "source": "서울Pn",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "기상항공기, ��사능 방재훈련 첫 투입",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372348",
+          "source": "전기신문",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "경북도, 원전 방사능·복합재난 대비 연합훈련 성황리 개최",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=715491",
+          "source": "뉴스타운",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "해변": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T23:12:00+09:00",
+      "lastSeen": "2026-09-12T23:12:00+09:00",
+      "news": [
+        {
+          "title": "진도 해안서 물놀이하다 썰물에 휩쓸린 가족…엄마·아들 사망(종합)",
+          "url": "https://v.daum.net/v/20260912181554051",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "진도 ‘신비의 바닷길’ 인근서 일가족 빠져…엄마와 3살 아��� 심정지",
+          "url": "https://www.donga.com/news/Society/article/all/20260912/134655112/2",
+          "source": "동아일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "아이들 구하러 뛰어든 엄마…진도 해변서 4세 아들과 숨져",
+          "url": "https://news.nate.com/view/20260912n09117",
+          "source": "네이트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "재벌형사2": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T23:12:00+09:00",
+      "lastSeen": "2026-09-12T23:12:00+09:00",
+      "news": [
+        {
+          "title": "“같은 종류의 사람이라고 생각을 해” 안보현, 유승호의 뒤틀린 속내 간파↗",
+          "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC481740036",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "재벌X형사 2 : 정은채, 경찰서로 배달된 ‘후배’ 임진섭 시신 확인하고 오열",
+          "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC481740102",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'재벌X형사2’ 안보현, 누명 씌운 범인 잡을 수 있을까? ...최고시청률 7.6% [종합] - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/12/2026091207487297834",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "유부녀킬러 드라마": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-12T23:12:00+09:00",
+      "lastSeen": "2026-09-12T23:12:00+09:00",
+      "news": [
+        {
+          "title": "공효진, 정준원에게 정체 들켰다 \"지옥 맛보게 해줄 것\" [유부녀 킬러]",
+          "url": "https://v.daum.net/v/20260912215436846",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "“공효진 노렸지만”… ‘유부녀 킬러’ 이엘리야, 킹피셔로 오인받아 충격적 최후",
+          "url": "https://sports.khan.co.kr/article/202609122247003",
+          "source": "스포츠경향",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "최종회 '유부녀 킬러' 공효진, 정준원과 딸 지킬 수 있을까? 10분 확대 편성 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/12/2026091214387244697",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "lotto result 6/45": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T23:12:00+09:00",
+      "lastSeen": "2026-09-12T23:12:00+09:00",
+      "news": [
+        {
+          "title": "Lotto results: No winner of ₱285.83M jackpot on Sept. 11",
+          "url": "https://newsinfo.inquirer.net/2303881/lotto-results-no-winner-of-%E2%82%B1285-83m-jackpot-on-sept-11",
+          "source": "Inquirer.net",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Ultra Lotto 6/58 Results for September 11, 2026 | Lotto Results | GMA News Online",
+          "url": "https://www.gmanetwork.com/news/lotto/results/ultralotto658-september-11-2026/",
+          "source": "GMA Network",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[OUT SOON] PCSO Swertres Lotto Result Today, September 11, 2026 LIVE: Check 3D Lotto 2 PM, 5 PM and 9 PM Winning Numbers | Here’s How to Play",
+          "url": "https://sundayguardianlive.com/world/out-soon-pcso-swertres-lotto-result-today-september-11-2026-live-check-3d-lotto-2-pm-5-pm-and-9-pm-winning-numbers-heres-how-to-play-282255/",
+          "source": "The Sunday Guardian",
           "date": "2026-09-12"
         }
       ]
