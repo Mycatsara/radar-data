@@ -2707,10 +2707,10 @@
       ]
     },
     "원자력 발전소": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-12T13:40:00+09:00",
-      "lastSeen": "2026-09-12T13:40:00+09:00",
+      "lastSeen": "2026-09-12T14:11:00+09:00",
       "news": [
         {
           "title": "[단독] 원자력 발전소에 ‘만취 노동자’…사흘 새 2명 적발",
@@ -2733,10 +2733,10 @@
       ]
     },
     "캠브리콘": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-12T13:40:00+09:00",
-      "lastSeen": "2026-09-12T13:40:00+09:00",
+      "lastSeen": "2026-09-12T14:11:00+09:00",
       "news": [
         {
           "title": "'웃돈 5배 줘도 못 구한다'…삼전닉스에 목줄 잡힌 中 [강경주의 테크X]",
@@ -2759,10 +2759,10 @@
       ]
     },
     "중앙은행": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-12T13:40:00+09:00",
-      "lastSeen": "2026-09-12T13:40:00+09:00",
+      "lastSeen": "2026-09-12T14:11:00+09:00",
       "news": [
         {
           "title": "러 중앙은행, 1년3개월 만에 기준금리 인하 멈춰…\"연 14% 동결\"",
@@ -2781,14 +2781,26 @@
           "url": "https://www.tokenpost.kr/news/economy/406438",
           "source": "토큰포스트",
           "date": "2026-09-12"
+        },
+        {
+          "title": "ECB 올해 두 번째 금리 인상…예금금리 연 2.50%로 0.25%p↑",
+          "url": "https://v.daum.net/v/fwdVyNfzzw",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "분데스방크 총재 \"제약적 영역으로 들어가야 할 가능성 배제 안해\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434530",
+          "source": "연합인포맥스",
+          "date": "2026-09-12"
         }
       ]
     },
     "배구": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-12T13:40:00+09:00",
-      "lastSeen": "2026-09-12T13:40:00+09:00",
+      "lastSeen": "2026-09-12T14:11:00+09:00",
       "news": [
         {
           "title": "“한국, 대체 어떤 팀이야?” 결승 길목서 만난 日 초긴장…‘득점 2위’ 허수봉에 ‘수호신’ 박경민까지",
@@ -2811,10 +2823,10 @@
       ]
     },
     "탄도 미사일": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-12T13:40:00+09:00",
-      "lastSeen": "2026-09-12T13:40:00+09:00",
+      "lastSeen": "2026-09-12T14:11:00+09:00",
       "news": [
         {
           "title": "합참 “북한, 동해상으로 단거리 탄도미사일 수발 발사”",
@@ -2833,14 +2845,26 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8661767",
           "source": "KBS 뉴스",
           "date": "2026-09-12"
+        },
+        {
+          "title": "국힘 \"李, 미사일 쏘는 北에 한마디도 못해\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260912134758Vc0",
+          "source": "연합뉴스TV",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+          "url": "https://www.yna.co.kr/view/AKR20260912021000011",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
         }
       ]
     },
     "판결": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-12T13:40:00+09:00",
-      "lastSeen": "2026-09-12T13:40:00+09:00",
+      "lastSeen": "2026-09-12T14:11:00+09:00",
       "news": [
         {
           "title": "“변호사가 항소장 제출 안해 직장 잃었다”…2000만원 배상 판결",
@@ -2858,6 +2882,122 @@
           "title": "항소장 안 낸 변호사…법원 \"항소기회 잃은 전직 경찰관에 2천만원 배상\"",
           "url": "https://www.yna.co.kr/view/AKR20260909180400051",
           "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[AI그래픽뉴스] 법원 향한 매서운 불신… \"차라리 AI 판사에게 재판받겠다\"",
+          "url": "https://www.newspim.com/news/view/20260910000217",
+          "source": "뉴스핌",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "[아이온의 AI:온] AI가 만든 '유령 판례'…법정까지",
+          "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/10/2026091090049.html",
+          "source": "TV조선뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "집": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-12T14:11:00+09:00",
+      "lastSeen": "2026-09-12T14:11:00+09:00",
+      "news": [
+        {
+          "title": "거래 절벽에 \"민간 살아나야\"...대출 규제 '딜레마'",
+          "url": "https://www.ytn.co.kr/_ln/0102_202609120526240840",
+          "source": "YTN",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "올들어 집값 10% 넘게 오른 지역 19곳…어디?",
+          "url": "https://v.daum.net/v/20260912100109547",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "서울 아파트 83주째 상승��李 지지율 최저, 정책 불신 위험 수준 [논설실의 관점]",
+          "url": "https://www.segye.com/newsView/20260911511458",
+          "source": "세계일보",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "리브 골프": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-12T14:11:00+09:00",
+      "lastSeen": "2026-09-12T14:11:00+09:00",
+      "news": [
+        {
+          "title": "6.7조 쏟아붓고 스타 싹쓸이…\"돈 떨어지니 남남\" 허무한 몰락 [조수영의 구설(球說)]",
+          "url": "https://www.hankyung.com/article/202609106999i",
+          "source": "한국경제",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "사우디 돈줄 끊긴 LIV골프, 1.3조 부채에 결국 법정관리 신청",
+          "url": "https://v.daum.net/v/XYErVRu5z7",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "LIV Golf, 파산금융 1,400만 달러 접근 위한 법원 임시 승인 확보",
+          "url": "https://hypebeast.kr/2026/9/liv-golf-secures-interim-court-approval-access-14-million-usd-bankruptcy-financing",
+          "source": "Hypebeast.KR",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "박지현": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-12T14:11:00+09:00",
+      "lastSeen": "2026-09-12T14:11:00+09:00",
+      "news": [
+        {
+          "title": "‘13억→31억’ 집 등장에 박지현 “집 사보고 싶다”",
+          "url": "https://www.segye.com/newsView/20260911510411",
+          "source": "세계일보",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'절친' 변우석은 130억 한남더힐 샀다더니…주우재, 평균 16억 서울 아파트 임장 ('홈즈')[종합]",
+          "url": "https://v.daum.net/v/20260911183151710",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"포기한 마포 아파트, 2배 더 뛰어\"…고영배 '웃픈' 내 집 마련사",
+          "url": "https://www.newsis.com/view/NISX20260911_0003785126",
+          "source": "뉴시스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "김하성": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-12T14:11:00+09:00",
+      "lastSeen": "2026-09-12T14:11:00+09:00",
+      "news": [
+        {
+          "title": "애틀랜타 김하성, 연장 11회 동점 적시타 치고 끝내기 득점",
+          "url": "https://www.yna.co.kr/view/AKR20260912026800007",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "'대박' 김하성 여론 다 뒤집었다! 2사 후 패배 위기서 기적의 동점타→폭풍 질주로 끝내기 득점까지!... '우리가 알던 어썸킴이 돌아왔다' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/12/2026091212440729727",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "“애틀랜타 선수들은 김하성을 성실한 선수로 기억할 것” 현실은 1할대 유격수…헤어질 시간이 다가온다",
+          "url": "https://v.daum.net/v/20260912060127363",
+          "source": "Daum",
           "date": "2026-09-12"
         }
       ]
