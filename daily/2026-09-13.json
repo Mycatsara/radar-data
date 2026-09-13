@@ -5909,10 +5909,10 @@
       ]
     },
     "김강률": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-13T21:16:00+09:00",
-      "lastSeen": "2026-09-13T21:16:00+09:00",
+      "lastSeen": "2026-09-13T21:43:00+09:00",
       "news": [
         {
           "title": "김강률, 무려 2달 만에 엔트리 복귀! '문보경·천성호 IN' LG, 삼성전 선발 라인업 공개",
@@ -5935,10 +5935,10 @@
       ]
     },
     "대한민국": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-13T21:16:00+09:00",
-      "lastSeen": "2026-09-13T21:16:00+09:00",
+      "lastSeen": "2026-09-13T21:43:00+09:00",
       "news": [
         {
           "title": "녹조 줄이고 녹물 예방…물산업 신기술 뜬다",
@@ -5961,10 +5961,10 @@
       ]
     },
     "하현승": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-13T21:16:00+09:00",
-      "lastSeen": "2026-09-13T21:16:00+09:00",
+      "lastSeen": "2026-09-13T21:43:00+09:00",
       "news": [
         {
           "title": "日 야구계가 韓 18세 괴물에 벌벌 떤다! 요미우리 스카우트도 반했다 “일본에서도 1순위”…대표팀 감독도 “우리 좌타자 대응 못해” 잔뜩 긴장",
@@ -5987,10 +5987,10 @@
       ]
     },
     "학생": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T21:16:00+09:00",
-      "lastSeen": "2026-09-13T21:16:00+09:00",
+      "lastSeen": "2026-09-13T21:43:00+09:00",
       "news": [
         {
           "title": "초중고 자살 학생 5년 새 65%↑…서울 2.3배·경남 3.6배",
@@ -6013,10 +6013,10 @@
       ]
     },
     "한화생명보험": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T21:16:00+09:00",
-      "lastSeen": "2026-09-13T21:16:00+09:00",
+      "lastSeen": "2026-09-13T21:43:00+09:00",
       "news": [
         {
           "title": "보험사 시책 바꾼 1200%룰…GA 강자 한화생명도 ‘신중 모드’",
@@ -6035,14 +6035,20 @@
           "url": "https://www.i-boss.co.kr/ab-2877-18014",
           "source": "아이보스",
           "date": "2026-09-13"
+        },
+        {
+          "title": "[단독] \"모집질서 위반\"...금감원, 인카금융·GA코리아에 '수십억 과태료' 중징계",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=546640",
+          "source": "중앙이코노미뉴스",
+          "date": "2026-09-13"
         }
       ]
     },
     "아시안게임 축구": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-13T21:16:00+09:00",
-      "lastSeen": "2026-09-13T21:16:00+09:00",
+      "lastSeen": "2026-09-13T21:43:00+09:00",
       "news": [
         {
           "title": "[아시안게임] '적장' 된 전임 사령탑 만나는 신상우호 \"부담 전혀 없어\"",
@@ -6164,6 +6170,110 @@
           "title": "울진 나곡리 해안서 초등생 3명 물에빠져...1명 구조·2명 병원 이송",
           "url": "https://www.newspim.com/news/view/20260913000173",
           "source": "뉴스핌",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "김도영": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-13T21:43:00+09:00",
+      "lastSeen": "2026-09-13T21:43:00+09:00",
+      "news": [
+        {
+          "title": "김도영, 최연소 40홈런 100타점 100득점…이승엽 넘었다!",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8662139",
+          "source": "KBS 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "부상서 돌아온 KIA 김도영, 최연소 40홈런-100타점-100득점 달성",
+          "url": "https://www.donga.com/news/Society/article/all/20260913/134659792/1",
+          "source": "동아일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'코뼈 수술' KIA 김도영, 나흘 만에 선발 출전…3번 지명타자",
+          "url": "https://www.yna.co.kr/view/AKR20260913040200007",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "휴머노이드 로봇": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T21:43:00+09:00",
+      "lastSeen": "2026-09-13T21:43:00+09:00",
+      "news": [
+        {
+          "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+          "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+          "source": "CNBC",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "How Absurd! OpenAI's Alleged Pixel-Level Distillation of a Chinese Company Completely Debunked via Frame-by-Frame Comparison",
+          "url": "https://eu.36kr.com/en/p/3978739416906499",
+          "source": "36 Kr",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "OpenAI Distillation Dispute Sparks Robotics Launch",
+          "url": "https://blockchain.news/ainews/openai-distillation-dispute-sparks-robotics-launch",
+          "source": "blockchain.news",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "송민규": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T21:43:00+09:00",
+      "lastSeen": "2026-09-13T21:43:00+09:00",
+      "news": [
+        {
+          "title": "'27세 늦깎이 유럽 도전' 송민규, 꿈꾸던 유럽 무대 밟았다…45분 만에 만회골 만들어냈다",
+          "url": "https://v.daum.net/v/20260913100148827",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'연봉 70% 포기' 송민규, 27세에 포르투갈 무대 데뷔…45분 활약",
+          "url": "https://www.news1.kr/sports/overseas-soccer/6288706",
+          "source": "뉴스1",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'유럽 도전' 송민규, 교체 출전으로 포르투갈 무대 데뷔",
+          "url": "https://www.newsis.com/view/NISX20260913_0003787320",
+          "source": "뉴시스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "임찬규": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T21:43:00+09:00",
+      "lastSeen": "2026-09-13T21:43:00+09:00",
+      "news": [
+        {
+          "title": "'오스틴 39호포+임찬규 14승' LG, 삼성 13-5 제압! 2위 삼성, 1위 KT와 '2G 차' 벌어지다 [대구 현장리뷰] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/13/2026091313215985071",
+          "source": "머니투데이",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[사진] 임찬규, 오지환 향해 환호",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/09/13/GFSDQNTBGNRGKZBYG44TMMTCGE/",
+          "source": "조선일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[스경X현장]‘임찬규 100승하는 소리’가 현실로…다승 선두 지키고 100승 금자탑 쌓은 LG 임찬규 “지난해 ...",
+          "url": "https://sports.khan.co.kr/article/202609132114003",
+          "source": "스포츠경향",
           "date": "2026-09-13"
         }
       ]
