@@ -6201,10 +6201,10 @@
       ]
     },
     "휴머노이드 로봇": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-13T21:43:00+09:00",
-      "lastSeen": "2026-09-13T21:43:00+09:00",
+      "lastSeen": "2026-09-13T22:12:00+09:00",
       "news": [
         {
           "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
@@ -6274,6 +6274,240 @@
           "title": "[스경X현장]‘임찬규 100승하는 소리’가 현실로…다승 선두 지키고 100승 금자탑 쌓은 LG 임찬규 “지난해 ...",
           "url": "https://sports.khan.co.kr/article/202609132114003",
           "source": "스포츠경향",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "김우빈": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T22:12:00+09:00",
+      "lastSeen": "2026-09-13T22:12:00+09:00",
+      "news": [
+        {
+          "title": "김우빈 가족, 며느리 신민아 위한 특급 선물…'민아야 사랑해' 애정 가득 [N샷]",
+          "url": "https://v.daum.net/v/20260913192127930",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"우리가 많이 사랑해\"…'김우빈♥' 신민아, 시댁서 간식차까지 '예쁨 받는 며느리' [IS하이컷]",
+          "url": "https://news.nate.com/view/20260913n10556",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'김우빈♥' 신민아, 시집 진짜 잘갔네..시댁서 커피차 보냈다 \"우리가 많이 사랑해\" [핫피플] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/13/ME4DIYLFGAYDQMBUMFQTGM3FGI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "경제": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T22:12:00+09:00",
+      "lastSeen": "2026-09-13T22:12:00+09:00",
+      "news": [
+        {
+          "title": "현대硏, 올해 성장률 2.7→3.5% 상향…내년은 2.4%",
+          "url": "https://v.daum.net/v/20260913130649990",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "현대硏, 올해 성장률 3.5%로 상향…내년 성장률 2.4% 전망",
+          "url": "https://www.yna.co.kr/view/AKR20260912050000002",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "현경연 \"내년 2.4% 성장…취업자 증가는 15만명 그쳐\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01436646645579792",
+          "source": "마켓인",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "삼성디스플레이": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T22:12:00+09:00",
+      "lastSeen": "2026-09-13T22:12:00+09:00",
+      "news": [
+        {
+          "title": "[포토뉴스]“아이폰 18 프로 사전예약 하세요”",
+          "url": "https://www.khan.co.kr/article/20260913202701A/?cp",
+          "source": "경향신문",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "애플도 결국 접었다…韓·美·中 ‘폴더블폰 삼국지’ 개막",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260914.22014003423",
+          "source": "국제신문",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "아이폰18에 폴더블 '듀오'까지… 번호이동 시장 후끈",
+          "url": "https://v.daum.net/v/20260913183313000",
+          "source": "Daum",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "선박 좌초": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T22:12:00+09:00",
+      "lastSeen": "2026-09-13T22:12:00+09:00",
+      "news": [
+        {
+          "title": "찬 메이 만에서 좌초된 24,000톤급 화물선 구조 작업.",
+          "url": "https://www.vietnam.vn/ko/giai-cuu-tau-hang-hon-24-000-tan-mac-can-o-vinh-chan-may",
+          "source": "Vietnam.vn",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "하띤성 군 사령부는 열대성 저기압에 대응하기 위해 병력을 배치할 준비를 마쳤습니���.",
+          "url": "https://www.vietnam.vn/ko/bo-chqs-tinh-ha-tinh-san-sang-luc-luong-ung-pho-voi-ap-thap-nhiet-doi",
+          "source": "Vietnam.vn",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "파르아이 마을로 가는 차량 통행을 확보하기 위해 산사태 현장을 시급히 복구해야 합니다.",
+          "url": "https://www.vietnam.vn/ko/khan-truong-khac-phuc-diem-sat-lo-bao-dam-giao-thong-vao-thon-par-ay",
+          "source": "Vietnam.vn",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "100일의 거짓말": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-13T22:12:00+09:00",
+      "lastSeen": "2026-09-13T22:12:00+09:00",
+      "news": [
+        {
+          "title": "tvN 폼 미쳤다…최고 시청률 '27.6%’ 제작진 집결→'천만' 배우 조합으로 들썩이는 韓 드라마 ('100일의 거짓말')",
+          "url": "https://v.daum.net/v/20260913200237655",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'100일의 거짓말', 박진영 향한 김유정의 믿고 싶은 거짓말 \"정체가 뭘까?\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/11/2026091110467288538",
+          "source": "머니투데이",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "김인권, 항일 단체 구국단 요원 된다…'100일의 거짓말' 합류",
+          "url": "https://news.nate.com/view/20260910n30088",
+          "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "신탁": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T22:12:00+09:00",
+      "lastSeen": "2026-09-13T22:12:00+09:00",
+      "news": [
+        {
+          "title": "돈 때문에 자식들 원수지간 될라…\"유언장 안 쓴다\" 돌변",
+          "url": "https://www.hankyung.com/article/2026091313521",
+          "source": "한국경제",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"상속은 재산 나누는 기술이 아니다\"…가족의 상처까지 보듬는 '상속 안내서'",
+          "url": "http://www.inews24.com/view/2004933",
+          "source": "아이뉴스24",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[AJU+MONEY] \"치매 걸리면 내 돈은 누가?\"…미리 준비하는 '치매머니' 재테크",
+          "url": "https://v.daum.net/v/8rCusTNdlU?f=p",
+          "source": "Daum",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "이더 리움": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-13T22:12:00+09:00",
+      "lastSeen": "2026-09-13T22:12:00+09:00",
+      "news": [
+        {
+          "title": "Ethereum(ETHUSD) 종목이 9월13일에 1.22% 하락했습니다. 주목해야 할 핵심 요인을 살펴보세요",
+          "url": "https://www.tradingkey.com/kr/news/market-movers/262164949-market-movers-ethusd-20260913",
+          "source": "TradingKey",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "2026년 9월 13일 오늘 비트코인 ​​가격: 암호화폐 시장에 격동의 한 주였습니다.",
+          "url": "https://www.vietnam.vn/ko/gia-bitcoin-hom-nay-13-9-2026-tuan-song-gio-cua-tien-so",
+          "source": "Vietnam.vn",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[아침코인] 9월 13일 LSK(리스크) 105%↑ AZIT(아지트) 41%↑ 등",
+          "url": "https://www.digitalasset.works/news/articleView.html?idxno=42976",
+          "source": "디지털애셋",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "무인 항공기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T22:12:00+09:00",
+      "lastSeen": "2026-09-13T22:12:00+09:00",
+      "news": [
+        {
+          "title": "9·11 25주기… 美 전·현직 대통령 엇갈린 행보",
+          "url": "https://v.daum.net/v/20260913210250577",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "트럼프, 9·11 추모식에 이란 압박…“끔찍한 악 이기기 위해 싸워”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661872",
+          "source": "KBS 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "9·11때 아버지 잃은 딸, 테러 25주기 맞아 양키스타디움서 시구",
+          "url": "https://www.yna.co.kr/view/AKR20260912025100007",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "kt wiz": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T22:12:00+09:00",
+      "lastSeen": "2026-09-13T22:12:00+09:00",
+      "news": [
+        {
+          "title": "KT Wiz runs six-game streak as Hilliard homers, So secures Asian Games spot - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-sports/2026/09/13/Q3UWWIWNCNHHRLO5J3LQEZ7YBA/",
+          "source": "Chosunbiz",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "KT Wiz Extend Winning Streak to Six Over Lotte Giants",
+          "url": "https://www.chosun.com/english/sports-en/2026/09/13/H57SDBY4MFDFLMTYSWHBEJ7AYY/",
+          "source": "조선일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "KT Wiz Rout Lotte 16-3 as Manager Lee Reaches 600th Win",
+          "url": "https://en.sedaily.com/sports/2026/09/10/kt-wiz-rout-lotte-16-3-as-manager-lee-reaches-600th-win",
+          "source": "Seoul Economic Daily",
           "date": "2026-09-13"
         }
       ]
