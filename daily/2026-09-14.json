@@ -706,10 +706,10 @@
       ]
     },
     "라민 야말": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T02:39:00+09:00",
-      "lastSeen": "2026-09-14T03:42:00+09:00",
+      "lastSeen": "2026-09-14T04:11:00+09:00",
       "news": [
         {
           "title": "[오피셜] '최전방 공격수로 포지션 변경 대성공!'…바르셀로나 '캡틴' 하피냐, 8월 '5골 1도움' 활약으로 이달의 선수 선정",
@@ -758,10 +758,10 @@
       ]
     },
     "로드리": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T02:39:00+09:00",
-      "lastSeen": "2026-09-14T03:42:00+09:00",
+      "lastSeen": "2026-09-14T04:11:00+09:00",
       "news": [
         {
           "title": "'충격, 이강인 연봉 1000만유로 아니었나' 아틀레티코 연봉 톱10에도 못 들었다, 수비수 한츠코 보다 적었다, 일본 국대 에이스 구보 연봉 650만유로 소시에다드 2위..라리가 연봉킹 음바페 7167만유로",
@@ -816,10 +816,10 @@
       ]
     },
     "nfl": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-14T03:14:00+09:00",
-      "lastSeen": "2026-09-14T03:42:00+09:00",
+      "lastSeen": "2026-09-14T04:11:00+09:00",
       "news": [
         {
           "title": "Is NFL+ down? NFL RedZone, NFL app hit by outage during Week 1 games",
@@ -854,10 +854,10 @@
       ]
     },
     "김원효": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T03:14:00+09:00",
-      "lastSeen": "2026-09-14T03:42:00+09:00",
+      "lastSeen": "2026-09-14T04:11:00+09:00",
       "news": [
         {
           "title": "'김원효♥' 심진화, 살 빠지더니 여배우 아우라…\"개그계 송혜교 맞네\"",
@@ -892,10 +892,10 @@
       ]
     },
     "남자": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-14T03:14:00+09:00",
-      "lastSeen": "2026-09-14T03:42:00+09:00",
+      "lastSeen": "2026-09-14T04:11:00+09:00",
       "news": [
         {
           "title": "세터 바꾸니 9cm 큰 호주에 역전…한국, 9년 만에 亞 선수권 3위 → 내년 월드컵 출전권 획득",
@@ -962,10 +962,10 @@
       ]
     },
     "pl": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T03:42:00+09:00",
-      "lastSeen": "2026-09-14T03:42:00+09:00",
+      "lastSeen": "2026-09-14T04:11:00+09:00",
       "news": [
         {
           "title": "Tak wygląda tabela grupy B ME po meczu Polska - Macedonia Siatkówka",
@@ -983,6 +983,122 @@
           "title": "Koncert Polaków na ME. Tak wracają na fotel lidera. I ten trzeci set",
           "url": "https://przegladsportowy.onet.pl/siatkowka/reprezentacja-polski/koncert-polakow-na-me-tak-wracaja-na-fotel-lidera-i-ten-trzeci-set/wx89f0c",
           "source": "Przegląd Sportowy",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Atak na pociąg Kijów-Warszawa. Rosjanie użyli nowej broni",
+          "url": "https://wyborcza.pl/7,75398,33020886,odrzutowy-atak-tuz-przy-granicy-z-polska-czym-jest-geran-5.html",
+          "source": "Wyborcza.pl",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Pociąg z europejskimi dygnitarzami zatrzymany z powodu ataków",
+          "url": "https://tvn24.pl/swiat/pociag-z-borisem-johnsonem-i-carlem-bildtem-zatrzymany-przy-polskiej-granicy-z-powodu-ataku-dronow-st9235236",
+          "source": "TVN24",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "김민재": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T04:11:00+09:00",
+      "lastSeen": "2026-09-14T04:11:00+09:00",
+      "news": [
+        {
+          "title": "'김민재 결장' 바이에른 뮌헨, 챔스 첫 경기서 보되글림트 5-0 대파",
+          "url": "https://v.daum.net/v/bklM0xpXH1?f=p",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "‘월드컵 도움왕’ 올리세, 왼발로 2골 1도움",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661539",
+          "source": "KBS 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[스포츠 영상] 원더골, 또 원더골‥'23년 연속 1차전 승리'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851291_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "levante ud vs fc barcelona standings": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T04:11:00+09:00",
+      "lastSeen": "2026-09-14T04:11:00+09:00",
+      "news": [
+        {
+          "title": "Levante vs Barcelona: Lineups, Prediction, Odds & Bet Builder Tip",
+          "url": "https://www.whoscored.com/articles/9qtZM6zFIECElckWFCdz0A/show/20260913-levante-vs-barcelona-prediction-1789280829",
+          "source": "WhoScored.com",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Flick admits: we survived, the first goal was \"my mistake\", and this player does not surprise me",
+          "url": "https://www.goal.com/en-in/news/flick-admits-we-survived-the-first-goal-was-my-mistake-and-this-player-does-not-surprise-me/bltc167fe481bf03b73",
+          "source": "Goal.com",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "A refereeing expert admits: Barcelona's penalty was \"incorrect\"",
+          "url": "https://www.goal.com/en-in/news/a-refereeing-expert-admits-barcelona-s-penalty-was-incorrect/bltdd382ab647e01759",
+          "source": "Goal.com",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "at마드리드": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T04:11:00+09:00",
+      "lastSeen": "2026-09-14T04:11:00+09:00",
+      "news": [
+        {
+          "title": "대박이다! '이강인 역대급 조력자'...AT 마드리드 '930억' 지불 결단! \"리버풀 재계약 없어 슬프다\" 공개 불만 표출→퇴단 가능성 제기",
+          "url": "https://v.daum.net/v/GPMVCRu5w1",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "리버풀은 이런 선수 안 잡고 뭐 하나…'ATM 환상 역전골' 맥 앨리스터, 재계약 긍정 분위기! \"해야 할 일 했다, 구단에서 보답할 것\"",
+          "url": "https://m.news.nate.com/view/20260911n02025?mid=s22&list=recent&cpcd=",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“동료들은 재계약, 내게는 제안도 없었다” 맥알리스터, ‘챔스 결승포’로 답했다…리버풀 구한 왼발 한 방",
+          "url": "https://sports.khan.co.kr/article/202609101008013",
+          "source": "스포츠경향",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "프리미어리그": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T04:11:00+09:00",
+      "lastSeen": "2026-09-14T04:11:00+09:00",
+      "news": [
+        {
+          "title": "'막장이다!' 로베르토 데 제르비 감독, 마티스 텔 향한 분노…내부 분열 우려→\"아무 문제 없다\" 다급히 해명",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/13/GRQWCYTDGY3WMMJSMQ2TCMZXGU/",
+          "source": "조선일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'144년 역사상 처음' 토트넘, \"제발 골 좀 넣어주세요\" 절박한 외침에도→개막 후 리그 4경기 연속 무득점 '또' 리그 17위",
+          "url": "https://v.daum.net/v/20260913084510489",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "토트넘 vs 에버튼, 프리미어리그 런던 격돌",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3693848",
+          "source": "국제뉴스",
           "date": "2026-09-13"
         }
       ]
