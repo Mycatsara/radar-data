@@ -608,10 +608,10 @@
       ]
     },
     "헐크": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T02:11:00+09:00",
-      "lastSeen": "2026-09-14T03:14:00+09:00",
+      "lastSeen": "2026-09-14T03:42:00+09:00",
       "news": [
         {
           "title": "Marvel Studios Just Introduced She-Hulk's First Big Plot Hole",
@@ -706,10 +706,10 @@
       ]
     },
     "라민 야말": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T02:39:00+09:00",
-      "lastSeen": "2026-09-14T03:14:00+09:00",
+      "lastSeen": "2026-09-14T03:42:00+09:00",
       "news": [
         {
           "title": "[오피셜] '최전방 공격수로 포지션 변경 대성공!'…바르셀로나 '캡틴' 하피냐, 8월 '5골 1도움' 활약으로 이달의 선수 선정",
@@ -732,10 +732,10 @@
       ]
     },
     "분데스리가": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T02:39:00+09:00",
-      "lastSeen": "2026-09-14T03:14:00+09:00",
+      "lastSeen": "2026-09-14T03:42:00+09:00",
       "news": [
         {
           "title": "'김민재 결장' 바이에른 뮌헨, 챔스 첫 경기서 보되글림트 5-0 대파",
@@ -758,10 +758,10 @@
       ]
     },
     "로드리": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T02:39:00+09:00",
-      "lastSeen": "2026-09-14T03:14:00+09:00",
+      "lastSeen": "2026-09-14T03:42:00+09:00",
       "news": [
         {
           "title": "'충격, 이강인 연봉 1000만유로 아니었나' 아틀레티코 연봉 톱10에도 못 들었다, 수비수 한츠코 보다 적었다, 일본 국대 에이스 구보 연봉 650만유로 소시에다드 2위..라리가 연봉킹 음바페 7167만유로",
@@ -784,10 +784,10 @@
       ]
     },
     "모레노": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-14T03:14:00+09:00",
-      "lastSeen": "2026-09-14T03:14:00+09:00",
+      "lastSeen": "2026-09-14T03:42:00+09:00",
       "news": [
         {
           "title": "손흥민·이강인 ‘탁구장 충돌’ 몰락 시작이었다…모레노 첫 숙제는",
@@ -806,14 +806,20 @@
           "url": "https://www.yna.co.kr/view/PYH20260913057800013",
           "source": "연합뉴스",
           "date": "2026-09-13"
+        },
+        {
+          "title": "’축구대표팀 재건’ 모레노 감독 입국…“대표팀에 자부심 갖게 할 것“",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260913134946C0X",
+          "source": "연합뉴스TV",
+          "date": "2026-09-13"
         }
       ]
     },
     "nfl": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T03:14:00+09:00",
-      "lastSeen": "2026-09-14T03:14:00+09:00",
+      "lastSeen": "2026-09-14T03:42:00+09:00",
       "news": [
         {
           "title": "Is NFL+ down? NFL RedZone, NFL app hit by outage during Week 1 games",
@@ -832,14 +838,26 @@
           "url": "https://www.app.com/story/sports/nfl/2026/09/13/is-nfl-network-down-nfl-network-app-not-working/91746804007/",
           "source": "Asbury Park Press",
           "date": "2026-09-13"
+        },
+        {
+          "title": "NFL Week 1's best arrivals, led by Joe Burrow and Lamar Jackson",
+          "url": "https://www.espn.com/nfl/story/_/id/49895823/nfl-week-1-fashionable-arrivals",
+          "source": "ESPN",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "NFL Week 1's best arrivals, led by Joe Burrow and Lamar Jackson",
+          "url": "https://abc7chicago.com/post/nfl-week-1s-best-arrivals-led-joe-burrow-lamar-jackson/19826926/",
+          "source": "ABC7 Chicago",
+          "date": "2026-09-13"
         }
       ]
     },
     "김원효": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-14T03:14:00+09:00",
-      "lastSeen": "2026-09-14T03:14:00+09:00",
+      "lastSeen": "2026-09-14T03:42:00+09:00",
       "news": [
         {
           "title": "'김원효♥' 심진화, 살 빠지더니 여배우 아우라…\"개그계 송혜교 맞네\"",
@@ -858,14 +876,26 @@
           "url": "https://news.nate.com/view/20260913n16411",
           "source": "네이트",
           "date": "2026-09-13"
+        },
+        {
+          "title": "[단독]'아는 형님' 민경훈 빈자리, 김원효가 채운다..10월 일일 형님 출격",
+          "url": "https://v.daum.net/v/20260913073310750?f=m",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "김희철·민경훈 빠진 '아는 형님', 2막은?",
+          "url": "https://www.hankookilbo.com/news/article/A2026090217580005106",
+          "source": "한국일보",
+          "date": "2026-09-13"
         }
       ]
     },
     "남자": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-14T03:14:00+09:00",
-      "lastSeen": "2026-09-14T03:14:00+09:00",
+      "lastSeen": "2026-09-14T03:42:00+09:00",
       "news": [
         {
           "title": "세터 바꾸니 9cm 큰 호주에 역전…한국, 9년 만에 亞 선수권 3위 → 내년 월드컵 출전권 획득",
@@ -884,14 +914,26 @@
           "url": "https://www.mt.co.kr/sports/2026/09/14/202609131823771247O",
           "source": "머니투데이",
           "date": "2026-09-13"
+        },
+        {
+          "title": "10명이 싸워 이겼다… 이정현-장재석 43점 합작, 광복절 수모 갚은 남자 농구",
+          "url": "https://v.daum.net/v/20260913210109544",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'한일전 승리' 남자 농구‥조 1위로 8강 진출",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851519_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-13"
         }
       ]
     },
     "novig": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T03:14:00+09:00",
-      "lastSeen": "2026-09-14T03:14:00+09:00",
+      "lastSeen": "2026-09-14T03:42:00+09:00",
       "news": [
         {
           "title": "Novig promo code NYPOST: Deposit $10, get $25 in trade credits for Browns vs. Jaguars",
@@ -909,6 +951,38 @@
           "title": "Novig Referral Code SBWIRE | Get $25 in Trade Credits Today (September 2026)",
           "url": "https://ftw.usatoday.com/story/sports/2026/09/13/novig-referral-code-sbwire-september-13/91494218007/",
           "source": "USA Today",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Novig Promo Code STREET: Get $25 Bonus for NFL Week 1 Trades (Sept. 13)",
+          "url": "https://russellstreetreport.com/2026/09/13/sports-betting/novig-promo-code-street-get-25-bonus-for-nfl-week-1-trades-sept-13/",
+          "source": "Russell Street Report",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "pl": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T03:42:00+09:00",
+      "lastSeen": "2026-09-14T03:42:00+09:00",
+      "news": [
+        {
+          "title": "Tak wygląda tabela grupy B ME po meczu Polska - Macedonia Siatkówka",
+          "url": "https://www.sport.pl/siatkowka/7,64948,33021110,tak-wyglada-tabela-grupy-b-me-po-meczu-polska-macedonia.html",
+          "source": "Sport.pl",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Polska - Bułgaria w fazie grupowej Mistrzostw Europy siatkarzy. Relacja na żywo",
+          "url": "https://sport.interia.pl/siatkowka/mistrzostwa-europy-mezczyzn/na-zywo-polska-bulgaria-w-fazie-grupowej-mistrzostw-europy-siatkarzy,nzId,9159",
+          "source": "Interia Sport",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Koncert Polaków na ME. Tak wracają na fotel lidera. I ten trzeci set",
+          "url": "https://przegladsportowy.onet.pl/siatkowka/reprezentacja-polski/koncert-polakow-na-me-tak-wracaja-na-fotel-lidera-i-ten-trzeci-set/wx89f0c",
+          "source": "Przegląd Sportowy",
           "date": "2026-09-13"
         }
       ]
