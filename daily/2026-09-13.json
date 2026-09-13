@@ -4753,10 +4753,10 @@
       ]
     },
     "롯데 대 kt": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-13T17:14:00+09:00",
-      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:41:00+09:00",
       "news": [
         {
           "title": "'3년 24억' 김태형, 계약 기간 내내 가을 야구 근처도 못갔다! PS 가능성 사실상 소멸→트래직 넘버 '12'",
@@ -4779,10 +4779,10 @@
       ]
     },
     "스타벅스": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-13T17:14:00+09:00",
-      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:41:00+09:00",
       "news": [
         {
           "title": "'탱크데이'논란 여파…전국 지자체 스타벅스 상품권 구매 '급감'",
@@ -4805,10 +4805,10 @@
       ]
     },
     "수사": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T17:14:00+09:00",
-      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:41:00+09:00",
       "news": [
         {
           "title": "숨진 44개월 여아 '피멍·혈중 캡사이신'…경찰 종결에 父 수사심의 신청",
@@ -4827,14 +4827,20 @@
           "url": "https://www.yonhapnewstv.co.kr/news/AKR202609131022294im",
           "source": "연합뉴스TV",
           "date": "2026-09-13"
+        },
+        {
+          "title": "\"계모가 매운 소스 먹여\" 숨진 딸 혈액서 캡사이신...경찰은 내사 종결 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/13/2026091314235363836",
+          "source": "머니투데이",
+          "date": "2026-09-13"
         }
       ]
     },
     "다리오 아모데이": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T17:14:00+09:00",
-      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:41:00+09:00",
       "news": [
         {
           "title": "AI 수장들 “개발 늦춰야”…‘인류멸망 경고’에 ‘속도조절론’으로 급선회",
@@ -4853,14 +4859,26 @@
           "url": "https://www.khan.co.kr/article/202609131553001",
           "source": "경향신문",
           "date": "2026-09-13"
+        },
+        {
+          "title": "앤트로픽 CEO \"AI 개발 속도 늦춰야\"…올트먼·머스크·허사비스 동조",
+          "url": "https://www.newsis.com/view/NISX20260913_0003787400",
+          "source": "뉴시스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"10년내 다 죽을 수도\"… 美 일상 덮친 AI 파멸 공포",
+          "url": "https://www.chosun.com/economy/tech_it/2026/09/13/IW6XCO55OJGMPJN4M2R3PIJ5QU/",
+          "source": "조선일보",
+          "date": "2026-09-13"
         }
       ]
     },
     "한화 대 kia": {
-      "count": 1,
-      "maxTraffic": 10000,
+      "count": 2,
+      "maxTraffic": 20000,
       "firstSeen": "2026-09-13T17:14:00+09:00",
-      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:41:00+09:00",
       "news": [
         {
           "title": "[AI프리뷰] 13일 광주 KIA-한화전, AG 대표팀 차출 전 마지막 경기 갖는 KIA 김도영",
@@ -4883,10 +4901,10 @@
       ]
     },
     "화재": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-13T17:14:00+09:00",
-      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:41:00+09:00",
       "news": [
         {
           "title": "필리핀 팔라완섬 여객선 화재 사망자 76명으로 늘어…13명 실종",
@@ -4905,14 +4923,26 @@
           "url": "https://www.news1.kr/photos/8103257",
           "source": "뉴스1",
           "date": "2026-09-13"
+        },
+        {
+          "title": "필리핀 팔라완섬 여객선 화재 사망자 76명으로 증가···13명 실종",
+          "url": "https://www.khan.co.kr/article/202609131409001",
+          "source": "경향신문",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "필리핀 여객선 화재로 76명 사망…불탄 선체서 시신 41구 수습",
+          "url": "https://v.daum.net/v/20260913171751311",
+          "source": "Daum",
+          "date": "2026-09-13"
         }
       ]
     },
     "탈선": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T17:14:00+09:00",
-      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:41:00+09:00",
       "news": [
         {
           "title": "프랑스 열차 탈선 44명 부상…당국, 파괴공작 의심(종합)",
@@ -4931,14 +4961,26 @@
           "url": "https://biz.chosun.com/international/international_general/2026/09/13/W2AOBGCKTVFSPAFJEN6H75TCWM/",
           "source": "Chosunbiz",
           "date": "2026-09-13"
+        },
+        {
+          "title": "경전선 낙동강역 화물열차 사고 복구…일부 열차 운행 재개",
+          "url": "https://v.daum.net/v/20260913170300988",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "‘안전 최우선’ 서약 9일 만에 또 사고… 반복되는 철도 대책",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260913010004795",
+          "source": "아시아투데이",
+          "date": "2026-09-13"
         }
       ]
     },
     "노승희": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T17:14:00+09:00",
-      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:41:00+09:00",
       "news": [
         {
           "title": "노승희, ‘KB금융 골든라이프 챔피언십’ 3라운드에서 홀인원…부상으로 벤츠 받아 [KLPGA]",
@@ -5008,6 +5050,58 @@
           "title": "“이젠 밤 8시까지 삼전닉스 쇼핑”…불붙는 ‘퇴근길’ 투자 경쟁 [김미정의 머니태그]",
           "url": "https://v.daum.net/v/20260913053127550",
           "source": "Daum",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "손성빈": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T17:41:00+09:00",
+      "lastSeen": "2026-09-13T17:41:00+09:00",
+      "news": [
+        {
+          "title": "손성빈 시즌 아웃? 끝난 듯 보였던 80억 FA 포수에게 마지막 기회가 찾아 오다",
+          "url": "https://v.daum.net/v/20260913113705111",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "듬성듬성 잔여일정에 선발진 숨 고르기…키움 마운드 '탄력 운용'",
+          "url": "https://sports.news.nate.com/view/20260910n32217",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“계획이 있다” 하영민 열흘 휴식 주는 설종진 키움 감��의 엔트리 운용법",
+          "url": "https://sports.donga.com/sports/article/all/20260910/134646163/1",
+          "source": "스포츠동아",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "파업": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T17:41:00+09:00",
+      "lastSeen": "2026-09-13T17:41:00+09:00",
+      "news": [
+        {
+          "title": "오토바이 시위 벌이는 HD현대중공업 파업 참여 조합원들",
+          "url": "https://www.yna.co.kr/view/PYH20260911157000057",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "포스코 이어 HD현대중공업도…전 조합원 첫 파업",
+          "url": "https://www.mk.co.kr/news/business/12150379",
+          "source": "매일경제",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "HD현대중 노조 4시간 부분파업…16일부터 확대",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8661537",
+          "source": "KBS 뉴스",
           "date": "2026-09-13"
         }
       ]
