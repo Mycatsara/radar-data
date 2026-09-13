@@ -6551,10 +6551,10 @@
       ]
     },
     "아버지": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-13T23:12:00+09:00",
-      "lastSeen": "2026-09-13T23:12:00+09:00",
+      "lastSeen": "2026-09-13T23:39:00+09:00",
       "news": [
         {
           "title": "군대서 주검이 된 아들…복수 결심한 아버지, 흉기 들고 선임병을 찾아갔다 [세상&]",
@@ -6577,10 +6577,10 @@
       ]
     },
     "스마트폰": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-13T23:12:00+09:00",
-      "lastSeen": "2026-09-13T23:12:00+09:00",
+      "lastSeen": "2026-09-13T23:39:00+09:00",
       "news": [
         {
           "title": "“먹지말고 붙이세요”…스마트폰으로 통증잡는 ‘전자약’ 나왔다",
@@ -6603,10 +6603,10 @@
       ]
     },
     "구축함": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-13T23:12:00+09:00",
-      "lastSeen": "2026-09-13T23:12:00+09:00",
+      "lastSeen": "2026-09-13T23:39:00+09:00",
       "news": [
         {
           "title": "이란전 주축 미 구축함 디케이터 공개…“독립 작전도 가능” [현장]",
@@ -6731,6 +6731,169 @@
           "date": "2026-09-13"
         }
       ]
+    },
+    "맨더비": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T23:39:00+09:00",
+      "lastSeen": "2026-09-13T23:39:00+09:00",
+      "news": [
+        {
+          "title": "'맨체스터 더비' 앞두고 초비상? 맨체스터 유나이티드 '캡틴' 부상 의심...UCL 경기 후 절뚝이며 퇴장, \"단순 타박상일 가능성 존재\"",
+          "url": "https://v.daum.net/v/20260912230645453?f=p",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "이럴 수가! 맨유 비상 걸렸다…브루노 페르난데스 '리스크' 발생, 맨시티와 '더비' 앞두고 다리 절뚝→부상 우려",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/11/GQ4WINRRMI3TKNDDGVSGIOBZMU/",
+          "source": "조선일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "왜 우리 선수 안 써? ‘슬로베니아 언론의 맹비판 통했나?’ 드디어 맨유 선발로 나온 세슈코, 쐐기골로 캐릭 감독 마음 잡았다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/11/202609110829778559O",
+          "source": "머니투데이",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "영국": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T23:39:00+09:00",
+      "lastSeen": "2026-09-13T23:39:00+09:00",
+      "news": [
+        {
+          "title": "불쑥 “아일랜드 통일” 말해버린 트럼프…깜짝 놀란 영국",
+          "url": "https://v.daum.net/v/20260913065409319",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "트럼프 “통일 아일랜드” 발언에 영국·아일랜드 발칵",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1277561.html",
+          "source": "한겨레",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "트럼프 면전에서 “전쟁 반대·유엔 존중” 외친 여성 대통령 [이 사람@World]",
+          "url": "https://m.segye.com/view/20260913507173",
+          "source": "세계일보",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "레반테 대 바르셀로나": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-13T23:39:00+09:00",
+      "lastSeen": "2026-09-13T23:39:00+09:00",
+      "news": [
+        {
+          "title": "'래시포드보다 낫다!' 고든, 바르사 5경기 4도움으로 몸값 증명→'득점 기계' 공격진 완벽 적응 - 조선비즈",
+          "url": "https://biz.chosun.com/sports/football/2026/09/12/HFRTQYJSGEZDCZDDHBSDIODCGE/",
+          "source": "Chosunbiz",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "개막 후 압도적인 흐름에도 '침착함' 유지…바르셀로나 한지 플릭 감독, \"태도가 바뀌면 잘못된 길로 가게 될 것\"",
+          "url": "https://sports.news.nate.com/view/20260913n11189",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'스페인, 쉽지 않다' 일본 국대 영건 사토, 개막 5경기에서 공격포인트 '제로'→발렌시아 1무4패 최하위 추락..\"비참, 부끄럽다\" 혹평 쏟아졌다",
+          "url": "https://www.sportschosun.com/football/2026-09-12/202609120100082820005390",
+          "source": "스포츠조선",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "levante vs barcelona": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T23:39:00+09:00",
+      "lastSeen": "2026-09-13T23:39:00+09:00",
+      "news": [
+        {
+          "title": "Levante - Barcelona en directo | Flick sale con su once ideal",
+          "url": "https://elpais.com/deportes/futbol/2026-09-13/levante-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html",
+          "source": "EL PAÍS",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "¡El Barça ya calienta en el Ciutat antes del duelo ante el Levante!",
+          "url": "https://www.sport.es/es/videos/barca/20260913/barca-calienta-ciutat-duelo-levante/134240110.shtml",
+          "source": "SPORT",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Levante-Barça: Espart golpea en el amanecer del partido",
+          "url": "https://onefootball.com/es/noticias/levante-barca-espart-golpea-en-el-amanecer-del-partido-43452298",
+          "source": "OneFootball",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "집": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T23:39:00+09:00",
+      "lastSeen": "2026-09-13T23:39:00+09:00",
+      "news": [
+        {
+          "title": "'천당 아래 분당' 다시 증명…재건축 기대감에 신고가 속출",
+          "url": "https://www.newsis.com/view/NISX20260911_0003785762",
+          "source": "뉴시스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"17억이던 아파트가 29억 됐다\"…'천당 밑에 분당' 또 들썩 [철길옆집]",
+          "url": "https://www.hankyung.com/article/2026091070146",
+          "source": "한국경제",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "1년 만에 4억 넘게 뛰었다…요즘 집 사려는 사람들 다 몰려 전국 1위 찍은 ‘이곳’",
+          "url": "https://www.sedaily.com/article/20090212",
+          "source": "서울경제",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "coventry vs brighton": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T23:39:00+09:00",
+      "lastSeen": "2026-09-13T23:39:00+09:00",
+      "news": [
+        {
+          "title": "Premier League: Brighton dominating early on at Coventry",
+          "url": "https://www.bbc.com/sport/football/live/cq4g7z2yv2n4t",
+          "source": "BBC",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Brighton's Starting XI the Last Time Albion Faced Coventry in the League (2011)",
+          "url": "https://sports.yahoo.com/articles/brightons-starting-xi-last-time-115432089.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Coventry City vs Brighton: Premier League match scheduled for September 13, 2026",
+          "url": "https://ua.news/en/sport/koventri-siti-braiton-match-premier-ligi-zaplanovanii-na-13-veresnia-2026-roku",
+          "source": "UA.NEWS",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "보스턴다이내믹스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T23:39:00+09:00",
+      "lastSeen": "2026-09-13T23:39:00+09:00",
+      "news": []
     }
   },
   "sections": {
