@@ -1140,10 +1140,10 @@
       ]
     },
     "us open": {
-      "count": 3,
-      "maxTraffic": 100,
+      "count": 4,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-14T04:38:00+09:00",
-      "lastSeen": "2026-09-14T05:40:00+09:00",
+      "lastSeen": "2026-09-14T06:12:00+09:00",
       "news": [
         {
           "title": "US Open tennis 2026 men’s final: Alexander Zverev v Ben Shelton – live",
@@ -1216,10 +1216,10 @@
       ]
     },
     "원자력 잠수함": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-14T05:13:00+09:00",
-      "lastSeen": "2026-09-14T05:40:00+09:00",
+      "lastSeen": "2026-09-14T06:12:00+09:00",
       "news": [
         {
           "title": "美 \"韓 핵잠 도입, 타당한 이유 있어야\"…복잡한 '동맹 기여' 과제들",
@@ -1248,10 +1248,10 @@
       ]
     },
     "us오픈": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-14T05:13:00+09:00",
-      "lastSeen": "2026-09-14T05:40:00+09:00",
+      "lastSeen": "2026-09-14T06:12:00+09:00",
       "news": [
         {
           "title": "'5억 금목걸이 차고 망사 드레스까지 입었는데...' 사발렌카 US오픈 결승에서 '멘탈붕괴'...100주 만에 세계 1위 빼앗겼다",
@@ -1269,6 +1269,12 @@
           "title": "발 부상 딛고 US오픈 우승한 리바키나 \"뉴욕이 좋아지네요\"",
           "url": "https://www.yna.co.kr/view/AKR20260913019800007",
           "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "리바키나, US오픈 우승…시즌 메이저 2관왕 달성",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260914055014TE7",
+          "source": "연합뉴스TV",
           "date": "2026-09-13"
         }
       ]
@@ -1300,10 +1306,10 @@
       ]
     },
     "애스트로스 대 레이스": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-14T05:13:00+09:00",
-      "lastSeen": "2026-09-14T05:40:00+09:00",
+      "lastSeen": "2026-09-14T06:12:00+09:00",
       "news": [
         {
           "title": "'거지구단' 놀림 받았는데 끝내기 홈런으로 PS 확정, 다저스 1/4 돈 쓰고 더 먼저 가을야구 간다",
@@ -1326,10 +1332,10 @@
       ]
     },
     "필리스 대 브레이브스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-14T05:40:00+09:00",
-      "lastSeen": "2026-09-14T05:40:00+09:00",
+      "lastSeen": "2026-09-14T06:12:00+09:00",
       "news": [
         {
           "title": "애틀랜타 김하성, 3타수 무안타 1볼넷 1득점",
@@ -1347,6 +1353,148 @@
           "title": "‘김하성 1볼넷’ 애틀���타, 4회 8점 내면서 필라델피아에 대승",
           "url": "https://www.mk.co.kr/news/sports/12151318",
           "source": "매일경제",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "‘2G 연속 무안타’ 김하성, 눈야구로 멀티출루→4G 연속 출루 성공…ATL, 3연승 마감 [ATL 리뷰]",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/14/GZTDMNZXGYZDEYJWGEYWGMBQMY/",
+          "source": "조선일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"KIM 조롱당했지만, 이제는 전설이다\"…269억 먹튀 여론 뒤집었다! '어썸킴' 향한 대찬사",
+          "url": "https://m.news.nate.com/view/20260912n09120?sect=spo&list=rank&cate=interest",
+          "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "개": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T06:12:00+09:00",
+      "lastSeen": "2026-09-14T06:12:00+09:00",
+      "news": [
+        {
+          "title": "농식품부 송미령 장관, 추석 성수품 공급·유통 점검",
+          "url": "https://v.daum.net/v/9wCa3loMvA",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "민주, 고위당정협의회 결과 브리핑...'민심 회복' 언급 주목 [현장영상+]",
+          "url": "https://www.ytn.co.kr/_ln/0101_202609131821234997",
+          "source": "YTN",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"추석 물가 잡아라\"…고깃값 여전히 불안",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260913210603fgv",
+          "source": "연합뉴스TV",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "공소청": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T06:12:00+09:00",
+      "lastSeen": "2026-09-14T06:12:00+09:00",
+      "news": [
+        {
+          "title": "수사 인력 50% 감축에도 李 \"더 줄여라\"...법무부, 검사 정원 재조정 검토",
+          "url": "https://v.daum.net/v/20260913201528905",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“사법통제부 부적절” 이 대통령 지적에 당정 ‘불송치사건 심사부’로 명칭 변경",
+          "url": "https://www.khan.co.kr/article/202609132054015",
+          "source": "경향신문",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "당정 \"공소청·중수청 차질 없이...경찰 개혁 더 강력해야\"",
+          "url": "https://www.ytn.co.kr/_ln/0101_202609132208403070",
+          "source": "YTN",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "벤 셸턴": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T06:12:00+09:00",
+      "lastSeen": "2026-09-14T06:12:00+09:00",
+      "news": [
+        {
+          "title": "'3연속 결승' 츠베레프 vs '23년 숙원' 셸턴…US오픈 결승 격돌(종합)",
+          "url": "https://v.daum.net/v/tuwi3g2uHr",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "남자 테니스 츠베레프, 하차노프 3-0 꺾고 US오픈 결승행",
+          "url": "https://www.yna.co.kr/view/AKR20260912014100007",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[US오픈] '6년 만의 설욕전' 츠베레프 vs '23년 만의 조국 우승' 셸턴, US오픈 정상서 만나",
+          "url": "https://www.newspim.com/news/view/20260912000111",
+          "source": "뉴스핌",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "스포츠중계": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T06:12:00+09:00",
+      "lastSeen": "2026-09-14T06:12:00+09:00",
+      "news": [
+        {
+          "title": "\"스포츠 중계 영상서 하이라이트 찾는 AI 모델 성능 평가\"",
+          "url": "https://v.daum.net/v/20260913181243583",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "AI가 찍은 스포츠 명장면, 진짜일까?…UNIST가 답 찾다",
+          "url": "https://zdnet.co.kr/view/?no=20260912143356",
+          "source": "지디넷코리아",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "축구·야구 '결정적 순간' 포착…스포츠 하이라이트 AI 평가법 등장",
+          "url": "https://news.nate.com/view/20260913n04055",
+          "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "us open 2026": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T06:12:00+09:00",
+      "lastSeen": "2026-09-14T06:12:00+09:00",
+      "news": [
+        {
+          "title": "Sabalenka throws racket after US Open loss to Rybakina - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-sports/2026/09/14/WHU4N5OFRZERDNEJZNJDXOSGJE/",
+          "source": "Chosunbiz",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Rybakina, With No. 1 Ranking Secured, Defeats Sabalenka to Win First US Open Title",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008750407",
+          "source": "news.sbs.co.kr",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "US Open 2026 results: Elena Rybakina on title win after pre-tournament injury",
+          "url": "https://www.bbc.com/sport/tennis/articles/cp3kdzlnzneo",
+          "source": "BBC",
           "date": "2026-09-13"
         }
       ]
