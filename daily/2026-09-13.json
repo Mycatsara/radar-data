@@ -2842,10 +2842,10 @@
       ]
     },
     "캔자스시티 대 엘에이 fc": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-13T09:45:00+09:00",
-      "lastSeen": "2026-09-13T10:11:00+09:00",
+      "lastSeen": "2026-09-13T10:41:00+09:00",
       "news": [
         {
           "title": "'6경기 만에 무승 탈출' 손흥민의 LAFC, 캔자스시티 상대로 연승 도전",
@@ -2864,14 +2864,26 @@
           "url": "https://v.daum.net/v/8ZL7cme4SF",
           "source": "Daum",
           "date": "2026-09-12"
+        },
+        {
+          "title": "손흥민, 캔자스시티전 선발…LAFC '2연승 도전' 선봉장",
+          "url": "https://www.newsis.com/view/NISX20260913_0003787073",
+          "source": "뉴시스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "MLS 최다 슈팅 흥부듀오 '선제골 넣으면 불패'…'압도적 리그 최다 실점' 최하위 팀과 대결",
+          "url": "https://sports.news.nate.com/view/20260913n02577",
+          "source": "네이트",
+          "date": "2026-09-12"
         }
       ]
     },
     "inter miami vs nashville": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T09:45:00+09:00",
-      "lastSeen": "2026-09-13T10:11:00+09:00",
+      "lastSeen": "2026-09-13T10:41:00+09:00",
       "news": [
         {
           "title": "MATCH PREVIEW: Inter Miami CF Hosts Nashville SC This Saturday",
@@ -2900,10 +2912,10 @@
       ]
     },
     "최윤지": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-13T09:45:00+09:00",
-      "lastSeen": "2026-09-13T10:11:00+09:00",
+      "lastSeen": "2026-09-13T10:41:00+09:00",
       "news": [
         {
           "title": "이종석 이어 최윤지도 '이섭의 연애' 하차 \"일정 조율 불가\"",
@@ -2926,10 +2938,10 @@
       ]
     },
     "이필모": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T09:45:00+09:00",
-      "lastSeen": "2026-09-13T10:11:00+09:00",
+      "lastSeen": "2026-09-13T10:41:00+09:00",
       "news": [
         {
           "title": "[공식] 이필모, 오늘(12일) 부친상..\"'투병' 父에 母 부고 못 전해\" 고백 1년만",
@@ -3004,10 +3016,10 @@
       ]
     },
     "지예은": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-13T10:11:00+09:00",
-      "lastSeen": "2026-09-13T10:11:00+09:00",
+      "lastSeen": "2026-09-13T10:41:00+09:00",
       "news": [
         {
           "title": "지예은 \"충주서 농사짓는 시부모 뵈러..김종국 콘서트 못 가\" 예비 며느리 근황 [스타이슈]",
@@ -3026,14 +3038,20 @@
           "url": "https://sports.donga.com/ent/article/all/20260912/134655440/1",
           "source": "스포츠동아",
           "date": "2026-09-13"
+        },
+        {
+          "title": "지예은♥바타 초스피드 결혼에 ‘혼전임신설’ 등장..“억울해, 신혼 즐길 것” [Oh!쎈 이슈] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/13/GU3TOY3DHA2DAODEHFSDEYRTGI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-13"
         }
       ]
     },
     "지방 공항": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T10:11:00+09:00",
-      "lastSeen": "2026-09-13T10:11:00+09:00",
+      "lastSeen": "2026-09-13T10:41:00+09:00",
       "news": [
         {
           "title": "성수·여의도 외국인 방문 늘어도…쇼핑 '명동 집중도'는 심화",
@@ -3052,14 +3070,26 @@
           "url": "https://www.apparelnews.co.kr/news/news_view/?idx=227556",
           "source": "어패럴뉴스",
           "date": "2026-09-12"
+        },
+        {
+          "title": "김해공항 ‘입국 관문’ 육성…남부권 관광 활성화",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661343",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "3년만의 국제선 부활에 '실탄' 2배 장착…양양공항 이번엔 안착할까",
+          "url": "https://v.daum.net/v/zm9aFloMZr?f=p",
+          "source": "Daum",
+          "date": "2026-09-12"
         }
       ]
     },
     "필리스 대 브레이브스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-13T10:11:00+09:00",
-      "lastSeen": "2026-09-13T10:11:00+09:00",
+      "lastSeen": "2026-09-13T10:41:00+09:00",
       "news": [
         {
           "title": "美 중계진, 김하성 11회 동점 적시타에 감탄…\"다저스전 영웅, 이제 애틀랜타 해결사가 되고 있다\"",
@@ -3078,14 +3108,26 @@
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851410_37004.html",
           "source": "MBC 뉴스",
           "date": "2026-09-12"
+        },
+        {
+          "title": "김하성 지킨 애틀랜타 인내심, “‘영웅적 활약+히든카드’로 보상 받았다” 美 매체 호평",
+          "url": "https://v.daum.net/v/20260913070855512",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "‘무서운 1할 타자’ 김하성, 동점 적시타에 끝내기 득점!",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661892",
+          "source": "KBS 뉴스",
+          "date": "2026-09-12"
         }
       ]
     },
     "김가은": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-13T10:11:00+09:00",
-      "lastSeen": "2026-09-13T10:11:00+09:00",
+      "lastSeen": "2026-09-13T10:41:00+09:00",
       "news": [
         {
           "title": "한국 2 vs 0 중국…안세영, 中이 가장 두려워하는 이름 → 걱정 또 걱정 \"단식+단체전 또 당할 수는 없는데\"",
@@ -3108,10 +3150,10 @@
       ]
     },
     "김상식": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T10:11:00+09:00",
-      "lastSeen": "2026-09-13T10:11:00+09:00",
+      "lastSeen": "2026-09-13T10:41:00+09:00",
       "news": [
         {
           "title": "[부고] 김상식(베트남 축구대표팀 감독)씨 부친상",
@@ -3130,6 +3172,32 @@
           "url": "https://www.ajunews.com/view/20260912201609477",
           "source": "아주경제",
           "date": "2026-09-12"
+        }
+      ]
+    },
+    "기금": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T10:41:00+09:00",
+      "lastSeen": "2026-09-13T10:41:00+09:00",
+      "news": [
+        {
+          "title": "LG AI연구원-국민연금 '맞손'…환율 예측 AI 만든다",
+          "url": "https://v.daum.net/v/ZguOSJqFY6",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "서원주 국민연금 CIO \"환율 분석 등 AI 활용 분야 발굴하겠다\" [fn마켓워치]",
+          "url": "https://www.fnnews.com/news/202609111638192203",
+          "source": "파이낸셜뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "LG AI연구원, 국민연금공단과 ‘기금운용 특화 AI’ 만든다",
+          "url": "https://m.segye.com/view/20260911511048",
+          "source": "세계일보",
+          "date": "2026-09-13"
         }
       ]
     }
