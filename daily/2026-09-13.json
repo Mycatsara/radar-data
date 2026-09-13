@@ -2842,10 +2842,10 @@
       ]
     },
     "캔자스시티 대 엘에이 fc": {
-      "count": 1,
-      "maxTraffic": 10000,
+      "count": 2,
+      "maxTraffic": 20000,
       "firstSeen": "2026-09-13T09:45:00+09:00",
-      "lastSeen": "2026-09-13T09:45:00+09:00",
+      "lastSeen": "2026-09-13T10:11:00+09:00",
       "news": [
         {
           "title": "'6경기 만에 무승 탈출' 손흥민의 LAFC, 캔자스시티 상대로 연승 도전",
@@ -2868,10 +2868,10 @@
       ]
     },
     "inter miami vs nashville": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-13T09:45:00+09:00",
-      "lastSeen": "2026-09-13T09:45:00+09:00",
+      "lastSeen": "2026-09-13T10:11:00+09:00",
       "news": [
         {
           "title": "MATCH PREVIEW: Inter Miami CF Hosts Nashville SC This Saturday",
@@ -2890,14 +2890,20 @@
           "url": "https://www.lboro.ac.uk/microsites/360s/computer-work-area/rvtouch.html?&xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url%3D%22/%5C/collabstyem.github.io/news/ap.xml%22/%3E%3C/krpano%3E&id=video-nashville-vs-inter-miami-football-34870",
           "source": "Loughborough University",
           "date": "2026-09-12"
+        },
+        {
+          "title": "[WATCHLIVE]TV!] Inter Miami vs Nashville Football Ｌｉｖｅ TV Coverage September 12, 2026",
+          "url": "https://www.lboro.ac.uk/microsites/360s/computer-work-area/rvtouch.html?&xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url%3D%22/%5C/collabstyem.github.io/news/ap.xml%22/%3E%3C/krpano%3E&id=video-inter-miami-vs-nashville-football-45526",
+          "source": "Loughborough University",
+          "date": "2026-09-12"
         }
       ]
     },
     "최윤지": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-13T09:45:00+09:00",
-      "lastSeen": "2026-09-13T09:45:00+09:00",
+      "lastSeen": "2026-09-13T10:11:00+09:00",
       "news": [
         {
           "title": "이종석 이어 최윤지도 '이섭의 연애' 하차 \"일정 조율 불가\"",
@@ -2920,10 +2926,10 @@
       ]
     },
     "이필모": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T09:45:00+09:00",
-      "lastSeen": "2026-09-13T09:45:00+09:00",
+      "lastSeen": "2026-09-13T10:11:00+09:00",
       "news": [
         {
           "title": "[공식] 이필모, 오늘(12일) 부친상..\"'투병' 父에 母 부고 못 전해\" 고백 1년만",
@@ -2946,10 +2952,10 @@
       ]
     },
     "파블로 바리오스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T09:45:00+09:00",
-      "lastSeen": "2026-09-13T09:45:00+09:00",
+      "lastSeen": "2026-09-13T10:11:00+09:00",
       "news": [
         {
           "title": "[오피셜]'韓 축구 에이스!' 이강인 '독박축구' 확정…아틀레티코 마드리드 파블로 바리오스 부상 OUT \"LEE, 계속 성장하고 발전하길 바란다\"",
@@ -2993,6 +2999,136 @@
           "title": "K리그 뒤흔든 17세 안주완, 수원 원정팬 5000명 야유에도 \"이것도 첫 경험이니까요\"... 성장통 딛고 도약 예고 [목동 현장]",
           "url": "https://v.daum.net/v/20260913051710409",
           "source": "Daum",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "지예은": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T10:11:00+09:00",
+      "lastSeen": "2026-09-13T10:11:00+09:00",
+      "news": [
+        {
+          "title": "지예은 \"충주서 농사짓는 시부모 뵈러..김종국 콘서트 못 가\" 예비 며느리 근황 [스타이슈]",
+          "url": "https://v.daum.net/v/20260913060109787",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "지예은, 결혼 소감 밝힌다…양가 첫 만남부터 프로포즈까지",
+          "url": "https://www.newsis.com/view/NISX20260912_0003786745",
+          "source": "뉴시스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "지예은, ♥바타와 초고속 결혼에 혼전임신설 “억울한 게 저는 애가 없다” [SD톡톡]",
+          "url": "https://sports.donga.com/ent/article/all/20260912/134655440/1",
+          "source": "스포츠동아",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "지방 공항": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T10:11:00+09:00",
+      "lastSeen": "2026-09-13T10:11:00+09:00",
+      "news": [
+        {
+          "title": "성수·여의도 외국인 방문 늘어도…쇼핑 '명동 집중도'는 심화",
+          "url": "https://v.daum.net/v/20260913071200557",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "\"쇼핑 못 참지\" 韓서 지갑 여는 외국인…관광수지 적자 4분의 1로 '뚝'",
+          "url": "https://www.news1.kr/industry/hotel-tourism/6286885",
+          "source": "뉴스1",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "방한 외국인 역대 최고…주요 상권 수혜 매장은 '패션'",
+          "url": "https://www.apparelnews.co.kr/news/news_view/?idx=227556",
+          "source": "어패럴뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "필리스 대 브레이브스": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-13T10:11:00+09:00",
+      "lastSeen": "2026-09-13T10:11:00+09:00",
+      "news": [
+        {
+          "title": "美 중계진, 김하성 11회 동점 적시타에 감탄…\"다저스전 영웅, 이제 애틀랜타 해결사가 되고 있다\"",
+          "url": "https://v.daum.net/v/20260912204607977",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "김하성, 동점타·끝내기 득점…와이스 감독 \"선수단 마음 얻어\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260912026851007",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "애틀랜타 구한 김하성‥\"올 시즌 가장 중요한 안타\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851410_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "김가은": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T10:11:00+09:00",
+      "lastSeen": "2026-09-13T10:11:00+09:00",
+      "news": [
+        {
+          "title": "한국 2 vs 0 중국…안세영, 中이 가장 두려워하는 이름 → 걱정 또 걱정 \"단식+단체전 또 당할 수는 없는데\"",
+          "url": "https://v.daum.net/v/2gHJWEQ9Ce",
+          "source": "Daum",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "흑돼지와 함께 수영을…SNS 인기 명소 그리스 아토코스섬",
+          "url": "https://www.yna.co.kr/view/IPT20260911000013365",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "안세영과 대한민국 날벼락!…대진표 꼬였다→女 단체전, 일본에 '종이 한장 차' 밀려 3번 시드→중국과 준결승 할 수도 [오피셜]",
+          "url": "https://sports.news.nate.com/view/20260913n00735",
+          "source": "네이트",
+          "date": "2026-09-12"
+        }
+      ]
+    },
+    "김상식": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T10:11:00+09:00",
+      "lastSeen": "2026-09-13T10:11:00+09:00",
+      "news": [
+        {
+          "title": "[부고] 김상식(베트남 축구대표팀 감독)씨 부친상",
+          "url": "https://www.yna.co.kr/view/AKR20260912051100007",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "김상식 베트남 대표팀 감독 부친상...VFF \"깊은 애도와 위로\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/12/202609122258779240O",
+          "source": "머니투데이",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "김상식 베트남 축구대표팀 감독 부친 별세…향년 84세",
+          "url": "https://www.ajunews.com/view/20260912201609477",
+          "source": "아주경제",
           "date": "2026-09-12"
         }
       ]
