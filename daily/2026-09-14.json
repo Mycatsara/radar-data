@@ -1000,10 +1000,10 @@
       ]
     },
     "김민재": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-14T04:11:00+09:00",
-      "lastSeen": "2026-09-14T05:13:00+09:00",
+      "lastSeen": "2026-09-14T05:40:00+09:00",
       "news": [
         {
           "title": "'김민재 결장' 바이에른 뮌헨, 챔스 첫 경기서 보되글림트 5-0 대파",
@@ -1038,10 +1038,10 @@
       ]
     },
     "levante ud vs fc barcelona standings": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T04:11:00+09:00",
-      "lastSeen": "2026-09-14T05:13:00+09:00",
+      "lastSeen": "2026-09-14T05:40:00+09:00",
       "news": [
         {
           "title": "Levante vs Barcelona: Lineups, Prediction, Odds & Bet Builder Tip",
@@ -1066,14 +1066,20 @@
           "url": "https://www.goal.com/en-za/lists/lamine-yamal-equals-lionel-messi-record-barcelona-secure-thrilling-victory-levante/bltca45854a336cd91e",
           "source": "Goal.com",
           "date": "2026-09-13"
+        },
+        {
+          "title": "Barcelona player ratings vs Levante as Lamine Yamal and Karim Adeyemi shine",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132350/player-ratings-vs-levante",
+          "source": "Barca Blaugranes",
+          "date": "2026-09-13"
         }
       ]
     },
     "at마드리드": {
-      "count": 3,
-      "maxTraffic": 100,
+      "count": 4,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-14T04:11:00+09:00",
-      "lastSeen": "2026-09-14T05:13:00+09:00",
+      "lastSeen": "2026-09-14T05:40:00+09:00",
       "news": [
         {
           "title": "대박이다! '이강인 역대급 조력자'...AT 마드리드 '930억' 지불 결단! \"리버풀 재계약 없어 슬프다\" 공개 불만 표출→퇴단 가능성 제기",
@@ -1102,10 +1108,10 @@
       ]
     },
     "프리미어리그": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T04:11:00+09:00",
-      "lastSeen": "2026-09-14T05:13:00+09:00",
+      "lastSeen": "2026-09-14T05:40:00+09:00",
       "news": [
         {
           "title": "'막장이다!' 로베르토 데 제르비 감독, 마티스 텔 향한 분노…내부 분열 우려→\"아무 문제 없다\" 다급히 해명",
@@ -1134,10 +1140,10 @@
       ]
     },
     "us open": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T04:38:00+09:00",
-      "lastSeen": "2026-09-14T05:13:00+09:00",
+      "lastSeen": "2026-09-14T05:40:00+09:00",
       "news": [
         {
           "title": "US Open tennis 2026 men’s final: Alexander Zverev v Ben Shelton – live",
@@ -1172,10 +1178,10 @@
       ]
     },
     "레알 소시에다드 대 아틀레티코": {
-      "count": 2,
-      "maxTraffic": 5000,
+      "count": 3,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-14T04:38:00+09:00",
-      "lastSeen": "2026-09-14T05:13:00+09:00",
+      "lastSeen": "2026-09-14T05:40:00+09:00",
       "news": [
         {
           "title": "'바르셀로나 이적 요청 거부, 의문의 팀 훈련 불참'…아틀레티코, 이강인 의존도 더 높아진다",
@@ -1200,14 +1206,20 @@
           "url": "https://www.mt.co.kr/sports/2026/09/14/2026091403564416486",
           "source": "머니투데이",
           "date": "2026-09-13"
+        },
+        {
+          "title": "라리가도 주목했다! '3년 6개월' 만의 라리가 韓·日전 성사되나…이강인-쿠보, 동반 선발 기대",
+          "url": "https://sports.news.nate.com/view/20260913n10727",
+          "source": "네이트",
+          "date": "2026-09-13"
         }
       ]
     },
     "원자력 잠수함": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-14T05:13:00+09:00",
-      "lastSeen": "2026-09-14T05:13:00+09:00",
+      "lastSeen": "2026-09-14T05:40:00+09:00",
       "news": [
         {
           "title": "美 \"韓 핵잠 도입, 타당한 이유 있어야\"…복잡한 '동맹 기여' 과제들",
@@ -1226,14 +1238,20 @@
           "url": "https://www.seoul.co.kr/news/international/2026/09/12/20260912500099",
           "source": "서울신문",
           "date": "2026-09-13"
+        },
+        {
+          "title": "“한국, 비싼 핵잠수함 왜 사는데?”…트럼프, 한일 경쟁 부추길까 [밀리터리+]",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260913601015",
+          "source": "나우뉴스",
+          "date": "2026-09-13"
         }
       ]
     },
     "us오픈": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-14T05:13:00+09:00",
-      "lastSeen": "2026-09-14T05:13:00+09:00",
+      "lastSeen": "2026-09-14T05:40:00+09:00",
       "news": [
         {
           "title": "'5억 금목걸이 차고 망사 드레스까지 입었는데...' 사발렌카 US오픈 결승에서 '멘탈붕괴'...100주 만에 세계 1위 빼앗겼다",
@@ -1282,10 +1300,10 @@
       ]
     },
     "애스트로스 대 레이스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-14T05:13:00+09:00",
-      "lastSeen": "2026-09-14T05:13:00+09:00",
+      "lastSeen": "2026-09-14T05:40:00+09:00",
       "news": [
         {
           "title": "'거지구단' 놀림 받았는데 끝내기 홈런으로 PS 확정, 다저스 1/4 돈 쓰고 더 먼저 가을야구 간다",
@@ -1303,6 +1321,32 @@
           "title": "'PS 확정' TB, ���을야구 불펜 보강…'100마일 강속구' 투수 유망주 1위 뜬다",
           "url": "https://sports.news.nate.com/view/20260913n04677",
           "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "필리스 대 브레이브스": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-14T05:40:00+09:00",
+      "lastSeen": "2026-09-14T05:40:00+09:00",
+      "news": [
+        {
+          "title": "애틀랜타 김하성, 3타수 무안타 1볼넷 1득점",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8662019",
+          "source": "KBS 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "8득점 빅이닝 교두보 놓은 '눈야구'…김하성 PHI전 1볼넷 1득점, ATL 12:2 대승",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/13/MZSTMZTEHEZTQYLFHFRWEOJWGE/",
+          "source": "조선일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "‘김하성 1볼넷’ 애틀���타, 4회 8점 내면서 필라델피아에 대승",
+          "url": "https://www.mk.co.kr/news/sports/12151318",
+          "source": "매일경제",
           "date": "2026-09-13"
         }
       ]
