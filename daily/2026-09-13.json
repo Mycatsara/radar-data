@@ -130,10 +130,10 @@
       ]
     },
     "f1": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-13T00:12:00+09:00",
-      "lastSeen": "2026-09-13T22:39:00+09:00",
+      "lastSeen": "2026-09-13T23:12:00+09:00",
       "news": [
         {
           "title": "F1 practice LIVE: Spanish Grand Prix 226 times, results, radio & updates from Madrid",
@@ -6291,10 +6291,10 @@
       ]
     },
     "김우빈": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-13T22:12:00+09:00",
-      "lastSeen": "2026-09-13T22:39:00+09:00",
+      "lastSeen": "2026-09-13T23:12:00+09:00",
       "news": [
         {
           "title": "김우빈 가족, 며느리 신민아 위한 특급 선물…'민아야 사랑해' 애정 가득 [N샷]",
@@ -6525,10 +6525,10 @@
       ]
     },
     "100 일 의 거짓말": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-13T22:39:00+09:00",
-      "lastSeen": "2026-09-13T22:39:00+09:00",
+      "lastSeen": "2026-09-13T23:12:00+09:00",
       "news": [
         {
           "title": "tvN 폼 미쳤다…최고 시청률 '27.6%’ 제작진 집결→'천만' 배우 조합으로 들썩이는 韓 드라마 ('100일의 거짓말')",
@@ -6546,6 +6546,188 @@
           "title": "김인권, 항일 단체 구국단 요원 된다…'100일의 거짓말' 합류",
           "url": "https://news.nate.com/view/20260910n30088",
           "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "아버지": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T23:12:00+09:00",
+      "lastSeen": "2026-09-13T23:12:00+09:00",
+      "news": [
+        {
+          "title": "군대서 주검이 된 아들…복수 결심한 아버지, 흉기 들고 선임병을 찾아갔다 [세상&]",
+          "url": "https://v.daum.net/v/0ENqUIkL1n",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "김도향 \"아버지, 새엄마 50명 데려왔다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/11/2026091105230370661",
+          "source": "머니투데이",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "가수 김도향 \"부친 외도로 새엄마만 50명\"… 눈물로 고백",
+          "url": "https://www.hankookilbo.com/news/article/A2026091110420003602",
+          "source": "한국일보",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "스마트폰": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T23:12:00+09:00",
+      "lastSeen": "2026-09-13T23:12:00+09:00",
+      "news": [
+        {
+          "title": "“먹지말고 붙이세요”…스마트폰으로 통증잡는 ‘전자약’ 나왔다",
+          "url": "https://v.daum.net/v/20260913120204753",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "독한 진통제 대신 피부에 척… 14km 밖서 원격 제어하는 ‘전자약’ 개발",
+          "url": "https://www.chosun.com/economy/science/2026/09/13/U4RDEREQYRE2PMRG6C2FNUKZE4/",
+          "source": "조선일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "스마트폰으로 원격 통증 관리…카이스트, ‘붙이는 전자약’ 개발",
+          "url": "https://www.munhwa.com/article/11616610",
+          "source": "문화일보",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "구축함": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T23:12:00+09:00",
+      "lastSeen": "2026-09-13T23:12:00+09:00",
+      "news": [
+        {
+          "title": "이란전 주축 미 구축함 디케이터 공개…“독립 작전도 가능” [현장]",
+          "url": "https://www.hani.co.kr/arti/international/america/1277186.html",
+          "source": "한겨레",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "진주만 85년 상흔 '디케이터'… 中 위협 \"언제든 출격\" : 국제",
+          "url": "https://news.jkn.co.kr/post/982807",
+          "source": "재경일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[르포] 커지는 北·中 위협 속 美 셈법은…하와이서 본 태평양 전략",
+          "url": "https://v.daum.net/v/20260913070213423?f=p",
+          "source": "Daum",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "맨유 맨시티": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T23:12:00+09:00",
+      "lastSeen": "2026-09-13T23:12:00+09:00",
+      "news": [
+        {
+          "title": "캐릭 “이상적이지 않다”→마레스카 “적응해야” 정면충돌… 시즌 첫 맨체스터 더비, 벌써 뜨겁다",
+          "url": "https://v.daum.net/v/20260913173727769",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "‘맨유 팬들에게 부탁한다’ 마이클 캐릭 감독 ‘맨체스터 더비’ 앞두고 당부 “모든 것은 쏟아내야 한다”",
+          "url": "https://sports.khan.co.kr/article/202609131949003",
+          "source": "스포츠경향",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "부상만 없으면 완벽한 수비수…'사바하전 쐐기골' 리산드로, 홀란과 맞대결 앞두고 \"과거는 잊고 잘 준비해야\"",
+          "url": "https://sports.news.nate.com/view/20260913n00322",
+          "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "홍창기": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T23:12:00+09:00",
+      "lastSeen": "2026-09-13T23:12:00+09:00",
+      "news": [
+        {
+          "title": "송찬의 '승부는 지금부터'",
+          "url": "https://www.yna.co.kr/view/PYH20260913107900053",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "임찬규와 호흡 맞추던 LG 박동원, 오른 엄지 손가락 타박상으로 교체[스경X현장]",
+          "url": "https://v.daum.net/v/20260913191008770",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[사진] 구본혁, 역전 성공 하이파이브 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/13/202609131836771810O",
+          "source": "머니투데이",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "정치": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-13T23:12:00+09:00",
+      "lastSeen": "2026-09-13T23:12:00+09:00",
+      "news": [
+        {
+          "title": "한동훈 “혼자 200명과 싸워…SNS 하루 5000개라도 쓰겠다”",
+          "url": "https://www.khan.co.kr/article/202609131927001",
+          "source": "경향신문",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“공익제보자 신상공개 박선원, 비명횡사로 뱃지 단 음모의 달인” 김근식 주장",
+          "url": "https://www.munhwa.com/article/11616631",
+          "source": "문화일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "눈덩이처럼 커진 김���원 의혹…재수사로 ‘기소유예’ 판단 바뀌나",
+          "url": "https://v.daum.net/v/b8Flz3GhT2",
+          "source": "Daum",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "al": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T23:12:00+09:00",
+      "lastSeen": "2026-09-13T23:12:00+09:00",
+      "news": [
+        {
+          "title": "Check out all of Friday’s Week 4 Alabama high school football scores",
+          "url": "https://www.al.com/highschoolsports/2026/09/check-out-all-of-fridays-week-4-alabama-high-school-football-scores.html",
+          "source": "AL.com",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "High school football scores: Week 4",
+          "url": "https://www.wkrg.com/high-school-football/high-school-football-scores/high-school-football-scores-week-4-4/",
+          "source": "WKRG",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "The Huddle Postgame: Week 3 Full Show",
+          "url": "https://whnt.com/sports/the-huddle/the-huddle-postgame-week-3-full-show/",
+          "source": "WHNT.com",
           "date": "2026-09-13"
         }
       ]
