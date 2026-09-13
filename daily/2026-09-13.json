@@ -4134,10 +4134,10 @@
       ]
     },
     "민경훈": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-13T15:21:00+09:00",
-      "lastSeen": "2026-09-13T15:21:00+09:00",
+      "lastSeen": "2026-09-13T15:45:00+09:00",
       "news": [
         {
           "title": "[단독]'아는 형님' 민경훈 빈자리, 김원효가 채운다..10월 일일 형님 출격",
@@ -4156,14 +4156,26 @@
           "url": "https://news.nate.com/view/20260913n02591",
           "source": "네이트",
           "date": "2026-09-13"
+        },
+        {
+          "title": "[단독]'아는 형님' 민경훈 빈자리, 김원효가 채운다..10월 일일 형님 출격",
+          "url": "https://v.daum.net/v/6S6i65TslL",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[단독]'아는 형님' 민경훈 빈자리, 김원효가 채운다…10월 일일 형님 출격",
+          "url": "https://news.nate.com/view/20260913n02591?mid=n1101",
+          "source": "네이트",
+          "date": "2026-09-13"
         }
       ]
     },
     "송지호 바다하늘길": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T15:21:00+09:00",
-      "lastSeen": "2026-09-13T15:21:00+09:00",
+      "lastSeen": "2026-09-13T15:45:00+09:00",
       "news": [
         {
           "title": "바다를 걸어 섬 위 하늘로…6일 만에 2만명 발길",
@@ -4186,17 +4198,17 @@
       ]
     },
     "쵸비": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T15:21:00+09:00",
-      "lastSeen": "2026-09-13T15:21:00+09:00",
+      "lastSeen": "2026-09-13T15:45:00+09:00",
       "news": []
     },
     "이정은": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-13T15:21:00+09:00",
-      "lastSeen": "2026-09-13T15:21:00+09:00",
+      "lastSeen": "2026-09-13T15:45:00+09:00",
       "news": [
         {
           "title": "삐걱거리고 덜컹대는 복수로 가는 길, 애도의 시작이었다[이진송의 아니 근데]",
@@ -4214,6 +4226,18 @@
           "title": "\"카메라 잡던 손이 부들부들\"... '경주기행' 복수 장면 전말",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003266365",
           "source": "OhmyNews",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "녹즙 배달하며 만난 사람들, 배우 이정은의 얼굴이 됐다",
+          "url": "https://v.daum.net/v/20260913151237766",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"화장실서 반라로 발견될 정도\"…이준서 의사, 9년 알코올 중독 고백 [TVis] (유퀴즈)",
+          "url": "https://news.nate.com/view/20260909n38440",
+          "source": "네이트",
           "date": "2026-09-13"
         }
       ]
@@ -4292,6 +4316,162 @@
           "title": "[공식] 김국희 ‘위대한 방옥숙’ 출연, 전도연과 재회",
           "url": "https://sports.donga.com/ent/article/all/20260910/134644161/1",
           "source": "스포츠동아",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "나는 solo": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-13T15:45:00+09:00",
+      "lastSeen": "2026-09-13T15:45:00+09:00",
+      "news": [
+        {
+          "title": "16기 상철♥28기 영숙 진짜 커플 맞아? '계약결혼' 파격 설정 보니[스타이슈]",
+          "url": "https://v.daum.net/v/20260913110836445",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'나솔' 남규홍 PD, 새 연프 '계약결혼' 선봬…28일 첫방",
+          "url": "https://www.newsis.com/view/NISX20260911_0003785861",
+          "source": "뉴시스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "안정환·효연·이채영 '계약결혼', 파격적인 결혼 계약서 공개",
+          "url": "https://news.tf.co.kr/read/entertain/2364767.htm",
+          "source": "더팩트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "저출산": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T15:45:00+09:00",
+      "lastSeen": "2026-09-13T15:45:00+09:00",
+      "news": [
+        {
+          "title": "\"애 안 낳는 건 자유, 대신 '저출산세' 내라\"…비혼·딩크족 노후까지 '우리 애'가 책임지잖아요 [어떻게 생각하세요]",
+          "url": "https://news.nate.com/view/20260913n01229",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"아이 없나요? 세금 더 내세요\"…자녀 없는 가구 '저출산세' 도입 주장에 갑론을박",
+          "url": "https://v.daum.net/v/2e9y57vmgH?f=p",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"애 안 낳는 건 자유지만 저출산세 내라\" 뜨거운 감자",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02915926645578152&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "서울e 대 수원": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-13T15:45:00+09:00",
+      "lastSeen": "2026-09-13T15:45:00+09:00",
+      "news": [
+        {
+          "title": "K리그2 수원 선두 굳히기…서울E에 1-0 승리로 9경기 무패",
+          "url": "https://www.yna.co.kr/view/AKR20260912045000007",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'석패' 김도균 서울E 감독 \"우승꿈은 멀어졌다, 2위를 향해 달려가겠다\"[현장 기자회견]",
+          "url": "https://www.chosun.com/sports/football/2026/09/12/MEZDQMLCMVRGIODDG4YGKYLGMY/",
+          "source": "조선일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "K리그 뒤흔든 17세 안주완, 수원 원정팬 5000명 야유에도 \"이것도 첫 경험이니까요\"... 성장통 딛고 도약 예고 [목동 현장]",
+          "url": "https://v.daum.net/v/20260913051710409",
+          "source": "Daum",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "치지직": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-13T15:45:00+09:00",
+      "lastSeen": "2026-09-13T15:45:00+09:00",
+      "news": [
+        {
+          "title": "보훈부, 2026 LCK 결승전서 제복근무자 감사 캠페인",
+          "url": "https://v.daum.net/v/20260913095351648",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "젠지 vs 한화생명 ‘빅매치’…키키��� 불지필 LCK 결승전",
+          "url": "https://sports.donga.com/ent/article/all/20260913/134657019/1",
+          "source": "스포츠동아",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[기업]네이버 치지직, LCK·오버워치 월드컵 결승 동시중계",
+          "url": "https://www.ytn.co.kr/_ln/0102_202609111822502969",
+          "source": "YTN",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "lck": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T15:45:00+09:00",
+      "lastSeen": "2026-09-13T15:45:00+09:00",
+      "news": [
+        {
+          "title": "KIKI Heats Up 2026 LCK Finals with Dynamic Opening Performance",
+          "url": "https://www.chosun.com/english/kpop-culture-en/2026/09/13/VXJ53FG3GVAXFJRSF647CS7AFQ/",
+          "source": "조선일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'Grand Prize' Winner KiiiKiii Performs at 2026 LCK Finals Opening Ceremony, Sparking 'Gen.G Beauty Craze'",
+          "url": "https://www.sportschosun.com/en/celebrity/2026-09-13/202609130100087580005732",
+          "source": "스포츠조선",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Gumayusi vs Keria: T1 legends clash on Korean LoL's biggest weekend",
+          "url": "https://www.koreaherald.com/article/10868127",
+          "source": "The Korea Herald",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "숲": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T15:45:00+09:00",
+      "lastSeen": "2026-09-13T15:45:00+09:00",
+      "news": [
+        {
+          "title": "포항청년회의소, 시민과 함께 '2026 포항 도시 숲 걷기대회' 성료",
+          "url": "https://www.newsis.com/view/NISX20260913_0003787306",
+          "source": "뉴시스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'포항 도시숲 걷기대회' 1000여 명 참가 성황…가을 정취 만끽",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3693539",
+          "source": "국제뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "포항청년회의소, ‘2026 포항 도시 숲 걷기대회’ 개최...포항 시민 800여명 모여",
+          "url": "https://v.daum.net/v/20260912145913599",
+          "source": "Daum",
           "date": "2026-09-13"
         }
       ]
