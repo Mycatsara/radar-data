@@ -2842,10 +2842,10 @@
       ]
     },
     "캔자스시티 대 엘에이 fc": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 50000,
       "firstSeen": "2026-09-13T09:45:00+09:00",
-      "lastSeen": "2026-09-13T11:13:00+09:00",
+      "lastSeen": "2026-09-13T11:40:00+09:00",
       "news": [
         {
           "title": "'6경기 만에 무승 탈출' 손흥민의 LAFC, 캔자스시티 상대로 연승 도전",
@@ -2880,10 +2880,10 @@
       ]
     },
     "inter miami vs nashville": {
-      "count": 3,
-      "maxTraffic": 500,
+      "count": 4,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-13T09:45:00+09:00",
-      "lastSeen": "2026-09-13T10:41:00+09:00",
+      "lastSeen": "2026-09-13T11:40:00+09:00",
       "news": [
         {
           "title": "MATCH PREVIEW: Inter Miami CF Hosts Nashville SC This Saturday",
@@ -2907,6 +2907,12 @@
           "title": "[WATCHLIVE]TV!] Inter Miami vs Nashville Football Ｌｉｖｅ TV Coverage September 12, 2026",
           "url": "https://www.lboro.ac.uk/microsites/360s/computer-work-area/rvtouch.html?&xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url%3D%22/%5C/collabstyem.github.io/news/ap.xml%22/%3E%3C/krpano%3E&id=video-inter-miami-vs-nashville-football-45526",
           "source": "Loughborough University",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "In a thrilling draw, Inter Miami and Nashville SC both secured their places in the Round of 16.",
+          "url": "https://baonghean.vn/en/chia-diem-nghet-tho-inter-miami-va-nashville-sc-cung-gianh-ve-vao-vong-116-10351229.html",
+          "source": "baonghean.vn",
           "date": "2026-09-12"
         }
       ]
@@ -3016,10 +3022,10 @@
       ]
     },
     "지예은": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-13T10:11:00+09:00",
-      "lastSeen": "2026-09-13T11:13:00+09:00",
+      "lastSeen": "2026-09-13T11:40:00+09:00",
       "news": [
         {
           "title": "지예은 \"충주서 농사짓는 시부모 뵈러..김종국 콘서트 못 가\" 예비 며느리 근황 [스타이슈]",
@@ -3048,10 +3054,10 @@
       ]
     },
     "지방 공항": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T10:11:00+09:00",
-      "lastSeen": "2026-09-13T11:13:00+09:00",
+      "lastSeen": "2026-09-13T11:40:00+09:00",
       "news": [
         {
           "title": "성수·여의도 외국인 방문 늘어도…쇼핑 '명동 집중도'는 심화",
@@ -3086,10 +3092,10 @@
       ]
     },
     "필리스 대 브레이브스": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-13T10:11:00+09:00",
-      "lastSeen": "2026-09-13T11:13:00+09:00",
+      "lastSeen": "2026-09-13T11:40:00+09:00",
       "news": [
         {
           "title": "美 중계진, 김하성 11회 동점 적시타에 감탄…\"다저스전 영웅, 이제 애틀랜타 해결사가 되고 있다\"",
@@ -3124,10 +3130,10 @@
       ]
     },
     "김가은": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T10:11:00+09:00",
-      "lastSeen": "2026-09-13T11:13:00+09:00",
+      "lastSeen": "2026-09-13T11:40:00+09:00",
       "news": [
         {
           "title": "한국 2 vs 0 중국…안세영, 中이 가장 두려워하는 이름 → 걱정 또 걱정 \"단식+단체전 또 당할 수는 없는데\"",
@@ -3146,14 +3152,20 @@
           "url": "https://sports.news.nate.com/view/20260913n00735",
           "source": "네이트",
           "date": "2026-09-12"
+        },
+        {
+          "title": "셀린 디옹, 근육경직 딛고 복귀…파리서 6년 만 단독 콘서트",
+          "url": "https://www.yna.co.kr/view/IPT20260913000002365?section=gallery/index",
+          "source": "연합뉴스",
+          "date": "2026-09-12"
         }
       ]
     },
     "김상식": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T10:11:00+09:00",
-      "lastSeen": "2026-09-13T11:13:00+09:00",
+      "lastSeen": "2026-09-13T11:40:00+09:00",
       "news": [
         {
           "title": "[부고] 김상식(베트남 축구대표팀 감독)씨 부친상",
@@ -3214,10 +3226,10 @@
       ]
     },
     "탬파베이 레이스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T11:13:00+09:00",
-      "lastSeen": "2026-09-13T11:13:00+09:00",
+      "lastSeen": "2026-09-13T11:40:00+09:00",
       "news": [
         {
           "title": "'거지구단' 놀림 받았는데 끝내기 홈런으로 PS 확정, 다저스 1/4 돈 쓰고 더 먼저 가을야구 간다",
@@ -3240,10 +3252,10 @@
       ]
     },
     "즉석밥": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-13T11:13:00+09:00",
-      "lastSeen": "2026-09-13T11:13:00+09:00",
+      "lastSeen": "2026-09-13T11:40:00+09:00",
       "news": [
         {
           "title": "CJ제일제당 ‘햇반 백미’, 美 타임스퀘어 전광판 등장",
@@ -3266,10 +3278,10 @@
       ]
     },
     "독트린 오버 워치": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-13T11:13:00+09:00",
-      "lastSeen": "2026-09-13T11:13:00+09:00",
+      "lastSeen": "2026-09-13T11:40:00+09:00",
       "news": [
         {
           "title": "솜브라 지원 전향·뱀파이어 '독트린' 합류…블리자드 오버워치, 5시즌 대대적 판갈이",
