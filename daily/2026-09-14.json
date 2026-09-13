@@ -706,10 +706,10 @@
       ]
     },
     "라민 야말": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T02:39:00+09:00",
-      "lastSeen": "2026-09-14T04:11:00+09:00",
+      "lastSeen": "2026-09-14T04:38:00+09:00",
       "news": [
         {
           "title": "[오피셜] '최전방 공격수로 포지션 변경 대성공!'…바르셀로나 '캡틴' 하피냐, 8월 '5골 1도움' 활약으로 이달의 선수 선정",
@@ -816,10 +816,10 @@
       ]
     },
     "nfl": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T03:14:00+09:00",
-      "lastSeen": "2026-09-14T04:11:00+09:00",
+      "lastSeen": "2026-09-14T04:38:00+09:00",
       "news": [
         {
           "title": "Is NFL+ down? NFL RedZone, NFL app hit by outage during Week 1 games",
@@ -854,10 +854,10 @@
       ]
     },
     "김원효": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T03:14:00+09:00",
-      "lastSeen": "2026-09-14T04:11:00+09:00",
+      "lastSeen": "2026-09-14T04:38:00+09:00",
       "news": [
         {
           "title": "'김원효♥' 심진화, 살 빠지더니 여배우 아우라…\"개그계 송혜교 맞네\"",
@@ -962,10 +962,10 @@
       ]
     },
     "pl": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T03:42:00+09:00",
-      "lastSeen": "2026-09-14T04:11:00+09:00",
+      "lastSeen": "2026-09-14T04:38:00+09:00",
       "news": [
         {
           "title": "Tak wygląda tabela grupy B ME po meczu Polska - Macedonia Siatkówka",
@@ -1000,10 +1000,10 @@
       ]
     },
     "김민재": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T04:11:00+09:00",
-      "lastSeen": "2026-09-14T04:11:00+09:00",
+      "lastSeen": "2026-09-14T04:38:00+09:00",
       "news": [
         {
           "title": "'김민재 결장' 바이에른 뮌헨, 챔스 첫 경기서 보되글림트 5-0 대파",
@@ -1026,10 +1026,10 @@
       ]
     },
     "levante ud vs fc barcelona standings": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T04:11:00+09:00",
-      "lastSeen": "2026-09-14T04:11:00+09:00",
+      "lastSeen": "2026-09-14T04:38:00+09:00",
       "news": [
         {
           "title": "Levante vs Barcelona: Lineups, Prediction, Odds & Bet Builder Tip",
@@ -1048,14 +1048,20 @@
           "url": "https://www.goal.com/en-in/news/a-refereeing-expert-admits-barcelona-s-penalty-was-incorrect/bltdd382ab647e01759",
           "source": "Goal.com",
           "date": "2026-09-13"
+        },
+        {
+          "title": "Lamine Yamal equals Lionel Messi record as Barcelona secure thrilling victory over Levante",
+          "url": "https://www.goal.com/en-za/lists/lamine-yamal-equals-lionel-messi-record-barcelona-secure-thrilling-victory-levante/bltca45854a336cd91e",
+          "source": "Goal.com",
+          "date": "2026-09-13"
         }
       ]
     },
     "at마드리드": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T04:11:00+09:00",
-      "lastSeen": "2026-09-14T04:11:00+09:00",
+      "lastSeen": "2026-09-14T04:38:00+09:00",
       "news": [
         {
           "title": "대박이다! '이강인 역대급 조력자'...AT 마드리드 '930억' 지불 결단! \"리버풀 재계약 없어 슬프다\" 공개 불만 표출→퇴단 가능성 제기",
@@ -1074,14 +1080,20 @@
           "url": "https://sports.khan.co.kr/article/202609101008013",
           "source": "스포츠경향",
           "date": "2026-09-13"
+        },
+        {
+          "title": "대박이다! '이강인 역대급 조력자'...AT 마드리드 '930억' 지불 결단! \"리버풀 재계약 없어 슬프다\" 공개 불만 표출→퇴단 가능성 제기",
+          "url": "https://v.daum.net/v/20260911163651365",
+          "source": "Daum",
+          "date": "2026-09-13"
         }
       ]
     },
     "프리미어리그": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T04:11:00+09:00",
-      "lastSeen": "2026-09-14T04:11:00+09:00",
+      "lastSeen": "2026-09-14T04:38:00+09:00",
       "news": [
         {
           "title": "'막장이다!' 로베르토 데 제르비 감독, 마티스 텔 향한 분노…내부 분열 우려→\"아무 문제 없다\" 다급히 해명",
@@ -1099,6 +1111,58 @@
           "title": "토트넘 vs 에버튼, 프리미어리그 런던 격돌",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3693848",
           "source": "국제뉴스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "us open": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T04:38:00+09:00",
+      "lastSeen": "2026-09-14T04:38:00+09:00",
+      "news": [
+        {
+          "title": "US Open tennis 2026 men’s final: Alexander Zverev v Ben Shelton – live",
+          "url": "https://www.theguardian.com/sport/live/2026/sep/13/us-open-tennis-2026-mens-final-alexander-zverev-v-ben-shelton-live-updates",
+          "source": "The Guardian",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Alexander Zverev vs Ben Shelton LIVE, US Open Men's Singles Final: Zverev Closes In On 1st Set, Leads Shelton 5-3 On Serve",
+          "url": "https://sports.ndtv.com/tennis/alexander-zverev-vs-ben-shelton-live-score-us-open-2026-mens-singles-final-tennis-live-updates-live-streaming-12042052",
+          "source": "NDTV Sports",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "beIN SPORTS Live Blog! Shelton Zverev 2026 Live Free TV",
+          "url": "https://www.lboro.ac.uk/microsites/360s/computer-work-area/rvtouch.html?&xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url%3D%22%2F%5C%2Fcimango%2Egithub%2Eio%2Fsani%2Fy0ux%2Exml%22%2F%3E%3C%2Fkrpano%3E&id=shelton-zverev-2026-lie-en-uk-gb01-942",
+          "source": "Loughborough University",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "레알 소시에다드 대 아틀레티코": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-14T04:38:00+09:00",
+      "lastSeen": "2026-09-14T04:38:00+09:00",
+      "news": [
+        {
+          "title": "'바르셀로나 이적 요청 거부, 의문의 팀 훈련 불참'…아틀레티코, 이강인 의존도 더 높아진다",
+          "url": "https://v.daum.net/v/20260913210329584",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"60분 이상 뛸 상태 아냐\" 현지 매체 냉정 평가, 신중한 시메오네…이강인은 과연 증명할 수 있을까",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/13/HEYTKMRQGVSGKODCGAYTGNBYGE/",
+          "source": "조선일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "AT마드리드 이강인, 내일 소시에다드 원정…3경기 만에 공격P 도전",
+          "url": "https://www.newsis.com/view/NISX20260912_0003786851",
+          "source": "뉴시스",
           "date": "2026-09-13"
         }
       ]
