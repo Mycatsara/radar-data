@@ -3438,10 +3438,10 @@
       ]
     },
     "신지애": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T12:41:00+09:00",
-      "lastSeen": "2026-09-13T13:13:00+09:00",
+      "lastSeen": "2026-09-13T13:40:00+09:00",
       "news": [
         {
           "title": "김아림·신지애, 일본 메이저 무빙데이 어땠나?…LPGA 멤버들 우승 경쟁 [JLPGA 챔피언십]",
@@ -3568,10 +3568,10 @@
       ]
     },
     "종합부동산세": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-13T13:13:00+09:00",
-      "lastSeen": "2026-09-13T13:13:00+09:00",
+      "lastSeen": "2026-09-13T13:40:00+09:00",
       "news": [
         {
           "title": "국세청, 부부 공동명의 종부세 ‘유리한 방식’ 첫 안내",
@@ -3590,14 +3590,26 @@
           "url": "https://www.etnews.com/20260913000062",
           "source": "전자신문",
           "date": "2026-09-13"
+        },
+        {
+          "title": "국세청, 몰라서 더 낸 부부 공동명의 종부세 환급해준다",
+          "url": "https://www.khan.co.kr/article/202609131107001",
+          "source": "경향신문",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "임광현 \"부부 공동 1주택 '가장 ��리한 종부세액' 미리 안내\"",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6851453_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-13"
         }
       ]
     },
     "이유비": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-13T13:13:00+09:00",
-      "lastSeen": "2026-09-13T13:13:00+09:00",
+      "lastSeen": "2026-09-13T13:40:00+09:00",
       "news": [
         {
           "title": "'43kg' 직각 어깨+뼈말라 핏 공개하더니…물오른 흑발 비주얼 뽐낸 배우 이유비 [MHN:피드]",
@@ -3620,10 +3632,10 @@
       ]
     },
     "코너 맥그리거": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-13T13:13:00+09:00",
-      "lastSeen": "2026-09-13T13:13:00+09:00",
+      "lastSeen": "2026-09-13T13:40:00+09:00",
       "news": [
         {
           "title": "\"희대의 사기극\" 맥그리거, 69초 만에 패배하고도 수백억 이득→부상 후 근황 공개 \"목발 짚고, 흉터 선명\"",
@@ -3646,10 +3658,10 @@
       ]
     },
     "이시언": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-13T13:13:00+09:00",
-      "lastSeen": "2026-09-13T13:13:00+09:00",
+      "lastSeen": "2026-09-13T13:40:00+09:00",
       "news": [
         {
           "title": "비, ♥김태희 아침 육아에 스스로 뺨까지 \"무조건 일어나야\" (시언스쿨)",
@@ -3668,14 +3680,20 @@
           "url": "https://www.sportschosun.com/entertainment/2026-09-13/202609130100086610005670",
           "source": "스포츠조선",
           "date": "2026-09-13"
+        },
+        {
+          "title": "\"유전자 진짜 대박\" 이시언, 4개월 아들 공개에 난리…아빠 판박이",
+          "url": "https://news.nate.com/view/20260913n08298",
+          "source": "네이트",
+          "date": "2026-09-13"
         }
       ]
     },
     "용혜인 사퇴": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-13T13:13:00+09:00",
-      "lastSeen": "2026-09-13T13:13:00+09:00",
+      "lastSeen": "2026-09-13T13:40:00+09:00",
       "news": [
         {
           "title": "[속보] 용혜인 성평등부 장관 후보 사퇴…“민주당서 결단해달라 했다”",
@@ -3693,6 +3711,122 @@
           "title": "[속보] 용혜인 성평등부 장관후보자 자진사퇴‥\"여당서 결단 의사 전달받아\"",
           "url": "https://imnews.imbc.com/news/2026/politics/article/6851461_36911.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "용혜인 성평등가족부 장관 후보자 자진 사퇴",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6851463_36967.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[현장영상] 용혜인, 지명 14일 만에 사퇴…“여당도 우려, 직 수행 어렵다”",
+          "url": "https://v.daum.net/v/20260913132439341",
+          "source": "Daum",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "트럭": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T13:40:00+09:00",
+      "lastSeen": "2026-09-13T13:40:00+09:00",
+      "news": [
+        {
+          "title": "“2,000만 원대 전기 트럭”... 하루 217km 넘으면 손해일까?",
+          "url": "https://www.autotribune.co.kr/news/articleView.html?idxno=45577",
+          "source": "오토트리뷴",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“2년 안에 팔면 30% 반납”... 전기 화물차 중고 거래, 이 조건 놓치면 손해죠",
+          "url": "https://www.autotribune.co.kr/news/articleView.html?idxno=45580",
+          "source": "오토트리뷴",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "인천서 '졸음운���'에 차량 10대 연쇄 추돌…5명 부상",
+          "url": "https://www.yna.co.kr/view/AKR20260912051400065",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "인공지능": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T13:40:00+09:00",
+      "lastSeen": "2026-09-13T13:40:00+09:00",
+      "news": [
+        {
+          "title": "AI 수장들도 \"개발 늦춰야\"…인류멸망 경고에 '속도조절론'(종합)",
+          "url": "https://v.daum.net/v/20260913103954732",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“AI 개발 속도 늦춰야” 올트먼·아모데이·머스크, 이례적 한뜻",
+          "url": "https://www.hani.co.kr/arti/international/america/1277492.html",
+          "source": "한겨레",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"지금 상장할 때 아니다\"…올트먼, 오픈AI IPO에 '제동'",
+          "url": "https://www.hankyung.com/article/2026091306467",
+          "source": "한국경제",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "젠데이아": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T13:40:00+09:00",
+      "lastSeen": "2026-09-13T13:40:00+09:00",
+      "news": [
+        {
+          "title": "[개봉영화] 젠데이아-로버트 패틴슨, ‘더 드라마’…버티는 97년생, ‘97 혜자, 표류기’",
+          "url": "https://v.daum.net/v/20260911133552459",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "로맨스 스릴러 ‘더 드라마’…버티는 97년생 ‘97 혜자, 표류기’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8660957",
+          "source": "KBS 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "젠데이아, 톰 홀랜드 아닌 로버트 패틴슨과 ���혼?[스크린PICK]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01971286645579464&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "fifa u-20 여자 월드컵": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T13:40:00+09:00",
+      "lastSeen": "2026-09-13T13:40:00+09:00",
+      "news": [
+        {
+          "title": "한국 U20 여자축구, 에콰도르 3-2 꺾고 극적으로 월드컵 16강 진출",
+          "url": "https://v.daum.net/v/20260913080639098",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "‘기사회생’ 한국 축구, U-20 여자 월드컵 2회 연속 16강 진출",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8662022",
+          "source": "KBS 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "U-20 여자축구 대표팀, 에콰도르 꺾고 극적 월드컵 16강",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202609130704279FL",
+          "source": "연합뉴스TV",
           "date": "2026-09-13"
         }
       ]
