@@ -5353,10 +5353,10 @@
       ]
     },
     "살림하는 남자들": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T19:18:00+09:00",
-      "lastSeen": "2026-09-13T19:40:00+09:00",
+      "lastSeen": "2026-09-13T20:12:00+09:00",
       "news": [
         {
           "title": "\"폐지해라\" 혹평 쏟아졌다…불륜 의심 연출 논란, 선 넘은 박서진 家의 억지극 ('살림남')",
@@ -5375,14 +5375,20 @@
           "url": "https://mydaily.co.kr/page/view/2026091310315238769",
           "source": "마이데일리",
           "date": "2026-09-13"
+        },
+        {
+          "title": "박서진母, 불륜 연출 논란..‘살림남’ 미성년자 샤워 욕먹더니 또 노림수 예고 '비난' [Oh!쎈 이슈] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/13/GRSWGN3FGZSWIMJVME4WGN3GHA/",
+          "source": "Chosunbiz",
+          "date": "2026-09-13"
         }
       ]
     },
     "축구 감독": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T19:18:00+09:00",
-      "lastSeen": "2026-09-13T19:40:00+09:00",
+      "lastSeen": "2026-09-13T20:12:00+09:00",
       "news": [
         {
           "title": "홍명보 대신 축구대표팀 이끌 모레노 임시감독 입국···“과거 실패 절대 잊지 않겠다”",
@@ -5417,10 +5423,10 @@
       ]
     },
     "경매": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T19:18:00+09:00",
-      "lastSeen": "2026-09-13T19:40:00+09:00",
+      "lastSeen": "2026-09-13T20:12:00+09:00",
       "news": [
         {
           "title": "유찰 늘고 낙찰가율도 하락…고가아파트 경매시장 '찬바람'",
@@ -5439,14 +5445,26 @@
           "url": "https://www.kyeonggi.com/article/20260913580136",
           "source": "경기일보",
           "date": "2026-09-13"
+        },
+        {
+          "title": "'11억에 나온 18억 아파트' 우르르…21대1 경매에 뛰어든 결과는 [르포]",
+          "url": "https://v.daum.net/v/20260913124440555",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "100가구 중 43가구는 무주택… 내 집 마련 관문 된 부동산 경매",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067025",
+          "source": "경상일보",
+          "date": "2026-09-13"
         }
       ]
     },
     "빙하 붕괴": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T19:18:00+09:00",
-      "lastSeen": "2026-09-13T19:40:00+09:00",
+      "lastSeen": "2026-09-13T20:12:00+09:00",
       "news": [
         {
           "title": "[프리즘] 더 이상 '경고' 아니다…지구의 분노 현실로",
@@ -5585,10 +5603,10 @@
       ]
     },
     "오스틴": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T19:40:00+09:00",
-      "lastSeen": "2026-09-13T19:40:00+09:00",
+      "lastSeen": "2026-09-13T20:12:00+09:00",
       "news": [
         {
           "title": "\"김도영 응원\"…오스틴, 홈런왕보다 다른 목표",
@@ -5611,11 +5629,115 @@
       ]
     },
     "광주 대 안양": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-13T19:40:00+09:00",
-      "lastSeen": "2026-09-13T19:40:00+09:00",
+      "lastSeen": "2026-09-13T20:12:00+09:00",
       "news": []
+    },
+    "한복": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-13T20:12:00+09:00",
+      "lastSeen": "2026-09-13T20:12:00+09:00",
+      "news": [
+        {
+          "title": "개막 퍼레이드 시작을 알리는 어린이 취타대",
+          "url": "https://v.daum.net/v/V5ArP0CEXQ",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "한복축제 열린 광화문광장 [현장 화보]",
+          "url": "https://www.khan.co.kr/article/202609121000021",
+          "source": "경향신문",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "광화문광장에서 열린 2026 종로한복축제",
+          "url": "https://www.news1.kr/photos/8102532",
+          "source": "뉴스1",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "이현중": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T20:12:00+09:00",
+      "lastSeen": "2026-09-13T20:12:00+09:00",
+      "news": [
+        {
+          "title": "\"한국이 최대 우승 후보\" 中도 인정, 필리핀도 \"韓 만나면 악몽\"... \"이현중 앞세워 진짜 우승하러 왔다\"",
+          "url": "https://v.daum.net/v/20260913083909421",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'첫 한일전' 남자 농구에 한국팬 300명 집결 \"반드시 이긴다\"[AG]",
+          "url": "https://www.news1.kr/sports/basketball/6288946",
+          "source": "뉴스1",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "득점 뒤 환호하는 유기상",
+          "url": "https://www.yna.co.kr/view/PYH20260911162100013",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "수원fc 대 천안시티": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T20:12:00+09:00",
+      "lastSeen": "2026-09-13T20:12:00+09:00",
+      "news": [
+        {
+          "title": "'11G 무패 질주→다이렉트 승격 정조준' 박건하 수원FC 감독 \"매 경기가 결승전\" [수원 현장] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/13/2026091317265036787",
+          "source": "머니투데이",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "툰가라의 맹활약, 천안시티FC 무승 탈출의 열쇠",
+          "url": "https://www.viva100.com/article/20260912500026",
+          "source": "브릿지경제",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'11경기 무승→승격 실패 확정적' 박진섭 천안 감독 \"팬들에게 희망 보여줘야…승리가 가장 중요\" [수원 현장]",
+          "url": "https://sports.news.nate.com/view/20260913n14601",
+          "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "xsmn": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T20:12:00+09:00",
+      "lastSeen": "2026-09-13T20:12:00+09:00",
+      "news": [
+        {
+          "title": "XSMT 13/9 - Kết quả XSMT hôm nay 13/9/2026 - Xổ số miền Trung ngày 13 tháng 9",
+          "url": "https://cafef.vn/xsmt-13-9-ket-qua-xsmt-hom-nay-13-9-2026-xo-so-mien-trung-ngay-13-thang-9-188260913174856087.chn",
+          "source": "CafeF",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "XSMN 13/9 - Kết quả xổ số miền Nam hôm nay ngày 13/9/2026",
+          "url": "https://giaoducthoidai.vn/xsmn-139-ket-qua-xo-so-mien-nam-hom-nay-ngay-1392026-post792440.html",
+          "source": "Báo Giáo dục và Thời đại Online",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Xổ số miền Nam ngày 13 th��ng 9: Đại lý chờ khách may mắn trúng đài Đà Lạt",
+          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-13-thang-9-dai-ly-cho-khach-may-man-trung-dai-da-lat-185260913081818511.htm",
+          "source": "Thanh Niên",
+          "date": "2026-09-13"
+        }
+      ]
     }
   },
   "sections": {
