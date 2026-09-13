@@ -3310,10 +3310,10 @@
       ]
     },
     "서울경제": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T12:13:00+09:00",
-      "lastSeen": "2026-09-13T12:41:00+09:00",
+      "lastSeen": "2026-09-13T13:13:00+09:00",
       "news": [
         {
           "title": "용혜인, ‘언더조직 성차별’ 질문에 “청문회서 답변”",
@@ -3325,6 +3325,24 @@
           "title": "'가능한 사랑' 이창동 감독, 8년 만의 귀환 \"우리 삶 급격히 변하는 것 느껴\"",
           "url": "https://news.nate.com/view/20260906n17386",
           "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "GPU 백만개가 무슨 소용? 젠슨 황 사로잡은 광섬유 뭐길래[김창영의 실리콘밸리 룩]",
+          "url": "https://www.sedaily.com/article/20089902",
+          "source": "서울경제",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "전송 속도 50% 빠른 '차세대 광섬유'…100만개 GPU 연결도 거뜬",
+          "url": "https://news.nate.com/view/20260911n29171",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "남성 2명과 등장한 '살인' 카페 사장…대낮 주택서 알몸 작업 [주간HIT영상]",
+          "url": "https://v.daum.net/v/20260913070135375",
+          "source": "Daum",
           "date": "2026-09-13"
         }
       ]
@@ -3420,10 +3438,10 @@
       ]
     },
     "신지애": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T12:41:00+09:00",
-      "lastSeen": "2026-09-13T12:41:00+09:00",
+      "lastSeen": "2026-09-13T13:13:00+09:00",
       "news": [
         {
           "title": "김아림·신지애, 일본 메이저 무빙데이 어땠나?…LPGA 멤버들 우승 경쟁 [JLPGA 챔피언십]",
@@ -3446,10 +3464,10 @@
       ]
     },
     "조세": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-13T12:41:00+09:00",
-      "lastSeen": "2026-09-13T12:41:00+09:00",
+      "lastSeen": "2026-09-13T13:13:00+09:00",
       "news": [
         {
           "title": "임광현 \"부부공동 1주택자들 그간 더 많이 낸 종부세 환급해줄 것\"",
@@ -3468,14 +3486,26 @@
           "url": "https://www.newspim.com/news/view/20260913000022",
           "source": "뉴스핌",
           "date": "2026-09-13"
+        },
+        {
+          "title": "LG CNS, 인니 2억8000만 명 조세행정 바꿨다…‘K-디지털정부’ 저력 입증",
+          "url": "http://www.dongponews.net/news/articleView.html?idxno=60476",
+          "source": "재외동포신문",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "LG CNS, 인니 차세대 조세행정시스템 ‘코어택스’ 성공 구축… 국세청 감사패 수상",
+          "url": "https://haninpost.com/archives/131401",
+          "source": "한인포스트",
+          "date": "2026-09-13"
         }
       ]
     },
     "의사": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-13T12:41:00+09:00",
-      "lastSeen": "2026-09-13T12:41:00+09:00",
+      "lastSeen": "2026-09-13T13:13:00+09:00",
       "news": [
         {
           "title": "챗GPT 보고 병원 갔더니…\"의사가 괜히 있어요?\" 핀잔",
@@ -3498,10 +3528,10 @@
       ]
     },
     "거점국립대학교": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T12:41:00+09:00",
-      "lastSeen": "2026-09-13T12:41:00+09:00",
+      "lastSeen": "2026-09-13T13:13:00+09:00",
       "news": [
         {
           "title": "최교진, '서울대 10개' 충남대 방문…KAIST 협력·AI연구소 추진",
@@ -3533,6 +3563,136 @@
           "title": "'한 팔로 끝냈다' 제앙 실바, 델가도에 서브미션 승…\"다음 챔피언은 나\"",
           "url": "https://sports.news.nate.com/view/20260913n07595",
           "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "종합부동산세": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T13:13:00+09:00",
+      "lastSeen": "2026-09-13T13:13:00+09:00",
+      "news": [
+        {
+          "title": "국세청, 부부 공동명의 종부세 ‘유리한 방식’ 첫 안내",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034508",
+          "source": "기호일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "임광현 \"부부공동 1주택자들 그간 더 많이 낸 종부세 환급해줄 것\"",
+          "url": "https://www.chosun.com/economy/economy_general/2026/09/13/EZ2OIA5JPFGSXOH6V2NECAUG6U/",
+          "source": "조선일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "임광현 “부부 공동명의 1주택 종부세, 더 낸 세금 찾아 돌려준다”",
+          "url": "https://www.etnews.com/20260913000062",
+          "source": "전자신문",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "이유비": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T13:13:00+09:00",
+      "lastSeen": "2026-09-13T13:13:00+09:00",
+      "news": [
+        {
+          "title": "'43kg' 직각 어깨+뼈말라 핏 공개하더니…물오른 흑발 비주얼 뽐낸 배우 이유비 [MHN:피드]",
+          "url": "https://news.nate.com/view/20260913n04602",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“하체 운동 전엔 꼭 먹어요” 36살 이유비, 43kg 몸매 관리법 바꾼 이유",
+          "url": "https://www.news-wa.com/article/life/health/2026/09/12/20260912500038",
+          "source": "뉴스와",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "이유비, 디올 메이크업 화보 같은 일상…‘유미의 세포들3’ 특별출연 이어간 활약",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16185925",
+          "source": "톱스타뉴스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "코너 맥그리거": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T13:13:00+09:00",
+      "lastSeen": "2026-09-13T13:13:00+09:00",
+      "news": [
+        {
+          "title": "\"희대의 사기극\" 맥그리거, 69초 만에 패배하고도 수백억 이득→부상 후 근황 공개 \"목발 짚고, 흉터 선명\"",
+          "url": "https://sports.news.nate.com/view/20260913n00594",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "맥그리거 \"태양은 아일랜드 것\"…트럼프 '달은 미국 영토' 선언에 대꾸",
+          "url": "https://sports.news.nate.com/view/20260908n05123",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "맥그리거 “태양은 아일랜드 것”…트럼프 ‘달은 미국 영토’ 선언에 대꾸",
+          "url": "https://biz.heraldcorp.com/article/10865707",
+          "source": "헤럴드경제",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "이시언": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T13:13:00+09:00",
+      "lastSeen": "2026-09-13T13:13:00+09:00",
+      "news": [
+        {
+          "title": "비, ♥김태희 아침 육아에 스스로 뺨까지 \"무조건 일어나야\" (시언스쿨)",
+          "url": "https://v.daum.net/v/20260913085637587",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "‘♥김태희’ 비 “워터밤 전날 식단 왜 해?”…365일 관리하는 자기관리 끝판왕",
+          "url": "https://sports.donga.com/ent/article/all/20260912/134655465/1",
+          "source": "스포츠동아",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "이시언♥서지승, 4개월 子와 가족사진..“엄마 아빠보다 표정부자”",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-13/202609130100086610005670",
+          "source": "스포츠조선",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "용혜인 사퇴": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T13:13:00+09:00",
+      "lastSeen": "2026-09-13T13:13:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 용혜인 성평등부 장관 후보 사퇴…“민주당서 결단해달라 했다”",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1277511.html",
+          "source": "한겨레",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "계속된 의혹과 겸직 논란에 결국 사퇴…용혜인 \"대통령께 송구\"(종합)",
+          "url": "https://v.daum.net/v/20260913130351916",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[속보] 용혜인 성평등부 장관후보자 자진사퇴‥\"여당서 결단 의사 전달받아\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6851461_36911.html",
+          "source": "MBC 뉴스",
           "date": "2026-09-13"
         }
       ]
