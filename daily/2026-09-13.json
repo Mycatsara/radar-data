@@ -5113,10 +5113,10 @@
       ]
     },
     "한지은": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T18:39:00+09:00",
-      "lastSeen": "2026-09-13T18:39:00+09:00",
+      "lastSeen": "2026-09-13T19:18:00+09:00",
       "news": [
         {
           "title": "'북부대공' 최산 가슴 근육, 김종국이 키웠다…\"몸 좋아야 하는 얼굴\" [런닝맨]",
@@ -5135,14 +5135,20 @@
           "url": "https://programs.sbs.co.kr/enter/runningman/clip/52880/OC481664720?div=live_end",
           "source": "programs.sbs.co.kr",
           "date": "2026-09-13"
+        },
+        {
+          "title": "“와 진짜 멋있다!” 하하×양세찬, 최산과 일생일대 콜라보에 심취↗",
+          "url": "https://programs.sbs.co.kr/enter/runningman/clip/52880/OC481747212",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-09-13"
         }
       ]
     },
     "당구": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-13T18:39:00+09:00",
-      "lastSeen": "2026-09-13T18:39:00+09:00",
+      "lastSeen": "2026-09-13T19:18:00+09:00",
       "news": [
         {
           "title": "아이티센 그룹 강진모 회장 대한당구연맹 회장 출마 선언 “IT 접목해 당구산업 발전 이끌겠다”",
@@ -5342,6 +5348,214 @@
           "title": "[단독] 위메이드와 싸우던 中 킹넷, 위메이드 인수 핵심 투자자로…'4000억 투자'",
           "url": "https://www.hankyung.com/article/202609131190i",
           "source": "한국경제",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "살림하는 남자들": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T19:18:00+09:00",
+      "lastSeen": "2026-09-13T19:18:00+09:00",
+      "news": [
+        {
+          "title": "\"폐지해라\" 혹평 쏟아졌다…불륜 의심 연출 논란, 선 넘은 박서진 家의 억지극 ('살림남')",
+          "url": "https://v.daum.net/v/20260913150115497",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'살림남' 박서진 엄마 '불륜 적발' 연출 예고 눈살, 자극 방송 어디까지[결정적장면]",
+          "url": "https://news.nate.com/view/20260913n02084",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "박서진 母 `불륜 적발`인 줄…미행에 父 분노까지, `살림남2` 황당 예고에 눈살",
+          "url": "https://mydaily.co.kr/page/view/2026091310315238769",
+          "source": "마이데일리",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "축구 감독": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T19:18:00+09:00",
+      "lastSeen": "2026-09-13T19:18:00+09:00",
+      "news": [
+        {
+          "title": "홍명보 대신 축구대표팀 이끌 모레노 임시감독 입국···“과거 실패 절대 잊지 않겠다”",
+          "url": "https://www.khan.co.kr/article/202609131426001",
+          "source": "경향신문",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "모레노 축구대표팀 임시 감독 입국 “팬들이 대표팀 다시 자랑스러워 하도록”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8662037",
+          "source": "KBS 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "모레노 감독 취재 열기",
+          "url": "https://www.yna.co.kr/view/PYH20260913057600013",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "경매": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T19:18:00+09:00",
+      "lastSeen": "2026-09-13T19:18:00+09:00",
+      "news": [
+        {
+          "title": "유찰 늘고 낙찰가율도 하락…고가아파트 경매시장 '찬바람'",
+          "url": "https://www.yna.co.kr/view/AKR20260913016400003",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "강남 3구 아파트값 동반 하락… 경매서도 감정가보다 낮은 가격에 낙찰",
+          "url": "https://v.daum.net/v/20260913162549161",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "세제 개편 직격탄 맞은 고가 아파트 경매…경매 시장 ‘썰렁’",
+          "url": "https://www.kyeonggi.com/article/20260913580136",
+          "source": "경기일보",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "빙하 붕괴": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T19:18:00+09:00",
+      "lastSeen": "2026-09-13T19:18:00+09:00",
+      "news": [
+        {
+          "title": "[프리즘] 더 이상 '경고' 아니다…지구의 분노 현실로",
+          "url": "https://v.daum.net/v/20260913093413358",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "‘마른하늘에 물벼락’ 내리치든 말든? 중국과 인도, 히말라야 개발 레이스 가열",
+          "url": "https://weekly.khan.co.kr/article/202609111419011",
+          "source": "주간경향",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[네팔 대홍수 르포] \"이제 뭐해서 먹고사나\"…한숨짓는 이재민들",
+          "url": "https://www.yna.co.kr/view/AKR20260913008600084",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "조국혁신당": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T19:18:00+09:00",
+      "lastSeen": "2026-09-13T19:18:00+09:00",
+      "news": [
+        {
+          "title": "김민석 “지분 나누는 시대 지나”…조국 “머리 숙이고 들어오라고? 모욕적”",
+          "url": "https://v.daum.net/v/20260913141500274",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "조국 \"金 연대 언급 모욕적\"…민주당 \"일관된 입장 견지\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260913030851001",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[속보] 김민석 \"'후보 사퇴' 용혜인과 진보 연대·정치 개혁 논의에 박차\" - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/09/13/2026091316125230553",
+          "source": "머니투데이",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "맥도날드": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T19:18:00+09:00",
+      "lastSeen": "2026-09-13T19:18:00+09:00",
+      "news": [
+        {
+          "title": "\"키오스크 당장 치워\"…美 패스트푸드가 다시 직원 찾는 이유",
+          "url": "https://www.etnews.com/20260911000313",
+          "source": "전자신문",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "최저임금 2만원 넘자 “감당 못 해” 재택 알바까지 썼는데…결국 키오스크 치우는 美",
+          "url": "https://www.sedaily.com/article/20090076",
+          "source": "서울경제",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "맥도날드 매장서 직원 사라졌더니…'뜻밖의 결과' 나왔다",
+          "url": "https://news.nate.com/view/20260912n11847",
+          "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "런닝맨": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-13T19:18:00+09:00",
+      "lastSeen": "2026-09-13T19:18:00+09:00",
+      "news": [
+        {
+          "title": "런닝맨 : [선공개] “싸울 때 말도 예쁘게 하고” 지예은, ‘예비 신랑’ 바타와 결혼 결심하게 된 이유",
+          "url": "https://programs.sbs.co.kr/enter/runningman/clip/69659/OC481739359?div=entersectionmain_clip",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "지예은, '♥바타'와 혼전임신설에 입 열었다...\"초고속 결혼으로 소문\"",
+          "url": "https://v.daum.net/v/20260913145658363",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "지예은, 진작에 '런닝맨' 촬영 중 예식 연습했다..유재석 \"이미 알아\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/13/MQZDMNDGMUYWGZRQMU2GCNJWMQ/",
+          "source": "조선일보",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "이더리움": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T19:18:00+09:00",
+      "lastSeen": "2026-09-13T19:18:00+09:00",
+      "news": [
+        {
+          "title": "Ethereum(ETHUSD) 종목��� 9월13일에 1.22% 하락했습니다. 주목해야 할 핵심 요인을 살펴보세요",
+          "url": "https://www.tradingkey.com/kr/news/market-movers/262164949-market-movers-ethusd-20260913",
+          "source": "TradingKey",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "2026년 9월 13일 오늘 비트코인 ​​가격: 암호화폐 시장에 격동의 한 주였습니다.",
+          "url": "https://www.vietnam.vn/ko/gia-bitcoin-hom-nay-13-9-2026-tuan-song-gio-cua-tien-so",
+          "source": "Vietnam.vn",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[아침코인] 9월 13일 LSK(리스크) 105%↑ AZIT(아지트) 41%↑ 등",
+          "url": "https://www.digitalasset.works/news/articleView.html?idxno=42976",
+          "source": "디지털애셋",
           "date": "2026-09-13"
         }
       ]
