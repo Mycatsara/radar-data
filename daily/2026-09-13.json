@@ -4321,10 +4321,10 @@
       ]
     },
     "나는 solo": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-13T15:45:00+09:00",
-      "lastSeen": "2026-09-13T16:12:00+09:00",
+      "lastSeen": "2026-09-13T16:40:00+09:00",
       "news": [
         {
           "title": "16기 상철♥28기 영숙 진짜 커플 맞아? '계약결혼' 파격 설정 보니[스타이슈]",
@@ -4348,6 +4348,12 @@
           "title": "16기 상철♥28기 영숙, ‘계약 결혼’行? …반나체로 침실 공유 ‘파격’",
           "url": "https://sports.khan.co.kr/article/202609130922003",
           "source": "스포츠경향",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[전문] '미인대회 출신' 배우 이지연, '나솔' 21기 영철과 결혼..직접 밝혔다",
+          "url": "https://v.daum.net/v/tEnijb0HyO",
+          "source": "Daum",
           "date": "2026-09-13"
         }
       ]
@@ -4495,10 +4501,10 @@
       ]
     },
     "일본": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-13T16:12:00+09:00",
-      "lastSeen": "2026-09-13T16:12:00+09:00",
+      "lastSeen": "2026-09-13T16:40:00+09:00",
       "news": [
         {
           "title": "韓 0-3 박살냈는데 “내일이 진짜 승부”라니…13점→11점→14점 굴욕 안긴 日 주장, 시선은 이미 이란으로",
@@ -4517,14 +4523,26 @@
           "url": "https://www.mt.co.kr/sports/2026/09/13/202609130010777086O",
           "source": "머니투데이",
           "date": "2026-09-13"
+        },
+        {
+          "title": "“마운자로 사러 일본 찾는 한국인 급증…몇몇 병원 SNS 성지",
+          "url": "https://weekly.khan.co.kr/article/202609131429001",
+          "source": "주간경향",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"항공·숙박비 들어도 더 싸\"…'마운자로' 찾아 일본 가는 한국인들",
+          "url": "https://view.asiae.co.kr/article/2026091315573341679",
+          "source": "아시아경제",
+          "date": "2026-09-13"
         }
       ]
     },
     "지석진": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-13T16:12:00+09:00",
-      "lastSeen": "2026-09-13T16:12:00+09:00",
+      "lastSeen": "2026-09-13T16:40:00+09:00",
       "news": [
         {
           "title": "런닝맨 : [9월 13일 예고] 최산×한지은, 왕국의 명운 짊어진 백성 구하기 대작전",
@@ -4542,6 +4560,194 @@
           "title": "“김종국 왜 저렇게 됐나”…‘북부대공’ 최산 앞 굴욕 (‘런닝맨’)",
           "url": "https://v.daum.net/v/20260913140839140",
           "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"김종국 왜 저렇게 됐냐\"…동료들도 충격, 20대에 피지컬 밀렸다 ('런닝맨')",
+          "url": "https://v.daum.net/v/20260913134237598",
+          "source": "Daum",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "위스키": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T16:40:00+09:00",
+      "lastSeen": "2026-09-13T16:40:00+09:00",
+      "news": [
+        {
+          "title": "“술 끊는 사람이 너무 많습니다”…45년래 최악의 불황, 무너지는 위스키 본고장",
+          "url": "https://v.daum.net/v/20260913090900955",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"요즘 세대 술 안 마셔\"…스코틀랜드 위스키 120억병 쌓였다",
+          "url": "https://view.asiae.co.kr/article/2026091314261825717",
+          "source": "아시아경제",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“술 안 마시는 사람들 너무 많아서 큰일 났다”…최악 불황에 위스키 본고장도 ‘휘청’",
+          "url": "https://www.sedaily.com/article/20090232",
+          "source": "서울경제",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "진중권": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T16:40:00+09:00",
+      "lastSeen": "2026-09-13T16:40:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 진중권 “이재명 정부 몰락 속도 너무 가팔라…현실 감각 잃은 듯”",
+          "url": "https://v.daum.net/v/20260913131620145",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[속보]대통령 ‘긍정’33.1%…호남도 ‘부정’50.5%",
+          "url": "https://www.munhwa.com/article/11616496",
+          "source": "문화일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "李지지율, 석달여만에 26%P 하락… 핵심지지층 4050도 부정〉긍정",
+          "url": "https://www.donga.com/news/Politics/article/all/20260911/134653997/2?gid=134654677&srev=1&regdate=20260912",
+          "source": "동아일보",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "오상진": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T16:40:00+09:00",
+      "lastSeen": "2026-09-13T16:40:00+09:00",
+      "news": [
+        {
+          "title": "퇴직금 3000만원으로 시작→70억 CEO된 김소영...\"오상진이 육아\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/13/2026091310110893018",
+          "source": "머니투데이",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "사업 70억 투자 받은 아나운서 부부 “퇴직금 3천만원으로 시작”",
+          "url": "https://www.mk.co.kr/news/society/12151283",
+          "source": "매일경제",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "연이은 폐업에도…김소영, 70억 사업가 됐다 “♥오상진 장가 잘 갔네”",
+          "url": "https://sports.khan.co.kr/article/202609131156003",
+          "source": "스포츠경향",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "인도네시아": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T16:40:00+09:00",
+      "lastSeen": "2026-09-13T16:40:00+09:00",
+      "news": [
+        {
+          "title": "243명 탄 인도네시아 여객선 해상 사고‥1명 사망·140명 실종",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6851484_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "243명 탄 인도네시아 여객선, 바다서 기상 악화로 연락 두절",
+          "url": "https://v.daum.net/v/20260913142100469",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[속보] 243명 탄 여객선, 자바해서 “기울고 있다”… 102명 구조·1명 사망·140명 실종(종합)",
+          "url": "https://m.go.seoul.co.kr/news/international/asia-oceania/2026/09/13/20260913500054",
+          "source": "서울Pn",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "송지호": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T16:40:00+09:00",
+      "lastSeen": "2026-09-13T16:40:00+09:00",
+      "news": [
+        {
+          "title": "바다를 걸어 섬 위 하늘로…6일 만에 2만명 발길",
+          "url": "https://v.daum.net/v/KCw1N41y7E",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"걸어서 무인도까지 들어��� 수 있다니\"… 631m 다리로 이어지는 산책 명소",
+          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=18756",
+          "source": "아던트뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "고성군 송지호 ‘바다하늘길’ 개통... 동해안 해양관광 명소 자리매김",
+          "url": "https://www.kwnews.co.kr/article/20260905500296",
+          "source": "강원일보",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "김태희": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T16:40:00+09:00",
+      "lastSeen": "2026-09-13T16:40:00+09:00",
+      "news": [
+        {
+          "title": "비, ♥김태희 아침 육아에 스스로 뺨까지 \"무조건 일어나야\" (시언스쿨)",
+          "url": "https://v.daum.net/v/4alKM3GhZw",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "‘♥김태희’ 비 “워터밤 전날 식단 왜 해?”…365일 관리하는 자기관리 끝판왕",
+          "url": "https://sports.donga.com/ent/article/all/20260912/134655465/1",
+          "source": "스포츠동아",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "비, ♥김태희 독박육아 해명하더니..뺨 때리며 \"아침 6시에 일어나\"[순간포착] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/13/MJSGCNLBGA4DGZTDMYYDONJQGQ/",
+          "source": "Chosunbiz",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "거점 국립 대학교": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T16:40:00+09:00",
+      "lastSeen": "2026-09-13T16:40:00+09:00",
+      "news": [
+        {
+          "title": "경상국립대, 내년 신입생 수시모집 경쟁율 8.09대 1",
+          "url": "https://www.newsis.com/view/NISX20260913_0003787024",
+          "source": "뉴시스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "경상국립대, 2027학년도 수시 경쟁률 8.09대 1… 우주항공·의학 계열 ‘강세’",
+          "url": "https://www.segye.com/newsView/20260913504409",
+          "source": "세계일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "경상국립대, 5단계 두뇌한국21 사업 선정 준비 ‘총력’",
+          "url": "https://www.metroseoul.co.kr/article/20260913500212",
+          "source": "메트로신문",
           "date": "2026-09-13"
         }
       ]
