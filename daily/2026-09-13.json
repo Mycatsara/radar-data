@@ -4751,6 +4751,266 @@
           "date": "2026-09-13"
         }
       ]
+    },
+    "롯데 대 kt": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "news": [
+        {
+          "title": "'3년 24억' 김태형, 계약 기간 내내 가을 야구 근처도 못갔다! PS 가능성 사실상 소멸→트래직 넘버 '12'",
+          "url": "https://sports.news.nate.com/view/20260907n17091",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"반타작 가야 해\" 사령탑 마지노선 세웠지만…롯데 지옥의 12연전 후 '3승10패' 몰락→'낙동강 라이벌' 5위 눈앞인데, 비밀번호만 길어진다",
+          "url": "https://www.xportsnews.com/article/2194718",
+          "source": "www.xportsnews.com",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "유강남과 배터리 이룰까…분위기 반전 필요한 롯데, 박세웅 '더 무거워진 어깨'",
+          "url": "https://v.daum.net/v/20260907171252148",
+          "source": "Daum",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "스타벅스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "news": [
+        {
+          "title": "'탱크데이'논란 여파…전국 지자체 스타벅스 상품권 구매 '급감'",
+          "url": "https://v.daum.net/v/YCVFGCEoX6",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“17개 시도 3년간 스벅 상품권 구매에 17억원 썼다”···올해 상반기는 절반 이하로 줄어",
+          "url": "https://www.khan.co.kr/article/202609131126001",
+          "source": "경향신문",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"지역화폐 쓰라더니\"… 서울·경기 지자체서만 스타벅스 상품권 8억 구매",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349937",
+          "source": "녹색경제신문",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "수사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "news": [
+        {
+          "title": "숨진 44개월 여아 '피멍·혈중 캡사이신'…경찰 종결에 父 수사심의 신청",
+          "url": "https://v.daum.net/v/20260913155751624",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "만 3세 혈액에서 나온 충격적 물질…그런데도 \"학대 아냐\" 사건 종결 [자막뉴스]",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008750635",
+          "source": "SBS 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "44개월 여아 온몸에 멍·혈액서 캡사이신…친부, 내사 종결에 수사심의위 신청",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202609131022294im",
+          "source": "연합뉴스TV",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "다리오 아모데이": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "news": [
+        {
+          "title": "AI 수장들 “개발 늦춰야”…‘인류멸망 경고’에 ‘속도조절론’으로 급선회",
+          "url": "https://v.daum.net/v/20260913150611627",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'AI 인류 멸망론'에 앤트로픽 CEO \"AI 개발속도 늦춰야\", 오픈AI·구글 AI 수장들도 동의",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447083",
+          "source": "비즈니스포스트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“AI 개발 속도 늦추자” 프런티어랩 수장들 이례적 한목소리…‘공동 감속’ 규칙 나올까",
+          "url": "https://www.khan.co.kr/article/202609131553001",
+          "source": "경향신문",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "한화 대 kia": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "news": [
+        {
+          "title": "[AI프리뷰] 13일 광주 KIA-한화전, AG 대표팀 차출 전 마지막 경기 갖는 KIA 김도영",
+          "url": "https://www.newspim.com/news/view/20260913000038",
+          "source": "뉴스핌",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[13일 프리뷰] 역전 3위 노리는 KIA, 천적 화이트 징크스 풀까",
+          "url": "https://www.osen.co.kr/article/G1112874758",
+          "source": "OSEN",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[포토] 노시환, 우리 도영이 아프지 말자",
+          "url": "https://www.sportschosun.com/baseball/2026-09-13/202609130100087700005747",
+          "source": "스포츠조선",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "화재": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "news": [
+        {
+          "title": "필리핀 팔라완섬 여객선 화재 사망자 76명으로 늘어…13명 실종",
+          "url": "https://v.daum.net/v/20260913104653907",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "필리핀 페리 화재 사망자 76명으로 늘어…13명 실종",
+          "url": "https://www.donga.com/news/Inter/article/all/20260913/134657276/1",
+          "source": "동아일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[포토] 필리핀 여객선 화재 참사…시신 수습 작업",
+          "url": "https://www.news1.kr/photos/8103257",
+          "source": "뉴스1",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "탈선": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "news": [
+        {
+          "title": "프랑스 열차 탈선 44명 부상…당국, 파괴공작 의심(종합)",
+          "url": "https://v.daum.net/v/20260913021151517",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "프랑스서 열차 탈선 사고로 44명 부상…당국, 사보타주 의심",
+          "url": "https://www.newsis.com/view/NISX20260913_0003787003",
+          "source": "뉴시스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "프랑스 여객열차 탈선해 44명 부상… 고의 범행 여부 수사 - 조선비즈",
+          "url": "https://biz.chosun.com/international/international_general/2026/09/13/W2AOBGCKTVFSPAFJEN6H75TCWM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "노승희": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "news": [
+        {
+          "title": "노승희, ‘KB금융 골든라이프 챔피언십’ 3라운드에서 홀인원…부상으로 벤츠 받아 [KLPGA]",
+          "url": "https://programs.sbs.co.kr/sbsgolf/26klpgatour/article/88967/G20000002514",
+          "source": "스포츠 & 골프",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[골프IN]홀인원에 메르세데스-벤츠까지! 노승희의 행운 가득한 3라운드",
+          "url": "https://sports.news.nate.com/view/20260912n11297",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "노승희, 8000만원 홀인원 행운...메르세데스-벤츠 AMG E 200...KB금융 골든라이프 챔피언십",
+          "url": "https://www.g-enews.com/article/General-News/2026/09/202609121501067953daecd3dad5_1",
+          "source": "글로벌이코노믹",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "소득세": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "news": [
+        {
+          "title": "\"1살 아기도 금융소득 3940만원\"…연 2000만원 넘는 미성년자 1606명",
+          "url": "https://v.daum.net/v/20260913163217277",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "돌 지난 아기가 4000만 원 벌어… 종합소득세 신고한 미성년자 1600명 넘어",
+          "url": "https://www.donga.com/news/Economy/article/all/20260913/134657151/1",
+          "source": "동아일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"돌잔치도 안 했는데 배당 4000만원\"…평범한 직장인 울리는 '아기 주주들'",
+          "url": "https://www.asiae.co.kr/article/2026091310500237268",
+          "source": "아시아경제",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "거래소": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T17:14:00+09:00",
+      "lastSeen": "2026-09-13T17:14:00+09:00",
+      "news": [
+        {
+          "title": "퇴근 후에도 주식거래...KRX 애프터마켓 내일부터 오픈",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202609130009238118_005.html",
+          "source": "YTN",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "내일부터 ‘퇴근 후 주식거래’ 확대…한국거래소 애프터마켓 개장",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8662059",
+          "source": "KBS 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“이젠 밤 8시까지 삼전닉스 쇼핑”…불붙는 ‘퇴근길’ 투자 경쟁 [김미정의 머니태그]",
+          "url": "https://v.daum.net/v/20260913053127550",
+          "source": "Daum",
+          "date": "2026-09-13"
+        }
+      ]
     }
   },
   "sections": {
