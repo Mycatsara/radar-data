@@ -3226,10 +3226,10 @@
       ]
     },
     "탬파베이 레이스": {
-      "count": 3,
-      "maxTraffic": 500,
+      "count": 4,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-13T11:13:00+09:00",
-      "lastSeen": "2026-09-13T12:13:00+09:00",
+      "lastSeen": "2026-09-13T12:41:00+09:00",
       "news": [
         {
           "title": "'거지구단' 놀림 받았는데 끝내기 홈런으로 PS 확정, 다저스 1/4 돈 쓰고 더 먼저 가을야구 간다",
@@ -3310,24 +3310,30 @@
       ]
     },
     "서울경제": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-13T12:13:00+09:00",
-      "lastSeen": "2026-09-13T12:13:00+09:00",
+      "lastSeen": "2026-09-13T12:41:00+09:00",
       "news": [
         {
           "title": "용혜인, ‘언더조직 성차별’ 질문에 “청문회서 답변”",
           "url": "https://ichannela.com/news/detail/000000549088.do",
           "source": "채널A",
           "date": "2026-09-13"
+        },
+        {
+          "title": "'가능한 사랑' 이창동 감독, 8년 만의 귀환 \"우리 삶 급격히 변하는 것 느껴\"",
+          "url": "https://news.nate.com/view/20260906n17386",
+          "source": "네이트",
+          "date": "2026-09-13"
         }
       ]
     },
     "스타뉴스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-13T12:13:00+09:00",
-      "lastSeen": "2026-09-13T12:13:00+09:00",
+      "lastSeen": "2026-09-13T12:41:00+09:00",
       "news": [
         {
           "title": "[이슈] \"매혹적인 역사적 재구성\"…'암살자(들)' 토론토까지 홀렸다",
@@ -3350,10 +3356,10 @@
       ]
     },
     "노동": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T12:13:00+09:00",
-      "lastSeen": "2026-09-13T12:13:00+09:00",
+      "lastSeen": "2026-09-13T12:41:00+09:00",
       "news": [
         {
           "title": "“모든 노동자에게 근로기준법 적용하라”…노동·시민단체 청와대로 행진",
@@ -3372,14 +3378,26 @@
           "url": "https://v.daum.net/v/20260912150307672",
           "source": "Daum",
           "date": "2026-09-13"
+        },
+        {
+          "title": "“월례비 350만원” 다시 활개치는 건폭",
+          "url": "https://v.daum.net/v/qXJOWj4qX7?f=p",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"덤프 웃돈 1.5억\" 다시 고개 든 건설현장 횡포",
+          "url": "https://www.news1.kr/realestate/general/6287631",
+          "source": "뉴스1",
+          "date": "2026-09-13"
         }
       ]
     },
     "시드니 스위니": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-13T12:13:00+09:00",
-      "lastSeen": "2026-09-13T12:13:00+09:00",
+      "lastSeen": "2026-09-13T12:41:00+09:00",
       "news": [
         {
           "title": "‘유포리아’ 시드니 스위니, 파격 누드로 또 구설수… 광고는 승승장구",
@@ -3397,6 +3415,124 @@
           "title": "시드니 스위니, 화제가 된 광고로 노비그 지분 확보",
           "url": "https://news.bitcoin.com/ko/igaming/sideuni-seuwini-hwaga-gaedoen-gwanggoro-nobigeu-jibun-hwakbo/",
           "source": "Bitcoin News",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "신지애": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T12:41:00+09:00",
+      "lastSeen": "2026-09-13T12:41:00+09:00",
+      "news": [
+        {
+          "title": "김아림·신지애, 일본 메이저 무빙데이 어땠나?…LPGA 멤버들 우승 경쟁 [JLPGA 챔피언십]",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021852",
+          "source": "골프한국",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "김아림, 일본 메이저 원정 둘째날 29위…신지애 53위 [JLPGA 챔피언십]",
+          "url": "https://v.daum.net/v/20260912043451115",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "신지애, 이번주 일본 ���이저 우승 도전…김아림·하타오카·이와이 등 LPGA 멤버들 출격 [JLPGA 챔피언십]",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021801",
+          "source": "골프한국",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "조세": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T12:41:00+09:00",
+      "lastSeen": "2026-09-13T12:41:00+09:00",
+      "news": [
+        {
+          "title": "임광현 \"부부공동 1주택자들 그간 더 많이 낸 종부세 환급해줄 것\"",
+          "url": "https://www.chosun.com/economy/economy_general/2026/09/13/EZ2OIA5JPFGSXOH6V2NECAUG6U/",
+          "source": "조선일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "국세청, 몰라서 더 낸 부부 공동명의 종부세 환급해준다",
+          "url": "https://www.khan.co.kr/article/202609131107001",
+          "source": "경향신문",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "국세청, 부부 공동명의 1주택 종부세 '최저 세액' 찾아준다",
+          "url": "https://www.newspim.com/news/view/20260913000022",
+          "source": "뉴스핌",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "의사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T12:41:00+09:00",
+      "lastSeen": "2026-09-13T12:41:00+09:00",
+      "news": [
+        {
+          "title": "챗GPT 보고 병원 갔더니…\"의사가 괜히 있어요?\" 핀잔",
+          "url": "https://www.hankyung.com/article/2026091306727",
+          "source": "한국경제",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "챗GPT에 증상 물어보고 병원 갔더니…\"의사가 괜히 있냐\" 핀잔",
+          "url": "https://news.nate.com/view/20260913n00063",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“챗GPT가 이러던데요?” 환자에 “의사가 괜히 있어요?” 발끈한 의사",
+          "url": "https://www.munhwa.com/article/11616526",
+          "source": "문화일보",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "거점국립대학교": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T12:41:00+09:00",
+      "lastSeen": "2026-09-13T12:41:00+09:00",
+      "news": [
+        {
+          "title": "최교진, '서울대 10개' 충남대 방문…KAIST 협력·AI연구소 추진",
+          "url": "https://nwww.newsis.com/view/NISX20260908_0003780141",
+          "source": "뉴시스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "제앙실바": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T12:41:00+09:00",
+      "lastSeen": "2026-09-13T12:41:00+09:00",
+      "news": [
+        {
+          "title": "‘멕시코 영웅’ 모레노, 우상으로 인정해 준 모랄레스와 13일 맞대결…출격 준비 끝",
+          "url": "https://v.daum.net/v/XdM13sAimV",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'왈왈' 개 짖는 소리 도발→\"이런 순간 위해 태어났다\"... UFC 실바vs델가도 '빅뱅' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/12/2026091213470441770",
+          "source": "머니투데이",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'한 팔로 끝냈다' 제앙 실바, 델가도에 서브미션 승…\"다음 챔피언은 나\"",
+          "url": "https://sports.news.nate.com/view/20260913n07595",
+          "source": "네이트",
           "date": "2026-09-13"
         }
       ]
