@@ -1760,10 +1760,10 @@
       ]
     },
     "산불": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T07:12:00+09:00",
-      "lastSeen": "2026-09-14T07:12:00+09:00",
+      "lastSeen": "2026-09-14T07:41:00+09:00",
       "news": [
         {
           "title": "성묫길 산불 막는다…대구시, 추석연휴 비상대응체계 가동",
@@ -1786,10 +1786,10 @@
       ]
     },
     "이강인": {
-      "count": 1,
-      "maxTraffic": 5000,
+      "count": 2,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-14T07:12:00+09:00",
-      "lastSeen": "2026-09-14T07:12:00+09:00",
+      "lastSeen": "2026-09-14T07:41:00+09:00",
       "news": [
         {
           "title": "'바르셀로나 이적 요청 거부, 의문의 팀 훈련 불참'…아틀레티코, 이강인 의존도 더 높아진다",
@@ -1808,14 +1808,26 @@
           "url": "https://www.chosun.com/sports/world-football/2026/09/14/GFQTINJWMFSWGMJWMVTDCZLEMU/",
           "source": "조선일보",
           "date": "2026-09-13"
+        },
+        {
+          "title": "아틀레티코, 이강인 빠지자 3골 몰아치고 소시에다드에 완승",
+          "url": "https://www.yna.co.kr/view/AKR20260914008200007",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "이강인 교체 아웃→日구보 뒤늦게 교체 출전... 무산된 동갑내기 절친 맞대결 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/14/2026091403574587520",
+          "source": "머니투데이",
+          "date": "2026-09-13"
         }
       ]
     },
     "보루시아 묀헨글라트바흐": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T07:12:00+09:00",
-      "lastSeen": "2026-09-14T07:12:00+09:00",
+      "lastSeen": "2026-09-14T07:41:00+09:00",
       "news": [
         {
           "title": "'어깨부상 아시안게임 탈락에 소속팀 감독까지 경질' 옌스 카스트로프에게 닥친 아픈 시련 - 머니투데이",
@@ -1838,10 +1850,10 @@
       ]
     },
     "김혜수": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T07:12:00+09:00",
-      "lastSeen": "2026-09-14T07:12:00+09:00",
+      "lastSeen": "2026-09-14T07:41:00+09:00",
       "news": [
         {
           "title": "'56세' 김혜수, 부동산으로 1년만 40억 벌더니..럭셔리한 근황 [스타이슈]",
@@ -1860,14 +1872,20 @@
           "url": "https://www.news1.kr/entertain/celebrity-topic/6288949",
           "source": "뉴스1",
           "date": "2026-09-13"
+        },
+        {
+          "title": "'56세' 김혜수, 부동산으로 1년만 40억 벌더니..럭셔리한 근황 [스타이슈]",
+          "url": "https://v.daum.net/v/20260913201637923",
+          "source": "Daum",
+          "date": "2026-09-13"
         }
       ]
     },
     "real sociedad vs atlético madrid": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T07:12:00+09:00",
-      "lastSeen": "2026-09-14T07:12:00+09:00",
+      "lastSeen": "2026-09-14T07:41:00+09:00",
       "news": [
         {
           "title": "🚨XIs confirmados: \"Prueba límite\" para el Cholo Simeone en Anoeta",
@@ -1886,14 +1904,26 @@
           "url": "https://as.com/futbol/primera/las-regatas-ya-han-pasado-f202609-n/",
           "source": "Diario AS",
           "date": "2026-09-13"
+        },
+        {
+          "title": "Un polémico penalti allana la engañosa goleada del Atlético en Anoeta",
+          "url": "https://www.abc.es/deportes/atletico-madrid/polemico-penalti-allana-enganosa-goleada-atletico-anoeta-20260913230029-nt.html",
+          "source": "ABC",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Lamine Yamal lidera cómodo triunfo del Barcelona en casa del Levante",
+          "url": "https://www.si.com/mx/internacional/lamine-yamal-lidera-comodo-triunfo-del-barcelona-en-casa-del-levante",
+          "source": "Sports Illustrated",
+          "date": "2026-09-13"
         }
       ]
     },
     "신유빈": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T07:12:00+09:00",
-      "lastSeen": "2026-09-14T07:12:00+09:00",
+      "lastSeen": "2026-09-14T07:41:00+09:00",
       "news": [
         {
           "title": "아시안게임 탁구: 신유빈 포함 한국 대표팀 경기 일정·관전 포인트 [아이치-나고야 2026]",
@@ -1916,10 +1946,10 @@
       ]
     },
     "us 오픈": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T07:12:00+09:00",
-      "lastSeen": "2026-09-14T07:12:00+09:00",
+      "lastSeen": "2026-09-14T07:41:00+09:00",
       "news": [
         {
           "title": "'5억 금목걸이 차고 망사 드레스까지 입었는데...' 사발렌카 US오픈 결승에서 '멘탈붕괴'...100주 만에 세계 1위 빼앗겼다",
@@ -1938,14 +1968,26 @@
           "url": "https://www.donga.com/news/Sports/article/all/20260914/134660698/2",
           "source": "동아일보",
           "date": "2026-09-13"
+        },
+        {
+          "title": "발 부상 딛고 US오픈 우승한 리바키나 \"뉴욕이 좋아지네요\"",
+          "url": "https://www.yna.co.kr/view/AKR20260913019800007",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "리바키나, 호주 이어 US오픈마저 들었다",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260914.22018004087",
+          "source": "국제신문",
+          "date": "2026-09-13"
         }
       ]
     },
     "xrp 레저": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T07:12:00+09:00",
-      "lastSeen": "2026-09-14T07:12:00+09:00",
+      "lastSeen": "2026-09-14T07:41:00+09:00",
       "news": [
         {
           "title": "전 리플 CTO \"XRP가 비트코인 시총 추월 가능\"...역전 시나리오는?",
@@ -1963,6 +2005,12 @@
           "title": "하락장에도 뭉칫돈 쏠렸다… 암호화폐(코인) 예측 시장이 리플 1.50달러에 베팅하는 이유",
           "url": "https://www.wikitree.co.kr/articles/1158880",
           "source": "위키트리",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "엑스알피, 바이낸스 입출금 6개월래 최대…\"한동안 박스권 가능성\"",
+          "url": "https://bloomingbit.io/feed/news/120260",
+          "source": "블루밍비트",
           "date": "2026-09-13"
         }
       ]
@@ -2015,6 +2063,58 @@
           "title": "조영남, 춘길 향해 살벌한 경고 \"비겁한 놈\" (금타는 금요일)",
           "url": "https://news.nate.com/view/20260911n32164",
           "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "농지": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-14T07:41:00+09:00",
+      "lastSeen": "2026-09-14T07:41:00+09:00",
+      "news": [
+        {
+          "title": "문제 없다는 정부에 농심 ‘부글부글’",
+          "url": "https://v.daum.net/v/20260914000912537",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[사설] 농지 전수조사, 투기 잡으려다 농촌 잡아서야",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083987",
+          "source": "경북일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[단독] 정부, 사상 최초 농지 전수조사… 법 위반 농지 매입에 예산 8868억원 투입 - 조선비즈",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/09/14/L7HKJYVJKJARPERXOJGEKSANHI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "현빈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T07:41:00+09:00",
+      "lastSeen": "2026-09-14T07:41:00+09:00",
+      "news": [
+        {
+          "title": "\"많이 꼴불견\" 손예진, 아들 외모자랑 후회 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/12/2026091214390215601",
+          "source": "머니투데이",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "손예진, 아들 외모에 자신감 폭발 “배우 안 하기도 힘든 얼굴”",
+          "url": "https://v.daum.net/v/20260914071646808",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'냉부' 손예진 입맛 사로잡은 권성준 셰프…'9연승 달성' [RE:TV]",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6289004",
+          "source": "뉴스1",
           "date": "2026-09-13"
         }
       ]
