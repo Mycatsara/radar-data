@@ -608,10 +608,10 @@
       ]
     },
     "헐크": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T02:11:00+09:00",
-      "lastSeen": "2026-09-14T02:39:00+09:00",
+      "lastSeen": "2026-09-14T03:14:00+09:00",
       "news": [
         {
           "title": "Marvel Studios Just Introduced She-Hulk's First Big Plot Hole",
@@ -660,10 +660,10 @@
       ]
     },
     "바이에른 뮌헨": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T02:11:00+09:00",
-      "lastSeen": "2026-09-14T02:39:00+09:00",
+      "lastSeen": "2026-09-14T03:14:00+09:00",
       "news": [
         {
           "title": "SV Elversberg 대 바이에른 뮌헨 예측: 좋은 형태의 두 팀 간의 충돌.",
@@ -706,10 +706,10 @@
       ]
     },
     "라민 야말": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T02:39:00+09:00",
-      "lastSeen": "2026-09-14T02:39:00+09:00",
+      "lastSeen": "2026-09-14T03:14:00+09:00",
       "news": [
         {
           "title": "[오피셜] '최전방 공격수로 포지션 변경 대성공!'…바르셀로나 '캡틴' 하피냐, 8월 '5골 1도움' 활약으로 이달의 선수 선정",
@@ -732,10 +732,10 @@
       ]
     },
     "분데스리가": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-14T02:39:00+09:00",
-      "lastSeen": "2026-09-14T02:39:00+09:00",
+      "lastSeen": "2026-09-14T03:14:00+09:00",
       "news": [
         {
           "title": "'김민재 결장' 바이에른 뮌헨, 챔스 첫 경기서 보되글림트 5-0 대파",
@@ -758,10 +758,10 @@
       ]
     },
     "로드리": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T02:39:00+09:00",
-      "lastSeen": "2026-09-14T02:39:00+09:00",
+      "lastSeen": "2026-09-14T03:14:00+09:00",
       "news": [
         {
           "title": "'충격, 이강인 연봉 1000만유로 아니었나' 아틀레티코 연봉 톱10에도 못 들었다, 수비수 한츠코 보다 적었다, 일본 국대 에이스 구보 연봉 650만유로 소시에다드 2위..라리가 연봉킹 음바페 7167만유로",
@@ -779,6 +779,136 @@
           "title": "'레알 마드리드-바르셀로나도 이강인 수준 공미 영입 못했다'…라리가 영입 베스트11",
           "url": "https://news.nate.com/view/20260904n04447?mid=n1007",
           "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "모레노": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-14T03:14:00+09:00",
+      "lastSeen": "2026-09-14T03:14:00+09:00",
+      "news": [
+        {
+          "title": "손흥민·이강인 ‘탁구장 충돌’ 몰락 시작이었다…모레노 첫 숙제는",
+          "url": "https://v.daum.net/v/20260913155150535",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'임시 소방수' 모레노 감독 입국...\"축구대표팀에 국민들 자부심 느끼게 할 것\"",
+          "url": "https://www.ytn.co.kr/_ln/0107_202609132333531528",
+          "source": "YTN",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "모레노 감독 취재 열기",
+          "url": "https://www.yna.co.kr/view/PYH20260913057800013",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "nfl": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T03:14:00+09:00",
+      "lastSeen": "2026-09-14T03:14:00+09:00",
+      "news": [
+        {
+          "title": "Is NFL+ down? NFL RedZone, NFL app hit by outage during Week 1 games",
+          "url": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2026/09/13/nfl-plus-down-redzone-app-outage-week-1/91747307007/",
+          "source": "Democrat and Chronicle",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "NFL Red Zone down just minutes into new season as fans rage ‘this is a joke’",
+          "url": "https://www.the-sun.com/sport/16999739/nfl-red-zone-down-fans-rage/",
+          "source": "The Sun",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "NFL Network not working. NFL Network down. NFL app not working",
+          "url": "https://www.app.com/story/sports/nfl/2026/09/13/is-nfl-network-down-nfl-network-app-not-working/91746804007/",
+          "source": "Asbury Park Press",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "김원효": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T03:14:00+09:00",
+      "lastSeen": "2026-09-14T03:14:00+09:00",
+      "news": [
+        {
+          "title": "'김원효♥' 심진화, 살 빠지더니 여배우 아우라…\"개그계 송혜교 맞네\"",
+          "url": "https://v.daum.net/v/20260913201356887",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'김원효♥' 심진화, 살 빠지더니 여배우 아우라…\"개그계 송혜교 맞네\" - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/13/MI3GGZDBHFTDOODGMM4TMMBSMY/",
+          "source": "Chosunbiz",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'김원효♥' 심진화, 살 빠지더니 여배우 아우라…\"개그계 송혜교 맞네\"",
+          "url": "https://news.nate.com/view/20260913n16411",
+          "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "남자": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-09-14T03:14:00+09:00",
+      "lastSeen": "2026-09-14T03:14:00+09:00",
+      "news": [
+        {
+          "title": "세터 바꾸니 9cm 큰 호주에 역전…한국, 9년 만에 亞 선수권 3위 → 내년 월드컵 출전권 획득",
+          "url": "https://v.daum.net/v/20260913182049726",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "남자배구, 호주 꺾고 아시아선수권 3위…2027 월드컵 진출(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260913049451007",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "끝날 뻔했던 LA 올림픽 꿈 살렸다! ‘허수봉 27점 폭발’ 한국 男배구, 호주 꺾고 3위…월드컵 티켓까지 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/14/202609131823771247O",
+          "source": "머니투데이",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "novig": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T03:14:00+09:00",
+      "lastSeen": "2026-09-14T03:14:00+09:00",
+      "news": [
+        {
+          "title": "Novig promo code NYPOST: Deposit $10, get $25 in trade credits for Browns vs. Jaguars",
+          "url": "https://nypost.com/2026/09/13/betting/novig-promo-code-nypost-deposit-10-get-25-in-trade-credits-for-browns-vs-jaguars/",
+          "source": "New York Post",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Novig Promo Code AMNY: Get $25 Bonus for Jets-Titans + Sunday NFL Week 1 Trades",
+          "url": "https://www.amny.com/sports/novig-promo-code-amny-get-25-bonus-for-jets-titans-sunday-nfl-week-1-trades/",
+          "source": "amNewYork",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Novig Referral Code SBWIRE | Get $25 in Trade Credits Today (September 2026)",
+          "url": "https://ftw.usatoday.com/story/sports/2026/09/13/novig-referral-code-sbwire-september-13/91494218007/",
+          "source": "USA Today",
           "date": "2026-09-13"
         }
       ]
