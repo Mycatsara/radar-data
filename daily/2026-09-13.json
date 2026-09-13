@@ -696,10 +696,10 @@
       ]
     },
     "이은결": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 200,
       "firstSeen": "2026-09-13T01:39:00+09:00",
-      "lastSeen": "2026-09-13T04:10:00+09:00",
+      "lastSeen": "2026-09-13T20:39:00+09:00",
       "news": [
         {
           "title": "'870평 부지 소유' 이은결, 마술 공연 장비만 200억 이상 “2억짜리 기차도 한 번 써”",
@@ -724,6 +724,12 @@
           "url": "https://news.nate.com/view/20260912n13835",
           "source": "네이트",
           "date": "2026-09-12"
+        },
+        {
+          "title": "이은결, 국내 마술사 최초 세종문화회관 대극장 입성",
+          "url": "https://www.newsis.com/view/NISX20260913_0003787068",
+          "source": "뉴시스",
+          "date": "2026-09-13"
         }
       ]
     },
@@ -5636,10 +5642,10 @@
       "news": []
     },
     "한복": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-13T20:12:00+09:00",
-      "lastSeen": "2026-09-13T20:12:00+09:00",
+      "lastSeen": "2026-09-13T20:39:00+09:00",
       "news": [
         {
           "title": "개막 퍼레이드 시작을 알리는 어린이 취타대",
@@ -5688,10 +5694,10 @@
       ]
     },
     "수원fc 대 천안시티": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-13T20:12:00+09:00",
-      "lastSeen": "2026-09-13T20:12:00+09:00",
+      "lastSeen": "2026-09-13T20:39:00+09:00",
       "news": [
         {
           "title": "'11G 무패 질주→다이렉트 승격 정조준' 박건하 수원FC 감독 \"매 경기가 결승전\" [수원 현장] - 머니투데이",
@@ -5735,6 +5741,169 @@
           "title": "Xổ số miền Nam ngày 13 th��ng 9: Đại lý chờ khách may mắn trúng đài Đà Lạt",
           "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-13-thang-9-dai-ly-cho-khach-may-man-trung-dai-da-lat-185260913081818511.htm",
           "source": "Thanh Niên",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "이스타항공": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T20:39:00+09:00",
+      "lastSeen": "2026-09-13T20:39:00+09:00",
+      "news": [
+        {
+          "title": "\"달달 외운 답변으론 승객 못지켜\"…이스타항공, 승무원 면접 확 바꾼 이유",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02004086645579792&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "이스타항공, 회원 5억명 보유 '플리기'와 방한 중국인 유치",
+          "url": "https://v.daum.net/v/4xlKQDx2ou",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "이스타항공, 알리바바그룹과 중국 관광객 유치 '맞손'",
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=880587",
+          "source": "글로벌경제신문",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "이코노미 클래스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T20:39:00+09:00",
+      "lastSeen": "2026-09-13T20:39:00+09:00",
+      "news": []
+    },
+    "에디 다니엘": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T20:39:00+09:00",
+      "lastSeen": "2026-09-13T20:39:00+09:00",
+      "news": [
+        {
+          "title": "우리금융 장학생 에디 다니엘 농구선수, 아시안게임 국가대표 출전",
+          "url": "https://v.daum.net/v/KHyzD0CEy6",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "리바운드 따내는 에디 다니엘",
+          "url": "https://news.nate.com/view/20260913n15948?mid=n0100",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[금융권 소식] 우리금융ㆍNH저축은행ㆍIBK기업은행(9.9)",
+          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=793863",
+          "source": "위클리오늘",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "한국거래소": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T20:39:00+09:00",
+      "lastSeen": "2026-09-13T20:39:00+09:00",
+      "news": [
+        {
+          "title": "내일부터 ‘퇴근 후 주식거래’ 확대…한국거래소 애프터마켓 개장",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8662029",
+          "source": "KBS 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“이젠 밤 8시까지 삼전닉스 쇼핑”…불붙는 ‘퇴근길’ 투자 경쟁 [김미정의 머니태그]",
+          "url": "https://v.daum.net/v/20260913053127550",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "퇴근 후에도 주식거래...KRX 애프터마켓 내일부터 오픈",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202609130009238118_005.html",
+          "source": "YTN",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "기안84": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-13T20:39:00+09:00",
+      "lastSeen": "2026-09-13T20:39:00+09:00",
+      "news": [
+        {
+          "title": "\"상상 아닌 현실\" AI와 연애할 수 있을까…'기이안 연애' 던진 질문 [N초점]",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6287860",
+          "source": "뉴스1",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "나의 AI 파트너 - 기이안 연애 : [9월 17일 예고] 장도연, ‘이호’와 깊이 스며드는 감정 속 등장한 이상형★ (ft. 기안84×이유비)",
+          "url": "https://programs.sbs.co.kr/clip/redirect/S01_P480960878/OC481718001?cliptyp=01",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'기이안연애' 장도연·기안84, AI와 더블데이트…\"너무 앞서\"",
+          "url": "https://v.daum.net/v/trTVHkPKXT",
+          "source": "Daum",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "문지애": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-13T20:39:00+09:00",
+      "lastSeen": "2026-09-13T20:39:00+09:00",
+      "news": [
+        {
+          "title": "'결혼 15년 차' 아나운서 부부, 명절에 부모님 댁 안 가…\"6시간 부담돼\" [MHN:픽]",
+          "url": "https://v.daum.net/v/ydgIR8B3ih",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "문지애·전종환 \"명절에 같이 있는 게 스트레스\"",
+          "url": "https://www.newsis.com/view/NISX20260911_0003785933",
+          "source": "뉴시스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'결혼 15년 차' 아나운서 부부, 명절에 시댁 안 가…\"6시간 같이 있기 힘들어\" [RE:뷰]",
+          "url": "https://news.nate.com/view/20260911n16367",
+          "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "조나단": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-13T20:39:00+09:00",
+      "lastSeen": "2026-09-13T20:39:00+09:00",
+      "news": [
+        {
+          "title": "조나단 “23만원?” 화들짝…남이 쓰는 돈 그대로 써야 하는 ‘니돈내산’",
+          "url": "https://v.daum.net/v/2Tiky41y0F",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'니돈내산' 이준x윤은혜→최미나수 아바타 소비 도전",
+          "url": "https://news.nate.com/view/20260910n06252",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "원해서 쓰는 돈 아니다? 조나단, 23만원 결제알림에 화들짝(니돈내산)",
+          "url": "https://www.newsen.com/news_view.php?uid=202609101127276310",
+          "source": "뉴스엔",
           "date": "2026-09-13"
         }
       ]
