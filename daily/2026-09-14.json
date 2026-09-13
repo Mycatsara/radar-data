@@ -2,10 +2,10 @@
   "date": "2026-09-14",
   "keywords": {
     "재혼": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-14T00:12:00+09:00",
-      "lastSeen": "2026-09-14T00:40:00+09:00",
+      "lastSeen": "2026-09-14T01:13:00+09:00",
       "news": [
         {
           "title": "17살 아들, 가족 잠들면 나온다…50kg도 안 되는 몸에 母 눈물 (결혼지옥)",
@@ -40,10 +40,10 @@
       ]
     },
     "afghanistan vs india": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T00:12:00+09:00",
-      "lastSeen": "2026-09-14T00:40:00+09:00",
+      "lastSeen": "2026-09-14T01:13:00+09:00",
       "news": [
         {
           "title": "India face tough selection calls as Afghanistan play hosts in Delhi",
@@ -67,6 +67,12 @@
           "title": "Ball by Ball Commentary & Live Score - IND vs AFG, 1st T20I",
           "url": "https://www.cricinfo.com/series/afghanistan-in-india-2026-1549583/india-vs-afghanistan-1st-t20i-1549586/ball-by-ball-commentary",
           "source": "Cricinfo",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Afghanistan vs India 2026: Match preview, head-to-head and streaming details",
+          "url": "https://sportsmintmedia.com/afghanistan-vs-india-2026-match-preview-head-to-head-and-streaming-details/",
+          "source": "SportsMint Media",
           "date": "2026-09-13"
         }
       ]
@@ -328,10 +334,10 @@
       ]
     },
     "맨유 대 맨 시티": {
-      "count": 1,
-      "maxTraffic": 10000,
+      "count": 2,
+      "maxTraffic": 20000,
       "firstSeen": "2026-09-14T00:40:00+09:00",
-      "lastSeen": "2026-09-14T00:40:00+09:00",
+      "lastSeen": "2026-09-14T01:13:00+09:00",
       "news": [
         {
           "title": "캐릭 “이상적이지 않다”→마레스카 “적응해야” 정면충돌… 시즌 첫 맨체스터 더비, 벌써 뜨겁다",
@@ -349,6 +355,188 @@
           "title": "부상만 없으면 완벽한 수비수…'사바하전 쐐기골' 리산드로, 홀란과 맞대결 앞두고 \"과거는 잊고 잘 준비해야\"",
           "url": "https://sports.news.nate.com/view/20260913n00322",
           "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "man utd đấu với man city": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T01:13:00+09:00",
+      "lastSeen": "2026-09-14T01:13:00+09:00",
+      "news": [
+        {
+          "title": "Đội hình kết hợp Man United và Man City đắt giá nhất lịch sử",
+          "url": "https://yeuthethao.net.vn/doi-hinh-ket-hop-man-united-va-man-city-dat-gia-nhat-lich-su-d894774.html",
+          "source": "yeuthethao.net.vn",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "MU 0-0 Man City: Dalot bỏ lỡ cơ hội",
+          "url": "https://lifestyle.zingnews.vn/mu-0-0-man-city-dalot-bo-lo-co-hoi-post1682838.html",
+          "source": "Znews",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Trực tiếp Manchester United vs Manchester City: Manchester City mất người",
+          "url": "https://baonghean.vn/truc-tiep-manchester-united-vs-manchester-city-manchester-city-mat-nguoi-10351289.html",
+          "source": "baonghean.vn",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "แมนยู พบ แมนซิตี": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T01:13:00+09:00",
+      "lastSeen": "2026-09-14T01:13:00+09:00",
+      "news": [
+        {
+          "title": "#√☯️[[ฟุตบอลสด+!]] บอลแมนยูแมนซิตีวันนี้ สตรีมมิ่ง",
+          "url": "https://www.lboro.ac.uk/microsites/360s/computer-work-area/rvtouch.html?&xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url%3D%22%2F%5C%2Fdukenrgy147%2Egithub%2Eio%2Fnews%2Fc%2Exml%22%2F%3E%3C%2Fkrpano%3E&id=tsntvs-manuted-city-live-th-87515017",
+          "source": "Loughborough University",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "การคาดการณ์ผลการแข่งขันระหว่างแมนเชสเตอร์ ยูไนเต็ด กับ แมนเชสเตอร์ ซิตี้: โอกาสในการไล่ล่าตำแหน่งสูงสุด",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-manchester-united-vs-manchester-city-co-hoi-bam-duoi-ngoi-dau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "มีทีมข่มกว่า วัดพลังตัวท็อป 5 ด้าน แมนยู VS แมนซิตี้ ก่อนพรีเมียร์ลีก แมนเชสเตอร์ดาร์บี้",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2959374",
+          "source": "Thairath.co.th",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "하피냐": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T01:13:00+09:00",
+      "lastSeen": "2026-09-14T01:13:00+09:00",
+      "news": [
+        {
+          "title": "[오피셜] '최전방 공격수로 포지션 변경 대성공!'…바르셀로나 '캡틴' 하피냐, 8월 '5골 1도움' 활약으로 이달의 선수 선정",
+          "url": "https://sports.news.nate.com/view/20260912n04776",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "5골→2골→5골→5골→5골! 바르셀로나, 차원이 다른 공격력…5연승+22골 大폭발",
+          "url": "https://www.mydaily.co.kr/page/view/2026091108115239226",
+          "source": "마이데일리",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'일본 수비수 대굴욕' 세계적인 클래스에 완벽히 무너졌다...\"실망스럽지만, 계속 노력하겠다\" 각오 밝혀",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1007040",
+          "source": "SPOTV NEWS",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "man utd vs man city": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-14T01:13:00+09:00",
+      "lastSeen": "2026-09-14T01:13:00+09:00",
+      "news": [
+        {
+          "title": "Premier League: Man Utd bidding to end Man City's perfect start to season",
+          "url": "https://www.bbc.com/sport/football/live/cmdx50vd2v2yt",
+          "source": "BBC",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Man Utd vs. Man City: Confirmed Lineups for First Manchester Derby of 2026–27",
+          "url": "https://www.si.com/soccer/man-utd-vs-man-city-confirmed-lineups-first-manchester-derby-2026-27/app/?utm_source=forza",
+          "source": "Sports Illustrated",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "How many Manchester derbies have there been and who has won the most?",
+          "url": "https://en.as.com/soccer/how-many-manchester-derbies-have-there-been-and-who-has-won-the-most-f202609-n/",
+          "source": "Diario AS",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "고우림": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T01:13:00+09:00",
+      "lastSeen": "2026-09-14T01:13:00+09:00",
+      "news": [
+        {
+          "title": "김연아, 고우림과 와인 데이트…때아닌 임신설 부인 후 근황 공개 [N샷]",
+          "url": "https://v.daum.net/v/20260913190151605",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'생일' 김연아, ♥고우림과 로맨틱 와인 데이트 공개..불꽃축제 직관까지 [핫피플] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/13/HFRDMOJYGM3WCOLEHA3WEOJSGA/",
+          "source": "Chosunbiz",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'피겨 여왕' 술 먹일 수 있는 유일한 남자…♥고우림 '딱 걸렸네'",
+          "url": "https://news.nate.com/view/20260913n14947?mid=e1100",
+          "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "barcelona": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T01:13:00+09:00",
+      "lastSeen": "2026-09-14T01:13:00+09:00",
+      "news": [
+        {
+          "title": "Levante - Barcelona en directo",
+          "url": "https://www.elmundo.es/deportes/futbol/laliga-ea-sports/levante-barcelona/2026/09/13/01_0101_20260913_855_178-directo.html",
+          "source": "El Mundo",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Nuevo gol y una cifra excepcional: Yamal sigue marcando la diferencia con el Barcelona",
+          "url": "https://www.goal.com/es-mx/noticias/nuevo-gol-y-una-cifra-excepcional-yamal-sigue-marcando-la-diferencia-con-el-barcelona/bltfe9f8dac719f07f8",
+          "source": "Goal.com",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "José Félix Díaz, director editorial de AS, será jurado del Balón de Oro",
+          "url": "https://www.prisa.com/jose-felix-diaz-director-editorial-de-as-sera-jurado-del-balon-de-oro/",
+          "source": "Promotora de Informaciones, SA",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "леванте – барселона": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T01:13:00+09:00",
+      "lastSeen": "2026-09-14T01:13:00+09:00",
+      "news": [
+        {
+          "title": "«Леванте» — «Барселона»: где смотреть прямую трансляцию матча Ла Лиги, 13 сентября",
+          "url": "https://matchtv.ru/football/matchtvnews_NI2364842_Levante__Barselona_gde_smotret_pramuju_translaciju_matcha_La_Ligi_13_sentabra",
+          "source": "Матч ТВ",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "«Леванте» — «Барселона»: онлайн-трансляция матча 5-го тура Ла Лиги начнётся в 17:15",
+          "url": "https://www.championat.ru/football/news-6618654-levante-barselona-onlajn-translyaciya-matcha-5-go-tura-la-ligi-2026-2027-nachnetsya-v-17-15-13-sentyabrya-2026.html",
+          "source": "https://www.championat.ru/",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Леванте – Барселона. Смотреть онлайн LIVE прямую видеотрансляцию матча Ла Лиги",
+          "url": "https://www.ua-football.com/foreign/spain/1789285846-levante-barselona-smotret-onlayn-live-pryamuyu-videotranslyaciyu-matcha-la-ligi.html",
+          "source": "UA-Football",
           "date": "2026-09-13"
         }
       ]
@@ -944,6 +1132,12 @@
         "title": "시바이누 94.68% 물량, 808개 지갑에 집중",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94TzZWaE5BWWlOTXlqS1NNMk9lb1MyUmp6SmllR01COGk3aXB1a09VelVPTGN2b2cxU25jbTBuRVpydFV1cjVCWmxvVnZpNHhYZzNCQkZVb0tNSmQxRTJHedIBZkFVX3lxTFBUSjVDcVMwQnZBblY3YzZMakotckxlc1dyQVBPVzBNbGpINGZmSnhYeWM1WF9wZkJWeno2MFpRM3FIaVBJVHVyelI2XzAtOVNXRzBXUlJ1NEZRbGZPYms0bElvcFFoQQ?oc=5",
         "source": "tokenpost.kr",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "\"어정쩡한 자율주행차 안 낸다\"… 현대차, 2029년 자체 AI 승부",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQenphaV9FOVdBRjJoR0hXWFBBQ29uMWJCS2R2czdzVFRaZ1Q5d2MzMWJxNklGUzRpN3ZpeHotbkUtcW5WdXNvYlAtcHVUZWxaWTZvTE84Z0Vtb3hBWXVYcElodVdyNURZazJNYUtpSDNLeWJhQTdEM1pKT29oV2tRX3pfMjZMSldvX3V2RHVzWQ?oc=5",
+        "source": "조선일보",
         "date": "2026-09-13"
       }
     ],
