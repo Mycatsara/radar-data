@@ -2120,10 +2120,10 @@
       ]
     },
     "장인화": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T08:11:00+09:00",
-      "lastSeen": "2026-09-14T08:11:00+09:00",
+      "lastSeen": "2026-09-14T08:39:00+09:00",
       "news": [
         {
           "title": "장인화 임기 6개월 앞으로…연임 도전 시 SWOT 따져보니",
@@ -2166,10 +2166,10 @@
       ]
     },
     "전소미": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T08:11:00+09:00",
-      "lastSeen": "2026-09-14T08:11:00+09:00",
+      "lastSeen": "2026-09-14T08:39:00+09:00",
       "news": [
         {
           "title": "임시완, 벌크업 후 달라진 분위기…직각 어깨+두터워진 팔뚝 '깜짝'",
@@ -2192,10 +2192,10 @@
       ]
     },
     "오늘날씨": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T08:11:00+09:00",
-      "lastSeen": "2026-09-14T08:11:00+09:00",
+      "lastSeen": "2026-09-14T08:39:00+09:00",
       "news": [
         {
           "title": "아침 선선·한낮 더위…이번주 극심한 일교차 조심",
@@ -2213,6 +2213,12 @@
           "title": "중부 구름 많고 충남에 빗방울…큰 일교차 건강 유의",
           "url": "https://www.yna.co.kr/view/AKR20260914003200034",
           "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[날씨] 하루에 두 계절 오가는 초가을 날씨…남부 늦더위",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202609140733499s9",
+          "source": "연합뉴스TV",
           "date": "2026-09-13"
         }
       ]
@@ -2350,6 +2356,163 @@
           "title": "황신혜, “가을옷 입으니 넘 좋당”…밀리터리 룩도 찰떡 소화하는 '방부제 미모'",
           "url": "https://v.daum.net/v/20260912005637500?f=p",
           "source": "Daum",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "real sociedad vs atlético madrid standings": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T08:39:00+09:00",
+      "lastSeen": "2026-09-14T08:39:00+09:00",
+      "news": [
+        {
+          "title": "Real Sociedad vs Atletico Madrid: Spanish La Liga stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/ck1e5j6ydjq1t",
+          "source": "BBC",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Club Atlético de Madrid - Here's our starting XI vs Real Sociedad",
+          "url": "https://en.atleticodemadrid.com/noticias/here-s-our-starting-xi-vs-real-sociedad-13",
+          "source": "Club Atlético de Madrid",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Atlético bench changes the game at Anoeta in 0-3 win",
+          "url": "https://onefootball.com/en/news/atletico-bench-changes-the-game-at-anoeta-in-0-3-win-43455096",
+          "source": "OneFootball",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "김기동": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T08:39:00+09:00",
+      "lastSeen": "2026-09-14T08:39:00+09:00",
+      "news": [
+        {
+          "title": "‘레전드’ 기성용 내친 김기동 감독 판단 결국 옳았다…서울의 압도적 선두 질주에 팬들도 ‘환호’ [오!쎈 전주]",
+          "url": "https://v.daum.net/v/K8tPYLx2T5",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“우승 MVP 아시안컵 출전 다 하고 싶죠” 서울에서 빛나는 정승원, 국가대표 깜짝발탁 있을까? [오!쎈 전주] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/14/202609132246771177O",
+          "source": "머니투데이",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "12호골 넣은 FC서울 클리말라, 득점왕 정조준…\"끝까지 간다\"",
+          "url": "https://www.yna.co.kr/view/AKR20260912044900007",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "정준원": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T08:39:00+09:00",
+      "lastSeen": "2026-09-14T08:39:00+09:00",
+      "news": [
+        {
+          "title": "공효진·정준원, '유부녀 킬러'와 안녕 \"많이 배우고 성장한 작품\"",
+          "url": "https://v.daum.net/v/W9plqIkL7H",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'유부녀 킬러' 신현수, 빌런 아닌 조력자…킬러 캐릭터로 임팩트 선사",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/518139",
+          "source": "iMBC 연예",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "‘유부녀 킬러’ 공효진·정준원·이상이, 벅찬 종영 소감…“영원히 끝나지 않을 작품”",
+          "url": "https://sports.khan.co.kr/article/202609131612003",
+          "source": "스포츠경향",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "문동주": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T08:39:00+09:00",
+      "lastSeen": "2026-09-14T08:39:00+09:00",
+      "news": [
+        {
+          "title": "[런서울런2026] 러닝대회에 한화 이글스 유니폼이? \"문동주 쾌유 빌기 위해 달립니다\"",
+          "url": "https://sports.news.nate.com/view/20260913n06010",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[런서울런2026] 러닝대회에 한화 이글스 유니폼이? “문동주 쾌유 빌기 위해 달립니다”",
+          "url": "https://isplus.com/article/view/isp202609130088",
+          "source": "일간스포츠",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "리노베이션": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T08:39:00+09:00",
+      "lastSeen": "2026-09-14T08:39:00+09:00",
+      "news": [
+        {
+          "title": "A $1.5 Million Renovation Gave Her Atlanta Mansion Main-Character Energy",
+          "url": "https://www.wsj.com/real-estate/luxury-homes/shamea-morton-real-housewives-atlanta-home-7a60c7dc",
+          "source": "WSJ",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "In the age of AI, L.L. Bean is betting big on brick-and-mortar shopping",
+          "url": "https://www.fastcompany.com/91602349/ll-bean-new-flagship-store-design",
+          "source": "Fast Company",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Inside Look at How L.L. Bean is Sticking to its Old School Roots",
+          "url": "https://www.today.com/video/how-ll-bean-is-embracing-its-roots-and-physical-shopping-269788229794",
+          "source": "TODAY.com",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "l g 에너지 솔루션": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T08:39:00+09:00",
+      "lastSeen": "2026-09-14T08:39:00+09:00",
+      "news": []
+    },
+    "f-35a": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T08:39:00+09:00",
+      "lastSeen": "2026-09-14T08:39:00+09:00",
+      "news": [
+        {
+          "title": "F-35: Singapore to Base Most of Its Stealth Fighters in the U.S. & Not in Singapore, Pentagon Report Reveals",
+          "url": "https://www.eurasiantimes.com/f-35-singapore-to-base-most-of-its-stealth-fighters-in-the-u-s-not-in-singapore-pentagon-report-reveals/",
+          "source": "EurAsian Times",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Update: Pentagon report reveals details about Singapore's F-35A/B acquisition",
+          "url": "https://www.janes.com/defence-intelligence-insights/defence-news/defence/update-pentagon-report-reveals-details-about-singapores-f-35ab-acquisition",
+          "source": "Janes",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Pentagon Reveals Singapore Will Keep Most F-35s in the US",
+          "url": "https://aviationa2z.com/index.php/2026/09/12/pentagon-reveals-singapore-will-keep-most-f-35s-in-the-us/",
+          "source": "Aviation A2Z",
           "date": "2026-09-13"
         }
       ]
