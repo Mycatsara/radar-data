@@ -2718,10 +2718,10 @@
       ]
     },
     "벌쏘임": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T09:46:00+09:00",
-      "lastSeen": "2026-09-14T09:46:00+09:00",
+      "lastSeen": "2026-09-14T10:13:00+09:00",
       "news": [
         {
           "title": "\"9월에 특히 조심해야\"…50대 남성 호흡곤란 증상",
@@ -2744,10 +2744,10 @@
       ]
     },
     "afc u-23 아시안컵": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T09:46:00+09:00",
-      "lastSeen": "2026-09-14T09:46:00+09:00",
+      "lastSeen": "2026-09-14T10:13:00+09:00",
       "news": [
         {
           "title": "[아시안게임] '4연패 정조준' 이민성호, 화기애애한 막바지 담금질",
@@ -2770,10 +2770,10 @@
       ]
     },
     "마리야 샤라포바": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T09:46:00+09:00",
-      "lastSeen": "2026-09-14T09:46:00+09:00",
+      "lastSeen": "2026-09-14T10:13:00+09:00",
       "news": [
         {
           "title": "'5억 금목걸이 차고 망사 드레스까지 입었는데...' 사발렌카 US오픈 결승에서 '멘탈붕괴'...100주 만에 세계 1위 빼앗겼다",
@@ -2843,6 +2843,188 @@
           "title": "경기도 '추미애표 청년 주택 모델' 개발 착수...3개월 단기 연구 의뢰",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3694021",
           "source": "국제뉴스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "강성연": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T10:13:00+09:00",
+      "lastSeen": "2026-09-14T10:13:00+09:00",
+      "news": [
+        {
+          "title": "강성연, 의사와 재혼 후 가족여행 떠났다 “우리 가족 더 단단해졌다”[핫피플]",
+          "url": "https://v.daum.net/v/20260914073110025",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'재혼' 강성연, 가족과 캠핑 \"더 단단해졌다\"",
+          "url": "https://www.newsis.com/view/NISX20260914_0003787718",
+          "source": "뉴시스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "강성연, ♥의사와 재혼 하더니 달라진 얼굴 “우리 가족은 더 단단해져”",
+          "url": "https://m.newsen.com/news_view.php?uid=202609140901472310",
+          "source": "뉴스엔",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "신랑": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T10:13:00+09:00",
+      "lastSeen": "2026-09-14T10:13:00+09:00",
+      "news": [
+        {
+          "title": "\"예비 신랑이 학폭 가해자였어요\"…'6년 연애' 연하남과 결혼 앞둬 고민",
+          "url": "https://www.news1.kr/society/general-society/6288873",
+          "source": "뉴스1",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "\"6년 만난 남친이 학폭 가해자였어요\"…결혼 앞둔 여성의 고민 [어떻게 생각하세요]",
+          "url": "https://v.daum.net/v/20260914082844307",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "류화영, 결혼식 사진 공개 \"흔들���까지도 함께 품으며…단단하게 걸어갈 것\"",
+          "url": "https://v.daum.net/v/20260914092103362",
+          "source": "Daum",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "폴란드": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T10:13:00+09:00",
+      "lastSeen": "2026-09-14T10:13:00+09:00",
+      "news": [
+        {
+          "title": "러, 폴란드 2㎞ 앞 공습…영국·스웨덴 전 총리 탄 열차 맞을뻔(종합)",
+          "url": "https://v.daum.net/v/20260914030352306",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "날개 연료탱크 달고, AI로 교란 피해… 탄도미사일 뺨친 우크라 드론",
+          "url": "https://www.chosun.com/international/international_general/2026/09/14/WSZOTVTQQNABPGRGZVWN5KBUHA/",
+          "source": "조선일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "러, 폴란드 코앞 철도���설 공습…우크라 \"EU·나토 겨냥하나\"",
+          "url": "https://www.yna.co.kr/view/AKR20260913060600108",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "차상현": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T10:13:00+09:00",
+      "lastSeen": "2026-09-14T10:13:00+09:00",
+      "news": [
+        {
+          "title": "[아시안게임] 메달 기대주 ㉙배구 허수봉·강소휘",
+          "url": "https://www.yna.co.kr/view/AKR20260912024800007",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[2026 아시안게임]여자 배구 대표팀 결전지 나고야로…“독한 마음으로 좋은 결과 낼 것”",
+          "url": "https://v.daum.net/v/20260913131207072",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "강소휘가 꺼낸 ‘치욕’의 기억…“이번에 기필코 복수한다”",
+          "url": "https://www.seoul.co.kr/news/sport/volleyball/2026/09/14/20260914500004",
+          "source": "서울신문",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "노벨상": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T10:13:00+09:00",
+      "lastSeen": "2026-09-14T10:13:00+09:00",
+      "news": [
+        {
+          "title": "노벨상 125년…'발견'의 경계가 흔들린다[125년 노벨상 시대를 담다]",
+          "url": "https://www.asiae.co.kr/article/2026091408242758572",
+          "source": "아시아경제",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[125년 노벨상 시대를 담다]①발견은 수천명, 영광은 왜 3명뿐일까",
+          "url": "https://v.daum.net/v/20260914063127062",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“美 물러난 지금, 韓 GDP 두배 될 기회” 노벨상 수상자의 조언",
+          "url": "https://v.daum.net/v/20260914050238106",
+          "source": "Daum",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "허준이": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T10:13:00+09:00",
+      "lastSeen": "2026-09-14T10:13:00+09:00",
+      "news": [
+        {
+          "title": "필즈상 25인 “AI가 난제 해결, 수학 연구에 해 끼쳐”",
+          "url": "https://www.donga.com/news/Economy/article/all/20260914/134660146/2",
+          "source": "동아일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "허준이 등 필즈상 수상자들 \"AI가 난제 해결, 지적 노동 위협\" 경고 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/14/2026091409040116184",
+          "source": "머니투데이",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "\"수학 벤치마크하는 AI, 심각하���\" [지금은 과학]",
+          "url": "https://v.daum.net/v/20260913123443391",
+          "source": "Daum",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "이성주": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T10:13:00+09:00",
+      "lastSeen": "2026-09-14T10:13:00+09:00",
+      "news": [
+        {
+          "title": "MBC 신임 사장에 이성주 iMBC 이사 내정",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6851497_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "“정치 염두 두면 MBC 망가져”…MBC 차기 사장에 ‘기자 출신’ 이성주 내정",
+          "url": "https://www.kyeonggi.com/article/20260913580353",
+          "source": "경기일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "이성주, MBC 차기 사장으로 최종 내정",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337076",
+          "source": "미디어오늘",
           "date": "2026-09-13"
         }
       ]
