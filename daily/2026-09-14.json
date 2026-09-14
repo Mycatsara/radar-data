@@ -3638,10 +3638,10 @@
       ]
     },
     "2호선": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-14T13:13:00+09:00",
-      "lastSeen": "2026-09-14T13:13:00+09:00",
+      "lastSeen": "2026-09-14T13:43:00+09:00",
       "news": [
         {
           "title": "[속보] '단전' 서울 지하철 2호선 신림~대림 구간 운행 재개",
@@ -3664,10 +3664,10 @@
       ]
     },
     "임금": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-14T13:13:00+09:00",
-      "lastSeen": "2026-09-14T13:13:00+09:00",
+      "lastSeen": "2026-09-14T13:43:00+09:00",
       "news": [
         {
           "title": "구리시, 내년 생활임금 1만1천490원…0.9%↑",
@@ -3690,10 +3690,10 @@
       ]
     },
     "장현식": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-14T13:13:00+09:00",
-      "lastSeen": "2026-09-14T13:13:00+09:00",
+      "lastSeen": "2026-09-14T13:43:00+09:00",
       "news": [
         {
           "title": "‘초구 아웃-초구 아웃-초구 아웃’ 공 3개로 1이닝 삼자범퇴 실화냐…52억 투수 장현식, 3경기 연속 무실점",
@@ -3763,6 +3763,169 @@
           "title": "United Arab Emirates tour of Malaysia - T20 -",
           "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072009989/united-arab-emirates-tour-of-malaysia-t20-1",
           "source": "Cricketnmore",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "송영길": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T13:43:00+09:00",
+      "lastSeen": "2026-09-14T13:43:00+09:00",
+      "news": [
+        {
+          "title": "“노무현 탄핵 전조와 비슷”…김민석, ‘당내 李 비판’에 경고장",
+          "url": "https://v.daum.net/v/20260914091607096",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "김민석, '대통령 작심비판' 추미애에 \"당 중진 발언 맞나‥본인 설명 필요\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6851628_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "김민석, 與강경파 李비판에 \"지금은 힘 모아줄 때… 盧 탄핵 전조 비슷\" - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/09/14/2026091410043467725",
+          "source": "머니투데이",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "신현준": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T13:43:00+09:00",
+      "lastSeen": "2026-09-14T13:43:00+09:00",
+      "news": [
+        {
+          "title": "'천국의 계단' 덕 '인기 폭발' 신현준, 페루 팬 미팅 성료…아르헨티나도 간다",
+          "url": "https://v.daum.net/v/20260914122400807",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "페루서 난리 난 한국 배우…신현준, 현지 공항 마비 시켰다",
+          "url": "https://www.hankyung.com/article/202609142065H",
+          "source": "한국경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "‘디워’부터 ‘천국의 계단’까지, 20년 전 K콘텐츠, 해외서 다시 뜬다",
+          "url": "https://sports.donga.com/ent/article/all/20260913/134656887/1",
+          "source": "스포츠동아",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "경찰 계급": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T13:43:00+09:00",
+      "lastSeen": "2026-09-14T13:43:00+09:00",
+      "news": [
+        {
+          "title": "[단독]경찰 계급정년 늘린다…경정 14→18년, 총경 11→12년 추진",
+          "url": "https://www.newsis.com/view/NISX20260914_0003787730",
+          "source": "뉴시스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "28년 묵은 경찰 계급정년 손보나…경정 14년→18년 추진",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260914010005101",
+          "source": "아시아투데이",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[단독]경찰 계급정년 늘린다…경정 14→18년, 총경 11→12년 추진",
+          "url": "https://www.segye.com/newsView/20260914503925?OutUrl=google",
+          "source": "세계일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "미래에셋": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T13:43:00+09:00",
+      "lastSeen": "2026-09-14T13:43:00+09:00",
+      "news": [
+        {
+          "title": "KRX 애프터마켓 첫 개장 앞두고 주요 증권사 잇단 전산장애(종합)",
+          "url": "https://v.daum.net/v/20260914120449296",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "퇴근 후에도 주식거래...KRX 애프터마켓 오늘부터 오픈",
+          "url": "https://www.ytn.co.kr/_ln/0102_202609140808117463",
+          "source": "YTN",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "미래에셋증권, 프리마켓 체결조회 지연처리…\"NXT측 파일 문제\"",
+          "url": "https://www.yna.co.kr/view/AKR20260914027300008",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "코리아세븐": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T13:43:00+09:00",
+      "lastSeen": "2026-09-14T13:43:00+09:00",
+      "news": [
+        {
+          "title": "\"100개 한 번에 발주\"…30세 세븐일레븐 점주가 1년 만에 매출 40%↑ 비결",
+          "url": "https://v.daum.net/v/20260914070130527",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "세븐일레븐, 매일유업 '소화가잘되는우유' 활용 생크림빵 출시",
+          "url": "https://www.yna.co.kr/view/AKR20260913012900030",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "돌고돌아 ‘아는 맛’으로…편의점 디저트, 기본기 경쟁 중",
+          "url": "https://mbiz.heraldcorp.com/article/10872384",
+          "source": "헤럴드경제",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "도시 재개발": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T13:43:00+09:00",
+      "lastSeen": "2026-09-14T13:43:00+09:00",
+      "news": []
+    },
+    "헌법재판소": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T13:43:00+09:00",
+      "lastSeen": "2026-09-14T13:43:00+09:00",
+      "news": [
+        {
+          "title": "재판소원 6개월, 본안사건 절반이 ‘절차 위법성’ 다퉈…‘항소 각하’가 대부분",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1277606.html",
+          "source": "한겨레",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'재판소원 6개월' 헌재에 쏟아진 2000건…사전심사 통과 단 1%",
+          "url": "https://v.daum.net/v/20260912063203183",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "행정재판에 대한 재판소원에서의 실무상 쟁점",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226299",
+          "source": "법률신문",
           "date": "2026-09-14"
         }
       ]
