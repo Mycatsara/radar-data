@@ -3780,10 +3780,10 @@
       ]
     },
     "송영길": {
-      "count": 3,
-      "maxTraffic": 1000,
+      "count": 4,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-14T13:43:00+09:00",
-      "lastSeen": "2026-09-14T14:41:00+09:00",
+      "lastSeen": "2026-09-14T15:19:00+09:00",
       "news": [
         {
           "title": "“노무현 탄핵 전조와 비슷”…김민석, ‘당내 李 비판’에 경고장",
@@ -3979,10 +3979,10 @@
       ]
     },
     "인공지능": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-14T14:12:00+09:00",
-      "lastSeen": "2026-09-14T14:41:00+09:00",
+      "lastSeen": "2026-09-14T15:19:00+09:00",
       "news": [
         {
           "title": "“그러다 중국이 앞서가면요?”…‘AI 개발 늦추자’는 아모데이 답변은 [이런뉴스]",
@@ -4017,10 +4017,10 @@
       ]
     },
     "제넨셀": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-14T14:12:00+09:00",
-      "lastSeen": "2026-09-14T14:41:00+09:00",
+      "lastSeen": "2026-09-14T15:19:00+09:00",
       "news": [
         {
           "title": "\"피 토하고 폐 비대\" 충격 결과…숨기고 승인해 93명 '생체 실험'",
@@ -4045,21 +4045,27 @@
           "url": "https://www.news1.kr/politics/assembly/6289787",
           "source": "뉴스1",
           "date": "2026-09-14"
+        },
+        {
+          "title": "김승원 ‘식약처 로비’ 코로나 치료제, 93명에 실제 투약됐다",
+          "url": "https://www.chosun.com/politics/politics_general/2026/09/14/IVZ6IJIQRNGMLD2EYOR2F3Z7BY/",
+          "source": "조선일보",
+          "date": "2026-09-14"
         }
       ]
     },
     "공천포": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T14:12:00+09:00",
-      "lastSeen": "2026-09-14T14:41:00+09:00",
+      "lastSeen": "2026-09-14T15:19:00+09:00",
       "news": []
     },
     "여객기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-14T14:41:00+09:00",
-      "lastSeen": "2026-09-14T14:41:00+09:00",
+      "lastSeen": "2026-09-14T15:19:00+09:00",
       "news": [
         {
           "title": "“덩치 커봤자 밥이나 축내죠”…애물단지 취급받는 세계최대 여객기",
@@ -4078,14 +4084,20 @@
           "url": "https://imnews.imbc.com/news/2026/world/article/6851632_36925.html",
           "source": "MBC 뉴스",
           "date": "2026-09-14"
+        },
+        {
+          "title": "9·11 25주년, 美 前대통령 진영 넘어 한자리에",
+          "url": "https://www.donga.com/news/People/article/all/20260914/134660306/2",
+          "source": "동아일보",
+          "date": "2026-09-14"
         }
       ]
     },
     "sk텔레콤": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T14:41:00+09:00",
-      "lastSeen": "2026-09-14T14:41:00+09:00",
+      "lastSeen": "2026-09-14T15:19:00+09:00",
       "news": [
         {
           "title": "\"통째로 빌렸다\"…SKT 장기고객 3000명 모인 롯데월드 가보니",
@@ -4103,6 +4115,122 @@
           "title": "[르포]\"모두가 잠든 시간, 놀이기구 타니 신나요\"…SKT '어드벤처 데이'",
           "url": "https://v.daum.net/v/20260914090127416",
           "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "“SKT 10년 이상 쓰신 분 찾아요”...롯데월드 통으로 빌렸는데, 시간이?",
+          "url": "https://www.mk.co.kr/news/it/12151826",
+          "source": "매일경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "SKT, 장기고객 초청 롯데월드 심야대관 행사 성료",
+          "url": "https://www.etnews.com/20260914000328",
+          "source": "전자신문",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "대형주": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T15:19:00+09:00",
+      "lastSeen": "2026-09-14T15:19:00+09:00",
+      "news": [
+        {
+          "title": "중동 불안에 AI 속도조절론까지‥코스피 하락세",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6851655_36967.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'유가 급등' 고물가에 미 통화정책까지⋯한은 긴축 보폭 넓히나",
+          "url": "https://v.daum.net/v/20260914144703905",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "AI 개발 둔화 우려에 아시아 증시 하락…유가 급등으로 금리 리스크 고조",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2092716",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "세무조사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T15:19:00+09:00",
+      "lastSeen": "2026-09-14T15:19:00+09:00",
+      "news": [
+        {
+          "title": "한국서 돈 벌고 세금은 탈루? 배달의민족 등 41개 업체 세무조사",
+          "url": "https://v.daum.net/v/20260914150413014",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'물가 불안' 부추긴 배민·무신사·풀무원 등 조사…1조 탈루 혐의(종합2보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434741",
+          "source": "연합인포맥스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "국세청, '물가 불안 조장 탈세' 혐의 배민 등 41곳 세무조사",
+          "url": "https://www.yna.co.kr/view/AKR20260914080000002",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "이봉주": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T15:19:00+09:00",
+      "lastSeen": "2026-09-14T15:19:00+09:00",
+      "news": [
+        {
+          "title": "“포기 안하면 언젠가 이긴다” 이봉주, 하프마라톤 완주",
+          "url": "https://v.daum.net/v/20260914100651716?f=p",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "완만한 아라뱃길 주로 위로 5천여 명 질주… '제6회 계란 마라톤 대회' 성황리 개최",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=715636",
+          "source": "뉴스타운",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "이봉주·임은주와 함께 5000명 '계란마라톤' 참가…인천 정서진 노란 물결 뒤덮어",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=853623",
+          "source": "뉴스웍스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "배우": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-14T15:19:00+09:00",
+      "lastSeen": "2026-09-14T15:19:00+09:00",
+      "news": [
+        {
+          "title": "손예진 \"아들, 배우 안 하기도 힘든 얼굴\"",
+          "url": "https://www.newsis.com/view/NISX20260913_0003787535",
+          "source": "뉴시스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "사람사는거 안 똑같네..손예진♥현빈's 냉장고 최초공개 '고급재료' 가득",
+          "url": "https://v.daum.net/v/1q0q3Zvmly",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'냉부해2' 손예진, 연예인급 외모의 子 공개 \"배우 안하기 힘들어\"",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3693610",
+          "source": "국제뉴스",
           "date": "2026-09-14"
         }
       ]
