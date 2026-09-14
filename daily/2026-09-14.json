@@ -4812,10 +4812,10 @@
       ]
     },
     "미국 공군": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-14T18:43:00+09:00",
-      "lastSeen": "2026-09-14T18:43:00+09:00",
+      "lastSeen": "2026-09-14T19:14:00+09:00",
       "news": [
         {
           "title": "이란서 격추뒤 구출된 美장교 “낙하산 훼손돼 시속 160㎞로 추락”",
@@ -4838,10 +4838,10 @@
       ]
     },
     "항공편명": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T18:43:00+09:00",
-      "lastSeen": "2026-09-14T18:43:00+09:00",
+      "lastSeen": "2026-09-14T19:14:00+09:00",
       "news": [
         {
           "title": "통합 100일 앞두고 제주서 ‘원팀’… 대한항공·아시아나, 남은 건 사람·좌석·신뢰",
@@ -4864,10 +4864,10 @@
       ]
     },
     "신병": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T18:43:00+09:00",
-      "lastSeen": "2026-09-14T18:43:00+09:00",
+      "lastSeen": "2026-09-14T19:14:00+09:00",
       "news": [
         {
           "title": "“로또 당첨 급” 한가인 등장에 뒤집어져…‘신병4’ 김동준 판박이 친누나",
@@ -5041,6 +5041,188 @@
           "title": "휴스턴과 67억은 없는 일, 대신 7억 받는 와이스…부인 헤일리는 \"한국 그립다\"",
           "url": "https://news.jtbc.co.kr/article/NB12317930",
           "source": "JTBC",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "차준환": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T19:14:00+09:00",
+      "lastSeen": "2026-09-14T19:14:00+09:00",
+      "news": [
+        {
+          "title": "차준환·서수민, 로이킴 ‘스파클’ MV 주인공…서점서 그린 청춘 로맨스",
+          "url": "https://www.viva100.com/article/20260914500410",
+          "source": "브릿지경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'피겨왕자' 차준환, 연기 도전…로이킴 '스파클' MV서 '김부장 딸' 서수민과 풋풋 로맨스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751937",
+          "source": "SBS 뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "로이킴, ‘J-POP REMAKE’ 프로젝트 음원 ‘스파클’ 발매",
+          "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1055660",
+          "source": "내외뉴스통신",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "비행기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T19:14:00+09:00",
+      "lastSeen": "2026-09-14T19:14:00+09:00",
+      "news": [
+        {
+          "title": "美 공화 의원, 탑승 비행기 호수에 비상착륙하자 헤엄쳐 탈출",
+          "url": "https://www.yna.co.kr/view/AKR20260914001900072",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'트럼프픽' 美주지사 후보 경비행기 호수 추락…\"헤엄쳐 탈출\"",
+          "url": "https://v.daum.net/v/20260914082845311",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "친 트럼프 성향 미국 공화당 의원 탄 비행기, 호수에 비상 착륙...2명 경상",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609140620540284",
+          "source": "YTN",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "문현빈": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T19:14:00+09:00",
+      "lastSeen": "2026-09-14T19:14:00+09:00",
+      "news": [
+        {
+          "title": "'무섭다' 한화에 거포 유망주 왜 이렇게 많은거야…국가대표 좌완에 홈런포 폭발, 1차지명 잠재력 드디어 터진다",
+          "url": "https://v.daum.net/v/1HSLEHEoTB?f=p",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "\"지켜보세요. 주전들과 경쟁합니다\" 한화 2027 모드돌입, 노시환 문현빈 AG 빈자리에서 우타 거포 트리오 키운다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/14/202609140909773092O",
+          "source": "머니투데이",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "밀어서 몬스터월 넘긴 한지윤, 김경문 감독도 이례적 극찬 “어리지만 소질있다”",
+          "url": "https://www.hankooki.com/news/articleView.html?idxno=343103",
+          "source": "한국아이닷컴",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "연방공개시장위원회": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-14T19:14:00+09:00",
+      "lastSeen": "2026-09-14T19:14:00+09:00",
+      "news": [
+        {
+          "title": "XRP 최악 시나리오는 '클래리티 부결·FOMC 금리 충격'",
+          "url": "https://www.g-enews.com/article/Securities/2026/09/202609141102537959e250e8e188_1",
+          "source": "글로벌이코노믹",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "클래리티 법 좌초 위기에 '윤리 조항' 넣은 공화당…연내 입법 '청신호'",
+          "url": "https://www.news1.kr/finance/blockchain-fintech/6290051",
+          "source": "뉴스1",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "美 가상자산법 15일 분수령…스테이블코인 보상 놓고 막판 진통",
+          "url": "https://www.etnews.com/20260914000288",
+          "source": "전자신문",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "28 일 임시 공휴일": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T19:14:00+09:00",
+      "lastSeen": "2026-09-14T19:14:00+09:00",
+      "news": [
+        {
+          "title": "\"28일 월요일도 쉬나요\"…짧은 추석 연휴 '임시공휴일' 기대감 크지만",
+          "url": "https://v.daum.net/v/20260914075849573",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "\"28일 임시공휴일로\" 추석 '황금연휴' 목청…경제적 득실 따져보니",
+          "url": "https://economist.co.kr/article/view/ecn202609140018",
+          "source": "이코노미스트",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "\"이번 추석 너무 짧아, 월요일도 쉬자\"…28일 임시공휴일 깜짝 발표 기대감",
+          "url": "https://view.asiae.co.kr/article/2026091408405521767",
+          "source": "아시아경제",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "하마오카 원자력 발전소": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T19:14:00+09:00",
+      "lastSeen": "2026-09-14T19:14:00+09:00",
+      "news": [
+        {
+          "title": "원전 빨리 재가동하려고 '지진 데이터'까지 조작…경영진 사임 [도쿄나우]",
+          "url": "https://www.hankyung.com/article/202609142878i",
+          "source": "한국경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "日 주부전력, 하마오카 원전 3·4호기 재가동 신청 철회",
+          "url": "https://www.newsis.com/view/NISX20260914_0003789167",
+          "source": "뉴시스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "주부전력, 하마오카원전 재가동 심사 신청 취하키로 최종 조율",
+          "url": "https://www3.nhk.or.jp/nhkworld/ko/news/20260911de49730/",
+          "source": "NHKニュース",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "물": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-14T19:14:00+09:00",
+      "lastSeen": "2026-09-14T19:14:00+09:00",
+      "news": [
+        {
+          "title": "수공, 필리핀 뉴클락시티 물 인프라 사업 우선협상대상자 선정",
+          "url": "https://v.daum.net/v/20260914161853852",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "수자원공사, 필리핀 물 인프라 사업 `우선협상대상자` 선정",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260914.99099004509",
+          "source": "국제신문",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "수자원공사, 필리핀서 3500억원 규모 물 인프라 수주 ‘눈앞’",
+          "url": "https://news.mtn.co.kr/news-detail/2026091415584873813",
+          "source": "MTN 머니투데이방송",
           "date": "2026-09-14"
         }
       ]
