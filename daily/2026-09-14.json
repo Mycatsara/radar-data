@@ -3342,10 +3342,10 @@
       ]
     },
     "휴대 전화": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T12:13:00+09:00",
-      "lastSeen": "2026-09-14T12:43:00+09:00",
+      "lastSeen": "2026-09-14T13:13:00+09:00",
       "news": [
         {
           "title": "애플의 운명은 Duo가 결정하지 않는다",
@@ -3370,14 +3370,20 @@
           "url": "https://www.koreadaily.com/article/20260913130041492",
           "source": "미주중앙일보",
           "date": "2026-09-14"
+        },
+        {
+          "title": "\"앞에 조심해!\"...휴대전화 보다 구멍으로 '푹' [나우쇼츠]",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609141226134651",
+          "source": "YTN",
+          "date": "2026-09-14"
         }
       ]
     },
     "브룩스 레일리": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T12:13:00+09:00",
-      "lastSeen": "2026-09-14T12:43:00+09:00",
+      "lastSeen": "2026-09-14T13:13:00+09:00",
       "news": [
         {
           "title": "\"뭐가 문제인지 모르겠다\" 다시 한국 와야 하나, 철벽 불펜이 급추락하다니…ERA 1.96→6.97 '트레이드 대실패'",
@@ -3542,10 +3548,10 @@
       ]
     },
     "이정후": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-14T12:43:00+09:00",
-      "lastSeen": "2026-09-14T12:43:00+09:00",
+      "lastSeen": "2026-09-14T13:13:00+09:00",
       "news": [
         {
           "title": "이정후, 5타수 무안타 타율 0.276↓…송성문 대수비 출전",
@@ -3564,14 +3570,20 @@
           "url": "https://v.daum.net/v/uhJriXDgvd?f=p",
           "source": "Daum",
           "date": "2026-09-14"
+        },
+        {
+          "title": "땅볼-땅볼-뜬공-땅볼-땅볼...5타수 무안타 이정후, 타율 .276 수직 낙하...송성문 대수비-SD는 7연승 [SF 리뷰]",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/14/GE2DKYJYGQ4TKYJUHA4WINZYMM/",
+          "source": "조선일보",
+          "date": "2026-09-14"
         }
       ]
     },
     "브루노마스 내한": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-14T12:43:00+09:00",
-      "lastSeen": "2026-09-14T12:43:00+09:00",
+      "lastSeen": "2026-09-14T13:13:00+09:00",
       "news": [
         {
           "title": "[잇슈 컬처] 브루노 마스 내한 공연, 추가 개최 “예매 열기 반영”",
@@ -3590,14 +3602,20 @@
           "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6851584_37012.html",
           "source": "MBC 뉴스",
           "date": "2026-09-14"
+        },
+        {
+          "title": "[잇슈 컬처] 브루노 마스 내한 공연, 추가 개최 “예매 열기 반영”",
+          "url": "https://v.daum.net/v/20260914072049855",
+          "source": "Daum",
+          "date": "2026-09-14"
         }
       ]
     },
     "kt": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T12:43:00+09:00",
-      "lastSeen": "2026-09-14T12:43:00+09:00",
+      "lastSeen": "2026-09-14T13:13:00+09:00",
       "news": [
         {
           "title": "58% of Korean Companies Utilize AI, with 81% Reporting Higher Productivity",
@@ -3615,6 +3633,136 @@
           "title": "KT publishes 'AX Insights Report' analyzing challenges in finance, public sectors",
           "url": "https://www.digitaltoday.co.kr/en/view/102921/kt-publishes-ax-insights-report-analyzing-challenges-in-finance-and-public-sectors",
           "source": "디지털투데이",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "2호선": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T13:13:00+09:00",
+      "lastSeen": "2026-09-14T13:13:00+09:00",
+      "news": [
+        {
+          "title": "[속보] '단전' 서울 지하철 2호선 신림~대림 구간 운행 재개",
+          "url": "https://v.daum.net/v/20260914123443979",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "서울 지하철 2호선 일부 구간 단전…20여분 운행 차질",
+          "url": "https://www.yna.co.kr/view/AKR20260914086600004",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "서울 지하철 2호선, 정전으로 한때 멈춰…운행 재개",
+          "url": "https://www.newsis.com/view/NISX20260914_0003788402",
+          "source": "뉴시스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "임금": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T13:13:00+09:00",
+      "lastSeen": "2026-09-14T13:13:00+09:00",
+      "news": [
+        {
+          "title": "구리시, 내년 생활임금 1만1천490원…0.9%↑",
+          "url": "https://v.daum.net/v/20260914095754173",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "올해보다 290원 인상… 부천시, 내년 생활임금 1만2430원 확정 - 머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/09/14/2026091411265910704",
+          "source": "머니투데이",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "경기 광주시, 2027년 생활임금 시급 1만1천970원 확정…역대 최대 6.5%↑",
+          "url": "https://www.kyeonggi.com/article/20260913580258",
+          "source": "경기일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "장현식": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T13:13:00+09:00",
+      "lastSeen": "2026-09-14T13:13:00+09:00",
+      "news": [
+        {
+          "title": "‘초구 아웃-초구 아웃-초구 아웃’ 공 3개로 1이닝 삼자범퇴 실화냐…52억 투수 장현식, 3경기 연속 무실점",
+          "url": "https://v.daum.net/v/20260914043037481",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "3위는 지킨다…LG 라인업 공개, 오지환-박동원-홍창기, 7~9번 출장, 임찬규 14승 도전",
+          "url": "https://www.osen.co.kr/article/G1112874849",
+          "source": "OSEN",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "14억 김강률은 복귀, 52억 장현식은 왜 아직인가…염경엽 \"공이 안 좋다고 하더라\"",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/12/MYZWEYLFHE2DQMJQHBRGIODBGU/",
+          "source": "조선일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "오인혜": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T13:13:00+09:00",
+      "lastSeen": "2026-09-14T13:13:00+09:00",
+      "news": [
+        {
+          "title": "사망 전날에도 웃으며 소통했는데…故 오인혜, 오늘(14일) 먹먹한 6주기",
+          "url": "https://v.daum.net/v/20260914081048848",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "故오인혜, 오늘 6주기…못다 피운 연기의 꿈",
+          "url": "https://www.newsis.com/view/NISX20260914_0003787631",
+          "source": "뉴시스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "배우 故오인혜, 갑작스런 사망…오늘(14일) 6주기",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16192285",
+          "source": "톱스타뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "malaysia vs uae": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T13:13:00+09:00",
+      "lastSeen": "2026-09-14T13:13:00+09:00",
+      "news": [
+        {
+          "title": "Shree Charani finished with figures of 4 for 20",
+          "url": "https://www.cricinfo.com/photo/shree-charani-finished-with-figures-of-4-for-20-1554149",
+          "source": "Cricinfo",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "Match Predictions: UAE Tour of Malaysia 2026 - 1st T20I Match - Malaysia vs UAE - September 14th",
+          "url": "https://www.cricketworld.com/match-predictions-uae-tour-of-malaysia-2026-1st-t20i-match-malaysia-vs-uae-september-14th/113262.htm",
+          "source": "Cricket World",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "United Arab Emirates tour of Malaysia - T20 -",
+          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072009989/united-arab-emirates-tour-of-malaysia-t20-1",
+          "source": "Cricketnmore",
           "date": "2026-09-14"
         }
       ]
