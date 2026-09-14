@@ -711,10 +711,10 @@
       ]
     },
     "마리야 샤라포바": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T07:13:00+09:00",
-      "lastSeen": "2026-09-15T07:13:00+09:00",
+      "lastSeen": "2026-09-15T07:42:00+09:00",
       "news": []
     },
     "클래리티 법안": {
@@ -744,10 +744,10 @@
       ]
     },
     "백신": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-15T07:13:00+09:00",
-      "lastSeen": "2026-09-15T07:13:00+09:00",
+      "lastSeen": "2026-09-15T07:42:00+09:00",
       "news": [
         {
           "title": "\"9월인데 벌써? 겨울철 유행 공식 깨졌다\"… 트윈데믹에 병원·약국가 '분주'",
@@ -770,10 +770,10 @@
       ]
     },
     "삼성물산": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-15T07:13:00+09:00",
-      "lastSeen": "2026-09-15T07:13:00+09:00",
+      "lastSeen": "2026-09-15T07:42:00+09:00",
       "news": [
         {
           "title": "\"번 돈 국민과 나누겠다\" 5조 환원 약속한 삼성, 추석 앞두고 '1.3조' 쐈다",
@@ -792,14 +792,26 @@
           "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=311175",
           "source": "스트레이트뉴스",
           "date": "2026-09-14"
+        },
+        {
+          "title": "이재용·최태원·정의선·구광모 '상생경영 앞장'...삼성·SK·현대차·LG, 추석 명절 앞두고 협력사 남품대금 조기 지급",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=350057",
+          "source": "녹색경제신문",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "HS화성, 추석 전 협력업체 216곳에 공사대금 280억 조기 지급",
+          "url": "https://www.yna.co.kr/view/AKR20260914090800053",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
         }
       ]
     },
     "통합특별시": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-15T07:13:00+09:00",
-      "lastSeen": "2026-09-15T07:13:00+09:00",
+      "lastSeen": "2026-09-15T07:42:00+09:00",
       "news": [
         {
           "title": "전남광주 조직개편 수정안 15일 재심사…의회 문턱 넘을까",
@@ -817,6 +829,18 @@
           "title": "광주 남구, ‘비전실현·행정변화’ 대응 조직개편",
           "url": "https://news.mtn.co.kr/news-detail/2026091117473064366",
           "source": "MTN 머니투데이방송",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "전남광주시 지방채 초과발행 '불똥' 교육청 전입금에 튀어",
+          "url": "https://v.daum.net/v/20260914112222336",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "전남광주교육청 11월 인건비 '빨간불'…교육전입금 또 못받을 듯",
+          "url": "https://www.yna.co.kr/view/AKR20260914127900054",
+          "source": "연합뉴스",
           "date": "2026-09-14"
         }
       ]
@@ -869,6 +893,162 @@
           "title": "\"중국인 몰려도 내국인 등돌린 제주…외곽 자영업 연쇄 폐업 위기\"",
           "url": "https://www.newsis.com/view/NISX20260908_0003780643",
           "source": "뉴시스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "김동현": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T07:42:00+09:00",
+      "lastSeen": "2026-09-15T07:42:00+09:00",
+      "news": [
+        {
+          "title": "'넷째 임신' 김동현, 반포 60평 '반전세' 아파트서 또 이사 \"그만 가고파\"",
+          "url": "https://v.daum.net/v/GRuVktWIWu",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'아이넷父' 김동현, 돈 열심히 모았나..'60평 반전세'에서 또 이사→\"이젠 오래 살아야\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-14/202609140100098990006442",
+          "source": "스포츠조선",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'애넷父' 김동현, 반포 60평 반전세 또 이사…\"막둥이와 오래 살아야\" ('동현이넷')",
+          "url": "https://www.tenasia.co.kr/article/2026091442534",
+          "source": "텐아시아",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "선박": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-15T07:42:00+09:00",
+      "lastSeen": "2026-09-15T07:42:00+09:00",
+      "news": [
+        {
+          "title": "이란, 호르무즈 해협 제재 선박 77척으로 확대…한국 선사 선박도 포함",
+          "url": "https://v.daum.net/v/HJhyzgRfjd",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "이란, '호르무즈 통항 규정 위반' 선박 추가…77척으로 늘어",
+          "url": "https://www.yna.co.kr/view/AKR20260914169600079",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "이란, '호르무즈 통항 규정 위반' 선박 77척으로 확대…\"명단 추가 가능성\"",
+          "url": "https://www.newsis.com/view/NISX20260914_0003789263",
+          "source": "뉴시스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "농심 신라면배 세계바둑 최강전": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T07:42:00+09:00",
+      "lastSeen": "2026-09-15T07:42:00+09:00",
+      "news": [
+        {
+          "title": "\"아직 신진서도 안 나왔다!\"…4명 생존한 韓, 7연패 보인다",
+          "url": "https://v.daum.net/v/20260914180000651",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "유키 사토시, 4연승…유창혁 출격 대기",
+          "url": "https://www.cyberoro.com/news/news_view.oro?num=532800",
+          "source": "사이버오로",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "유키 9단, 4연승 질주…일본, 농심백산수배 깜짝 선두",
+          "url": "https://www.yna.co.kr/view/AKR20260914101800007",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "inter vs udinese": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T07:42:00+09:00",
+      "lastSeen": "2026-09-15T07:42:00+09:00",
+      "news": [
+        {
+          "title": "Chivu welcomes Inter intensity and 5-3 Serie A victory, but ‘nobody’s perfect’",
+          "url": "https://football-italia.net/chivu-welcomes-inter-intensity-and-5-3-serie-a/",
+          "source": "Football Italia",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "(LIVESTREAMs!) Udinese vs Inter Soccer Match Live stream",
+          "url": "https://www.santeestrie.qc.ca/typo3conf/ext/wrs_pannellum/Resources/Public/Vendor/pannellum/pannellum.htm?config=/%5C%2Fantstream4k.online%2Fgithub%2Fudinese-vs-inter-liv-tv-756",
+          "source": "www.santeestrie.qc.ca",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "Five-star Inter pulls off stunning comeback",
+          "url": "https://www.beinsports.com/en-au/football/serie-a/articles-video/five-star-inter-pulls-off-stunning-comeback-2026-09-14",
+          "source": "beIN SPORTS",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "leeds vs newcastle": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T07:42:00+09:00",
+      "lastSeen": "2026-09-15T07:42:00+09:00",
+      "news": [
+        {
+          "title": "Leeds vs Newcastle Confirmed Lineups",
+          "url": "https://www.whoscored.com/news/UTZcdoAA5US7CjJh6rCTGw/show/20260914-leeds-vs-newcastle-confirmed-lineup-1789408656",
+          "source": "WhoScored.com",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "GOAL! Calvert-Lewin makes it two!",
+          "url": "https://www.nytimes.com/athletic/live-blogs/leeds-vs-newcastle-live-updates-premier-league-score-result/26fITQs9mbRr/0SU3JXI9ntRM/",
+          "source": "The New York Times",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "Leeds 4-1 Newcastle: How the players rated",
+          "url": "https://www.bbc.com/sport/football/articles/c3j4jqzprw8zo",
+          "source": "BBC",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "후티": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T07:42:00+09:00",
+      "lastSeen": "2026-09-15T07:42:00+09:00",
+      "news": [
+        {
+          "title": "송유관 피격에…\"사우디, 호르무즈 통한 원유 수출 확대 모색\"",
+          "url": "https://www.yna.co.kr/view/AKR20260915005100099",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "후티 \"사우디 공군기지에 미사일·드론 발사\"",
+          "url": "https://v.daum.net/v/20260915063306524",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "유가 100달러 넘었는데 또 공급차질…항공 유류비 더 뛰나",
+          "url": "https://news.mtn.co.kr/news-detail/2026091415300760573",
+          "source": "MTN 머니투데이방송",
           "date": "2026-09-14"
         }
       ]
