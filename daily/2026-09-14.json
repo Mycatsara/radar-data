@@ -5976,10 +5976,10 @@
       ]
     },
     "파업": {
-      "count": 3,
-      "maxTraffic": 1000,
+      "count": 4,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-14T21:47:00+09:00",
-      "lastSeen": "2026-09-14T22:44:00+09:00",
+      "lastSeen": "2026-09-14T23:17:00+09:00",
       "news": [
         {
           "title": "\"시민의 발이 또 볼모냐\"… 오세훈 \"연봉 2천만원 인상 과도, 버스 필수공익사업 지정해야\"",
@@ -6008,10 +6008,10 @@
       ]
     },
     "두산에너 빌리티": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-14T21:47:00+09:00",
-      "lastSeen": "2026-09-14T22:44:00+09:00",
+      "lastSeen": "2026-09-14T23:17:00+09:00",
       "news": [
         {
           "title": "두산에너빌리티, 9만원대 품고 새주로…다음 행보는",
@@ -6029,6 +6029,18 @@
           "title": "두산에너빌리티 주가, 9월 14일 장중 88,600원 2.42% 하락",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16192335",
           "source": "톱스타뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "네팔 韓구호대 2진, 남동발전·두산 만나 수색·구조 활동 청취(종합)",
+          "url": "https://v.daum.net/v/20260914223453900",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "한국남동발전, 수색견 다시 투입해 수색 강화...두산도 드론 투입",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609142158478535",
+          "source": "YTN",
           "date": "2026-09-14"
         }
       ]
@@ -6150,10 +6162,10 @@
       ]
     },
     "전현무계획": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-14T22:16:00+09:00",
-      "lastSeen": "2026-09-14T22:44:00+09:00",
+      "lastSeen": "2026-09-14T23:17:00+09:00",
       "news": [
         {
           "title": "전현무 방송 ‘조작설’ 또 터져···‘전현무계획4’ “식당 사전섭외 아냐” 의혹 전면 부인",
@@ -6172,14 +6184,26 @@
           "url": "https://www.yna.co.kr/view/AKR20260914155400005",
           "source": "연합뉴스",
           "date": "2026-09-14"
+        },
+        {
+          "title": "'전현무계획4' 제작진, 조작 논란에 입 열었다…“촬영 전 식당 접촉 안 해”",
+          "url": "https://v.daum.net/v/20260914200320634",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "‘나혼산’ 이어 ‘전현무계획’까지…제작진, 조작설에 “식당 사전 섭외 안 해”",
+          "url": "https://www.hani.co.kr/arti/culture/culture_general/1277802.html",
+          "source": "한겨레",
+          "date": "2026-09-14"
         }
       ]
     },
     "lng선": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-14T22:16:00+09:00",
-      "lastSeen": "2026-09-14T22:44:00+09:00",
+      "lastSeen": "2026-09-14T23:17:00+09:00",
       "news": [
         {
           "title": "\"주문 쏟아진다\"…한 번에 1조6000억 '잭팟' 터진 이 회사",
@@ -6208,10 +6232,10 @@
       ]
     },
     "염경엽": {
-      "count": 2,
-      "maxTraffic": 1000,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-14T22:16:00+09:00",
-      "lastSeen": "2026-09-14T22:44:00+09:00",
+      "lastSeen": "2026-09-14T23:17:00+09:00",
       "news": [
         {
           "title": "염경엽 1년 내내 입맛 다시는데… LG 기대주 올해는 1군 못 오나, 내년은 염경엽 멘트 달라질까",
@@ -6246,10 +6270,10 @@
       ]
     },
     "中村ゆり": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-14T22:44:00+09:00",
-      "lastSeen": "2026-09-14T22:44:00+09:00",
+      "lastSeen": "2026-09-14T23:17:00+09:00",
       "news": [
         {
           "title": "俳優・中村ゆりさん死去 44歳",
@@ -6268,14 +6292,26 @@
           "url": "https://www.sponichi.co.jp/entertainment/news/2026/09/14/kiji/20260914s00041000376000c.html",
           "source": "スポニチ Sponichi Annex",
           "date": "2026-09-14"
+        },
+        {
+          "title": "「今夜はコの字で」の恵子先輩がもう見られない…中村ゆりさん早すぎる死去に悲痛の声 (2026年9月14日掲載)",
+          "url": "https://news.livedoor.com/topics/detail/32324239/",
+          "source": "ライブドアニュース",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "俳優の中村ゆりさん死去　映画「パッチギ！」ヒロイン役",
+          "url": "https://topics.smt.docomo.ne.jp/article/kyodo_nor/entertainment/kyodo_nor-2026091401001390?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
+          "source": "ｄメニューニュース",
+          "date": "2026-09-14"
         }
       ]
     },
     "김혜선": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T22:44:00+09:00",
-      "lastSeen": "2026-09-14T22:44:00+09:00",
+      "lastSeen": "2026-09-14T23:17:00+09:00",
       "news": [
         {
           "title": "김혜선 “독일서 남편과 소개팅으로 만나…1시간 늦었는데도 기다린 뒤 안아줘”",
@@ -6298,10 +6334,10 @@
       ]
     },
     "대한민국 의 대법관": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-14T22:44:00+09:00",
-      "lastSeen": "2026-09-14T22:44:00+09:00",
+      "lastSeen": "2026-09-14T23:17:00+09:00",
       "news": [
         {
           "title": "김성수 \"이재명 파기환송은 이례적\"‥대법관 제청 갈등엔 \"상호존중해야\"",
@@ -6319,6 +6355,70 @@
           "title": "김성수 \"李대통령 재판 중단, 재판부서 심사숙고해 결정했을 것\"(종합)",
           "url": "https://v.daum.net/v/20260914143104001",
           "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "“대법원장이 대통령 부하냐” 묻자…김성수 “상호 존중하는 지위”",
+          "url": "https://v.daum.net/v/20260914202349013",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "재제청·재판 재개·‘처남 찬스’…대법관 후보자 청문회 난타전",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8663113",
+          "source": "KBS 뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "정혁": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T23:17:00+09:00",
+      "lastSeen": "2026-09-14T23:17:00+09:00",
+      "news": [
+        {
+          "title": "KGM, '2026 런서울런' 마라톤 공식 후원 행사 성료",
+          "url": "https://www.yna.co.kr/view/RPR20260914007000353",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "1만 2천 러너 이끈 ‘무쏘 EV'⋯ KGM, 주말 마라톤 진심인 이유?",
+          "url": "https://www.viva100.com/article/20260914500777",
+          "source": "브릿지경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "KGM, '2026 런서울런' 공식 후원…아웃도어 마케팅 가속",
+          "url": "https://v.daum.net/v/20260914100528641",
+          "source": "Daum",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "프리시전 캐스트 파츠": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T23:17:00+09:00",
+      "lastSeen": "2026-09-14T23:17:00+09:00",
+      "news": [
+        {
+          "title": "\"너무 비싸게 샀다\" 버핏이 후회하던 그 회사, 10년 뒤 '잭팟'",
+          "url": "https://www.hankyung.com/article/202609143373i",
+          "source": "한국경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'버핏의 실수가 잭팟으로'…10년 전 인수한 기업 가치 급상승",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434620",
+          "source": "연합인포맥스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "워런 버핏도 “너무 비싸게 샀다” 후회한 기업, 10년 만에 몸값 '대반전'",
+          "url": "https://www.etnews.com/20260913000066",
+          "source": "전자신문",
           "date": "2026-09-14"
         }
       ]
