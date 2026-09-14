@@ -4266,10 +4266,10 @@
       ]
     },
     "자전거": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-14T15:47:00+09:00",
-      "lastSeen": "2026-09-14T17:15:00+09:00",
+      "lastSeen": "2026-09-14T17:43:00+09:00",
       "news": [
         {
           "title": "“길 막고 있는 자전거, 보이는 대로 다 뺏었습니다”…벌써 3400대 압수한 ‘이 나라’",
@@ -4456,10 +4456,10 @@
       ]
     },
     "새만금": {
-      "count": 3,
-      "maxTraffic": 200,
+      "count": 4,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-14T16:14:00+09:00",
-      "lastSeen": "2026-09-14T17:15:00+09:00",
+      "lastSeen": "2026-09-14T17:43:00+09:00",
       "news": [
         {
           "title": "[르포]현대차 9조 투자에 '희망고문' 마침표…새만금, AI·로봇 거점 도약",
@@ -4488,10 +4488,10 @@
       ]
     },
     "수도권 광역급행철도 c노선": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-14T16:14:00+09:00",
-      "lastSeen": "2026-09-14T17:15:00+09:00",
+      "lastSeen": "2026-09-14T17:43:00+09:00",
       "news": [
         {
           "title": "수원-삼성역-양재역-양주 잇는 GTX-C 노선 15일 착공",
@@ -4526,10 +4526,10 @@
       ]
     },
     "지연수": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T16:14:00+09:00",
-      "lastSeen": "2026-09-14T17:15:00+09:00",
+      "lastSeen": "2026-09-14T17:43:00+09:00",
       "news": [
         {
           "title": "\"곰탕집 알바로 생계\" 지연수, 유튜브 첫 수익 500만원 전액 기부…\"하나도 안 아까워\"",
@@ -4564,10 +4564,10 @@
       ]
     },
     "김승윤": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T16:43:00+09:00",
-      "lastSeen": "2026-09-14T17:15:00+09:00",
+      "lastSeen": "2026-09-14T17:43:00+09:00",
       "news": [
         {
           "title": "'장동윤♥' 김승윤, 시어머니표 도시락 자랑 \"최고로 맛있던\" - 머니투데이",
@@ -4586,14 +4586,26 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/14/G4YDMZLFMFSWCMZVMIZWEOJWGU/",
           "source": "조선일보",
           "date": "2026-09-14"
+        },
+        {
+          "title": "장동윤♥김승윤, ‘팬 기만’ 논란 딛고 결혼 준비 착착…시母 도시락 자랑도",
+          "url": "https://sports.khan.co.kr/article/202609141538003",
+          "source": "스포츠경향",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'장동윤♥'김승윤, 결혼 전부터 \"시어머니…\" 도시락에 감동",
+          "url": "https://mobile.newsis.com/view.html?ar_id=NISX20260914_0003788010",
+          "source": "뉴시스",
+          "date": "2026-09-14"
         }
       ]
     },
     "삼성중공업": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T17:15:00+09:00",
-      "lastSeen": "2026-09-14T17:15:00+09:00",
+      "lastSeen": "2026-09-14T17:43:00+09:00",
       "news": [
         {
           "title": "삼성중공업, LNG운반선 4척 등 1.6조 수주…가스텍선 LNG 기술력 과시",
@@ -4612,14 +4624,20 @@
           "url": "https://news.mtn.co.kr/news-detail/2026091410523069100",
           "source": "MTN 머니투데이방송",
           "date": "2026-09-14"
+        },
+        {
+          "title": "삼성重, LNG선 등 1.6조 수주…올해 상선 수주액, 지난해 실적 넘어섰다",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=350026",
+          "source": "녹색경제신문",
+          "date": "2026-09-14"
         }
       ]
     },
     "살인": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-14T17:15:00+09:00",
-      "lastSeen": "2026-09-14T17:15:00+09:00",
+      "lastSeen": "2026-09-14T17:43:00+09:00",
       "news": [
         {
           "title": "'냉동창고 살인' 카페 사장 구속 송치‥\"거액 빚 갚으려 계획 범행\"",
@@ -4638,14 +4656,26 @@
           "url": "https://news.jtbc.co.kr/article/NB12318232",
           "source": "JTBC",
           "date": "2026-09-14"
+        },
+        {
+          "title": "‘파주 냉동창고 살인’ 남성 구속 송치…얼굴 가린 채 고개 ‘푹’ [현장영상]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8662732",
+          "source": "KBS 뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "500억 위조상품권 현금화 시도…영문도 모른채 살해된 60대 여성(종합)",
+          "url": "https://v.daum.net/v/20260914172250908",
+          "source": "Daum",
+          "date": "2026-09-14"
         }
       ]
     },
     "개헌": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-14T17:15:00+09:00",
-      "lastSeen": "2026-09-14T17:15:00+09:00",
+      "lastSeen": "2026-09-14T17:43:00+09:00",
       "news": [
         {
           "title": "윤건영 “이 대통령, 국민 이기려 해선 안 돼…공소 취소·연임 개헌 정리해야”",
@@ -4664,14 +4694,20 @@
           "url": "https://v.daum.net/v/20260914122250781",
           "source": "Daum",
           "date": "2026-09-14"
+        },
+        {
+          "title": "윤건영, 李 회견 앞두고 \"공소 취소, 연임 개헌 깔끔 정리해야\"",
+          "url": "https://www.chosun.com/politics/assembly/2026/09/14/RQY7T6UHNZACTB3F6U57UTAZ5Q/",
+          "source": "조선일보",
+          "date": "2026-09-14"
         }
       ]
     },
     "고기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-14T17:15:00+09:00",
-      "lastSeen": "2026-09-14T17:15:00+09:00",
+      "lastSeen": "2026-09-14T17:43:00+09:00",
       "news": [
         {
           "title": "추석 성수품 수급상황 및 할인지원 현장 점검 - 사진 | 멀티미디어",
@@ -4689,6 +4725,38 @@
           "title": "충남 전통시장서 수산물 구매하면 최대 2만원 환급",
           "url": "https://www.yna.co.kr/view/AKR20260914050800063",
           "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "추석 '바가지요금' 막는다…전통시장·관광지 불공정 집중 점검",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971828",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "리센느": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-14T17:43:00+09:00",
+      "lastSeen": "2026-09-14T17:43:00+09:00",
+      "news": [
+        {
+          "title": "리센느 신드롬은 현재진행형…멜론 톱100 나란히 1·2위",
+          "url": "https://v.daum.net/v/20260914160819358",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[빅데이터로본다] 걸그룹 2026년 9월 브랜드평판... 1위 리센느, 2위 블랙핑크, 3위 아이브",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=791516",
+          "source": "일간투데이",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "리센느, ‘LOVE ATTACK’으로 멜론 TOP100 정상 장기 점령",
+          "url": "https://sports.donga.com/ent/article/all/20260914/134664261/1",
+          "source": "스포츠동아",
           "date": "2026-09-14"
         }
       ]
