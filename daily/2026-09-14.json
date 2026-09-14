@@ -6162,10 +6162,10 @@
       ]
     },
     "전현무계획": {
-      "count": 3,
-      "maxTraffic": 2000,
+      "count": 4,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-14T22:16:00+09:00",
-      "lastSeen": "2026-09-14T23:17:00+09:00",
+      "lastSeen": "2026-09-14T23:46:00+09:00",
       "news": [
         {
           "title": "전현무 방송 ‘조작설’ 또 터져···‘전현무계획4’ “식당 사전섭외 아냐” 의혹 전면 부인",
@@ -6270,10 +6270,10 @@
       ]
     },
     "中村ゆり": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T22:44:00+09:00",
-      "lastSeen": "2026-09-14T23:17:00+09:00",
+      "lastSeen": "2026-09-14T23:46:00+09:00",
       "news": [
         {
           "title": "俳優・中村ゆりさん死去 44歳",
@@ -6308,10 +6308,10 @@
       ]
     },
     "김혜선": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T22:44:00+09:00",
-      "lastSeen": "2026-09-14T23:17:00+09:00",
+      "lastSeen": "2026-09-14T23:46:00+09:00",
       "news": [
         {
           "title": "김혜선 “독일서 남편과 소개팅으로 만나…1시간 늦었는데도 기다린 뒤 안아줘”",
@@ -6372,10 +6372,10 @@
       ]
     },
     "정혁": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T23:17:00+09:00",
-      "lastSeen": "2026-09-14T23:17:00+09:00",
+      "lastSeen": "2026-09-14T23:46:00+09:00",
       "news": [
         {
           "title": "KGM, '2026 런서울런' 마라톤 공식 후원 행사 성료",
@@ -6398,10 +6398,10 @@
       ]
     },
     "프리시전 캐스트 파츠": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T23:17:00+09:00",
-      "lastSeen": "2026-09-14T23:17:00+09:00",
+      "lastSeen": "2026-09-14T23:46:00+09:00",
       "news": [
         {
           "title": "\"너무 비싸게 샀다\" 버핏이 후회하던 그 회사, 10년 뒤 '잭팟'",
@@ -6419,6 +6419,136 @@
           "title": "워런 버핏도 “너무 비싸게 샀다” 후회한 기업, 10년 만에 몸값 '대반전'",
           "url": "https://www.etnews.com/20260913000066",
           "source": "전자신문",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "그랜드 테프트 오토 vi": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T23:46:00+09:00",
+      "lastSeen": "2026-09-14T23:46:00+09:00",
+      "news": [
+        {
+          "title": "GTA V, RDR2, 그리고 GTA VI를 비교해 보면 락스타 게임즈의 그래픽 발전상을 알 수 있습니다.",
+          "url": "https://ko.gamegpu.com/news/igry/sravnenie-gta-v-rdr2-i-gta-vi-pokazalo-progress-grafiki-rockstar-games",
+          "source": "GameGPU",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "Grand Theft Auto VI는 Grand Theft Auto V에 비해 차량 물리 엔진이 크게 개선되었습니다.",
+          "url": "https://ko.gamegpu.com/news/igry/v-grand-theft-auto-vi-zametno-uluchshili-fiziku-mashin-po-sravneniyu-s-grand-theft-auto-v",
+          "source": "GameGPU",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "Grand Theft Auto VI 게임플레이에서는 테이블 위에 컵과 음료를 놓을 수 있습니다.",
+          "url": "https://ko.gamegpu.com/news/igry/igrovoj-protsess-grand-theft-auto-vi-pozvolit-stavit-chashki-i-napitki-na-stoly",
+          "source": "GameGPU",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "신병4": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-14T23:46:00+09:00",
+      "lastSeen": "2026-09-14T23:46:00+09:00",
+      "news": [
+        {
+          "title": "시즌4로 대박 터뜨렸다…역대 최고 4.4% 찍고 나날이 상승세 이어가는 韓 군대물 ('신병4')",
+          "url": "https://v.daum.net/v/20260914103125146",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "한가인, 김동준 친누나 됐다…피보다 진한 이목구비 (신병4)",
+          "url": "https://sports.donga.com/ent/article/all/20260914/134664098/1",
+          "source": "스포츠동아",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "‘신병4’ 한가인 면회 등장… 2중대 긴급 출동 예고",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3432397",
+          "source": "천지일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "트리니티항공": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T23:46:00+09:00",
+      "lastSeen": "2026-09-14T23:46:00+09:00",
+      "news": [
+        {
+          "title": "티웨이 간판 내리고 ‘트리니티항공’ 날았다…대구~제주서 새 출발",
+          "url": "https://v.daum.net/v/BjB0F7vmsJ",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "트리니티항공, 사명 변경 기념 국제선 항공권 할��� 행사 - 조선비즈",
+          "url": "https://biz.chosun.com/industry/company/2026/09/14/XIGJ7MTFZRE3RJAOBYFXDRJB6A/",
+          "source": "Chosunbiz",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "트리니티항공, 리브랜딩 기념 ‘BE NEW, BE TRINITY’ 프로모션 실시",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202609141542572967191f6c6e_12",
+          "source": "로이슈",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "후보": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T23:46:00+09:00",
+      "lastSeen": "2026-09-14T23:46:00+09:00",
+      "news": [
+        {
+          "title": "[단독] \"대통령 지시\" 김지용 초대 중수청장 후보자 ‘추가 검증’",
+          "url": "https://news.jtbc.co.kr/article/NB12318281",
+          "source": "JTBC",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "김지용 “난 尹 때 좌천 당해…특정인과 가깝다고 분류된 적 없어”",
+          "url": "https://www.munhwa.com/article/11616945",
+          "source": "문화일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+          "url": "https://v.daum.net/v/20260914180137753",
+          "source": "Daum",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "강균성": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T23:46:00+09:00",
+      "lastSeen": "2026-09-14T23:46:00+09:00",
+      "news": [
+        {
+          "title": "'10월 결혼' 강균성♥유하진, 웨딩 화보 공개…다이아 반지 몇 캐럿? '시선강탈'",
+          "url": "https://v.daum.net/v/20260914145239227",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "강균성♥유하진 웨딩화보·권민아 “무고 대응”·‘전현무계획’ 조작설 부인 [퇴근길연예]",
+          "url": "https://sports.khan.co.kr/article/202609141801003",
+          "source": "스포츠경향",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "강균성♥유하진, 명화 웨딩화보 속 눈에 띄는 다이아 반지..\"평생 한 번뿐\"[핫피플] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/14/MJSWMMZXHFRDANRXGE3TMMDEME/",
+          "source": "Chosunbiz",
           "date": "2026-09-14"
         }
       ]
