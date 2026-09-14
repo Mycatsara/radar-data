@@ -5046,10 +5046,10 @@
       ]
     },
     "차준환": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T19:14:00+09:00",
-      "lastSeen": "2026-09-14T19:14:00+09:00",
+      "lastSeen": "2026-09-14T19:42:00+09:00",
       "news": [
         {
           "title": "차준환·서수민, 로이킴 ‘스파클’ MV 주인공…서점서 그린 청춘 로맨스",
@@ -5072,10 +5072,10 @@
       ]
     },
     "비행기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T19:14:00+09:00",
-      "lastSeen": "2026-09-14T19:14:00+09:00",
+      "lastSeen": "2026-09-14T19:42:00+09:00",
       "news": [
         {
           "title": "美 공화 의원, 탑승 비행기 호수에 비상착륙하자 헤엄쳐 탈출",
@@ -5098,10 +5098,10 @@
       ]
     },
     "문현빈": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T19:14:00+09:00",
-      "lastSeen": "2026-09-14T19:14:00+09:00",
+      "lastSeen": "2026-09-14T19:42:00+09:00",
       "news": [
         {
           "title": "'무섭다' 한화에 거포 유망주 왜 이렇게 많은거야…국가대표 좌완에 홈런포 폭발, 1차지명 잠재력 드디어 터진다",
@@ -5120,14 +5120,26 @@
           "url": "https://www.hankooki.com/news/articleView.html?idxno=343103",
           "source": "한국아이닷컴",
           "date": "2026-09-14"
+        },
+        {
+          "title": "'무섭다' 한화에 거포 유망주 왜 이렇게 많은거야…국가대표 좌완에 홈런포 폭발, 1차지명 잠재력 드디어 터진다",
+          "url": "https://v.daum.net/v/20260912052527751?f=p",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[스경X현장]빅이닝에 쏘아올린 1군 첫 만루포…한화 한지윤 “몬스터월 넘겨서 더 좋았어요”",
+          "url": "https://sports.khan.co.kr/article/202609092256003",
+          "source": "스포츠경향",
+          "date": "2026-09-14"
         }
       ]
     },
     "연방공개시장위원회": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-14T19:14:00+09:00",
-      "lastSeen": "2026-09-14T19:14:00+09:00",
+      "lastSeen": "2026-09-14T19:42:00+09:00",
       "news": [
         {
           "title": "XRP 최악 시나리오는 '클래리티 부결·FOMC 금리 충격'",
@@ -5145,6 +5157,18 @@
           "title": "美 가상자산법 15일 분수령…스테이블코인 보상 놓고 막판 진통",
           "url": "https://www.etnews.com/20260914000288",
           "source": "전자신문",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "美 9월 금리 인상 가능성 고조에 韓 채권시장 '긴장'",
+          "url": "https://www.yna.co.kr/view/AKR20260914118500008",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "유가하락·CPI 안도에 5일 만에 반등‥다우 1%↑",
+          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6851737_36981.html",
+          "source": "MBC 뉴스",
           "date": "2026-09-14"
         }
       ]
@@ -5223,6 +5247,162 @@
           "title": "수자원공사, 필리핀서 3500억원 규모 물 인프라 수주 ‘눈앞’",
           "url": "https://news.mtn.co.kr/news-detail/2026091415584873813",
           "source": "MTN 머니투데이방송",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "범죄": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-14T19:42:00+09:00",
+      "lastSeen": "2026-09-14T19:42:00+09:00",
+      "news": [
+        {
+          "title": "9백억 원대 범죄수익 ‘돈세탁’한 유령 상품권업체... 총책 등 일당 7명 구속",
+          "url": "https://news.jtbc.co.kr/article/NB12318195",
+          "source": "JTBC",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'20억원대 주식리딩방 자금세탁책' 30대 외국인 실형",
+          "url": "https://www.yna.co.kr/view/AKR20260914098600065",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "해외서 ‘주식 리딩 사기’ 자금세탁 가담한 30대…징역 4년",
+          "url": "https://www.kyeonggi.com/article/20260914580135",
+          "source": "경기일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "항공편 명": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-14T19:42:00+09:00",
+      "lastSeen": "2026-09-14T19:42:00+09:00",
+      "news": [
+        {
+          "title": "대한항공, 아시아나 예약정보 이관…통합 항공사 출범 본격화",
+          "url": "https://v.daum.net/v/20260914133905579",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "\"'OZ' 역사 속으로\"…대한항공, 아시아나 항공편명 'KE'로 전환",
+          "url": "https://www.hankyung.com/article/202609143537g",
+          "source": "한국경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "대한항공·아시아나 ‘12월 통합 준비’…예약·편명 이관 착수",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1331962",
+          "source": "인천일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "르윈 디아즈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T19:42:00+09:00",
+      "lastSeen": "2026-09-14T19:42:00+09:00",
+      "news": [
+        {
+          "title": "삼성 '작년만 못한' 디아즈 재계약 논란? 박진만 감독은 이렇게 대답했습니다",
+          "url": "https://v.daum.net/v/20260914123217938",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "50홈런 부담 덜어낸 디아즈 \"아내표 행운 팔찌 덕분\"",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=864699",
+          "source": "한스경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "삼성 팬 이래서 페덱 사랑하는구나, 타구 강타에도 기본 잊지 않았다…\"이게 페덱이 경기를 하는 방식\"",
+          "url": "https://v.daum.net/v/4QPElDgRmu",
+          "source": "Daum",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "한국토지주택공사": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T19:42:00+09:00",
+      "lastSeen": "2026-09-14T19:42:00+09:00",
+      "news": [
+        {
+          "title": "LH, 군포 산본 9-2구역 시공자 선정 착수…3천376가구 재건축",
+          "url": "https://v.daum.net/v/20260914095248910",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "산본 9-2구역 시공사 선정 돌입…3376가구 재건축 속도",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02325526645580120",
+          "source": "마켓인",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "군포 산본신도시 통합재건축 선도지구 시공자 내년 초 선정 예정",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034597",
+          "source": "기호일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "봉누도": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T19:42:00+09:00",
+      "lastSeen": "2026-09-14T19:42:00+09:00",
+      "news": [
+        {
+          "title": "'봉누도 시즌2' 개막 … '평판'시스템 기반 '도파민' 폭발 서버 '기대'",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308356",
+          "source": "경향게임스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "치지직 ‘봉누도2’ 오픈 전 둘러보자, 공무직 RP 가이드",
+          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216458",
+          "source": "게임플",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "‘봉누도2’ 공무직 49명 선발 완료 … 14일 ‘크랭크 인’",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308292",
+          "source": "경향게임스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "사건": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-14T19:42:00+09:00",
+      "lastSeen": "2026-09-14T19:42:00+09:00",
+      "news": [
+        {
+          "title": "'리얼돌 폐기' 장윤기 부친, 봐주기 수사 재판 증인 채택",
+          "url": "https://v.daum.net/v/20260914172137850",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "“수사 과오, 범행 은폐 의도 없어”···장윤기 사건 부실 수사 경찰관 첫 공판",
+          "url": "https://www.khan.co.kr/article/202609141729001",
+          "source": "경향신문",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "‘장윤기 사건’ 수사 경찰들 첫 공판…고의성 다퉈",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8662921",
+          "source": "KBS 뉴스",
           "date": "2026-09-14"
         }
       ]
