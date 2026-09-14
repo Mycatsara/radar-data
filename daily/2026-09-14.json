@@ -3342,10 +3342,10 @@
       ]
     },
     "휴대 전화": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-14T12:13:00+09:00",
-      "lastSeen": "2026-09-14T12:13:00+09:00",
+      "lastSeen": "2026-09-14T12:43:00+09:00",
       "news": [
         {
           "title": "애플의 운명은 Duo가 결정하지 않는다",
@@ -3364,14 +3364,20 @@
           "url": "https://www.khan.co.kr/article/20260913202701A/?cp",
           "source": "경향신문",
           "date": "2026-09-14"
+        },
+        {
+          "title": "삼성 ‘여권폰’ 맞선다…잡스와 쿡이 키운 애플맨 첫 승부",
+          "url": "https://www.koreadaily.com/article/20260913130041492",
+          "source": "미주중앙일보",
+          "date": "2026-09-14"
         }
       ]
     },
     "브룩스 레일리": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T12:13:00+09:00",
-      "lastSeen": "2026-09-14T12:13:00+09:00",
+      "lastSeen": "2026-09-14T12:43:00+09:00",
       "news": [
         {
           "title": "\"뭐가 문제인지 모르겠다\" 다시 한국 와야 하나, 철벽 불펜이 급추락하다니…ERA 1.96→6.97 '트레이드 대실패'",
@@ -3394,10 +3400,10 @@
       ]
     },
     "은마 종합 상가": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T12:13:00+09:00",
-      "lastSeen": "2026-09-14T12:13:00+09:00",
+      "lastSeen": "2026-09-14T12:43:00+09:00",
       "news": [
         {
           "title": "재건축 달리나 했더니 ‘투쟁’ 붙었다…은마 재건축, 상가 세입자 집단반발",
@@ -3420,10 +3426,10 @@
       ]
     },
     "에어로케이": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T12:13:00+09:00",
-      "lastSeen": "2026-09-14T12:13:00+09:00",
+      "lastSeen": "2026-09-14T12:43:00+09:00",
       "news": [
         {
           "title": "에어로케이 강병호 대표, 일자리창출 대통령표창…2년간 임직원 72.3% 증가",
@@ -3446,10 +3452,10 @@
       ]
     },
     "skt": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T12:13:00+09:00",
-      "lastSeen": "2026-09-14T12:13:00+09:00",
+      "lastSeen": "2026-09-14T12:43:00+09:00",
       "news": [
         {
           "title": "[Report] \"It's Exciting to Ride Attractions While Everyone Sleeps\"... SKT 'Adventure Day'",
@@ -3468,14 +3474,20 @@
           "url": "https://www.starnewskorea.com/en/business-life/2026/09/14/2026091409503238653",
           "source": "스타뉴스",
           "date": "2026-09-14"
+        },
+        {
+          "title": "At 11 p.m. on the 12th, 3,000 customers entered Lotte World Adventure in Jamsil, Seoul. All of them",
+          "url": "https://www.mk.co.kr/en/it/12151826",
+          "source": "매일경제",
+          "date": "2026-09-14"
         }
       ]
     },
     "소득세": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T12:13:00+09:00",
-      "lastSeen": "2026-09-14T12:13:00+09:00",
+      "lastSeen": "2026-09-14T12:43:00+09:00",
       "news": [
         {
           "title": "내년 법인세 수입, 15년만에 소득세 추월한다…'삼전닉스' 효과",
@@ -3494,14 +3506,20 @@
           "url": "https://www.kyeonggi.com/article/20260914580011",
           "source": "경기일보",
           "date": "2026-09-14"
+        },
+        {
+          "title": "반도체가 세금 판도까지 뒤집었다…법인세 217조 ‘역대 처음’ 소득세 추월",
+          "url": "https://v.daum.net/v/20260914074900329",
+          "source": "Daum",
+          "date": "2026-09-14"
         }
       ]
     },
     "에어부산": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T12:13:00+09:00",
-      "lastSeen": "2026-09-14T12:13:00+09:00",
+      "lastSeen": "2026-09-14T12:43:00+09:00",
       "news": [
         {
           "title": "에어부산, ‘숏트립’ 여행객 특가… 일본 편도 6만8900원부터",
@@ -3519,6 +3537,84 @@
           "title": "에어부산, 가을·겨울 `짧은 휴가` 특가 행사",
           "url": "https://www.busan.com/view/busan/view.php?code=2026091409383731276",
           "source": "부산일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "이정후": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-14T12:43:00+09:00",
+      "lastSeen": "2026-09-14T12:43:00+09:00",
+      "news": [
+        {
+          "title": "이정후, 5타수 무안타 타율 0.276↓…송성문 대수비 출전",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8662532",
+          "source": "KBS 뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "韓 메이저리거들, 나란히 타격 부진…팀 패배 못 막아",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260914010005103",
+          "source": "아시아투데이",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "아! 168km-162km 하드히트가 아웃으로, 이정후 '바빕신' 외면 무안타...SD 송성문 대수비 출장 [SF 리뷰]",
+          "url": "https://v.daum.net/v/uhJriXDgvd?f=p",
+          "source": "Daum",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "브루노마스 내한": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T12:43:00+09:00",
+      "lastSeen": "2026-09-14T12:43:00+09:00",
+      "news": [
+        {
+          "title": "[잇슈 컬처] 브루노 마스 내한 공연, 추가 개최 “예매 열기 반영”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8662256",
+          "source": "KBS 뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "10만 관객 불렀던 브루노 마스, 이번엔 5일간 한국 무대",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/09/12/UIK2FT4TDNE3JOIIQUT63WKYOQ/",
+          "source": "조선일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[문화연예 플러스] 브루노 마스, 내한 공연 1회 추가",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6851584_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "kt": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T12:43:00+09:00",
+      "lastSeen": "2026-09-14T12:43:00+09:00",
+      "news": [
+        {
+          "title": "58% of Korean Companies Utilize AI, with 81% Reporting Higher Productivity",
+          "url": "https://www.asiae.co.kr/en/article/2026091408503321348",
+          "source": "아시아경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "KT Report Finds 60% of Korean Financial Firms Executing AI Transformation",
+          "url": "https://en.sedaily.com/technology/2026/09/14/kt-report-finds-60-percent-of-korean-financial-firms",
+          "source": "Seoul Economic Daily",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "KT publishes 'AX Insights Report' analyzing challenges in finance, public sectors",
+          "url": "https://www.digitaltoday.co.kr/en/view/102921/kt-publishes-ax-insights-report-analyzing-challenges-in-finance-and-public-sectors",
+          "source": "디지털투데이",
           "date": "2026-09-14"
         }
       ]
