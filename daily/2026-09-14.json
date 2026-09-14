@@ -5408,10 +5408,10 @@
       ]
     },
     "편의점": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-14T20:14:00+09:00",
-      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:43:00+09:00",
       "news": [
         {
           "title": "편의점 5만개 시대, ‘특화점포’가 승부 가른다",
@@ -5430,14 +5430,26 @@
           "url": "https://www.yna.co.kr/view/AKR20260912011000030",
           "source": "연합뉴스",
           "date": "2026-09-14"
+        },
+        {
+          "title": "편의점·무인판매점 3천600곳 집중 점검…조리식품도 검사",
+          "url": "https://www.yna.co.kr/view/AKR20260914018200017",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "식약처, 편의점•무인 식품점 3600여 곳 위생 관리 집중 점검",
+          "url": "https://www.viva100.com/article/20260914501297",
+          "source": "브릿지경제",
+          "date": "2026-09-14"
         }
       ]
     },
     "한국경제tv": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T20:14:00+09:00",
-      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:43:00+09:00",
       "news": [
         {
           "title": "실종 아동 90명 얼굴로 포르쉐 도배했더니…기적 일어났다",
@@ -5456,14 +5468,26 @@
           "url": "https://www.dailian.co.kr/news/view/1690073/1%EC%96%B53000%EB%A7%8C%EC%9B%90%EB%8C%80-%ED%8F%AC%EB%A5%B4%EC%89%90-%EC%A0%84%EB%8B%A8%EC%A7%80-90-2026",
           "source": "데일리안",
           "date": "2026-09-14"
+        },
+        {
+          "title": "“일반인”이라며 한동훈에 질문한 총리실 과장 직무배제",
+          "url": "https://www.donga.com/news/Politics/article/all/20260914/134667599/2",
+          "source": "동아일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "野 \"한동훈에 질문 총리실 직원, 책임져야\"…한성숙 \"재발 방지책 마련\" - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/09/14/2026091414352585510",
+          "source": "머니투데이",
+          "date": "2026-09-14"
         }
       ]
     },
     "연방 공개 시장 위원회": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-14T20:14:00+09:00",
-      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:43:00+09:00",
       "news": [
         {
           "title": "[뉴욕증시] '금리 인상' 우려…연준 행보에 '주목'",
@@ -5486,10 +5510,10 @@
       ]
     },
     "박지수": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T20:14:00+09:00",
-      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:43:00+09:00",
       "news": [
         {
           "title": "[아시안게임] 여자농구 대표팀, 박지수 합류 불발‥11명으로 출전",
@@ -5538,10 +5562,10 @@
       ]
     },
     "착륙": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-14T20:14:00+09:00",
-      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:43:00+09:00",
       "news": [
         {
           "title": "美 공화 의원, 탑승 비행기 호수에 비상착륙하자 헤엄쳐 탈출",
@@ -5559,6 +5583,18 @@
           "title": "친 트럼프 성향 미국 공화당 의원 탄 비행기, 호수에 비상 착륙...2명 경상",
           "url": "https://www.ytn.co.kr/_ln/0104_202609140620540284",
           "source": "YTN",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "美 공화 의원, 탑승 비행기 호수에 비상착륙하자 헤엄쳐 탈출",
+          "url": "https://v.daum.net/v/20260914032038336",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[포토] 위스콘신 주지사 도전하는 톰 티파니 공화당 하원의원",
+          "url": "https://www.news1.kr/photos/8103659",
+          "source": "뉴스1",
           "date": "2026-09-14"
         }
       ]
@@ -5663,6 +5699,136 @@
           "title": "'열애설 그런거 신경안써요!' 노시환 응원하는 한치 하지원",
           "url": "https://www.starnewskorea.com/player/shorts/22045?period=weekly",
           "source": "스타뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "운전 기사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T20:43:00+09:00",
+      "lastSeen": "2026-09-14T20:43:00+09:00",
+      "news": [
+        {
+          "title": "12세 어린이 스쿨존서 버스에 치여 숨졌는데…법원은 ‘집행유예’",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=55258",
+          "source": "주간조선",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[속보] 자전거 타던 12세, 버스에 밟혀 사망… 70대 운전기사에 금고형 집행유예",
+          "url": "https://m.go.seoul.co.kr/news/society/2026/09/14/20260914500114",
+          "source": "��울Pn",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "스쿨존서 버스에 치여 숨진 12세…70대 운전기사 '집행유예'",
+          "url": "https://www.mt.co.kr/society/2026/09/14/2026091418191888733",
+          "source": "머니투데이",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "인형뽑기": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T20:43:00+09:00",
+      "lastSeen": "2026-09-14T20:43:00+09:00",
+      "news": [
+        {
+          "title": "집에 있다면 당장 버리세요…인형뽑기 경품 10개 중 6개서 ‘유해물질’",
+          "url": "https://v.daum.net/v/20260914074310228",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "“뽑고 좋다며 물고 빨았는데”…지금 당장 쓰레기통에 버려야 하는 이유",
+          "url": "https://www.seoul.co.kr/news/society/2026/09/10/20260910500282",
+          "source": "서울신문",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "인형 뽑기 안 뽑히는 이유 있었다…주인이 '집게발 힘' 조작 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/14/2026091408331210426",
+          "source": "머니투데이",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "딥 시크 클로드": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T20:43:00+09:00",
+      "lastSeen": "2026-09-14T20:43:00+09:00",
+      "news": [
+        {
+          "title": "중국 '키미', 클로드 무단 우회 연결 파문…안보·기업 기밀 유출 논란",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215229",
+          "source": "AI타임스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "AI 발전 늦추자고?‥중국 \"개발 방해하겠다는 것‥우리는 속도 낸다\"",
+          "url": "https://v.daum.net/v/20260914200413654",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "보안 우려에는 ‘공포감’ 기술 견제에는 ‘거부감’…중국에서 본 AI 속도 조절론",
+          "url": "https://www.khan.co.kr/article/202609141651001",
+          "source": "경향신문",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "송미령": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-14T20:43:00+09:00",
+      "lastSeen": "2026-09-14T20:43:00+09:00",
+      "news": [
+        {
+          "title": "[인터뷰] 송미령 장관 \"농지조사, 위반 확인 시 곧바로 처분 아냐\"…추석 농축산물 할인 받으려면?",
+          "url": "https://v.daum.net/v/20260914164603170",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[단독] ���부, 사상 최초 농지 전수조사… 법 위반 농지 매입에 예산 8868억원 투입 - 조선비즈",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/09/14/L7HKJYVJKJARPERXOJGEKSANHI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[사설] 농지 전수조사, 투기 잡으려다 농촌 잡아서야",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083987",
+          "source": "경북일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "폐기물": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T20:43:00+09:00",
+      "lastSeen": "2026-09-14T20:43:00+09:00",
+      "news": [
+        {
+          "title": "군산시, 추석 연휴 환경오염행위 특별 단속…3단계 집중 감시",
+          "url": "https://v.daum.net/v/20260914092900697",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "“쓰레기 걱정 없는 명절”…기후부, 추석 연휴 생활폐기물 특별관리",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372356",
+          "source": "전기신문",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "시흥시, 추석 연휴 쓰레기 수거 공백 막는다…24일 특별수거 실시",
+          "url": "https://www.kyeonggi.com/article/20260914580085",
+          "source": "경기일보",
           "date": "2026-09-14"
         }
       ]
