@@ -5704,10 +5704,10 @@
       ]
     },
     "운전 기사": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-14T20:43:00+09:00",
-      "lastSeen": "2026-09-14T21:18:00+09:00",
+      "lastSeen": "2026-09-14T21:47:00+09:00",
       "news": [
         {
           "title": "12세 어린이 스쿨존서 버스에 치여 숨졌는데…법원은 ‘집행유예’",
@@ -5872,10 +5872,10 @@
       ]
     },
     "프리시전 캐스트파츠": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T21:18:00+09:00",
-      "lastSeen": "2026-09-14T21:18:00+09:00",
+      "lastSeen": "2026-09-14T21:47:00+09:00",
       "news": [
         {
           "title": "\"너무 비싸게 샀다\" 버핏이 후회하던 그 회사, 10년 뒤 '잭팟'",
@@ -5898,10 +5898,10 @@
       ]
     },
     "박주호": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-14T21:18:00+09:00",
-      "lastSeen": "2026-09-14T21:18:00+09:00",
+      "lastSeen": "2026-09-14T21:47:00+09:00",
       "news": [
         {
           "title": "‘5개 국어’ 박주호 딸 나은, 언제 이렇게 컸어?..수준급 피아노 실력까지",
@@ -5950,10 +5950,10 @@
       ]
     },
     "갤러리아백화점": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T21:18:00+09:00",
-      "lastSeen": "2026-09-14T21:18:00+09:00",
+      "lastSeen": "2026-09-14T21:47:00+09:00",
       "news": [
         {
           "title": "한화갤러리아, 대전 타임월드점 매각 추진…직원 설명회도 개최",
@@ -5971,6 +5971,162 @@
           "title": "[오늘, 금강일보] 9월 15일",
           "url": "https://www.ggilbo.com/news/articleView.html?idxno=1181700",
           "source": "금강일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "파업": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-14T21:47:00+09:00",
+      "lastSeen": "2026-09-14T21:47:00+09:00",
+      "news": [
+        {
+          "title": "\"시민의 발이 또 볼모냐\"… 오세훈 \"연봉 2천만원 인상 과도, 버스 필수공익사업 지정해야\"",
+          "url": "https://v.daum.net/v/20260914173702595",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "서울시, 버스파업 대비 무료 셔틀버스 1,500대 투입",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6851649_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "서울버스 파업 D-2…오세훈 vs 버스노조 '파업사태 책임' 공방(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260914108951004",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "두산에너 빌리티": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-14T21:47:00+09:00",
+      "lastSeen": "2026-09-14T21:47:00+09:00",
+      "news": [
+        {
+          "title": "두산에너빌리티, 9만원대 품고 새주로…다음 행보는",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=606400",
+          "source": "CBC뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "원전 대미투자, 두산에너빌 32조 잭팟?",
+          "url": "https://v.daum.net/v/4VgSS2XSg3",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "두산에너빌리티 주가, 9월 14일 장중 88,600원 2.42% 하락",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16192335",
+          "source": "톱스타뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "오타니 쇼헤이": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T21:47:00+09:00",
+      "lastSeen": "2026-09-14T21:47:00+09:00",
+      "news": [
+        {
+          "title": "\"지옥 같다\" 슈퍼팀 다저스에 무슨 일이…오타니 쓰러지더니 프리먼까지 '무릎 이상'→로버츠 감독 \"움직임 좋지 않아\" 우려",
+          "url": "https://v.daum.net/v/20260914162207004",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "‘복귀→무안타→결장 예고’ 프리먼, 결국 ‘부상자 명단’으로 향할까",
+          "url": "https://sports.donga.com/sports/article/all/20260914/134661529/1",
+          "source": "스포츠동아",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "‘WS 2연패’ 청구서가 너무 잔혹하다…오타�� 쓰러지고 베츠·프리먼까지 흔들, 먼시 “110승은 불가능” - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/09/13/MQ4GCZJYGRSDMYRZHEYDEYTEMY/",
+          "source": "Chosunbiz",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "임시 공휴일": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T21:47:00+09:00",
+      "lastSeen": "2026-09-14T21:47:00+09:00",
+      "news": [
+        {
+          "title": "추석 연휴 하루 더?…정부 답변은",
+          "url": "https://ichannela.com/news/detail/000000550383.do",
+          "source": "채널A",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "\"28일 임시공휴일로\" 추석 '황금연휴' 목청…경제적 득실 따져보니",
+          "url": "https://economist.co.kr/article/view/ecn202609140018",
+          "source": "이코노미스트",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "“추석 하루 더 쉬나?”…28일 월요일 ‘임시공휴일’ 가능성은",
+          "url": "https://www.kyeonggi.com/article/20260913580428",
+          "source": "경기일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "조훈현": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T21:47:00+09:00",
+      "lastSeen": "2026-09-14T21:47:00+09:00",
+      "news": [
+        {
+          "title": "\"아직 신진서도 안 나왔다!\"…4명 생존한 韓, 7연패 보인다",
+          "url": "https://v.daum.net/v/20260914180000651",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "유키 9단, 4연승 질주…일본, 농심백산수배 깜짝 선두",
+          "url": "https://www.yna.co.kr/view/AKR20260914101800007",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "바둑 조훈현 9단, 농심백수산배서 일본 유키에 덜미",
+          "url": "https://www.donga.com/news/Sports/article/all/20260914/134662896/1",
+          "source": "동아일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "삼성전자 채용": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T21:47:00+09:00",
+      "lastSeen": "2026-09-14T21:47:00+09:00",
+      "news": [
+        {
+          "title": "샌디스크, 韓엔지니어 채용… 낸드까지 인재 쟁탈전",
+          "url": "https://v.daum.net/v/20260914003222722",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "마이크론에 샌디스크까지 가세…국내 반도체 '인재 쟁탈전' 불붙는다",
+          "url": "https://www.newsis.com/view/NISX20260913_0003787309",
+          "source": "뉴시스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "美 샌디스크 “경력 5년 이상 한국 엔지니어 채용합니다” - 조선비즈",
+          "url": "https://biz.chosun.com/it-science/ict/2026/09/13/CMFKEEE2GJEE5KURZEIF2RN2IE/",
+          "source": "Chosunbiz",
           "date": "2026-09-14"
         }
       ]
