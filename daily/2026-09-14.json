@@ -3110,10 +3110,10 @@
       ]
     },
     "전준우": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-14T11:13:00+09:00",
-      "lastSeen": "2026-09-14T11:42:00+09:00",
+      "lastSeen": "2026-09-14T12:13:00+09:00",
       "news": [
         {
           "title": "[사진] 전준우, 득점 찬스 만든 안타 - 조선비즈",
@@ -3132,14 +3132,26 @@
           "url": "https://www.sportsseoul.com/news/read/1634913",
           "source": "스포츠서울",
           "date": "2026-09-14"
+        },
+        {
+          "title": "\"기다려 보세요\" 이강철 감독 배려, 끝내 39세 황재균 울렸다…은퇴식날 6회 대타→3루 수비 출격 마무리 [수원 현장]",
+          "url": "https://sports.news.nate.com/view/20260913n16288",
+          "source": "네이트",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'달아나는 선두' KT, 롯데 5-2로 꺾고 6연승…'김도영 3안타' KIA, 한화 완파(종합)",
+          "url": "https://www.newsis.com/view/NISX20260913_0003787499",
+          "source": "뉴시스",
+          "date": "2026-09-14"
         }
       ]
     },
     "차태현": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T11:13:00+09:00",
-      "lastSeen": "2026-09-14T11:42:00+09:00",
+      "lastSeen": "2026-09-14T12:13:00+09:00",
       "news": [
         {
           "title": "74억 강남 건물 산 차태현, 유재석이 테이블 주고 박보영이 명패 만든 이유",
@@ -3188,10 +3200,10 @@
       ]
     },
     "생계": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T11:13:00+09:00",
-      "lastSeen": "2026-09-14T11:42:00+09:00",
+      "lastSeen": "2026-09-14T12:13:00+09:00",
       "news": [
         {
           "title": "“4달 동안 수입 없었다”… 당국 총량 관리에 대출모집인 생계 불똥",
@@ -3325,6 +3337,188 @@
           "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
           "url": "https://www.yna.co.kr/view/AKR20260914058100011",
           "source": "연합뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "휴대 전화": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T12:13:00+09:00",
+      "lastSeen": "2026-09-14T12:13:00+09:00",
+      "news": [
+        {
+          "title": "애플의 운명은 Duo가 결정하지 않는다",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8661993",
+          "source": "KBS 뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[특징주] 폴더블폰 시장 확대 전망…비에이치, 장 초반 5%↑",
+          "url": "https://www.yna.co.kr/view/AKR20260914040700008",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[포토뉴스]“아이폰 18 프로 사전예약 하세요”",
+          "url": "https://www.khan.co.kr/article/20260913202701A/?cp",
+          "source": "경향신문",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "브룩스 레일리": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T12:13:00+09:00",
+      "lastSeen": "2026-09-14T12:13:00+09:00",
+      "news": [
+        {
+          "title": "\"뭐가 문제인지 모르겠다\" 다시 한국 와야 하나, 철벽 불펜이 급추락하다니…ERA 1.96→6.97 '트레이드 대실패'",
+          "url": "https://v.daum.net/v/20260914044237634",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "\"뭐가 문제인지 모르겠다\" 다시 한국 와야 하나, 철벽 불펜이 급추락하다니…ERA 1.96→6.97 '트레이드 대실패' - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/09/14/GM3GEM3DGRQTINJSMQZDQYLEMU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "애틀랜타 김하성, 2타수 무안타 2볼넷…4경기 연속 출루",
+          "url": "https://www.yna.co.kr/view/AKR20260914014000007",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "은마 종합 상가": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T12:13:00+09:00",
+      "lastSeen": "2026-09-14T12:13:00+09:00",
+      "news": [
+        {
+          "title": "재건축 달리나 했더니 ‘투쟁’ 붙었다…은마 재건축, 상가 세입자 집단반발",
+          "url": "https://www.mk.co.kr/news/realestate/12151631",
+          "source": "매일경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "\"옥상서 망루-폭발물 농성?\" 은마상가 재건축 둘러싼 갈등 폭발하나",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/09/10/2026091002102.html",
+          "source": "땅집고",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "은��� 재건축 상가 갈등 본격화⋯임차인들 \"권리금·생계 보상하라\"",
+          "url": "https://v.daum.net/v/20260910145905851?f=p",
+          "source": "Daum",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "에어로케이": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T12:13:00+09:00",
+      "lastSeen": "2026-09-14T12:13:00+09:00",
+      "news": [
+        {
+          "title": "에어로케이 강병호 대표, 일자리창출 대통령표창…2년간 임직원 72.3% 증가",
+          "url": "http://www.cndnews.co.kr/459808",
+          "source": "뉴스충청인",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "강병호 에어로케이항공 대표이사 '2026 일자리창출 지원 유공' 대통령표창 수상",
+          "url": "https://www.inews365.com/news/article.html?no=935518",
+          "source": "충북일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "‘���주 거점 일자리 창출’ 에어로케이 강병호 대표, 대통령표창",
+          "url": "https://www.bzeronews.com/news/articleView.html?idxno=822494",
+          "source": "공뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "skt": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T12:13:00+09:00",
+      "lastSeen": "2026-09-14T12:13:00+09:00",
+      "news": [
+        {
+          "title": "[Report] \"It's Exciting to Ride Attractions While Everyone Sleeps\"... SKT 'Adventure Day'",
+          "url": "https://www.asiae.co.kr/en/article/IT/2026091407414808173",
+          "source": "아시아경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "SK Telecom rents out Lotte World Adventure at night for long-term customers",
+          "url": "https://www.digitaltoday.co.kr/en/view/102947/sk-telecom-rents-out-lotte-world-adventure-at-night-for-long-term-customers",
+          "source": "디지털투데이",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "SKT Hosts 'Adventure Day' Inviting 3,000 Long-Term Customers to Lotte World",
+          "url": "https://www.starnewskorea.com/en/business-life/2026/09/14/2026091409503238653",
+          "source": "스타뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "소득세": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T12:13:00+09:00",
+      "lastSeen": "2026-09-14T12:13:00+09:00",
+      "news": [
+        {
+          "title": "내년 법인세 수입, 15년만에 소득세 추월한다…'삼전닉스' 효과",
+          "url": "https://www.yna.co.kr/view/AKR20260912040500002",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "반도체 이익, 반도체 투자에만 집중… 체감 안되는 호황",
+          "url": "https://www.munhwa.com/article/11616773",
+          "source": "문화일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "반도체가 세금 판도까지 뒤집었다…법인세 217조 ‘역대 처음’ 소득세 추월",
+          "url": "https://www.kyeonggi.com/article/20260914580011",
+          "source": "경기일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "에어부산": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T12:13:00+09:00",
+      "lastSeen": "2026-09-14T12:13:00+09:00",
+      "news": [
+        {
+          "title": "에어부산, ‘숏트립’ 여행객 특가… 일본 편도 6만8900원부터",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260914.99099004329",
+          "source": "국제신문",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "에어부산, 국제선 18개 노선 대상 가을·겨울 특가 프로모션",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6289424",
+          "source": "뉴스1",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "에어부산, 가을·겨울 `짧은 휴가` 특가 행사",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026091409383731276",
+          "source": "부산일보",
           "date": "2026-09-14"
         }
       ]
