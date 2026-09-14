@@ -5704,10 +5704,10 @@
       ]
     },
     "운전 기사": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-14T20:43:00+09:00",
-      "lastSeen": "2026-09-14T20:43:00+09:00",
+      "lastSeen": "2026-09-14T21:18:00+09:00",
       "news": [
         {
           "title": "12세 어린이 스쿨존서 버스에 치여 숨졌는데…법원은 ‘집행유예’",
@@ -5730,10 +5730,10 @@
       ]
     },
     "인형뽑기": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-14T20:43:00+09:00",
-      "lastSeen": "2026-09-14T20:43:00+09:00",
+      "lastSeen": "2026-09-14T21:18:00+09:00",
       "news": [
         {
           "title": "집에 있다면 당장 버리세요…인형뽑기 경품 10개 중 6개서 ‘유해물질’",
@@ -5756,10 +5756,10 @@
       ]
     },
     "딥 시크 클로드": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T20:43:00+09:00",
-      "lastSeen": "2026-09-14T20:43:00+09:00",
+      "lastSeen": "2026-09-14T21:18:00+09:00",
       "news": [
         {
           "title": "중국 '키미', 클로드 무단 우회 연결 파문…안보·기업 기밀 유출 논란",
@@ -5778,14 +5778,26 @@
           "url": "https://www.khan.co.kr/article/202609141651001",
           "source": "경향신문",
           "date": "2026-09-14"
+        },
+        {
+          "title": "AI 발전 늦추자고?‥중국 \"개발 방해하겠다는 것‥우리는 속도 낸다\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851771_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "美 앤스로픽 'AI 속도조절론'에 중국 발끈…미중 AI 안전 협력 왜 어렵나",
+          "url": "https://v.daum.net/v/20260914141013940",
+          "source": "Daum",
+          "date": "2026-09-14"
         }
       ]
     },
     "송미령": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-14T20:43:00+09:00",
-      "lastSeen": "2026-09-14T20:43:00+09:00",
+      "lastSeen": "2026-09-14T21:18:00+09:00",
       "news": [
         {
           "title": "[인터뷰] 송미령 장관 \"농지조사, 위반 확인 시 곧바로 처분 아냐\"…추석 농축산물 할인 받으려면?",
@@ -5808,10 +5820,10 @@
       ]
     },
     "폐기물": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-14T20:43:00+09:00",
-      "lastSeen": "2026-09-14T20:43:00+09:00",
+      "lastSeen": "2026-09-14T21:18:00+09:00",
       "news": [
         {
           "title": "군산시, 추석 연휴 환경오염행위 특별 단속…3단계 집중 감시",
@@ -5829,6 +5841,136 @@
           "title": "시흥시, 추석 연휴 쓰레기 수거 공백 막는다…24일 특별수거 실시",
           "url": "https://www.kyeonggi.com/article/20260914580085",
           "source": "경기일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "원현준": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T21:18:00+09:00",
+      "lastSeen": "2026-09-14T21:18:00+09:00",
+      "news": [
+        {
+          "title": "[전문]'김부장''이태원 클라쓰' 원현준, 10월 품절남 된다 \"가장 소중한 연인\"",
+          "url": "https://v.daum.net/v/20260914174607983",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "‘김부장’ 원현준, 이수진과 10월 4일 결혼...“행복하게 잘 살겠다”",
+          "url": "https://www.mk.co.kr/news/hot-issues/12152346",
+          "source": "매일경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'김부장' 원현준, 이수진과 10월 4일 결혼...\"소중한 연인과 평생 함께\"",
+          "url": "https://www.dailian.co.kr/news/view/1690186/%EA%B9%80%EB%B6%80%EC%9E%A5-%EC%9B%90%ED%98%84%EC%A4%80-%EC%9D%B4%EC%88%98%EC%A7%84%EA%B3%BC-10%EC%9B%94-4%EC%9D%BC-2026",
+          "source": "데일리안",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "프리시전 캐스트파츠": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T21:18:00+09:00",
+      "lastSeen": "2026-09-14T21:18:00+09:00",
+      "news": [
+        {
+          "title": "\"너무 비싸게 샀다\" 버핏이 후회하던 그 회사, 10년 뒤 '잭팟'",
+          "url": "https://www.hankyung.com/article/202609143373i",
+          "source": "한국경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'버핏의 실수가 잭팟으로'…10년 전 인수한 기업 가치 급상승",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434620",
+          "source": "연합인포맥스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "워런 버핏도 “너무 비싸게 샀다” 후회한 기업, 10년 만에 몸값 '대반전'",
+          "url": "https://www.etnews.com/20260913000066",
+          "source": "전자신문",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "박주호": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-14T21:18:00+09:00",
+      "lastSeen": "2026-09-14T21:18:00+09:00",
+      "news": [
+        {
+          "title": "‘5개 국어’ 박주호 딸 나은, 언제 이렇게 컸어?..수준급 피아노 실력까지",
+          "url": "https://v.daum.net/v/20260914184407122",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "\"박주호, 전생에 우주 구했나\"...딸 나은이, 11살인��� 5개 국어·피아노 재능까지",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-14/202609140100097120006320",
+          "source": "스포츠조선",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "‘박주호 첫째딸’ 나은, 예체능 재능 대박이네…피겨 1위→피아노까지 섭렵 [MHN:픽]",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1543646",
+          "source": "MHN스포츠",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "두산에너빌리티": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-14T21:18:00+09:00",
+      "lastSeen": "2026-09-14T21:18:00+09:00",
+      "news": [
+        {
+          "title": "두산에너빌리티, 9만원대 품고 새주로…다음 행보는",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=606400",
+          "source": "CBC뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "원전 대미투자, 두산에너빌 32조 잭팟?",
+          "url": "https://v.daum.net/v/4VgSS2XSg3",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "두산에너빌리티 주가, 9월 14일 장중 88,600원 2.42% 하락",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16192335",
+          "source": "톱스타뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "갤러리아백화점": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T21:18:00+09:00",
+      "lastSeen": "2026-09-14T21:18:00+09:00",
+      "news": [
+        {
+          "title": "한화갤러리아, 대전 타임월드점 매각 추진…직원 설명회도 개최",
+          "url": "https://v.daum.net/v/20260914164341034",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "직원설명회 갖은 한화갤러리아타임월드…매각설 힘받나",
+          "url": "https://www.newsis.com/view/NISX20260914_0003789034",
+          "source": "뉴시스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[오늘, 금강일보] 9월 15일",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1181700",
+          "source": "금강일보",
           "date": "2026-09-14"
         }
       ]
