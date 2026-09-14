@@ -4266,10 +4266,10 @@
       ]
     },
     "자전거": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-14T15:47:00+09:00",
-      "lastSeen": "2026-09-14T16:43:00+09:00",
+      "lastSeen": "2026-09-14T17:15:00+09:00",
       "news": [
         {
           "title": "“길 막고 있는 자전거, 보이는 대로 다 뺏었습니다”…벌써 3400대 압수한 ‘이 나라’",
@@ -4288,14 +4288,26 @@
           "url": "https://www.fnnews.com/news/202609101808192565",
           "source": "파이낸셜뉴스",
           "date": "2026-09-14"
+        },
+        {
+          "title": "동대문구, 무료 자전거교실 운영…‘초등학생도 함께’",
+          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/09/14/20260914500258",
+          "source": "서울신문",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "부천시 자전거동호회 섬진강서 라이딩 5대 안전수칙 홍보",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3694153",
+          "source": "국제뉴스",
+          "date": "2026-09-14"
         }
       ]
     },
     "나성범": {
-      "count": 3,
-      "maxTraffic": 200,
+      "count": 4,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-14T15:47:00+09:00",
-      "lastSeen": "2026-09-14T16:43:00+09:00",
+      "lastSeen": "2026-09-14T17:15:00+09:00",
       "news": [
         {
           "title": "최지만에 빚진 KIA 나성범, 야구 배트 몇 자루로 갚을지 관심",
@@ -4444,10 +4456,10 @@
       ]
     },
     "새만금": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T16:14:00+09:00",
-      "lastSeen": "2026-09-14T16:43:00+09:00",
+      "lastSeen": "2026-09-14T17:15:00+09:00",
       "news": [
         {
           "title": "[르포]현대차 9조 투자에 '희망고문' 마침표…새만금, AI·로봇 거점 도약",
@@ -4476,10 +4488,10 @@
       ]
     },
     "수도권 광역급행철도 c노선": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-14T16:14:00+09:00",
-      "lastSeen": "2026-09-14T16:43:00+09:00",
+      "lastSeen": "2026-09-14T17:15:00+09:00",
       "news": [
         {
           "title": "수원-삼성역-양재역-양주 잇는 GTX-C 노선 15일 착공",
@@ -4504,14 +4516,20 @@
           "url": "https://www.mk.co.kr/news/economy/12152043",
           "source": "매일경제",
           "date": "2026-09-14"
+        },
+        {
+          "title": "2년 넘게 미뤄진 GTX-C 15일 착공···수원역~청량리역 30분, 양주덕정~삼성역 30분",
+          "url": "https://www.khan.co.kr/article/202609141532001",
+          "source": "경향신문",
+          "date": "2026-09-14"
         }
       ]
     },
     "지연수": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T16:14:00+09:00",
-      "lastSeen": "2026-09-14T16:43:00+09:00",
+      "lastSeen": "2026-09-14T17:15:00+09:00",
       "news": [
         {
           "title": "\"곰탕집 알바로 생계\" 지연수, 유튜브 첫 수익 500만원 전액 기부…\"하나도 안 아까워\"",
@@ -4530,14 +4548,26 @@
           "url": "https://www.newsis.com/view/NISX20260914_0003788670",
           "source": "뉴시스",
           "date": "2026-09-14"
+        },
+        {
+          "title": "'일라이와 이혼' 지연수, 유튜브 채널 수익금 전액 기부…\"한부모 여성 위해\"",
+          "url": "https://v.daum.net/v/20260914151949882",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[단독] 지연수, 유튜브 첫 수익금 전액 기부… \"한부모 가정 응원\"",
+          "url": "https://www.hankookilbo.com/news/article/A2026091400240002265",
+          "source": "한국일보",
+          "date": "2026-09-14"
         }
       ]
     },
     "김승윤": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T16:43:00+09:00",
-      "lastSeen": "2026-09-14T16:43:00+09:00",
+      "lastSeen": "2026-09-14T17:15:00+09:00",
       "news": [
         {
           "title": "'장동윤♥' 김승윤, 시어머니표 도시락 자랑 \"최고로 맛있던\" - 머니투데이",
@@ -4555,6 +4585,110 @@
           "title": "김승윤, ♥장��윤 프러포즈가 결혼 발표 후 첫 근황..\"시어머니 도시락 최고\"[핫피플]",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/14/G4YDMZLFMFSWCMZVMIZWEOJWGU/",
           "source": "조선일보",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "삼성중공업": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T17:15:00+09:00",
+      "lastSeen": "2026-09-14T17:15:00+09:00",
+      "news": [
+        {
+          "title": "삼성중공업, LNG운반선 4척 등 1.6조 수주…가스텍선 LNG 기술력 과시",
+          "url": "https://www.khan.co.kr/article/202609141545001",
+          "source": "경향신문",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "삼성重, 1.4조원 LNG선 수주 잭팟…조선 3사, 가스텍서 미래 먹거리 공개",
+          "url": "https://v.daum.net/v/20260914164737241",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "삼성重, 1.6조 규모 화물선 수주",
+          "url": "https://news.mtn.co.kr/news-detail/2026091410523069100",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "살인": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-14T17:15:00+09:00",
+      "lastSeen": "2026-09-14T17:15:00+09:00",
+      "news": [
+        {
+          "title": "'냉동창고 살인' 카페 사장 구속 송치‥\"거액 빚 갚으려 계획 범행\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6851672_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "“위조 상품권 거래 목적”…파주 냉동창고 살해 사건 피의자, 검찰 송치",
+          "url": "https://www.kyeonggi.com/article/20260914580490",
+          "source": "경기일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "경찰 \"‘파주 냉동창고 살인’ 계획범죄…피의자 진술 계속 바꿔\"",
+          "url": "https://news.jtbc.co.kr/article/NB12318232",
+          "source": "JTBC",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "개헌": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-14T17:15:00+09:00",
+      "lastSeen": "2026-09-14T17:15:00+09:00",
+      "news": [
+        {
+          "title": "윤건영 “이 대통령, 국민 이기려 해선 안 돼…공소 취소·연임 개헌 정리해야”",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1277665.html",
+          "source": "한겨레",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "문재인 측근 윤건영 “제2의 윤석열 나타나선 안돼, 공소 취소·연임 개헌 털어내야”",
+          "url": "https://weekly.khan.co.kr/article/202609141355011",
+          "source": "주간경향",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "이 대통령 기자회견 검토에 노무현·문재인과 일한 윤건영의 고언",
+          "url": "https://v.daum.net/v/20260914122250781",
+          "source": "Daum",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "고기": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-14T17:15:00+09:00",
+      "lastSeen": "2026-09-14T17:15:00+09:00",
+      "news": [
+        {
+          "title": "추석 성수품 수급상황 및 할인지원 현장 점검 - 사진 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=73351&pWise=sub&pWiseSub=D4",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[동정] 농식품부 김종구 차관, 농협 하나로마트 대전점 방문",
+          "url": "https://stock.mk.co.kr/news/view/1158786",
+          "source": "매일경제 마켓",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "충남 전통시장서 수산물 구매하면 최대 2만원 환급",
+          "url": "https://www.yna.co.kr/view/AKR20260914050800063",
+          "source": "연합뉴스",
           "date": "2026-09-14"
         }
       ]
