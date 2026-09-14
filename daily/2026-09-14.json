@@ -2518,10 +2518,10 @@
       ]
     },
     "김희재": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-14T09:19:00+09:00",
-      "lastSeen": "2026-09-14T09:19:00+09:00",
+      "lastSeen": "2026-09-14T09:46:00+09:00",
       "news": [
         {
           "title": "SBS 인기가요 : 안녕은 정말 싫어 - 김희재 | SBS 260913 방송",
@@ -2544,10 +2544,10 @@
       ]
     },
     "정석원": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-14T09:19:00+09:00",
-      "lastSeen": "2026-09-14T09:19:00+09:00",
+      "lastSeen": "2026-09-14T09:46:00+09:00",
       "news": [
         {
           "title": "정석원, 출연료 들어오자마자 ♥백지영에 송금..“30만원은 나 하라고”",
@@ -2566,14 +2566,20 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/13/MVRDMZTEMMYGGODEMQ3GIMJZMY/",
           "source": "조선일보",
           "date": "2026-09-13"
+        },
+        {
+          "title": "정석원, 출���료 들어오자마자 ♥백지영에 송금..“30만원은 나 하라고” - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/13/HBRGMZJZMM3DAODEGRSDGNLGG4/",
+          "source": "Chosunbiz",
+          "date": "2026-09-13"
         }
       ]
     },
     "우선주": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T09:19:00+09:00",
-      "lastSeen": "2026-09-14T09:19:00+09:00",
+      "lastSeen": "2026-09-14T09:46:00+09:00",
       "news": [
         {
           "title": "“삼성전자보다 삼성전자우 담아라” … 괴리율 80% 우선주, 하반기 재평가 받을 조건은",
@@ -2592,14 +2598,26 @@
           "url": "https://economist.co.kr/article/view/ecn202609070071",
           "source": "이코노미스트",
           "date": "2026-09-13"
+        },
+        {
+          "title": "\"3배 소각 효과 놔두고 보통주만 고집\"…상장사 '우선주 패싱' 논란",
+          "url": "https://v.daum.net/v/uUTiSqyOZL",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[칼럼] 자사주 소각 의무화 폭풍, 중소기업의 자본 생존 전략은?",
+          "url": "https://www.youthassembly.kr/news/997713",
+          "source": "유스연합",
+          "date": "2026-09-13"
         }
       ]
     },
     "맞벌이": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T09:19:00+09:00",
-      "lastSeen": "2026-09-14T09:19:00+09:00",
+      "lastSeen": "2026-09-14T09:46:00+09:00",
       "news": [
         {
           "title": "“월 600버는 고소득 맞벌이가 가난에 빠지는 과정”",
@@ -2622,10 +2640,10 @@
       ]
     },
     "ios27": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-14T09:19:00+09:00",
-      "lastSeen": "2026-09-14T09:19:00+09:00",
+      "lastSeen": "2026-09-14T09:46:00+09:00",
       "news": [
         {
           "title": "Why your iPhone may not get iOS 27, Apple’s next major update coming this week",
@@ -2695,6 +2713,136 @@
           "title": "환율 1550원→1340원 '뚝'…전문가 \"4분기 코스피 조정 가능성\"",
           "url": "https://www.newsis.com/view/NISX20260913_0003787303",
           "source": "뉴시스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "벌쏘임": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T09:46:00+09:00",
+      "lastSeen": "2026-09-14T09:46:00+09:00",
+      "news": [
+        {
+          "title": "\"9월에 특히 조심해야\"…50대 남성 호흡곤란 증상",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008751273",
+          "source": "SBS 뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "부산서 벌초하던 2명 벌쏘임…호흡곤란에 병원 이송",
+          "url": "https://www.newsis.com/view/NISX20260914_0003787713",
+          "source": "뉴시스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "부산 서구 초등학교서 주민 8명 말벌에 쏘여",
+          "url": "https://news.nate.com/view/20260909n14459",
+          "source": "네이트",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "afc u-23 아시안컵": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T09:46:00+09:00",
+      "lastSeen": "2026-09-14T09:46:00+09:00",
+      "news": [
+        {
+          "title": "[아시안게임] '4연패 정조준' 이민성호, 화기애애한 막바지 담금질",
+          "url": "https://www.yna.co.kr/view/AKR20260913044600007",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'K리거 13명+이현주 합류' 이민성호, 사전 캠프 시즈오카로 출국…해외파 차례로 현지 합류",
+          "url": "https://sports.news.nate.com/view/20260906n09754",
+          "source": "네이트",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "'U23 아시안컵 4위→월드컵 조별리그 탈락' 굴욕의 연속…韓 축구 아시안���임에서 희망 볼 수 있을까",
+          "url": "https://mydaily.co.kr/page/view/2026091315113118706",
+          "source": "마이데일리",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "마리야 샤라포바": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T09:46:00+09:00",
+      "lastSeen": "2026-09-14T09:46:00+09:00",
+      "news": [
+        {
+          "title": "'5억 금목걸이 차고 망사 드레스까지 입었는데...' 사발렌카 US오픈 결승에서 '멘탈붕괴'...100주 만에 세계 1위 빼앗겼다",
+          "url": "https://v.daum.net/v/3aW71AiPhL",
+          "source": "Daum",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "새로운 ‘뉴욕 퀸’ 탄생 순간… 3연패 무산 사발렌카, 라켓을 부수다",
+          "url": "https://www.donga.com/news/Sports/article/all/20260914/134660698/2",
+          "source": "동아일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "발 부상 딛고 US오픈 우승한 리바키나 \"뉴욕이 좋아지네요\"",
+          "url": "https://www.yna.co.kr/view/AKR20260913019800007",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "유웨이": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T09:46:00+09:00",
+      "lastSeen": "2026-09-14T09:46:00+09:00",
+      "news": [
+        {
+          "title": "'수시 먹통' 원서접수 미완료 최대 1천200여명…14일부터 구제(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260913055751530",
+          "source": "연합뉴스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "‘수시모집 서버 오류’ 사태…오늘 오전 9시부터 구제신청 접수",
+          "url": "https://www.donga.com/news/Society/article/all/20260914/134661565/1",
+          "source": "동아일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "2027 수시, ‘최종 경쟁률’ 보고 ‘눈치작전’ 가능했다…‘서버 먹통’ 일파만파",
+          "url": "https://www.hani.co.kr/arti/society/schooling/1277599.html",
+          "source": "한겨레",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    "경기도": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T09:46:00+09:00",
+      "lastSeen": "2026-09-14T09:46:00+09:00",
+      "news": [
+        {
+          "title": "오래살면서 자산 형성 가능하게…경기도, 청년·신혼부부 '주거모델' 연구",
+          "url": "https://www.newsis.com/view/NISX20260914_0003787828",
+          "source": "뉴시스",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "경기도, 청년·신혼부부 위한 ‘경기도형 공정주거 모델’ 연구 추진",
+          "url": "https://www.munhwa.com/article/11616703",
+          "source": "문화일보",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "경기도 '추미애표 청년 주택 모델' 개발 착수...3개월 단기 연구 의뢰",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3694021",
+          "source": "국제뉴스",
           "date": "2026-09-13"
         }
       ]
