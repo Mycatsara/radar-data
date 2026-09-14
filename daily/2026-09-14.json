@@ -5406,6 +5406,266 @@
           "date": "2026-09-14"
         }
       ]
+    },
+    "편의점": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "news": [
+        {
+          "title": "편의점 5만개 시대, ‘특화점포’가 승부 가른다",
+          "url": "https://www.viva100.com/article/20260913500543",
+          "source": "브릿지경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "\"한국 오면 꼭 사야해\" 올영도 다이소도 아닌 이곳 꼭 간다…외국인이 바꾼 '돈 버는 공식'[주末머니]",
+          "url": "https://v.daum.net/v/ZTHDpNfzj3?f=p",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'천편일률' 벗어던진 편의���…특화매장, 일반점 매출의 '2배'",
+          "url": "https://www.yna.co.kr/view/AKR20260912011000030",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "한국경제tv": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "news": [
+        {
+          "title": "실종 아동 90명 얼굴로 포르쉐 도배했더니…기적 일어났다",
+          "url": "https://www.donga.com/news/Inter/article/all/20260914/134664353/1",
+          "source": "동아일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "\"중국에서 가장 멋진 차\"…실종아동 '전단지'로 도배된 포르쉐 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/14/2026091414180321115",
+          "source": "머니투데이",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "1억3000만원대 포르쉐에 전단지 90장 붙인 차주...왜?",
+          "url": "https://www.dailian.co.kr/news/view/1690073/1%EC%96%B53000%EB%A7%8C%EC%9B%90%EB%8C%80-%ED%8F%AC%EB%A5%B4%EC%89%90-%EC%A0%84%EB%8B%A8%EC%A7%80-90-2026",
+          "source": "데일리안",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "연방 공개 시장 위원회": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "news": [
+        {
+          "title": "[뉴욕증시] '금리 인상' 우려…연준 행보에 '주목'",
+          "url": "https://v.daum.net/v/20260914074504262",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "유가하락·CPI 안도에 5일 만에 반등‥다우 1%↑",
+          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6851737_36981.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "기준금리 인상으로 기우는 추…미 국채 ‘10년물 금리’ 5% 넘나",
+          "url": "https://www.khan.co.kr/article/202609132026035",
+          "source": "경향신문",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "박지수": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "news": [
+        {
+          "title": "[아시안게임] 여자농구 대표팀, 박지수 합류 불발‥11명으로 출전",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6851667_36946.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "여자농구, 박지현·박지수 없이 나고야행…추가 발탁 없이 11명 AG 출전 확정",
+          "url": "https://www.donga.com/news/Sports/article/all/20260914/134662574/1",
+          "source": "동아일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "여자농구, ’박지현·박지수’ 없이 AG 참가…최종 명단 11인 확정",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260914104002RxL",
+          "source": "연합뉴스TV",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "기본소득당": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "news": [
+        {
+          "title": "[사설] 성평등부 장관 기준은 ‘성평등 정책 실현 능력’ 돼야",
+          "url": "https://www.hani.co.kr/arti/opinion/editorial/1277806.html",
+          "source": "한겨레",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "“기자회견이 불 지른 꼴”···민주당 지도부, 용혜인 의혹 반박에도 여론 반전 기미 없자 ‘사퇴 요구’",
+          "url": "https://www.khan.co.kr/article/202609131829001",
+          "source": "경향신문",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "韓총리 \"지지율로 민심의 소리 들어…엄중하고 무겁게 생각\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260914114251001",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "착륙": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "news": [
+        {
+          "title": "美 공화 의원, 탑승 비행기 호수에 비상착륙하자 헤엄쳐 탈출",
+          "url": "https://www.yna.co.kr/view/AKR20260914001900072",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'트럼프픽' 美주지사 후보 경비행기 호수 추락…\"헤엄쳐 탈출\"",
+          "url": "https://v.daum.net/v/20260914082845311",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "친 트럼프 성향 미국 공화당 의원 탄 비행기, 호수에 비상 착륙...2명 경상",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609140620540284",
+          "source": "YTN",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "옌스 카스트로 프": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "news": [
+        {
+          "title": "'어깨부상+아시안게임 탈락에 소속팀 감독까지 경질' 옌스 카스트로프에게 닥친 아픈 시련",
+          "url": "https://v.daum.net/v/20260913213009956",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[오피셜] 결국 경질 엔딩…韓 국대 옌스, 중용 구상했던 감독과 결별…묀헨글라트바흐, '3연패·12실점' 폴란스키 전격 해임",
+          "url": "https://sports.news.nate.com/view/20260913n15161",
+          "source": "네이트",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "카스트로프의 묀헨글라트바흐, 성적 부진으로 감독 경질",
+          "url": "https://sports.khan.co.kr/article/202609141327003",
+          "source": "스포츠경향",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "수도권 광역 급행 철도 c 노선": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "news": [
+        {
+          "title": "우여곡절 끝 GTX-C 15일 착공...수원에서 청량리까지 75분→30분 단축",
+          "url": "https://www.mk.co.kr/news/economy/12152043",
+          "source": "매일경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "GTX C노선 15일 착공 \"덕정~삼성·수원~청량리 30분대로\"",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971823",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "2년 넘게 미뤄진 GTX-C 15일 착공···수원역~청량리역 30분, 양주덕정~삼성역 30분",
+          "url": "https://www.khan.co.kr/article/202609141532001",
+          "source": "경향신문",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "xổ số miền nam": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "news": [
+        {
+          "title": "Cập nhật kết quả xổ số Huế, Phú Yên hôm nay 14.9",
+          "url": "https://laodong.vn/ldt/tin-tuc/cap-nhat-ket-qua-xo-so-hue-phu-yen-hom-nay-149-1766664.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "XSHCM 14/9 - Kết quả xổ số Hồ Chí Minh hôm nay 14/9/2026",
+          "url": "https://vtcnews.vn/xshcm-14-9-ket-qua-xo-so-ho-chi-minh-hom-nay-14-9-2026-ar1038190.html",
+          "source": "Báo điện tử VTC News",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "XSMB 14/9/2026 - Kết quả xổ số miền Bắc hôm nay 14/9/2026",
+          "url": "https://thethao247.vn/493-xsmb-14-9-2026-ket-qua-xo-so-mien-bac-hom-nay-14-9-2026-c123-d436079.html",
+          "source": "Thể Thao 247",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "김연정": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-14T20:14:00+09:00",
+      "lastSeen": "2026-09-14T20:14:00+09:00",
+      "news": [
+        {
+          "title": "“해명이 더 웃겨”… 한화 김연정, 남편 KIA 하주석 2루타에 ‘함박 웃음’ 해명",
+          "url": "https://www.sportsseoul.com/news/read/1635024",
+          "source": "스포츠서울",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "하지원♥노시환 열애설 '반전'…김연정 \"중계 화면 때문\"",
+          "url": "https://www.xportsnews.com/article/2194763",
+          "source": "엑스포츠뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'열애설 그런거 신경안써요!' 노시환 응원하는 한치 하지원",
+          "url": "https://www.starnewskorea.com/player/shorts/22045?period=weekly",
+          "source": "스타뉴스",
+          "date": "2026-09-14"
+        }
+      ]
     }
   },
   "sections": {
