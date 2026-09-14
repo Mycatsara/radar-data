@@ -5976,10 +5976,10 @@
       ]
     },
     "파업": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-14T21:47:00+09:00",
-      "lastSeen": "2026-09-14T22:16:00+09:00",
+      "lastSeen": "2026-09-14T22:44:00+09:00",
       "news": [
         {
           "title": "\"시민의 발이 또 볼모냐\"… 오세훈 \"연봉 2천만원 인상 과도, 버스 필수공익사업 지정해야\"",
@@ -5998,14 +5998,20 @@
           "url": "https://www.yna.co.kr/view/AKR20260914108951004",
           "source": "연합뉴스",
           "date": "2026-09-14"
+        },
+        {
+          "title": "[(숏폼영상)서울시 팩트브리핑 ] 이번 시내버스 파업, 서울시 탓이라고?",
+          "url": "https://mediahub.seoul.go.kr/archives/2019373",
+          "source": "서울특별시",
+          "date": "2026-09-14"
         }
       ]
     },
     "두산에너 빌리티": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-14T21:47:00+09:00",
-      "lastSeen": "2026-09-14T22:16:00+09:00",
+      "lastSeen": "2026-09-14T22:44:00+09:00",
       "news": [
         {
           "title": "두산에너빌리티, 9만원대 품고 새주로…다음 행보는",
@@ -6028,10 +6034,10 @@
       ]
     },
     "오타니 쇼헤이": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-14T21:47:00+09:00",
-      "lastSeen": "2026-09-14T22:16:00+09:00",
+      "lastSeen": "2026-09-14T22:44:00+09:00",
       "news": [
         {
           "title": "\"지옥 같다\" 슈퍼팀 다저스에 무슨 일이…오타니 쓰러지더니 프리먼까지 '무릎 이상'→로버츠 감독 \"움직임 좋지 않아\" 우려",
@@ -6060,10 +6066,10 @@
       ]
     },
     "임시 공휴일": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-14T21:47:00+09:00",
-      "lastSeen": "2026-09-14T22:16:00+09:00",
+      "lastSeen": "2026-09-14T22:44:00+09:00",
       "news": [
         {
           "title": "추석 연휴 하루 더?…정부 답변은",
@@ -6081,6 +6087,12 @@
           "title": "“추석 하루 더 쉬나?”…28일 월요일 ‘임시공휴일’ 가능성은",
           "url": "https://www.kyeonggi.com/article/20260913580428",
           "source": "경기일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "짧은 추석 연휴, 앞뒤로 전원 연차 통보한 사장님…가능할까?",
+          "url": "https://v.daum.net/v/20260914220241628",
+          "source": "Daum",
           "date": "2026-09-14"
         }
       ]
@@ -6138,10 +6150,10 @@
       ]
     },
     "전현무계획": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-14T22:16:00+09:00",
-      "lastSeen": "2026-09-14T22:16:00+09:00",
+      "lastSeen": "2026-09-14T22:44:00+09:00",
       "news": [
         {
           "title": "전현무 방송 ‘조작설’ 또 터져···‘전현무계획4’ “식당 사전섭외 아냐” 의혹 전면 부인",
@@ -6164,10 +6176,10 @@
       ]
     },
     "lng선": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-14T22:16:00+09:00",
-      "lastSeen": "2026-09-14T22:16:00+09:00",
+      "lastSeen": "2026-09-14T22:44:00+09:00",
       "news": [
         {
           "title": "\"주문 쏟아진다\"…한 번에 1조6000억 '잭팟' 터진 이 회사",
@@ -6186,14 +6198,20 @@
           "url": "https://news.mtn.co.kr/news-detail/2026091410523069100",
           "source": "MTN 머니투데이방송",
           "date": "2026-09-14"
+        },
+        {
+          "title": "삼성중공업, 연이은 선박 수주로 상선 부문 지난해 수주 이미 돌파",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260914.99099004424",
+          "source": "국제신문",
+          "date": "2026-09-14"
         }
       ]
     },
     "염경엽": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-14T22:16:00+09:00",
-      "lastSeen": "2026-09-14T22:16:00+09:00",
+      "lastSeen": "2026-09-14T22:44:00+09:00",
       "news": [
         {
           "title": "염경엽 1년 내내 입맛 다시는데… LG 기대주 올해는 1군 못 오나, 내년은 염경엽 멘트 달라질까",
@@ -6211,6 +6229,96 @@
           "title": "오스틴, LG 홈런 새 역사… 39호 쾅",
           "url": "https://www.chosun.com/sports/baseball/2026/09/13/OD4R56Q45JGI5PHWSYN5U22ZRM/",
           "source": "조선일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "‘LG 새 역사’ 39홈런 터트린 LG 오스틴, 2018 김재환·1998 우즈 기록도 넘본다",
+          "url": "https://v.daum.net/v/20260914155852782",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "김도영 빠진 사이 오스틴이 치고 나갈까…AG가 흔드는 타이틀 경쟁",
+          "url": "https://www.news1.kr/sports/baseball/6289813",
+          "source": "뉴스1",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "中村ゆり": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T22:44:00+09:00",
+      "lastSeen": "2026-09-14T22:44:00+09:00",
+      "news": [
+        {
+          "title": "俳優・中村ゆりさん死去 44歳",
+          "url": "https://news.yahoo.co.jp/pickup/6595295",
+          "source": "Yahoo!ニュース",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "「今夜はコの字で」の恵子先輩がもう見られない…中村ゆりさん早すぎる死去に悲痛の声",
+          "url": "https://www.nikkansports.com/entertainment/news/202609140001804.html",
+          "source": "日刊スポーツ",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "MARI 盟友・中村ゆりさん追悼 「YURIMARI」で一緒にデビュー",
+          "url": "https://www.sponichi.co.jp/entertainment/news/2026/09/14/kiji/20260914s00041000376000c.html",
+          "source": "スポニチ Sponichi Annex",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "김혜선": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T22:44:00+09:00",
+      "lastSeen": "2026-09-14T22:44:00+09:00",
+      "news": [
+        {
+          "title": "김혜선 “독일서 남편과 소개팅으로 만나…1시간 늦었는데도 기다린 뒤 안아줘”",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260914/134667128/1",
+          "source": "동아일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "스테판 지겔♥김혜선, 첫 만남에 결혼을 결심한 이유는? | KBS 260914 방송",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K01_PS-2026162941-01-000_MFSC2&program_code=T2000-0032&program_id=PS-2026162941-01-000&section_code=05&broadcast_complete_yn=N&section_id=10916",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "인기 절정에 돌연 방송서 사라졌다…독일로 떠난 이유 \"우울증 심해 안 좋은 생각까지\" ('아침마당')[종합]",
+          "url": "https://v.daum.net/v/20260914155337556",
+          "source": "Daum",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "대한민국 의 대법관": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-09-14T22:44:00+09:00",
+      "lastSeen": "2026-09-14T22:44:00+09:00",
+      "news": [
+        {
+          "title": "김성수 \"이재명 파기환송은 이례적\"‥대법관 제청 갈등엔 \"상호존중해야\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851774_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "김성수 청문회...'대법�� 제청·대통령 재판' 공방",
+          "url": "https://www.ytn.co.kr/_ln/0101_202609142148221260",
+          "source": "YTN",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "김성수 \"李대통령 재판 중단, 재판부서 심사숙고해 결정했을 것\"(종합)",
+          "url": "https://v.daum.net/v/20260914143104001",
+          "source": "Daum",
           "date": "2026-09-14"
         }
       ]
