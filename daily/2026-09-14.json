@@ -4062,10 +4062,10 @@
       "news": []
     },
     "여객기": {
-      "count": 2,
-      "maxTraffic": 1000,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-14T14:41:00+09:00",
-      "lastSeen": "2026-09-14T15:19:00+09:00",
+      "lastSeen": "2026-09-14T15:47:00+09:00",
       "news": [
         {
           "title": "“덩치 커봤자 밥이나 축내죠”…애물단지 취급받는 세계최대 여객기",
@@ -4132,10 +4132,10 @@
       ]
     },
     "대형주": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-14T15:19:00+09:00",
-      "lastSeen": "2026-09-14T15:19:00+09:00",
+      "lastSeen": "2026-09-14T15:47:00+09:00",
       "news": [
         {
           "title": "중동 불안에 AI 속도조절론까지‥코스피 하락세",
@@ -4154,14 +4154,26 @@
           "url": "https://kr.investing.com/news/stock-market-news/article-2092716",
           "source": "Investing.com 한국어",
           "date": "2026-09-14"
+        },
+        {
+          "title": "코스피 6900인데…1년 전보다 싼 대형주들",
+          "url": "https://v.daum.net/v/FbqkYLx2S2",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[창간 24/K자 증시 ①] 코스피 67% 오를 때 내 종목은 뒷걸음질···'반도체 투톱'에 갈렸다",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=637717",
+          "source": "서울파이낸스",
+          "date": "2026-09-14"
         }
       ]
     },
     "세무조사": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T15:19:00+09:00",
-      "lastSeen": "2026-09-14T15:19:00+09:00",
+      "lastSeen": "2026-09-14T15:47:00+09:00",
       "news": [
         {
           "title": "한국서 돈 벌고 세금은 탈루? 배달의민족 등 41개 업체 세무조사",
@@ -4180,14 +4192,26 @@
           "url": "https://www.yna.co.kr/view/AKR20260914080000002",
           "source": "연합뉴스",
           "date": "2026-09-14"
+        },
+        {
+          "title": "음식값 올리더니 슈퍼카 3대 타고…배달앱은 1000억 탈루",
+          "url": "https://v.daum.net/v/20260914134651845",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "배민·무신사·풀무원 등 세무조사…물가 불안 탈세 혐의",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1277704.html",
+          "source": "한겨레",
+          "date": "2026-09-14"
         }
       ]
     },
     "이봉주": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-14T15:19:00+09:00",
-      "lastSeen": "2026-09-14T15:19:00+09:00",
+      "lastSeen": "2026-09-14T15:47:00+09:00",
       "news": [
         {
           "title": "“포기 안하면 언젠가 이긴다” 이봉주, 하프마라톤 완주",
@@ -4210,10 +4234,10 @@
       ]
     },
     "배우": {
-      "count": 1,
-      "maxTraffic": 10000,
+      "count": 2,
+      "maxTraffic": 20000,
       "firstSeen": "2026-09-14T15:19:00+09:00",
-      "lastSeen": "2026-09-14T15:19:00+09:00",
+      "lastSeen": "2026-09-14T15:47:00+09:00",
       "news": [
         {
           "title": "손예진 \"아들, 배우 안 하기도 힘든 얼굴\"",
@@ -4231,6 +4255,142 @@
           "title": "'냉부해2' 손예진, 연예인급 외모의 子 공개 \"배우 안하기 힘들어\"",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3693610",
           "source": "국제뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "손예진, 현빈 몰래 '냉부해' 가져온 꿀…가격 '250만원' 깜짝 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/14/2026091414503785511",
+          "source": "머니투데이",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "자전거": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-14T15:47:00+09:00",
+      "lastSeen": "2026-09-14T15:47:00+09:00",
+      "news": [
+        {
+          "title": "“길 막고 있는 자전거, 보이는 대로 다 뺏었습니다”…벌써 3400대 압수한 ‘이 나라’",
+          "url": "https://v.daum.net/v/20260913111503569",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "\"주차장 어디 있나요\"…견인 앞둔 공유 전기자전거, 킥보드처럼 사라지나",
+          "url": "https://news.nate.com/view/20260907n02968",
+          "source": "네이트",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[기자수첩] '두더지잡기' 같은 규제",
+          "url": "https://www.fnnews.com/news/202609101808192565",
+          "source": "파이낸셜뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "나성범": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T15:47:00+09:00",
+      "lastSeen": "2026-09-14T15:47:00+09:00",
+      "news": [
+        {
+          "title": "최지만에 빚진 KIA 나성범, 야구 배트 몇 자루로 갚을지 관심",
+          "url": "https://v.daum.net/v/20260914064524258",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "안갯속 2027 KBO 신인드래프트… “1라운드에서 누굴 뽑을지도 못 정했어요”",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=55161",
+          "source": "주간조선",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "'미래의 스타 한자리에' KBO 아마추어 베이스볼 위크 12일 개막",
+          "url": "https://www.newspim.com/news/view/20260911001106",
+          "source": "뉴스핌",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "축제": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-14T15:47:00+09:00",
+      "lastSeen": "2026-09-14T15:47:00+09:00",
+      "news": [
+        {
+          "title": "호수공원·라페스타가 거대한 무대로…고양호수예술축제 18일 개막",
+          "url": "https://www.kyeongin.com/article/1770795",
+          "source": "경인일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "고양호수예술축제 18일 개막…“관람객 43만명 목표\"",
+          "url": "https://www.kyeonggi.com/article/20260914580205",
+          "source": "경기일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "민경선 고양시장 “임영웅 콘서트 열기, 호수예술축제로 잇는다”",
+          "url": "https://view.asiae.co.kr/article/2026091407573584783",
+          "source": "아시아경제",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "공효진": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-14T15:47:00+09:00",
+      "lastSeen": "2026-09-14T15:47:00+09:00",
+      "news": [
+        {
+          "title": "\"하늘의 별 따기\" 이정은, '경주기행' 상영관 편성 씁쓸..공효진 \"슬퍼\"",
+          "url": "https://v.daum.net/v/20260914073510106",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "이정은·공효진 '동백꽃' 이후 7년만 모녀 재회..관객들 울린 오열 연기(경주기행) - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/movie/2026/09/14/GY3TKZTEHEZTIMJXMFRDQNZWME/",
+          "source": "Chosunbiz",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[이진송의 아니 근데] 삐걱거리고 덜컹대는 복수로 가는 길, 애도의 시작이었다",
+          "url": "https://www.khan.co.kr/article/202609120800001",
+          "source": "경향신문",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "윤건영": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-14T15:47:00+09:00",
+      "lastSeen": "2026-09-14T15:47:00+09:00",
+      "news": [
+        {
+          "title": "윤건영 “이 대통령, 국민 이기려 해선 안 돼…공소 취소·연임 개헌 정리해야”",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1277665.html",
+          "source": "한겨레",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "이 대통령 기자회견 검토에 노무현·문재인과 일한 윤건영의 고언",
+          "url": "https://v.daum.net/v/20260914122250781",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "윤건영 “여론악화 본질은 신뢰붕괴…공소취소·연임개헌 털어야”",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000011778&code=61111111&sid1=pol",
+          "source": "국민일보",
           "date": "2026-09-14"
         }
       ]
