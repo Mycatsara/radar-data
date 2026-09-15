@@ -4163,10 +4163,10 @@
       ]
     },
     "롯데 대 삼성": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-15T19:42:00+09:00",
-      "lastSeen": "2026-09-15T19:42:00+09:00",
+      "lastSeen": "2026-09-15T20:13:00+09:00",
       "news": [
         {
           "title": "‘안타 하나 없이 끝내기라니’ 볼넷→희생 번트→고의4구→사구→밀어내기 볼넷…삼성, 롯데에 3-2 승 [오!쎈 퓨처스] - 머니투데이",
@@ -4189,10 +4189,10 @@
       ]
     },
     "매매": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T19:42:00+09:00",
-      "lastSeen": "2026-09-15T19:42:00+09:00",
+      "lastSeen": "2026-09-15T20:13:00+09:00",
       "news": [
         {
           "title": "8월 서울 주택매매가격 상승률 5개월 만에 주춤, 강남↓외곽↑",
@@ -4215,10 +4215,10 @@
       ]
     },
     "브라이언 암스트롱": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T19:42:00+09:00",
-      "lastSeen": "2026-09-15T19:42:00+09:00",
+      "lastSeen": "2026-09-15T20:13:00+09:00",
       "news": [
         {
           "title": "클래리티 법안 표결 앞둔 美…SEC·월가, 불발돼도 가상자산 사업 계속",
@@ -4237,14 +4237,20 @@
           "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37784",
           "source": "중기이코노미",
           "date": "2026-09-15"
+        },
+        {
+          "title": "“운명의 날 D-1” 美 공화당, 클래리티법 최종 초안 공개",
+          "url": "https://www.etoday.co.kr/news/view/2625885",
+          "source": "이투데이",
+          "date": "2026-09-15"
         }
       ]
     },
     "소유진": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-15T19:42:00+09:00",
-      "lastSeen": "2026-09-15T19:42:00+09:00",
+      "lastSeen": "2026-09-15T20:13:00+09:00",
       "news": [
         {
           "title": "소유진, 홈쇼핑 제작진 전원에 순금 돌렸다... 통 큰 2주년 선물 [공식]",
@@ -4267,10 +4273,10 @@
       ]
     },
     "미국 의 재무부 장관": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T19:42:00+09:00",
-      "lastSeen": "2026-09-15T19:42:00+09:00",
+      "lastSeen": "2026-09-15T20:13:00+09:00",
       "news": [
         {
           "title": "[이슈&인사이트] 성장으로 빚을 갚는다는 약속, 그 청구서는 누가 받는가",
@@ -4288,6 +4294,136 @@
           "title": "베선트 \"3% 성장시 위기 극복\"…현실서 가능할까?",
           "url": "https://stock.mk.co.kr/news/view/1158403",
           "source": "매일경제 마켓",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "u-23 việt nam đấu với đội tuyển bóng đá u-23 quốc gia kuwait": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T20:13:00+09:00",
+      "lastSeen": "2026-09-15T20:13:00+09:00",
+      "news": [
+        {
+          "title": "Việt Nam – Kuwait: Lứa U23 tìm chiến thắng đầu tiên ở ASIAD 20",
+          "url": "https://vnexpress.net/viet-nam-kuwait-lua-u23-tim-chien-thang-dau-tien-o-asiad-20-5120508.html",
+          "source": "VnExpress",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Vì sao Đình Bắc đang ở Nhật nhưng không hội quân cùng U23 Việt Nam dự ASIAD 20?",
+          "url": "https://hoahoctro.tienphong.vn/vi-sao-dinh-bac-dang-o-nhat-nhung-khong-hoi-quan-cung-u23-viet-nam-du-asiad-20-post1876550.tpo",
+          "source": "Báo điện tử Tiền Phong",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Trực tiếp bóng đá U23 Việt Nam 0-0 U23 Kuwait: Cao Văn Bình cứu thua xuất sắc",
+          "url": "https://laodong.vn/bong-da/truc-tiep-bong-da-u23-viet-nam-0-0-u23-kuwait-cao-van-binh-cuu-thua-xuat-sac-1767171.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "복권": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-15T20:13:00+09:00",
+      "lastSeen": "2026-09-15T20:13:00+09:00",
+      "news": [
+        {
+          "title": "15명 돈 모아 산 복권 51억 당첨되자…복권 쥔 그가 결근했다",
+          "url": "https://www.donga.com/news/Inter/article/all/20260915/134670239/2",
+          "source": "동아일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "공동 구입한 복권이 1등 당첨…\"내가 더 갖겠다\" 다툼 결말은",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260914171114V3M",
+          "source": "연합뉴스TV",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "동료 14명과 돈 모아 산 복권…'51억' 1등 당첨되자 “내가 더 갖겠다” 다툼 결말은?",
+          "url": "https://www.etnews.com/20260915000322",
+          "source": "전자신문",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "베트남 u-23 대 쿠웨이트 u-23 축구 국가대표팀": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T20:13:00+09:00",
+      "lastSeen": "2026-09-15T20:13:00+09:00",
+      "news": [
+        {
+          "title": "딘 박은 왜 일본에 있는데도 2020 아시안게임에 참가하는 베트남 U23 대표팀에 합류하지 않는 걸까요?",
+          "url": "https://www.vietnam.vn/ko/vi-sao-dinh-bac-dang-o-nhat-nhung-khong-hoi-quan-cung-u23-viet-nam-du-asiad-20",
+          "source": "Vietnam.vn",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "베트남 U23 대 쿠웨이트 U23 경기 생중계, 9월 15일 오후 5시: 반드시 이겨야 하는 경기.",
+          "url": "https://www.vietnam.vn/ko/truc-tiep-u23-viet-nam-vs-u23-kuwait-17h00-ngay-15-9-menh-lenh-phai-thang",
+          "source": "Vietnam.vn",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "후방의 '대포'",
+          "url": "https://www.vietnam.vn/ko/nhung-hong-phao-o-tuyen-sau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "대한민국 축구": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T20:13:00+09:00",
+      "lastSeen": "2026-09-15T20:13:00+09:00",
+      "news": [
+        {
+          "title": "박문성 소신발언 “이승우 대표팀 안 뽑히는 이유…피지컬·수비 능력 부족”",
+          "url": "https://v.daum.net/v/20260915123727889",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "모레노 감독, 스리백 버리고 4-4-2 선택한 이유는?",
+          "url": "https://www.ytn.co.kr/_ln/0107_202609151829557373",
+          "source": "YTN",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“이름값 아닌 실력만 봤다” 모레노가 뽑은 김민수, 한국축구 구원할까",
+          "url": "https://www.khan.co.kr/article/202609151633001",
+          "source": "경향신문",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "삼성중공업 거제조선소": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T20:13:00+09:00",
+      "lastSeen": "2026-09-15T20:13:00+09:00",
+      "news": [
+        {
+          "title": "경남 거제 조선소서 협력업체 대표 등 2명 옥상 농성",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8663878",
+          "source": "KBS 뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "삼성중공업 시위 협력사 대표 “8년 협력업체 운영에 직원 임금체불만”",
+          "url": "https://v.daum.net/v/20260915175528351",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "삼성重 거제조선소 옥상서 협력업체 대표 2명 농성...사측과 면담 약속 후 내려와",
+          "url": "https://www.geojejournal.co.kr/news/articleView.html?idxno=207881",
+          "source": "거제저널",
           "date": "2026-09-15"
         }
       ]
