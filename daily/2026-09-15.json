@@ -2947,10 +2947,10 @@
       ]
     },
     "로켓": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-15T15:47:00+09:00",
-      "lastSeen": "2026-09-15T15:47:00+09:00",
+      "lastSeen": "2026-09-15T16:15:00+09:00",
       "news": [
         {
           "title": "[영상]‘우주 주권’ 싣고 솟구쳤다…유럽 땅에서 지구궤도용 로켓 첫 발사",
@@ -2973,10 +2973,10 @@
       ]
     },
     "대구로": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-15T15:47:00+09:00",
-      "lastSeen": "2026-09-15T15:47:00+09:00",
+      "lastSeen": "2026-09-15T16:15:00+09:00",
       "news": [
         {
           "title": "대구로페이 판매 오전 9시로 통일…고령층 구매 기회 확대",
@@ -2999,10 +2999,10 @@
       ]
     },
     "황 유민": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T15:47:00+09:00",
-      "lastSeen": "2026-09-15T15:47:00+09:00",
+      "lastSeen": "2026-09-15T16:15:00+09:00",
       "news": [
         {
           "title": "KLPGA vs LPGA ‘미니 대항전’ 성사…서교림·김민솔의 기세냐, 리디아 고·이민지의 명성이냐",
@@ -3124,6 +3124,188 @@
           "title": "조모상 ‘나는 솔로’ 31기 영식, 가슴 아픈 비보 “참 많이 행복했다”",
           "url": "https://m.newsen.com/news_view.php?uid=202609151458052310",
           "source": "뉴스엔",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "신주아": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T16:15:00+09:00",
+      "lastSeen": "2026-09-15T16:15:00+09:00",
+      "news": [
+        {
+          "title": "류화영, 결혼식 사진 공개 \"흔들림까지도 함께 품으며…단단하게 걸어갈 것\"",
+          "url": "https://v.daum.net/v/20260914092103362?f=p",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'태국 재벌가 며느리' 신주아, 고급 레스토랑서 근황 포착",
+          "url": "https://www.newsis.com/view/NISX20260915_0003789619",
+          "source": "뉴시스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'3살 연상 사업가♥' 류화영, 초호화 신혼여�� 포착 \"땡땡 부어도 좋아요\" - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/14/GQZGIYZYGE2TGNRZG4ZGCZJRGI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "해상작전헬기": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T16:15:00+09:00",
+      "lastSeen": "2026-09-15T16:15:00+09:00",
+      "news": [
+        {
+          "title": "軍, 잠수함 찾는 '시호크' 해상작전헬기 20여대 추가 도입",
+          "url": "https://v.daum.net/v/20260915095258426",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "군, 해상작전헬기에 美시호크 선정… 2032년까지 3조 2400억 투입",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3432931",
+          "source": "천지일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "제178회 방위사업추진위��회 결과",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=447314",
+          "source": "서울Pn",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "우주 무기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T16:15:00+09:00",
+      "lastSeen": "2026-09-15T16:15:00+09:00",
+      "news": [
+        {
+          "title": "미 \"우주 궤도에 무기 운용 중\"…첫 공식 인정",
+          "url": "https://www.chosun.com/economy/tech_it/2026/09/15/WTNIQ7RPTZFHJJHWHZ5MLR76FA/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"적 위성 직접 무력화\"‥美, 우주무기 지구 궤도 실전 배치 첫 인정",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6851906_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "미국, “궤도상 우주 무기 배치” 첫 인정",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8663614",
+          "source": "KBS 뉴스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "송가인": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T16:15:00+09:00",
+      "lastSeen": "2026-09-15T16:15:00+09:00",
+      "news": [
+        {
+          "title": "송가인 팬카페, 진도군에 고향사랑기부금 등 2천200만원 기부",
+          "url": "https://v.daum.net/v/20260914152142001",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "송가인 팬카페 '어게인', 진도군에 2,200만원 기부",
+          "url": "https://view.asiae.co.kr/article/2026091416412218045",
+          "source": "아시아경제",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘가수 따라 고향 사랑’ 송가인 팬들, 진도에 2200만원 쾌척",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3432770",
+          "source": "천지일보",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "이더 리움": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T16:15:00+09:00",
+      "lastSeen": "2026-09-15T16:15:00+09:00",
+      "news": [
+        {
+          "title": "비트마인, 이더리움 물량 600만 개 육박…전체 발행량 4.9% 확보",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434925",
+          "source": "연합인포맥스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "트레저리 기업, 9월 변동장서 이더리움·솔라나·비트코인 매집",
+          "url": "https://kr.beincrypto.com/crypto-treasury-firms-eth-sol-btc/",
+          "source": "BeInCrypto",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "이더리움 생태계 붕괴 위기…비트마인 독점에 벼랑 끝 몰린 디파이 시장",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486987",
+          "source": "핀포인트뉴스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "뉴스 속보": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T16:15:00+09:00",
+      "lastSeen": "2026-09-15T16:15:00+09:00",
+      "news": [
+        {
+          "title": "“이번이 마지막 기회다”···이 대통령 기자회견 앞두고 정치 원로·전문가의 ‘작심 제언’",
+          "url": "https://www.khan.co.kr/article/202609141854001",
+          "source": "경향신문",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[속보]이 대통령, 18일 기자회견…지지율 하락 돌파구 마련할까",
+          "url": "https://v.daum.net/v/20260915155128488",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "김어준 “지지율 ‘2자 찍는다’ 걱정하니 저주라는 찐명”",
+          "url": "https://www.munhwa.com/article/11616930",
+          "source": "문화일보",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "가덕도신공항": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T16:15:00+09:00",
+      "lastSeen": "2026-09-15T16:15:00+09:00",
+      "news": [
+        {
+          "title": "국토부, 대우건설의 가덕도신공항 기본설계안 검토 21~22일 진행",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260914.99099004231",
+          "source": "국제신문",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[사설] 정부 부처 가덕신공항 공사비 '핑퐁' 지역민 속 터진다",
+          "url": "https://v.daum.net/v/20260915051204542",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "가덕도신공항 부지조성공사, 설계심의위원 21명 확정",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609131042052310756",
+          "source": "대한경제",
           "date": "2026-09-15"
         }
       ]
