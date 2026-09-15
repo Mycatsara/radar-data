@@ -435,10 +435,10 @@
       ]
     },
     "리버풀 대 토트넘": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-16T04:12:00+09:00",
-      "lastSeen": "2026-09-16T05:13:00+09:00",
+      "lastSeen": "2026-09-16T05:40:00+09:00",
       "news": [
         {
           "title": "리버풀 vs 토트넘 예측: 승리 시 다음 라운드 진출",
@@ -461,10 +461,10 @@
       ]
     },
     "clarity act": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-16T04:12:00+09:00",
-      "lastSeen": "2026-09-16T05:13:00+09:00",
+      "lastSeen": "2026-09-16T05:40:00+09:00",
       "news": [
         {
           "title": "US Senate to vote on advancing sweeping cryptocurrency bill",
@@ -537,10 +537,10 @@
       ]
     },
     "입스위치 대 아스널": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T04:41:00+09:00",
-      "lastSeen": "2026-09-16T05:13:00+09:00",
+      "lastSeen": "2026-09-16T05:40:00+09:00",
       "news": [
         {
           "title": "입스위치 vs 아스널 예측: 승리 시 다음 라운드 진출",
@@ -563,10 +563,10 @@
       ]
     },
     "박원숙": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T05:13:00+09:00",
-      "lastSeen": "2026-09-16T05:13:00+09:00",
+      "lastSeen": "2026-09-16T05:40:00+09:00",
       "news": [
         {
           "title": "박원숙 “세상 떠난 아들 못 해준 게 후회…손녀에 오피스텔·차 선물”",
@@ -585,14 +585,26 @@
           "url": "https://v.daum.net/v/20260915202737751",
           "source": "Daum",
           "date": "2026-09-15"
+        },
+        {
+          "title": "박원숙 \"세상 떠난 아들 못 해준 게 후회…손녀에 오피스텔·차 선물\"",
+          "url": "https://www.newsis.com/view/NISX20260915_0003790995",
+          "source": "뉴시스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“살아서 줘야 선물”…박원숙, 손녀에 오피스텔·학비·‘좋은 차’ 준 이유",
+          "url": "https://v.daum.net/v/20260915215400423",
+          "source": "Daum",
+          "date": "2026-09-15"
         }
       ]
     },
     "스마트폰": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T05:13:00+09:00",
-      "lastSeen": "2026-09-16T05:13:00+09:00",
+      "lastSeen": "2026-09-16T05:40:00+09:00",
       "news": [
         {
           "title": "삼성전자, 내년 1분기 메모리 가격 30~40% 인상..애플도 '수용'",
@@ -615,10 +627,10 @@
       ]
     },
     "엘체 대 레알 마드리드": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-16T05:13:00+09:00",
-      "lastSeen": "2026-09-16T05:13:00+09:00",
+      "lastSeen": "2026-09-16T05:40:00+09:00",
       "news": [
         {
           "title": "엘체 vs 레알 마드리드 예측: 선두 자리를 노릴 기회",
@@ -662,6 +674,110 @@
           "title": "‘이웃집 백만장자’ 연 매출 480억, ‘잡지의 여왕’ 이영혜···“테이블 하나가 1억?!”",
           "url": "https://sports.khan.co.kr/article/202609151949003",
           "source": "��포츠경향",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "신정환": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T05:40:00+09:00",
+      "lastSeen": "2026-09-16T05:40:00+09:00",
+      "news": [
+        {
+          "title": "'월 매출 1억' 신정환, 가게 연 지 6개월도 넘었는데..\"10원도 정산 못 받아\"",
+          "url": "https://v.daum.net/v/20260915235448821",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "탁재훈, '16년 자숙' 신정환 가게 찾아 툴툴 \"도와주는 것도 한계 있어\" ('휴먼스토리')",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/15/MQYWEYRRHE3DKYJUGJRWKYZQMI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "도박 논란 후 16년…신정환, 탁재훈에 울컥한 진심 \"30년 지기 형, 틈틈이 도움 줘\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-15/202609150100107270006976",
+          "source": "스포츠조선",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "england vs sri lanka": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T05:40:00+09:00",
+      "lastSeen": "2026-09-16T05:40:00+09:00",
+      "news": [
+        {
+          "title": "England look to continue domineering T20 form",
+          "url": "https://www.cricinfo.com/story/eng-vs-sl-1st-t20i-england-look-to-continue-domineering-t20-form-1554229",
+          "source": "Cricinfo",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "ENG vs SL 1st T20 live streaming: Where to watch today's cricket match?",
+          "url": "https://www.business-standard.com/cricket/news/eng-vs-sl-1st-t20-live-streaming-where-to-watch-today-s-cricket-match-126091500342_1.html",
+          "source": "Business Standard",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "England opener to make T20I debut against Sri Lanka",
+          "url": "https://www.icc-cricket.com/news/england-opener-to-make-t20i-debut-against-sri-lanka",
+          "source": "ICC",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "송지은": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T05:40:00+09:00",
+      "lastSeen": "2026-09-16T05:40:00+09:00",
+      "news": [
+        {
+          "title": "'박위 논란' 송지은, 결혼 전 시母 언급 장면 재조명…\"이해 안 가\" 비난 댓글",
+          "url": "https://v.daum.net/v/bhO3SpXSmB",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "한달째 침묵하는 박위, 방송가 손절 시작되나?…'세바시' 강연 삭제 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/15/2026091514005080911",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "박위, 7년 전 '세바시' 강연도 비공개…KTX 논란 후폭풍",
+          "url": "https://www.dailian.co.kr/news/view/1690693/%EB%B0%95%EC%9C%84-7%EB%85%84-%EC%A0%84-%EC%84%B8%EB%B0%94%EC%8B%9C-%EA%B0%95%EC%97%B0%EB%8F%84-%EB%B9%84%EA%B3%B5%EA%B0%9CK-2026",
+          "source": "데일리안",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "fomc": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T05:40:00+09:00",
+      "lastSeen": "2026-09-16T05:40:00+09:00",
+      "news": [
+        {
+          "title": "強くなったウォン相場の負担に加え、長期金利急騰にともなう収益性の懸念まで重なり、造船·電力機器など主要重厚長大業種の株価が一斉に急落した。 前日、米国債10年物金利が取引中5%をタッチし、長期調達金利..",
+          "url": "https://www.mk.co.kr/jp/stock/12153471",
+          "source": "매일경제",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "米連邦準備制度の金利引き上げの可能性が高まる中、当局はF4会議などで対応を開始",
+          "url": "https://japan.ajunews.com/view/20260913103270792",
+          "source": "아주경제",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "原油高・高物価・高金利の三重苦…世界の緊縮時計が進む（中央日報日本語版）",
+          "url": "https://news.yahoo.co.jp/articles/477e747d36dd99ca0774f5567c834ad89ac85637",
+          "source": "Yahoo!ニュース",
           "date": "2026-09-15"
         }
       ]
