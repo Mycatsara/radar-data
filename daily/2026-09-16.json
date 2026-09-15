@@ -563,10 +563,10 @@
       ]
     },
     "박원숙": {
-      "count": 2,
-      "maxTraffic": 1000,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-16T05:13:00+09:00",
-      "lastSeen": "2026-09-16T05:40:00+09:00",
+      "lastSeen": "2026-09-16T06:12:00+09:00",
       "news": [
         {
           "title": "박원숙 “세상 떠난 아들 못 해준 게 후회…손녀에 오피스텔·차 선물”",
@@ -601,10 +601,10 @@
       ]
     },
     "스마트폰": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-16T05:13:00+09:00",
-      "lastSeen": "2026-09-16T05:40:00+09:00",
+      "lastSeen": "2026-09-16T06:12:00+09:00",
       "news": [
         {
           "title": "삼성전자, 내년 1분기 메모리 가격 30~40% 인상..애플도 '수용'",
@@ -627,10 +627,10 @@
       ]
     },
     "엘체 대 레알 마드리드": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-16T05:13:00+09:00",
-      "lastSeen": "2026-09-16T05:40:00+09:00",
+      "lastSeen": "2026-09-16T06:12:00+09:00",
       "news": [
         {
           "title": "엘체 vs 레알 마드리드 예측: 선두 자리를 노릴 기회",
@@ -679,10 +679,10 @@
       ]
     },
     "신정환": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T05:40:00+09:00",
-      "lastSeen": "2026-09-16T05:40:00+09:00",
+      "lastSeen": "2026-09-16T06:12:00+09:00",
       "news": [
         {
           "title": "'월 매출 1억' 신정환, 가게 연 지 6개월도 넘었는데..\"10원도 정산 못 받아\"",
@@ -705,10 +705,10 @@
       ]
     },
     "england vs sri lanka": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-16T05:40:00+09:00",
-      "lastSeen": "2026-09-16T05:40:00+09:00",
+      "lastSeen": "2026-09-16T06:12:00+09:00",
       "news": [
         {
           "title": "England look to continue domineering T20 form",
@@ -727,14 +727,20 @@
           "url": "https://www.icc-cricket.com/news/england-opener-to-make-t20i-debut-against-sri-lanka",
           "source": "ICC",
           "date": "2026-09-15"
+        },
+        {
+          "title": "How to watch England vs Sri Lanka 2026 T20 series: cricket live streams, schedule, tickets and preview",
+          "url": "https://sports.yahoo.com/articles/watch-england-vs-sri-lanka-120000276.html?fr=sycsrp_catchall",
+          "source": "Yahoo Sports",
+          "date": "2026-09-15"
         }
       ]
     },
     "송지은": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-16T05:40:00+09:00",
-      "lastSeen": "2026-09-16T05:40:00+09:00",
+      "lastSeen": "2026-09-16T06:12:00+09:00",
       "news": [
         {
           "title": "'박위 논란' 송지은, 결혼 전 시母 언급 장면 재조명…\"이해 안 가\" 비난 댓글",
@@ -757,10 +763,10 @@
       ]
     },
     "fomc": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-16T05:40:00+09:00",
-      "lastSeen": "2026-09-16T05:40:00+09:00",
+      "lastSeen": "2026-09-16T06:12:00+09:00",
       "news": [
         {
           "title": "強くなったウォン相場の負担に加え、長期金利急騰にともなう収益性の懸念まで重なり、造船·電力機器など主要重厚長大業種の株価が一斉に急落した。 前日、米国債10年物金利が取引中5%をタッチし、長期調達金利..",
@@ -778,6 +784,84 @@
           "title": "原油高・高物価・高金利の三重苦…世界の緊縮時計が進む（中央日報日本語版）",
           "url": "https://news.yahoo.co.jp/articles/477e747d36dd99ca0774f5567c834ad89ac85637",
           "source": "Yahoo!ニュース",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "elche vs real madrid": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T06:12:00+09:00",
+      "lastSeen": "2026-09-16T06:12:00+09:00",
+      "news": [
+        {
+          "title": "El argentino Osorio debuta como titular ante un Madrid en el que repite Diomande",
+          "url": "https://es-us.noticias.yahoo.com/deportes/argentino-osorio-debuta-titular-madrid-183844335.html",
+          "source": "Yahoo",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "VIDEO: El gol de Kylian Mbappé para el 2-0 de Real Madrid sobre Elche en LaLiga",
+          "url": "https://www.directvsports.com/futbol/video-el-gol-de-kylian-mbappe-para-el-2-0-de-real-madrid-sobre-elche-en-laliga-20260915-0040.html",
+          "source": "DSports",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Mbappé hace el segundo a pase de Diomande",
+          "url": "https://www.mundodeportivo.com/futbol/real-madrid/20260915/1004227716/mbappe-segundo-pase-diomande.html",
+          "source": "Mundo Deportivo",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "젠데이아": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T06:12:00+09:00",
+      "lastSeen": "2026-09-16T06:12:00+09:00",
+      "news": [
+        {
+          "title": "'체중감량 주사약이 만든 기적?' 여배우 '뼈마름' 사태 에미상 뒤흔들다 [Oh!쎈 이슈]",
+          "url": "https://v.daum.net/v/20260915175137197",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "젠데이아, 결혼 후 심경변화? 파격 쇼트커트…♥톰 홀랜드보다 짧은 머리[Oh!llywood]",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/09/15/GBTGEMZSMM3WINDEMQYTCOJTMM/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "2026 에미상 베스트 드레서, 최고의 레드카펫 룩",
+          "url": "https://hypebeast.kr/2026/9/best-dressed-2026-emmys-zendaya-colman-domingo-noah-wyle-odessa",
+          "source": "Hypebeast.KR",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "ลิเวอร์พูล พบ สเปอร์ส": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T06:12:00+09:00",
+      "lastSeen": "2026-09-16T06:12:00+09:00",
+      "news": [
+        {
+          "title": "พรีวิวแมตช์: ลิเวอร์พูล พบ ท็อตแน่ม ฮอตสเปอร์ เวลา 02:00 น. วันที่ 16 กันยายน: เหตุการณ์พลิกผันที่แอนฟิลด์",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-tran-dau-liverpool-vs-tottenham-2h00-ngay-16-9-bat-ngo-o-anfield",
+          "source": "Vietnam.vn",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "LIVE ดูบอลสด ลิเวอร์พูล พบ สเปอร์ส บอลวันนี้ (16 ก.ย.) 02.00 น. คาราบาว คัพ 2026-27",
+          "url": "https://www.thairath.co.th/sport/eurofootball/carabao-cup/2959485",
+          "source": "Thairath.co.th",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "ถ่ายทอดสด แมนยู พบ ไบรท์ตัน ดูบอลสดฟรี Carabao Cup ช่อง Monomax เวลา 02.00 น.",
+          "url": "https://www.thansettakij.com/sport/669026",
+          "source": "thansettakij",
           "date": "2026-09-15"
         }
       ]
