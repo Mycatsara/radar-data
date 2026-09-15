@@ -3515,10 +3515,10 @@
       ]
     },
     "소방관": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T17:15:00+09:00",
-      "lastSeen": "2026-09-15T17:15:00+09:00",
+      "lastSeen": "2026-09-15T17:45:00+09:00",
       "news": [
         {
           "title": "\"청렴도 높이자\" 워크숍서 화투판… 광주소방관 5명 대기발령",
@@ -3537,14 +3537,26 @@
           "url": "https://www.hani.co.kr/arti/area/honam/1277884.html",
           "source": "한겨레",
           "date": "2026-09-15"
+        },
+        {
+          "title": "청렴 워크숍서 '화투'…전남광주 소방관 5명 대기발령",
+          "url": "https://www.yna.co.kr/view/AKR20260915078900054",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘청렴’ 주제 워크숍서 화투 도박… 소방관 5명 대기 발령 - 조선비즈",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/09/15/O7BNH3RCMFBGVNKOHPJWKMTYZQ/",
+          "source": "Chosunbiz",
+          "date": "2026-09-15"
         }
       ]
     },
     "해상 작전 헬기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-15T17:15:00+09:00",
-      "lastSeen": "2026-09-15T17:15:00+09:00",
+      "lastSeen": "2026-09-15T17:45:00+09:00",
       "news": [
         {
           "title": "해상 작전 헬기 ‘시호크’ 20여 대 추가 도입",
@@ -3563,15 +3575,209 @@
           "url": "https://go.seoul.co.kr/news/prnewsView.php?id=447314",
           "source": "서울Pn",
           "date": "2026-09-15"
+        },
+        {
+          "title": "軍, 잠수함 찾는 '시호크' 해상작전헬기 20여대 추가 도입",
+          "url": "https://v.daum.net/v/20260915095258426",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "군, 2조원 투입해 수직 이착륙 무인기 국내 개발 착수…산악 지형 특화",
+          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6290490",
+          "source": "뉴스1",
+          "date": "2026-09-15"
         }
       ]
     },
     "조재윤": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T17:15:00+09:00",
-      "lastSeen": "2026-09-15T17:15:00+09:00",
+      "lastSeen": "2026-09-15T17:45:00+09:00",
       "news": []
+    },
+    "두 쥐안": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T17:45:00+09:00",
+      "lastSeen": "2026-09-15T17:45:00+09:00",
+      "news": [
+        {
+          "title": "물바다 수습하니 \"또 태풍\"‥'경로 심상찮다' 日 긴장",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6851958_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "추석 앞두고 태풍 오나…제주 가을 태풍 주의보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=843018",
+          "source": "제민일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "아시안게임 코앞인데 태풍까지…'두��안' 예상 경로 보니",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05028246645580120&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "송혜교": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-15T17:45:00+09:00",
+      "lastSeen": "2026-09-15T17:45:00+09:00",
+      "news": [
+        {
+          "title": "\"사랑하는...\" 송혜교, 일본 남성에 기대 '찰칵' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/14/2026091405291176956",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'혜교 여신', 폰만 보고 있을 뿐인데…가슴 뛸 일?",
+          "url": "https://v.daum.net/v/20260915081651494",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "송혜교, 중단발 여신�� 외출…파리 압도하는 존재감 [화보] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/15/MMYGIMJSGU3DEMRZG5RDKMTFGM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "에이 비엘 바이오": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T17:45:00+09:00",
+      "lastSeen": "2026-09-15T17:45:00+09:00",
+      "news": [
+        {
+          "title": "주가조작 합동대응단, 에이비엘바이오 압수수색…미공개정보 이용 혐의",
+          "url": "https://www.newsis.com/view/NISX20260915_0003790106",
+          "source": "뉴시스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "합동대응단, 코스닥 바이오사 압수수색…미공개정보 부당이득",
+          "url": "https://www.yna.co.kr/view/AKR20260915070200002",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "글로벌 제약사 계약 전 주식 샀다… 합동대응단, 코스닥 바이오사 압수수색",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170163",
+          "source": "IT조선",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "스타뉴스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T17:45:00+09:00",
+      "lastSeen": "2026-09-15T17:45:00+09:00",
+      "news": [
+        {
+          "title": "아이브 레이, '너에게 다이브' OST 가창…애틋한 감정선 예고",
+          "url": "https://v.daum.net/v/20260915110049484",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "아이브 레이, 데뷔 첫 솔로 OST 출격..‘너에게 다이브’ 지원사격 [공식] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/15/GBSWCZRZGQ4WIODDHFSTMOLFME/",
+          "source": "Chosunbiz",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "아이브 레이, ‘너에게 다이브’ OST 가창 참여…데뷔 첫 솔로 OST 도전",
+          "url": "https://www.viva100.com/article/20260915500868",
+          "source": "브릿지경제",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "웨스팅하우스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T17:45:00+09:00",
+      "lastSeen": "2026-09-15T17:45:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 한국 정부, 웨스팅하우스 지분 15% 인수 타진",
+          "url": "https://www.hankyung.com/article/202609155819i",
+          "source": "한국경제",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "첫 대미투자 발표 임박…\"투자 한도 합의대로\"",
+          "url": "https://www.yna.co.kr/view/MYH20260914003500038",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"18일 트럼프가 韓 대미투자 발표\"…이형일 \"협의 중\"",
+          "url": "https://www.newsis.com/view/NISX20260915_0003790628",
+          "source": "뉴시스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "지방정부": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T17:45:00+09:00",
+      "lastSeen": "2026-09-15T17:45:00+09:00",
+      "news": [
+        {
+          "title": "염태영 “참좋은지방정부위원회, 민주당 지방정부 100일 맞이 진단할 것”",
+          "url": "https://v.daum.net/v/4cGu6u5TSu",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "염태영 \"6·3 선거 후 100일…민주당 지방정부 공약 이행 살필 것\"",
+          "url": "https://www.news1.kr/politics/assembly/6290243",
+          "source": "뉴스1",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "민주당 지방정부 100일 진단 ‘성과관리’, ‘조기 기강잡기’?",
+          "url": "http://www.jeollailbo.com/news/articleView.html?idxno=811013",
+          "source": "전라일보",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "강원도민일보": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T17:45:00+09:00",
+      "lastSeen": "2026-09-15T17:45:00+09:00",
+      "news": [
+        {
+          "title": "허영 의원, 건설현장 벌점 사유 절반 이상이 ‘품질관리 소홀'",
+          "url": "https://v.daum.net/v/20260915154811318",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[국감, 핀셋] 건설현장 벌점 절반 이상 ‘품질관리’인데…인천은 왜 0건?",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332076",
+          "source": "인천일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "건설현장 벌점 절반 이상 '품질관리 소홀'…2년간 349건",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=311232",
+          "source": "스트레이트뉴스",
+          "date": "2026-09-15"
+        }
+      ]
     }
   },
   "sections": {
