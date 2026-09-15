@@ -4323,10 +4323,10 @@
       ]
     },
     "u-23 việt nam đấu với đội tuyển bóng đá u-23 quốc gia kuwait": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T20:13:00+09:00",
-      "lastSeen": "2026-09-15T21:46:00+09:00",
+      "lastSeen": "2026-09-15T22:14:00+09:00",
       "news": [
         {
           "title": "Việt Nam – Kuwait: Lứa U23 tìm chiến thắng đầu tiên ở ASIAD 20",
@@ -4361,10 +4361,10 @@
       ]
     },
     "복권": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-15T20:13:00+09:00",
-      "lastSeen": "2026-09-15T21:46:00+09:00",
+      "lastSeen": "2026-09-15T22:14:00+09:00",
       "news": [
         {
           "title": "15명 돈 모아 산 복권 51억 당첨되자…복권 쥔 그가 결근했다",
@@ -4382,6 +4382,12 @@
           "title": "동료 14명과 돈 모아 산 복권…'51억' 1등 당첨되자 “내가 더 갖겠다” 다툼 결말은?",
           "url": "https://www.etnews.com/20260915000322",
           "source": "전자신문",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "52억 대박 터지자 \"��첨금 못 나눠\"…동료 뒤통수 친 홍콩 남성 체포",
+          "url": "https://www.newsis.com/view/NISX20260915_0003790980",
+          "source": "뉴시스",
           "date": "2026-09-15"
         }
       ]
@@ -4515,10 +4521,10 @@
       ]
     },
     "afc 챔스": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T20:41:00+09:00",
-      "lastSeen": "2026-09-15T21:46:00+09:00",
+      "lastSeen": "2026-09-15T22:14:00+09:00",
       "news": []
     },
     "한국 축구": {
@@ -4548,10 +4554,10 @@
       ]
     },
     "송치": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-15T21:17:00+09:00",
-      "lastSeen": "2026-09-15T21:46:00+09:00",
+      "lastSeen": "2026-09-15T22:14:00+09:00",
       "news": [
         {
           "title": "\"음식에서 돌 나왔다\"...식당서 돈 뜯어낸 일당 송치",
@@ -4586,10 +4592,10 @@
       ]
     },
     "아시안게임 중계": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T21:17:00+09:00",
-      "lastSeen": "2026-09-15T21:17:00+09:00",
+      "lastSeen": "2026-09-15T22:14:00+09:00",
       "news": [
         {
           "title": "'동상이몽2'·'옥문아들', 15일 아시안게임 男축구 카타르 전 생중계로 결방",
@@ -4608,14 +4614,20 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=03122566645580448&mediaCodeNo=257",
           "source": "이데일리",
           "date": "2026-09-15"
+        },
+        {
+          "title": "'동상이몽' 결방, '틈만나면' 지연 방송..아시안게임 男 축구 여파 [공식] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/15/GI2DCNJZGNQWIY3FMQ2GEMRTMM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-15"
         }
       ]
     },
     "심은하": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-15T21:46:00+09:00",
-      "lastSeen": "2026-09-15T21:46:00+09:00",
+      "lastSeen": "2026-09-15T22:14:00+09:00",
       "news": [
         {
           "title": "‘초록 눈의 심은하’ 납량특집 드라마, 33년 만에 리부트···티빙 ‘M:리부트’ 내년 공개",
@@ -4634,14 +4646,20 @@
           "url": "https://www.mt.co.kr/entertainment/2026/09/15/2026091516514531857",
           "source": "머니투데이",
           "date": "2026-09-15"
+        },
+        {
+          "title": "심은하의 '초록눈' 다시 보나…'M', 33년 만에 돌아온다",
+          "url": "https://www.yna.co.kr/view/AKR20260915048800005",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
         }
       ]
     },
     "송이": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-15T21:46:00+09:00",
-      "lastSeen": "2026-09-15T21:46:00+09:00",
+      "lastSeen": "2026-09-15T22:14:00+09:00",
       "news": [
         {
           "title": "양양송이연어축제 공식 캐릭터 공개…'산·강 이야기 담았다'",
@@ -4685,6 +4703,84 @@
           "title": "[백효은기자의 백점만점 나고야] 골 폭풍 터뜨린 남북 여전사…아시안게임 여자축구 첫 경기 나란히 대승",
           "url": "https://www.kyeongin.com/article/1770885",
           "source": "경인일보",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "lg이노텍": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-15T22:14:00+09:00",
+      "lastSeen": "2026-09-15T22:14:00+09:00",
+      "news": [
+        {
+          "title": "“180만원→50만원” 삼전닉스보다 훨씬 심하다…‘황제주’ 급락, 무슨 일이",
+          "url": "https://v.daum.net/v/61L5lb0HHM",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“180만원→50만원, 이러다 다 죽어!” 삼전닉스보다 훨씬 심하다…‘황제주’ 추락, 무슨 일이",
+          "url": "https://biz.heraldcorp.com/article/10873164",
+          "source": "헤럴드경제",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "LG이노텍 주가, 9월 15일 장중 514,000원 보합세",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16194199",
+          "source": "톱스타뉴스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "회사": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T22:14:00+09:00",
+      "lastSeen": "2026-09-15T22:14:00+09:00",
+      "news": [
+        {
+          "title": "“믿음직한 회사”라던 MBK…2년 만에 다시 소환된 장형진의 선택",
+          "url": "https://www.kyeonggi.com/article/20260915580457",
+          "source": "경기일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“믿음직한 회사”라던 MBK…김병주·김광일 기소 여부에 쏠린 눈",
+          "url": "https://v.daum.net/v/20260915174303770",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "김병주 회장 ‘홈플러스 수사’ 재소환…고려아연 경영권 대결도 밀린 MBK",
+          "url": "https://www.mk.co.kr/news/business/12151366",
+          "source": "매일경제",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "상장지수 펀드": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T22:14:00+09:00",
+      "lastSeen": "2026-09-15T22:14:00+09:00",
+      "news": [
+        {
+          "title": "미래운용 \"'TIGER 미국S&P500 ETF, 하반기 개인 순매수 1위\"",
+          "url": "https://v.daum.net/v/20260915104256403",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "미래에셋 ‘TIGER 미국S&P500’, 하반기만 개미 1.5조 순매수",
+          "url": "https://www.sedaily.com/article/20091233",
+          "source": "서울경제",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"환율 떨어져도 산다\"…하반기 개인 순매수 1위 ETF는",
+          "url": "https://www.hankyung.com/article/2026091558396",
+          "source": "한국경제",
           "date": "2026-09-15"
         }
       ]
