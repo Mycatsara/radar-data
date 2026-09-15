@@ -376,10 +376,10 @@
       ]
     },
     "堀大輔": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T02:12:00+09:00",
-      "lastSeen": "2026-09-16T04:41:00+09:00",
+      "lastSeen": "2026-09-16T05:13:00+09:00",
       "news": []
     },
     "sk하이닉스 주가": {
@@ -409,10 +409,10 @@
       ]
     },
     "톰 홀랜드": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-16T03:43:00+09:00",
-      "lastSeen": "2026-09-16T04:41:00+09:00",
+      "lastSeen": "2026-09-16T05:13:00+09:00",
       "news": [
         {
           "title": "톰 홀랜드♥젠데이아, '세기의 결혼'이었는데 가짜였나..\"거짓말했어\"[Oh!llywood]",
@@ -435,10 +435,10 @@
       ]
     },
     "리버풀 대 토트넘": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-16T04:12:00+09:00",
-      "lastSeen": "2026-09-16T04:41:00+09:00",
+      "lastSeen": "2026-09-16T05:13:00+09:00",
       "news": [
         {
           "title": "리버풀 vs 토트넘 예측: 승리 시 다음 라운드 진출",
@@ -461,10 +461,10 @@
       ]
     },
     "clarity act": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-16T04:12:00+09:00",
-      "lastSeen": "2026-09-16T04:41:00+09:00",
+      "lastSeen": "2026-09-16T05:13:00+09:00",
       "news": [
         {
           "title": "US Senate to vote on advancing sweeping cryptocurrency bill",
@@ -483,14 +483,26 @@
           "url": "https://www.cnbc.com/2026/09/14/warren-clarity-act-senate-key-preliminary-vote.html",
           "source": "CNBC",
           "date": "2026-09-15"
+        },
+        {
+          "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
+          "url": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
+          "source": "The New York Times",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry",
+          "url": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html",
+          "source": "CNBC",
+          "date": "2026-09-15"
         }
       ]
     },
     "al ain vs al-nassr": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-16T04:12:00+09:00",
-      "lastSeen": "2026-09-16T04:41:00+09:00",
+      "lastSeen": "2026-09-16T05:13:00+09:00",
       "news": [
         {
           "title": "Watch Al Ain (UAE) vs. Al Nassr (KSA)",
@@ -509,14 +521,26 @@
           "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-fails-to-score-in-al-nassrs-2026-27-acl-debut-how-many-games-does-he-have-left-to-reach-1000-career-goals/",
           "source": "World Soccer Talk",
           "date": "2026-09-15"
+        },
+        {
+          "title": "Rahimi vs Ronaldo: Predicted Lineups for the Al Ain vs Al-Nassr (Saudi Arabia) Match in the AFC Champions League Elite",
+          "url": "https://www.voiceofemirates.com/en/emirates/2026/09/15/rahimi-vs-ronaldo-predicted-lineups-for-the-al-ain-vs-al-nassr-saudi-arabia-match-in-the-afc-champions-league-elite/",
+          "source": "صوت الإمارات",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Al Hamdan interview: Al Nassr forward on club's AFC Champions League Elite aim",
+          "url": "https://www.spl.com.sa/news/al-hamdan-interview-al-nassr-forward-on-club-s-afc-champions-league-elite-aim",
+          "source": "spl.com.sa",
+          "date": "2026-09-15"
         }
       ]
     },
     "입스위치 대 아스널": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T04:41:00+09:00",
-      "lastSeen": "2026-09-16T04:41:00+09:00",
+      "lastSeen": "2026-09-16T05:13:00+09:00",
       "news": [
         {
           "title": "입스위치 vs 아스널 예측: 승리 시 다음 라운드 진출",
@@ -534,6 +558,110 @@
           "title": "입스위치 타운 vs 아스널 경기 예측, 9월 16일 오전 2시: 오랜 가뭄을 끝내기 위한 여정의 시작.",
           "url": "https://www.vietnam.vn/ko/nhan-dinh-ipswich-town-vs-arsenal-02h00-ngay-16-9-khoi-dau-hanh-trinh-giai-con-khat",
           "source": "Vietnam.vn",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "박원숙": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-16T05:13:00+09:00",
+      "lastSeen": "2026-09-16T05:13:00+09:00",
+      "news": [
+        {
+          "title": "박원숙 “세상 떠난 아들 못 해준 게 후회…손녀에 오피스텔·차 선물”",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260916/134677301/1",
+          "source": "동아일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "박원숙, 사고로 숨진 아들…\"죄책감에 손녀에 오피스텔·차 선물\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/15/2026091520232194636",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "박원숙, 子 사망 아픔 후 손녀 전폭 지원 \"학비·오피스텔·차 선물\"[원더풀 라이프]",
+          "url": "https://v.daum.net/v/20260915202737751",
+          "source": "Daum",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "스마트폰": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T05:13:00+09:00",
+      "lastSeen": "2026-09-16T05:13:00+09:00",
+      "news": [
+        {
+          "title": "삼성전자, 내년 1분기 메모리 가격 30~40% 인상..애플도 '수용'",
+          "url": "https://v.daum.net/v/20260915174015614",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "원가 인상에 할인은 옛말…갤럭시S26도 가격 오른다 [지금이뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0545_202609150950015891",
+          "source": "YTN",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "���수록 심해지는 '칩플레이션 공포'…\"신형·구형폰 안 가리고 오른다\"",
+          "url": "https://news.tf.co.kr/read/economy/2365926.htm",
+          "source": "더팩트",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "엘체 대 레알 마드리드": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T05:13:00+09:00",
+      "lastSeen": "2026-09-16T05:13:00+09:00",
+      "news": [
+        {
+          "title": "엘체 vs 레알 마드리드 예측: 선두 자리를 노릴 기회",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-elche-vs-real-madrid-co-hoi-bam-duoi-ngoi-dau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'난 미드필더니까' 1골=1승 미친 퍼포먼스! '미들라이커' 프라테시 덕분에 라치오 승승장구 [세리에.1st]",
+          "url": "https://v.daum.net/v/20260908123527742",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "경기 프리뷰: 엘체 vs 레알 마드리드, 9월 16일 새벽 2시 30분: \"갈락티코스\"에게는 손쉬운 목표물",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-elche-vs-real-madrid-2h30-ngay-16-9-moi-ngon-cho-ken-ken",
+          "source": "Vietnam.vn",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "서장���의 이웃집 백만장자": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T05:13:00+09:00",
+      "lastSeen": "2026-09-16T05:13:00+09:00",
+      "news": [
+        {
+          "title": "이영혜, 잡지로 연 매출 480억…한남동 집엔 1억 테이블",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260915/134671253/1",
+          "source": "동아일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "이영혜 집 테이블만 1억원..'갑부' 서장훈도 놀란 파노라마 한강뷰 ('이웃집 백만장자')",
+          "url": "https://v.daum.net/v/20260915084310218",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘이웃집 백만장자’ 연 매출 480억, ‘잡지의 여왕’ 이영혜···“테이블 하나가 1억?!”",
+          "url": "https://sports.khan.co.kr/article/202609151949003",
+          "source": "��포츠경향",
           "date": "2026-09-15"
         }
       ]
