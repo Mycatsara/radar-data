@@ -4163,10 +4163,10 @@
       ]
     },
     "롯데 대 삼성": {
-      "count": 3,
-      "maxTraffic": 5000,
+      "count": 4,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-15T19:42:00+09:00",
-      "lastSeen": "2026-09-15T20:41:00+09:00",
+      "lastSeen": "2026-09-15T21:17:00+09:00",
       "news": [
         {
           "title": "‘안타 하나 없이 끝내기라니’ 볼넷→희생 번트→고의4구→사구→밀어내기 볼넷…삼성, 롯데에 3-2 승 [오!쎈 퓨처스] - 머니투데이",
@@ -4183,6 +4183,18 @@
         {
           "title": "김태형도 놀란 한동희 괴력...\"20홈런? 노려볼 만하다\"",
           "url": "https://v.daum.net/v/20260914091727146",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "졸지에 킹메이커 됐다…'삼성 3경기-KT 3경기' 롯데한테 잘 보여야 우승할 수 있나",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/15/GVRTOMBRHA3DMZLFMZSWGODGGU/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'롯데에 물어보세요' 정규리그 1위 경쟁…KT 이어 삼성과 만나",
+          "url": "https://v.daum.net/v/20260914104927235",
           "source": "Daum",
           "date": "2026-09-15"
         }
@@ -4311,10 +4323,10 @@
       ]
     },
     "u-23 việt nam đấu với đội tuyển bóng đá u-23 quốc gia kuwait": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T20:13:00+09:00",
-      "lastSeen": "2026-09-15T20:41:00+09:00",
+      "lastSeen": "2026-09-15T21:17:00+09:00",
       "news": [
         {
           "title": "Việt Nam – Kuwait: Lứa U23 tìm chiến thắng đầu tiên ở ASIAD 20",
@@ -4339,14 +4351,20 @@
           "url": "https://thanhnien.vn/doi-mua-co-vu-kieu-bao-nhat-ban-tin-u23-viet-nam-vao-tu-ket-asiad-2026-185260915181554627.htm",
           "source": "Báo Thanh Niên",
           "date": "2026-09-15"
+        },
+        {
+          "title": "Không khí cổ vũ sôi động tại trận ra quân của tuyển bóng đá U23 nam Việt Nam tại ASIAD 2026",
+          "url": "https://thethaovanhoa.vn/khong-khi-co-vu-soi-dong-tai-tran-ra-quan-cua-tuyen-bong-da-u23-nam-viet-nam-tai-asiad-2026-20260915171616828.htm",
+          "source": "thethaovanhoa.vn",
+          "date": "2026-09-15"
         }
       ]
     },
     "복권": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-15T20:13:00+09:00",
-      "lastSeen": "2026-09-15T20:41:00+09:00",
+      "lastSeen": "2026-09-15T21:17:00+09:00",
       "news": [
         {
           "title": "15명 돈 모아 산 복권 51억 당첨되자…복권 쥔 그가 결근했다",
@@ -4369,10 +4387,10 @@
       ]
     },
     "베트남 u-23 대 쿠웨이트 u-23 축구 국가대표팀": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T20:13:00+09:00",
-      "lastSeen": "2026-09-15T20:41:00+09:00",
+      "lastSeen": "2026-09-15T21:17:00+09:00",
       "news": [
         {
           "title": "딘 박은 왜 일본에 있는데도 2020 아시안게임에 참가하는 베트남 U23 대표팀에 합류하지 않는 걸까요?",
@@ -4433,10 +4451,10 @@
       ]
     },
     "삼성중공업 거제조선소": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T20:13:00+09:00",
-      "lastSeen": "2026-09-15T20:41:00+09:00",
+      "lastSeen": "2026-09-15T21:17:00+09:00",
       "news": [
         {
           "title": "경남 거제 조선소서 협력업체 대표 등 2명 옥상 농성",
@@ -4459,10 +4477,10 @@
       ]
     },
     "엄지성": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-15T20:41:00+09:00",
-      "lastSeen": "2026-09-15T20:41:00+09:00",
+      "lastSeen": "2026-09-15T21:17:00+09:00",
       "news": [
         {
           "title": "‘야구장’으로 간 이민성호…버스 기사의 황당한 실수",
@@ -4481,21 +4499,33 @@
           "url": "https://www.khan.co.kr/article/202609151636001",
           "source": "경향신문",
           "date": "2026-09-15"
+        },
+        {
+          "title": "[아시안게임] 김명준, 남자 축구 카타르전 선봉…양현준·엄지성도 출격",
+          "url": "https://www.yna.co.kr/view/AKR20260915170800007",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'어나더 클래스' 엄지성, 20��� 만에 멀티골 '쾅쾅'→AG 첫 경기 '하드캐리'... 카타르 수비 '와르르' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/15/2026091519422525692",
+          "source": "머니투데이",
+          "date": "2026-09-15"
         }
       ]
     },
     "afc 챔스": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-15T20:41:00+09:00",
-      "lastSeen": "2026-09-15T20:41:00+09:00",
+      "lastSeen": "2026-09-15T21:17:00+09:00",
       "news": []
     },
     "한국 축구": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T20:41:00+09:00",
-      "lastSeen": "2026-09-15T20:41:00+09:00",
+      "lastSeen": "2026-09-15T21:17:00+09:00",
       "news": [
         {
           "title": "박문성 소신발언 “이승우 대표팀 안 뽑히는 이유…피지컬·수비 능력 부족”",
@@ -4513,6 +4543,58 @@
           "title": "“이름값 아닌 실력만 봤다” 모레노가 뽑은 김민수, 한국축구 구원할까",
           "url": "https://www.khan.co.kr/article/202609151633001",
           "source": "경향신문",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "송치": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-15T21:17:00+09:00",
+      "lastSeen": "2026-09-15T21:17:00+09:00",
+      "news": [
+        {
+          "title": "\"음식에서 돌 나왔다\"...식당서 돈 뜯어낸 일당 송치",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202609151707072378_005.html",
+          "source": "YTN",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“이물질 나와 치아 깨졌다” 합의금 뜯은 3명 구속 송치",
+          "url": "https://www.donga.com/news/Society/article/all/20260915/134670293/1",
+          "source": "동아일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"음식에서 돌 나와\" 식당 주인 67명에게 돈 뜯은 ���갈단 송치",
+          "url": "https://www.yna.co.kr/view/AKR20260915050600064",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "아시안게임 중계": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T21:17:00+09:00",
+      "lastSeen": "2026-09-15T21:17:00+09:00",
+      "news": [
+        {
+          "title": "'동상이몽2'·'옥문아들', 15일 아시안게임 男축구 카타르 전 생중계로 결방",
+          "url": "https://v.daum.net/v/20260915164539952",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'옥문아들'→'동상이몽2', 오늘(15일) 결방…아시안게임 男 축구 중계 여파",
+          "url": "https://v.daum.net/v/20260915183843988",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "유재석도 3주 쉰다… 아시안게임에 ‘멈춰선�� 안방극장",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03122566645580448&mediaCodeNo=257",
+          "source": "이데일리",
           "date": "2026-09-15"
         }
       ]
