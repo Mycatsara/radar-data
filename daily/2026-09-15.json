@@ -3828,10 +3828,10 @@
       ]
     },
     "송가 인": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-15T18:15:00+09:00",
-      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T19:14:00+09:00",
       "news": [
         {
           "title": "송가인 팬카페, 진도군에 고향사랑기부금 등 2천200만원 기부",
@@ -3918,10 +3918,10 @@
       ]
     },
     "kt 대 한화": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-15T18:45:00+09:00",
-      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T19:14:00+09:00",
       "news": [
         {
           "title": "강백호 1루수 전격 선발! 문현빈-노시환 없는 한화, 한지윤-유민-박정현 선발 출전…선두 KT 잡고 3연패 끊을까 [오!쎈 대전] - 머니투데이",
@@ -3944,10 +3944,10 @@
       ]
     },
     "lg 대 nc": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-15T18:45:00+09:00",
-      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T19:14:00+09:00",
       "news": [
         {
           "title": "[IS 포커스] \"가장 큰 고민\" 박민마저 이탈했다…KIA, 김도영 없는 2주 '핫코너 해법' 찾기",
@@ -3966,21 +3966,27 @@
           "url": "https://www.mt.co.kr/sports/2026/09/15/202609151623774453O",
           "source": "머니투데이",
           "date": "2026-09-15"
+        },
+        {
+          "title": "[무등의 아침] 김도영·박재현·성영탁, AG 출전…KIA, 7경기 버텨야 3위 싸움 가능",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8663679",
+          "source": "KBS 뉴스",
+          "date": "2026-09-15"
         }
       ]
     },
     "cgv": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T18:45:00+09:00",
-      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T19:14:00+09:00",
       "news": []
     },
     "마라톤": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-15T18:45:00+09:00",
-      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T19:14:00+09:00",
       "news": [
         {
           "title": "\"목 90도 꺾여\" 희귀 난치병 56세 이봉주, 근황 공개...몸 상태 호전 \"포기하면 그걸로 끝\" 당찬 각오로 하프마라톤 완주",
@@ -4003,10 +4009,10 @@
       ]
     },
     "부정승차": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-15T18:45:00+09:00",
-      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T19:14:00+09:00",
       "news": [
         {
           "title": "\"두 번 찍었으니 돈 냈다\" 외국인 관광객…명동역 부정승차 적발 뒤 역무원 얼굴 SNS 공개 논란",
@@ -4029,10 +4035,10 @@
       ]
     },
     "로버트 패틴슨": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-15T18:45:00+09:00",
-      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T19:14:00+09:00",
       "news": [
         {
           "title": "로버트 패틴슨은 오스카상을 수상할 가능성이 매우 높다.",
@@ -4055,10 +4061,10 @@
       ]
     },
     "kia 대 ssg": {
-      "count": 1,
-      "maxTraffic": 5000,
+      "count": 2,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-15T18:45:00+09:00",
-      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T19:14:00+09:00",
       "news": [
         {
           "title": "‘김도영 없어도 구름관중’ SSG, KIA 만나 2만3000명 만원관중…시즌 18번째 매진[오!쎈 인천] - 조선비즈",
@@ -4077,14 +4083,26 @@
           "url": "https://sports.news.nate.com/view/20260912n00442",
           "source": "네이트",
           "date": "2026-09-15"
+        },
+        {
+          "title": "[포토]모자 벗어 인사하는 민호",
+          "url": "https://www.sportsseoul.com/news/read/1635375",
+          "source": "스포츠서울",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[사진]샤이니 민호 '옆에서 보면 더 청순해'",
+          "url": "https://www.osen.co.kr/article/G1112876006",
+          "source": "OSEN",
+          "date": "2026-09-15"
         }
       ]
     },
     "australia vs zimbabwe": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T18:45:00+09:00",
-      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T19:14:00+09:00",
       "news": [
         {
           "title": "Zimbabwe plot to topple Australia again with World Cup on horizon",
@@ -4102,6 +4120,44 @@
           "title": "ZIM vs AUS, 1st ODI, Australia tour of Zimbabwe 2026 - Commentary",
           "url": "https://m.cricbuzz.com/live-cricket-scores/152731/aus-vs-zim-1st-odi-australia-tour-of-zimbabwe-2026",
           "source": "Cricbuzz",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Zimbabwe recall veterans Taylor, Cremer for Australia ODIs",
+          "url": "https://www.rediff.com/cricket/report/zimbabwe-recall-veterans-taylor-cremer-for-australia-odis/20260914.htm",
+          "source": "Rediff",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Revisiting Australia's rich history in Zimbabwe",
+          "url": "https://www.cricket.com.au/news/3296427/revisiting-australias-rich-history-in-zimbabwe",
+          "source": "cricket.com.au",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "휴지": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-15T19:14:00+09:00",
+      "lastSeen": "2026-09-15T19:14:00+09:00",
+      "news": [
+        {
+          "title": "“테이블 더럽다고 수저 밑에 휴지 깔았는데”…세균 더 많은 건 어디?",
+          "url": "https://www.khan.co.kr/article/202609140940001",
+          "source": "경향신문",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "식당 가면 수저 밑에 휴지 까는 사람들…“테이블보다 휴지가 더 깨끗할 거란 고정관념?”",
+          "url": "https://www.etnews.com/20260914000428",
+          "source": "전자신문",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"창틀 먼지에 다 쓴 휴지심 대보세요\"... 생각보다 효과 만점이었습니다",
+          "url": "https://www.autotribune.co.kr/news/articleView.html?idxno=45496",
+          "source": "오토트리뷴",
           "date": "2026-09-15"
         }
       ]
