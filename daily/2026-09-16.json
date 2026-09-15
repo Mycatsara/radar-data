@@ -789,10 +789,10 @@
       ]
     },
     "elche vs real madrid": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T06:12:00+09:00",
-      "lastSeen": "2026-09-16T06:12:00+09:00",
+      "lastSeen": "2026-09-16T06:39:00+09:00",
       "news": [
         {
           "title": "El argentino Osorio debuta como titular ante un Madrid en el que repite Diomande",
@@ -811,14 +811,26 @@
           "url": "https://www.mundodeportivo.com/futbol/real-madrid/20260915/1004227716/mbappe-segundo-pase-diomande.html",
           "source": "Mundo Deportivo",
           "date": "2026-09-15"
+        },
+        {
+          "title": "Gol agónico de Carlos Espí: apareció al 91' y salvó al Real Madrid ante Elche",
+          "url": "https://www.365scores.com/es/news/gol-agonico-carlos-espi-aparecio-elche/",
+          "source": "365Scores",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Cómo quedó Real Madrid vs. Elche hoy: Alineaciones, resultado y goles del partido por La Liga 2026",
+          "url": "https://www.sportingnews.com/mx/futbol/news/como-quedo-real-madrid-elche-hoy-resultado-goles/535367b2eda67bc72faebcf5",
+          "source": "Sporting News",
+          "date": "2026-09-15"
         }
       ]
     },
     "젠데이아": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-16T06:12:00+09:00",
-      "lastSeen": "2026-09-16T06:12:00+09:00",
+      "lastSeen": "2026-09-16T06:39:00+09:00",
       "news": [
         {
           "title": "'체중감량 주사약이 만든 기적?' 여배우 '뼈마름' 사태 에미상 뒤흔들다 [Oh!쎈 이슈]",
@@ -837,14 +849,26 @@
           "url": "https://hypebeast.kr/2026/9/best-dressed-2026-emmys-zendaya-colman-domingo-noah-wyle-odessa",
           "source": "Hypebeast.KR",
           "date": "2026-09-15"
+        },
+        {
+          "title": "톰 홀랜드♥젠데이아, '세기의 결혼'이었는데 가짜였나..\"거짓말했어\"[Oh!llywood]",
+          "url": "https://v.daum.net/v/20260916004937647",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"결혼했다더니 다 거짓말\"… 톰 홀랜드♥젠데이아 충격 근황[해외이슈]",
+          "url": "https://mydaily.co.kr/page/view/2026091513363154878",
+          "source": "마이데일리",
+          "date": "2026-09-15"
         }
       ]
     },
     "ลิเวอร์พูล พบ สเปอร์ส": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T06:12:00+09:00",
-      "lastSeen": "2026-09-16T06:12:00+09:00",
+      "lastSeen": "2026-09-16T06:39:00+09:00",
       "news": [
         {
           "title": "พรีวิวแมตช์: ลิเวอร์พูล พบ ท็อตแน่ม ฮอตสเปอร์ เวลา 02:00 น. วันที่ 16 กันยายน: เหตุการณ์พลิกผันที่แอนฟิลด์",
@@ -862,6 +886,188 @@
           "title": "ถ่ายทอดสด แมนยู พบ ไบรท์ตัน ดูบอลสดฟรี Carabao Cup ช่อง Monomax เวลา 02.00 น.",
           "url": "https://www.thansettakij.com/sport/669026",
           "source": "thansettakij",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "김부겸": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T06:39:00+09:00",
+      "lastSeen": "2026-09-16T06:39:00+09:00",
+      "news": [
+        {
+          "title": "김부겸 “전쟁이 된 정치…전략적 인내 없인 세상 못 바꿔”",
+          "url": "https://www.hani.co.kr/arti/politics/assembly/1277972.html",
+          "source": "한겨레",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "국민통합위원장에 김부겸 유력…중도확장·통합 다시 ‘시동’",
+          "url": "https://v.daum.net/v/20260915184136065",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "靑, 새 국민통합위원장에 '중도 아이콘' 김부겸 전 총리 유�� 검토 - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/09/15/2026091518572984998",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "장금상선": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T06:39:00+09:00",
+      "lastSeen": "2026-09-16T06:39:00+09:00",
+      "news": [
+        {
+          "title": "\"주문 쏟아진다\"…한 번에 1조6000억 '잭팟' 터진 이 회사",
+          "url": "https://www.hankyung.com/article/2026091440311",
+          "source": "한국경제",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[클릭 e종목] \"삼성중공업, FLNG·바다 위 데이터센터 잇단 수주 기대\"",
+          "url": "https://view.asiae.co.kr/article/2026091417361638810",
+          "source": "아시아경제",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "삼성중공업, LNG운반선 4척 등 1.6조 수주…가스텍선 LNG 기술력 과시",
+          "url": "https://www.khan.co.kr/article/202609141545001",
+          "source": "경향신문",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "liverpool vs spurs": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T06:39:00+09:00",
+      "lastSeen": "2026-09-16T06:39:00+09:00",
+      "news": [
+        {
+          "title": "Liverpool vs Tottenham Hotspur: League Cup stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cx980d6p7l20t",
+          "source": "BBC",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Liverpool 3, Tottenham 1: Match Recap: NSFW Goal Seals Win",
+          "url": "https://liverpooloffside.sbnation.com/league-capital-one-cup/83688/liverpool-3-tottenham-1-match-recap-mac-allister-gakpo-szoboszlai-efl-league-cup",
+          "source": "The Liverpool Offside",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Liverpool 3-1 Tottenham: Szoboszlai stunner sends Reds to 4th round",
+          "url": "https://www.thisisanfield.com/2026/09/liverpool-3-1-tottenham-szoboszlai-stunner-sends-reds-to-4th-round/",
+          "source": "This Is Anfield",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "광주공항": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T06:39:00+09:00",
+      "lastSeen": "2026-09-16T06:39:00+09:00",
+      "news": [
+        {
+          "title": "“정권 바뀌어도 계획 유지를…‘韓 투자땐 공장 가동’ 확신 줘야” [中반도체 공습]",
+          "url": "https://v.daum.net/v/20260916050234815",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[단독] 李 정부, 광주공항·함평 ‘직접 팹’+무안 ‘배후기지’ 묶는 초대형 반도체 클러스터 검토 착수",
+          "url": "https://www.alphabiz.co.kr/news/articleView.html?idxno=185873",
+          "source": "알파경제",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "서남권 반도체 6.3GW, 전력지도 다시 짠다…새만금 ‘에너지고속도로’도 변수",
+          "url": "https://www.jjan.kr/article/20260913500292",
+          "source": "전북일보 인터넷신문",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "아틀레티코 마드리드": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T06:39:00+09:00",
+      "lastSeen": "2026-09-16T06:39:00+09:00",
+      "news": [
+        {
+          "title": "이강인 대신 출전해 아틀레티코 마드리드 데뷔골…'경쟁 치열해진다, 오사수나전 선발 출격 전망'",
+          "url": "https://v.daum.net/v/20260915230251424",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"충격!\" 韓 축구 에이스 이강인 향한 불만 나왔다…'앙투안 그리에즈만에 익숙→LEE 원터치 플레이 통한 위협적인 장면 NO'",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/15/GIZTAZRUMVQWCNTCGM3GCNZQGY/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "시메오네 “이강인 교체, 특별한 문제는 없다…모든 것 쏟아부었어”…이강인 또 60분 뛰고 교체",
+          "url": "https://www.osen.co.kr/article/G1112875616",
+          "source": "OSEN",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "ipswich town vs arsenal": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T06:39:00+09:00",
+      "lastSeen": "2026-09-16T06:39:00+09:00",
+      "news": [
+        {
+          "title": "EFL Cup LIVE: text commentary of five games in the third round - score, team news & match stats",
+          "url": "https://www.bbc.com/sport/football/live/cm5ye2vg83q7t",
+          "source": "BBC",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Ipswich vs Arsenal – Prediction, Where to Watch, Kick-off Time and Lineups 15-09",
+          "url": "https://oddsscanner.com/predictions/football/ipswich-x-arsenal-15-09-2026",
+          "source": "Odds Scanner",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Arsenal's prodigy makes history: Dowman challenges Fabregas and Rooney",
+          "url": "https://www.goal.com/en/news/arsenal-talent-makes-history-dowman-rivals-fabregas-and-rooney/bltd9051057975e9db3",
+          "source": "Goal.com",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "서수민": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T06:39:00+09:00",
+      "lastSeen": "2026-09-16T06:39:00+09:00",
+      "news": [
+        {
+          "title": "차준환, 눈빛 합격…'김부장 딸' 서수민과 로맨스",
+          "url": "https://v.daum.net/v/20260915114251020",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "로이킴, ‘Sparkle’ 뮤직비디오 공개",
+          "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1056164",
+          "source": "내외뉴스통신",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "차준환·서수민, 로이킴 ‘스파클’ MV 주인공…서점서 그린 청춘 로맨스",
+          "url": "https://www.viva100.com/article/20260914500410",
+          "source": "브릿지경제",
           "date": "2026-09-15"
         }
       ]
