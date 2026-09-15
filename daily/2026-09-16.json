@@ -1289,10 +1289,10 @@
       ]
     },
     "농촌": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-16T07:39:00+09:00",
-      "lastSeen": "2026-09-16T07:39:00+09:00",
+      "lastSeen": "2026-09-16T08:12:00+09:00",
       "news": [
         {
           "title": "\"농사 지으러 온 거 아닙니다\"…귀촌 청년 몰린 농촌의 '반전'",
@@ -1315,10 +1315,10 @@
       ]
     },
     "여수시": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-16T07:39:00+09:00",
-      "lastSeen": "2026-09-16T07:39:00+09:00",
+      "lastSeen": "2026-09-16T08:12:00+09:00",
       "news": [
         {
           "title": "세계의 시선이 여수로! '2026 여수세계섬박람회'로 떠나요",
@@ -1337,14 +1337,26 @@
           "url": "https://www.mt.co.kr/society/2026/09/14/2026091417561464179",
           "source": "머니투데이",
           "date": "2026-09-15"
+        },
+        {
+          "title": "여수 사람도 큰 기대 안 했던 '여수섬박람회'... 예상 밖이었다",
+          "url": "https://v.daum.net/v/qYqF5kLxzx",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "세계의 시선이 여수로! '2026 여수세계섬박람회'로 떠나요",
+          "url": "https://www.korea.kr/news/reporterView.do?newsId=148971771&pWise=sub&pWiseSub=C5",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-15"
         }
       ]
     },
     "유해진": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-16T07:39:00+09:00",
-      "lastSeen": "2026-09-16T07:39:00+09:00",
+      "lastSeen": "2026-09-16T08:12:00+09:00",
       "news": [
         {
           "title": "[인터뷰]결국 울어버린 유해진 \"고맙습니다, 더 잘할게요\"",
@@ -1367,10 +1379,10 @@
       ]
     },
     "박문성": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T07:39:00+09:00",
-      "lastSeen": "2026-09-16T07:39:00+09:00",
+      "lastSeen": "2026-09-16T08:12:00+09:00",
       "news": [
         {
           "title": "모레노 감독, 이틀 연속 ACLE 경기 관전…'태극전사 직접 확인!'",
@@ -1388,6 +1400,12 @@
           "title": "모레노 축��대표팀 감독, 이틀 연속 아시아 챔피언스리그 관전",
           "url": "https://imnews.imbc.com/news/2026/sports/article/6851959_36946.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘홍명보 스리백’ 본 모레노의 결론은 4-4-2 “전임 감독에 대한 평가는 안하겠다” [오!쎈 천안]",
+          "url": "https://v.daum.net/v/QGdNi1yOhO",
+          "source": "Daum",
           "date": "2026-09-15"
         }
       ]
@@ -1544,6 +1562,162 @@
           "title": "«Реал» в концовке матча вырвал победу у «Эльче» в Ла Лиге",
           "url": "https://www.soccer.ru/news/1436778/elche-real",
           "source": "Soccer.ru",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "elche cf vs real madrid standings": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T08:12:00+09:00",
+      "lastSeen": "2026-09-16T08:12:00+09:00",
+      "news": [
+        {
+          "title": "\"We were going to draw with a dead team\": Mourinho explodes at his players and refuses to make an exception for Guler",
+          "url": "https://www.goal.com/en/news/we-were-going-to-draw-with-a-dead-team-mourinho-explodes-at-his-players-and-refuses-to-make-an-exception-for-guler/blt87414bdac08de201",
+          "source": "Goal.com",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Real Madrid: Arda Güler’s sumptuous free kick",
+          "url": "https://frenchfootballweekly.com/2026/09/15/real-madrid-arda-gulers-sumptuous-free-kick/",
+          "source": "French Football Weekly",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Real Madrid pulls off late La Liga win after squandering 2-goal lead at Elche. Mbappé scores again",
+          "url": "https://www.bastillepost.com/global/article/6159123-real-madrid-pulls-off-late-la-liga-win-after-squandering-2-goal-lead-at-elche-mbappe-scores-again",
+          "source": "巴士的報",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "투수": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T08:12:00+09:00",
+      "lastSeen": "2026-09-16T08:12:00+09:00",
+      "news": [
+        {
+          "title": "\"153km? 지금은 구속 욕심 안 낸다\" 124일 만에 돌아온 1차 지명 파이어볼러, 비로소 '투수'가 되어간다 [오!쎈 대구]",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/16/MFSDAYRRHAZDSZRXGMYGEMRWMU/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“한국에서 성공한 뒤 MLB 가겠다”던 부산고 에이스는 결국… [베이스볼 비키니]",
+          "url": "https://www.donga.com/news/Sports/article/all/20260912/134655105/1",
+          "source": "동아일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "영점 잡힌 153㎞/h...자이언츠 윤성빈, 또 '희망고문' 안기나",
+          "url": "https://v.daum.net/v/zdThsiPKwb",
+          "source": "Daum",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "liverpool đấu với tottenham": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T08:12:00+09:00",
+      "lastSeen": "2026-09-16T08:12:00+09:00",
+      "news": [
+        {
+          "title": "Video bóng đá Liverpool - Tottenham: Khoảnh khắc ngôi sao, siêu phẩm ấn định (League Cup)",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-liverpool-tottenham-khoanh-khac-ngoi-sao-no-luc-muon-mang-league-cup-c48a1795074.html",
+          "source": "Tin tức 24h",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Dự đoán kết quả và đội hình ra sân trận Ipswich vs Arsenal",
+          "url": "https://vov.vn/the-thao/du-doan-ket-qua-va-doi-hinh-ra-san-tran-ipswich-vs-arsenal-post1332823.vov",
+          "source": "VOV.VN",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Liverpool, Arsenal thẳng tiến ở Cup Liên đoàn",
+          "url": "https://vnexpress.net/liverpool-arsenal-thang-tien-o-cup-lien-doan-5120727.html",
+          "source": "VnExpress",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "다우 존스 산업평균지수": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-16T08:12:00+09:00",
+      "lastSeen": "2026-09-16T08:12:00+09:00",
+      "news": [
+        {
+          "title": "베선트, 美국채금리 급등에 \"글로벌 이슈때문…재정적자도 반영\"(종합)",
+          "url": "https://v.daum.net/v/20260916063655423",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "인플레 우려 커지자…美 10년물 금리 5% 넘어 [1분 브리프]",
+          "url": "https://www.asiae.co.kr/article/2026091523160577976",
+          "source": "아시아경제",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“9월중엔 주식창 안볼랍니다”…美긴축공포에 코스피 대형주 피눈물",
+          "url": "https://www.mk.co.kr/news/stock/12153825",
+          "source": "매일경제",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "이더리움": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-16T08:12:00+09:00",
+      "lastSeen": "2026-09-16T08:12:00+09:00",
+      "news": [
+        {
+          "title": "리플XRP·비트코인·이더리움 하락…XRP 거래 1위",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16195297",
+          "source": "톱스타뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "가상자산 시장 숨고르기 속 '시아코인' 12% 급등세… 리플·이더리움 혼조세",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3692949",
+          "source": "국제뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "알트코인 장세 온도차 뚜렷…리플(XRP)·도지코인(DOGE) 상승, 레이(RAY)·스토리지(STORJ) 약세",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=606297",
+          "source": "CBC뉴스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "일본 엔": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T08:12:00+09:00",
+      "lastSeen": "2026-09-16T08:12:00+09:00",
+      "news": [
+        {
+          "title": "[사설]글로벌 금리인상 충격에 대비할 때 - 머니투데이",
+          "url": "https://www.mt.co.kr/opinion/2026/09/15/2026091416103015930",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[블룸버그 칼럼]엔고에 더 강하게 베팅하는 베선트",
+          "url": "https://v.daum.net/v/t5BncyOcAH",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "美FOMC보다 日 BOJ에 더 주목해야할 이유, '엔 캐리 트레이드 청산'",
+          "url": "https://www.ytn.co.kr/_ln/0102_202609150759494310",
+          "source": "YTN",
           "date": "2026-09-15"
         }
       ]
