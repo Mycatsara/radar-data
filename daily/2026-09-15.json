@@ -4163,10 +4163,10 @@
       ]
     },
     "롯데 대 삼성": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-15T19:42:00+09:00",
-      "lastSeen": "2026-09-15T20:13:00+09:00",
+      "lastSeen": "2026-09-15T20:41:00+09:00",
       "news": [
         {
           "title": "‘안타 하나 없이 끝내기라니’ 볼넷→희생 번트→고의4구→사구→밀어내기 볼넷…삼성, 롯데에 3-2 승 [오!쎈 퓨처스] - 머니투데이",
@@ -4189,10 +4189,10 @@
       ]
     },
     "매매": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-15T19:42:00+09:00",
-      "lastSeen": "2026-09-15T20:13:00+09:00",
+      "lastSeen": "2026-09-15T20:41:00+09:00",
       "news": [
         {
           "title": "8월 서울 주택매매가격 상승률 5개월 만에 주춤, 강남↓외곽↑",
@@ -4211,14 +4211,20 @@
           "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1331995",
           "source": "인천일보",
           "date": "2026-09-15"
+        },
+        {
+          "title": "서울·경기 집값 뛰는데 인천은 '잠잠'",
+          "url": "http://incheonilbo.com/news/articleView.html?idxno=1331995",
+          "source": "인천일보",
+          "date": "2026-09-15"
         }
       ]
     },
     "브라이언 암스트롱": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T19:42:00+09:00",
-      "lastSeen": "2026-09-15T20:13:00+09:00",
+      "lastSeen": "2026-09-15T20:41:00+09:00",
       "news": [
         {
           "title": "클래리티 법안 표결 앞둔 美…SEC·월가, 불발돼도 가상자산 사업 계속",
@@ -4242,6 +4248,12 @@
           "title": "“운명의 날 D-1” 美 공화당, 클래리티법 최종 초안 공개",
           "url": "https://www.etoday.co.kr/news/view/2625885",
           "source": "이투데이",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Circle Internet 주가, 오늘 하락하는 이유는?",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2094830",
+          "source": "Investing.com 한국어",
           "date": "2026-09-15"
         }
       ]
@@ -4299,10 +4311,10 @@
       ]
     },
     "u-23 việt nam đấu với đội tuyển bóng đá u-23 quốc gia kuwait": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-15T20:13:00+09:00",
-      "lastSeen": "2026-09-15T20:13:00+09:00",
+      "lastSeen": "2026-09-15T20:41:00+09:00",
       "news": [
         {
           "title": "Việt Nam – Kuwait: Lứa U23 tìm chiến thắng đầu tiên ở ASIAD 20",
@@ -4321,14 +4333,20 @@
           "url": "https://laodong.vn/bong-da/truc-tiep-bong-da-u23-viet-nam-0-0-u23-kuwait-cao-van-binh-cuu-thua-xuat-sac-1767171.ldo",
           "source": "Laodong.vn",
           "date": "2026-09-15"
+        },
+        {
+          "title": "Đội mưa cổ vũ, kiều bào Nhật Bản tin U.23 Việt Nam vào tứ kết ASIAD 2026",
+          "url": "https://thanhnien.vn/doi-mua-co-vu-kieu-bao-nhat-ban-tin-u23-viet-nam-vao-tu-ket-asiad-2026-185260915181554627.htm",
+          "source": "Báo Thanh Niên",
+          "date": "2026-09-15"
         }
       ]
     },
     "복권": {
-      "count": 1,
-      "maxTraffic": 10000,
+      "count": 2,
+      "maxTraffic": 20000,
       "firstSeen": "2026-09-15T20:13:00+09:00",
-      "lastSeen": "2026-09-15T20:13:00+09:00",
+      "lastSeen": "2026-09-15T20:41:00+09:00",
       "news": [
         {
           "title": "15명 돈 모아 산 복권 51억 당첨되자…복권 쥔 그가 결근했다",
@@ -4351,10 +4369,10 @@
       ]
     },
     "베트남 u-23 대 쿠웨이트 u-23 축구 국가대표팀": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T20:13:00+09:00",
-      "lastSeen": "2026-09-15T20:13:00+09:00",
+      "lastSeen": "2026-09-15T20:41:00+09:00",
       "news": [
         {
           "title": "딘 박은 왜 일본에 있는데도 2020 아시안게임에 참가하는 베트남 U23 대표팀에 합류하지 않는 걸까요?",
@@ -4371,6 +4389,18 @@
         {
           "title": "후방의 '대포'",
           "url": "https://www.vietnam.vn/ko/nhung-hong-phao-o-tuyen-sau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "2026 아시안게임: 베트남 팬들이 빗속에서도 축구팀을 응원하고 있다.",
+          "url": "https://www.vietnam.vn/ko/asiad-2026-co-dong-vien-viet-nam-doi-mua-co-vu-tuyen-bong-da",
+          "source": "Vietnam.vn",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "선발 라인업: 베트남 U23 대표팀은 쿠웨이트 U23 대표팀과의 경기에 최강의 라인업을 내세웁니다.",
+          "url": "https://www.vietnam.vn/ko/doi-hinh-xuat-phat-u23-viet-nam-tung-doi-hinh-manh-nhat-dau-u23-kuwait",
           "source": "Vietnam.vn",
           "date": "2026-09-15"
         }
@@ -4403,10 +4433,10 @@
       ]
     },
     "삼성중공업 거제조선소": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T20:13:00+09:00",
-      "lastSeen": "2026-09-15T20:13:00+09:00",
+      "lastSeen": "2026-09-15T20:41:00+09:00",
       "news": [
         {
           "title": "경남 거제 조선소서 협력업체 대표 등 2명 옥상 농성",
@@ -4424,6 +4454,65 @@
           "title": "삼성重 거제조선소 옥상서 협력업체 대표 2명 농성...사측과 면담 약속 후 내려와",
           "url": "https://www.geojejournal.co.kr/news/articleView.html?idxno=207881",
           "source": "거제저널",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "엄지성": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-15T20:41:00+09:00",
+      "lastSeen": "2026-09-15T20:41:00+09:00",
+      "news": [
+        {
+          "title": "‘야구장’으로 간 이민성호…버스 기사의 황당한 실수",
+          "url": "https://www.donga.com/news/Sports/article/all/20260915/134675909/1",
+          "source": "동아일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "축구팀 태운 버스가 야구장으로…첫 경기 앞두고 '황당'",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008754712",
+          "source": "SBS 뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘4개 대회 연속 금메달’ 청신호 켤까···이민성호, 오늘밤 카타르와 AG 1차전",
+          "url": "https://www.khan.co.kr/article/202609151636001",
+          "source": "경향신문",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "afc 챔스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T20:41:00+09:00",
+      "lastSeen": "2026-09-15T20:41:00+09:00",
+      "news": []
+    },
+    "한국 축구": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T20:41:00+09:00",
+      "lastSeen": "2026-09-15T20:41:00+09:00",
+      "news": [
+        {
+          "title": "박문성 소신발언 “이승우 대표팀 안 뽑히는 이유…피지컬·수비 능력 부족”",
+          "url": "https://v.daum.net/v/20260915123727889",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "모레노 감독, 스리백 버리고 4-4-2 선택한 이유는?",
+          "url": "https://www.ytn.co.kr/_ln/0107_202609151829557373",
+          "source": "YTN",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“이름값 아닌 실력만 봤다” 모레노가 뽑은 김민수, 한국축구 구원할까",
+          "url": "https://www.khan.co.kr/article/202609151633001",
+          "source": "경향신문",
           "date": "2026-09-15"
         }
       ]
