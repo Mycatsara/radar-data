@@ -2087,10 +2087,10 @@
       ]
     },
     "김혜경": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-15T12:14:00+09:00",
-      "lastSeen": "2026-09-15T12:43:00+09:00",
+      "lastSeen": "2026-09-15T13:14:00+09:00",
       "news": [
         {
           "title": "김혜경 여사, 우즈벡 영부인과 경복궁서 친교…“문화·교육·기술 교류 깊어지길”",
@@ -2139,10 +2139,10 @@
       ]
     },
     "유학생": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-15T12:43:00+09:00",
-      "lastSeen": "2026-09-15T12:43:00+09:00",
+      "lastSeen": "2026-09-15T13:14:00+09:00",
       "news": [
         {
           "title": "또 법원에 막힌 트럼프… 유학생 비자 제한 시행 하루 전 제동",
@@ -2161,14 +2161,20 @@
           "url": "https://www.khan.co.kr/article/202609150846001",
           "source": "경향신문",
           "date": "2026-09-15"
+        },
+        {
+          "title": "트럼프 이민제한 잇단 제동…유학생 규정 막히고 영주권 정책 피소",
+          "url": "https://v.daum.net/v/20260915104451495",
+          "source": "Daum",
+          "date": "2026-09-15"
         }
       ]
     },
     "스포츠조선": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T12:43:00+09:00",
-      "lastSeen": "2026-09-15T12:43:00+09:00",
+      "lastSeen": "2026-09-15T13:14:00+09:00",
       "news": [
         {
           "title": "25세 日 스타 AV 배우, 사망…전남친 폭행설 제기",
@@ -2191,10 +2197,10 @@
       ]
     },
     "렉서스": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-15T12:43:00+09:00",
-      "lastSeen": "2026-09-15T12:43:00+09:00",
+      "lastSeen": "2026-09-15T13:14:00+09:00",
       "news": [
         {
           "title": "중국産 아닌데… 렉서스도 전기차 가격 경쟁 가세",
@@ -2217,10 +2223,10 @@
       ]
     },
     "황유민": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T12:43:00+09:00",
-      "lastSeen": "2026-09-15T12:43:00+09:00",
+      "lastSeen": "2026-09-15T13:14:00+09:00",
       "news": [
         {
           "title": "이다연 vs 이민지, KLPGA 하나금융그룹 챔피언십에서 리턴매치",
@@ -2238,6 +2244,136 @@
           "title": "황유민, KLPGA 하나금융그룹 대회 출격…박현경 이번주에는 나올까?",
           "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021885",
           "source": "골프한국",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "전인지": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T13:14:00+09:00",
+      "lastSeen": "2026-09-15T13:14:00+09:00",
+      "news": [
+        {
+          "title": "'연장전 우승' 야마시타, 세계랭킹 5위로↑'김효주 턱밑까지'…윤이나·최혜진·전인지·황유민은?",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021884",
+          "source": "골프한국",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘한국 와서 12위·11위’ 이동은, “자신감 되찾아 미국 가서도 잘할 것 같다”",
+          "url": "https://sports.khan.co.kr/article/202609141038013",
+          "source": "스포츠경향",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[골프IN화보] 고지우, KB금융 챔피언십 최종 라운드 경기 장면",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02902806645580120&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "옥순이": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T13:14:00+09:00",
+      "lastSeen": "2026-09-15T13:14:00+09:00",
+      "news": [
+        {
+          "title": "28기 영호, ♥옥순과 재혼 후 얻은 딸과 '단란'…등굣길도 '아빠 찬스' [★해시태그]",
+          "url": "https://news.nate.com/view/20260911n28045",
+          "source": "네이트",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘나솔’ 28기 영호, 출산 앞둔 ♥옥순이 겨우 말렸는데 딸바보 모먼트 “보람찬 하루”",
+          "url": "https://m.newsen.com/news_view.php?uid=202609091007042310",
+          "source": "뉴스엔",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "28기 영호, 재혼 후 얻은 딸 위해 녹색아버지 됐다 \"해병대 옷 입는 거 겨우 말려\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-09/202609090100060520003904",
+          "source": "스포츠조선",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "수도권 광역급행철도": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T13:14:00+09:00",
+      "lastSeen": "2026-09-15T13:14:00+09:00",
+      "news": [
+        {
+          "title": "GTX C노선 15일 착공 \"덕정~삼성·수원~청량리 30분대로\"",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971823",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "GTX-C 964일 표류 끝 ‘진짜 공사’…양주시민 “이번엔 개통 지켜야”",
+          "url": "https://v.daum.net/v/20260915105002835",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[그래픽] 수도권 광역급행철도(GTX) 공사 현황",
+          "url": "https://www.yna.co.kr/view/GYH20260914000500044",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "탈옥": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-15T13:14:00+09:00",
+      "lastSeen": "2026-09-15T13:14:00+09:00",
+      "news": [
+        {
+          "title": "[단독] ‘드론’ 타고 날아서…박왕열, 송환 한 달 전 탈옥 계획",
+          "url": "https://news.jtbc.co.kr/article/NB12318273",
+          "source": "JTBC",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'날아서 탈출' 이게 돼?…필리핀 수용소에선 \"월 600만원이면\"",
+          "url": "https://v.daum.net/v/20260914201402839",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"이 정도는 해줘야\"...'마약왕' 박완열, 드론탈옥 연습 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/15/2026091508151854362",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "서영교": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T13:14:00+09:00",
+      "lastSeen": "2026-09-15T13:14:00+09:00",
+      "news": [
+        {
+          "title": "김승원, ‘신약 로비’ 의혹에 “제 피의사실 말하면 피의사실공표죄”",
+          "url": "https://www.chosun.com/politics/assembly/2026/09/15/DV3IOQKTFBE7VBJDCODDHQIZJQ/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "김승원, '한동훈 수사정보 입수' 역공…가족 의혹엔 눈물(종합)",
+          "url": "https://v.daum.net/v/20260915125952286",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"악마야\", \"당신 뭐라 그랬어!\"…시작부터 고성·삿대질 김승원 청문회",
+          "url": "https://news.jtbc.co.kr/article/NB12318400",
+          "source": "JTBC",
           "date": "2026-09-15"
         }
       ]
