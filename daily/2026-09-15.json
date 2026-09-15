@@ -2249,10 +2249,10 @@
       ]
     },
     "전인지": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T13:14:00+09:00",
-      "lastSeen": "2026-09-15T13:43:00+09:00",
+      "lastSeen": "2026-09-15T14:13:00+09:00",
       "news": [
         {
           "title": "'연장전 우승' 야마시타, 세계랭킹 5위로↑'김효주 턱밑까지'…윤이나·최혜진·전인지·황유민은?",
@@ -2271,14 +2271,20 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=02902806645580120&mediaCodeNo=257",
           "source": "이데일리",
           "date": "2026-09-15"
+        },
+        {
+          "title": "'연장전 우승' 야마시타, 세계랭킹 5위로↑'김효주 턱밑까지'…윤이나·최혜진·전인지·황유민은?",
+          "url": "https://v.daum.net/v/20260915061549312",
+          "source": "Daum",
+          "date": "2026-09-15"
         }
       ]
     },
     "옥순이": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T13:14:00+09:00",
-      "lastSeen": "2026-09-15T13:43:00+09:00",
+      "lastSeen": "2026-09-15T14:13:00+09:00",
       "news": [
         {
           "title": "28기 영호, ♥옥순과 재혼 후 얻은 딸과 '단란'…등굣길도 '아빠 찬스' [★해시태그]",
@@ -2403,10 +2409,10 @@
       ]
     },
     "김승원": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-15T13:43:00+09:00",
-      "lastSeen": "2026-09-15T13:43:00+09:00",
+      "lastSeen": "2026-09-15T14:13:00+09:00",
       "news": [
         {
           "title": "김승원, ‘신약 로비’ 의혹에 “제 피의사실 말하면 피의사실공표죄”",
@@ -2425,14 +2431,26 @@
           "url": "https://news.jtbc.co.kr/article/NB12318400",
           "source": "JTBC",
           "date": "2026-09-15"
+        },
+        {
+          "title": "\"흉측한 얼굴\"·\"악마\"…김승원 청문회 막말로 얼룩",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260915125243eGh",
+          "source": "연합뉴스TV",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "김승원, 가족 의혹 해명하다 눈물…민주당은 격려 박수·국힘 \"악어의 눈물\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008753949",
+          "source": "SBS 뉴스",
+          "date": "2026-09-15"
         }
       ]
     },
     "스포츠": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-15T13:43:00+09:00",
-      "lastSeen": "2026-09-15T13:43:00+09:00",
+      "lastSeen": "2026-09-15T14:13:00+09:00",
       "news": [
         {
           "title": "더스카우트 : 2026' 그라운드 위 쏟아낸 유소년들의 열정",
@@ -2451,14 +2469,26 @@
           "url": "https://isplus.com/article/view/isp202609150031",
           "source": "일간스포츠",
           "date": "2026-09-15"
+        },
+        {
+          "title": "코오롱스포츠·왁, 아이치 나고야 아시안게임 양궁·골프 대표팀 지원 - 머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/09/15/2026091513294012528",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "코오롱스포츠, 20개월 공들인 국가대표 양궁화 출격",
+          "url": "https://sports.donga.com/life/article/all/20260915/134670355/1",
+          "source": "스포츠동아",
+          "date": "2026-09-15"
         }
       ]
     },
     "가출": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-15T13:43:00+09:00",
-      "lastSeen": "2026-09-15T13:43:00+09:00",
+      "lastSeen": "2026-09-15T14:13:00+09:00",
       "news": [
         {
           "title": "아내에게도 폭력을 일삼던 남편! 알고 보니 출소한 전과자였다",
@@ -2481,10 +2511,10 @@
       ]
     },
     "기뢰": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-15T13:43:00+09:00",
-      "lastSeen": "2026-09-15T13:43:00+09:00",
+      "lastSeen": "2026-09-15T14:13:00+09:00",
       "news": [
         {
           "title": "이란 IRGC \"호르무즈서 초대형 유조선이 기뢰와 충돌해 폭발\"",
@@ -2503,14 +2533,20 @@
           "url": "https://www.ytn.co.kr/_ln/0104_202609150758276822",
           "source": "YTN",
           "date": "2026-09-15"
+        },
+        {
+          "title": "호르무즈 유조선 피격 원인 공방… 후티, 사우디 공격 재개",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3432833",
+          "source": "천지일보",
+          "date": "2026-09-15"
         }
       ]
     },
     "가석방": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-15T13:43:00+09:00",
-      "lastSeen": "2026-09-15T13:43:00+09:00",
+      "lastSeen": "2026-09-15T14:13:00+09:00",
       "news": [
         {
           "title": "가석방 이틀 만에 아내·장모 찾아가 10여 차례 찌른 60대 중형",
@@ -2528,6 +2564,96 @@
           "title": "가석방 이틀만에 사실혼 아내-장모 10여차례 찔렀다",
           "url": "https://www.donga.com/news/Society/article/all/20260915/134669671/1",
           "source": "동아일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "사실혼 관계 아내 외도 의심해 흉기로 찌른 60대에게 중형 선고",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260915.99099004937",
+          "source": "국제신문",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"바람피웠지?\" 가석방 직후 아내·장모 찔렀다…60대 징역 14년 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/15/2026091511325779279",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "안젤리나 졸리": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T14:13:00+09:00",
+      "lastSeen": "2026-09-15T14:13:00+09:00",
+      "news": [
+        {
+          "title": "안젤리나 졸리 장남, 父 브래드 피트 손절 완료..\"성 삭제 법적 승인\"[Oh!llywood]",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/09/15/MY2TAY3GMEZGIMBRMI2GGODEMU/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "브래드 피트 장남 매덕스, 아버지 성 삭제…법원서 개명 승인",
+          "url": "https://www.dailian.co.kr/news/view/1690566/%EB%B8%8C%EB%9E%98%EB%93%9C-%ED%94%BC%ED%8A%B8-%EC%9E%A5%EB%82%A8-%EB%A7%A4%EB%8D%95%EC%8A%A4-%EC%95%84%EB%B2%84%EC%A7%80-%EC%84%B1-2026",
+          "source": "데일리안",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "62세 브래드 피트, 너덜너덜 힙스터 패션 공식석상..자녀들 갈등ing [Oh!llywood]",
+          "url": "https://www.koreadaily.com/article/20260910015139962",
+          "source": "미주중앙일보",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "삼성 엑시노스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T14:13:00+09:00",
+      "lastSeen": "2026-09-15T14:13:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 삼성전자, 천안서 엑시노스 패키징 접고 HBM 설비로 전환",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=423699",
+          "source": "시사저널e",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "대만언론 \"TSMC, 내년 첨단공정 대대적 증산\"…매출 신기록 전망",
+          "url": "https://www.yna.co.kr/view/AKR20260914059900009",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "TSMC 2나노에 애플 '아이폰 듀오' 프로세서 수요 본격화, \"첨단 파운드리 품귀 심화\"",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447223",
+          "source": "비즈니스포스트",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "서동주": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T14:13:00+09:00",
+      "lastSeen": "2026-09-15T14:13:00+09:00",
+      "news": [
+        {
+          "title": "서정희, 이혼 후 미국 클럽서 20대 남자들에 대시 받았다…\"콧대 높게 '노!'\"",
+          "url": "https://v.daum.net/v/20260915090644128",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "서동주 \"암투병 엄마 무너질 줄 알았는데 너무 긍정적\"",
+          "url": "https://www.newsis.com/view/NISX20260915_0003789529",
+          "source": "뉴시스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "서정희, 혼자된 후 美 클럽 갔다가 20대 대시받았다 “콧대 높게 NO”(또도동)",
+          "url": "https://www.koreadaily.com/article/20260914084234895",
+          "source": "미주중앙일보",
           "date": "2026-09-15"
         }
       ]
