@@ -1691,10 +1691,10 @@
       ]
     },
     "lpga": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T09:46:00+09:00",
-      "lastSeen": "2026-09-15T10:43:00+09:00",
+      "lastSeen": "2026-09-15T11:15:00+09:00",
       "news": [
         {
           "title": "Europe Wins Solheim Cup... 'Home Turf Dominance Continues'",
@@ -1713,14 +1713,26 @@
           "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008751129",
           "source": "news.sbs.co.kr",
           "date": "2026-09-14"
+        },
+        {
+          "title": "US Solheim Cup captain Angela Stanford takes assistant job at alma mater TCU after loss to Europe",
+          "url": "https://www.washingtonpost.com/sports/golf/2026/09/14/angela-stanford-tcu-lpga/799df4e6-b087-11f1-92c2-5c918f4a6127_story.html",
+          "source": "The Washington Post",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "US Solheim Cup captain Angela Stanford takes assistant job at alma mater TCU after loss to Europe",
+          "url": "https://www.oskaloosa.com/sports/national_sports/us-solheim-cup-captain-angela-stanford-takes-assistant-job-at-alma-mater-tcu-after-loss/article_eeb34355-bcf2-5295-98ff-a5f69496860c.html",
+          "source": "Oskaloosa Herald",
+          "date": "2026-09-14"
         }
       ]
     },
     "농구": {
-      "count": 3,
-      "maxTraffic": 500,
+      "count": 4,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-15T09:46:00+09:00",
-      "lastSeen": "2026-09-15T10:43:00+09:00",
+      "lastSeen": "2026-09-15T11:15:00+09:00",
       "news": [
         {
           "title": "[스포츠머그] 농구 한일전에 '태풍주의보' 예언부터 퇴근 선언까지, 전태풍 해설 데뷔전 킬포 모음",
@@ -1749,10 +1761,10 @@
       ]
     },
     "이봉원": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-15T09:46:00+09:00",
-      "lastSeen": "2026-09-15T10:43:00+09:00",
+      "lastSeen": "2026-09-15T11:15:00+09:00",
       "news": [
         {
           "title": "박미선♥이봉원 아들·딸 모두 배우였다…\"부모 숨기고 엑스트라부터\" (신여성)",
@@ -1781,10 +1793,10 @@
       ]
     },
     "맞춤형복지": {
-      "count": 3,
-      "maxTraffic": 500,
+      "count": 4,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-15T09:46:00+09:00",
-      "lastSeen": "2026-09-15T10:43:00+09:00",
+      "lastSeen": "2026-09-15T11:15:00+09:00",
       "news": [
         {
           "title": "정선 고한읍, 지역 맞춤형 복지사업 발굴",
@@ -1807,10 +1819,10 @@
       ]
     },
     "아크 인베스트": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-15T09:46:00+09:00",
-      "lastSeen": "2026-09-15T10:43:00+09:00",
+      "lastSeen": "2026-09-15T11:15:00+09:00",
       "news": [
         {
           "title": "“구글팔고 ‘이 주식’ 375억원 매수했다”…돈나무 언니가 베팅한 AI 수혜주",
@@ -1839,17 +1851,36 @@
       ]
     },
     "위암": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T10:13:00+09:00",
-      "lastSeen": "2026-09-15T10:43:00+09:00",
-      "news": []
+      "lastSeen": "2026-09-15T11:15:00+09:00",
+      "news": [
+        {
+          "title": "에이비엘바이오 담도암 신약 ‘주춤’, 위암 파이프라인 가치 입증할까",
+          "url": "https://v.daum.net/v/20260915050007265",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "에이비엘바이오 '토베시미그' 체질 개선 이끌까",
+          "url": "https://news.mtn.co.kr/news-detail/2026091110164359226",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "에이비엘, 담도암 신약 임상 美 FDA 피드백 임박…로열티 기업 기로 - 머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/09/08/2026090815320280477",
+          "source": "머니투데이",
+          "date": "2026-09-14"
+        }
+      ]
     },
     "왕옌청": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T10:43:00+09:00",
-      "lastSeen": "2026-09-15T10:43:00+09:00",
+      "lastSeen": "2026-09-15T11:15:00+09:00",
       "news": [
         {
           "title": "한화의 복덩이, 아시안게임선 적으로",
@@ -1868,14 +1899,20 @@
           "url": "https://www.osen.co.kr/article/G1112875428",
           "source": "OSEN",
           "date": "2026-09-15"
+        },
+        {
+          "title": "한화 왕옌청, AG 앞두고 마지막 등판…선두 KT에 고춧가루 뿌릴까",
+          "url": "https://www.news1.kr/sports/baseball/6290720",
+          "source": "뉴스1",
+          "date": "2026-09-15"
         }
       ]
     },
     "김호영": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-15T10:43:00+09:00",
-      "lastSeen": "2026-09-15T10:43:00+09:00",
+      "lastSeen": "2026-09-15T11:15:00+09:00",
       "news": [
         {
           "title": "\"결혼 앞둔 지인 손절\"...김호영, 황당 요구에 분노한 사연 - 머니투데이",
@@ -1893,6 +1930,64 @@
           "title": "김호영, 결혼식 축가 부탁한 지인 손절 \"후배 추천했더니 더 유명한 사람 해달라고\"",
           "url": "https://www.sportschosun.com/entertainment/2026-09-14/202609140100092050006020",
           "source": "스포츠조선",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"스드메 할인·후배 축가 거절까지\"…��호영, 염치없는 지인 손절 사연",
+          "url": "https://www.newsis.com/view/NISX20260915_0003789768",
+          "source": "뉴시스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "백종원": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T11:15:00+09:00",
+      "lastSeen": "2026-09-15T11:15:00+09:00",
+      "news": [
+        {
+          "title": "M&A에 쓴다고 했던 935억 파킹통장에… 백종원 더본코리아, 연내 인수전 나설까 - 조선비즈",
+          "url": "https://biz.chosun.com/stock/market_trend/2026/09/15/JQHWRUQUBRCWDI7VNSNSZEN7VM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘당류 0g’ 백종원 ‘연돈 카레’ 당분 함량 허위 표기, 행정처분",
+          "url": "https://biz.heraldcorp.com/article/10873801",
+          "source": "헤럴���경제",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘당류 0g’ 백종원 ‘연돈 카레’ 당분 함량 허위 표기, 행정처분",
+          "url": "https://www.heraldk.com/article/2026091418534438782",
+          "source": "헤럴드경제 미주판",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "홍진영": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T11:15:00+09:00",
+      "lastSeen": "2026-09-15T11:15:00+09:00",
+      "news": [
+        {
+          "title": "홍진영 친언니, 의미심장 글 \"선 넘으면 호의도 끝\"",
+          "url": "https://www.newsis.com/view/NISX20260914_0003788555",
+          "source": "뉴시스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“선 넘는 순간 호의도 끝”…홍진영 친언니 홍선영, 의미심장 경고",
+          "url": "https://www.mk.co.kr/news/hot-issues/12151670",
+          "source": "매일경제",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "홍진영 친언니, 경고장 날렸다...\"선 넘는 순간 호의 끝난다\"",
+          "url": "https://v.daum.net/v/20260914070509667?f=p",
+          "source": "Daum",
           "date": "2026-09-15"
         }
       ]
