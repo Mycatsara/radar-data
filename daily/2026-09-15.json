@@ -2819,10 +2819,10 @@
       ]
     },
     "추석 민생지원금": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-15T15:18:00+09:00",
-      "lastSeen": "2026-09-15T15:18:00+09:00",
+      "lastSeen": "2026-09-15T15:47:00+09:00",
       "news": [
         {
           "title": "소득 상관없이 1인당 10만 원 또 준다…추석 전에 지원금 푸는 지자체들",
@@ -2841,14 +2841,20 @@
           "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260915.22009004685",
           "source": "국제신문",
           "date": "2026-09-15"
+        },
+        {
+          "title": "고창군, 군민활력지원금 지급 열흘 만에 90.6% 돌파",
+          "url": "https://sjbnews.com/news/news.php?number=887616&year=2026",
+          "source": "새전북신문",
+          "date": "2026-09-15"
         }
       ]
     },
     "아시아나": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-15T15:18:00+09:00",
-      "lastSeen": "2026-09-15T15:18:00+09:00",
+      "lastSeen": "2026-09-15T15:47:00+09:00",
       "news": [
         {
           "title": "남아있는 아시아나 마일리지, 대한항공서 10년간 더 쓴다",
@@ -2867,14 +2873,26 @@
           "url": "https://www.ytn.co.kr/_ln/0102_202609151201146658",
           "source": "YTN",
           "date": "2026-09-15"
+        },
+        {
+          "title": "아시아나 마일리지 10년 유지…대한항공 ‘마일리지 항공권’ 확 푼다",
+          "url": "https://www.etoday.co.kr/news/view/2625788",
+          "source": "이투데이",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "대한항공, 마일리지 통합 퍼즐 맞췄다…'메가캐리어' 출범 임박",
+          "url": "https://v.daum.net/v/20260915140856606",
+          "source": "Daum",
+          "date": "2026-09-15"
         }
       ]
     },
     "초과 근무": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-15T15:18:00+09:00",
-      "lastSeen": "2026-09-15T15:18:00+09:00",
+      "lastSeen": "2026-09-15T15:47:00+09:00",
       "news": [
         {
           "title": "공무원 '하루 4시간' 초과근무 상한 폐지‥\"일한 만큼 인정\"",
@@ -2892,6 +2910,12 @@
           "title": "“수당 없는 야근 초래”...인천 공직사회, ‘초과근무 총량관리제’ 도입 중단 촉구",
           "url": "https://v.daum.net/v/20260913155702617",
           "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "공무원 하루 4시간 초과근무 상한 폐지…일한 만큼 보상",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8663873",
+          "source": "KBS 뉴스",
           "date": "2026-09-15"
         }
       ]
@@ -2918,6 +2942,188 @@
           "title": "[속보] 김민수·정승원, 모레노호 1기 깜짝 발탁…손흥민·이강인 합류",
           "url": "https://www.news1.kr/sports/soccer/6289711",
           "source": "뉴스1",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "로켓": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T15:47:00+09:00",
+      "lastSeen": "2026-09-15T15:47:00+09:00",
+      "news": [
+        {
+          "title": "[영상]‘우주 주권’ 싣고 솟구쳤다…유럽 땅에서 지구궤도용 로켓 첫 발사",
+          "url": "https://www.khan.co.kr/article/202609130900011",
+          "source": "경향신문",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "독일 스타트업, 로켓 우주발사 성공…유럽 첫 상업용 성공",
+          "url": "https://news.nate.com/view/20260906n10888",
+          "source": "네이트",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "SpaceX German Rival Rocket Reaches Orbit For The First Time",
+          "url": "https://www.tikr.com/ko/blog/spacex-spcx-stock-german-rival-isar-aerospace-orbit",
+          "source": "TIKR.com",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "대구로": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T15:47:00+09:00",
+      "lastSeen": "2026-09-15T15:47:00+09:00",
+      "news": [
+        {
+          "title": "대구로페이 판매 오전 9시로 통일…고령층 구매 기회 확대",
+          "url": "https://www.yna.co.kr/view/AKR20260914139900053",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "추석 앞두고 대구로페이 1천억 발행…할인율 10%",
+          "url": "https://www.hani.co.kr/arti/area/yeongnam/1277882.html",
+          "source": "한겨레",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "대구시, 하반기 ‘대구로페이’ 1000억 발행…구매 편의도 높여",
+          "url": "https://www.munhwa.com/article/11616884",
+          "source": "문화일보",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "황 유민": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T15:47:00+09:00",
+      "lastSeen": "2026-09-15T15:47:00+09:00",
+      "news": [
+        {
+          "title": "KLPGA vs LPGA ‘미니 대항전’ 성사…서교림·김민솔의 기세냐, 리디아 고·이민지의 명성이냐",
+          "url": "https://v.daum.net/v/20260915100450127",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "이다연 vs 이민지, KLPGA 하나금융그룹 챔피언십에서 리턴매치",
+          "url": "https://www.yna.co.kr/view/AKR20260915040200007",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'림솔 대전' 이번엔 더 뜨겁다…리디아 고·황유민도 우승 도전",
+          "url": "https://www.news1.kr/sports/golf/6291076",
+          "source": "뉴스1",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "박주미": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T15:47:00+09:00",
+      "lastSeen": "2026-09-15T15:47:00+09:00",
+      "news": [
+        {
+          "title": "\"20년 전 사진이죠?\"...54세 박주미, 유재석이랑 동갑 비주얼 맞나",
+          "url": "https://v.daum.net/v/20260914214709408",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "54세 박주미, 필라테스룩에 레그 워머…슬림 몸매",
+          "url": "https://www.newsis.com/view/NISX20260915_0003789480",
+          "source": "뉴시스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "박주미, 이게 어떻게 50대야?..20대 대학생인 줄 ‘관리의 여왕’",
+          "url": "https://www.koreadaily.com/article/20260914090136044",
+          "source": "미주중앙일보",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "류혜영": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T15:47:00+09:00",
+      "lastSeen": "2026-09-15T15:47:00+09:00",
+      "news": [
+        {
+          "title": "류혜영 \"고경표에 항상 설렌다…키 크고 잘생긴 남자\"",
+          "url": "https://www.newsis.com/view/NISX20260915_0003789320",
+          "source": "뉴시스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"고경표에 설렜다\" 류혜영, 깜짝 고백 술렁..‘나혼산’ 묘한 스킨십 해명 ('짠한형')",
+          "url": "https://v.daum.net/v/20260914202608077",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "고경표♥류혜영, ‘응팔’ 끝난 지 10년인데 또 핑크빛…“키 크고 잘생겨, 늘 설레”",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/09/15/MQ2TKYZZMJTDMMDBHBRDCMTDHA/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "우선주": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-15T15:47:00+09:00",
+      "lastSeen": "2026-09-15T15:47:00+09:00",
+      "news": [
+        {
+          "title": "라이프운용, 삼성전자에 주주서한…\"잔여 재원 63조, 우선주 소각에 써야\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434843",
+          "source": "연합인포맥스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "라이프운용, 삼성전자에 우선주 매입·소각 제안… “60조 잔여 재원 투입해야” - 조선비즈",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/09/15/YIBXFW4A7NBUPM5NQF2KPQND6U/",
+          "source": "Chosunbiz",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“삼성전자, 현금배당 말고 우선주 사라”…라이프운용 주주제안",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02696166645580448&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "기 영식": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T15:47:00+09:00",
+      "lastSeen": "2026-09-15T15:47:00+09:00",
+      "news": [
+        {
+          "title": "\"아프지 말고 편히 쉬길\" 31기 영식, 안타까운 비보..세상 떠난 할머니에 작별 인사",
+          "url": "https://v.daum.net/v/20260915091709602",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“아프지 말고 좋은 곳에서 편히 쉬세요”…’나솔’ 31기 영식, 조모상 비보→작별 인사 [MHN:피드]",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1544177",
+          "source": "MHN스포츠",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "조모상 ‘나는 솔로’ 31기 영식, 가슴 아픈 비보 “참 많이 행복했다”",
+          "url": "https://m.newsen.com/news_view.php?uid=202609151458052310",
+          "source": "뉴스엔",
           "date": "2026-09-15"
         }
       ]
