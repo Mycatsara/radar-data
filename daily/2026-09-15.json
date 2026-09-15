@@ -1275,10 +1275,10 @@
       ]
     },
     "김호령": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-15T08:39:00+09:00",
-      "lastSeen": "2026-09-15T08:39:00+09:00",
+      "lastSeen": "2026-09-15T09:20:00+09:00",
       "news": [
         {
           "title": "‘홀짝 대전’ 홀수 팀이 웃었다…AI “KT 1위, LG 3위, 두산 5위 간다” [어제의 프로야구]",
@@ -1301,10 +1301,10 @@
       ]
     },
     "박수홍": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-15T08:39:00+09:00",
-      "lastSeen": "2026-09-15T08:39:00+09:00",
+      "lastSeen": "2026-09-15T09:20:00+09:00",
       "news": [
         {
           "title": "'기내 민폐 사과' 박수홍·김다예, 3주 만 유튜브 복귀…\"요즘 이렇게 지내요\" [MD이슈]",
@@ -1323,14 +1323,26 @@
           "url": "https://m.newsen.com/news_view.php?uid=202609141730050310",
           "source": "뉴스엔",
           "date": "2026-09-14"
+        },
+        {
+          "title": "박수홍, ‘비행기 지연 논란’ 후 유튜브 복귀..“요즘 이렇게 지내요”(행복해다홍)",
+          "url": "https://v.daum.net/v/20260914193537109",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "‘비행기 지연 민폐 논란’ 박수홍, 홈쇼핑 이어 유튜브 활동 재개 - 스타투데이",
+          "url": "https://www.mk.co.kr/news/hot-issues/12152276",
+          "source": "매일경제",
+          "date": "2026-09-14"
         }
       ]
     },
     "띠별 운세": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T08:39:00+09:00",
-      "lastSeen": "2026-09-15T08:39:00+09:00",
+      "lastSeen": "2026-09-15T09:20:00+09:00",
       "news": [
         {
           "title": "[오늘의 운세] 2026년 09월 15일 띠별 운세",
@@ -1353,10 +1365,10 @@
       ]
     },
     "주가": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T08:39:00+09:00",
-      "lastSeen": "2026-09-15T08:39:00+09:00",
+      "lastSeen": "2026-09-15T09:20:00+09:00",
       "news": [
         {
           "title": "삼성전자 ‘27만원’·SK하이닉스 ‘148만원’...BNK “주가 상단 제한적”",
@@ -1374,6 +1386,18 @@
           "title": "‘하닉 하락 적중했던 그 보고서’…이번엔 삼성전자 목표가 낮췄다",
           "url": "https://www.munhwa.com/article/11616953",
           "source": "문화일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "\"삼전닉스 오를 만큼 올랐다\"…증권가서 나온 '싸늘한 전망' [분석+]",
+          "url": "https://www.hankyung.com/article/2026091546186",
+          "source": "한국경제",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "삼성전자·SK하이닉스, 프리마켓서 약보합 출발",
+          "url": "https://www.newsis.com/view/NISX20260915_0003789421",
+          "source": "뉴시스",
           "date": "2026-09-14"
         }
       ]
@@ -1452,6 +1476,162 @@
           "title": "성리 연기도전, 이민호 명대사… 장민호 만류 난리 (전설의 사내)",
           "url": "https://sports.donga.com/ent/article/all/20260914/134665189/1",
           "source": "스포츠동아",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "novig": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T09:20:00+09:00",
+      "lastSeen": "2026-09-15T09:20:00+09:00",
+      "news": [
+        {
+          "title": "Sydney Sweeney under fire from athletes over nude sports-prediction ad",
+          "url": "https://www.cnn.com/2026/09/14/sport/sydney-sweeney-ad-backlash-scli-intl",
+          "source": "CNN",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "Female athletes accuse Sydney Sweeney ad of sexualizing women in sports",
+          "url": "https://www.eastidahonews.com/2026/09/female-athletes-accuse-sydney-sweeney-ad-of-sexualizing-women-in-sports/",
+          "source": "East Idaho News",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "Sydney Sweeney advert sparks backlash from female athletes: ‘This is what women in sport look like’",
+          "url": "https://www.nytimes.com/athletic/7593383/2026/09/14/sydney-sweeney-naked-advert-backlash/",
+          "source": "The New York Times",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "진중권": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T09:20:00+09:00",
+      "lastSeen": "2026-09-15T09:20:00+09:00",
+      "news": [
+        {
+          "title": "9주 연속 하락‥'민심 경고'에 대통령 직접 등판",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6851830_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "이 대통령 지지율 33.8%…\"진보층·청년층 상당폭 이탈\"",
+          "url": "https://v.daum.net/v/20260915070307016",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "40·50 지지층도 흔들…부동산·주식·파병 등 복합 요인",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260915.22005004712",
+          "source": "국제신문",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "문형배": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-15T09:20:00+09:00",
+      "lastSeen": "2026-09-15T09:20:00+09:00",
+      "news": [
+        {
+          "title": "문형배 \"'이진숙 가처분' 안했다면 탄핵정국 재판 중단됐을 것\"",
+          "url": "https://www.yna.co.kr/view/AKR20260914158200063",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "문형배 “이진숙 가처분 인용 안했다면 탄핵 재판 중단됐을 것”",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000012011&code=11131100&sid1=prj",
+          "source": "국민일보",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "문형배 \"이진숙 가처분 안 했다면, 탄핵정국에서 헌법재판 중단됐을 것\"",
+          "url": "https://v.daum.net/v/20260914221641781",
+          "source": "Daum",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "해협": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T09:20:00+09:00",
+      "lastSeen": "2026-09-15T09:20:00+09:00",
+      "news": [
+        {
+          "title": "이란, 호르무즈 해협 제재 선박 77척으로 확대…한국 선사 선박도 포함",
+          "url": "https://v.daum.net/v/HJhyzgRfjd",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "이란, '호르무즈 통항 규정 위반' 선박 추가…77척으로 늘어",
+          "url": "https://www.yna.co.kr/view/AKR20260914169600079",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "이란, '호르무즈 통항 규정 위반' 선박 77척으로 확대…\"명단 추가 가능성\"",
+          "url": "https://www.newsis.com/view/NISX20260914_0003789263",
+          "source": "뉴시스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "맨체스터 유나이티드 fc": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T09:20:00+09:00",
+      "lastSeen": "2026-09-15T09:20:00+09:00",
+      "news": [
+        {
+          "title": "'맨체스터 더비 오심' VAR 심판, 주말 EPL 경기 배정 제외",
+          "url": "https://www.yna.co.kr/view/AKR20260915022700007",
+          "source": "연합뉴스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[EPL] 오심으로 맨유 울린 VAR 심판, 주말 경기 배정 제외",
+          "url": "https://www.newspim.com/news/view/20260915000098",
+          "source": "뉴스핌",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "맨시티, 홀란의 ‘오프사이드 오심’ 결승 골로 맨유에 1-0 승리",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8662504",
+          "source": "KBS 뉴스",
+          "date": "2026-09-14"
+        }
+      ]
+    },
+    "논술": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T09:20:00+09:00",
+      "lastSeen": "2026-09-15T09:20:00+09:00",
+      "news": [
+        {
+          "title": "한국공학대 수시 경쟁률 11대 1…AI로봇전공 20.7대 1 '최고'",
+          "url": "https://www.newsis.com/view/NISX20260914_0003788632",
+          "source": "뉴시스",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "한국공학대 2027수시경쟁률 11대1 '상승'.. 논술전형 23.9대1 '최고'",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=627778",
+          "source": "베리타스알파",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "[포커스] 한국공학대 수시 경쟁률, AIㆍ로봇ㆍ반도체 붐 타고 ‘쭉~!’ 상승세",
+          "url": "https://www.sanupin-news.kr/news/curationView.html?idxno=15556",
+          "source": "산업인뉴스",
           "date": "2026-09-14"
         }
       ]
