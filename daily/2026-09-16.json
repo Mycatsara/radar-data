@@ -1071,6 +1071,222 @@
           "date": "2026-09-15"
         }
       ]
+    },
+    "수혈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T07:13:00+09:00",
+      "lastSeen": "2026-09-16T07:13:00+09:00",
+      "news": [
+        {
+          "title": "‘O형에게 A형 혈액을’…대학병원서 응급 환자에 ‘수혈 사고’ [제보K]",
+          "url": "https://v.daum.net/v/20260915212711901",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "심정지 O형 환자에 A형 혈액수혈 사고…검찰, 재수사 요청",
+          "url": "https://www.yna.co.kr/view/AKR20260915183000004",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "대학병원서 O형 환자에 A형 수혈…검찰, 재수사 요청",
+          "url": "https://www.newsis.com/view/NISX20260915_0003791000",
+          "source": "뉴시스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "보스턴다이내믹스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T07:13:00+09:00",
+      "lastSeen": "2026-09-16T07:13:00+09:00",
+      "news": [
+        {
+          "title": "보스턴다이내믹스 누적 손실 1.7조·상장 연기… 현대차, ‘로봇 프리미엄’ 빠졌다 - 조선비즈",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/09/15/ONLG52COIZDIFAKY7PFEB55G6U/",
+          "source": "Chosunbiz",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "아틀라스가 만드는 현대차그룹 로봇 밸류체인…연간 기대 매출만 10조",
+          "url": "https://v.daum.net/v/uNWGf0HlSC",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "보스턴다이내믹스 2027년 IPO '불투명'…5년 적자 1.7조 원",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/09/2026091420064941662bd56fbc3c_1",
+          "source": "글로벌이코노믹",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "미사일": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-16T07:13:00+09:00",
+      "lastSeen": "2026-09-16T07:13:00+09:00",
+      "news": [
+        {
+          "title": "후티 공세에 피란민 10만 명‥유엔안보리 소집",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6852097_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "200조원 무기 사면 뭐하나… 싸울 의지 없는 사우디, 후티에 쩔쩔",
+          "url": "https://www.chosun.com/international/international_general/2026/09/16/GVBZJLUAXZAJNPK3R6AQAYIZSA/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[영상] 보복전에 비상 걸린 사우디…후티 겨냥 중국제 탄도미사일 쐈나",
+          "url": "https://www.yna.co.kr/view/MYH20260915012300704",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "spcx": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T07:13:00+09:00",
+      "lastSeen": "2026-09-16T07:13:00+09:00",
+      "news": []
+    },
+    "나스닥 지수": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T07:13:00+09:00",
+      "lastSeen": "2026-09-16T07:13:00+09:00",
+      "news": [
+        {
+          "title": "Circle Internet 주가, 오늘 하락하는 이유는?",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2094830",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "비트코인·이더리움 반등에 스트래티지·비트마인 주가 급등",
+          "url": "https://v.daum.net/v/20260914183140801",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[서울데이터랩]미국 증시, 기술주 약세에 일제 하락 마감…반도체 지수는 소폭 상승",
+          "url": "https://www.seoul.co.kr/news/economy/securities/2026/09/16/20260916500007",
+          "source": "서울신문",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "한겨레": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T07:13:00+09:00",
+      "lastSeen": "2026-09-16T07:13:00+09:00",
+      "news": []
+    },
+    "롤": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T07:13:00+09:00",
+      "lastSeen": "2026-09-16T07:13:00+09:00",
+      "news": [
+        {
+          "title": "리그 오브 레전드 가상 재화 정책 개정 안내 (2026년 10월 15일 시행)",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/notices/virtual-goods-policy-update-2026-10-15",
+          "source": "League of Legends",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[오!쎈 현장] \"흔들려도 다시 일어서는 법 배워\"… '쵸비' 정지훈이 말하는 젠지의 성장과 롤드컵",
+          "url": "https://www.osen.co.kr/article/G1112875681",
+          "source": "OSEN",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "올해도 젠지가 웃었다",
+          "url": "https://www.kmib.co.kr/article/view_amp.asp?arcid=9000012399",
+          "source": "국민일보",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "토지거래허가제": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T07:13:00+09:00",
+      "lastSeen": "2026-09-16T07:13:00+09:00",
+      "news": [
+        {
+          "title": "與 ‘토허제 실거주 유예’ 내년까지 연장 추진",
+          "url": "https://www.chosun.com/politics/assembly/2026/09/15/O37LIMO7CND65NGKVXIGZDREM4/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "與, 토허구역 실거주 유예 연장 제안…'매물잠김' 일부 해소 전망",
+          "url": "https://v.daum.net/v/20260916052129088",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "與권칠승 \"토지거래허가 실거주 의무, 내년까지 유예 연장 필요\"",
+          "url": "https://www.yna.co.kr/view/AKR20260915168500001",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "อิปสวิช พบ อาร์เซนอล": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T07:13:00+09:00",
+      "lastSeen": "2026-09-16T07:13:00+09:00",
+      "news": [
+        {
+          "title": "มิเกล อาร์เตตา ท้าทาย \"เทพเจ้า\" ดูแมน: ต้องพิสูจน์ตัวเองเพื่อโอกาสลงสนาม",
+          "url": "https://football.fanpiece.com/th/%E0%B8%A1%E0%B8%B4%E0%B9%80%E0%B8%81%E0%B8%A5-%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%95%E0%B8%95%E0%B8%B2-%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%A2-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2-%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B9%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%AA%E0%B8%A5%E0%B8%87%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1-c1504819.html",
+          "source": "FanPiece",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'ปืน-หงส์'กอดคอลิ่ว! คาราบาว คัพ รอบ 4",
+          "url": "https://www.naewna.com/n/breaking/63106/",
+          "source": "แนวหน้า",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "ดูบอลสด ถ่ายทอดสด อิปสวิช พบ อาร์เซน่อล คาราบาวคัพ วันนี้ 15 ก.ย.69",
+          "url": "https://www.posttoday.com/lifestyle/748756",
+          "source": "posttoday",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "이투데이": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T07:13:00+09:00",
+      "lastSeen": "2026-09-16T07:13:00+09:00",
+      "news": [
+        {
+          "title": "[이투데이 말투데이] 옥불탁 불성기(玉不琢 不成器)/브레인 프라이",
+          "url": "https://supple.kr/news/cmu35sryz003dempbty80iqr7",
+          "source": "https://spt.co.kr/",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[이투데이 말투데이] 옥불탁 불성기(玉不琢 不成器)/브레인 프라이",
+          "url": "https://www.etoday.co.kr/news/view/2625925?trc=main_opinion",
+          "source": "이투데이",
+          "date": "2026-09-15"
+        }
+      ]
     }
   },
   "sections": {
