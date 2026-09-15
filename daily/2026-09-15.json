@@ -3828,10 +3828,10 @@
       ]
     },
     "송가 인": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-15T18:15:00+09:00",
-      "lastSeen": "2026-09-15T18:15:00+09:00",
+      "lastSeen": "2026-09-15T18:45:00+09:00",
       "news": [
         {
           "title": "송가인 팬카페, 진도군에 고향사랑기부금 등 2천200만원 기부",
@@ -3854,10 +3854,10 @@
       ]
     },
     "삼성 '엑시노스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T18:15:00+09:00",
-      "lastSeen": "2026-09-15T18:15:00+09:00",
+      "lastSeen": "2026-09-15T18:45:00+09:00",
       "news": [
         {
           "title": "[단독] 삼성전자, 천안서 엑시노스 패키징 접고 HBM 설비로 전환",
@@ -3875,6 +3875,18 @@
           "title": "[파운드리 2.0] TSMC, 내년 매출 신기록 전망…삼성파운드리 흑자전환 언제?",
           "url": "https://www.greened.kr/news/articleView.html?idxno=350114",
           "source": "녹색경제신문",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"개발기간 9개월로 단축\"… 삼�� 파운드리, 2나노·DTCO로 AI칩 승부수",
+          "url": "https://zdnet.co.kr/view/?no=20260915112852",
+          "source": "지디넷코리아",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[단독] 삼성 테일러팹, 테슬라 주문 폭주에 양산 시작…가동률 벌써 30%",
+          "url": "https://www.sedaily.com/article/20091221",
+          "source": "서울경제",
           "date": "2026-09-15"
         }
       ]
@@ -3901,6 +3913,195 @@
           "title": "롯데백화점, 잠실서 '서울 100K' 트레일러닝 팝업스토어",
           "url": "https://www.yna.co.kr/view/AKR20260914154100030",
           "source": "연합뉴스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "kt 대 한화": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "news": [
+        {
+          "title": "강백호 1루수 전격 선발! 문현빈-노시환 없는 한화, 한지윤-유민-박정현 선발 출전…선두 KT 잡고 3연패 끊을까 [오!쎈 대전] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/15/202609151535776814O",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'이적 후 첫 수비' 한화 100억 타자, 1루수 선발 출전은 무려 1220일 만…\"김태연 손가락 안 좋아서\" [오!쎈 대전] - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/09/15/GAYDEZDCMJQWEZBUHFSTMOLFHA/",
+          "source": "Chosunbiz",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[스경X현장] 강백호, 한화 이적 후 첫 1루 수비 “김태연 손가락 부상 영향”",
+          "url": "https://sports.khan.co.kr/article/202609151641013",
+          "source": "스포츠경향",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "lg 대 nc": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "news": [
+        {
+          "title": "[IS 포커스] \"가장 큰 고민\" 박민마저 이탈했다…KIA, 김도영 없는 2주 '핫코너 해법' 찾기",
+          "url": "https://v.daum.net/v/20260915100637204",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "김도영·박재현 빠진 KIA, 꽃감독 해답은 누구일까 “3루수 수비가 고민, 컨디션 좋은 선수 찾아야” [오!쎈 인천] - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/09/15/MQZWKYJTGYZWKZJWME3WGOLBGM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[사진]훈련 나서는 박정우 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/15/202609151623774453O",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "cgv": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "news": []
+    },
+    "마라톤": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "news": [
+        {
+          "title": "\"목 90도 꺾여\" 희귀 난치병 56세 이봉주, 근황 공개...몸 상태 호전 \"포기하면 그걸로 끝\" 당찬 각오로 하프마라톤 완주",
+          "url": "https://v.daum.net/v/20260915043137095",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "다시 달리는 ‘봉달이’… “포기만 안하면 이긴다”",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000011924",
+          "source": "국민일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "고개 90도 꺾였던 이봉주…“러닝은 정신력” 희소병 이겨낸 근황 전해졌다",
+          "url": "https://m.go.seoul.co.kr/news/life/2026/09/15/20260915500047",
+          "source": "서울Pn",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "부정승차": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "news": [
+        {
+          "title": "\"두 번 찍었으니 돈 냈다\" 외국인 관광객…명동역 부정승차 적발 뒤 역무원 얼굴 SNS 공개 논란",
+          "url": "https://v.daum.net/v/20260915150440704",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "부정승차 적발되자 \"인종차별\" 적반하장…역무원 얼굴 공개까지 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/15/2026091511135871471",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"韓 역무원이 인종차별했다\"…부정 승차 걸리자 거짓 선동한 외국인 인플루언서",
+          "url": "https://www.newsis.com/view/NISX20260915_0003789433",
+          "source": "뉴시스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "로버트 패틴슨": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "news": [
+        {
+          "title": "로버트 패틴슨은 오스카상을 수상할 가능성이 매우 높다.",
+          "url": "https://www.vietnam.vn/ko/robert-pattinson-rong-cua-den-oscar",
+          "source": "Vietnam.vn",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "제2의 전성기를 맞이한 이 배우의 스타일리시한 커플 패션",
+          "url": "https://www.wkorea.com/2026/09/07/%EC%A0%9C2%EC%9D%98-%EC%A0%84%EC%84%B1%EA%B8%B0%EB%A5%BC-%EB%A7%9E%EC%9D%B4%ED%95%9C-%EC%9D%B4-%EB%B0%B0%EC%9A%B0%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A6%AC%EC%8B%9C%ED%95%9C-%EC%BB%A4%ED%94%8C/",
+          "source": "W Korea",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "드레스 워치의 신성한 규칙을 깬 로버트 패틴슨의 디올 착장",
+          "url": "https://www.gqkorea.co.kr/2026/09/08/%EB%93%9C%EB%A0%88%EC%8A%A4-%EC%9B%8C%EC%B9%98%EC%9D%98-%EC%8B%A0%EC%84%B1%ED%95%9C-%EA%B7%9C%EC%B9%99%EC%9D%84-%EA%B9%AC-%EB%A1%9C%EB%B2%84%ED%8A%B8-%ED%8C%A8%ED%8B%B4%EC%8A%A8%EC%9D%98-%EB%94%94/",
+          "source": "GQ Korea",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "kia 대 ssg": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "news": [
+        {
+          "title": "‘김도영 없어도 구름관중’ SSG, KIA 만나 2만3000명 만원관중…시즌 18번째 매진[오!쎈 인천] - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/09/15/MY2DCZJWMI4DMOLGHFTGIYRZGU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "김도영-박재현 다 빠졌지만 KIA가 왔다! SSG, 시즌 열여덟 번째 만원 관중 달성",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1007647",
+          "source": "SPOTV NEWS",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'인천 출신' 샤이니 민호, 15일 SSG-KIA전 승리 기원 시구 나선다 \"올 시즌 잘 마무리할 수 있도록\"",
+          "url": "https://sports.news.nate.com/view/20260912n00442",
+          "source": "네이트",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "australia vs zimbabwe": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T18:45:00+09:00",
+      "lastSeen": "2026-09-15T18:45:00+09:00",
+      "news": [
+        {
+          "title": "Zimbabwe plot to topple Australia again with World Cup on horizon",
+          "url": "https://www.cricinfo.com/series/australia-in-zimbabwe-2026-1530201/zimbabwe-vs-australia-1st-odi-1530203/match-preview",
+          "source": "Cricinfo",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "COCKY AUSSIES, THEY ALWAYS HIT BELOW THE BELT. . . But beyond the theatre, there is a sense of respect for the Chevs’ revival",
+          "url": "https://www.heraldonline.co.zw/cocky-aussies-they-always-hit-below-the-belt-but-beyond-the-theatre-there-is-a-sense-of-respect-for-the-chevs-revival/",
+          "source": "Herald.co.zw",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "ZIM vs AUS, 1st ODI, Australia tour of Zimbabwe 2026 - Commentary",
+          "url": "https://m.cricbuzz.com/live-cricket-scores/152731/aus-vs-zim-1st-odi-australia-tour-of-zimbabwe-2026",
+          "source": "Cricbuzz",
           "date": "2026-09-15"
         }
       ]
