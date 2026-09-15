@@ -1481,10 +1481,10 @@
       ]
     },
     "novig": {
-      "count": 3,
-      "maxTraffic": 500,
+      "count": 4,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-15T09:20:00+09:00",
-      "lastSeen": "2026-09-15T10:13:00+09:00",
+      "lastSeen": "2026-09-15T10:43:00+09:00",
       "news": [
         {
           "title": "Sydney Sweeney under fire from athletes over nude sports-prediction ad",
@@ -1519,10 +1519,10 @@
       ]
     },
     "진중권": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-15T09:20:00+09:00",
-      "lastSeen": "2026-09-15T10:13:00+09:00",
+      "lastSeen": "2026-09-15T10:43:00+09:00",
       "news": [
         {
           "title": "9주 연속 하락‥'민심 경고'에 대통령 직접 등판",
@@ -1545,6 +1545,12 @@
         {
           "title": "與 “참모진 뭐했나, 인적보강 시급”…李지지율 하락에 靑책임론",
           "url": "https://v.daum.net/v/pj4m3WIkCq",
+          "source": "Daum",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "李·與 '민심 이반' 심각…돌파구 마련 시험대",
+          "url": "https://v.daum.net/v/20260915100200917",
           "source": "Daum",
           "date": "2026-09-14"
         }
@@ -1685,10 +1691,10 @@
       ]
     },
     "lpga": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T09:46:00+09:00",
-      "lastSeen": "2026-09-15T10:13:00+09:00",
+      "lastSeen": "2026-09-15T10:43:00+09:00",
       "news": [
         {
           "title": "Europe Wins Solheim Cup... 'Home Turf Dominance Continues'",
@@ -1711,10 +1717,10 @@
       ]
     },
     "농구": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T09:46:00+09:00",
-      "lastSeen": "2026-09-15T10:13:00+09:00",
+      "lastSeen": "2026-09-15T10:43:00+09:00",
       "news": [
         {
           "title": "[스포츠머그] 농구 한일전에 '태풍주의보' 예언부터 퇴근 선언까지, 전태풍 해설 데뷔전 킬포 모음",
@@ -1743,10 +1749,10 @@
       ]
     },
     "이봉원": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-15T09:46:00+09:00",
-      "lastSeen": "2026-09-15T10:13:00+09:00",
+      "lastSeen": "2026-09-15T10:43:00+09:00",
       "news": [
         {
           "title": "박미선♥이봉원 아들·딸 모두 배우였다…\"부모 숨기고 엑스트라부터\" (신여성)",
@@ -1775,10 +1781,10 @@
       ]
     },
     "맞춤형복지": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T09:46:00+09:00",
-      "lastSeen": "2026-09-15T10:13:00+09:00",
+      "lastSeen": "2026-09-15T10:43:00+09:00",
       "news": [
         {
           "title": "정선 고한읍, 지역 맞춤형 복지사업 발굴",
@@ -1801,10 +1807,10 @@
       ]
     },
     "아크 인베스트": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-15T09:46:00+09:00",
-      "lastSeen": "2026-09-15T10:13:00+09:00",
+      "lastSeen": "2026-09-15T10:43:00+09:00",
       "news": [
         {
           "title": "“구글팔고 ‘이 주식’ 375억원 매수했다”…돈나무 언니가 베팅한 AI 수혜주",
@@ -1833,11 +1839,63 @@
       ]
     },
     "위암": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T10:13:00+09:00",
-      "lastSeen": "2026-09-15T10:13:00+09:00",
+      "lastSeen": "2026-09-15T10:43:00+09:00",
       "news": []
+    },
+    "왕옌청": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T10:43:00+09:00",
+      "lastSeen": "2026-09-15T10:43:00+09:00",
+      "news": [
+        {
+          "title": "한화의 복덩이, 아시안게임선 적으로",
+          "url": "https://www.chosun.com/international/international_general/2026/09/15/LVGILZFDVFCUFCW2DTDDWI2N5A/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'9연패→5연승→3연패' 롤러코스터 타는 한화…이제는 '문노' 없는 시간, 어떻게 풀어나갈까 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/15/202609150315771080O",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘대만 국가대표’ 왕옌청, AG 참가 전 마지막 등판…유종의 미 거둘까, 고영표와 선발 맞대결",
+          "url": "https://www.osen.co.kr/article/G1112875428",
+          "source": "OSEN",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "김호영": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T10:43:00+09:00",
+      "lastSeen": "2026-09-15T10:43:00+09:00",
+      "news": [
+        {
+          "title": "\"결혼 앞둔 지인 손절\"...김호영, 황당 요구에 분노한 사연 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/15/2026091506473568522",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "김호영, 신랑신부 주선에 양측 축의금까지 “돌아오는 거 없다면? 연락 끊겼는지 봐라”",
+          "url": "https://m.newsen.com/news_view.php?uid=202609140832202110",
+          "source": "뉴스엔",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "김호영, 결혼식 축가 부탁한 지인 손절 \"후배 추천했더니 더 유명한 사람 해달라고\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-14/202609140100092050006020",
+          "source": "스포츠조선",
+          "date": "2026-09-15"
+        }
+      ]
     }
   },
   "sections": {
