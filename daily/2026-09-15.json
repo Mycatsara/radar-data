@@ -1953,10 +1953,10 @@
       ]
     },
     "백종원": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-15T11:15:00+09:00",
-      "lastSeen": "2026-09-15T12:14:00+09:00",
+      "lastSeen": "2026-09-15T12:43:00+09:00",
       "news": [
         {
           "title": "M&A에 쓴다고 했던 935억 파킹통장에… 백종원 더본코리아, 연내 인수전 나설까 - 조선비즈",
@@ -1991,10 +1991,10 @@
       ]
     },
     "홍진영": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T11:15:00+09:00",
-      "lastSeen": "2026-09-15T12:14:00+09:00",
+      "lastSeen": "2026-09-15T12:43:00+09:00",
       "news": [
         {
           "title": "홍진영 친언니, 의미심장 글 \"선 넘으면 호의도 끝\"",
@@ -2017,10 +2017,10 @@
       ]
     },
     "김기수": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T11:43:00+09:00",
-      "lastSeen": "2026-09-15T12:14:00+09:00",
+      "lastSeen": "2026-09-15T12:43:00+09:00",
       "news": [
         {
           "title": "“김기수 맞아?” 얼굴만 달라진 게 아니네…밀착 바지에 드러난 ‘애플힙’ 깜짝",
@@ -2049,10 +2049,10 @@
       ]
     },
     "김태규": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-15T11:43:00+09:00",
-      "lastSeen": "2026-09-15T12:14:00+09:00",
+      "lastSeen": "2026-09-15T12:43:00+09:00",
       "news": [
         {
           "title": "여야, 김승원 청문회 초반부터 “주진우는 악마” vs “사과하라”",
@@ -2087,10 +2087,10 @@
       ]
     },
     "김혜경": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T12:14:00+09:00",
-      "lastSeen": "2026-09-15T12:14:00+09:00",
+      "lastSeen": "2026-09-15T12:43:00+09:00",
       "news": [
         {
           "title": "김혜경 여사, 우즈벡 영부인과 경복궁서 친교…“문화·교육·기술 교류 깊어지길”",
@@ -2108,6 +2108,136 @@
           "title": "金여사, 우즈베크 영부인과 고궁박물관 관람…\"교류 깊어지길\"",
           "url": "https://www.yna.co.kr/view/AKR20260914168700001",
           "source": "연합뉴스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "김하성": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T12:43:00+09:00",
+      "lastSeen": "2026-09-15T12:43:00+09:00",
+      "news": [
+        {
+          "title": "애틀랜타 김하성, 2타수 무안타…타율 0.126↓",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8663669",
+          "source": "KBS 뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"28홈런-60도루 그 김하성 맞아? 믿기 어렵다\" 美 매체도 경악한 '2000만 달러→OPS .365' 추락…\"내년 ML 계약 장담 못해\"",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/15/HA4DAZJQMY4TONTFGJSTMNDGGA/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "김하성은 2타석 만에 대타 교체...'42호포 37도루' PCA, 4안타 4타점 원맨쇼에 속수무책 [ATL리뷰] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/15/202609150957775756O",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "유학생": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T12:43:00+09:00",
+      "lastSeen": "2026-09-15T12:43:00+09:00",
+      "news": [
+        {
+          "title": "또 법원에 막힌 트럼프… 유학생 비자 제한 시행 하루 전 제동",
+          "url": "https://www.chosun.com/international/international_general/2026/09/15/JXWU3MCDJFE5VI6YLKKE3WR53I/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "트럼프 ‘유학생 체류 4년 제한’ 제동 걸려…미 법원 “시행 중단”",
+          "url": "https://www.hani.co.kr/arti/international/america/1277841.html",
+          "source": "한겨레",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "미 법원, 트럼프 행정부 ‘유학생·언론인 비자 제한’에 제동",
+          "url": "https://www.khan.co.kr/article/202609150846001",
+          "source": "경향신문",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "스포츠조선": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T12:43:00+09:00",
+      "lastSeen": "2026-09-15T12:43:00+09:00",
+      "news": [
+        {
+          "title": "25세 日 스타 AV 배우, 사망…전남친 폭행설 제기",
+          "url": "https://www.newsis.com/view/NISX20260914_0003789283",
+          "source": "뉴시스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "25세 日 AV 배우 쿠라키 하나, 전남친 자택서 사망..폭행·협박 의혹 확산 [Oh! 재팬]",
+          "url": "https://www.koreadaily.com/article/20260914025014349",
+          "source": "미��중앙일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "日 AV 배우, 전 남친 집서 숨진 채 발견… 폭행·협박 의혹",
+          "url": "https://view.asiae.co.kr/article/2026091418144158642",
+          "source": "아시아경제",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "렉서스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T12:43:00+09:00",
+      "lastSeen": "2026-09-15T12:43:00+09:00",
+      "news": [
+        {
+          "title": "중국産 아닌데… 렉서스도 전기차 가격 경쟁 가세",
+          "url": "https://www.chosun.com/economy/auto/2026/09/15/IP44WFH4LRC23BGNFVTU45MICE/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "렉서스코리아, '올 뉴 ES' 사전 계약 실시",
+          "url": "https://v.daum.net/v/uYCu90Hlsa",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"HEV에 BEV까지 갖췄다\"..렉서스코리아 '올 뉴 ES' 사전계약 시작 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/14/2026091409531029208",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "황유민": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T12:43:00+09:00",
+      "lastSeen": "2026-09-15T12:43:00+09:00",
+      "news": [
+        {
+          "title": "이다연 vs 이민지, KLPGA 하나금융그룹 챔피언십에서 리턴매치",
+          "url": "https://www.yna.co.kr/view/AKR20260915040200007",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "KLPGA vs LPGA ‘미니 대항전’ 성사…서교림·김민솔의 기세냐, 리디아 고·이민지의 명성이냐",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000012100&code=61161511&sid1=photo",
+          "source": "국민일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "황유민, KLPGA 하나금융그룹 대회 출격…박현경 이번주에는 나올까?",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021885",
+          "source": "골프한국",
           "date": "2026-09-15"
         }
       ]
