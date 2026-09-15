@@ -2409,10 +2409,10 @@
       ]
     },
     "김승원": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-15T13:43:00+09:00",
-      "lastSeen": "2026-09-15T14:13:00+09:00",
+      "lastSeen": "2026-09-15T14:42:00+09:00",
       "news": [
         {
           "title": "김승원, ‘신약 로비’ 의혹에 “제 피의사실 말하면 피의사실공표죄”",
@@ -2447,10 +2447,10 @@
       ]
     },
     "스포츠": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T13:43:00+09:00",
-      "lastSeen": "2026-09-15T14:13:00+09:00",
+      "lastSeen": "2026-09-15T14:42:00+09:00",
       "news": [
         {
           "title": "더스카우트 : 2026' 그라운드 위 쏟아낸 유소년들의 열정",
@@ -2581,10 +2581,10 @@
       ]
     },
     "안젤리나 졸리": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-15T14:13:00+09:00",
-      "lastSeen": "2026-09-15T14:13:00+09:00",
+      "lastSeen": "2026-09-15T14:42:00+09:00",
       "news": [
         {
           "title": "안젤리나 졸리 장남, 父 브래드 피트 손절 완료..\"성 삭제 법적 승인\"[Oh!llywood]",
@@ -2603,14 +2603,20 @@
           "url": "https://www.koreadaily.com/article/20260910015139962",
           "source": "미주중앙일보",
           "date": "2026-09-15"
+        },
+        {
+          "title": "안젤리나 졸리 장남, 父 브래드 피트 완전히 지웠다..\"성 삭제 승인\"",
+          "url": "https://www.starnewskorea.com/star/2026/09/15/2026091510050959655",
+          "source": "스타뉴스",
+          "date": "2026-09-15"
         }
       ]
     },
     "삼성 엑시노스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T14:13:00+09:00",
-      "lastSeen": "2026-09-15T14:13:00+09:00",
+      "lastSeen": "2026-09-15T14:42:00+09:00",
       "news": [
         {
           "title": "[단독] 삼성전자, 천안서 엑시노스 패키징 접고 HBM 설비로 전환",
@@ -2629,14 +2635,20 @@
           "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447223",
           "source": "비즈니스포스트",
           "date": "2026-09-15"
+        },
+        {
+          "title": "[파운드리 2.0] TSMC, 내년 매출 신기록 전망…삼성파운드리 흑자전환 언제?",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=350114",
+          "source": "녹색경제신문",
+          "date": "2026-09-15"
         }
       ]
     },
     "서동주": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T14:13:00+09:00",
-      "lastSeen": "2026-09-15T14:13:00+09:00",
+      "lastSeen": "2026-09-15T14:42:00+09:00",
       "news": [
         {
           "title": "서정희, 이혼 후 미국 클럽서 20대 남자들에 대시 받았다…\"콧대 높게 '노!'\"",
@@ -2654,6 +2666,124 @@
           "title": "서정희, 혼자된 후 美 클럽 갔다가 20대 대시받았다 “콧대 높게 NO”(또도동)",
           "url": "https://www.koreadaily.com/article/20260914084234895",
           "source": "미주중앙일보",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "기영식": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-15T14:42:00+09:00",
+      "lastSeen": "2026-09-15T14:42:00+09:00",
+      "news": [
+        {
+          "title": "\"아프지 말고 편히 쉬길\" 31기 영식, 안타까운 비보..세상 떠난 할머니에 작별 인사",
+          "url": "https://v.daum.net/v/20260915091709602",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘나는 솔로’ 31기 영식, 조모상 비보…”아프지 말고 편히 쉬세요” [RE:스타]",
+          "url": "https://tvreport.co.kr/entertainment/article/1075822/",
+          "source": "TV리포트",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"아프지 말고 좋은 곳에서 편히 ���세요\"…'나솔' 31기 영식, 조모상 비보→작별 인사 [MHN:피드]",
+          "url": "https://v.daum.net/v/20260915120114719",
+          "source": "Daum",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "초과근무": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-15T14:42:00+09:00",
+      "lastSeen": "2026-09-15T14:42:00+09:00",
+      "news": [
+        {
+          "title": "공무원 '하루 4시간' 초과근무 상한 폐지‥\"일한 만큼 인정\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6851894_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "초과근무 1일 상한 폐지, 일한 만큼 보상하고 감독 강화한다",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=447370",
+          "source": "서울Pn",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“수당 없는 야근 초래”...인천 공직사회, ‘초과근무 총량관리제’ 도입 중단 촉구",
+          "url": "https://v.daum.net/v/20260913155702617",
+          "source": "Daum",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "윤동희": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T14:42:00+09:00",
+      "lastSeen": "2026-09-15T14:42:00+09:00",
+      "news": [
+        {
+          "title": "\"박재현 대신 윤동희 선발 출전\" 파격 선택…역대급 슬럼프 윤동희, 해설위원들은 왜 골랐을까",
+          "url": "https://v.daum.net/v/20260915012349532",
+          "source": "Daum",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "경기남부": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T14:42:00+09:00",
+      "lastSeen": "2026-09-15T14:42:00+09:00",
+      "news": [
+        {
+          "title": "서울보다 더 비싸진 ‘경기 남부’ 경기도 전체로는 격차 더 벌어져",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000012031",
+          "source": "국민일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "서울 따라잡는 경기 집값…'키맞추기' 양상",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1331986",
+          "source": "인천일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"시흥 목감도 국평 8억원대\"…광명·수지 이어 경기 외곽도 들썩 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/09/14/2026091413321785416",
+          "source": "머니투데이",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "뉴욕 양키스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T14:42:00+09:00",
+      "lastSeen": "2026-09-15T14:42:00+09:00",
+      "news": [
+        {
+          "title": "'20타수 3안타' 저지 드디어 터졌다, 복귀 후 첫 홈런…양키스, 61번째 PS행 '확정'",
+          "url": "https://isplus.com/article/view/isp202609150073",
+          "source": "일간스포츠",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "양키스, 미네소타 꺾고 포스트시즌 확정…저지 복귀 첫 홈런",
+          "url": "https://www.etoday.co.kr/news/view/2625722?trc=right_categori_news",
+          "source": "이투데이",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "청소년야구 우승한 정윤진 감독 “늑대들 모조리 처단, 어깨에 메고 나왔다”",
+          "url": "https://www.khan.co.kr/article/202609142036005",
+          "source": "경향신문",
           "date": "2026-09-15"
         }
       ]
