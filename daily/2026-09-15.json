@@ -3129,10 +3129,10 @@
       ]
     },
     "신주아": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-15T16:15:00+09:00",
-      "lastSeen": "2026-09-15T16:44:00+09:00",
+      "lastSeen": "2026-09-15T17:15:00+09:00",
       "news": [
         {
           "title": "류화영, 결혼식 사진 공개 \"흔들림까지도 함께 품으며…단단하게 걸어갈 것\"",
@@ -3329,10 +3329,10 @@
       ]
     },
     "김한정": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-15T16:44:00+09:00",
-      "lastSeen": "2026-09-15T16:44:00+09:00",
+      "lastSeen": "2026-09-15T17:15:00+09:00",
       "news": [
         {
           "title": "“오세훈이 원한 것 아니고, 내 혼자”…‘여론조사 대납’ 새 증거",
@@ -3351,14 +3351,20 @@
           "url": "https://www.chosun.com/national/court_law/2026/09/11/ZITR2N6OSRF5JLB2WPA5RGWGIM/",
           "source": "조선일보",
           "date": "2026-09-15"
+        },
+        {
+          "title": "‘여론조사 비용 대납’ 지목 오세훈 후원가, 2심에 녹취록 제출…“내가 혼자 한 일”",
+          "url": "https://www.sedaily.com/article/20091191",
+          "source": "서울경제",
+          "date": "2026-09-15"
         }
       ]
     },
     "어부": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-15T16:44:00+09:00",
-      "lastSeen": "2026-09-15T16:44:00+09:00",
+      "lastSeen": "2026-09-15T17:15:00+09:00",
       "news": [
         {
           "title": "호르무즈 초대형 유조선 폭발…'송유관 피격' 사우디, 다시 호르무즈로",
@@ -3381,10 +3387,10 @@
       ]
     },
     "에코프로 비엠": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-15T16:44:00+09:00",
-      "lastSeen": "2026-09-15T16:44:00+09:00",
+      "lastSeen": "2026-09-15T17:15:00+09:00",
       "news": [
         {
           "title": "에코프로비엠, 헝가리 공장 SNS 의혹 정면 반박…유럽 공급망 수성 총력",
@@ -3403,14 +3409,20 @@
           "url": "https://kr.investing.com/news/stock-market-news/article-2085779",
           "source": "Investing.com 한국어",
           "date": "2026-09-15"
+        },
+        {
+          "title": "에코프로비엠, 헝가리 NCM 양극재 생산 인허가 ‘속도'…현지 공청회 개최",
+          "url": "https://www.theguru.co.kr/mobile/article.html?no=106785",
+          "source": "더구루",
+          "date": "2026-09-15"
         }
       ]
     },
     "에너지": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-15T16:44:00+09:00",
-      "lastSeen": "2026-09-15T16:44:00+09:00",
+      "lastSeen": "2026-09-15T17:15:00+09:00",
       "news": [
         {
           "title": "Russian Offensive Campaign Assessment, September 14, 2026",
@@ -3429,14 +3441,26 @@
           "url": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries",
           "source": "Al Jazeera",
           "date": "2026-09-15"
+        },
+        {
+          "title": "재생에너지 보급제도 15년 만에 전면 개편…RPS, 경쟁입찰 시장으로 전환",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372424",
+          "source": "전기신문",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "재생에너지 공급 의무화 제도 단계적 일몰…고정가격 경쟁입찰로",
+          "url": "https://v.daum.net/v/20260915134846726",
+          "source": "Daum",
+          "date": "2026-09-15"
         }
       ]
     },
     "미국의 재무부 장관": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T16:44:00+09:00",
-      "lastSeen": "2026-09-15T16:44:00+09:00",
+      "lastSeen": "2026-09-15T17:15:00+09:00",
       "news": [
         {
           "title": "[이슈&인사이트] 성장으로 빚을 갚는다는 약속, 그 청구서는 누가 받는가",
@@ -3459,10 +3483,10 @@
       ]
     },
     "나영석": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T16:44:00+09:00",
-      "lastSeen": "2026-09-15T16:44:00+09:00",
+      "lastSeen": "2026-09-15T17:15:00+09:00",
       "news": [
         {
           "title": "이서진-한지민 공개 여행 떠난다…‘그사친’ 연말 방송",
@@ -3481,8 +3505,73 @@
           "url": "https://www.yna.co.kr/view/AKR20260915068000005",
           "source": "연합뉴스",
           "date": "2026-09-15"
+        },
+        {
+          "title": "나영석 새 예능 ‘그사친’ 뜬다…이서진·한지민·김용건·박정수·주헌·정연 85년 친구들 호흡",
+          "url": "https://sports.khan.co.kr/article/202609151100003",
+          "source": "스포츠경향",
+          "date": "2026-09-15"
         }
       ]
+    },
+    "소방관": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T17:15:00+09:00",
+      "lastSeen": "2026-09-15T17:15:00+09:00",
+      "news": [
+        {
+          "title": "\"청렴도 높이자\" 워크숍서 화투판… 광주소방관 5명 대기발령",
+          "url": "https://www.chosun.com/national/national_general/2026/09/15/HOTEKO73BFEFPLTKWPV2CSUUMQ/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "청렴 워크숍서 돈 걸고 화투···전남광주 소방관 5명 징계 절차 돌입",
+          "url": "https://www.khan.co.kr/article/202609151331001",
+          "source": "경향신문",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "청렴 워크숍서 ‘도박’이라니…익명 제보로 소방관 5명 적발",
+          "url": "https://www.hani.co.kr/arti/area/honam/1277884.html",
+          "source": "한겨레",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "해상 작전 헬기": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-15T17:15:00+09:00",
+      "lastSeen": "2026-09-15T17:15:00+09:00",
+      "news": [
+        {
+          "title": "해상 작전 헬기 ‘시호크’ 20여 대 추가 도입",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8663852",
+          "source": "KBS 뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "최신예 해상작전헬기 '시호크' 20여대 추가 도입",
+          "url": "https://v.daum.net/v/20260915162111493",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "제178회 방위사업추진위원회 결과",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=447314",
+          "source": "서울Pn",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "조재윤": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T17:15:00+09:00",
+      "lastSeen": "2026-09-15T17:15:00+09:00",
+      "news": []
     }
   },
   "sections": {
