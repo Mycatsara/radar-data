@@ -2139,10 +2139,10 @@
       ]
     },
     "유학생": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-15T12:43:00+09:00",
-      "lastSeen": "2026-09-15T13:14:00+09:00",
+      "lastSeen": "2026-09-15T13:43:00+09:00",
       "news": [
         {
           "title": "또 법원에 막힌 트럼프… 유학생 비자 제한 시행 하루 전 제동",
@@ -2249,10 +2249,10 @@
       ]
     },
     "전인지": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T13:14:00+09:00",
-      "lastSeen": "2026-09-15T13:14:00+09:00",
+      "lastSeen": "2026-09-15T13:43:00+09:00",
       "news": [
         {
           "title": "'연장전 우승' 야마시타, 세계랭킹 5위로↑'김효주 턱밑까지'…윤이나·최혜진·전인지·황유민은?",
@@ -2275,10 +2275,10 @@
       ]
     },
     "옥순이": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-15T13:14:00+09:00",
-      "lastSeen": "2026-09-15T13:14:00+09:00",
+      "lastSeen": "2026-09-15T13:43:00+09:00",
       "news": [
         {
           "title": "28기 영호, ♥옥순과 재혼 후 얻은 딸과 '단란'…등굣길도 '아빠 찬스' [★해시태그]",
@@ -2297,14 +2297,20 @@
           "url": "https://www.sportschosun.com/entertainment/2026-09-09/202609090100060520003904",
           "source": "스포츠조선",
           "date": "2026-09-15"
+        },
+        {
+          "title": "28기 영호, ♥옥순과 재혼하더니 '딸바보' 다 됐네…녹색어머니 당번까지 [★해시태그]",
+          "url": "https://www.xportsnews.com/article/2193639",
+          "source": "www.xportsnews.com",
+          "date": "2026-09-15"
         }
       ]
     },
     "수도권 광역급행철도": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-15T13:14:00+09:00",
-      "lastSeen": "2026-09-15T13:14:00+09:00",
+      "lastSeen": "2026-09-15T13:43:00+09:00",
       "news": [
         {
           "title": "GTX C노선 15일 착공 \"덕정~삼성·수원~청량리 30분대로\"",
@@ -2323,14 +2329,20 @@
           "url": "https://www.yna.co.kr/view/GYH20260914000500044",
           "source": "연합뉴스",
           "date": "2026-09-15"
+        },
+        {
+          "title": "GTX-C 964일 표류 끝 ‘진짜 공사’…양주시민 “이번엔 개통 지켜야”",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332046",
+          "source": "인천일보",
+          "date": "2026-09-15"
         }
       ]
     },
     "탈옥": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-15T13:14:00+09:00",
-      "lastSeen": "2026-09-15T13:14:00+09:00",
+      "lastSeen": "2026-09-15T13:43:00+09:00",
       "news": [
         {
           "title": "[단독] ‘드론’ 타고 날아서…박왕열, 송환 한 달 전 탈옥 계획",
@@ -2348,6 +2360,18 @@
           "title": "\"이 정도는 해줘야\"...'마약왕' 박완열, 드론탈옥 연습 - 머니투데이",
           "url": "https://www.mt.co.kr/society/2026/09/15/2026091508151854362",
           "source": "머니투데이",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘마약왕’ 박왕열, 드론 타고 ‘하늘 탈옥’ 계획…준비에만 1억원",
+          "url": "https://v.daum.net/v/20260915080555252",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘날아서 탈출’ 이게 돼?…필리핀 수용소에선 \"월 600만원이면\"",
+          "url": "https://news.jtbc.co.kr/article/NB12318280",
+          "source": "JTBC",
           "date": "2026-09-15"
         }
       ]
@@ -2374,6 +2398,136 @@
           "title": "\"악마야\", \"당신 뭐라 그랬어!\"…시작부터 고성·삿대질 김승원 청문회",
           "url": "https://news.jtbc.co.kr/article/NB12318400",
           "source": "JTBC",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "김승원": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T13:43:00+09:00",
+      "lastSeen": "2026-09-15T13:43:00+09:00",
+      "news": [
+        {
+          "title": "김승원, ‘신약 로비’ 의혹에 “제 피의사실 말하면 피의사실공표죄”",
+          "url": "https://www.chosun.com/politics/assembly/2026/09/15/DV3IOQKTFBE7VBJDCODDHQIZJQ/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"어떻게 한동훈에게 흘러갔는지 밝혀야.. 제가 법무장관 되면!\" [현장영상]",
+          "url": "https://v.daum.net/v/20260915131659683",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"악마야\", \"당신 뭐라 그랬어!\"…시작부터 고성·삿대질 김승원 청문회",
+          "url": "https://news.jtbc.co.kr/article/NB12318400",
+          "source": "JTBC",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "스포츠": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T13:43:00+09:00",
+      "lastSeen": "2026-09-15T13:43:00+09:00",
+      "news": [
+        {
+          "title": "더스카우트 : 2026' 그라운드 위 쏟아낸 유소년들의 열정",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3693606",
+          "source": "국제뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "하남: 축구? 어렵지 않아요~",
+          "url": "https://www.maxportsnews.com/news/articleView.html?idxno=9262",
+          "source": "맥스포츠뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "축구 꿈나무가 기사의 주인공으로'…일간스포츠배 ‘Future Eleven 2026’ 20일 하남에서 개최",
+          "url": "https://isplus.com/article/view/isp202609150031",
+          "source": "일간스포츠",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "가출": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T13:43:00+09:00",
+      "lastSeen": "2026-09-15T13:43:00+09:00",
+      "news": [
+        {
+          "title": "아내에게도 폭력을 일삼던 남편! 알고 보니 출소한 전과자였다",
+          "url": "https://ichannela.com/program/clip/000000550420.do",
+          "source": "채널A",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“남편 알면 죽어요”…자식도 버린 아내, 가출 이유가 ‘충격’ (탐비)",
+          "url": "https://v.daum.net/v/20260914084048684",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘탐정들의 영업비밀’ 집 팔고 자식까지 버린 ‘조신한 아내’ “남편, 존재 자체가 지옥”",
+          "url": "https://sports.khan.co.kr/article/202609142237003",
+          "source": "스포츠경향",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "기뢰": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-15T13:43:00+09:00",
+      "lastSeen": "2026-09-15T13:43:00+09:00",
+      "news": [
+        {
+          "title": "이란 IRGC \"호르무즈서 초대형 유조선이 기뢰와 충돌해 폭발\"",
+          "url": "https://v.daum.net/v/20260915041949052",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"이란 호르모즈간주 앞바다서 어선 2척 피격‥어부들 실종\"",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6851891_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "미 중부사령부 \"기뢰로 유조선 폭발 주장 거짓...드론 공격\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609150758276822",
+          "source": "YTN",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "가석방": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T13:43:00+09:00",
+      "lastSeen": "2026-09-15T13:43:00+09:00",
+      "news": [
+        {
+          "title": "가석방 이틀 만에 아내·장모 찾아가 10여 차례 찌른 60대 중형",
+          "url": "https://v.daum.net/v/20260915091942726",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "가석방 이틀 만에 혼인신고 거절한 아내·장모에 흉기…60대 징역 14년",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=55283",
+          "source": "주간조선",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "가석방 이틀만에 사실혼 아내-장모 10여차례 찔렀다",
+          "url": "https://www.donga.com/news/Society/article/all/20260915/134669671/1",
+          "source": "동아일보",
           "date": "2026-09-15"
         }
       ]
