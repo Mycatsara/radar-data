@@ -3129,10 +3129,10 @@
       ]
     },
     "신주아": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-15T16:15:00+09:00",
-      "lastSeen": "2026-09-15T16:15:00+09:00",
+      "lastSeen": "2026-09-15T16:44:00+09:00",
       "news": [
         {
           "title": "류화영, 결혼식 사진 공개 \"흔들림까지도 함께 품으며…단단하게 걸어갈 것\"",
@@ -3155,10 +3155,10 @@
       ]
     },
     "해상작전헬기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T16:15:00+09:00",
-      "lastSeen": "2026-09-15T16:15:00+09:00",
+      "lastSeen": "2026-09-15T16:44:00+09:00",
       "news": [
         {
           "title": "軍, 잠수함 찾는 '시호크' 해상작전헬기 20여대 추가 도입",
@@ -3177,14 +3177,26 @@
           "url": "https://go.seoul.co.kr/news/prnewsView.php?id=447314",
           "source": "서울Pn",
           "date": "2026-09-15"
+        },
+        {
+          "title": "군, 잠수함 잡는 '시호크' 해상작전헬기 20여 대 추가 도입",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6851937_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "최신예 해상작전헬기 '시호크' 20여대 추가 도입",
+          "url": "https://v.daum.net/v/20260915162111493",
+          "source": "Daum",
+          "date": "2026-09-15"
         }
       ]
     },
     "우주 무기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T16:15:00+09:00",
-      "lastSeen": "2026-09-15T16:15:00+09:00",
+      "lastSeen": "2026-09-15T16:44:00+09:00",
       "news": [
         {
           "title": "미 \"우주 궤도에 무기 운용 중\"…첫 공식 인정",
@@ -3203,14 +3215,20 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8663614",
           "source": "KBS 뉴스",
           "date": "2026-09-15"
+        },
+        {
+          "title": "미군 ‘우주 궤도 무기 배치’ 첫 공식 인정···우주 군비 경쟁 불붙나",
+          "url": "https://www.khan.co.kr/article/202609151606011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
+          "source": "경향신문",
+          "date": "2026-09-15"
         }
       ]
     },
     "송가인": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-15T16:15:00+09:00",
-      "lastSeen": "2026-09-15T16:15:00+09:00",
+      "lastSeen": "2026-09-15T16:44:00+09:00",
       "news": [
         {
           "title": "송가인 팬카페, 진도군에 고향사랑기부금 등 2천200만원 기부",
@@ -3306,6 +3324,162 @@
           "title": "가덕도신공항 부지조성공사, 설계심의위원 21명 확정",
           "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609131042052310756",
           "source": "대한경제",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "김한정": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T16:44:00+09:00",
+      "lastSeen": "2026-09-15T16:44:00+09:00",
+      "news": [
+        {
+          "title": "“오세훈이 원한 것 아니고, 내 혼자”…‘여론조사 대납’ 새 증거",
+          "url": "https://v.daum.net/v/20260915114737204",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘오세훈 무죄’ 입증할 새 증거? “오세훈이 원한 것 아니고 나 혼자…”",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000012166&code=61121111&sid1=soc",
+          "source": "국민일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "김종인 \"명태균, 자기과��� 위해 말 만들고 뻥 치는 사람\"",
+          "url": "https://www.chosun.com/national/court_law/2026/09/11/ZITR2N6OSRF5JLB2WPA5RGWGIM/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "어부": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T16:44:00+09:00",
+      "lastSeen": "2026-09-15T16:44:00+09:00",
+      "news": [
+        {
+          "title": "호르무즈 초대형 유조선 폭발…'송유관 피격' 사우디, 다시 호르무즈로",
+          "url": "https://v.daum.net/v/20260915155453720",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"이란 호르모즈간주 앞바다서 어선 2척 피격‥어부들 실종\"",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6851891_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "미 중부사령부 \"기뢰로 유조선 폭발 주장 거짓...드론 공격\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609150758276822",
+          "source": "YTN",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "에코프로 비엠": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T16:44:00+09:00",
+      "lastSeen": "2026-09-15T16:44:00+09:00",
+      "news": [
+        {
+          "title": "에코프로비엠, 헝가리 공장 SNS 의혹 정면 반박…유럽 공급망 수성 총력",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/09/202609150556155430fbbec65dfb_1",
+          "source": "글로벌이코노믹",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[단독] 에코프로비엠 헝가리 공청회 파행…소음·오염 논란에 주민 거센 반발",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=89838",
+          "source": "https://www.the-today.com/",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "에코프로비엠, 헝가리 NCM 양극재 생산 인허가 ‘속도’…현지 공청회 개최 By The Guru",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2085779",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "에너지": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T16:44:00+09:00",
+      "lastSeen": "2026-09-15T16:44:00+09:00",
+      "news": [
+        {
+          "title": "Russian Offensive Campaign Assessment, September 14, 2026",
+          "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-14-2026/",
+          "source": "Institute for the Study of War",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Ukraine says it's open to halting attacks on Russian energy after Trump's claims of deal",
+          "url": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html",
+          "source": "CNBC",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?",
+          "url": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries",
+          "source": "Al Jazeera",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "미국의 재무부 장관": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T16:44:00+09:00",
+      "lastSeen": "2026-09-15T16:44:00+09:00",
+      "news": [
+        {
+          "title": "[이슈&인사이트] 성장으로 빚을 갚는다는 약속, 그 청구서는 누가 받는가",
+          "url": "https://m.ekn.kr/view.php?key=20260915020057747",
+          "source": "에너지경제신문",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "베선트 \"3% 성장시 위기 극복\"…현실서 가능할까?",
+          "url": "https://v.daum.net/v/20260914092352487",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[밤 사이 해외 뉴스] 미국 빚 '40조 달러'…재무장관이 제시한 '기적의 해법'",
+          "url": "https://www.hankyung.com/article/202609154522i",
+          "source": "한국경제",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "나영석": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-15T16:44:00+09:00",
+      "lastSeen": "2026-09-15T16:44:00+09:00",
+      "news": [
+        {
+          "title": "이서진-한지민 공개 여행 떠난다…‘그사친’ 연말 방송",
+          "url": "https://sports.donga.com/ent/article/all/20260915/134669658/1",
+          "source": "스포츠동아",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'그냥 사람 친구' 이서진·한지민 '20년 우정' 여행 떠난다",
+          "url": "https://v.daum.net/v/20260915162041454",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[방송소식] 나영석 사단 새 예능 '그냥 사람 친구' 4분기 첫선",
+          "url": "https://www.yna.co.kr/view/AKR20260915068000005",
+          "source": "연합뉴스",
           "date": "2026-09-15"
         }
       ]
