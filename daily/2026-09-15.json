@@ -2581,10 +2581,10 @@
       ]
     },
     "안젤리나 졸리": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-15T14:13:00+09:00",
-      "lastSeen": "2026-09-15T14:42:00+09:00",
+      "lastSeen": "2026-09-15T15:18:00+09:00",
       "news": [
         {
           "title": "안젤리나 졸리 장남, 父 브래드 피트 손절 완료..\"성 삭제 법적 승인\"[Oh!llywood]",
@@ -2609,14 +2609,20 @@
           "url": "https://www.starnewskorea.com/star/2026/09/15/2026091510050959655",
           "source": "스타뉴스",
           "date": "2026-09-15"
+        },
+        {
+          "title": "'연세대 출신' 장남마저 가슴에 못…브래드 피트, 자녀들 '연쇄 절연'에 씁쓸[해외이슈]",
+          "url": "https://v.daum.net/v/20260915101438632",
+          "source": "Daum",
+          "date": "2026-09-15"
         }
       ]
     },
     "삼성 엑시노스": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T14:13:00+09:00",
-      "lastSeen": "2026-09-15T14:42:00+09:00",
+      "lastSeen": "2026-09-15T15:18:00+09:00",
       "news": [
         {
           "title": "[단독] 삼성전자, 천안서 엑시노스 패키징 접고 HBM 설비로 전환",
@@ -2671,10 +2677,10 @@
       ]
     },
     "기영식": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-15T14:42:00+09:00",
-      "lastSeen": "2026-09-15T14:42:00+09:00",
+      "lastSeen": "2026-09-15T15:18:00+09:00",
       "news": [
         {
           "title": "\"아프지 말고 편히 쉬길\" 31기 영식, 안타까운 비보..세상 떠난 할머니에 작별 인사",
@@ -2723,24 +2729,36 @@
       ]
     },
     "윤동희": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-15T14:42:00+09:00",
-      "lastSeen": "2026-09-15T14:42:00+09:00",
+      "lastSeen": "2026-09-15T15:18:00+09:00",
       "news": [
         {
           "title": "\"박재현 대신 윤동희 선발 출전\" 파격 선택…역대급 슬럼프 윤동희, 해설위원들은 왜 골랐을까",
           "url": "https://v.daum.net/v/20260915012349532",
           "source": "Daum",
           "date": "2026-09-15"
+        },
+        {
+          "title": "'AG 5연패 도전' 야구 대표팀 소집…관건은 수비 여부",
+          "url": "https://www.yna.co.kr/view/MYH20260914020000038",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "공개훈련 앞서 기념촬영하는 2026 아이치·나고야 아시안게임 야구 대표팀",
+          "url": "https://mobile.newsis.com/photo/NISI20260915_0021438533",
+          "source": "뉴시스",
+          "date": "2026-09-15"
         }
       ]
     },
     "경기남부": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-15T14:42:00+09:00",
-      "lastSeen": "2026-09-15T14:42:00+09:00",
+      "lastSeen": "2026-09-15T15:18:00+09:00",
       "news": [
         {
           "title": "서울보다 더 비싸진 ‘경기 남부’ 경기도 전체로는 격차 더 벌어져",
@@ -2763,10 +2781,10 @@
       ]
     },
     "뉴욕 양키스": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-15T14:42:00+09:00",
-      "lastSeen": "2026-09-15T14:42:00+09:00",
+      "lastSeen": "2026-09-15T15:18:00+09:00",
       "news": [
         {
           "title": "'20타수 3안타' 저지 드디어 터졌다, 복귀 후 첫 홈런…양키스, 61번째 PS행 '확정'",
@@ -2784,6 +2802,122 @@
           "title": "청소년야구 우승한 정윤진 감독 “늑대들 모조리 처단, 어깨에 메고 나왔다”",
           "url": "https://www.khan.co.kr/article/202609142036005",
           "source": "경향신문",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘한기주 10억, 21년 만에 깨지나’ 日 결승 완봉승 하현승, “기록 깰 수 있다면 너무 좋아”",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/15/GVTDGMDGGAYDAYJXHBSWIM3CMU/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'최대어' 하현승, '10억원' 한기주 넘고 KBO 신인 최고액 찍을까",
+          "url": "https://www.newsis.com/view/NISX20260915_0003790069",
+          "source": "뉴시스",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "추석 민생지원금": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-15T15:18:00+09:00",
+      "lastSeen": "2026-09-15T15:18:00+09:00",
+      "news": [
+        {
+          "title": "소득 상관없이 1인당 10만 원 또 준다…추석 전에 지원금 푸는 지자체들",
+          "url": "https://www.sedaily.com/article/20090884",
+          "source": "서울경제",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "\"1인당 50만원까지 준다고?\"…추석 전 지원금 푸는 지자체들",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02738806645580448&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "민생지원금 지��, 김해·양산 온도차(종합)",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260915.22009004685",
+          "source": "국제신문",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "아시아나": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-15T15:18:00+09:00",
+      "lastSeen": "2026-09-15T15:18:00+09:00",
+      "news": [
+        {
+          "title": "남아있는 아시아나 마일리지, 대한항공서 10년간 더 쓴다",
+          "url": "https://www.chosun.com/economy/economy_general/2026/09/15/AJR7NG37XBAJXL6S3DGC2MLBG4/",
+          "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "대한항공·아시아나 합병되면 마일리지는? 10년 유지…탑승 1대 1·제휴 1대 0.82",
+          "url": "https://www.khan.co.kr/article/202609151200001",
+          "source": "경향신문",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "마일리지 사용 기회 확대 조건 대한항공-아시아나 마일리지 통합 승인",
+          "url": "https://www.ytn.co.kr/_ln/0102_202609151201146658",
+          "source": "YTN",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "초과 근무": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-15T15:18:00+09:00",
+      "lastSeen": "2026-09-15T15:18:00+09:00",
+      "news": [
+        {
+          "title": "공무원 '하루 4시간' 초과근무 상한 폐지‥\"일한 만큼 인정\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6851894_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "초과근무 1일 상한 폐지, 일한 만큼 보상하고 감독 강화한다",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=447370",
+          "source": "서울Pn",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“수당 없는 야근 초래”...인천 공직사회, ‘초과근무 총량관리제’ 도입 중단 촉구",
+          "url": "https://v.daum.net/v/20260913155702617",
+          "source": "Daum",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "서울지하철": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-15T15:18:00+09:00",
+      "lastSeen": "2026-09-15T15:18:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 서울 지하철 2호선 단전으로 전 열차 운행 대기",
+          "url": "https://v.daum.net/v/4qwALmjJZU",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[1보] '성난 사람들2', 美 에미상 작품상 수상 불발",
+          "url": "https://www.yna.co.kr/view/AKR20260915084400075",
+          "source": "연합뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[속보] 김민수·정승원, 모레노호 1기 깜짝 발탁…손흥민·이강인 합류",
+          "url": "https://www.news1.kr/sports/soccer/6289711",
+          "source": "뉴스1",
           "date": "2026-09-15"
         }
       ]
