@@ -4731,10 +4731,10 @@
       ]
     },
     "예금": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-16T19:14:00+09:00",
-      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:42:00+09:00",
       "news": [
         {
           "title": "예금금리 오른다는데…어느 은행에 돈 맡길까",
@@ -4757,10 +4757,10 @@
       ]
     },
     "대한민국의 법무부 장관": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-16T19:14:00+09:00",
-      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:42:00+09:00",
       "news": [
         {
           "title": "\"김승원 낙마 사유 없어\" vs\"3류 저질 신파극\"",
@@ -4779,14 +4779,26 @@
           "url": "https://mobile.newsis.com/photo/NISI20260916_0021440555",
           "source": "뉴시스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "[도청도설] 청문회의 ‘신 스틸러’",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20260917.22018005341",
+          "source": "국제신문",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "김승원 임명 반대 52.1% vs 찬성 25.1%…반대가 2배 이상 높아",
+          "url": "https://news.jtbc.co.kr/article/NB12318654",
+          "source": "JTBC",
+          "date": "2026-09-16"
         }
       ]
     },
     "대학수학능력시험": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-16T19:14:00+09:00",
-      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:42:00+09:00",
       "news": [
         {
           "title": "벌어지는 수능성적 지역 격차…대도시-읍면 국어·수학 격차 확대",
@@ -4805,14 +4817,26 @@
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008756073",
           "source": "SBS 뉴스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "수능 재학생·졸업생 상위권 격차 5년 새 최소…'재학생 상승세'",
+          "url": "https://www.news1.kr/society/education/6292172",
+          "source": "뉴스1",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[경북교육 소식] 경북 수험생 '2026학년도 수능 국어-영어 성적' 상승·추석 앞 공사대금 지급 실태 점검·'경북형 미래학교 디자인 공모전' 우수작 선정",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=853972",
+          "source": "뉴스웍스",
+          "date": "2026-09-16"
         }
       ]
     },
     "환율": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-16T19:14:00+09:00",
-      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:42:00+09:00",
       "news": [
         {
           "title": "고유가·미 국채금리 급등에…환율 1,370원대 터치(종합)",
@@ -4831,14 +4855,26 @@
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435136",
           "source": "연합인포맥스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "원-달러 환율 ‘달러 강세’ 재전환?…1368.6원, 5거래일 연속 상승",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1278119.html",
+          "source": "한겨레",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "순식간에 1,300원대 진입…2년 만에 가장 비싸진 원화의 향방",
+          "url": "https://premium.sbs.co.kr/article/ueY9nAc2X",
+          "source": "스브스프리미엄",
+          "date": "2026-09-16"
         }
       ]
     },
     "군용기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T19:14:00+09:00",
-      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:42:00+09:00",
       "news": [
         {
           "title": "\"광주기지 임시 분산으로 조종사 양성 제한‥모의훈련장비로 보완\"",
@@ -4857,14 +4893,26 @@
           "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4084089",
           "source": "경북일보",
           "date": "2026-09-16"
+        },
+        {
+          "title": "무안 시민단체 \"주민투표 전 군공항 이전 지원방안 명문화해야\"",
+          "url": "https://v.daum.net/v/20260916112150799",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[단독] 띄엄띄엄 나는 파일럿… 광주군공항 임시 분산에 비행훈련 차질",
+          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/09/16/7KZP763BMZGAVI3WN3ZY5HTKZ4/",
+          "source": "조선일보",
+          "date": "2026-09-16"
         }
       ]
     },
     "중산층": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T19:14:00+09:00",
-      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:42:00+09:00",
       "news": [
         {
           "title": "절반이 중산층이라더니…은퇴 후에도 버틸 '진짜 중산층' 25% 뿐",
@@ -4882,6 +4930,12 @@
           "title": "NH투자증권, '진짜 중산층' ��준 담은 리포트 발간",
           "url": "https://www.newspim.com/news/view/20260916000193",
           "source": "뉴스핌",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "난 중산층인 줄 알았는데…4가구 중 3가구는 ‘가짜’였다",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05038086645580776",
+          "source": "마켓인",
           "date": "2026-09-16"
         }
       ]
@@ -4960,6 +5014,104 @@
           "title": "เลขเด็ด พญาบึ้ง กบินทร์บุรี งวด 16/9/69 คอหวยเข้าป่ากลางดึก หย่อนกระดาษได้ 59 80",
           "url": "https://thethaiger.com/th/news/1609018/",
           "source": "Thaiger",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "클레빈저": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T19:42:00+09:00",
+      "lastSeen": "2026-09-16T19:42:00+09:00",
+      "news": [
+        {
+          "title": "MLB 60승 투수가 '대체 왜' 단돈 1억에 PS도 못 가는 '6주 계약' 받고 한국까지 왔나 \"내년 KBO? 열려 있다\" [인터뷰]",
+          "url": "https://v.daum.net/v/XUhFvYCEyY",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "‘ML 60승’ 클레빈저 KBO 데뷔전, 박민우 리드오프 선봉 선다…서호철 1군 말소 [오!쎈 창원]",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/16/MU4DSOJSHAZDSZTCGNQWMYJYGU/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"난 아직 건재해, 내년 PS에서 던지고 싶다\"…'PS 불가' 알고도 한국행, 기적의 5강 이끌고 NC 재계약 도전 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/16/202609160249774442O",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "디지털 자산": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T19:42:00+09:00",
+      "lastSeen": "2026-09-16T19:42:00+09:00",
+      "news": [
+        {
+          "title": "두나무, 카자흐스탄 디지털 금융 혁신 업무협약",
+          "url": "https://v.daum.net/v/20260916145002009",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "두나무, 카자흐스탄 정부기관·현지은행과 맞손…RWA·STO 사업 추진",
+          "url": "https://news.mtn.co.kr/news-detail/2026091617135991784",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "두나무, 카자흐스탄서 RWA·스테이블코인 사업 협력",
+          "url": "https://www.etnews.com/20260916000336",
+          "source": "전자신문",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "최희섭": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T19:42:00+09:00",
+      "lastSeen": "2026-09-16T19:42:00+09:00",
+      "news": [
+        {
+          "title": "메이저리거 출신 ‘빅초이’ 최희섭, 눈높이 소통으로 KIA 미래 키운다",
+          "url": "https://v.daum.net/v/V5QrkOcn1o",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "“‘빅초이’ 최희섭, 함평서 다시 뛴다…KIA 후배 33명 1·2군 도약 이끌어”",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000065055",
+          "source": "진일��",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "오이와 고": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T19:42:00+09:00",
+      "lastSeen": "2026-09-16T19:42:00+09:00",
+      "news": [
+        {
+          "title": "[아시안게임] 일본 남자축구 감독 \"최종목표는 LA 올림픽 금메달\"",
+          "url": "https://www.yna.co.kr/view/AKR20260915147900007",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'조별리그 각 1위→韓 결승까지 안 붙는다' 日 경계심 폭발…'앞서 한국에 2연속 패배→아시안게임 3연패 강적'",
+          "url": "https://www.chosun.com/sports/football/2026/09/16/GQYGKYRSGI3TKMZVGEYWIYRYGE/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'韓과 다르다' 와일드카드 포기한 日, 당찬 아시안게임 우승 선언 \"많은 기대 알고 있다... 선수단 컨디션 최상\"",
+          "url": "https://v.daum.net/v/20260915175337274",
+          "source": "Daum",
           "date": "2026-09-16"
         }
       ]
