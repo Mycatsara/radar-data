@@ -3023,10 +3023,10 @@
       ]
     },
     "골 때리는 그녀들": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-16T13:42:00+09:00",
-      "lastSeen": "2026-09-16T13:42:00+09:00",
+      "lastSeen": "2026-09-16T14:12:00+09:00",
       "news": [
         {
           "title": "핸드볼계 기싸움 발발‥배민희, 5년 후배 박하얀에 “핸드볼 아나?” 도발(골때녀)",
@@ -3049,10 +3049,10 @@
       ]
     },
     "변호사": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-16T13:42:00+09:00",
-      "lastSeen": "2026-09-16T13:42:00+09:00",
+      "lastSeen": "2026-09-16T14:12:00+09:00",
       "news": [
         {
           "title": "양나래 변호사, 남편 국정원 요원설에 \"살아있다\"..공개 안하는 이유 ('비밀보장')",
@@ -3096,6 +3096,214 @@
           "title": "'어깨부상' 박민이 있었다면...치명적 잇딴 3루 실책, 김도영 공백도 크지만 유틸리티 백업의 이탈도 아프다 - 조선비즈",
           "url": "https://biz.chosun.com/sports/baseball/2026/09/16/MNQTIOBYMUZDAYRYGRRTGNZXMQ/",
           "source": "Chosunbiz",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "암표": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T14:12:00+09:00",
+      "lastSeen": "2026-09-16T14:12:00+09:00",
+      "news": [
+        {
+          "title": "'11만 원' BTS 공연티켓 '3백만 원'에 판 암표상 검거‥\"8년간 24억 챙겨\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6852152_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "아파트·상가 2채 구입한 '무직' 30대...건물주 비결은 공연 티켓",
+          "url": "https://v.daum.net/v/20260916124827424",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "‘BTS 콘서트 300만원’…암표 ���아 24억 챙긴 암표업자",
+          "url": "https://www.chosun.com/national/national_general/2026/09/16/XXCPPRRB7BEZXBLWPRICZQSGO4/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "연방공개시장위원회": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T14:12:00+09:00",
+      "lastSeen": "2026-09-16T14:12:00+09:00",
+      "news": [
+        {
+          "title": "코스피, 6710선 회복⋯ 삼성전자·SK하이닉스 3%대 강세",
+          "url": "https://v.daum.net/v/20260916131003882",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "양대시장 美 국채금리·유가 상승에 '지지부진'…개인 나홀로 순매수 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/09/16/2026091609370568595",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "보합권에서 등락하는 코스피...눈치보기 장세 이어져",
+          "url": "https://www.ytn.co.kr/_ln/0102_202609161203550179",
+          "source": "YTN",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "주식시장": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T14:12:00+09:00",
+      "lastSeen": "2026-09-16T14:12:00+09:00",
+      "news": [
+        {
+          "title": "“韓증시 다시 살 때”…블랙록, 3개월 만에 신흥국 주식 ‘비중확대’",
+          "url": "https://v.daum.net/v/HOU2QWIktc",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "“한국 주식 다시 볼 때”…블랙록, 3개월 만에 입장 바꾼 이유",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05854806645580448&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"AI·반도체 핵심...한국 주식 살 때\" 세계최대 운용사 투자의견 상향 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/16/2026091609004890356",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "해병대": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T14:12:00+09:00",
+      "lastSeen": "2026-09-16T14:12:00+09:00",
+      "news": [
+        {
+          "title": "\"누나 왔다감\"…누가 김동준이고, 누가 한가인이야?",
+          "url": "https://v.daum.net/v/VJlWKIkLDN",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[Y초점] 형보다 나은 아우 있다…'신병4'가 보여준 시즌제 성공 법칙",
+          "url": "https://star.ytn.co.kr/_sn/0117_202609160700019185",
+          "source": "YTN star",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'신병4' 이정현, 말년의 감동 폭탄 \"전역 연기 신청\"...시청률 4.6% [종합] - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/16/2026091608107292618",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "강경준": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-16T14:12:00+09:00",
+      "lastSeen": "2026-09-16T14:12:00+09:00",
+      "news": [
+        {
+          "title": "♥강경준이 찍어줬나..장신영, 여행 중 미소가 끊이질 않네",
+          "url": "https://v.daum.net/v/0FUAxOcnl4",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "장신영, 일본 여행서 선보인 올화이트룩…환한 미소",
+          "url": "https://www.newsis.com/view/NISX20260916_0003791574",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "`강경준 불륜 용서` 장신영, 한 달 만에 나타났다…일본서 되찾은 미소",
+          "url": "https://mydaily.co.kr/page/view/2026091607442931233",
+          "source": "마이데일리",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "부산국제영화제": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T14:12:00+09:00",
+      "lastSeen": "2026-09-16T14:12:00+09:00",
+      "news": [
+        {
+          "title": "A급 영화제로 무게감 키운 BIFF…남은 숙제는 '영화'",
+          "url": "https://v.daum.net/v/20260916134500927",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "넷플릭스, 부산서 신진 창작자 교육… AI 영화 제작도 다룬다",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170230",
+          "source": "IT조선",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "부산국제영화제, '오픈시네마' 티켓 1000매 무료 배부",
+          "url": "https://www.pressian.com/pages/articles/2026091511224333832",
+          "source": "프레시안",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "계단 오르기": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-16T14:12:00+09:00",
+      "lastSeen": "2026-09-16T14:12:00+09:00",
+      "news": [
+        {
+          "title": "“계단 몇 칸에 헐떡?”..폐·심장이 보내는 소름 돋는 이상 신호",
+          "url": "https://v.daum.net/v/20260916132730359",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "계단 운동 참 좋다는데…내 무릎으로도 가능할까?[건강팩트체크]",
+          "url": "https://www.donga.com/news/It/article/all/20260914/134665491/2",
+          "source": "동아일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "많은 사람들이 마라톤을 뛰는 것은 쉽게 느끼지만 계단을 오르는 것은 고통스럽다고 느끼는 이유는 무엇일까요?",
+          "url": "https://www.vietnam.vn/ko/vi-sao-nhieu-nguoi-chay-marathon-de-dang-nhung-leo-cau-thang-lai-dau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "롯데월드": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T14:12:00+09:00",
+      "lastSeen": "2026-09-16T14:12:00+09:00",
+      "news": [
+        {
+          "title": "기묘한 세계부터 사파리·금융교육까지…가을 가족 나들이 어디로 갈까",
+          "url": "https://www.khan.co.kr/article/202609161053001",
+          "source": "경향신문",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "롯데월드 부산·롯데워터파크, 추캉스 콘텐츠 풍성",
+          "url": "https://www.newsis.com/view/NISX20260916_0003791182",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "롯데월드 ‘기묘한 세계의 초대’ [한강로 사진관]",
+          "url": "https://v.daum.net/v/ZhgeXnQ9jp",
+          "source": "Daum",
           "date": "2026-09-16"
         }
       ]
