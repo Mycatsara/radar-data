@@ -2,10 +2,10 @@
   "date": "2026-09-17",
   "keywords": {
     "중고": {
-      "count": 10,
+      "count": 11,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T04:40:00+09:00",
+      "lastSeen": "2026-09-17T05:14:00+09:00",
       "news": [
         {
           "title": "\"다 먹고 남은 찹쌀떡 포장지가 5만원?\"…중고거래서 벌어진 황당한 꼼수",
@@ -40,10 +40,10 @@
       ]
     },
     "sk텔레콤": {
-      "count": 10,
+      "count": 11,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T04:40:00+09:00",
+      "lastSeen": "2026-09-17T05:14:00+09:00",
       "news": [
         {
           "title": "부모님 병원 예약, 택시 호출 ‘척척’… SKT ‘모두의 AI’ 12월 첫선",
@@ -340,10 +340,10 @@
       ]
     },
     "이스라엘": {
-      "count": 8,
+      "count": 9,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T01:14:00+09:00",
-      "lastSeen": "2026-09-17T04:40:00+09:00",
+      "lastSeen": "2026-09-17T05:14:00+09:00",
       "news": [
         {
           "title": "폭격에 파손된 가자지구 아파트 붕괴…20명 사망·약 100명 매몰",
@@ -378,10 +378,10 @@
       ]
     },
     "아틀레티코 대 오사수나": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-17T02:41:00+09:00",
-      "lastSeen": "2026-09-17T04:40:00+09:00",
+      "lastSeen": "2026-09-17T05:14:00+09:00",
       "news": [
         {
           "title": "\"이강인 공 너무 오래 소유\" 스페인 매체 지적에 '日 동감'…\"ATM 7번 될 수 있나, 현대축구와 안 맞아\" 지적",
@@ -405,6 +405,12 @@
           "title": "'이강인 추가골 폭발!' 아틀레티코, 오사수나에 2-0 리드...이번엔 이강인의 오른발 불 뿜었다",
           "url": "https://www.chosun.com/sports/world-football/2026/09/17/GRQWEZRSMQ4TEMBXMZTGCZJQMQ/",
           "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[공식발표] 이강인이 마드리드를 집어삼켰다! 리그 2호 골→풀타임 맹활약→라리가 공식 MVP까지 '완벽한 밤' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/17/202609170358778660O",
+          "source": "머니투데이",
           "date": "2026-09-16"
         }
       ]
@@ -436,10 +442,10 @@
       ]
     },
     "엔씨": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-17T04:12:00+09:00",
-      "lastSeen": "2026-09-17T04:40:00+09:00",
+      "lastSeen": "2026-09-17T05:14:00+09:00",
       "news": [
         {
           "title": "엔씨, ‘리니지 클래식’ 신규 지역 ‘아덴’ 업데이트",
@@ -462,10 +468,10 @@
       ]
     },
     "금리": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T04:40:00+09:00",
-      "lastSeen": "2026-09-17T04:40:00+09:00",
+      "lastSeen": "2026-09-17T05:14:00+09:00",
       "news": [
         {
           "title": "美연준, 3년2개월 만에 첫 금리 인상…연내 한 차례 더 올린다(상보)",
@@ -483,6 +489,122 @@
           "title": "뉴욕증시, FOMC 대기하며 혼조 출발",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435262",
           "source": "연합인포맥스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[일문일답]케빈 워시 \"인플레이션 너무 높고 오래 지속…장기금리 상승은 강한 경제 때문\"",
+          "url": "https://www.asiae.co.kr/article/2026091705005610544",
+          "source": "아시아경제",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "월가 전문가 \"내일 FOMC, 시장 실망시킬 것…커브 스티프닝\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435138",
+          "source": "연합인포맥스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "바르셀로나 대 라싱 산탄데르": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T05:14:00+09:00",
+      "lastSeen": "2026-09-17T05:14:00+09:00",
+      "news": [
+        {
+          "title": "바르셀로나 vs 라싱 산탄데르 경기 예측: 홈팀이 연승 행진을 이어갈 수 있을까?",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-barcelona-vs-racing-santander-chu-nha-noi-dai-mach-thang-hoa",
+          "source": "Vietnam.vn",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "축구 경기 예측: 바르셀로나 vs 라싱: 신예팀을 압도하는 바르셀로나.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-bong-da-barca-vs-racing-bat-nat-tan-binh",
+          "source": "Vietnam.vn",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "바르셀로나 vs 라싱 산탄데르 경기 예측, 9월 17일 오전 2시 30분: 빠르고 결정적인 승리.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-barcelona-vs-racing-santander-02h30-ngay-17-9-danh-nhanh-diet-gon",
+          "source": "Vietnam.vn",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "냄비": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T05:14:00+09:00",
+      "lastSeen": "2026-09-17T05:14:00+09:00",
+      "news": [
+        {
+          "title": "“내 사진으로 20년 장사”…백일섭, 주방업체 상대 1억원 배상받는다",
+          "url": "https://v.daum.net/v/20260916160003260",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "배우 백일섭 사진 무단사용 주방용품 업체…법원 \"1억원 배상\"",
+          "url": "https://www.yna.co.kr/view/AKR20260916135300051",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "백일섭 20년간 이용당했다…'백일섭 냄비'의 충격 반전",
+          "url": "https://www.hankyung.com/article/202609168900g",
+          "source": "한국경제",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "돈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T05:14:00+09:00",
+      "lastSeen": "2026-09-17T05:14:00+09:00",
+      "news": [
+        {
+          "title": "경찰, 한동훈 “李, 방북 대가로 北에 돈 건너간 건 팩트” 발언에 무혐의 처분",
+          "url": "https://v.daum.net/v/WadsUfztGt",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "경찰, 한동훈 \"이재명, 방북 대가로 북에 돈 건너가\" 발언 무혐의 처분",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6852350_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "경찰, 한동훈 '李 대통령 허위사실 유포' 무혐의 처분",
+          "url": "https://www.newsis.com/view/NISX20260916_0003792767",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "atlético vs osasuna": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T05:14:00+09:00",
+      "lastSeen": "2026-09-17T05:14:00+09:00",
+      "news": [
+        {
+          "title": "Jonathan David y Koke, titulares en el Atlético; ocho cambios en el once de Osasuna",
+          "url": "https://es-us.noticias.yahoo.com/deportes/jonathan-david-koke-titulares-atl%C3%A9tico-164418365.html",
+          "source": "Yahoo",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "El Atlético toma fuerza para el derbi: 27 remates, 11 a portería, 11 ocasiones y 4 goles",
+          "url": "https://www.infobae.com/america/agencias/2026/09/16/el-atletico-toma-fuerza-para-el-derbi-27-remates-11-a-porteria-11-ocasiones-y-4-goles/",
+          "source": "Infobae",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "¡Live Blog! Atlético de Madrid vs Osasuna en LaLiga",
+          "url": "https://www.beinsports.com/es-us/football/la-liga/articles/-live-blog-atl%C3%A9tico-de-madrid-vs-osasuna-en-laliga-2026-09-16",
+          "source": "beIN SPORTS",
           "date": "2026-09-16"
         }
       ]
