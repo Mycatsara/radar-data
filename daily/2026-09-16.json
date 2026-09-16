@@ -5117,10 +5117,10 @@
       ]
     },
     "지효": {
-      "count": 2,
-      "maxTraffic": 2000,
+      "count": 3,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-16T20:13:00+09:00",
-      "lastSeen": "2026-09-16T20:42:00+09:00",
+      "lastSeen": "2026-09-16T21:17:00+09:00",
       "news": [
         {
           "title": "트와이스 지효, 워터밤 '노출 공식' 깼다…청바지 입고 \"무거웠지만 내 선택\"",
@@ -5155,10 +5155,10 @@
       ]
     },
     "로컬 푸드": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T20:13:00+09:00",
-      "lastSeen": "2026-09-16T20:42:00+09:00",
+      "lastSeen": "2026-09-16T21:17:00+09:00",
       "news": [
         {
           "title": "파주로컬푸드복합센터, 17일 임시개장...지역 로컬푸드 거점될 것",
@@ -5364,10 +5364,10 @@
       ]
     },
     "놀면 뭐하니?": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-16T20:42:00+09:00",
-      "lastSeen": "2026-09-16T20:42:00+09:00",
+      "lastSeen": "2026-09-16T21:17:00+09:00",
       "news": [
         {
           "title": "유재석 없이 또 떠난다..'놀뭐' 하하·허경환·주우재, 스핀오프 '무슨 난리고' [단독]",
@@ -5386,14 +5386,20 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/16/GNTGEYJZGYZTQY3DMUYDSNBRMQ/",
           "source": "조선일보",
           "date": "2026-09-16"
+        },
+        {
+          "title": "정준원, 장항준 \"무례해\" 발언에 입 열었다 \"문제 될 일 아냐, 연락은 NO\"[이슈S]",
+          "url": "https://v.daum.net/v/20260916201244856",
+          "source": "Daum",
+          "date": "2026-09-16"
         }
       ]
     },
     "소방": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-16T20:42:00+09:00",
-      "lastSeen": "2026-09-16T20:42:00+09:00",
+      "lastSeen": "2026-09-16T21:17:00+09:00",
       "news": [
         {
           "title": "[속보] 화성 자원순환시설 화재 대응 2단계 발령",
@@ -5412,14 +5418,26 @@
           "url": "https://www.newsis.com/view/NISX20260916_0003791923",
           "source": "뉴시스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "“전쟁난 것 같은 폭발음이”…화성 폐유처리시설 화재, 한때 대응 2단계 [현장, 그곳&]",
+          "url": "https://v.daum.net/v/20260916184500847",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "속보 경기 화성시 자원순환시설에서 불...대응 2단계 발령",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609161450334217",
+          "source": "YTN",
+          "date": "2026-09-16"
         }
       ]
     },
     "acl two": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T20:42:00+09:00",
-      "lastSeen": "2026-09-16T20:42:00+09:00",
+      "lastSeen": "2026-09-16T21:17:00+09:00",
       "news": [
         {
           "title": "Treble-collecting Mark Jackson ready to take Lion City Sailors to the next level",
@@ -5437,6 +5455,136 @@
           "title": "Lion City Sailors appoint AFC Cup, Asean Club C’ship-winning tactician Mark Jackson as coach",
           "url": "https://www.straitstimes.com/sport/football/lion-city-sailors-appoint-afc-cup-asean-club-cship-winning-tactician-mark-jackson-as-coach",
           "source": "The Straits Times",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "홈플러스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T21:17:00+09:00",
+      "lastSeen": "2026-09-16T21:17:00+09:00",
+      "news": [
+        {
+          "title": "[단독]홈플러스, 매각 재시동…국내외 기업에 티저레터 배포",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03624406645580776&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "끝나지 않은 ‘홈플러스 사태’… 텅 빈 매장에서 10년을 기다려야 하는 상인들",
+          "url": "https://www.chosun.com/national/national_general/2026/09/16/DCOO24ACKNEDVDQ6ZTUFU6BJDM/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "목표 매출 40% 그친 홈플러스, 임금 분할 지급…희망퇴직도 검토(종합)",
+          "url": "https://v.daum.net/v/20260916150757207",
+          "source": "Daum",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "고지용": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T21:17:00+09:00",
+      "lastSeen": "2026-09-16T21:17:00+09:00",
+      "news": [
+        {
+          "title": "고지용, 전처 허양임에 법적 대응…\"아이 못 보게 해\"",
+          "url": "https://www.newsis.com/view/NISX20260916_0003792317",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "2년전 생사 기로 충격..고지용 \"간경화 쇼크\" 직접 전한 건강 상태[스타이슈]",
+          "url": "https://v.daum.net/v/20260916171550507",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "고지용, 전��에 법적 대응…’면접교섭 방해금지’ 가처분 신청",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260916180123bNz",
+          "source": "연합뉴스TV",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "푸바 오": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-16T21:17:00+09:00",
+      "lastSeen": "2026-09-16T21:17:00+09:00",
+      "news": [
+        {
+          "title": "에버랜드 막내 판다 슈바오, 새벽빛처럼 밝게 자라렴!",
+          "url": "https://kids.donga.com/news/articleView.html?idxno=169850",
+          "source": "어린이동아",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'푸바오' 동생 이름 정해졌다... 뭐길래?",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1181161",
+          "source": "금강일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "아이바오 넷째 딸·푸바오 동��� 슈바오, 100일 잔치 현장 공개…“치아 자라기 시작”",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16192920",
+          "source": "톱스타뉴스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "강선우": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T21:17:00+09:00",
+      "lastSeen": "2026-09-16T21:17:00+09:00",
+      "news": [
+        {
+          "title": "[속보]검찰, ‘1억 공천헌금’ 강선우 의원에 징역4년 구형",
+          "url": "https://www.donga.com/news/Politics/article/all/20260916/134684289/2",
+          "source": "동아일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "검찰, '1억 공천헌금' 강선우 의원 징역 4년 구형…\"책임 무겁다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/16/2026091620252929545",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[속보]검찰, ‘1억 공천헌금’ 강선우·김경 징역 4년·2년 구형",
+          "url": "https://www.khan.co.kr/article/202609161950001",
+          "source": "경향신문",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "대한축구협회": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T21:17:00+09:00",
+      "lastSeen": "2026-09-16T21:17:00+09:00",
+      "news": [
+        {
+          "title": "'A매치를 선물합니다'…축구협회, 우루과이전서 팬 초청 이벤트",
+          "url": "https://www.yna.co.kr/view/AKR20260916074200007",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "특별한 사연 가진 팬에게 A매치 티켓을…축구협회, 팬 초청 이벤트 진행",
+          "url": "https://www.sedaily.com/article/20091677",
+          "source": "서울경제",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'A매치를 선물합니다'...축구협회, 우루과이전 팬 초청 이벤트",
+          "url": "https://v.daum.net/v/GdlYTZvmNY",
+          "source": "Daum",
           "date": "2026-09-16"
         }
       ]
