@@ -2167,10 +2167,10 @@
       ]
     },
     "베트남 축구 국가 대표팀": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-16T10:12:00+09:00",
-      "lastSeen": "2026-09-16T11:41:00+09:00",
+      "lastSeen": "2026-09-16T12:13:00+09:00",
       "news": [
         {
           "title": "김상식 없으니 약하네…베트남 축구, AG 첫 경기서 쿠웨이트에 졸전 끝 무승부 [나고야 AG]",
@@ -2199,10 +2199,10 @@
       ]
     },
     "브레이브스 대 컵스": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-16T10:12:00+09:00",
-      "lastSeen": "2026-09-16T11:41:00+09:00",
+      "lastSeen": "2026-09-16T12:13:00+09:00",
       "news": [
         {
           "title": "'7타수 무안타' 김하성 대타 교체→홈런 폭발…작전은 맞았지만, 타격감 또 빨간불 3G 연속 무안타에 타율 0.126 하락",
@@ -2220,6 +2220,12 @@
           "title": "\"28홈런-60도루 그 김하성 맞아? 믿기 어렵다\" 美 매체도 경악한 '2000만 달러→OPS .365' 추락…\"내년 ML 계약 장담 못해\"",
           "url": "https://www.chosun.com/sports/world-baseball/2026/09/15/HA4DAZJQMY4TONTFGJSTMNDGGA/",
           "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "이럴 수가! 김하성 감독 신뢰 잃었나, 3G 연속 무안타→벤치만 지켰다…애틀랜타 홈런-홈런-홈런 폭발! 2연패 탈출 [ATL 리뷰] - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/09/16/MYYWEYRRGZTDCM3CMIZTSNJXHE/",
+          "source": "Chosunbiz",
           "date": "2026-09-16"
         }
       ]
@@ -2277,10 +2283,10 @@
       ]
     },
     "물 부족": {
-      "count": 3,
-      "maxTraffic": 200,
+      "count": 4,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-16T10:40:00+09:00",
-      "lastSeen": "2026-09-16T11:41:00+09:00",
+      "lastSeen": "2026-09-16T12:13:00+09:00",
       "news": [
         {
           "title": "[단독] 광주 반도체에 쓰일 동복댐 물 부족…“하루 30만톤 공급 불가능”",
@@ -2299,14 +2305,20 @@
           "url": "https://www.newsis.com/view/NISX20260915_0003789938",
           "source": "뉴시스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "물 부족 호남 반도체, 답은 ‘하수 처리수’…관건은 2.5배 단가",
+          "url": "https://www.ekn.kr/web/view.php?key=20260916022455155",
+          "source": "에너지경제신문",
+          "date": "2026-09-16"
         }
       ]
     },
     "브래드 갈링 하우스": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-16T10:40:00+09:00",
-      "lastSeen": "2026-09-16T11:41:00+09:00",
+      "lastSeen": "2026-09-16T12:13:00+09:00",
       "news": [
         {
           "title": "“대통령이 대놓고 2조씩 벌어간 시장”...제도권 편입 좌초된 코인시장, 폭락",
@@ -2367,10 +2379,10 @@
       ]
     },
     "안민석": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-16T11:13:00+09:00",
-      "lastSeen": "2026-09-16T11:41:00+09:00",
+      "lastSeen": "2026-09-16T12:13:00+09:00",
       "news": [
         {
           "title": "남양주 오남고의 특별한 수업, 안민석 경기교육감이 주목한 이유",
@@ -2389,14 +2401,20 @@
           "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=792096",
           "source": "일간투데이",
           "date": "2026-09-16"
+        },
+        {
+          "title": "입시 때문에 RAS 어렵다고?…학생들이 직접 도슨트 된 '남양주 오남고'",
+          "url": "https://www.news1.kr/local/gyeonggi/6292329",
+          "source": "뉴스1",
+          "date": "2026-09-16"
         }
       ]
     },
     "스페이스x": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-16T11:13:00+09:00",
-      "lastSeen": "2026-09-16T11:41:00+09:00",
+      "lastSeen": "2026-09-16T12:13:00+09:00",
       "news": [
         {
           "title": "\"100명 태우고 화성 간다더니\"…머스크 '20조원 로켓' 승부수",
@@ -2425,10 +2443,10 @@
       ]
     },
     "공무원": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-16T11:41:00+09:00",
-      "lastSeen": "2026-09-16T11:41:00+09:00",
+      "lastSeen": "2026-09-16T12:13:00+09:00",
       "news": [
         {
           "title": "[단독] 김건희 특검 조사 후 숨진 양평 공무원…경찰, ‘강압수사 의혹’ 각하 [세상&]",
@@ -2447,14 +2465,20 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8664820",
           "source": "KBS 뉴스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "경찰, '양평공무원 진술 강요 의혹' 김건희특검 수사관 불송치",
+          "url": "https://www.yna.co.kr/view/AKR20260916075000004",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
         }
       ]
     },
     "두산베어스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-16T11:41:00+09:00",
-      "lastSeen": "2026-09-16T11:41:00+09:00",
+      "lastSeen": "2026-09-16T12:13:00+09:00",
       "news": [
         {
           "title": "NC, 5위 두산과 1승 1패…3게임 차 유지",
@@ -2472,6 +2496,58 @@
           "title": "두산과 1승 1패…가을야구 추격 지속",
           "url": "https://www.gnmaeil.com/news/articleView.html?idxno=594804",
           "source": "경남매일",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "예멘": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T12:13:00+09:00",
+      "lastSeen": "2026-09-16T12:13:00+09:00",
+      "news": [
+        {
+          "title": "200조원 무기 사면 뭐하나… 싸울 의지 없는 사우디, 후티에 쩔쩔",
+          "url": "https://www.chosun.com/international/international_general/2026/09/16/GVBZJLUAXZAJNPK3R6AQAYIZSA/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[영상] 후티, 사막전투 영상 공개하며 진격…다급한 빈살만, 이집트행",
+          "url": "https://www.yna.co.kr/view/AKR20260916087800704",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "사우디·이���트 \"홍해 공동 대응\"...후티 \"홍해에서 군사 작전 계속\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609160703442815",
+          "source": "YTN",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "cj 채용": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T12:13:00+09:00",
+      "lastSeen": "2026-09-16T12:13:00+09:00",
+      "news": [
+        {
+          "title": "CJ그룹, 하반기 신입사원 공채 시작…채용 규모 40% 확대",
+          "url": "https://v.daum.net/v/20260916103242566",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "CJ, 하반기 신입 공채 40% 확대…인재 확보·협력사 상생 ‘투트랙’",
+          "url": "https://www.viva100.com/article/20260916500517",
+          "source": "브릿지경제",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "CJ 신입 공채 문 열렸다…13개 계열사, 30일까지 지원 접수",
+          "url": "https://zdnet.co.kr/view/?no=20260916105035",
+          "source": "지디넷코리아",
           "date": "2026-09-16"
         }
       ]
