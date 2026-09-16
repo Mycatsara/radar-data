@@ -3327,10 +3327,10 @@
       ]
     },
     "이재영": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T14:41:00+09:00",
-      "lastSeen": "2026-09-16T15:17:00+09:00",
+      "lastSeen": "2026-09-16T15:47:00+09:00",
       "news": [
         {
           "title": "이재영·이다영 쌍둥이 자매 근황 공개됐다…새 소속팀이 직접 올린 훈련 사진, 이탈리아서 ‘챔스 담금질’",
@@ -3391,10 +3391,10 @@
       ]
     },
     "교섭단체": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T14:41:00+09:00",
-      "lastSeen": "2026-09-16T15:17:00+09:00",
+      "lastSeen": "2026-09-16T15:47:00+09:00",
       "news": [
         {
           "title": "혁신당, 김민석 '교섭단체 15석' 언급에 \"협의 없었다…10석이 당론\"(종합)",
@@ -3429,10 +3429,10 @@
       ]
     },
     "처벌": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T14:41:00+09:00",
-      "lastSeen": "2026-09-16T15:17:00+09:00",
+      "lastSeen": "2026-09-16T15:47:00+09:00",
       "news": [
         {
           "title": "'교사 성착취물 제작·유포' 10대 제자 최대 징역 2년…법정구속",
@@ -3519,10 +3519,10 @@
       ]
     },
     "게임": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T15:17:00+09:00",
-      "lastSeen": "2026-09-16T15:17:00+09:00",
+      "lastSeen": "2026-09-16T15:47:00+09:00",
       "news": [
         {
           "title": "中서 10조 시장 된 H5 게임… 韓 게임업계 돌파구 될까",
@@ -3541,14 +3541,26 @@
           "url": "http://www.inews24.com/view/2006287",
           "source": "아이뉴스24",
           "date": "2026-09-16"
+        },
+        {
+          "title": "빈롱에서는 7명의 선수가 제20회 아시안게임에 참가합니다.",
+          "url": "https://www.vietnam.vn/ko/vinh-long-co-7-thanh-vien-tham-gia-asiad-20",
+          "source": "Vietnam.vn",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "베트남 사이클, 응우옌티텃의 제20회 아시안게임 메달 획득 기대",
+          "url": "https://ko.laodong.vn/the-thao/xe-dap-viet-nam-ky-vong-vao-nguyen-thi-that-tranh-huy-chuong-asiad-20-1767541.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-16"
         }
       ]
     },
     "청년미래적금": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T15:17:00+09:00",
-      "lastSeen": "2026-09-16T15:17:00+09:00",
+      "lastSeen": "2026-09-16T15:47:00+09:00",
       "news": [
         {
           "title": "‘연 19% 금리효과’ 청년미래적금, 내달 7일부터 2차 모집",
@@ -3567,14 +3579,26 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8664879",
           "source": "KBS 뉴스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "금융위, '2차 청년미래적금' 내달 7일 접수…기여금 소급 인상 추진",
+          "url": "https://www.etnews.com/20260916000299",
+          "source": "전자신문",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[속보] “50만원 3년 부으면 2천255만원 목돈”…청년미래적금 2차 모집",
+          "url": "https://www.kyeonggi.com/article/20260916580219",
+          "source": "경기일보",
+          "date": "2026-09-16"
         }
       ]
     },
     "만평": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T15:17:00+09:00",
-      "lastSeen": "2026-09-16T15:17:00+09:00",
+      "lastSeen": "2026-09-16T15:47:00+09:00",
       "news": [
         {
           "title": "[국민만평-서민호 화백] 2026년 9월 16일",
@@ -3597,10 +3621,10 @@
       ]
     },
     "병무청": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T15:17:00+09:00",
-      "lastSeen": "2026-09-16T15:17:00+09:00",
+      "lastSeen": "2026-09-16T15:47:00+09:00",
       "news": [
         {
           "title": "25세 이상 병역의무자, 해외여행 전 ‘국외여행허가’ 필수",
@@ -3618,6 +3642,96 @@
           "title": "충북지방병무청, 25세 이상 병역의무자 국외여행허가 필수…1개월 이내로 단축",
           "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106974",
           "source": "BBS불교방송",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "병무청, 고아·귀화자·탈북민 병역감면 제도 개정 검토",
+          "url": "https://v.daum.net/v/20260914175712564",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "인구절벽·형평성 요구 속 수술대 오르는 '취약계층 병역감면'",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=791782",
+          "source": "일간투데이",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "포스코노동조합": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T15:47:00+09:00",
+      "lastSeen": "2026-09-16T15:47:00+09:00",
+      "news": [
+        {
+          "title": "“1명당 번 돈이 급여 절반”…4년 보릿고개 포스코, 버거운 노조 리스크 [비즈360]",
+          "url": "https://v.daum.net/v/H9JCokLxGa",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "파업 강도 높인 포스코 노조…\"제철공정 차질없고 납기준수\" - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/16/2026091613463379722",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'부분파업' ��스코노조 집행부 내홍…간부 조합원 줄사퇴 예고",
+          "url": "https://www.yna.co.kr/view/AKR20260916017000053",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "오윤아": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-16T15:47:00+09:00",
+      "lastSeen": "2026-09-16T15:47:00+09:00",
+      "news": [
+        {
+          "title": "'재혼' 오윤아 아들, 다른 사람 됐네..살 빼고 났더니 '훤칠' 비주얼",
+          "url": "https://v.daum.net/v/tNtbqfztl2",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "오윤아, 재혼하더니 얼굴 활짝 폈네..초밀착 원피스에 ‘감탄’",
+          "url": "https://www.koreadaily.com/article/20260915092007561",
+          "source": "미주중앙일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "46세 오윤아, 재혼 후 물오른 미모…H사 가방+레이싱 모델다운 비율은 거들 뿐",
+          "url": "https://news.nate.com/view/20260913n07730",
+          "source": "Nate News",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "계엄": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T15:47:00+09:00",
+      "lastSeen": "2026-09-16T15:47:00+09:00",
+      "news": [
+        {
+          "title": "'계엄 국무회의 위증' 2심도 무죄…尹측 \"재판부가 특검 망상 배척\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260916079751004",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'비상계엄 정당화 메시지' 윤석열·신원식 재판 시작…직권남용 혐의",
+          "url": "https://www.news1.kr/society/court-prosecution/6292644",
+          "source": "뉴스1",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "윤석열 '한덕수 내란 혐의 재판 위증' 항소심에서도 무죄",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6852169_36918.html",
+          "source": "MBC 뉴스",
           "date": "2026-09-16"
         }
       ]
