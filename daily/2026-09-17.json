@@ -956,10 +956,10 @@
       ]
     },
     "농심": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-17T06:41:00+09:00",
-      "lastSeen": "2026-09-17T06:41:00+09:00",
+      "lastSeen": "2026-09-17T07:12:00+09:00",
       "news": [
         {
           "title": "‘평범한 사람인줄…’ 농심 3세와 결혼한 신부, 알고보니 문유석 판사 자제",
@@ -1008,10 +1008,10 @@
       ]
     },
     "후티": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T06:41:00+09:00",
-      "lastSeen": "2026-09-17T06:41:00+09:00",
+      "lastSeen": "2026-09-17T07:12:00+09:00",
       "news": [
         {
           "title": "\"후티, 홍해 요충지 장악 후 美와 비밀회동…美 선박 안전 약속\"",
@@ -1029,6 +1029,201 @@
           "title": "[횡설수설/김준일]사우디는 왜?",
           "url": "https://www.donga.com/news/Opinion/article/all/20260916/134684657/2",
           "source": "동아일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "거세지��� 후티 공세‥\"사우디 전투기 격추\"",
+          "url": "https://v.daum.net/v/20260917061005511",
+          "source": "Daum",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "나는 solo": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-17T07:12:00+09:00",
+      "lastSeen": "2026-09-17T07:12:00+09:00",
+      "news": [
+        {
+          "title": "'나는 솔로' 28기 돌싱 현숙·영식 결별했다 \"아이들 더 정들기 전에\"",
+          "url": "https://v.daum.net/v/Xp1aIHlwt5",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "‘나솔’ 28기 현숙♥영식, 결국 결별…“아이들 정들기 전에 각자의 자리로”",
+          "url": "https://sports.khan.co.kr/article/202609160839013",
+          "source": "스포츠경향",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "28기 돌싱들, 출산·임신·결별·연애로 엇갈렸다���'♥핑크빛 기수' 1년 후 [엑's 이슈]",
+          "url": "https://www.xportsnews.com/article/2196265",
+          "source": "엑스포츠뉴스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "저축": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T07:12:00+09:00",
+      "lastSeen": "2026-09-17T07:12:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 예금자보호 1억 효과 … 저축銀 '쪼개기 예금' 뚝",
+          "url": "https://v.daum.net/v/20260916175103051",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "저축은행, 예금이자 4%대 올리자…한달새 5조원 '뭉칫돈'",
+          "url": "https://www.newsis.com/view/NISX20260916_0003791498",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "저축銀 여·수신, 4년째 뒷걸음질… 중금리 대출로 ‘숨통’ - 조선��즈",
+          "url": "https://biz.chosun.com/stock/finance/2026/09/16/3ADHQRZDGZD35CIN3XK5GONDAE/",
+          "source": "Chosunbiz",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "spcx": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T07:12:00+09:00",
+      "lastSeen": "2026-09-17T07:12:00+09:00",
+      "news": []
+    },
+    "xrp 레저": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T07:12:00+09:00",
+      "lastSeen": "2026-09-17T07:12:00+09:00",
+      "news": [
+        {
+          "title": "XRP 레저 배치 기능, 2월 보안 결함 딛고 9월29일 82.86% 지지로 가동한다",
+          "url": "https://www.wikitree.co.kr/articles/1160071",
+          "source": "위키트리",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "XRP 레저, 단일 레저 3,254건 '신기록'...35곳 중 27곳도 지지",
+          "url": "https://www.coinreaders.com/258240",
+          "source": "코인리더스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "FixCleanup3_3_0 활성화 후 원장 거래량 신기록: XRP는 $1.4337 저항선을 돌파할 수 있을까?",
+          "url": "https://tradersunion.com/ko/news/cryptocurrency-news/show/3339292-xrp-jumps-1-86percent-today-to/",
+          "source": "Traders Union",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "국채": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T07:12:00+09:00",
+      "lastSeen": "2026-09-17T07:12:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 하이닉스 손 잡더니 4% '껑충'…금리인상 덮친 시장서 인텔 웃었다",
+          "url": "https://v.daum.net/v/20260917060640424",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "연준도 못 끌어내린 美 10년물 금리…왜 다시 5% 넘었나",
+          "url": "https://www.chosun.com/economy/int_economy/2026/09/17/JSJATPLE55EXBBKFSO75HXUQPU/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "연준 금리인상·워시 매파발언에 뉴욕증시 하락…다우 1.2%↓",
+          "url": "https://www.yna.co.kr/view/AKR20260917010800072",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "이수진": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-17T07:12:00+09:00",
+      "lastSeen": "2026-09-17T07:12:00+09:00",
+      "news": [
+        {
+          "title": "'김부장' 원현준, 배우 이수진과 내달 4일 결혼…\"평생 약속\"",
+          "url": "https://www.yna.co.kr/view/AKR20260914171900005",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[전문]'김부장''이태원 클라쓰' 원현준, 10월 품절남 된다 \"가장 소중한 연인\"",
+          "url": "https://v.daum.net/v/xsCfJ2u5vn?f=p",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "‘10월 결혼’ 원현준♥이수진 생일도 같네...럽스타 ‘눈길’ - 스타투데이",
+          "url": "https://www.mk.co.kr/news/hot-issues/12153403",
+          "source": "매일경제",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "선덜랜드 대 az": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T07:12:00+09:00",
+      "lastSeen": "2026-09-17T07:12:00+09:00",
+      "news": [
+        {
+          "title": "선덜랜드 vs AZ 알크마르 경기 생중계: 선덜랜드가 경기를 주도하고 있지만 득점에는 실패했습니다. 아직 골이 터지지 않았습니다.",
+          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-sunderland-vs-az-alkmaar-sunderland-lan-luot-nhung-chua-the-mo-ty-so-chua-co-ban-thang",
+          "source": "Vietnam.vn",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"결승 오르고 싶다\" 죽어도 선덜랜드 희망편...선덜랜드 PL 승격팀 돌풍! 충격 7위→53년 만에 유럽 무대 ���귀 앞둬",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=694640",
+          "source": "인터풋볼",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "오늘 유로파 리그 경기 일정과 생중계 방송 일정을 확인하세요.",
+          "url": "https://www.vietnam.vn/ko/cap-nhat-lich-thi-dau-cup-c2-chau-au-va-lich-phat-song-truc-tiep-europa-league-moi-nhat-hom-nay",
+          "source": "Vietnam.vn",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "삼성 갤럭시": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T07:12:00+09:00",
+      "lastSeen": "2026-09-17T07:12:00+09:00",
+      "news": [
+        {
+          "title": "“아이폰만 사주세요” 애플 ‘타령’, 이제 뜸해진 줄 알았는데…한국 성장세 ‘세계 최고’",
+          "url": "https://v.daum.net/v/20260915214212162",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "갤럭시에 아이폰까지 잡았다… 삼성D '폴더블 OLED' 독주 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/17/2026091619514080374",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "예쁜 디자인보다 '큰 화면'…'플립' 지고 '폴드' 뜬다",
+          "url": "https://www.newsis.com/view/NISX20260916_0003791525",
+          "source": "뉴시스",
           "date": "2026-09-16"
         }
       ]
