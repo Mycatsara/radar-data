@@ -4275,6 +4275,266 @@
           "date": "2026-09-16"
         }
       ]
+    },
+    "코스피": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-16T18:14:00+09:00",
+      "lastSeen": "2026-09-16T18:14:00+09:00",
+      "news": [
+        {
+          "title": "빅이벤트 앞두고 살아난 코스피…5거래일 만에 반등, 6700선 회복[투자360]",
+          "url": "https://v.daum.net/v/20260916163010035",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "국채금리·유가 부담 속에도…기관 매수에 양대지수 웃었다",
+          "url": "https://www.mt.co.kr/stock/2026/09/16/2026091616025991201",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "코스닥, 상승 마감",
+          "url": "https://www.newsis.com/view/NISI20260916_0021440384",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "두산": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T18:14:00+09:00",
+      "lastSeen": "2026-09-16T18:14:00+09:00",
+      "news": [
+        {
+          "title": "\"제가 경기하는 줄..\" 김원형 두산 감독 → KIA-SSG, LG-NC전 시청 소감 [잠실 현장]",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/16/MEYTEMBXMYZTINJYG44DINLFMI/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "4위 KIA-6위 NC 다 졌다! 살엄음판 5강 싸움, 휴일도 휴일이 아니다…5위팀 감독 “2경기 채널 돌려가면서 시청, 내가 경기하는 줄” [오!쎈 잠실]",
+          "url": "https://www.osen.co.kr/article/G1112876580",
+          "source": "OSEN",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'김민석 3번+강승호 2루수' 박준순 빈자리 잘 메울 수 있나…두산, 16일 선발 라인업 공개 [MD잠실]",
+          "url": "https://www.mydaily.co.kr/page/view/2026091615551942393",
+          "source": "마이데일리",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "농구 선수": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T18:14:00+09:00",
+      "lastSeen": "2026-09-16T18:14:00+09:00",
+      "news": [
+        {
+          "title": "“바비 인형 같은 이 사람 누구?” US오픈 관람 나선 前 미국 여자농구 선수 화제",
+          "url": "https://www.munhwa.com/article/11617498",
+          "source": "문화일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"현실판 바비인형이네\" 173cm 전직 농구여신 등장에 US오픈 '발칵'... \"올 A+ 받던 심리학도\" 뇌섹녀 '반전매력' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/16/2026091520553381513",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"현실판 바비인형이네\" 173cm 전직 농구여신 등장에 US오픈 '발칵'... \"올 A+ 받던 심리학도\" 뇌섹녀 '반전매력'",
+          "url": "https://www.starnewskorea.com/sports/2026/09/16/2026091520553381513",
+          "source": "스타뉴스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "이소영": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T18:14:00+09:00",
+      "lastSeen": "2026-09-16T18:14:00+09:00",
+      "news": [
+        {
+          "title": "여야, 이소영 후보자 청문회서 충돌…“공실 업체에 정치자금”·“전문성 있는 후보”",
+          "url": "https://v.daum.net/v/zWEyI8B3l4",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "“해외 재단 후원받은 기후단체 대신해 ‘청부 입법’ 의혹”",
+          "url": "https://www.chosun.com/economy/smb-venture/2026/09/16/TIO2I2GVWJDDRDIEMG3JXSNKQU/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "중기장관 청문회...비거주 1주택·유착 의혹 등 공방",
+          "url": "https://www.ytn.co.kr/_ln/0102_202609152002339177",
+          "source": "YTN",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "조원빈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T18:14:00+09:00",
+      "lastSeen": "2026-09-16T18:14:00+09:00",
+      "news": [
+        {
+          "title": "[오피셜] ‘20홈런-30도루’ 조원빈, 푸에르토리코 명문 카과스와 계약…시즌 후 윈터리그 합류",
+          "url": "https://v.daum.net/v/20260916103910937",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "한국인 첫 20-30 찍더니 가을 첫판도 3출루…조원빈, 더블A PO서도 '펄펄'",
+          "url": "https://www.sportschosun.com/baseball/2026-09-16/202609160100113920007351",
+          "source": "스포츠조선",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "조원빈, 한국인 최초 마이너리그 ‘20홈런-30도루’에 골드글러브 후보까지…커리어하이 찍고 PO행",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1543543",
+          "source": "MHN스포츠",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "마이클 캐릭": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T18:14:00+09:00",
+      "lastSeen": "2026-09-16T18:14:00+09:00",
+      "news": [
+        {
+          "title": "'충격! 벌써 경질→후임자 등장' 13위로 부진한 맨체스터 유나이티드 사령탑 교체 시나리오, 마이클 캐릭 경질→'야인' 안토니오 콘테 모셔온다",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/16/GE2GIZRYGU4TOOLFHFTDEMLFMU/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "“사위 삼고 싶을 정도” 유독 손흥민 예뻐했던 그 감독, 맨체스터 유나이티드 차기 사령탑 ‘최우선 순위’",
+          "url": "https://v.daum.net/v/8jMEMLx2dq",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'뭐 벌써 경질하라고, 정말 미친 소리다' 잉글랜드 레전드 마이클 오언, 맨체스터 더비 '판독 오류'로 패해 궁지에 몰린 캐릭 감독 적극 옹호..\"터무니 없다, 너무 이르다\"",
+          "url": "https://www.sportschosun.com/football/2026-09-15/202609150100100390006532",
+          "source": "스포츠조선",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "구자욱": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T18:14:00+09:00",
+      "lastSeen": "2026-09-16T18:14:00+09:00",
+      "news": [
+        {
+          "title": "그가 돌아오자 이겼다…단 하나의 안타가 아니다, 존재만으로 삼성 타선 힘주는 주장 구자욱",
+          "url": "https://v.daum.net/v/20260916120510325",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "“구자욱 없으니 최형우도 힘 못 쓰더라” 존재감 이 정도였나…박진만 감독도 \"구자욱 있고 없고 차이 커\" 복귀 대환영 [오!쎈 대구] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/15/202609151551773993O",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[사진] 득점 올린 구자욱, 박진만 감독과 하이파이브",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/09/15/G5SDGNTFMYZWIYTGMY2TSYTCGI/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "샘 올트먼": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T18:14:00+09:00",
+      "lastSeen": "2026-09-16T18:14:00+09:00",
+      "news": [
+        {
+          "title": "AI에게 물었다…\"너희 리더들은 왜 갑자기 브레이크 밟나\"",
+          "url": "https://zdnet.co.kr/view/?no=20260916101104",
+          "source": "지디넷코리아",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"곧 인류 멸종?\" \"그럼 너네만 사업 접어!\" 우르르 나서더니 '대격돌'…\"돈 버는 재벌들 꿍꿍이?\" 미국 흔든 '공포' (트럼프 NOW)",
+          "url": "https://v.daum.net/v/20260916174811948",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[속보] \"하이닉스, 인텔과 미국 메모리 생산방안 논의중\"",
+          "url": "https://www.yna.co.kr/view/AKR20260916120400009",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "미국 중간선거": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T18:14:00+09:00",
+      "lastSeen": "2026-09-16T18:14:00+09:00",
+      "news": [
+        {
+          "title": "\"美민주, 상원도 다수당 기회\"…비호감·자금력·분열은 리스크",
+          "url": "https://v.daum.net/v/UnknhB3GXe?f=p",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"美 중간선거 앞 확실한 민주 우위…트럼프 경제로 신뢰 잃어\"",
+          "url": "https://www.yna.co.kr/view/AKR20260916073700009",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"물가 못 잡더니 결국\"...트럼프 지지율 38% 곤두박질, 공화당 '초비상'",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609161135154315",
+          "source": "YTN",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "심수봉": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T18:14:00+09:00",
+      "lastSeen": "2026-09-16T18:14:00+09:00",
+      "news": [
+        {
+          "title": "71세 심수봉 \"49년�� 같은 체중\" 비결은…30년 산 집도 최초 공개",
+          "url": "https://v.daum.net/v/x3ylwhDgXd",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "심수봉, 30년 살고있는 집 공개…앤틱한 분위기 눈길",
+          "url": "https://www.newsis.com/view/NISX20260916_0003791506",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "심수봉 30년 보금자리 최초 공개…명곡 탄생시킨 피아노가 그대로(편스토랑)",
+          "url": "https://sports.khan.co.kr/article/202609161030003",
+          "source": "스포츠경향",
+          "date": "2026-09-16"
+        }
+      ]
     }
   },
   "sections": {
