@@ -636,10 +636,10 @@
       ]
     },
     "แมนยู พบ ไบรตัน": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-17T05:41:00+09:00",
-      "lastSeen": "2026-09-17T05:41:00+09:00",
+      "lastSeen": "2026-09-17T06:13:00+09:00",
       "news": [
         {
           "title": "โปรแกรมการแข่งขันฟุตบอลลีกคัพอังกฤษล่าสุด: แมนเชสเตอร์ ยูไนเต็ด และ แมนเชสเตอร์ ซิตี้ จะลงสนามแข่งขัน",
@@ -662,10 +662,10 @@
       ]
     },
     "김구라": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-17T05:41:00+09:00",
-      "lastSeen": "2026-09-17T05:41:00+09:00",
+      "lastSeen": "2026-09-17T06:13:00+09:00",
       "news": [
         {
           "title": "김구라 \"문중 땅 40만평...자손 많지 않아 희망\" - 머니투데이",
@@ -688,10 +688,10 @@
       ]
     },
     "man utd vs brighton": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T05:41:00+09:00",
-      "lastSeen": "2026-09-17T05:41:00+09:00",
+      "lastSeen": "2026-09-17T06:13:00+09:00",
       "news": [
         {
           "title": "Manchester United vs Brighton & Hove Albion: League Cup stats & head-to-head",
@@ -714,10 +714,10 @@
       ]
     },
     "로스앤젤레스 fc": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T05:41:00+09:00",
-      "lastSeen": "2026-09-17T05:41:00+09:00",
+      "lastSeen": "2026-09-17T06:13:00+09:00",
       "news": [
         {
           "title": "'손흥민 득점포 침묵, 최근 9경기에서 1승' LAFC, '우승 후보에서 플레이오프 진출도 불투명' 추락",
@@ -740,10 +740,10 @@
       ]
     },
     "man utd đấu với brighton": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T05:41:00+09:00",
-      "lastSeen": "2026-09-17T05:41:00+09:00",
+      "lastSeen": "2026-09-17T06:13:00+09:00",
       "news": [
         {
           "title": "Trực tiếp bóng đá MU - Brighton: Rashford - Sesko lĩnh xướng hàng công (League Cup)",
@@ -762,14 +762,20 @@
           "url": "https://thethao.sggp.org.vn/man-united-can-ket-thuc-chuoi-khoi-dau-that-vong-bang-chien-thang-o-carabao-cup-post871857.html",
           "source": "BÁO SÀI GÒN GIẢI PHÓNG",
           "date": "2026-09-16"
+        },
+        {
+          "title": "Lịch thi đấu bóng đá hôm nay ngày 16/9 - 17/9: Nhiều đại chiến hấp dẫn",
+          "url": "https://suckhoedoisong.vn/lich-thi-dau-bong-da-hom-nay-ngay-16-9-17-9-nhieu-dai-chien-hap-dan-169260916190611471.htm",
+          "source": "Báo Sức khỏe & Đời sống",
+          "date": "2026-09-16"
         }
       ]
     },
     "카라바오컵": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T05:41:00+09:00",
-      "lastSeen": "2026-09-17T05:41:00+09:00",
+      "lastSeen": "2026-09-17T06:13:00+09:00",
       "news": [
         {
           "title": "“손흥민 ‘리더의 부재’ 너무 커” 英 BBC 이상 최고 공신력 언론의 조명 “그는 좋은 방향으로 토트넘을 이끌 수 있다”",
@@ -787,6 +793,110 @@
           "title": "'리그 0승 0골→리버풀에 1-3 패배' 데 제르비 토트넘 감독, \"우리는 운이 없었다\"",
           "url": "https://www.koreadaily.com/article/20260915234902011",
           "source": "미주중앙일보",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "barcelona vs racing santander": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T06:13:00+09:00",
+      "lastSeen": "2026-09-17T06:13:00+09:00",
+      "news": [
+        {
+          "title": "Joao Cancelo metió dos golazos para Barcelona ante Racing de Santander",
+          "url": "https://es-us.noticias.yahoo.com/deportes/joao-cancelo-meti%C3%B3-golazos-barcelona-202000089.html",
+          "source": "Yahoo",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Sergi Capdevila: las sorpresas del once del FC Barcelona",
+          "url": "https://www.sport.es/es/videos/barca/20260916/sergi-capdevila-sorpresas-once-fc/134367718.shtml",
+          "source": "SPORT",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Cuatro cambios en el Barcelona; el Racing apuesta por Arana y Villalibre en ataque",
+          "url": "https://www.infobae.com/america/agencias/2026/09/16/cuatro-cambios-en-el-barcelona-el-racing-apuesta-por-arana-y-villalibre-en-ataque/",
+          "source": "Infobae",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "김지민": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T06:13:00+09:00",
+      "lastSeen": "2026-09-17T06:13:00+09:00",
+      "news": [
+        {
+          "title": "'김준호 아내 41세 예비맘' 김지민, 임신 19주 차에 뽐낸 D라인 \"5㎏ 쪄\" [N샷]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6290283",
+          "source": "뉴스1",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "‘임신’ 김지민, 술 끊자 “컨디션 5만배”…금주 후 달라진 몸 체감했다는데[그들의 건강美학]",
+          "url": "https://v.daum.net/v/zWSzccnQXp",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "김지민, 임신 후 변화… \"금주로 얼굴 붓기 빠지고 눈도 맑아져\"",
+          "url": "https://www.hankookilbo.com/news/article/A2026091611370001263",
+          "source": "한국일보",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "hd현대": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T06:13:00+09:00",
+      "lastSeen": "2026-09-17T06:13:00+09:00",
+      "news": [
+        {
+          "title": "KR, HD현대중공업 ‘50K LPG 운반선’ 개념승인 수여",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372533",
+          "source": "전기신문",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "건조 중인 배, 띄워도 안전할까…KR·HD현대삼호 평가 자동화 개발",
+          "url": "https://v.daum.net/v/bhZd5kLxWe?f=p",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "한국선급, 태국 '가스텍 2026' 참가해 잇단 기술 협약",
+          "url": "https://www.newsis.com/view/NISX20260916_0003791871",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "정준원": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T06:13:00+09:00",
+      "lastSeen": "2026-09-17T06:13:00+09:00",
+      "news": [
+        {
+          "title": "\"인사성 없고 무례해\" 장항준 발언에 심정 고백…정준원 \"연락 NO, 문제 안 돼\" ('유부녀')[인터뷰]",
+          "url": "https://v.daum.net/v/20260916070109708?f=m",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[SC인터뷰]\"굳이 숨을 필요 ���어\"…정준원, '놀뭐' 태도 논란 딛고 '유부녀 킬러'로 증명(종합)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/16/GNTGEYJZGYZTQY3DMUYDSNBRMQ/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[TF인터뷰] '유부녀 킬러' 정준원, 두 번의 파도 넘어 더 단단하게",
+          "url": "https://news.tf.co.kr/read/entertain/2366854.htm",
+          "source": "더팩트",
           "date": "2026-09-16"
         }
       ]
