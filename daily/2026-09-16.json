@@ -3519,10 +3519,10 @@
       ]
     },
     "게임": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T15:17:00+09:00",
-      "lastSeen": "2026-09-16T15:47:00+09:00",
+      "lastSeen": "2026-09-16T16:14:00+09:00",
       "news": [
         {
           "title": "中서 10조 시장 된 H5 게임… 韓 게임업계 돌파구 될까",
@@ -3621,10 +3621,10 @@
       ]
     },
     "병무청": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T15:17:00+09:00",
-      "lastSeen": "2026-09-16T15:47:00+09:00",
+      "lastSeen": "2026-09-16T16:14:00+09:00",
       "news": [
         {
           "title": "25세 이상 병역의무자, 해외여행 전 ‘국외여행허가’ 필수",
@@ -3659,10 +3659,10 @@
       ]
     },
     "포스코노동조합": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T15:47:00+09:00",
-      "lastSeen": "2026-09-16T15:47:00+09:00",
+      "lastSeen": "2026-09-16T16:14:00+09:00",
       "news": [
         {
           "title": "“1명당 번 돈이 급여 절반”…4년 보릿고개 포스코, 버거운 노조 리스크 [비즈360]",
@@ -3681,14 +3681,26 @@
           "url": "https://www.yna.co.kr/view/AKR20260916017000053",
           "source": "연합뉴스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "김성호 포스코노조 위원장 \"비판, 피하지 않겠다\"",
+          "url": "https://www.newsis.com/view/NISX20260916_0003792278",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "포스코 노조, 2차 부분 파업...\"입장 차 여전히 커\"",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202609161442371429_005.html",
+          "source": "YTN",
+          "date": "2026-09-16"
         }
       ]
     },
     "오윤아": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-16T15:47:00+09:00",
-      "lastSeen": "2026-09-16T15:47:00+09:00",
+      "lastSeen": "2026-09-16T16:14:00+09:00",
       "news": [
         {
           "title": "'재혼' 오윤아 아들, 다른 사람 됐네..살 빼고 났더니 '훤칠' 비주얼",
@@ -3707,14 +3719,20 @@
           "url": "https://news.nate.com/view/20260913n07730",
           "source": "Nate News",
           "date": "2026-09-16"
+        },
+        {
+          "title": "'재혼' 오윤아, 국보급 황금골반 미녀의 등장…\"드디어 만나\" - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/16/MM3TANBWMZRTGZLCGY4WIMBZMI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-16"
         }
       ]
     },
     "계엄": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-16T15:47:00+09:00",
-      "lastSeen": "2026-09-16T15:47:00+09:00",
+      "lastSeen": "2026-09-16T16:14:00+09:00",
       "news": [
         {
           "title": "'계엄 국무회의 위증' 2심도 무죄…尹측 \"재판부가 특검 망상 배척\"(종합)",
@@ -3732,6 +3750,142 @@
           "title": "윤석열 '한덕수 내란 혐의 재판 위증' 항소심에서도 무죄",
           "url": "https://imnews.imbc.com/news/2026/society/article/6852169_36918.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "尹 ‘계엄 국무회의 위증’ 항소심도 무죄",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000012653&code=61121311&sid1=soc&stg=ws_real",
+          "source": "국민일보",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "박지윤": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-16T16:14:00+09:00",
+      "lastSeen": "2026-09-16T16:14:00+09:00",
+      "news": [
+        {
+          "title": "\"지인과 불륜\" 최동석만 항소, 박지윤은 포기했다...11월 결론 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/16/2026091609033974951",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "최동석·박지윤 ‘상간 맞소송’ 1심 모두 기각…최동석 항소, 11월 결론 - 스타투데이",
+          "url": "https://www.mk.co.kr/news/hot-issues/12152863",
+          "source": "매일경제",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'박지윤과 이혼' 최동석 불륜 의혹 소송, 11月 결론 나온다[SC이슈]",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/09/15/GYYWMMLDGJSDQMJSGM4GMNJWGA/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "최두호": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T16:14:00+09:00",
+      "lastSeen": "2026-09-16T16:14:00+09:00",
+      "news": [
+        {
+          "title": "UFC 랭커 진입 앞둔 최두호 \"상대 파훼법 알아, 내 타격 못버틸 것\"",
+          "url": "https://www.chosun.com/sports/sports_general/2026/09/16/BYICTIB77RAYXDLPKOTBBSJ6JQ/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"펀치도 기술도 내가 위, 핏불은 판정까지 못 버틴다\"...랭킹 진입 노리는 최두호, \"변명 못할 정도로 좋은 컨디션\" [오!쎈 인터뷰]",
+          "url": "https://v.daum.net/v/20260916114551204",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"무조건 이길 것 같다, 편하게 응원해달라\"...KO 고집 버리고 판정승까지 계산한 유주상, 첫 패배 딛고 UFC 2승 자신 [오!쎈 인터뷰] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/16/202609161032776079O",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "청년": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-16T16:14:00+09:00",
+      "lastSeen": "2026-09-16T16:14:00+09:00",
+      "news": [
+        {
+          "title": "연 최고 19.4% 이자 주는 청년미래적금 또 열렸다…10월 2차 모집",
+          "url": "https://www.khan.co.kr/article/202609161430001",
+          "source": "경향신문",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "월 50만원씩 3년 납입 시 최대 2255만원 '청년미래적금' 10월 7일 '스타트'",
+          "url": "https://v.daum.net/v/20260916155133824",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "금융위, '2차 청년미래적금' 내달 7일 접수…기여금 소급 인상 추진",
+          "url": "https://www.etnews.com/20260916000299",
+          "source": "전자신문",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "재산세": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T16:14:00+09:00",
+      "lastSeen": "2026-09-16T16:14:00+09:00",
+      "news": [
+        {
+          "title": "[울산소식] 울주군, 9월 정기분 재산세 675억여원 부과",
+          "url": "https://www.yna.co.kr/view/AKR20260916065500057",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "울산시, 9월 정기분 재산세 2112억원 부과",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065586172677221",
+          "source": "울산종합일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[열린마당] 9월 재산세 고지서 속 ‘숨은 뜻’과 납부법",
+          "url": "https://m.ihalla.com/article.php?aid=1789495200790571099",
+          "source": "한라일보",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "혈압": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-16T16:14:00+09:00",
+      "lastSeen": "2026-09-16T16:14:00+09:00",
+      "news": [
+        {
+          "title": "제주시, 심뇌혈관질환 예방관리 강화",
+          "url": "http://www.jemin.com/news/articleView.html?idxno=842999",
+          "source": "제민일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "제주시 고당센터 노인 대상 식생활 조사",
+          "url": "https://app.ihalla.com/article.php?aid=1789480800790564042",
+          "source": "한라일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "충남 논산시, ‘자기혈관 숫자알기·레드서클 캠페인’ 추진",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1099659",
+          "source": "충청매일",
           "date": "2026-09-16"
         }
       ]
