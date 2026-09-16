@@ -1723,10 +1723,10 @@
       ]
     },
     "학대": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-16T08:39:00+09:00",
-      "lastSeen": "2026-09-16T09:17:00+09:00",
+      "lastSeen": "2026-09-16T09:45:00+09:00",
       "news": [
         {
           "title": "학대 신고에도…천안 사망아동 몫 사회보장급여 점검 '전무'",
@@ -1745,14 +1745,26 @@
           "url": "https://www.nocutnews.co.kr/news/6577981",
           "source": "노컷뉴스",
           "date": "2026-09-15"
+        },
+        {
+          "title": "3세 원아 114차례 학대한 보육교사 2명 실형·법정구속",
+          "url": "https://www.khan.co.kr/article/202609151542011",
+          "source": "경향신문",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "세 살배기 아동 12명 상습 폭행한 어린이집 교사 2명 법정구속",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008754997&plink=ORI&cooper=RSS",
+          "source": "news.sbs.co.kr",
+          "date": "2026-09-15"
         }
       ]
     },
     "구금": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T08:39:00+09:00",
-      "lastSeen": "2026-09-16T09:17:00+09:00",
+      "lastSeen": "2026-09-16T09:45:00+09:00",
       "news": [
         {
           "title": "'조지아 구금' 한국인 300여 명 손배 청구 시작",
@@ -1777,14 +1789,20 @@
           "url": "https://www.hani.co.kr/arti/international/america/1278013.html",
           "source": "한겨레",
           "date": "2026-09-15"
+        },
+        {
+          "title": "'조지아 구금' 1년 만에 트럼프 행정부에 손배청구 시작",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609160842299950",
+          "source": "YTN",
+          "date": "2026-09-15"
         }
       ]
     },
     "klasemen elche vs real madrid": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T08:39:00+09:00",
-      "lastSeen": "2026-09-16T09:17:00+09:00",
+      "lastSeen": "2026-09-16T09:45:00+09:00",
       "news": []
     },
     "thứ hạng của elche gặp real madrid": {
@@ -1814,10 +1832,10 @@
       ]
     },
     "육군사관학교": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T08:39:00+09:00",
-      "lastSeen": "2026-09-16T09:17:00+09:00",
+      "lastSeen": "2026-09-16T09:45:00+09:00",
       "news": [
         {
           "title": "오늘 국방부 강신철, 국토부 홍지선 장관 후보자 인사청문회 개최",
@@ -1835,6 +1853,18 @@
           "title": "\"육사출신 장관 아닌 한국 국방장관… 사관학교 통합 필요\"",
           "url": "https://www.chosun.com/politics/diplomacy-defense/2026/09/15/AHXTQ6VNIBHRJFOYQXEY3P7R4I/",
           "source": "조선일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "오늘 국방부 강신철, 국토부 홍지선 장관 후보자 인사청문회 개최",
+          "url": "https://v.daum.net/v/20260916010214732",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "내일 강신철 국방장관 후보자 인사청문회…파병·사관학교·전작권 등 쟁점",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8664096",
+          "source": "KBS 뉴스",
           "date": "2026-09-15"
         }
       ]
@@ -1957,10 +1987,10 @@
       ]
     },
     "베트남 축구 국가대표팀": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T09:17:00+09:00",
-      "lastSeen": "2026-09-16T09:17:00+09:00",
+      "lastSeen": "2026-09-16T09:45:00+09:00",
       "news": [
         {
           "title": "김상식 없으니 약하네…베트남 축구, AG 첫 경기서 쿠웨이트에 졸전 끝 무승부 [나고야 AG]",
@@ -1979,14 +2009,20 @@
           "url": "https://www.vietnam.vn/ko/doi-mua-co-vu-kieu-bao-nhat-ban-tin-u-23-viet-nam-vao-tu-ket-asiad-2026",
           "source": "Vietnam.vn",
           "date": "2026-09-15"
+        },
+        {
+          "title": "쿠웨이트 U23 대표팀 감독, 베트남 U23 대표팀과의 무승부에 대해 \"국가적 기쁨\"이라며 \"진정으로 자랑스럽고 행복하다\"고 소감을 밝혔다.",
+          "url": "https://www.vietnam.vn/ko/hlv-u-23-kuwait-goi-cam-hoa-u-23-viet-nam-la-niem-vui-quoc-gia-that-tu-hao-va-hanh-phuc",
+          "source": "Vietnam.vn",
+          "date": "2026-09-15"
         }
       ]
     },
     "중앙일보": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T09:17:00+09:00",
-      "lastSeen": "2026-09-16T09:17:00+09:00",
+      "lastSeen": "2026-09-16T09:45:00+09:00",
       "news": [
         {
           "title": "尹 전용기 전화 받았다…“바보 같은 자식!” 장제원의 그 선택",
@@ -2009,10 +2045,10 @@
       ]
     },
     "부모": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-16T09:17:00+09:00",
-      "lastSeen": "2026-09-16T09:17:00+09:00",
+      "lastSeen": "2026-09-16T09:45:00+09:00",
       "news": [
         {
           "title": "“부모도 자식도, 이젠 웬수 같아요”…‘샌드위치’ 돌봄 중장년, 내 삶이 없다",
@@ -2030,6 +2066,90 @@
           "title": "서울 중장년 88%가 '돌봄 중'…48%는 부모·자녀 양쪽 '이중돌봄'",
           "url": "https://www.yna.co.kr/view/AKR20260915079900004",
           "source": "연합뉴스",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“어디서 누구와 사는가” 서울 중장년 삶의 질 결정",
+          "url": "https://bravo.etoday.co.kr/view/atc_view/20059",
+          "source": "이투데이",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "장신영": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T09:45:00+09:00",
+      "lastSeen": "2026-09-16T09:45:00+09:00",
+      "news": [
+        {
+          "title": "♥강경준이 찍어줬나..장신영, 여행 중 미소가 끊이질 않네",
+          "url": "https://v.daum.net/v/20260916002512377",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "`강경준 불륜 용서` 장신영, 한 달 만에 나타났다…일본서 되찾은 미소",
+          "url": "https://mydaily.co.kr/page/view/2026091607442931233",
+          "source": "마이데일리",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "SNS 멈췄던 장신영, 일본서 포착됐다…♥강경준이 찍어줬나 [★해시태그]",
+          "url": "https://www.xportsnews.com/article/2195522",
+          "source": "www.xportsnews.com",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T09:45:00+09:00",
+      "lastSeen": "2026-09-16T09:45:00+09:00",
+      "news": [
+        {
+          "title": "공포·탐욕지수 51…하루 만에 18포인트(26.1%) 하락",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/408657",
+          "source": "토큰포스트",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "비트코인 선물시장 ‘극단적 비관’ 걷혔다…펀딩비 30일 합계 20%대 회복",
+          "url": "https://www.blockmedia.co.kr/archives/1139459",
+          "source": "블록미디어",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "가상자산 공포·��욕 지수, 57점 기록…탐욕 단계 유지",
+          "url": "https://bloomingbit.io/feed/news/120279",
+          "source": "블루밍비트",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "나솔": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-16T09:45:00+09:00",
+      "lastSeen": "2026-09-16T09:45:00+09:00",
+      "news": [
+        {
+          "title": "‘나솔’ 28기 현숙♥영식, 결국 결별…“아이들 정들기 전에 각자의 자리로”",
+          "url": "https://sports.khan.co.kr/article/202609160839013",
+          "source": "스포츠경향",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "‘돌싱’ 28기 현숙, 영식과 결별 인정 “아이들 더 정들기 전에”",
+          "url": "https://www.sportsseoul.com/news/read/1635511",
+          "source": "스포츠서울",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'나는 솔로' 28기 현숙ㆍ영식 결별설 진짜였다⋯\"아이들 정들기 전에\"",
+          "url": "https://www.etoday.co.kr/news/view/2626081?trc=main_list_news",
+          "source": "이투데이",
           "date": "2026-09-15"
         }
       ]
