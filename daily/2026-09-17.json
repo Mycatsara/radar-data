@@ -506,10 +506,10 @@
       ]
     },
     "바르셀로나 대 라싱 산탄데르": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T05:14:00+09:00",
-      "lastSeen": "2026-09-17T05:14:00+09:00",
+      "lastSeen": "2026-09-17T05:41:00+09:00",
       "news": [
         {
           "title": "바르셀로나 vs 라싱 산탄데르 경기 예측: 홈팀이 연승 행진을 이어갈 수 있을까?",
@@ -532,10 +532,10 @@
       ]
     },
     "냄비": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T05:14:00+09:00",
-      "lastSeen": "2026-09-17T05:14:00+09:00",
+      "lastSeen": "2026-09-17T05:41:00+09:00",
       "news": [
         {
           "title": "“내 사진으로 20년 장사”…백일섭, 주방업체 상대 1억원 배상받는다",
@@ -558,10 +558,10 @@
       ]
     },
     "돈": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T05:14:00+09:00",
-      "lastSeen": "2026-09-17T05:14:00+09:00",
+      "lastSeen": "2026-09-17T05:41:00+09:00",
       "news": [
         {
           "title": "경찰, 한동훈 “李, 방북 대가로 北에 돈 건너간 건 팩트” 발언에 무혐의 처분",
@@ -605,6 +605,188 @@
           "title": "¡Live Blog! Atlético de Madrid vs Osasuna en LaLiga",
           "url": "https://www.beinsports.com/es-us/football/la-liga/articles/-live-blog-atl%C3%A9tico-de-madrid-vs-osasuna-en-laliga-2026-09-16",
           "source": "beIN SPORTS",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "이강인": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-17T05:41:00+09:00",
+      "lastSeen": "2026-09-17T05:41:00+09:00",
+      "news": [
+        {
+          "title": "\"이강인 공 너무 오래 소유\" 스페인 매체 지적에 '日 동감'…\"ATM 7번 될 수 있나, 현대축구와 안 맞아\" 지적",
+          "url": "https://v.daum.net/v/20260916205951040",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[공식발표] 이강인이 마드리드를 집어삼켰다! 리그 2호 골→풀타임 맹활약→라리가 공식 MVP까지 '완벽한 밤' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/17/202609170358778660O",
+          "source": "머니���데이",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "이강인, 모레노호 합류 전 골 폭죽 쏠까…내일 오사수나 상대",
+          "url": "https://www.newsis.com/view/NISX20260915_0003790741",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "แมนยู พบ ไบรตัน": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T05:41:00+09:00",
+      "lastSeen": "2026-09-17T05:41:00+09:00",
+      "news": [
+        {
+          "title": "โปรแกรมการแข่งขันฟุตบอลลีกคัพอังกฤษล่าสุด: แมนเชสเตอร์ ยูไนเต็ด และ แมนเชสเตอร์ ซิตี้ จะลงสนามแข่งขัน",
+          "url": "https://www.vietnam.vn/th/lich-thi-dau-cup-lien-doan-anh-moi-nhat-mu-man-city-lan-luot-ra-quan",
+          "source": "Vietnam.vn",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "LIVE ดูบอลสด แมนยู พบ ไบรท์ตัน คืนวันนี้ (17 ก.ย.) 02.00 น. คาราบาว คัพ 2026-27",
+          "url": "https://www.thairath.co.th/sport/eurofootball/carabao-cup/2959486",
+          "source": "Thairath.co.th",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "ถ่ายทอดสด คาราบาว คัพ \"แมนซิตี้ พบ นอริช\" ดูบอลสดช่อง MONOMAX เวลา 01.30 น.",
+          "url": "https://www.thansettakij.com/sport/669099",
+          "source": "Thansettakij",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "김구라": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-17T05:41:00+09:00",
+      "lastSeen": "2026-09-17T05:41:00+09:00",
+      "news": [
+        {
+          "title": "김구라 \"문중 땅 40만평...자손 많지 않아 희망\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/16/2026091606495971492",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "“아내가 안 돌아와”…김구라, 재혼 7년 차에 ‘두 집 살림’",
+          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/09/16/20260916500004",
+          "source": "TWIG",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"10년 새 10억 떨어진 30억 지방 상가\"…상속 앞둔 가족 갈등에 김구라 던진 일침",
+          "url": "https://www.newsis.com/view/NISX20260914_0003788366",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "man utd vs brighton": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T05:41:00+09:00",
+      "lastSeen": "2026-09-17T05:41:00+09:00",
+      "news": [
+        {
+          "title": "Manchester United vs Brighton & Hove Albion: League Cup stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cqn8mvgl91zgt",
+          "source": "BBC",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Man Utd vs Brighton Predictions, Bet Builder Tips, Lineups, Odds",
+          "url": "https://www.whoscored.com/articles/DJJkT1C0f0i4R-KrlD-hfA/show/20260916-man-utd-vs-brighton-prediction-1789564571",
+          "source": "WhoScored.com",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Fabian Hurzeler says he knows what to expect from Michael Carrick's Man Utd",
+          "url": "https://metro.co.uk/2026/09/15/fabian-hurzeler-says-knows-expect-michael-carricks-man-utd-29614121/",
+          "source": "Metro.co.uk",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "로스앤젤레스 fc": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T05:41:00+09:00",
+      "lastSeen": "2026-09-17T05:41:00+09:00",
+      "news": [
+        {
+          "title": "'손흥민 득점포 침묵, 최근 9경기에서 1승' LAFC, '우승 후보에서 플레이오프 진출도 불투명' 추락",
+          "url": "https://v.daum.net/v/20260916023149195?f=p",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "손흥민의 LAFC, MLS 파워랭킹 11위 추락…“이제 걱정할 때”",
+          "url": "https://www.etoday.co.kr/news/view/2626368",
+          "source": "이투데이",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"손흥민 완전히 끝났다, 다음 시즌 끝나면 은퇴할 것\" 美 현지서 충격 혹평…메시 이어 MLS 도움 2위인데도 \"기회 놓친 건 SON 탓\"",
+          "url": "https://sports.news.nate.com/view/20260913n11641",
+          "source": "네이트",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "man utd đấu với brighton": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T05:41:00+09:00",
+      "lastSeen": "2026-09-17T05:41:00+09:00",
+      "news": [
+        {
+          "title": "Trực tiếp bóng đá MU - Brighton: Rashford - Sesko lĩnh xướng hàng công (League Cup)",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-brighton-ap-luc-bua-vay-carrick-league-cup-c48a1795286.html",
+          "source": "Tin tức 24h",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Nhận định MU vs Brighton: Quỷ đỏ tìm lại niềm vui, 2h00 ngày 17/09/2026",
+          "url": "https://thethao247.vn/441-nhan-dinh-mu-vs-brighton-quy-do-tim-lai-niem-vui-c288-d436151.html",
+          "source": "Thể Thao 247",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Man United cần kết thúc chuỗi khởi đầu thất vọng bằng chiến thắng ở Carabao Cup",
+          "url": "https://thethao.sggp.org.vn/man-united-can-ket-thuc-chuoi-khoi-dau-that-vong-bang-chien-thang-o-carabao-cup-post871857.html",
+          "source": "BÁO SÀI GÒN GIẢI PHÓNG",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "카라바오컵": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T05:41:00+09:00",
+      "lastSeen": "2026-09-17T05:41:00+09:00",
+      "news": [
+        {
+          "title": "“손흥민 ‘리더의 부재’ 너무 커” 英 BBC 이상 최고 공신력 언론의 조명 “그는 좋은 방향으로 토트넘을 이끌 수 있다”",
+          "url": "https://v.daum.net/v/qgwf5lwazi",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'리그 4경기 0승-0골' 최악의 토트넘, 컵대회에서도 탈락...17개 슈팅 날리고 리버풀에 1-3 졸전패 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/16/202609160708773987O",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'리그 0승 0골→리버풀에 1-3 패배' 데 제르비 토트넘 감독, \"우리는 운이 없었다\"",
+          "url": "https://www.koreadaily.com/article/20260915234902011",
+          "source": "미주중앙일보",
           "date": "2026-09-16"
         }
       ]
