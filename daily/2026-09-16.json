@@ -3101,10 +3101,10 @@
       ]
     },
     "암표": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T14:12:00+09:00",
-      "lastSeen": "2026-09-16T14:12:00+09:00",
+      "lastSeen": "2026-09-16T14:41:00+09:00",
       "news": [
         {
           "title": "'11만 원' BTS 공연티켓 '3백만 원'에 판 암표상 검거‥\"8년간 24억 챙겨\"",
@@ -3127,10 +3127,10 @@
       ]
     },
     "연방공개시장위원회": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-16T14:12:00+09:00",
-      "lastSeen": "2026-09-16T14:12:00+09:00",
+      "lastSeen": "2026-09-16T14:41:00+09:00",
       "news": [
         {
           "title": "코스피, 6710선 회복⋯ 삼성전자·SK하이닉스 3%대 강세",
@@ -3149,14 +3149,20 @@
           "url": "https://www.ytn.co.kr/_ln/0102_202609161203550179",
           "source": "YTN",
           "date": "2026-09-16"
+        },
+        {
+          "title": "[食전食후] 코스피, 기관 순매수에 1% 가까이 상승…장중 6700선 터치",
+          "url": "https://v.daum.net/v/20260916134729028",
+          "source": "Daum",
+          "date": "2026-09-16"
         }
       ]
     },
     "주식시장": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-16T14:12:00+09:00",
-      "lastSeen": "2026-09-16T14:12:00+09:00",
+      "lastSeen": "2026-09-16T14:41:00+09:00",
       "news": [
         {
           "title": "“韓증시 다시 살 때”…블랙록, 3개월 만에 신흥국 주식 ‘비중확대’",
@@ -3175,14 +3181,20 @@
           "url": "https://www.mt.co.kr/world/2026/09/16/2026091609004890356",
           "source": "머니투데이",
           "date": "2026-09-16"
+        },
+        {
+          "title": "[포토] 생산적 금융에 272조원 공급",
+          "url": "https://stock.mk.co.kr/news/view/1159692",
+          "source": "매일경제 마켓",
+          "date": "2026-09-16"
         }
       ]
     },
     "해병대": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T14:12:00+09:00",
-      "lastSeen": "2026-09-16T14:12:00+09:00",
+      "lastSeen": "2026-09-16T14:41:00+09:00",
       "news": [
         {
           "title": "\"누나 왔다감\"…누가 김동준이고, 누가 한가인이야?",
@@ -3205,10 +3217,10 @@
       ]
     },
     "강경준": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T14:12:00+09:00",
-      "lastSeen": "2026-09-16T14:12:00+09:00",
+      "lastSeen": "2026-09-16T14:41:00+09:00",
       "news": [
         {
           "title": "♥강경준이 찍어줬나..장신영, 여행 중 미소가 끊이질 않네",
@@ -3226,6 +3238,12 @@
           "title": "`강경준 불륜 용서` 장신영, 한 달 만에 나타났다…일본서 되찾은 미소",
           "url": "https://mydaily.co.kr/page/view/2026091607442931233",
           "source": "마이데일리",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "‘불륜 남편 용서한’ 장신영, 웃음 되찾았다…1달 만에 전한 근황 [MHN:피드]",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1545304",
+          "source": "MHN스포츠",
           "date": "2026-09-16"
         }
       ]
@@ -3304,6 +3322,136 @@
           "title": "롯데월드 ‘기묘한 세계의 초대’ [한강로 사진관]",
           "url": "https://v.daum.net/v/ZhgeXnQ9jp",
           "source": "Daum",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "이재영": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-16T14:41:00+09:00",
+      "lastSeen": "2026-09-16T14:41:00+09:00",
+      "news": [
+        {
+          "title": "이재영·이다영 쌍둥이 자매 근황 공개됐다…새 소속팀이 직접 올린 훈련 사진, 이탈리아서 ‘챔스 담금질’",
+          "url": "https://v.daum.net/v/20260916101310361",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "이재영·이다영 새 출발 본격화! 유럽 전훈 동행…'아제르바이잔 챔피언' 투란, 이탈리아→그리스→튀르키예 대장정",
+          "url": "https://www.xportsnews.com/article/2195828",
+          "source": "www.xportsnews.com",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "이재영·이다영 쌍둥이 자매 근황 공개됐다…새 소속팀이 직접 올린 훈련 사진, 이탈리아서 ‘챔스 담금질’ - 조선비즈",
+          "url": "https://biz.chosun.com/sports/sports_general/2026/09/16/MYZDKZBWGYYDQMZWGZQTOMJWMM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "한덕수": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T14:41:00+09:00",
+      "lastSeen": "2026-09-16T14:41:00+09:00",
+      "news": [
+        {
+          "title": "[속보] '한덕수 재판 위증' 윤석열 항소심에서도 무죄...특검 항소 기각",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202609161055096981_005.html",
+          "source": "YTN",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "尹 `한덕수 재판 위증` 2심도 무죄",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260916.99099005396",
+          "source": "국제신문",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "위증 무죄 나오자... 윤석열 측, 이 대통령 20대 지지율 언급",
+          "url": "https://v.daum.net/v/20260916120753397",
+          "source": "Daum",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "교섭단체": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T14:41:00+09:00",
+      "lastSeen": "2026-09-16T14:41:00+09:00",
+      "news": [
+        {
+          "title": "혁신당, 김민석 '교섭단체 15석' 언급에 \"협의 없었다…10석이 당론\"(종합)",
+          "url": "https://v.daum.net/v/20260916111246158",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "조국혁신당 “민주당과 접촉도 제안도 없었다”…교섭단체 ‘10석’ 관련 당론 재확인",
+          "url": "https://www.kyeonggi.com/article/20260916580181",
+          "source": "경기일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "김민석 \"용혜인 보며 취약한 진보세력 현실 봐‥교섭단체 15석이 현실적\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6852144_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "처벌": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T14:41:00+09:00",
+      "lastSeen": "2026-09-16T14:41:00+09:00",
+      "news": [
+        {
+          "title": "'교사 성착취물 제작·유포' 10대 제자 최대 징역 2년…법정구속",
+          "url": "https://www.yna.co.kr/view/AKR20260916062200065",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "교사 딥페이크 성착취물 제작·유포한 제자…최대 징역 2년",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260916140018gfR",
+          "source": "연합뉴스TV",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "교사·학생 대상 딥페이크 영상물 만든 10대…징역형 선고 법정구속",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332174",
+          "source": "인천일보",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "인턴": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T14:41:00+09:00",
+      "lastSeen": "2026-09-16T14:41:00+09:00",
+      "news": [
+        {
+          "title": "왕년 자랑 접고 나잇값 해라…‘인턴’ 최민식이 보여준 진짜 어른 [송원섭의 와칭]",
+          "url": "https://v.daum.net/v/20260916060210672",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[인터뷰] 진심이라는 말 그 이상, 배우 한소희",
+          "url": "https://cine21.com/news/view/?mag_id=110742",
+          "source": "씨네21",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[시네프리뷰] 인턴-한국적으로 재해석된 세대의 화해",
+          "url": "https://weekly.khan.co.kr/article/202609160600051",
+          "source": "주간경향",
           "date": "2026-09-16"
         }
       ]
