@@ -3327,10 +3327,10 @@
       ]
     },
     "이재영": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-16T14:41:00+09:00",
-      "lastSeen": "2026-09-16T14:41:00+09:00",
+      "lastSeen": "2026-09-16T15:17:00+09:00",
       "news": [
         {
           "title": "이재영·이다영 쌍둥이 자매 근황 공개됐다…새 소속팀이 직접 올린 훈련 사진, 이탈리아서 ‘챔스 담금질’",
@@ -3353,10 +3353,10 @@
       ]
     },
     "한덕수": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-16T14:41:00+09:00",
-      "lastSeen": "2026-09-16T14:41:00+09:00",
+      "lastSeen": "2026-09-16T15:17:00+09:00",
       "news": [
         {
           "title": "[속보] '한덕수 재판 위증' 윤석열 항소심에서도 무죄...특검 항소 기각",
@@ -3375,14 +3375,26 @@
           "url": "https://v.daum.net/v/20260916120753397",
           "source": "Daum",
           "date": "2026-09-16"
+        },
+        {
+          "title": "'한덕수 재판 위증' 윤석열, 2심도 무죄…尹측 \"특검의 삼류소설\"(종합)",
+          "url": "https://v.daum.net/v/20260916120737388",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'계엄 국무회의 위증' 2심도 무죄…尹측 \"재판부가 특검 망상 배척\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260916079751004",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
         }
       ]
     },
     "교섭단체": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-16T14:41:00+09:00",
-      "lastSeen": "2026-09-16T14:41:00+09:00",
+      "lastSeen": "2026-09-16T15:17:00+09:00",
       "news": [
         {
           "title": "혁신당, 김민석 '교섭단체 15석' 언급에 \"협의 없었다…10석이 당론\"(종합)",
@@ -3401,14 +3413,26 @@
           "url": "https://imnews.imbc.com/news/2026/politics/article/6852144_36911.html",
           "source": "MBC 뉴스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "김민석 \"진보 대통합 본격화‥오늘부터 혁신당·진보3당 접촉할 것\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6852209_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "조국혁신당, 민주당에 원내교섭단체 10석으로 완화 촉구",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034960",
+          "source": "기호일보",
+          "date": "2026-09-16"
         }
       ]
     },
     "처벌": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T14:41:00+09:00",
-      "lastSeen": "2026-09-16T14:41:00+09:00",
+      "lastSeen": "2026-09-16T15:17:00+09:00",
       "news": [
         {
           "title": "'교사 성착취물 제작·유포' 10대 제자 최대 징역 2년…법정구속",
@@ -3427,14 +3451,26 @@
           "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332174",
           "source": "인천일보",
           "date": "2026-09-16"
+        },
+        {
+          "title": "일회성 만남 후 성범죄 신고, 동의 여부는 무엇으로 가려지나",
+          "url": "https://www.lawissue.co.kr/view.php?ud=2026091515533099819aeda69934_12",
+          "source": "로이슈",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "강제추행 사건, 실형 여부 가르는 주요 판단 요소는",
+          "url": "https://www.youthassembly.kr/news/1000699",
+          "source": "유스연합",
+          "date": "2026-09-16"
         }
       ]
     },
     "인턴": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-16T14:41:00+09:00",
-      "lastSeen": "2026-09-16T14:41:00+09:00",
+      "lastSeen": "2026-09-16T15:17:00+09:00",
       "news": [
         {
           "title": "왕년 자랑 접고 나잇값 해라…‘인턴’ 최민식이 보여준 진짜 어른 [송원섭의 와칭]",
@@ -3452,6 +3488,136 @@
           "title": "[시네프리뷰] 인턴-한국적으로 재해석된 세대의 화해",
           "url": "https://weekly.khan.co.kr/article/202609160600051",
           "source": "주간경향",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "강선영": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T15:17:00+09:00",
+      "lastSeen": "2026-09-16T15:17:00+09:00",
+      "news": [
+        {
+          "title": "강선영 강서구의회 의장, 재가복지서비스 워크숍 참석…\"지역사회 돌봄 중요성\" 강조",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3696501",
+          "source": "국제뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "강서구의회 강선영 의장, “좋은 돌봄은 현장에서 시작”",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2305242",
+          "source": "웹이코노미",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "강서구의회 강선영 의장, “좋은 돌봄은 현장에서 시작”",
+          "url": "https://kinn.co.kr/news/article.html?no=775154",
+          "source": "한국현대미술신문",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "게임": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-16T15:17:00+09:00",
+      "lastSeen": "2026-09-16T15:17:00+09:00",
+      "news": [
+        {
+          "title": "中서 10조 시장 된 H5 게임… 韓 게임업계 돌파구 될까",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170205",
+          "source": "IT조선",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "넵튠, 원스토어 H5 플랫폼 원플레이에 파트너사로 참여",
+          "url": "https://zdnet.co.kr/view/?no=20260914141141",
+          "source": "지디넷코리아",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "넵튠, 일본 '라인게임'과 손��고 H5 게임 5종 출시",
+          "url": "http://www.inews24.com/view/2006287",
+          "source": "아이뉴스24",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "청년미래적금": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T15:17:00+09:00",
+      "lastSeen": "2026-09-16T15:17:00+09:00",
+      "news": [
+        {
+          "title": "‘연 19% 금리효과’ 청년미래적금, 내달 7일부터 2차 모집",
+          "url": "https://v.daum.net/v/20260916120304223",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "다음달 7일부터 청년미래적금 2차 모집",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3433169",
+          "source": "천지일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "‘청년미래적금 2차’ 다음 달 가입신청…청년도약계좌 갈아타기 제공",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8664879",
+          "source": "KBS 뉴스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "만평": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T15:17:00+09:00",
+      "lastSeen": "2026-09-16T15:17:00+09:00",
+      "news": [
+        {
+          "title": "[국민만평-서민호 화백] 2026년 9월 16일",
+          "url": "https://v.daum.net/v/20260915183853994",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[국민만평-서민호 화백] 2026년 9월 15일",
+          "url": "https://v.daum.net/v/20260914185209282",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[국민만평-서민호 화백] 2026년 9월 14일",
+          "url": "https://v.daum.net/v/20260913185953576",
+          "source": "Daum",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "병무청": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-16T15:17:00+09:00",
+      "lastSeen": "2026-09-16T15:17:00+09:00",
+      "news": [
+        {
+          "title": "25세 이상 병역의무자, 해외여행 전 ‘국외여행허가’ 필수",
+          "url": "https://www.kwnews.co.kr/article/20260914501260",
+          "source": "강원일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "2002년생 병역의무자, 내년 ‘국외체류 허가’ 받아야",
+          "url": "https://www.bzeronews.com/news/articleView.html?idxno=822756",
+          "source": "공뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "충북지방병무청, 25세 이상 병역의무자 국외여행허가 필수…1개월 이내로 단축",
+          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106974",
+          "source": "BBS불교방송",
           "date": "2026-09-16"
         }
       ]
