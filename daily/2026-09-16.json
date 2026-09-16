@@ -2715,10 +2715,10 @@
       ]
     },
     "재벌x형사 2": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-16T13:13:00+09:00",
-      "lastSeen": "2026-09-16T13:13:00+09:00",
+      "lastSeen": "2026-09-16T13:42:00+09:00",
       "news": [
         {
           "title": "종영 2회 앞두고…37.3% 시청률의 제왕 '특별출연'으로 대박 예고한 韓 드라마 ('재벌X형사2')",
@@ -2737,14 +2737,20 @@
           "url": "https://news.tf.co.kr/read/entertain/2366505.htm",
           "source": "더팩트",
           "date": "2026-09-16"
+        },
+        {
+          "title": "종영 2회 앞두고…37.3% 시청률의 제왕 '특별출연'으로 대박 예고한 韓 드라마 ('재벌X형사2')",
+          "url": "https://v.daum.net/v/1S2jZpXSMN",
+          "source": "Daum",
+          "date": "2026-09-16"
         }
       ]
     },
     "실종자": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-16T13:13:00+09:00",
-      "lastSeen": "2026-09-16T13:13:00+09:00",
+      "lastSeen": "2026-09-16T13:42:00+09:00",
       "news": [
         {
           "title": "'빙하 붕괴' 대홍수 뒤에 더 큰 재앙 온다",
@@ -2763,14 +2769,26 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8664434",
           "source": "KBS 뉴스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "부산 앞바다 예인선 전복 사고 실종자 5명 보름째 수색",
+          "url": "https://v.daum.net/v/20260916100956196",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "부산 침몰 예인선 수색 15일째…함선 33척·항공기 6대 투입 총력",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6292176",
+          "source": "뉴스1",
+          "date": "2026-09-16"
         }
       ]
     },
     "해고": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-16T13:13:00+09:00",
-      "lastSeen": "2026-09-16T13:13:00+09:00",
+      "lastSeen": "2026-09-16T13:42:00+09:00",
       "news": [
         {
           "title": "LG유플러스 ‘원거리 지원금’ 징계 논란…노동위, 일부 해고 ‘부당’",
@@ -2793,10 +2811,10 @@
       ]
     },
     "제주항공": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-16T13:13:00+09:00",
-      "lastSeen": "2026-09-16T13:13:00+09:00",
+      "lastSeen": "2026-09-16T13:42:00+09:00",
       "news": [
         {
           "title": "제주항공, 창립 21년만에 첫 단독 사옥 마련…내년 상반기 입주",
@@ -2815,14 +2833,20 @@
           "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02932326645580776",
           "source": "마켓인",
           "date": "2026-09-16"
+        },
+        {
+          "title": "제주항공, 21년 만에 첫 단독 사옥",
+          "url": "https://www.sedaily.com/article/20091579",
+          "source": "서울경제",
+          "date": "2026-09-16"
         }
       ]
     },
     "이정후": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-16T13:13:00+09:00",
-      "lastSeen": "2026-09-16T13:13:00+09:00",
+      "lastSeen": "2026-09-16T13:42:00+09:00",
       "news": [
         {
           "title": "'5타수 무안타→선발 제외' 이정후, 대타 출전→2타수 1안타…'WBC 한국 국가대표' 마무리, 시즌 37세이브 [SF 리뷰]",
@@ -2840,6 +2864,18 @@
           "title": "'4번 지명타자' 이정후, 두 경기 연속 안타…시즌 30번째 2루타 '쾅'",
           "url": "https://www.newsis.com/view/NISX20260916_0003791654",
           "source": "뉴시스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "4번 지명타자 이정후, 30번째 2루타…5타수 1안타 타율 0.276(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260916093351007",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'대타→4번타자 신분 수직 상승' 이정후, 빅이닝 다리 놓은 '2루타' 폭발→SF 4연패 탈출",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/16/MIYWGNZWGY4GMMZWGNRWCY3GHE/",
+          "source": "조선일보",
           "date": "2026-09-16"
         }
       ]
@@ -2871,10 +2907,10 @@
       ]
     },
     "미프진": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T13:13:00+09:00",
-      "lastSeen": "2026-09-16T13:13:00+09:00",
+      "lastSeen": "2026-09-16T13:42:00+09:00",
       "news": [
         {
           "title": "임신중지약, 헌법불합치 7년 만에 도입…첫 2년 ‘의료기관 내’ 처방·조제",
@@ -2897,10 +2933,10 @@
       ]
     },
     "무안국제공항": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T13:13:00+09:00",
-      "lastSeen": "2026-09-16T13:13:00+09:00",
+      "lastSeen": "2026-09-16T13:42:00+09:00",
       "news": [
         {
           "title": "넓어진 한중 하늘길…저비용항공사 '알짜노선' 운수권 확대",
@@ -2918,6 +2954,18 @@
           "title": "양양공항, 상하이·항저우 하늘길 열린다…국토부 국제선 운수권 배분",
           "url": "https://v.daum.net/v/20260916101719637",
           "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "중국행 LCC·지방공항 노선 대폭 확대",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8664942",
+          "source": "KBS 뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "부산~청두·하얼빈·항저우 가는 항공편 더 많아진다",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260916.99099005228",
+          "source": "국제신문",
           "date": "2026-09-16"
         }
       ]
@@ -2970,6 +3018,84 @@
           "title": "농구 8강행, 축구 킥오프…나고야AG 금빛 질주 돌입",
           "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260915.22013004336",
           "source": "국제신문",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "골 때리는 그녀들": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T13:42:00+09:00",
+      "lastSeen": "2026-09-16T13:42:00+09:00",
+      "news": [
+        {
+          "title": "핸드볼계 기싸움 발발‥배민희, 5년 후배 박하얀에 “핸드볼 아나?” 도발(골때녀)",
+          "url": "https://www.newsen.com/news_view.php?uid=202609151811341910&code=100100",
+          "source": "뉴스엔",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'골때리는그녀들' 마시마 vs 주명·정혜인 (골때녀)",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202609160192",
+          "source": "BNT뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "대한핸드��협회, SBS와 스포츠미디어 파트너십 업무협약",
+          "url": "https://www.yna.co.kr/view/AKR20260907123800007",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "변호사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T13:42:00+09:00",
+      "lastSeen": "2026-09-16T13:42:00+09:00",
+      "news": [
+        {
+          "title": "양나래 변호사, 남편 국정원 요원설에 \"살아있다\"..공개 안하는 이유 ('비밀보장')",
+          "url": "https://v.daum.net/v/20260916085738312",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "양나래 변호사 “남편 살아있다”… ‘비밀보장’서 베일 싸인 신랑 정체 언급",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3433072",
+          "source": "천지일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "양나래 변호사 “남편은 살아있다” 비밀보장서 결혼·바람 토크",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16195353",
+          "source": "톱스타뉴스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "황대인": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T13:42:00+09:00",
+      "lastSeen": "2026-09-16T13:42:00+09:00",
+      "news": [
+        {
+          "title": "\"정신 차리자\" KIA 입단 12년 차 내야수, 마음 다잡고 1군 올라왔다…\"이제 어린 나이 아냐\" [인천 인터뷰]",
+          "url": "https://v.daum.net/v/3dpIXtWIXA",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "김범수가 뛰어가야 했나, 김선빈은 1루를 백업했다…KIA가 커버하지 못한 2루 미스터리, 불펜을 낭비했다[MD인천]",
+          "url": "https://v.daum.net/v/20260916061149968",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'어깨부상' 박민이 있었다면...치명적 잇딴 3루 실책, 김도영 공백도 크지만 유틸리티 백업의 이탈도 아프다 - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/09/16/MNQTIOBYMUZDAYRYGRRTGNZXMQ/",
+          "source": "Chosunbiz",
           "date": "2026-09-16"
         }
       ]
