@@ -2,10 +2,10 @@
   "date": "2026-09-17",
   "keywords": {
     "중고": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:14:00+09:00",
+      "lastSeen": "2026-09-17T01:42:00+09:00",
       "news": [
         {
           "title": "\"다 먹고 남은 찹쌀떡 포장지가 5만원?\"…중고거래서 벌어진 황당한 꼼수",
@@ -28,10 +28,10 @@
       ]
     },
     "sk텔레콤": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:14:00+09:00",
+      "lastSeen": "2026-09-17T01:42:00+09:00",
       "news": [
         {
           "title": "부모님 병원 예약, 택시 호출 ‘척척’… SKT ‘모두의 AI’ 12월 첫선",
@@ -66,10 +66,10 @@
       ]
     },
     "서대구역": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:14:00+09:00",
+      "lastSeen": "2026-09-17T01:42:00+09:00",
       "news": [
         {
           "title": "서대구역 인근에 UAM 버티포트…\"미래 도심항공 주도권 선점\"",
@@ -98,10 +98,10 @@
       ]
     },
     "집단 감염": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:14:00+09:00",
+      "lastSeen": "2026-09-17T01:42:00+09:00",
       "news": [
         {
           "title": "강릉 정형외과 집단감염 ‘4명 사망’…병원장·간호조무사 3명 송치",
@@ -120,14 +120,26 @@
           "url": "https://www.hankyung.com/article/2026091696717",
           "source": "한국경제",
           "date": "2026-09-16"
+        },
+        {
+          "title": "'환자 4명 사망' 정형외과 집단감염…병원장·간호조무사 송치",
+          "url": "https://v.daum.net/v/20260916172553961",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "강릉 정형외과 집단감염 4명 사망…병원장 검찰 송치",
+          "url": "https://m.go.seoul.co.kr/news/society/2026/09/16/20260916500283?cp=go",
+          "source": "서울Pn",
+          "date": "2026-09-16"
         }
       ]
     },
     "abl바이오": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:14:00+09:00",
+      "lastSeen": "2026-09-17T01:42:00+09:00",
       "news": [
         {
           "title": "\"호재 발표전 미리 매수\"…K-바이오 잇단 구설수",
@@ -156,10 +168,10 @@
       ]
     },
     "kbs": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:14:00+09:00",
+      "lastSeen": "2026-09-17T01:42:00+09:00",
       "news": [
         {
           "title": "KBS Issues Official Response to Bereaved Family's Petition Over Stalker's Sister Starring in Drama",
@@ -182,10 +194,10 @@
       ]
     },
     "시어머니": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:14:00+09:00",
+      "lastSeen": "2026-09-17T01:42:00+09:00",
       "news": [
         {
           "title": "\"시어머니 못 들어오게 비밀번호 바꿨는데\"…남편이 몰래 한 행동",
@@ -208,10 +220,10 @@
       ]
     },
     "혈우병": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:14:00+09:00",
+      "lastSeen": "2026-09-17T01:42:00+09:00",
       "news": [
         {
           "title": "유리몸이군 아내, '혈우병' 알았지만...\"너무 멋져서 쫓아다녀\" (유퀴즈)",
@@ -230,14 +242,20 @@
           "url": "https://enter.etoday.co.kr/news/view/302518",
           "source": "비즈엔터",
           "date": "2026-09-16"
+        },
+        {
+          "title": "혈우병 여행유튜버…'유리몸이군' 이견우 \"평균 기대 수명 20세, 내 삶은 보너스\"",
+          "url": "https://v.daum.net/v/20260916110927947",
+          "source": "Daum",
+          "date": "2026-09-16"
         }
       ]
     },
     "정해영": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:14:00+09:00",
+      "lastSeen": "2026-09-17T01:42:00+09:00",
       "news": [
         {
           "title": "정해영과 조상우는 정녕 이곳과 안 맞나요…개막전 악몽이 어제 같은데 마지막 경기까지 ‘악몽의 인천’[MD인천]",
@@ -298,10 +316,10 @@
       ]
     },
     "이스라엘": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T01:14:00+09:00",
-      "lastSeen": "2026-09-17T01:14:00+09:00",
+      "lastSeen": "2026-09-17T01:42:00+09:00",
       "news": [
         {
           "title": "폭격에 파손된 가자지구 아파트 붕괴…20명 사망·약 100명 매몰",
@@ -878,6 +896,24 @@
         "title": "[단독] KISA 자격 시험 “자격 충분해도 클릭 늦으면 탈락”",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpTm1uV3ZBejhucGU3bGV6Tm9nbTdRQ243WllnVHBwUW85QWxZVE9CVTRBSVdDektpTWlTWE56VkktVU1lQS1NUWtmVXhTUlNoRWgyLU15NzBTRDdiZ2ticDVlNHVrZHRjMDUzd2JNNXbSAXRBVV95cUxOUXdkYUFDYVpfeUg4bUxOTFJqaTdrWWdweVdQdHU2WnZBYUJRS0xFSy1mN1FWNk5iTHhrSzQ4X2Mwclh1dTBxdVV0Z3ZRa05TRVczTGZaVnB6V2pwLUFjc1lQdnE2NE5fbllyWnVqal9ocmkxcQ?oc=5",
         "source": "IT조선",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "리플, 4시간 새 7.5% 급락��1.29달러",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9idWNhY2pnVG1MQ29pa1FtRWFmQkZtbno3UktUTlV4WFpDbm8wbmVheC1iV0d4Q3VWY21wNFJMaENMdjdfMFoxUENwLUJ0SHF4bVVrODRKSFg?oc=5",
+        "source": "tokenpost.kr",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "인간 앞서는 지능, 행동 시작했다",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IeFZXSk1idzdZM0UtN0xYem5DSlFTSy1xWmdSckx4WHNCeFdjcG9PT291c0NJZGlENjRiS1prTXUzeXUwLWV1Rmhzb19uMzFLemctVmxJVlFNWUNWYXFuNTJpYzdoRXNqSThpNdIBbEFVX3lxTE1IeFZXSk1idzdZM0UtN0xYem5DSlFTSy1xWmdSckx4WHNCeFdjcG9PT291c0NJZGlENjRiS1prTXUzeXUwLWV1Rmhzb19uMzFLemctVmxJVlFNWUNWYXFuNTJpYzdoRXNqSThpNQ?oc=5",
+        "source": "국민일보",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "빅테크 AI, 먹통 돼도 보상규정 없다",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15SnY4Y1ljZ0xsUGlQRUhrTmx5OG03MjlLZGRNYXVxVmNfS0VOeE5DMGMxZkQ0dkJ4OTdudC1LLUl3OEtWQjRueFBlUWV4UQ?oc=5",
+        "source": "전자신문",
         "date": "2026-09-15"
       }
     ],
