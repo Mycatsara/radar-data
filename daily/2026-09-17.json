@@ -1229,10 +1229,10 @@
       ]
     },
     "리그컵": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-17T07:40:00+09:00",
-      "lastSeen": "2026-09-17T08:12:00+09:00",
+      "lastSeen": "2026-09-17T08:40:00+09:00",
       "news": [
         {
           "title": "'09년생 유망주' 멀티골 폭발...아스날, 입스위치 타운에 4-2 승리",
@@ -1267,10 +1267,10 @@
       ]
     },
     "축구": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T07:40:00+09:00",
-      "lastSeen": "2026-09-17T08:12:00+09:00",
+      "lastSeen": "2026-09-17T08:40:00+09:00",
       "news": [
         {
           "title": "[나고야 NOW] \"이 멤버로 지는 게 더 어렵다\" 韓 4-1 대승에 日도 관심 폭발…\"육성 생각하지 않는 증거\"",
@@ -1549,10 +1549,10 @@
       ]
     },
     "la liga": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-17T08:12:00+09:00",
-      "lastSeen": "2026-09-17T08:12:00+09:00",
+      "lastSeen": "2026-09-17T08:40:00+09:00",
       "news": [
         {
           "title": "Rafinha scores hat trick as Barcelona routs Racing 7-2 to reach six straight wins - CHOSUNBIZ",
@@ -1571,14 +1571,20 @@
           "url": "https://www.fcbarcelona.com/en/football/first-team/news/4577547/hansi-flick-always-good-to-start-well",
           "source": "FC Barcelona Website",
           "date": "2026-09-16"
+        },
+        {
+          "title": "Cancelo's second launch, Raphinha's brace... and Lamine's penalty miss",
+          "url": "https://www.besoccer.com/new/cancelos-second-rocket-raphinhas-brace-and-lamines-penalty-miss-1430293",
+          "source": "BeSoccer Livescore",
+          "date": "2026-09-16"
         }
       ]
     },
     "스테이블코인": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T08:12:00+09:00",
-      "lastSeen": "2026-09-17T08:12:00+09:00",
+      "lastSeen": "2026-09-17T08:40:00+09:00",
       "news": [
         {
           "title": "서클, ’아크 메인넷’ 전격 출시…\"온체인 외환 거래소 꿈꾼다\" By Bloomingbit",
@@ -1601,10 +1607,10 @@
       ]
     },
     "노시환": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T08:12:00+09:00",
-      "lastSeen": "2026-09-17T08:12:00+09:00",
+      "lastSeen": "2026-09-17T08:40:00+09:00",
       "news": [
         {
           "title": "‘캡틴 노’, 친구 왕옌청 향해 “가만히 놔두지 않을 것” 선전포고",
@@ -1622,6 +1628,12 @@
           "title": "노시환의 유쾌한 경고 \"왕옌청, 한국 대표팀 상대하기 어려울 것\"",
           "url": "https://www.ytn.co.kr/_ln/0107_202609162326363113",
           "source": "YTN",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "“꾀부리지 말고 3루수 나가!” 김도영 채찍질한 ‘대한민국 캡틴’ 노시환, 왜 자기 포지션 포기했나 “김도영이라면 줘야죠”",
+          "url": "https://v.daum.net/v/9PHliEoMyF",
+          "source": "Daum",
           "date": "2026-09-16"
         }
       ]
@@ -1648,6 +1660,117 @@
           "title": "SCHD's Stunning Reversal: Schwab's Flagship Dividend ETF Is Up 29% and Climbing",
           "url": "https://www.fool.com/investing/2026/09/13/schds-stunning-reversal-schwabs-flagship-dividend/",
           "source": "The Motley Fool",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "마이크로소프트": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T08:40:00+09:00",
+      "lastSeen": "2026-09-17T08:40:00+09:00",
+      "news": [
+        {
+          "title": "'AI 공룡'의 충돌…'인류 파멸' 경고 뒤 속내는",
+          "url": "https://v.daum.net/v/20260917065105139",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"AI에 권리 가르쳐선 안 돼\"…MS AI 책임자, 앤스로픽 저격",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02555126645581104",
+          "source": "마켓인",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "AI 3대 대부의 섬뜩한 경고…\"통제력 잃었다, 핵무기급 규제 필요\" - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/17/2026091705364173537",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "대학 입학": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T08:40:00+09:00",
+      "lastSeen": "2026-09-17T08:40:00+09:00",
+      "news": []
+    },
+    "fc barcelona vs racing santander standings": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T08:40:00+09:00",
+      "lastSeen": "2026-09-17T08:40:00+09:00",
+      "news": [
+        {
+          "title": "Is Joan Garcia injured? Barcelona stopper replaced by Wojciech Szczęsny against Racing",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/132598/joan-garcia-injured-wojciech-szczesny-racing",
+          "source": "Barca Blaugranes",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Barcelona boss Flick provides Joan García injury update",
+          "url": "https://getfootballnewsspain.com/barcelona-boss-flick-provides-joan-garcia-injury-update/",
+          "source": "Get Spanish Football News",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Will he miss the Sevilla clash? The secret behind Juan Garcia's substitution on the night of Barcelona's seven-goal rout",
+          "url": "https://www.goal.com/en/news/will-he-miss-the-sevilla-clash-the-secret-behind-juan-garcia-s-substitution-on-the-night-of-barcelona-s-seven-goal-haul/bltdf9f626b14472317",
+          "source": "Goal.com",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "kf-21 보라매": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T08:40:00+09:00",
+      "lastSeen": "2026-09-17T08:40:00+09:00",
+      "news": [
+        {
+          "title": "'KF-21' 1호기 정식 인도…동남아 시장 선점 후 중동으로 영토 넓힌다",
+          "url": "https://www.newsis.com/view/NISX20260916_0003791990",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[르포] 오는 9월말 공군 첫 인도될 ‘KF-21’ 생산라인 가보니…“A4용지 두께 ¼ 오차”[이현호의 방산!톡]",
+          "url": "https://www.sedaily.com/article/20090709",
+          "source": "서울경제",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "공군, KF-21 전투기 인도식 9월 22일로 연기",
+          "url": "https://www.defensetoday.kr/news/articleView.html?idxno=10634",
+          "source": "디펜스투데이",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "세액공제": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T08:40:00+09:00",
+      "lastSeen": "2026-09-17T08:40:00+09:00",
+      "news": [
+        {
+          "title": "與, 국내산 전기차도 '한국판 IRA' 포함 추진",
+          "url": "https://v.daum.net/v/20260916162808949",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "이언주 민주당 의원 “국내생산촉진세제에 전기차 포함해야”",
+          "url": "https://www.etnews.com/20260916000309",
+          "source": "전자신문",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[사설] 여야 “전기차 세액공제 추진”…조속한 입법이 관건",
+          "url": "https://www.sedaily.com/article/20091855",
+          "source": "서울경제",
           "date": "2026-09-16"
         }
       ]
