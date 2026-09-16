@@ -2,10 +2,10 @@
   "date": "2026-09-17",
   "keywords": {
     "중고": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:41:00+09:00",
+      "lastSeen": "2026-09-17T03:15:00+09:00",
       "news": [
         {
           "title": "\"다 먹고 남은 찹쌀떡 포장지가 5만원?\"…중고거래서 벌어진 황당한 꼼수",
@@ -40,10 +40,10 @@
       ]
     },
     "sk텔레콤": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:41:00+09:00",
+      "lastSeen": "2026-09-17T03:15:00+09:00",
       "news": [
         {
           "title": "부모님 병원 예약, 택시 호출 ‘척척’… SKT ‘모두의 AI’ 12월 첫선",
@@ -78,10 +78,10 @@
       ]
     },
     "서대구역": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:41:00+09:00",
+      "lastSeen": "2026-09-17T03:15:00+09:00",
       "news": [
         {
           "title": "서대구역 인근에 UAM 버티포트…\"미래 도심항공 주도권 선점\"",
@@ -110,10 +110,10 @@
       ]
     },
     "집단 감염": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:41:00+09:00",
+      "lastSeen": "2026-09-17T03:15:00+09:00",
       "news": [
         {
           "title": "강릉 정형외과 집단감염 ‘4명 사망’…병원장·간호조무사 3명 송치",
@@ -148,10 +148,10 @@
       ]
     },
     "abl바이오": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:41:00+09:00",
+      "lastSeen": "2026-09-17T03:15:00+09:00",
       "news": [
         {
           "title": "\"호재 발표전 미리 매수\"…K-바이오 잇단 구설수",
@@ -186,10 +186,10 @@
       ]
     },
     "kbs": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:41:00+09:00",
+      "lastSeen": "2026-09-17T03:15:00+09:00",
       "news": [
         {
           "title": "KBS Issues Official Response to Bereaved Family's Petition Over Stalker's Sister Starring in Drama",
@@ -212,10 +212,10 @@
       ]
     },
     "시어머니": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:41:00+09:00",
+      "lastSeen": "2026-09-17T03:15:00+09:00",
       "news": [
         {
           "title": "\"시어머니 못 들어오게 비밀번호 바꿨는데\"…남편이 몰래 한 행동",
@@ -238,10 +238,10 @@
       ]
     },
     "혈우병": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:41:00+09:00",
+      "lastSeen": "2026-09-17T03:15:00+09:00",
       "news": [
         {
           "title": "유리몸이군 아내, '혈우병' 알았지만...\"너무 멋져서 쫓아다녀\" (유퀴즈)",
@@ -340,10 +340,10 @@
       ]
     },
     "이스라엘": {
-      "count": 4,
-      "maxTraffic": 100,
+      "count": 5,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-17T01:14:00+09:00",
-      "lastSeen": "2026-09-17T02:41:00+09:00",
+      "lastSeen": "2026-09-17T03:15:00+09:00",
       "news": [
         {
           "title": "폭격에 파손된 가자지구 아파트 붕괴…20명 사망·약 100명 매몰",
@@ -378,10 +378,10 @@
       ]
     },
     "아틀레티코 대 오사수나": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-17T02:41:00+09:00",
-      "lastSeen": "2026-09-17T02:41:00+09:00",
+      "lastSeen": "2026-09-17T03:15:00+09:00",
       "news": [
         {
           "title": "\"이강인 공 너무 오래 소유\" 스페인 매체 지적에 '日 동감'…\"ATM 7번 될 수 있나, 현대축구와 안 맞아\" 지적",
@@ -995,6 +995,18 @@
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPckxQZWxnVU9NcEtDOXMwLTcxZFBjMk5KeWtabjAzOXpuU01GbFhfQnBTeE0zVjN6TlA0TnV2ei1NeW5XNFFmdTR2dVUyWlk?oc=5",
         "source": "v.daum.net",
         "date": "2026-09-15"
+      },
+      {
+        "title": "미 하원, 16일 밤 11시 암호화폐 법안 심사",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFSkQ1QnJuQ2Rib3FMM2FaSjkwenFwc1BBcE5LckJPQmdTVDdhbS1GZnNTMU5LMVZrMHg2d3ozMmZGQjJfLXJoSnoweko3YlAzT3FWWHRVby0?oc=5",
+        "source": "토큰포스트",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "美 웨스팅하우스 지분 인수 ‘빚더미’ 한전이 맡나… 자금조달 방안 ‘관심’ - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczBFMmxhU3pjLS16VUF5V2xER2taY3kyWTlieUZhbFdtUkRxVE5qRTBYX1hQVXBOVW94Z01wSUtqenQtY0pyWkw2MkJNMHM0NE4yQUxqSVFIMm1QTU9KeFUxdUJCZWxlb1NNQnVCSU9qWmNwTWxnNUNpT2FGdzRsUUJMWnTSAZgBQVVfeXFMTXUzb2NtT2xFbDJqTWpKSmluY2JZTkdXWEh1ODQ1dGhJR0Y1VlBuQV81dDdsUG5PZHN4YjAzbUx0LXBYN2pReWVPaUNpdXB1OTMxM0UyQVNIdmUtZjJwR1laX0R2ZDV6ZGFQUjVBektBb0E1YzUxb0hkbnNHSkVkMFFhOU4ydEJZal9FaVR6MTNuMENNWTE3R0k?oc=5",
+        "source": "Chosunbiz",
+        "date": "2026-09-16"
       }
     ],
     "ENTERTAINMENT": [
