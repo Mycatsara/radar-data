@@ -1229,10 +1229,10 @@
       ]
     },
     "리그컵": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-17T07:40:00+09:00",
-      "lastSeen": "2026-09-17T07:40:00+09:00",
+      "lastSeen": "2026-09-17T08:12:00+09:00",
       "news": [
         {
           "title": "'09년생 유망주' 멀티골 폭발...아스날, 입스위치 타운에 4-2 승리",
@@ -1251,14 +1251,26 @@
           "url": "https://www.sportschosun.com/football/2026-09-16/202609160100113800007345",
           "source": "스포츠조선",
           "date": "2026-09-16"
+        },
+        {
+          "title": "“손흥민 ‘리더의 부재’ 너무 커” 英 BBC 이상 최고 공신력 언론의 조명 “그는 좋은 방향으로 토트넘을 이끌 수 있다”",
+          "url": "https://v.daum.net/v/qgwf5lwazi",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'리그 4경기 0승-0골' 최악의 토트넘, 컵대회에서도 탈락...17개 슈팅 날리고 리버풀에 1-3 졸전패 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/16/202609160708773987O",
+          "source": "머니투데이",
+          "date": "2026-09-16"
         }
       ]
     },
     "축구": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T07:40:00+09:00",
-      "lastSeen": "2026-09-17T07:40:00+09:00",
+      "lastSeen": "2026-09-17T08:12:00+09:00",
       "news": [
         {
           "title": "[나고야 NOW] \"이 멤버로 지는 게 더 어렵다\" 韓 4-1 대승에 日도 관심 폭발…\"육성 생각하지 않는 증거\"",
@@ -1277,14 +1289,26 @@
           "url": "https://news.jtbc.co.kr/article/NB12318606",
           "source": "JTBC",
           "date": "2026-09-16"
+        },
+        {
+          "title": "한국 축구, 아르헨티나 1-0 꺾고 12년만에 U-20 여자 월드컵 8강",
+          "url": "https://v.daum.net/v/20260916235753615",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"남미의 거인 아르헨 쓰러뜨려\" FIFA도 대서특필...박윤정호, 12년 만에 세계 8강 진출→다음 상대는 이탈리아 - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/09/17/GQYTOYZZGI2DAZJZGQ2TCNJRMY/",
+          "source": "Chosunbiz",
+          "date": "2026-09-16"
         }
       ]
     },
     "최국희": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T07:40:00+09:00",
-      "lastSeen": "2026-09-17T07:40:00+09:00",
+      "lastSeen": "2026-09-17T08:12:00+09:00",
       "news": [
         {
           "title": "'타짜 4' 최국희 감독 \"철저한 복수극…'타짜 1' 헌사도 담았죠\"",
@@ -1303,14 +1327,26 @@
           "url": "https://www.chosun.com/entertainments/movie/2026/09/16/GAYGCOJWG5QWGODDGZQTGOBTGM/",
           "source": "조선일보",
           "date": "2026-09-16"
+        },
+        {
+          "title": "'타짜4' 변요한·노재원, 이것만 알면 '홀덤' 끝…일타 타짜 변신 \"쉽죠?\"",
+          "url": "https://v.daum.net/v/20260917073109732",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[현장포토] \"남편 변요한 응원왔어요\"…티파니, 내조의 여신",
+          "url": "https://www.dispatch.co.kr/2348022",
+          "source": "디스패치",
+          "date": "2026-09-16"
         }
       ]
     },
     "барселона – расинг": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T07:40:00+09:00",
-      "lastSeen": "2026-09-17T07:40:00+09:00",
+      "lastSeen": "2026-09-17T08:12:00+09:00",
       "news": [
         {
           "title": "«Барселона» разгромила «Расинг» в матче Ла Лиги с девятью голами, у Рафиньи — хет-трик",
@@ -1329,14 +1365,20 @@
           "url": "https://www.soccer.ru/news/1436887/barselona-rasing",
           "source": "Soccer.ru",
           "date": "2026-09-16"
+        },
+        {
+          "title": "«Барселона» разгромила «Расинг» в матче чемпионата Испании",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/spbnews_NI2366368_Barselona_razgromila_Rasing_v_matche_chempionata_Ispanii",
+          "source": "Sportbox",
+          "date": "2026-09-16"
         }
       ]
     },
     "barcelona đấu với racing santander": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T07:40:00+09:00",
-      "lastSeen": "2026-09-17T07:40:00+09:00",
+      "lastSeen": "2026-09-17T08:12:00+09:00",
       "news": [
         {
           "title": "Video Barcelona - Racing Santander: Hat-trick, siêu phẩm & \"đại tiệc\" tưng bừng (La Liga)",
@@ -1355,14 +1397,26 @@
           "url": "https://www.vietnam.vn/de/truc-tieptruc-tiep-barcelona-vs-racing-santander-het-hiep-1-barcelona-dan-4-1",
           "source": "Vietnam.vn",
           "date": "2026-09-16"
+        },
+        {
+          "title": "Raphinha lập hat-trick trong chiến thắng 7-2 của Barca",
+          "url": "https://vnexpress.net/raphinha-lap-hat-trick-trong-chien-thang-7-2-cua-barca-5121147.html",
+          "source": "VnExpress",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "EN DIRECT Barcelone - Racing Santander : À la fin de la première mi-temps, Barcelone mène 4-1",
+          "url": "https://www.vietnam.vn/fr/truc-tieptruc-tiep-barcelona-vs-racing-santander-het-hiep-1-barcelona-dan-4-1",
+          "source": "Vietnam.vn",
+          "date": "2026-09-16"
         }
       ]
     },
     "미군": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T07:40:00+09:00",
-      "lastSeen": "2026-09-17T07:40:00+09:00",
+      "lastSeen": "2026-09-17T08:12:00+09:00",
       "news": [
         {
           "title": "'만신창이' 미군 기지 폭로…헤그세스 장관 탄핵안 발의",
@@ -1380,6 +1434,12 @@
           "title": "\"이란 드론 몇 대에 뚫려? 美 속절없이 펀치 맞았다\"",
           "url": "https://www.chosun.com/international/international_general/2026/09/16/3IFSRQ2KYZC2VAF27QOU25FBT4/",
           "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"미, 이란전에 52조 원 사용...무기재고 복구에 5년\"",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202609161602575403",
+          "source": "YTN 사이언스",
           "date": "2026-09-16"
         }
       ]
@@ -1484,6 +1544,110 @@
           "title": "삼전 노·노 갈등 극심···급기야 탄원서 대결까지",
           "url": "https://weekly.khan.co.kr/article/202609161728001",
           "source": "주간경향",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "la liga": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T08:12:00+09:00",
+      "lastSeen": "2026-09-17T08:12:00+09:00",
+      "news": [
+        {
+          "title": "Rafinha scores hat trick as Barcelona routs Racing 7-2 to reach six straight wins - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-sports/2026/09/17/JOO3ZICFHFELJKFPSXZWJIPKAI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Barcelona Crush Racing 7-2 Behind Raphinha Hat-Trick, Yamal",
+          "url": "https://www.chosun.com/english/sports-en/2026/09/17/VY4S4P4EMVAHZGKQCBNTI5LPMY/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Hansi Flick: 'Always good to start well'",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4577547/hansi-flick-always-good-to-start-well",
+          "source": "FC Barcelona Website",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "스테이블코인": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T08:12:00+09:00",
+      "lastSeen": "2026-09-17T08:12:00+09:00",
+      "news": [
+        {
+          "title": "서클, ’아크 메인넷’ 전격 출시…\"온체인 외환 거래소 꿈꾼다\" By Bloomingbit",
+          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2097148",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "비댁스 원화 스테이블코인 KRW1, 서클 ‘아크’ 메인넷 합류",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02496086645581104",
+          "source": "마켓인",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "서클 ‘금융 블록체인’ Arc 16일 출격…업비트 역할은?",
+          "url": "https://www.etoday.co.kr/news/view/2625839",
+          "source": "이투데이",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "노시환": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T08:12:00+09:00",
+      "lastSeen": "2026-09-17T08:12:00+09:00",
+      "news": [
+        {
+          "title": "‘캡틴 노’, 친구 왕옌청 향해 “가만히 놔두지 않을 것” 선전포고",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8665652",
+          "source": "KBS 뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "왕옌청이 자신 있는 노시환, \"제가 적시타 쳤을 걸요?\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757230&plink=ORI&cooper=ATOM",
+          "source": "SBS 뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "노시환의 유쾌한 경고 \"왕옌청, 한국 대표팀 상대하기 어려울 것\"",
+          "url": "https://www.ytn.co.kr/_ln/0107_202609162326363113",
+          "source": "YTN",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "schd": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T08:12:00+09:00",
+      "lastSeen": "2026-09-17T08:12:00+09:00",
+      "news": [
+        {
+          "title": "SCHD's 0.06% Fee Hides the Real Cost: March's 31% Reshuffle Sold Two Top-10 Holdings Out From Under Holders",
+          "url": "https://247wallst.com/investing/etf/2026/09/14/schds-0-06-fee-hides-the-real-cost-marchs-31-reshuffle-sold-two-top-10-holdings-out-from-under-holders/",
+          "source": "24/7 Wall St.",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "$10,000 Invested in SCHD a Decade Ago Would Be Worth This Much Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-invested-schd-decade-122500662.html",
+          "source": "Yahoo Finance",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "SCHD's Stunning Reversal: Schwab's Flagship Dividend ETF Is Up 29% and Climbing",
+          "url": "https://www.fool.com/investing/2026/09/13/schds-stunning-reversal-schwabs-flagship-dividend/",
+          "source": "The Motley Fool",
           "date": "2026-09-16"
         }
       ]
