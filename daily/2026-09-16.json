@@ -1723,10 +1723,10 @@
       ]
     },
     "학대": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T08:39:00+09:00",
-      "lastSeen": "2026-09-16T08:39:00+09:00",
+      "lastSeen": "2026-09-16T09:17:00+09:00",
       "news": [
         {
           "title": "학대 신고에도…천안 사망아동 몫 사회보장급여 점검 '전무'",
@@ -1749,10 +1749,10 @@
       ]
     },
     "구금": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-16T08:39:00+09:00",
-      "lastSeen": "2026-09-16T08:39:00+09:00",
+      "lastSeen": "2026-09-16T09:17:00+09:00",
       "news": [
         {
           "title": "'조지아 구금' 한국인 300여 명 손배 청구 시작",
@@ -1771,21 +1771,27 @@
           "url": "https://www.khan.co.kr/article/202609152204001",
           "source": "경향신문",
           "date": "2026-09-15"
+        },
+        {
+          "title": "‘조지아 구금’ 소송 맡은 한인 변호사…“미국 정부 잘못 기록으로 남겨야”",
+          "url": "https://www.hani.co.kr/arti/international/america/1278013.html",
+          "source": "한겨레",
+          "date": "2026-09-15"
         }
       ]
     },
     "klasemen elche vs real madrid": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T08:39:00+09:00",
-      "lastSeen": "2026-09-16T08:39:00+09:00",
+      "lastSeen": "2026-09-16T09:17:00+09:00",
       "news": []
     },
     "thứ hạng của elche gặp real madrid": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T08:39:00+09:00",
-      "lastSeen": "2026-09-16T08:39:00+09:00",
+      "lastSeen": "2026-09-16T09:17:00+09:00",
       "news": [
         {
           "title": "Video bóng đá Elche - Real Madrid: Rượt đuổi điên rồ, siêu dự bị định đoạt phút 90+1 (La Liga)",
@@ -1808,10 +1814,10 @@
       ]
     },
     "육군사관학교": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-16T08:39:00+09:00",
-      "lastSeen": "2026-09-16T08:39:00+09:00",
+      "lastSeen": "2026-09-16T09:17:00+09:00",
       "news": [
         {
           "title": "오늘 국방부 강신철, 국토부 홍지선 장관 후보자 인사청문회 개최",
@@ -1834,10 +1840,10 @@
       ]
     },
     "샌프란시스코 자이언츠": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-16T08:39:00+09:00",
-      "lastSeen": "2026-09-16T08:39:00+09:00",
+      "lastSeen": "2026-09-16T09:17:00+09:00",
       "news": [
         {
           "title": "'5타수 무안타→선발 제외' 이정후, 대타 출전→2타수 1안타…'WBC 한국 국가대표' 마무리, 시즌 37세이브 [SF 리뷰]",
@@ -1860,10 +1866,10 @@
       ]
     },
     "al ain fc vs al-nassr standings": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T08:39:00+09:00",
-      "lastSeen": "2026-09-16T08:39:00+09:00",
+      "lastSeen": "2026-09-16T09:17:00+09:00",
       "news": [
         {
           "title": "Al Nassr Crushed 4-0 by Al Ain in AFC Champions League",
@@ -1881,6 +1887,12 @@
           "title": "First comment from Postecoglou after Al-Nassr's defea…",
           "url": "https://www.ysscores.com/en/news/14047484/first-comment-from-postecoglou-after-al-nassrs-defeat-to-al-ain",
           "source": "YSscores",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Abdulghani drops a bombshell: Ronaldo is the reason behind Al-Nassr's disastrous deal!",
+          "url": "https://www.goal.com/en/news/abdelghani-drops-a-bombshell-ronaldo-is-the-reason-behind-al-nassr-s-disastrous-deal/blt0ba50563f554cb30",
+          "source": "Goal.com",
           "date": "2026-09-15"
         }
       ]
@@ -1940,6 +1952,84 @@
           "title": "\"40골 넣었잖아!\" 조제 모리뉴 레알 마드리드 감독 분노 폭발…킬리안 음바페→비니시우스 향한 야유 '정면 반박'",
           "url": "https://www.chosun.com/sports/world-football/2026/09/12/MM4DKOBWGFQTQZRWGEZDANDBMQ/",
           "source": "조선일보",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "베트남 축구 국가대표팀": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-16T09:17:00+09:00",
+      "lastSeen": "2026-09-16T09:17:00+09:00",
+      "news": [
+        {
+          "title": "김상식 없으니 약하네…베트남 축구, AG 첫 경기서 쿠웨이트에 졸전 끝 무승부 [나고야 AG]",
+          "url": "https://v.daum.net/v/20260915214007127",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "딘 박은 왜 일본에 있는데도 2020 아시안게임에 참가하는 베트남 U23 대표팀에 합류하지 않는 걸까요?",
+          "url": "https://www.vietnam.vn/ko/vi-sao-dinh-bac-dang-o-nhat-nhung-khong-hoi-quan-cung-u23-viet-nam-du-asiad-20",
+          "source": "Vietnam.vn",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "일본에 거주하는 베트남 교민들은 빗속에서도 베트남 U23 대표팀이 2026 아시안게임에서 8강에 진출할 것이라고 응원하고 있다.",
+          "url": "https://www.vietnam.vn/ko/doi-mua-co-vu-kieu-bao-nhat-ban-tin-u-23-viet-nam-vao-tu-ket-asiad-2026",
+          "source": "Vietnam.vn",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "중앙일보": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-16T09:17:00+09:00",
+      "lastSeen": "2026-09-16T09:17:00+09:00",
+      "news": [
+        {
+          "title": "尹 전용기 전화 받았다…“바보 같은 자식!” 장제원의 그 선택",
+          "url": "https://v.daum.net/v/20260916050213789",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "尹 전용기 전화 받았다…“바보 같은 자식!” 장제원의 그 선택",
+          "url": "https://www.joongang.co.kr/article/25461904",
+          "source": "중앙일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "“미친 거 아냐?” 기자실 뒤집혔다…尹 몰락 부른 8·15 사면 전말",
+          "url": "https://www.koreadaily.com/article/20260908130030588",
+          "source": "미주중앙일보",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "부모": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-16T09:17:00+09:00",
+      "lastSeen": "2026-09-16T09:17:00+09:00",
+      "news": [
+        {
+          "title": "“부모도 자식도, 이젠 웬수 같아요”…‘샌드위치’ 돌봄 중장년, 내 삶이 없다",
+          "url": "https://v.daum.net/v/20260916061514008",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "서울 중장년 삶의 질 가른 건 취업보다 ‘주거·소득·가구형태’",
+          "url": "https://www.khan.co.kr/article/202609151520001",
+          "source": "경향신���",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "서울 중장년 88%가 '돌봄 중'…48%는 부모·자녀 양쪽 '이중돌봄'",
+          "url": "https://www.yna.co.kr/view/AKR20260915079900004",
+          "source": "연합뉴스",
           "date": "2026-09-15"
         }
       ]
