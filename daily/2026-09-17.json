@@ -2,10 +2,10 @@
   "date": "2026-09-17",
   "keywords": {
     "중고": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:42:00+09:00",
+      "lastSeen": "2026-09-17T02:12:00+09:00",
       "news": [
         {
           "title": "\"다 먹고 남은 찹쌀떡 포장지가 5만원?\"…중고거래서 벌어진 황당한 꼼수",
@@ -24,14 +24,26 @@
           "url": "https://www.donga.com/news/Society/article/all/20260916/134679602/2",
           "source": "동아일보",
           "date": "2026-09-16"
+        },
+        {
+          "title": "\"다 먹고 남은 찹쌀떡 포장지가 5만원?\"…중고거래서 벌어진 황당한 꼼수",
+          "url": "https://www.asiae.co.kr/article/2026091620010828815",
+          "source": "아시아경제",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "“먹고 남은 포장지가 5만원”…���근마켓에 등장한 ‘한정선’ 뭐길래",
+          "url": "https://www.newsis.com/view/NISX20260911_0003785779",
+          "source": "뉴시스",
+          "date": "2026-09-16"
         }
       ]
     },
     "sk텔레콤": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:42:00+09:00",
+      "lastSeen": "2026-09-17T02:12:00+09:00",
       "news": [
         {
           "title": "부모님 병원 예약, 택시 호출 ‘척척’… SKT ‘모두의 AI’ 12월 첫선",
@@ -66,10 +78,10 @@
       ]
     },
     "서대구역": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:42:00+09:00",
+      "lastSeen": "2026-09-17T02:12:00+09:00",
       "news": [
         {
           "title": "서대구역 인근에 UAM 버티포트…\"미래 도심항공 주도권 선점\"",
@@ -98,10 +110,10 @@
       ]
     },
     "집단 감염": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:42:00+09:00",
+      "lastSeen": "2026-09-17T02:12:00+09:00",
       "news": [
         {
           "title": "강릉 정형외과 집단감염 ‘4명 사망’…병원장·간호조무사 3명 송치",
@@ -136,10 +148,10 @@
       ]
     },
     "abl바이오": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:42:00+09:00",
+      "lastSeen": "2026-09-17T02:12:00+09:00",
       "news": [
         {
           "title": "\"호재 발표전 미리 매수\"…K-바이오 잇단 구설수",
@@ -164,14 +176,20 @@
           "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447371",
           "source": "비즈니스포스트",
           "date": "2026-09-16"
+        },
+        {
+          "title": "에이비엘바이오 사태가 드러낸 허점…코스닥 바이오, 정보는 막지만 거래는 못 막아",
+          "url": "https://www.newspim.com/news/view/20260916000969",
+          "source": "뉴스핌",
+          "date": "2026-09-16"
         }
       ]
     },
     "kbs": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:42:00+09:00",
+      "lastSeen": "2026-09-17T02:12:00+09:00",
       "news": [
         {
           "title": "KBS Issues Official Response to Bereaved Family's Petition Over Stalker's Sister Starring in Drama",
@@ -194,10 +212,10 @@
       ]
     },
     "시어머니": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:42:00+09:00",
+      "lastSeen": "2026-09-17T02:12:00+09:00",
       "news": [
         {
           "title": "\"시어머니 못 들어오게 비밀번호 바꿨는데\"…남편이 몰래 한 행동",
@@ -220,10 +238,10 @@
       ]
     },
     "혈우병": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:42:00+09:00",
+      "lastSeen": "2026-09-17T02:12:00+09:00",
       "news": [
         {
           "title": "유리몸이군 아내, '혈우병' 알았지만...\"너무 멋져서 쫓아다녀\" (유퀴즈)",
@@ -252,10 +270,10 @@
       ]
     },
     "정해영": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T01:42:00+09:00",
+      "lastSeen": "2026-09-17T02:12:00+09:00",
       "news": [
         {
           "title": "정해영과 조상우는 정녕 이곳과 안 맞나요…개막전 악몽이 어제 같은데 마지막 경기까지 ‘악몽의 인천’[MD인천]",
@@ -316,10 +334,10 @@
       ]
     },
     "이스라엘": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T01:14:00+09:00",
-      "lastSeen": "2026-09-17T01:42:00+09:00",
+      "lastSeen": "2026-09-17T02:12:00+09:00",
       "news": [
         {
           "title": "폭격에 파손된 가자지구 아파트 붕괴…20명 사망·약 100명 매몰",
@@ -915,6 +933,18 @@
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15SnY4Y1ljZ0xsUGlQRUhrTmx5OG03MjlLZGRNYXVxVmNfS0VOeE5DMGMxZkQ0dkJ4OTdudC1LLUl3OEtWQjRueFBlUWV4UQ?oc=5",
         "source": "전자신문",
         "date": "2026-09-15"
+      },
+      {
+        "title": "미국이 AI 속도 늦추면 중국은 기다려준답니까?…빅테크 CEO들 설전",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16SHJCODNoYXp0NFJ4dVEwcGtWdjNhUEcxRXBGSjRfdzhIT2xWTUhaNlNaRUxrM3NJX2NWUi1RTzdxaW5LNUhHTk1LZE1Vdw?oc=5",
+        "source": "매일경제",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "인간 앞서는 지능, 행동 시작했다",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04UElMazZKVndWSS00V0Focll1ZWphR29tR3NDdzlmUHdIT0ZCQ1JJVTN1bllaVmhSRmZFN1ZOeEMzNGk3NnV1dk1rR2xTbU94Rk44cFZDNldiQ04xdGtXeVlYT0tQN03SAWxBVV95cUxNSHhWV0pNYnc3WTNFLTdMWHpuQ0pRU0stcVpnUnJMeFhzQnhXY3BvT09vdXNDSWRpRDY0Yktaa011M3l1MC1ldUZoc29fbjMxS3pnLVZsSVZRTVlDVmFxbjUyaWM3aEVzakk4aTU?oc=5",
+        "source": "kmib.co.kr",
+        "date": "2026-09-16"
       }
     ],
     "ENTERTAINMENT": [
