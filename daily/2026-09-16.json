@@ -4549,10 +4549,10 @@
       ]
     },
     "ssg 대 롯데": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-16T18:42:00+09:00",
-      "lastSeen": "2026-09-16T18:42:00+09:00",
+      "lastSeen": "2026-09-16T19:14:00+09:00",
       "news": [
         {
           "title": "[AI프리뷰] 16일 부산 롯데-SSG전, 비슬리 롯데 연패 끊고 10승 챙기나",
@@ -4726,6 +4726,240 @@
           "title": "삼전닉스 급락시킨 샘 올트먼 이틀만에 돌변…“이번주에 큰거 온다”",
           "url": "https://www.mk.co.kr/news/it/12154180",
           "source": "매일경제",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "예금": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "news": [
+        {
+          "title": "예금금리 오른다는데…어느 은행에 돈 맡길까",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04372246645580120&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"다시 예금에 월급 넣어요\"…은행으로 '역 머니무브'",
+          "url": "https://v.daum.net/v/20260916181332061",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "“대출금리 확 오르는데 예금은 찔끔” 재테크족 불만",
+          "url": "https://www.donga.com/news/Economy/article/all/20260914/134667417/2?gid=134667457&srev=1&regdate=20260914",
+          "source": "동아일보",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "대한민국의 법무부 장관": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "news": [
+        {
+          "title": "\"김승원 낙마 사유 없어\" vs\"3류 저질 신파극\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202609161345435MH",
+          "source": "연합뉴스TV",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"역량 갖춘 적임자\" vs \"임명 강행시 거리로\"",
+          "url": "https://v.daum.net/v/20260916182532400",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "법사위에서 의사봉 ���드리는 서영교 법사위원장",
+          "url": "https://mobile.newsis.com/photo/NISI20260916_0021440555",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "대학수학능력시험": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "news": [
+        {
+          "title": "벌어지는 수능성적 지역 격차…대도시-읍면 국어·수학 격차 확대",
+          "url": "https://v.daum.net/v/20260916162441771",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "N수생 수능 강세… 국·영·수 모두 재학생 제쳐 - 조선비즈",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/09/16/63TU2E6ZE5AFBIBGYYYWSIY2IU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "작년 수능도 'N수생' 강세���국수 평균 고3보다 12∼13점 높아",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008756073",
+          "source": "SBS 뉴스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "환율": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "news": [
+        {
+          "title": "고유가·미 국채금리 급등에…환율 1,370원대 터치(종합)",
+          "url": "https://v.daum.net/v/20260916160552698",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[특징주] 원화 강세에 K-푸드 관련주 약세 마감(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260916043351008",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "FOMC 바라보는 서울환시의 복잡한 심경…'매의 발톱' 나올까",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435136",
+          "source": "연합인포맥스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "군용기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "news": [
+        {
+          "title": "\"광주기지 임시 분산으로 조종사 양성 제한‥모의훈련장비로 보완\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6852164_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "충북환경운동연대 \"광주 군공항 군용기 일방 이전 중단하라\"",
+          "url": "https://www.news1.kr/local/sejong-chungbuk/6292732",
+          "source": "뉴스1",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[노트북을 열며] 하늘엔 전투기, 산엔 송전탑��왜 또 예천인가",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4084089",
+          "source": "경북일보",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "중산층": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "news": [
+        {
+          "title": "절반이 중산층이라더니…은퇴 후에도 버틸 '진짜 중산층' 25% 뿐",
+          "url": "https://www.hankyung.com/article/202609168416i",
+          "source": "한국경제",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"진짜 중산층, 월 631만원 벌고 319만원 쓴다…소득 10% 이상 저축\"",
+          "url": "https://www.newsis.com/view/NISX20260916_0003792404",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "NH투자증권, '진짜 중산층' ��준 담은 리포트 발간",
+          "url": "https://www.newspim.com/news/view/20260916000193",
+          "source": "뉴스핌",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "시진핑": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "news": [
+        {
+          "title": "\"젠슨 황, 내주 시진핑 방미 국빈만찬에 참석\"",
+          "url": "https://www.yna.co.kr/view/AKR20260916092800009",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[美·中 100일의 외교전] 4개월 만에 다시 마주앉는 트럼프·시진핑, 전 세계가 숨죽인다",
+          "url": "https://v.daum.net/v/20260916173319308",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "“닉슨과 마오쩌둥 같은 돌파구?…기대 말라”-FA",
+          "url": "https://www.newsis.com/view/NISX20260916_0003792199",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "삼성 대 두산": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "news": [
+        {
+          "title": "[사진]센세베리노 '선제 2타점 2루타' - 조선비즈",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/09/16/HFSGKOLDHBRDGNDDMI4TON3GMM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "제대로 걸리면…'총알탄 사나이' 세베리노, KBO 적응 속도 낸다",
+          "url": "https://sports.news.nate.com/view/20260910n38844",
+          "source": "네이트",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "벤자민, 23일 만의 복귀전 4이닝 무실점…두산 AG 공백에 단비",
+          "url": "https://www.yna.co.kr/view/AKR20260911023000007",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "ตรวจหวย": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-16T19:14:00+09:00",
+      "lastSeen": "2026-09-16T19:14:00+09:00",
+      "news": [
+        {
+          "title": "รางวัลที่ 1 อยู่วัดเดิมบาง เฮลั่นชีวิตพลิกข้ามคืน รวย 12 ล้าน คนแห่คอมเมนต์ยินดีด้วยเพียบ",
+          "url": "https://www.khaosod.co.th/lottery/news_10401155",
+          "source": "ข่าวสด",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "ผลการออกสลากกินแบ่งรัฐบาล งวดประจำวันที่ 16 กันยายน 2569 #สลากกินแบ่งรัฐบาล #FM91",
+          "url": "https://www.facebook.com/fm91trafficpro/posts/%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5-%E0%B8%87%E0%B8%A7%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-16-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%99-2569%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5-fm91/1554876053338668/",
+          "source": "Facebook",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "เลขเด็ด พญาบึ้ง กบินทร์บุรี งวด 16/9/69 คอหวยเข้าป่ากลางดึก หย่อนกระดาษได้ 59 80",
+          "url": "https://thethaiger.com/th/news/1609018/",
+          "source": "Thaiger",
           "date": "2026-09-16"
         }
       ]
