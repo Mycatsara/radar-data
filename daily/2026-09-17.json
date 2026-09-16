@@ -2,10 +2,10 @@
   "date": "2026-09-17",
   "keywords": {
     "중고": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:12:00+09:00",
+      "lastSeen": "2026-09-17T02:41:00+09:00",
       "news": [
         {
           "title": "\"다 먹고 남은 찹쌀떡 포장지가 5만원?\"…중고거래서 벌어진 황당한 꼼수",
@@ -40,10 +40,10 @@
       ]
     },
     "sk텔레콤": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:12:00+09:00",
+      "lastSeen": "2026-09-17T02:41:00+09:00",
       "news": [
         {
           "title": "부모님 병원 예약, 택시 호출 ‘척척’… SKT ‘모두의 AI’ 12월 첫선",
@@ -78,10 +78,10 @@
       ]
     },
     "서대구역": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:12:00+09:00",
+      "lastSeen": "2026-09-17T02:41:00+09:00",
       "news": [
         {
           "title": "서대구역 인근에 UAM 버티포트…\"미래 도심항공 주도권 선점\"",
@@ -110,10 +110,10 @@
       ]
     },
     "집단 감염": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:12:00+09:00",
+      "lastSeen": "2026-09-17T02:41:00+09:00",
       "news": [
         {
           "title": "강릉 정형외과 집단감염 ‘4명 사망’…병원장·간호조무사 3명 송치",
@@ -148,10 +148,10 @@
       ]
     },
     "abl바이오": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:12:00+09:00",
+      "lastSeen": "2026-09-17T02:41:00+09:00",
       "news": [
         {
           "title": "\"호재 발표전 미리 매수\"…K-바이오 잇단 구설수",
@@ -186,10 +186,10 @@
       ]
     },
     "kbs": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:12:00+09:00",
+      "lastSeen": "2026-09-17T02:41:00+09:00",
       "news": [
         {
           "title": "KBS Issues Official Response to Bereaved Family's Petition Over Stalker's Sister Starring in Drama",
@@ -212,10 +212,10 @@
       ]
     },
     "시어머니": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:12:00+09:00",
+      "lastSeen": "2026-09-17T02:41:00+09:00",
       "news": [
         {
           "title": "\"시어머니 못 들어오게 비밀번호 바꿨는데\"…남편이 몰래 한 행동",
@@ -238,10 +238,10 @@
       ]
     },
     "혈우병": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T00:13:00+09:00",
-      "lastSeen": "2026-09-17T02:12:00+09:00",
+      "lastSeen": "2026-09-17T02:41:00+09:00",
       "news": [
         {
           "title": "유리몸이군 아내, '혈우병' 알았지만...\"너무 멋져서 쫓아다녀\" (유퀴즈)",
@@ -264,6 +264,12 @@
         {
           "title": "혈우병 여행유튜버…'유리몸이군' 이견우 \"평균 기대 수명 20세, 내 삶은 보너스\"",
           "url": "https://v.daum.net/v/20260916110927947",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "혈우병 여행유튜버…'유리몸이군' 이견우 \"평균 기대 수명 20세, 내 삶은 보너스\"",
+          "url": "https://v.daum.net/v/20260916110927947?f=p",
           "source": "Daum",
           "date": "2026-09-16"
         }
@@ -334,10 +340,10 @@
       ]
     },
     "이스라엘": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T01:14:00+09:00",
-      "lastSeen": "2026-09-17T02:12:00+09:00",
+      "lastSeen": "2026-09-17T02:41:00+09:00",
       "news": [
         {
           "title": "폭격에 파손된 가자지구 아파트 붕괴…20명 사망·약 100명 매몰",
@@ -354,6 +360,44 @@
         {
           "title": "이 군 또 가자지구 폭격, 민간인 살해 \"하��스 척결\"주장",
           "url": "https://www.newsis.com/view/NISX20260916_0003791336",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "트럼프, 이스라엘에 3조 원대 항공폭탄 판매 승인 강행",
+          "url": "https://v.daum.net/v/20260916140601871",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "트럼프, 이스라엘에 ‘민간인 살상 폭탄’ 또 보낸다···“세금으로 전범 국가에 무기 보내나” 비판",
+          "url": "https://www.khan.co.kr/article/202609161522001",
+          "source": "경향신문",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "아틀레티코 대 오사수나": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-17T02:41:00+09:00",
+      "lastSeen": "2026-09-17T02:41:00+09:00",
+      "news": [
+        {
+          "title": "\"이강인 공 너무 오래 소유\" 스페인 매체 지적에 '日 동감'…\"ATM 7번 될 수 있나, 현대축구와 안 맞아\" 지적",
+          "url": "https://v.daum.net/v/20260916205951040",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "소시에다드전 부진에도 흔들리지 않은 신뢰...이강인, 공식전 6경기 연속 선발 '입지 굳혔다' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/17/202609170147773795O",
+          "source": "머니투데이",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "이강인, 모레노호 합류 전 골 폭죽 쏠까…내일 오사수나 상대",
+          "url": "https://www.newsis.com/view/NISX20260915_0003790741",
           "source": "뉴시스",
           "date": "2026-09-16"
         }
@@ -945,6 +989,12 @@
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04UElMazZKVndWSS00V0Focll1ZWphR29tR3NDdzlmUHdIT0ZCQ1JJVTN1bllaVmhSRmZFN1ZOeEMzNGk3NnV1dk1rR2xTbU94Rk44cFZDNldiQ04xdGtXeVlYT0tQN03SAWxBVV95cUxNSHhWV0pNYnc3WTNFLTdMWHpuQ0pRU0stcVpnUnJMeFhzQnhXY3BvT09vdXNDSWRpRDY0Yktaa011M3l1MC1ldUZoc29fbjMxS3pnLVZsSVZRTVlDVmFxbjUyaWM3aEVzakk4aTU?oc=5",
         "source": "kmib.co.kr",
         "date": "2026-09-16"
+      },
+      {
+        "title": "[뉴스 저격] 13년 걸린다던 ‘인공 태양’ 30년으로… 한국 부담 3조원으로 4배 늘었다",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPckxQZWxnVU9NcEtDOXMwLTcxZFBjMk5KeWtabjAzOXpuU01GbFhfQnBTeE0zVjN6TlA0TnV2ei1NeW5XNFFmdTR2dVUyWlk?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-15"
       }
     ],
     "ENTERTAINMENT": [
