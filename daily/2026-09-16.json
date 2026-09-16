@@ -5117,10 +5117,10 @@
       ]
     },
     "지효": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-16T20:13:00+09:00",
-      "lastSeen": "2026-09-16T20:13:00+09:00",
+      "lastSeen": "2026-09-16T20:42:00+09:00",
       "news": [
         {
           "title": "트와이스 지효, 워터밤 '노출 공식' 깼다…청바지 입고 \"무거웠지만 내 선택\"",
@@ -5139,14 +5139,26 @@
           "url": "https://mydaily.co.kr/page/view/2026091416565816094",
           "source": "마이데일리",
           "date": "2026-09-16"
+        },
+        {
+          "title": "워터밤 노출 관행 깬 지효, 청바지 선택 \"무거웠지만 내 선택\"",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/09/16/Y2LVXEW53RBCDCBXIL3UYVNS7U/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "빅뱅 지드래곤x태양, 독보적인 아우라로 입국장 시선 강탈 [포토엔HD]",
+          "url": "https://www.newsen.com/mobile/news_view.php?uid=202609131835411510",
+          "source": "뉴스엔",
+          "date": "2026-09-16"
         }
       ]
     },
     "로컬 푸드": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-16T20:13:00+09:00",
-      "lastSeen": "2026-09-16T20:13:00+09:00",
+      "lastSeen": "2026-09-16T20:42:00+09:00",
       "news": [
         {
           "title": "파주로컬푸드복합센터, 17일 임시개장...지역 로컬푸드 거점될 것",
@@ -5169,10 +5181,10 @@
       ]
     },
     "아시안게임 야구": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-16T20:13:00+09:00",
-      "lastSeen": "2026-09-16T20:13:00+09:00",
+      "lastSeen": "2026-09-16T20:42:00+09:00",
       "news": [
         {
           "title": "‘김도영 이상무’ 한국 야구, 5회 연속 금메달 도전 출발!",
@@ -5195,10 +5207,10 @@
       ]
     },
     "워터밤": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-16T20:13:00+09:00",
-      "lastSeen": "2026-09-16T20:13:00+09:00",
+      "lastSeen": "2026-09-16T20:42:00+09:00",
       "news": [
         {
           "title": "'타짜4' 노재원, 첫 상업영화 주연 도전 \"설렘보다 불안함 먼저\"",
@@ -5221,10 +5233,10 @@
       ]
     },
     "이상화": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T20:13:00+09:00",
-      "lastSeen": "2026-09-16T20:13:00+09:00",
+      "lastSeen": "2026-09-16T20:42:00+09:00",
       "news": [
         {
           "title": "이상화, 남편 강남 포켓몬 카드 감정가 '2억'에 '동공 지진'…\"돈 주고 산 것?\"",
@@ -5247,10 +5259,10 @@
       ]
     },
     "kfa": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-16T20:13:00+09:00",
-      "lastSeen": "2026-09-16T20:13:00+09:00",
+      "lastSeen": "2026-09-16T20:42:00+09:00",
       "news": [
         {
           "title": "Korea Football Association Gifts Uruguay Match to Special Fans",
@@ -5267,10 +5279,10 @@
       ]
     },
     "버거킹": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-16T20:13:00+09:00",
-      "lastSeen": "2026-09-16T20:13:00+09:00",
+      "lastSeen": "2026-09-16T20:42:00+09:00",
       "news": [
         {
           "title": "가을마다 돌아오는 '트머와'⋯버거킹, 올해는 5종으로 확대",
@@ -5347,6 +5359,84 @@
           "title": "인종과 언어를 초월하는 ���구! 서울-인도네시아 반둥 팬들의 뜻깊은 만남···“축구로 공감대 형성해 문화 교류까지 이뤄” [이근승의 믹스트존]",
           "url": "https://www.mk.co.kr/news/sports/12154627",
           "source": "매일경제",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "놀면 뭐하니?": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-16T20:42:00+09:00",
+      "lastSeen": "2026-09-16T20:42:00+09:00",
+      "news": [
+        {
+          "title": "유재석 없이 또 떠난다..'놀뭐' 하하·허경환·주우재, 스핀오프 '무슨 난리고' [단독]",
+          "url": "https://v.daum.net/v/20260916160208439",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"인사성 없고 무례해\" 장항준 발언에 심정 고백…정준원 \"연락 NO, 문제 안 돼\" ('유부녀')[인터뷰]",
+          "url": "https://v.daum.net/v/20260916070109708",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[SC인터뷰]\"굳이 숨을 필요 없어\"…정준원, '놀뭐' 태도 논란 딛고 '유부녀 킬러'로 증명(종합)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/16/GNTGEYJZGYZTQY3DMUYDSNBRMQ/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "소방": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T20:42:00+09:00",
+      "lastSeen": "2026-09-16T20:42:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 화성 자원순환시설 화재 대응 2단계 발령",
+          "url": "https://v.daum.net/v/20260916143554260",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "경기 화성시 자원순환시설에서 불...대응 2단계 발령",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609161545340737",
+          "source": "YTN",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "화성 야산 산불, 1시간30분 만 진화…인명피해 없어",
+          "url": "https://www.newsis.com/view/NISX20260916_0003791923",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "acl two": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T20:42:00+09:00",
+      "lastSeen": "2026-09-16T20:42:00+09:00",
+      "news": [
+        {
+          "title": "Treble-collecting Mark Jackson ready to take Lion City Sailors to the next level",
+          "url": "https://www.espn.com/soccer/story/_/id/49955772/treble-collecting-mark-jackson-ready-take-lion-city-sailors-next-level",
+          "source": "ESPN",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "ACL Two: New era, same fire as Sailors aim to lay down marker against BG Pathum",
+          "url": "https://www.lioncitysailorsfc.sg/acl-two-new-era-same-fire-as-sailors-aim-to-lay-down-marker-against-bg-pathum/",
+          "source": "Lion City Sailors FC - Official Website",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Lion City Sailors appoint AFC Cup, Asean Club C’ship-winning tactician Mark Jackson as coach",
+          "url": "https://www.straitstimes.com/sport/football/lion-city-sailors-appoint-afc-cup-asean-club-cship-winning-tactician-mark-jackson-as-coach",
+          "source": "The Straits Times",
           "date": "2026-09-16"
         }
       ]
