@@ -636,10 +636,10 @@
       ]
     },
     "แมนยู พบ ไบรตัน": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T05:41:00+09:00",
-      "lastSeen": "2026-09-17T06:13:00+09:00",
+      "lastSeen": "2026-09-17T06:41:00+09:00",
       "news": [
         {
           "title": "โปรแกรมการแข่งขันฟุตบอลลีกคัพอังกฤษล่าสุด: แมนเชสเตอร์ ยูไนเต็ด และ แมนเชสเตอร์ ซิตี้ จะลงสนามแข่งขัน",
@@ -658,14 +658,20 @@
           "url": "https://www.thansettakij.com/sport/669099",
           "source": "Thansettakij",
           "date": "2026-09-16"
+        },
+        {
+          "title": "แมนฯ ยูไนเต็ดตกรอบ คาราบาว คัพ ทั้งที่ขึ้นนำ 2 ประตู แต่เจอไ���รตันรัวแซงคว้าชัย",
+          "url": "https://today.line.me/th/v3/article/JPnx33k",
+          "source": "LINE TODAY",
+          "date": "2026-09-16"
         }
       ]
     },
     "김구라": {
-      "count": 2,
-      "maxTraffic": 5000,
+      "count": 3,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-17T05:41:00+09:00",
-      "lastSeen": "2026-09-17T06:13:00+09:00",
+      "lastSeen": "2026-09-17T06:41:00+09:00",
       "news": [
         {
           "title": "김구라 \"문중 땅 40만평...자손 많지 않아 희망\" - 머니투데이",
@@ -684,14 +690,26 @@
           "url": "https://www.newsis.com/view/NISX20260914_0003788366",
           "source": "뉴시스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "김구라, 은퇴 시기 언급…\"목표는 60세, 죽을 때까지 일 할 수 없어\"",
+          "url": "https://www.newsis.com/view/NISX20260916_0003792809",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "김구라, 결국 방송 은퇴 선언?...\"내 목표는 60세, 죽을 때까지 일할 순 없어\" ('조회련')",
+          "url": "https://v.daum.net/v/20260916191804707",
+          "source": "Daum",
+          "date": "2026-09-16"
         }
       ]
     },
     "man utd vs brighton": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-17T05:41:00+09:00",
-      "lastSeen": "2026-09-17T06:13:00+09:00",
+      "lastSeen": "2026-09-17T06:41:00+09:00",
       "news": [
         {
           "title": "Manchester United vs Brighton & Hove Albion: League Cup stats & head-to-head",
@@ -709,6 +727,18 @@
           "title": "Fabian Hurzeler says he knows what to expect from Michael Carrick's Man Utd",
           "url": "https://metro.co.uk/2026/09/15/fabian-hurzeler-says-knows-expect-michael-carricks-man-utd-29614121/",
           "source": "Metro.co.uk",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "EFL Cup LIVE: Text commentary from four games in the third round - score, team news & match stats",
+          "url": "https://www.bbc.com/sport/football/live/cj3v4we7q2x2t",
+          "source": "BBC",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Manchester United Collapse 2-3 to Brighton, Exit Carabao Cup",
+          "url": "https://www.chosun.com/english/sports-en/2026/09/17/5PKCHT3DBFHCDH3BM7SX4WTXZE/",
+          "source": "조선일보",
           "date": "2026-09-16"
         }
       ]
@@ -798,10 +828,10 @@
       ]
     },
     "barcelona vs racing santander": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-17T06:13:00+09:00",
-      "lastSeen": "2026-09-17T06:13:00+09:00",
+      "lastSeen": "2026-09-17T06:41:00+09:00",
       "news": [
         {
           "title": "Joao Cancelo metió dos golazos para Barcelona ante Racing de Santander",
@@ -820,14 +850,26 @@
           "url": "https://www.infobae.com/america/agencias/2026/09/16/cuatro-cambios-en-el-barcelona-el-racing-apuesta-por-arana-y-villalibre-en-ataque/",
           "source": "Infobae",
           "date": "2026-09-16"
+        },
+        {
+          "title": "Raphinha marcó para Barcelona y lleva 7 goles en 6 partidos de La Liga",
+          "url": "https://es-us.noticias.yahoo.com/deportes/raphinha-marc%C3%B3-barcelona-7-goles-201000999.html",
+          "source": "Yahoo",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Barça-Racing: Cancelo da la campanada en el amanecer",
+          "url": "https://onefootball.com/es/noticias/barca-racing-cancelo-da-la-campanada-en-el-amanecer-43472792",
+          "source": "OneFootball",
+          "date": "2026-09-16"
         }
       ]
     },
     "김지민": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T06:13:00+09:00",
-      "lastSeen": "2026-09-17T06:13:00+09:00",
+      "lastSeen": "2026-09-17T06:41:00+09:00",
       "news": [
         {
           "title": "'김준호 아내 41세 예비맘' 김지민, 임신 19주 차에 뽐낸 D라인 \"5㎏ 쪄\" [N샷]",
@@ -846,14 +888,20 @@
           "url": "https://www.hankookilbo.com/news/article/A2026091611370001263",
           "source": "한국일보",
           "date": "2026-09-16"
+        },
+        {
+          "title": "‘2월 출산’ 김지민, 임신준비부터 금주했더니 이런 변화가? “흰자 위가 하얘진다”[핫피플]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/16/GZSTAYRVGJRDKNLEGMYWEYLCGY/",
+          "source": "조선일보",
+          "date": "2026-09-16"
         }
       ]
     },
     "hd현대": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T06:13:00+09:00",
-      "lastSeen": "2026-09-17T06:13:00+09:00",
+      "lastSeen": "2026-09-17T06:41:00+09:00",
       "news": [
         {
           "title": "KR, HD현대중공업 ‘50K LPG 운반선’ 개념승인 수여",
@@ -876,10 +924,10 @@
       ]
     },
     "정준원": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-17T06:13:00+09:00",
-      "lastSeen": "2026-09-17T06:13:00+09:00",
+      "lastSeen": "2026-09-17T06:41:00+09:00",
       "news": [
         {
           "title": "\"인사성 없고 무례해\" 장항준 발언에 심정 고백…정준원 \"연락 NO, 문제 안 돼\" ('유부녀')[인터뷰]",
@@ -897,6 +945,90 @@
           "title": "[TF인터뷰] '유부녀 킬러' 정준원, 두 번의 파도 넘어 더 단단하게",
           "url": "https://news.tf.co.kr/read/entertain/2366854.htm",
           "source": "더팩트",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "“잘해야겠단 마음 앞섰다”…‘태도 논란’ 정준원, 연기로 답했다 [인터뷰]",
+          "url": "https://biz.heraldcorp.com/article/10874588",
+          "source": "헤럴드경제",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "농심": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T06:41:00+09:00",
+      "lastSeen": "2026-09-17T06:41:00+09:00",
+      "news": [
+        {
+          "title": "‘평범한 사람인줄…’ 농심 3세와 결혼한 신부, 알고보니 문유석 판사 자제",
+          "url": "https://www.munhwa.com/article/11616932",
+          "source": "문화일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "‘농심 3세’ 며느리 된 SKT 평사원…‘판사유감’ 문유석 작가 딸이었다",
+          "url": "https://v.daum.net/v/4OXkOfztTz",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "경영보폭 넓히는 농심3세 신상열… 신사업 성과가 승계 시험대",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260915010005351",
+          "source": "아시아투데이",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "밀란 대 벤피카": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T06:41:00+09:00",
+      "lastSeen": "2026-09-17T06:41:00+09:00",
+      "news": [
+        {
+          "title": "손흥민의 토트넘에 막혀 놓친 유로파리그 우승… 아모림 감독, AC 밀란에서는 \"목표는 당연히 우승\"",
+          "url": "https://v.daum.net/v/Qb87rlwayp",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "AC 밀란 vs 벤피카 예측: 좋은 컨디션을 유지하고 있는 두 팀의 맞대결.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-ac-milan-vs-benfica-man-so-tai-cua-hai-doi-vao-phom",
+          "source": "Vietnam.vn",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "유로파 리그 AC 밀란 대 벤피카 축구 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-ac-milan-vs-benfica-tai-europa-league-1767733.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "후티": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T06:41:00+09:00",
+      "lastSeen": "2026-09-17T06:41:00+09:00",
+      "news": [
+        {
+          "title": "\"후티, 홍해 요충지 장악 후 美와 비밀회동…美 선박 안전 약속\"",
+          "url": "https://www.yna.co.kr/view/AKR20260916183400079",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"사우디 동서 송유관 일부 파손…복구 불투명\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260917052622MNx",
+          "source": "연합뉴스TV",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[횡설수설/김준일]사우디는 왜?",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260916/134684657/2",
+          "source": "동아일보",
           "date": "2026-09-16"
         }
       ]
