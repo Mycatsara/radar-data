@@ -1723,10 +1723,10 @@
       ]
     },
     "학대": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-16T08:39:00+09:00",
-      "lastSeen": "2026-09-16T09:45:00+09:00",
+      "lastSeen": "2026-09-16T10:12:00+09:00",
       "news": [
         {
           "title": "학대 신고에도…천안 사망아동 몫 사회보장급여 점검 '전무'",
@@ -1832,10 +1832,10 @@
       ]
     },
     "육군사관학교": {
-      "count": 3,
-      "maxTraffic": 200,
+      "count": 4,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-16T08:39:00+09:00",
-      "lastSeen": "2026-09-16T09:45:00+09:00",
+      "lastSeen": "2026-09-16T10:12:00+09:00",
       "news": [
         {
           "title": "오늘 국방부 강신철, 국토부 홍지선 장관 후보자 인사청문회 개최",
@@ -2019,10 +2019,10 @@
       ]
     },
     "중앙일보": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-16T09:17:00+09:00",
-      "lastSeen": "2026-09-16T09:45:00+09:00",
+      "lastSeen": "2026-09-16T10:12:00+09:00",
       "news": [
         {
           "title": "尹 전용기 전화 받았다…“바보 같은 자식!” 장제원의 그 선택",
@@ -2041,14 +2041,26 @@
           "url": "https://www.koreadaily.com/article/20260908130030588",
           "source": "미주중앙일보",
           "date": "2026-09-15"
+        },
+        {
+          "title": "코로나 지원금 사기 의심 87만 명, 연방 대출 못 받는다",
+          "url": "https://www.koreadaily.com/article/20260915164530009",
+          "source": "미주중앙일보",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "밴스 “코로나 대출 부정수급 87만명, SBA 대출서 영구 배제”…사기 단속 강화",
+          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=393033",
+          "source": "파이낸스투데이",
+          "date": "2026-09-15"
         }
       ]
     },
     "부모": {
-      "count": 2,
-      "maxTraffic": 2000,
+      "count": 3,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-16T09:17:00+09:00",
-      "lastSeen": "2026-09-16T09:45:00+09:00",
+      "lastSeen": "2026-09-16T10:12:00+09:00",
       "news": [
         {
           "title": "“부모도 자식도, 이젠 웬수 같아요”…‘샌드위치’ 돌봄 중장년, 내 삶이 없다",
@@ -2077,10 +2089,10 @@
       ]
     },
     "장신영": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-16T09:45:00+09:00",
-      "lastSeen": "2026-09-16T09:45:00+09:00",
+      "lastSeen": "2026-09-16T10:12:00+09:00",
       "news": [
         {
           "title": "♥강경준이 찍어줬나..장신영, 여행 중 미소가 끊이질 않네",
@@ -2103,10 +2115,10 @@
       ]
     },
     "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-16T09:45:00+09:00",
-      "lastSeen": "2026-09-16T09:45:00+09:00",
+      "lastSeen": "2026-09-16T10:12:00+09:00",
       "news": [
         {
           "title": "공포·탐욕지수 51…하루 만에 18포인트(26.1%) 하락",
@@ -2150,6 +2162,91 @@
           "title": "'나는 솔로' 28기 현숙ㆍ영식 결별설 진짜였다⋯\"아이들 정들기 전에\"",
           "url": "https://www.etoday.co.kr/news/view/2626081?trc=main_list_news",
           "source": "이투데이",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "베트남 축구 국가 대표팀": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-16T10:12:00+09:00",
+      "lastSeen": "2026-09-16T10:12:00+09:00",
+      "news": [
+        {
+          "title": "김상식 없으니 약하네…베트남 축구, AG 첫 경기서 쿠웨이트에 졸전 끝 무승부 [나고야 AG]",
+          "url": "https://v.daum.net/v/20260915214007127",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "딘 박은 왜 일본에 있는데도 2020 아시안게임에 참가하는 베트남 U23 대표팀에 합류하지 않는 걸까요?",
+          "url": "https://www.vietnam.vn/ko/vi-sao-dinh-bac-dang-o-nhat-nhung-khong-hoi-quan-cung-u23-viet-nam-du-asiad-20",
+          "source": "Vietnam.vn",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'27슈팅'도 무용지물…김상식 부재, 베트남 AG 8강 '빨간불' 왜? : 스포츠",
+          "url": "https://news.jkn.co.kr/post/987227",
+          "source": "재경일보",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "브레이브스 대 컵스": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-16T10:12:00+09:00",
+      "lastSeen": "2026-09-16T10:12:00+09:00",
+      "news": [
+        {
+          "title": "'7타수 무안타' 김하성 대타 교체→홈런 폭발…작전은 맞았지만, 타격감 또 빨간불 3G 연속 무안타에 타율 0.126 하락",
+          "url": "https://v.daum.net/v/YSHtYae4CR",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "애틀랜타 김하성, 2타수 무안타…타율 0.126↓",
+          "url": "https://www.yna.co.kr/view/AKR20260915086600007",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"28홈런-60도루 그 김하성 맞아? 믿기 어렵다\" 美 매체도 경악한 '2000만 달러→OPS .365' 추락…\"내년 ML 계약 장담 못해\"",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/15/HA4DAZJQMY4TONTFGJSTMNDGGA/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "맞춤형복지": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-16T10:12:00+09:00",
+      "lastSeen": "2026-09-16T10:12:00+09:00",
+      "news": []
+    },
+    "마취": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-16T10:12:00+09:00",
+      "lastSeen": "2026-09-16T10:12:00+09:00",
+      "news": [
+        {
+          "title": "[단독] ‘15분 시술’ 눈 떠보니 9시간 지나 있었다…마취 뒤 ‘삐뚤빼뚤 서명’ / 풀버전",
+          "url": "https://news.jtbc.co.kr/article/NB12318508",
+          "source": "JTBC",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "[단독] 마취 후 '삐뚤빼뚤 서명'…병원은 \"시술 동의한 증거\"",
+          "url": "https://v.daum.net/v/20260915200304227",
+          "source": "Daum",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'15분 시술'이었는데 눈 떠보니 새벽 2시, 진료비는 1640만원",
+          "url": "https://www.wikitree.co.kr/articles/1159808",
+          "source": "위키트리",
           "date": "2026-09-15"
         }
       ]
