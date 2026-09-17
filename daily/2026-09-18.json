@@ -2,10 +2,10 @@
   "date": "2026-09-18",
   "keywords": {
     "what is a data breach": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T01:14:00+09:00",
+      "lastSeen": "2026-09-18T01:41:00+09:00",
       "news": [
         {
           "title": "Hackers demand Revolut pay $3mn ransom after data breach",
@@ -28,10 +28,10 @@
       ]
     },
     "황유민": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T01:14:00+09:00",
+      "lastSeen": "2026-09-18T01:41:00+09:00",
       "news": [
         {
           "title": "아시안게임 출전 양윤서, KLPGA 하나금융 대회 1R서 이븐파 선전",
@@ -60,10 +60,10 @@
       ]
     },
     "지진희": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T01:14:00+09:00",
+      "lastSeen": "2026-09-18T01:41:00+09:00",
       "news": [
         {
           "title": "염정아, 20년지기 남사친 등장에 기절초풍…“결혼식 사회도 봐” (산지직송3)",
@@ -86,10 +86,10 @@
       ]
     },
     "로맥": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T01:14:00+09:00",
+      "lastSeen": "2026-09-18T01:41:00+09:00",
       "news": [
         {
           "title": "‘어서와 한국은’ 제이미 로맥, 문학경기장→치맥 맛집",
@@ -108,14 +108,20 @@
           "url": "https://www.newsinstar.com/news/article.html?no=83927",
           "source": "뉴스인스타",
           "date": "2026-09-17"
+        },
+        {
+          "title": "‘SSG 레전드’ 제이미 로맥, 5년 만에 랜더스 필드 방문...뭉클한 韓여행",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=766515",
+          "source": "싱글리스트",
+          "date": "2026-09-17"
         }
       ]
     },
     "웨이모": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T01:14:00+09:00",
+      "lastSeen": "2026-09-18T01:41:00+09:00",
       "news": [
         {
           "title": "美 웨이모는 도쿄·中바이두는 런던…韓 자율주행 어디까지 왔나",
@@ -280,10 +286,10 @@
       ]
     },
     "특공무술": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-18T00:41:00+09:00",
-      "lastSeen": "2026-09-18T01:14:00+09:00",
+      "lastSeen": "2026-09-18T01:41:00+09:00",
       "news": [
         {
           "title": "특공무술 겨루기 심사 중 쓰러진 특전사 숨져…장기기증 결정",
@@ -312,10 +318,10 @@
       ]
     },
     "안선영": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T00:41:00+09:00",
-      "lastSeen": "2026-09-18T01:14:00+09:00",
+      "lastSeen": "2026-09-18T01:41:00+09:00",
       "news": [
         {
           "title": "안선영, 子 유학 따라간 캐나다서 '대재앙'..\"연예인 여기서 아무 쓸모 없어\"",
@@ -344,10 +350,10 @@
       ]
     },
     "전제완": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T00:41:00+09:00",
-      "lastSeen": "2026-09-18T01:14:00+09:00",
+      "lastSeen": "2026-09-18T01:41:00+09:00",
       "news": [
         {
           "title": "'꼬꼬무', 1세대 IT계 신화 프리챌 전제완, 청소부 된 충격 근황 - 머니투데이",
@@ -377,6 +383,58 @@
           "title": "IT천재에서 청소부로…‘꼬꼬무’, 프리챌 창업자 전제완 충격 근황 공개",
           "url": "https://www.viva100.com/article/20260917500749",
           "source": "브릿지경제",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "시부모": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T01:41:00+09:00",
+      "lastSeen": "2026-09-18T01:41:00+09:00",
+      "news": [
+        {
+          "title": "\"손주 보러 가려했는데\"…호텔서 자라는 며느리 말에 시어머니 '엉엉'",
+          "url": "https://www.newsis.com/view/NISX20260916_0003791630",
+          "source": "뉴시스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "“손주보러” 올라온다는 시부모에 “호텔서 주무시라”는 며느리…서운한가요?[사연잇슈]",
+          "url": "https://www.twig24.com/news/lifestyle/2026/09/17/20260917500266",
+          "source": "TWIG",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'생후 50일' 손주 보러 5시간 달려오려 했는데…며느리 '호텔 숙박' 요구에 일정 취소, 눈물 흘린 시모",
+          "url": "https://www.insight.co.kr/news/573764",
+          "source": "인사이트",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "india vs afghanistan": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T01:41:00+09:00",
+      "lastSeen": "2026-09-18T01:41:00+09:00",
+      "news": [
+        {
+          "title": "IND vs AFG Cricket Scorecard, 3rd T20I at Delhi, September 17, 2026",
+          "url": "https://www.cricinfo.com/series/afghanistan-in-india-2026-1549583/india-vs-afghanistan-3rd-t20i-1549588/full-scorecard",
+          "source": "Cricinfo",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'Series going well...India will win third match as well,' Rajiv Shukla on Afghanistan T20Is",
+          "url": "https://fmbharat.com/en/sports/series-going-wellindia-will-win-third-match-as-well-rajiv-shukla-on-afghanistan-t20is",
+          "source": "FM Bharat",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "LIVE: India vs Afghanistan – T20 international cricket series",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/9/17/live-india-vs-afghanistan-t20-international-cricket-series",
+          "source": "Al Jazeera",
           "date": "2026-09-17"
         }
       ]
