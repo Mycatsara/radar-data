@@ -470,10 +470,10 @@
       ]
     },
     "봉누도2": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T03:16:00+09:00",
-      "lastSeen": "2026-09-18T05:14:00+09:00",
+      "lastSeen": "2026-09-18T05:40:00+09:00",
       "news": [
         {
           "title": "'봉누도 시즌2' 2일차. '갱단' 설립을 향한 레이스 … 온 세상이 '범죄'다",
@@ -496,10 +496,10 @@
       ]
     },
     "압구정 현대아파트": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T03:16:00+09:00",
-      "lastSeen": "2026-09-18T05:14:00+09:00",
+      "lastSeen": "2026-09-18T05:40:00+09:00",
       "news": [
         {
           "title": "압구정현대보다 비쌌던 '원조 부촌'…대규모 부활 예고",
@@ -522,10 +522,10 @@
       ]
     },
     "송지효": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T03:16:00+09:00",
-      "lastSeen": "2026-09-18T05:14:00+09:00",
+      "lastSeen": "2026-09-18T05:40:00+09:00",
       "news": [
         {
           "title": "송지효, 업로드 주기 자주 바뀌더니 결국 중단..\"마음만 앞서서 될 일 아냐\"",
@@ -560,10 +560,10 @@
       ]
     },
     "아스트라에 오라티오": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T03:16:00+09:00",
-      "lastSeen": "2026-09-18T05:14:00+09:00",
+      "lastSeen": "2026-09-18T05:40:00+09:00",
       "news": [
         {
           "title": "K게임, 도쿄게임쇼 '큰손' 됐다…참가사 2.5배 급증",
@@ -581,6 +581,18 @@
           "title": "'나혼렙'부터 '샹그릴라'까지…넷마블, TGS서 신작 보따리",
           "url": "https://news.mtn.co.kr/news-detail/2026091717083757609",
           "source": "MTN 머니투데이방송",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "오타쿠 전유물? 대접 확 달라졌다…100억달러 낳는 이 게임 [팩플]",
+          "url": "https://v.daum.net/v/20260918050317132",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "K게임, 도쿄게임쇼 '큰손' 됐다…참가사 2.5배 급증",
+          "url": "https://www.yna.co.kr/view/AKR20260917135500017",
+          "source": "연합뉴스",
           "date": "2026-09-17"
         }
       ]
@@ -612,10 +624,10 @@
       ]
     },
     "록히드 마틴 f-35 라이트닝 ii": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T04:40:00+09:00",
-      "lastSeen": "2026-09-18T05:14:00+09:00",
+      "lastSeen": "2026-09-18T05:40:00+09:00",
       "news": [
         {
           "title": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
@@ -640,14 +652,20 @@
           "url": "https://www.politico.com/news/2026/09/17/us-saudi-arabia-f-35-sale-01082854",
           "source": "Politico",
           "date": "2026-09-17"
+        },
+        {
+          "title": "State Department approves potential F-35 sales to Saudi Arabia",
+          "url": "https://www.axios.com/2026/09/17/state-department-f-35-saudi-arabia-israel",
+          "source": "Axios",
+          "date": "2026-09-17"
         }
       ]
     },
     "삼중살": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T04:40:00+09:00",
-      "lastSeen": "2026-09-18T05:14:00+09:00",
+      "lastSeen": "2026-09-18T05:40:00+09:00",
       "news": [
         {
           "title": "‘8일 만에 나왔는데 5초 만에 삼중살이라니’ 김혜성 망연자실…日 매체도 깜짝 “역대 가장 쿨?”",
@@ -676,10 +694,10 @@
       ]
     },
     "what is phishing": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T05:14:00+09:00",
-      "lastSeen": "2026-09-18T05:14:00+09:00",
+      "lastSeen": "2026-09-18T05:40:00+09:00",
       "news": [
         {
           "title": "Hackers demand Revolut pay $3mn ransom after data breach",
@@ -702,10 +720,10 @@
       ]
     },
     "백화점": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-18T05:14:00+09:00",
-      "lastSeen": "2026-09-18T05:14:00+09:00",
+      "lastSeen": "2026-09-18T05:40:00+09:00",
       "news": [
         {
           "title": "‘유통 공룡’ 이케아, 신세계 대구점 오픈…900개 홈퍼니싱 제품 선보여",
@@ -723,6 +741,70 @@
           "title": "개점 첫날 이케아 ‘도심형 대��매장’ 가보니… 수백명 대기줄 진풍경",
           "url": "https://www.yeongnam.com/web/view.php?key=20260917028239240",
           "source": "영남일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "경북 의성군, 현대백화점과 손잡고 농특산물 프리미엄화 추진",
+          "url": "https://www.viva100.com/article/20260917501027",
+          "source": "브릿지경제",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "의성군-현대백화점-다리와사람들, 의성마늘 판로확대 MOU 체결",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3698904",
+          "source": "국제뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "크리스털 팰리스 대 레흐 포즈난": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T05:40:00+09:00",
+      "lastSeen": "2026-09-18T05:40:00+09:00",
+      "news": [
+        {
+          "title": "크리스탈 팰리스 vs 레흐 포즈난 예측: 상위권 경쟁의 뜨거운 승부",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-crystal-palace-vs-lech-poznan-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "유로파 리그 크리스탈 팰리스 대 레흐 포즈난 경기 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-crystal-palace-vs-lech-poznan-tai-europa-league-1767898.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "경기 프리뷰: 크리스탈 팰리스 vs 레흐 포즈난, 9월 18일 새벽 2시: 자신감 회복.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-crystal-palace-vs-lech-poznan-2h00-ngay-18-9-lay-lai-niem-tin",
+          "source": "Vietnam.vn",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "man city vs norwich city": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T05:40:00+09:00",
+      "lastSeen": "2026-09-18T05:40:00+09:00",
+      "news": [
+        {
+          "title": "EFL Cup 3rd Round LIVE: Manchester City vs Norwich City - live text updates, score & radio commentary",
+          "url": "https://www.bbc.com/sport/football/live/cmlyjl6qdw6et",
+          "source": "BBC",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Gallery: Samba and Allan soar against Canaries!",
+          "url": "https://onefootball.com/en/news/gallery-samba-and-allan-soar-against-canaries-43479408",
+          "source": "OneFootball",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "4 instant reactions to Man City’s breezy Carabao Cup victory against Norwich City",
+          "url": "https://mancitysquare.com/instant-reactions-man-city-breezy-carabao-cup-victory-against-norwich-city",
+          "source": "Man City Square",
           "date": "2026-09-17"
         }
       ]
