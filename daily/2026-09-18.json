@@ -2,10 +2,10 @@
   "date": "2026-09-18",
   "keywords": {
     "what is a data breach": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T01:41:00+09:00",
+      "lastSeen": "2026-09-18T02:11:00+09:00",
       "news": [
         {
           "title": "Hackers demand Revolut pay $3mn ransom after data breach",
@@ -28,10 +28,10 @@
       ]
     },
     "황유민": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T01:41:00+09:00",
+      "lastSeen": "2026-09-18T02:11:00+09:00",
       "news": [
         {
           "title": "아시안게임 출전 양윤서, KLPGA 하나금융 대회 1R서 이븐파 선전",
@@ -60,10 +60,10 @@
       ]
     },
     "지진희": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T01:41:00+09:00",
+      "lastSeen": "2026-09-18T02:11:00+09:00",
       "news": [
         {
           "title": "염정아, 20년지기 남사친 등장에 기절초풍…“결혼식 사회도 봐” (산지직송3)",
@@ -86,10 +86,10 @@
       ]
     },
     "로맥": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T01:41:00+09:00",
+      "lastSeen": "2026-09-18T02:11:00+09:00",
       "news": [
         {
           "title": "‘어서와 한국은’ 제이미 로맥, 문학경기장→치맥 맛집",
@@ -118,10 +118,10 @@
       ]
     },
     "웨이모": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T01:41:00+09:00",
+      "lastSeen": "2026-09-18T02:11:00+09:00",
       "news": [
         {
           "title": "美 웨이모는 도쿄·中바이두는 런던…韓 자율주행 어디까지 왔나",
@@ -286,10 +286,10 @@
       ]
     },
     "특공무술": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-18T00:41:00+09:00",
-      "lastSeen": "2026-09-18T01:41:00+09:00",
+      "lastSeen": "2026-09-18T02:11:00+09:00",
       "news": [
         {
           "title": "특공무술 겨루기 심사 중 쓰러진 특전사 숨져…장기기증 결정",
@@ -318,10 +318,10 @@
       ]
     },
     "안선영": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T00:41:00+09:00",
-      "lastSeen": "2026-09-18T01:41:00+09:00",
+      "lastSeen": "2026-09-18T02:11:00+09:00",
       "news": [
         {
           "title": "안선영, 子 유학 따라간 캐나다서 '대재앙'..\"연예인 여기서 아무 쓸모 없어\"",
@@ -350,10 +350,10 @@
       ]
     },
     "전제완": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T00:41:00+09:00",
-      "lastSeen": "2026-09-18T01:41:00+09:00",
+      "lastSeen": "2026-09-18T02:11:00+09:00",
       "news": [
         {
           "title": "'꼬꼬무', 1세대 IT계 신화 프리챌 전제완, 청소부 된 충격 근황 - 머니투데이",
@@ -388,10 +388,10 @@
       ]
     },
     "시부모": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T01:41:00+09:00",
-      "lastSeen": "2026-09-18T01:41:00+09:00",
+      "lastSeen": "2026-09-18T02:11:00+09:00",
       "news": [
         {
           "title": "\"손주 보러 가려했는데\"…호텔서 자라는 며느리 말에 시어머니 '엉엉'",
@@ -414,10 +414,10 @@
       ]
     },
     "india vs afghanistan": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T01:41:00+09:00",
-      "lastSeen": "2026-09-18T01:41:00+09:00",
+      "lastSeen": "2026-09-18T02:11:00+09:00",
       "news": [
         {
           "title": "IND vs AFG Cricket Scorecard, 3rd T20I at Delhi, September 17, 2026",
@@ -435,6 +435,12 @@
           "title": "LIVE: India vs Afghanistan – T20 international cricket series",
           "url": "https://www.aljazeera.com/sports/liveblog/2026/9/17/live-india-vs-afghanistan-t20-international-cricket-series",
           "source": "Al Jazeera",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Will Sooryavanshi to get to play in inconsequential third T20I",
+          "url": "https://www.dailyexcelsior.com/will-sooryavanshi-to-get-to-play-in-inconsequential-third-t20i/",
+          "source": "Daily Excelsior",
           "date": "2026-09-17"
         }
       ]
