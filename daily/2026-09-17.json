@@ -3687,10 +3687,10 @@
       ]
     },
     "게장": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T17:15:00+09:00",
-      "lastSeen": "2026-09-17T17:15:00+09:00",
+      "lastSeen": "2026-09-17T17:41:00+09:00",
       "news": [
         {
           "title": "게장백반부터 트럭배까지…김선태 '여수섬박람회 부실' 비판도 재조명[뉴스럽다]",
@@ -3709,14 +3709,26 @@
           "url": "https://www.korea.kr/news/reporterView.do?newsId=148971771",
           "source": "대한민국 정책브리핑",
           "date": "2026-09-17"
+        },
+        {
+          "title": "게장백반부터 트럭배까지…김선태 '여수섬박람회 부실' 비판도 재조명[뉴스럽다]",
+          "url": "https://v.daum.net/v/5nFIICEorZ",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "흥행부진 여수섬박람회 고육책 '댄스 행사' 5억 긴급투입",
+          "url": "https://www.yna.co.kr/view/AKR20260917172100054",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
         }
       ]
     },
     "폴 s 앳킨스": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-17T17:15:00+09:00",
-      "lastSeen": "2026-09-17T17:15:00+09:00",
+      "lastSeen": "2026-09-17T17:41:00+09:00",
       "news": [
         {
           "title": "SEC proposes to end shareholder vote oversight, a blow to reformers",
@@ -3739,10 +3751,10 @@
       ]
     },
     "단풍": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T17:15:00+09:00",
-      "lastSeen": "2026-09-17T17:15:00+09:00",
+      "lastSeen": "2026-09-17T17:41:00+09:00",
       "news": [
         {
           "title": "국립수목원, 점봉산서 시민참여 관찰로 '첫 단풍' 확인",
@@ -3765,10 +3777,10 @@
       ]
     },
     "교통": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T17:15:00+09:00",
-      "lastSeen": "2026-09-17T17:15:00+09:00",
+      "lastSeen": "2026-09-17T17:41:00+09:00",
       "news": [
         {
           "title": "울주군, 초등생들 통학환경 개선 건의에 '안전한 등굣길' 조성",
@@ -3791,10 +3803,10 @@
       ]
     },
     "안전공업(주)": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T17:15:00+09:00",
-      "lastSeen": "2026-09-17T17:15:00+09:00",
+      "lastSeen": "2026-09-17T17:41:00+09:00",
       "news": [
         {
           "title": "‘14명 사망’ 안전공업, ‘화재경보 차단’ 직원 교육까지 했다…13명 불구속송치",
@@ -3813,14 +3825,20 @@
           "url": "https://imnews.imbc.com/news/2026/society/article/6852449_36918.html",
           "source": "MBC 뉴스",
           "date": "2026-09-17"
+        },
+        {
+          "title": "안전공업 참사 키운 ‘방화구획 훼손’…소방점검 사각지대 손질해야",
+          "url": "https://v.daum.net/v/20260917165801081",
+          "source": "Daum",
+          "date": "2026-09-17"
         }
       ]
     },
     "박스오피스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-17T17:15:00+09:00",
-      "lastSeen": "2026-09-17T17:15:00+09:00",
+      "lastSeen": "2026-09-17T17:41:00+09:00",
       "news": [
         {
           "title": "최민식·한소희 ‘인턴’이 ‘오디세이’ 제쳤다···개봉 첫 날 박스오피스 1위",
@@ -3839,14 +3857,20 @@
           "url": "https://cine21.com/news/view/?mag_id=110757",
           "source": "씨네21",
           "date": "2026-09-17"
+        },
+        {
+          "title": "연예인병 뼈 때린 62세의 '푼수짓'..최민식 \"예민함 티 내는 배우, 프로 아니다\" [스타이슈]",
+          "url": "https://v.daum.net/v/20260917115008225",
+          "source": "Daum",
+          "date": "2026-09-17"
         }
       ]
     },
     "아바타": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T17:15:00+09:00",
-      "lastSeen": "2026-09-17T17:15:00+09:00",
+      "lastSeen": "2026-09-17T17:41:00+09:00",
       "news": [
         {
           "title": "[인문학 칼럼] 고향 (못) 가는 이야기",
@@ -3890,6 +3914,84 @@
           "title": "소방청, 추석 앞두고 다중이용시설 불시단속",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8665999",
           "source": "KBS 뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "종합병원": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T17:41:00+09:00",
+      "lastSeen": "2026-09-17T17:41:00+09:00",
+      "news": [
+        {
+          "title": "쌍용건설, 3조원 규모 싱가포르 병원 수주… 작년 年매출 1.7배",
+          "url": "https://www.chosun.com/economy/real_estate/2026/09/17/CCCLAMX4QZFN7NK4T2A4XO4DAE/",
+          "source": "조선일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "쌍용건설, 3조원 규모 싱가포르 종합병원 프로젝트 수주…창사 이래 최대",
+          "url": "https://news.mtn.co.kr/news-detail/2026091715502880667",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "���용건설, 싱가포르 3조원 종합병원 수주…창사 이래 최대 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/09/17/2026091710455928947",
+          "source": "머니투데이",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "명절": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T17:41:00+09:00",
+      "lastSeen": "2026-09-17T17:41:00+09:00",
+      "news": [
+        {
+          "title": "유성구 추석 앞두고 이웃 위해 음식·상품권·로션 등 나눔",
+          "url": "https://www.news1.kr/local/daejeon-chungnam/6294185",
+          "source": "뉴스1",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "대전 유성구 함께 나누는 아침 '9월의 이·유·식'",
+          "url": "https://www.dtnews24.com/news/articleView.html?idxno=815313",
+          "source": "디트NEWS24",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[사진기사]추석맞이 취약계층 명절 음식 나눔 행사",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1182559",
+          "source": "금강일보",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "박선원": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T17:41:00+09:00",
+      "lastSeen": "2026-09-17T17:41:00+09:00",
+      "news": [
+        {
+          "title": "與의원모임 \"국군 생명보다 앞서는 실익 없다\"…美파병요구 반대",
+          "url": "https://v.daum.net/v/20260917155217502",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "“군사력으로 평화 살 수 없다”…4대 종단·민주노총, 대통령 회견 전날 ‘호르무즈 파병’ 규탄 집중",
+          "url": "https://www.khan.co.kr/article/202609171647001",
+          "source": "경향신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "여��� 의원들 “파병 반대”에…외교부 “항행안정 차원에서 검토”",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1278274.html",
+          "source": "한겨레",
           "date": "2026-09-17"
         }
       ]
