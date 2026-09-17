@@ -1052,6 +1052,266 @@
           "date": "2026-09-17"
         }
       ]
+    },
+    "반도체": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-18T07:12:00+09:00",
+      "lastSeen": "2026-09-18T07:12:00+09:00",
+      "news": [
+        {
+          "title": "[그래픽] 소부장 특화단지 지정 현황",
+          "url": "https://www.yna.co.kr/view/GYH20260917000800044",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "전북, 반도체 핵심소재 생산기지로…'소부장 특화단지' 선정",
+          "url": "https://v.daum.net/v/20260917171753960",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "거제 ‘조선해양플랜트 특화단지’ 지정…“기술 자립”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8666363",
+          "source": "KBS 뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "두산에너빌리티": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T07:12:00+09:00",
+      "lastSeen": "2026-09-18T07:12:00+09:00",
+      "news": [
+        {
+          "title": "두산, 계열사 차입 위해 두산에너빌리티 주식 161만주 담보 제공",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1724671",
+          "source": "www.ebn.co.kr",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "두산포트폴리오홀딩스, 두산으로부터 두산에너빌리티 주식 담보 수취…담보금액 1349억1800만원",
+          "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=701339",
+          "source": "디지털투데이",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "두산에너빌리티 “뉴스케일���워·스탠다드파워 사업 사업 추진 전제로한 기자재 공급 사실 아냐”",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=607795",
+          "source": "CBC뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "나스닥 100": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T07:12:00+09:00",
+      "lastSeen": "2026-09-18T07:12:00+09:00",
+      "news": [
+        {
+          "title": "\"드디어 지구 궤도 비행\"…스페이스X 도전에 우주항공주 '불기둥'",
+          "url": "https://www.hankyung.com/article/202609171426i",
+          "source": "한국경제",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "폭락할 줄 알았더니 32% 반등…'록업 해제'에도 스페이스X 반전",
+          "url": "https://v.daum.net/v/20260917060241243",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "특징주, 에이치브이엠-스페이스X(SpaceX) 테마 상승세에 3.62% ↑",
+          "url": "https://stock.mk.co.kr/news/view/1160899",
+          "source": "매일경제 마켓",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "산불": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T07:12:00+09:00",
+      "lastSeen": "2026-09-18T07:12:00+09:00",
+      "news": [
+        {
+          "title": "산불로 10년 복역했는데 또···함양 대형산불 낸 연쇄방화범 ‘봉대산 불다람쥐’, 징역 12년 선고",
+          "url": "https://www.khan.co.kr/article/202609171458011",
+          "source": "경향신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "함양 대형산불 낸 ‘봉대산 불다람쥐’ 징역 12년 선고…“또 범행, 중형 불가피”",
+          "url": "https://v.daum.net/v/20260917150408630",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "축구장 320개 크기 산림 태운 ‘봉대산 불다람쥐’, 징역 12년",
+          "url": "https://www.chosun.com/national/2026/09/17/XOQJKD6PQVAYJJRIIPZH6TFHM4/",
+          "source": "조선일보",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "연금": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-18T07:12:00+09:00",
+      "lastSeen": "2026-09-18T07:12:00+09:00",
+      "news": [
+        {
+          "title": "내 국민연금 궁금하다면…\"'카카오 AI 국민비서'에 물어보세요\"",
+          "url": "https://www.yna.co.kr/view/AKR20260916153000530",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "“내 국민연금 얼마지?”… 카톡에 물어보면 조회·가입 척척",
+          "url": "https://v.daum.net/v/20260917102435018",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "카카오톡에 '내 연금 조회해줘'…연금공단, 'AI 국민비서' 본격 연동",
+          "url": "https://www.newspim.com/news/view/20260917001000",
+          "source": "뉴스핌",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "배드민턴 선수": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T07:12:00+09:00",
+      "lastSeen": "2026-09-18T07:12:00+09:00",
+      "news": [
+        {
+          "title": "“솔직히 정말 예쁘다” 19세 泰배드민턴 선수, 아겜 출전 화제",
+          "url": "https://www.munhwa.com/article/11617896",
+          "source": "문화일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "\"빛난다\", \"정말 예쁘다\" 이게 배드민턴 선수 외모?…'태국 공주' 피차몬, 출국장부터 시선 싹쓸이→단체전 메달 약속했다 [나고야 AG]",
+          "url": "https://v.daum.net/v/20260917034110967",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "\"태국 공주 떴다\"…19세 배드민턴 스타, 日 나고야 공항 인터뷰 싹쓸이",
+          "url": "https://www.newsis.com/view/NISX20260917_0003794380",
+          "source": "뉴시스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "이동국": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-18T07:12:00+09:00",
+      "lastSeen": "2026-09-18T07:12:00+09:00",
+      "news": [
+        {
+          "title": "\"출국 사흘 전 결심\"...이동국 딸 재시, 뉴욕 유학 접고 '백수' 선언한 진짜 이유",
+          "url": "https://v.daum.net/v/20260918043129574",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "왕관의 무게를 커리어로 부쉈다…‘이동국 딸’ 이재시가 팩트로 증명한 반전",
+          "url": "https://www.segye.com/newsView/20260828512578",
+          "source": "세계일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "이동국 딸 재시, 뉴욕 초고물가에 휴학 선언…\"우리 집 거덜 날까 봐\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6293882",
+          "source": "뉴스1",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "김혜성": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T07:12:00+09:00",
+      "lastSeen": "2026-09-18T07:12:00+09:00",
+      "news": [
+        {
+          "title": "‘8일 만에 나왔는데 5초 만에 삼중살이라니’ 김혜성 망연자실…日 매체도 깜짝 “역대 가장 쿨?”",
+          "url": "https://v.daum.net/v/20260917180711216",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "김혜성, 8일 만에 라인업 복귀...1안타 1타점에 삼중살도 기록",
+          "url": "https://www.mk.co.kr/news/sports/12155173",
+          "source": "매일경제",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "\"김혜성 망연자실\" 8일 만의 복귀전, 충격의 '삼중살'…상대팀 1760경기 만에 처음 나온 진기록에 日 매체도 주목 \"역사상 가장 쿨한 플레이?\"",
+          "url": "https://www.xportsnews.com/article/2196892",
+          "source": "www.xportsnews.com",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "김미현": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T07:12:00+09:00",
+      "lastSeen": "2026-09-18T07:12:00+09:00",
+      "news": [
+        {
+          "title": "‘슈퍼 땅콩’ 김미현골프월드 대표, 불법 전대 혐의로 검찰 송치",
+          "url": "https://www.kyeonggi.com/article/20260917580558",
+          "source": "경기일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "유명 골퍼 김미현 부친, 골프연습장 불법 전대 혐의로 검찰 송치",
+          "url": "https://v.daum.net/v/20260917184837428",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'슈퍼땅콩' 김미현 父 검찰 송치...박세리 이어 레전드 수난사",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=06054886645581104&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "위암": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T07:12:00+09:00",
+      "lastSeen": "2026-09-18T07:12:00+09:00",
+      "news": [
+        {
+          "title": "필수의료 의사 부족 심각…\"위암 수술 외국갈 판\"",
+          "url": "https://www.newsis.com/view/NISX20260917_0003794156",
+          "source": "뉴시스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "\"위암수술, 할수록 적자…집도의 씨 말랐다\" 해외 원정수술 현실되나 - 머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/09/17/2026091714512484388",
+          "source": "머니투데이",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "“환자는 완치로, 전문가는 불치로” 창립 30주년 맞은 위암학회의 역설",
+          "url": "http://www.newsmp.com/news/articleView.html?idxno=258201",
+          "source": "의약뉴스",
+          "date": "2026-09-17"
+        }
+      ]
     }
   },
   "sections": {
