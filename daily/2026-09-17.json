@@ -1795,10 +1795,10 @@
       ]
     },
     "상여금": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-17T09:17:00+09:00",
-      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "lastSeen": "2026-09-17T09:46:00+09:00",
       "news": [
         {
           "title": "청주산단 입주기업 절반 추석 상여금·여비 없어",
@@ -1817,14 +1817,20 @@
           "url": "https://v.daum.net/v/20260917071017487",
           "source": "Daum",
           "date": "2026-09-16"
+        },
+        {
+          "title": "청주산단, 추석 휴무일은 줄었지만 주머니는 두둑해져",
+          "url": "https://www.nocutnews.co.kr/news/6579306",
+          "source": "노컷뉴스",
+          "date": "2026-09-16"
         }
       ]
     },
     "살인": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-17T09:17:00+09:00",
-      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "lastSeen": "2026-09-17T09:46:00+09:00",
       "news": [
         {
           "title": "옷 벗겨진 20~30대 여성 시신 7구…연쇄살인 공포에 싸인 '이 도시'",
@@ -1843,14 +1849,26 @@
           "url": "https://v.daum.net/v/20260917011852575",
           "source": "Daum",
           "date": "2026-09-16"
+        },
+        {
+          "title": "남아공서 두 달 새 여성 8명 숨진 채 발견…대통령 “국가적 위기”",
+          "url": "https://v.daum.net/v/20260917080309410",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[맵 브리핑] 한 도시서 두 달 새 여성 8명 피살",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8665035",
+          "source": "KBS 뉴스",
+          "date": "2026-09-16"
         }
       ]
     },
     "fifa u-20 여자 월드컵": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T09:17:00+09:00",
-      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "lastSeen": "2026-09-17T09:46:00+09:00",
       "news": [
         {
           "title": "범예주 극적 결승골…한국 여자축구, 12년 만에 U-20 월드컵 8강",
@@ -1873,10 +1891,10 @@
       ]
     },
     "인천광역시": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T09:17:00+09:00",
-      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "lastSeen": "2026-09-17T09:46:00+09:00",
       "news": [
         {
           "title": "[인천소식] 인천시, 19~20일 마을기업 팝업스토어 개최",
@@ -1895,14 +1913,26 @@
           "url": "http://www.surprisenews.kr/news/articleView.html?idxno=698528",
           "source": "서프라이즈뉴스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "'여객선 요금 1천500원' 인천 섬 근무 경찰관·소방관도 적용",
+          "url": "https://v.daum.net/v/20260917083150080",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "섬 지키는 군인·경찰·소방관도‘뱃삯 1500원’…인천시 ‘바다패스’ 사각지대 없앤다",
+          "url": "https://www.viva100.com/article/20260917500302",
+          "source": "브릿지경제",
+          "date": "2026-09-16"
         }
       ]
     },
     "파라 타 항공": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T09:17:00+09:00",
-      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "lastSeen": "2026-09-17T09:46:00+09:00",
       "news": [
         {
           "title": "25개 국제선 노선 10개 항공사에 배분…중국 노선 확대에 중점",
@@ -1920,6 +1950,12 @@
           "title": "부산·청주·대구공항에서 청두·하얼빈 등 중국 대도시 직항 신설",
           "url": "https://zdnet.co.kr/view/?no=20260916110621",
           "source": "지디넷코리아",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "부산~청두·하얼빈·항저우 가는 항공편 더 많아진다",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260916.99099005228",
+          "source": "국제신문",
           "date": "2026-09-16"
         }
       ]
@@ -1951,10 +1987,10 @@
       ]
     },
     "다저스 대 레즈": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-17T09:17:00+09:00",
-      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "lastSeen": "2026-09-17T09:46:00+09:00",
       "news": [
         {
           "title": "이래서 4453억 받는다! 야마모토 158km KKKKKKK 무실점→14승 수확…'14년 연속 PS' 다저스 2연승",
@@ -1998,6 +2034,91 @@
           "title": "5000만원씩 사더니 2000만원대로 ‘뚝’…지자체 스벅 상품권 구매 급감했다",
           "url": "https://www.sedaily.com/article/20090734",
           "source": "서울경제",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "브레이브스 대 컵스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T09:46:00+09:00",
+      "lastSeen": "2026-09-17T09:46:00+09:00",
+      "news": [
+        {
+          "title": "'대반전' 김하성 PS 예상 로스터 당당히 승선, 입지 이렇게 바뀌나 \"두 가지 이유로 논란 종결\"",
+          "url": "https://v.daum.net/v/20260917003251248",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "타율 0.068에도 남긴 이유 이거였나…경쟁자 실책이 다시 증명한 '어썸킴' 가치",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/17/HFQTIZJUHBQTCNDFGEZWKYRWHA/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'3경기 연속 무안타' 김하성, 컵스전 결장…'홈런 3방' 애틀랜타, 2연패 탈출",
+          "url": "https://www.newsis.com/view/NISX20260916_0003791821",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "한국항공우주산업": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T09:46:00+09:00",
+      "lastSeen": "2026-09-17T09:46:00+09:00",
+      "news": [
+        {
+          "title": "국내외 방산전문가 1500명 온 시연회서 K드론 잇단 추락",
+          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/09/17/LCZ2LEID3NH2ZIKUXWPQWIVYFY/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"추락 또 추락, 나라 망신\"…'K드론', 방산전문가 1500명 앞에서 잇단 실패",
+          "url": "https://v.daum.net/v/20260917092444387",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "미리 보는 ‘미래 드론 전장’…‘국방 드론 기술전’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8665629",
+          "source": "KBS 뉴스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "쓰레기봉투": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T09:46:00+09:00",
+      "lastSeen": "2026-09-17T09:46:00+09:00",
+      "news": []
+    },
+    "학과": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T09:46:00+09:00",
+      "lastSeen": "2026-09-17T09:46:00+09:00",
+      "news": [
+        {
+          "title": "대기업 계약학과 수시 지원자 역대 최다…SK하이닉스 27.3%↑",
+          "url": "https://v.daum.net/v/Ql5j7CEoX0",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "\"의대만 답은 아니죠\"…삼성·하이닉스 계약학과 가보니 [출동!인턴]",
+          "url": "https://www.newsis.com/view/NISX20260916_0003792435",
+          "source": "뉴시스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "입학만 하면 삼전닉스 간다…장학금 받고 취업까지, 외신도 궁금하다는 '이 학과'",
+          "url": "https://www.etnews.com/20260916000376",
+          "source": "전자신문",
           "date": "2026-09-16"
         }
       ]
