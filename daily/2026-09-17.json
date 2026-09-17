@@ -3299,6 +3299,266 @@
           "date": "2026-09-17"
         }
       ]
+    },
+    "위조품": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T15:46:00+09:00",
+      "lastSeen": "2026-09-17T15:46:00+09:00",
+      "news": [
+        {
+          "title": "K뷰티 열풍에 중국산 가짜 '정품 둔갑'…45억원어치 팔렸다(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260917048751017",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "\"K-브랜드 위조상품 막으려면?\"…국회 행사 개최",
+          "url": "https://www.newsis.com/view/NISX20260917_0003793290",
+          "source": "뉴시스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "중국산이 유명 화장품으로 둔갑‥국내 브로커 ��발",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6852472_36967.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "이금희": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T15:46:00+09:00",
+      "lastSeen": "2026-09-17T15:46:00+09:00",
+      "news": [
+        {
+          "title": "이금희 모친상 급거 귀국",
+          "url": "https://www.newsis.com/view/NISX20260917_0003793706",
+          "source": "뉴시스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "이금희, 해외 방송 촬영 도중 '모친상' 비보…스케줄 마치고 귀국 후 빈소 마련",
+          "url": "https://v.daum.net/v/20260917093730063",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "이금희, 94세 '모친상' 슬픔 안고 다큐 촬영..'가족의 뜻' 있었다 [핫피플] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/17/MUZGIOJRG5RTCNTGHEYWKNBRGI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "비행기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T15:46:00+09:00",
+      "lastSeen": "2026-09-17T15:46:00+09:00",
+      "news": [
+        {
+          "title": "[체험기] ‘1만m 상공에서 넷플릭스 영화 보고 주식 거래도 가능’… 아시아나항공 스타링크 써보니 - 조선비즈",
+          "url": "https://biz.chosun.com/industry/company/2026/09/17/QEQS27QJVJHPTAHDEEFQO3UB7Q/",
+          "source": "Chosunbiz",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[체험기] 대한항공·아시아나 기내 '무료 와이파이' 첫날 \"1만m 상공서도 실시간 주가 확인\"",
+          "url": "https://www.newsis.com/view/NISX20260916_0003791031",
+          "source": "뉴시���",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "비행기 타고 하늘서 유튜브를…아시아나 스타링크 직접써보니[르포] - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/17/2026091623574874638",
+          "source": "머니투데이",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "천하람": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T15:46:00+09:00",
+      "lastSeen": "2026-09-17T15:46:00+09:00",
+      "news": [
+        {
+          "title": "개혁신당, 천하람 ‘순천 출마’ 제동…“경기 남부로 가라”",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=55345",
+          "source": "주간조선",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "개혁신당 “지도부 비례 출마 금지…천하람·이주영에 경기 남부 출마해달라”",
+          "url": "https://v.daum.net/v/20260917152749016",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "이기인 비대위원장, 개혁신당 쇄신안 발표 “지도급 비례대표 공천 제외…경기 남부 출마해야”",
+          "url": "https://www.khan.co.kr/article/202609171359001",
+          "source": "경향신문",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "무인 항공기": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T15:46:00+09:00",
+      "lastSeen": "2026-09-17T15:46:00+09:00",
+      "news": [
+        {
+          "title": "익산시-락로보틱스, 30억원 투자 협약…드론 생산기지 조성",
+          "url": "https://www.yna.co.kr/view/AKR20260917126000055",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "익산 드론생산 기지+새만금 로봇 파운더리…전북 '첨단산업 지도' 확 바뀐다",
+          "url": "https://www.pressian.com/pages/articles/2026091712021453772",
+          "source": "프레시안",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "익산 제3산단, 농업·산업용 드론 생산기지 탈바꿈",
+          "url": "https://www.newspim.com/news/view/20260917000603",
+          "source": "뉴스핌",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "한우": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T15:46:00+09:00",
+      "lastSeen": "2026-09-17T15:46:00+09:00",
+      "news": [
+        {
+          "title": "[게시판] 전국한우협회, 대전서 창립 27주년 기념식",
+          "url": "https://www.yna.co.kr/view/AKR20260916121800030",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "한우법 시행 첫해, 한우농가 “백년 산업 기반 마련해야”…전국한우협회 창립 27주년",
+          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=70355",
+          "source": "한국영농신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "한우협 “CPTPP 가입·메르코수르 FTA 논의 반대”",
+          "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=407246",
+          "source": "한국농어민신문",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "김세의": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-17T15:46:00+09:00",
+      "lastSeen": "2026-09-17T15:46:00+09:00",
+      "news": [
+        {
+          "title": "김수현 팔아 번 돈 \"1.7억\"…검찰, 김세의 땅 묶었다",
+          "url": "https://v.daum.net/v/U1nb4vmj0K?f=p",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "검찰, '가세연' 김세의 범죄수익 1억 6천940만 원 추징보전",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6851967_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "검찰, ’김수현 명예훼손’ 김세의 자산 1억7천만원 동결",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202609160602556SE",
+          "source": "연합뉴스TV",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "한국장기조직기증원": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T15:46:00+09:00",
+      "lastSeen": "2026-09-17T15:46:00+09:00",
+      "news": [
+        {
+          "title": "평생 베풀던 40대 가장, 마지막 길에도 6명 생명 살리고 떠났다",
+          "url": "https://v.daum.net/v/20260917103010399",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "아내와 사별 후 홀로 딸 키우던 40대 외아들, 6명에 생명 나눔",
+          "url": "https://www.yna.co.kr/view/AKR20260917072100530",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "아내와 사별뒤 외동딸 키운 40대 아빠, 6명 살리고 하늘로",
+          "url": "https://www.donga.com/news/Society/article/all/20260917/134687278/2",
+          "source": "동아일보",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "타율": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T15:46:00+09:00",
+      "lastSeen": "2026-09-17T15:46:00+09:00",
+      "news": [
+        {
+          "title": "이정후, 연장 10회 팀 동료 투런포 직후 볼넷 출루 성공! SF는 1점 차 승리... 시즌 마감까지 단 '9G' 남았다",
+          "url": "https://v.daum.net/v/WNz1dRfzhv",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "고개 숙인 한국인 메이저리거…이정후·김하성·송성문 무안타(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260917021551007",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "‘4번타자 출격’ 이정후, 연속경기 안타 행진…5타수 1안타 1득점",
+          "url": "https://sports.donga.com/sports/article/all/20260916/134679787/1",
+          "source": "스포츠동아",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "변압기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T15:46:00+09:00",
+      "lastSeen": "2026-09-17T15:46:00+09:00",
+      "news": [
+        {
+          "title": "이호현 기후차관, 효성중공업 美 전력기기 생산 현장 방문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372570",
+          "source": "전기신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "美 효성重 법인 찾은 기후차관…\"시장 지배력 확대하도록 지원\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435443",
+          "source": "연합인포맥스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "반토막 난 전력기기株…AI 속도조절론에도 수주는 ‘역주행’",
+          "url": "https://v.daum.net/v/20260917060110048",
+          "source": "Daum",
+          "date": "2026-09-17"
+        }
+      ]
     }
   },
   "sections": {
