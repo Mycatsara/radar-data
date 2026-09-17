@@ -4845,10 +4845,10 @@
       ]
     },
     "라이머": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T21:46:00+09:00",
+      "lastSeen": "2026-09-17T22:14:00+09:00",
       "news": [
         {
           "title": "라이머, 안현모와 이혼 후 남은 '강남 7층 빌딩' 자랑..父 \"사귀는 여자는?\"(신랑수업2)",
@@ -4871,10 +4871,10 @@
       ]
     },
     "mcdonald's": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T21:46:00+09:00",
+      "lastSeen": "2026-09-17T22:14:00+09:00",
       "news": [
         {
           "title": "McDonald's has burgers for National Cheeseburger Day, but there's a catch",
@@ -4903,10 +4903,10 @@
       ]
     },
     "채수빈": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T21:46:00+09:00",
+      "lastSeen": "2026-09-17T22:14:00+09:00",
       "news": [
         {
           "title": "'나를 충전해줘' 김영광·채수빈, 찌릿한 로코 케미…스틸 공개",
@@ -4929,10 +4929,10 @@
       ]
     },
     "영일만": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T21:46:00+09:00",
+      "lastSeen": "2026-09-17T22:14:00+09:00",
       "news": [
         {
           "title": "김영헌 포항시의원 \"영일만 횡단대교 더 이상 늦춰선 안 돼\"",
@@ -4961,10 +4961,10 @@
       ]
     },
     "김태규": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T21:46:00+09:00",
+      "lastSeen": "2026-09-17T22:14:00+09:00",
       "news": [
         {
           "title": "급기야 \"이재명 탄핵\" 꺼내…'상임위 줄줄이 취소' 격화",
@@ -4999,10 +4999,10 @@
       ]
     },
     "가해자": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T21:46:00+09:00",
+      "lastSeen": "2026-09-17T22:14:00+09:00",
       "news": [
         {
           "title": "\"'야차룰' 동의?\"…경찰, 피해자 녹음파일 통째로 '누락'",
@@ -5020,6 +5020,12 @@
           "title": "단독 범행 송치 여중생 학폭 사건…검찰 보안수사서 3명 기소",
           "url": "https://www.yna.co.kr/view/AKR20260916071700051",
           "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "여고생들이 여중생 집단폭행…가해자 거짓말에 피해학생 ‘가해자’ 처분",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260916.99099005332",
+          "source": "국제신문",
           "date": "2026-09-17"
         }
       ]
@@ -5051,10 +5057,10 @@
       ]
     },
     "thời tiết ngày mai": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T21:46:00+09:00",
-      "lastSeen": "2026-09-17T21:46:00+09:00",
+      "lastSeen": "2026-09-17T22:14:00+09:00",
       "news": [
         {
           "title": "Đường Hà Nội ngập sâu, giao thông tê liệt",
@@ -5072,6 +5078,96 @@
           "title": "Hà Nội chưa thể hết ngập, nhưng có thể chống chịu tốt hơn",
           "url": "https://dantri.com.vn/tam-diem/ha-noi-chua-the-het-ngap-nhung-co-the-chong-chiu-tot-hon-20260917183143655.htm",
           "source": "Báo Dân trí",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Xóm nhỏ ngoại thành Hà Nội ngập sâu, người dân mang sổ đỏ chạy lũ",
+          "url": "https://thanhnien.vn/xom-nho-ngoai-thanh-ha-noi-ngap-sau-nguoi-dan-mang-so-do-chay-lu-185260917185017252.htm",
+          "source": "Báo Thanh Niên",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Nước dâng ngang người, người dân vùng ven Hà Nội dùng thuyền đi lại",
+          "url": "https://tienphong.vn/nuoc-dang-ngang-nguoi-nguoi-dan-vung-ven-ha-noi-dung-thuyen-di-lai-post1877172.tpo",
+          "source": "Báo điện tử Tiền Phong",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "웨이모": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T22:14:00+09:00",
+      "lastSeen": "2026-09-17T22:14:00+09:00",
+      "news": [
+        {
+          "title": "美 웨이모는 도쿄·中바이두는 런던…韓 자율주행 어디까지 왔나",
+          "url": "https://v.daum.net/v/20260917163207809",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "일본도 내년부터 무인택시 시대…웨이모, “도쿄 100대 운영”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8665038",
+          "source": "KBS 뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "자회사는 웨이모와 경쟁, 본사는 車 판매…현대차만 가능한 로보택시 '투트랙' - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/16/2026091510030438457",
+          "source": "머니투데이",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "weather tomorrow": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-17T22:14:00+09:00",
+      "lastSeen": "2026-09-17T22:14:00+09:00",
+      "news": [
+        {
+          "title": "Monsoon-Fueled Storms Soak the Southwestern US",
+          "url": "https://www.nytimes.com/2026/09/16/weather/arizona-new-mexico-flooding.html",
+          "source": "The New York Times",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Crews respond to water rescues as storms move through Phoenix area",
+          "url": "https://www.azfamily.com/2026/09/16/storms-packing-heavy-rain-arrive-valley/",
+          "source": "AZ Family",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "WHAT TO EXPECT: Flood Watch on Wednesday for heavy rain and flash flooding",
+          "url": "https://www.abc15.com/weather/what-to-expect-flood-watch-on-wednesday-for-heavy-rain-and-flash-flooding",
+          "source": "ABC15 Arizona",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "cuaca besok": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T22:14:00+09:00",
+      "lastSeen": "2026-09-17T22:14:00+09:00",
+      "news": [
+        {
+          "title": "Cuaca Jakarta Jumat Besok: Jakbar dan Jaktim Berpotensi Diguyur Hujan",
+          "url": "https://megapolitan.kompas.com/read/2026/09/17/19113271/cuaca-jakarta-jumat-besok-jakbar-dan-jaktim-berpotensi-diguyur-hujan",
+          "source": "Kompas.com",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Kamis, sebagian besar DKI bakal cerah berawan pada siang dan sore hari",
+          "url": "https://www.antaranews.com/berita/5744833/kamis-sebagian-besar-dki-bakal-cerah-berawan-pada-siang-dan-sore-hari",
+          "source": "ANTARA News",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "BMKG Prediksi Suhu Tertinggi 35°C di Jakarta Selatan, Rekor Panas Musim Ini Menggoyang Warga dan Aktivitas Luar Ruangan – Berita Hari Ini",
+          "url": "https://lifestyle.teknokrat.ac.id/bmkg-prediksi-suhu-tertinggi-35c-di-jakarta-selatan-rekor-panas-musim-ini-menggoyang-warga-dan-aktivitas-luar-ruangan/",
+          "source": "Universitas Teknokrat Indonesia",
           "date": "2026-09-17"
         }
       ]
