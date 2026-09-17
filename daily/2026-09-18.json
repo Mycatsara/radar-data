@@ -292,10 +292,10 @@
       ]
     },
     "특공무술": {
-      "count": 8,
+      "count": 9,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-18T00:41:00+09:00",
-      "lastSeen": "2026-09-18T04:11:00+09:00",
+      "lastSeen": "2026-09-18T04:40:00+09:00",
       "news": [
         {
           "title": "특공무술 겨루기 심사 중 쓰러진 특전사 숨져…장기기증 결정",
@@ -406,10 +406,10 @@
       ]
     },
     "시부모": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T01:41:00+09:00",
-      "lastSeen": "2026-09-18T04:11:00+09:00",
+      "lastSeen": "2026-09-18T04:40:00+09:00",
       "news": [
         {
           "title": "\"손주 보러 가려했는데\"…호텔서 자라는 며느리 말에 시어머니 '엉엉'",
@@ -432,10 +432,10 @@
       ]
     },
     "india vs afghanistan": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T01:41:00+09:00",
-      "lastSeen": "2026-09-18T04:11:00+09:00",
+      "lastSeen": "2026-09-18T04:40:00+09:00",
       "news": [
         {
           "title": "IND vs AFG Cricket Scorecard, 3rd T20I at Delhi, September 17, 2026",
@@ -470,17 +470,17 @@
       ]
     },
     "봉누도2": {
-      "count": 3,
-      "maxTraffic": 500,
+      "count": 4,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-18T03:16:00+09:00",
-      "lastSeen": "2026-09-18T04:11:00+09:00",
+      "lastSeen": "2026-09-18T04:40:00+09:00",
       "news": []
     },
     "압구정 현대아파트": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T03:16:00+09:00",
-      "lastSeen": "2026-09-18T04:11:00+09:00",
+      "lastSeen": "2026-09-18T04:40:00+09:00",
       "news": [
         {
           "title": "압구정현대보다 비쌌던 '원조 부촌'…대규모 부활 예고",
@@ -503,10 +503,10 @@
       ]
     },
     "송지효": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T03:16:00+09:00",
-      "lastSeen": "2026-09-18T04:11:00+09:00",
+      "lastSeen": "2026-09-18T04:40:00+09:00",
       "news": [
         {
           "title": "송지효, 업로드 주기 자주 바뀌더니 결국 중단..\"마음만 앞서서 될 일 아냐\"",
@@ -531,14 +531,20 @@
           "url": "https://www.sportschosun.com/entertainment/2026-09-17/202609170100122640007890",
           "source": "스포츠조선",
           "date": "2026-09-17"
+        },
+        {
+          "title": "'스타일 논란' 송지효, 결국 유튜브 잠정 중단…\"마음만 앞선다고 되는 게 아니더라\" 울컥",
+          "url": "https://v.daum.net/v/20260918004328505",
+          "source": "Daum",
+          "date": "2026-09-17"
         }
       ]
     },
     "아스트라에 오라티오": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T03:16:00+09:00",
-      "lastSeen": "2026-09-18T04:11:00+09:00",
+      "lastSeen": "2026-09-18T04:40:00+09:00",
       "news": [
         {
           "title": "K게임, 도쿄게임쇼 '큰손' 됐다…참가사 2.5배 급증",
@@ -561,10 +567,10 @@
       ]
     },
     "철산 자이": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T03:44:00+09:00",
-      "lastSeen": "2026-09-18T04:11:00+09:00",
+      "lastSeen": "2026-09-18T04:40:00+09:00",
       "news": [
         {
           "title": "최대 7억 '줍줍' 나왔다…경기 무주택자 4가구·광명 거주 2가구",
@@ -582,6 +588,58 @@
           "title": "철산자이 더 헤리티지 무순위 줍줍 (’26. 9/22)",
           "url": "https://homedubu.com/12179/",
           "source": "홈두부",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "록히드 마틴 f-35 라이트닝 ii": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T04:40:00+09:00",
+      "lastSeen": "2026-09-18T04:40:00+09:00",
+      "news": [
+        {
+          "title": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
+          "url": "https://www.reuters.com/business/aerospace-defense/us-state-department-oks-possible-243-billion-military-aircraft-sale-saudi-arabia-2026-09-17/",
+          "source": "Reuters",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
+          "url": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
+          "source": "The New York Times",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "US approves sale of 48 F-35s to Saudi Arabia",
+          "url": "https://www.jpost.com/middle-east/article-908993",
+          "source": "The Jerusalem Post",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "삼중살": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T04:40:00+09:00",
+      "lastSeen": "2026-09-18T04:40:00+09:00",
+      "news": [
+        {
+          "title": "‘8일 만에 나왔는데 5초 만에 삼중살이라니’ 김혜성 망연자실…日 매체도 깜짝 “역대 가장 쿨?”",
+          "url": "https://v.daum.net/v/20260917180711216",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "8일 만에 경기 나선 김혜성에게 무슨 일이…무사 1·2루서 ‘충격의 삼중살’, 다음 타석 적시타 쾅! 5타수 1안타 1타점 1득점 1도루",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/17/MU2TQN3BMM2DAZBUGUYDEYTDMM/",
+          "source": "조선일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "8일 만에 경기 나선 김혜성에게 무슨 일이…무사 1·2루서 ‘충격의 삼중살’, 다음 타석 적시타 쾅! 5타수 1안타 1타점 1득점 1도루 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/17/202609171030775318O",
+          "source": "머니투데이",
           "date": "2026-09-17"
         }
       ]
