@@ -1500,10 +1500,10 @@
       ]
     },
     "삼성 갤럭시 z 폴드 8": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T08:10:00+09:00",
-      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:38:00+09:00",
       "news": [
         {
           "title": "접는 아이폰 나오자 삼성 Z폴드8 판매 급증",
@@ -1522,14 +1522,20 @@
           "url": "https://www.yna.co.kr/view/AKR20260917049300017",
           "source": "연합뉴스",
           "date": "2026-09-17"
+        },
+        {
+          "title": "329만원 애플 폴더블에 놀랐나…삼성 갤폴드가 더 팔렸다",
+          "url": "https://v.daum.net/v/20260918074826578",
+          "source": "Daum",
+          "date": "2026-09-17"
         }
       ]
     },
     "날씨": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100000,
       "firstSeen": "2026-09-18T08:10:00+09:00",
-      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:38:00+09:00",
       "news": [
         {
           "title": "[날씨] 동해안·남부 5~20㎜ 비…제주 최고 80㎜↑",
@@ -1552,10 +1558,10 @@
       ]
     },
     "ionq": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T08:10:00+09:00",
-      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:38:00+09:00",
       "news": [
         {
           "title": "IonQ, Synopsys cut simulation time by 14.6% with quantum tech",
@@ -1574,14 +1580,20 @@
           "url": "https://www.foreignpolicyjournal.com/2026/09/16/ionq-nyse-ionq-wins-four-ieee-best-paper-awards-from-857-global-quantum-research-submissions/",
           "source": "Foreign Policy Journal",
           "date": "2026-09-17"
+        },
+        {
+          "title": "Why IonQ (IONQ) Stock Is Trading Up Today",
+          "url": "https://stockstory.org/us/stocks/nyse/ionq/news/why-up-down/why-ionq-ionq-stock-is-trading-up-today-6",
+          "source": "StockStory",
+          "date": "2026-09-17"
         }
       ]
     },
     "김서현": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T08:10:00+09:00",
-      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:38:00+09:00",
       "news": [
         {
           "title": "‘1-6에서 7-6 대역전’ 야구대표팀, 연습경기서 끝내기승…류지현 감독 “좋은 에너지 받았다”",
@@ -1604,10 +1616,10 @@
       ]
     },
     "weather": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-18T08:10:00+09:00",
-      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:38:00+09:00",
       "news": [
         {
           "title": "China Builds 10-Day Weather Forecast System on Homegrown AI Chips",
@@ -1626,14 +1638,26 @@
           "url": "https://universemagazine.com/en/cloud-systems-on-the-brown-dwarf-change-in-an-orderly-pattern/",
           "source": "Universe Space Tech",
           "date": "2026-09-17"
+        },
+        {
+          "title": "Friday Web Weather",
+          "url": "https://www.kolotv.com/2026/09/17/friday-web-weather/",
+          "source": "KOLO | 8 News Now",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "China uses 100,000 home-grown AI chips to build leading weather forecast system",
+          "url": "https://www.scmp.com/news/china/science/article/3367747/china-uses-100000-home-grown-ai-chips-build-leading-weather-forecast-system",
+          "source": "South China Morning Post",
+          "date": "2026-09-17"
         }
       ]
     },
     "블레이크 스넬": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T08:10:00+09:00",
-      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:38:00+09:00",
       "news": [
         {
           "title": "MLB 스넬, 1이닝 던지고 사타구니 통증으로 교체…다저스 대형 악재",
@@ -1729,6 +1753,110 @@
           "title": "Прогноз погоды в Израиле, 17.09.2026 Newsru.co.il",
           "url": "https://www.newsru.co.il/israel/17sep2026/pogoda.html",
           "source": "NEWSru.co.il",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "세무사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T08:38:00+09:00",
+      "lastSeen": "2026-09-18T08:38:00+09:00",
+      "news": [
+        {
+          "title": "경남 진주지역세무사회, ‘찾아가는 마을세무사’ 행사 개최",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20260918.22017006156",
+          "source": "국제신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "“세금이 제일 어렵죠”…김포 무료 세무상담실 가보니",
+          "url": "https://v.daum.net/v/20260917134240605",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'찾아가는 마을세무사' 10주년…세무���회, 무료 세무 상담",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04972486645580776",
+          "source": "마켓인",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "단발": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T08:38:00+09:00",
+      "lastSeen": "2026-09-18T08:38:00+09:00",
+      "news": [
+        {
+          "title": "'이게 54만 원?' 아이유, 단발에 플라워 원피스…청순美 한도 초과",
+          "url": "https://v.daum.net/v/5hSzHEoMDy",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[기고] 이 별로부터 이별(Farewell from this star)",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1100484",
+          "source": "충청매일",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "아이유·제니, 톱티어 솔로 가수의 안목 ‘남성 뮤즈’ 화제",
+          "url": "https://sports.donga.com/ent/article/all/20260917/134689215/1",
+          "source": "스포츠동아",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "사노피": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T08:38:00+09:00",
+      "lastSeen": "2026-09-18T08:38:00+09:00",
+      "news": [
+        {
+          "title": "J&J '이마비'로 첫발 뗀 wAIHA 치료제… 사노피 추격 예고",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79224",
+          "source": "히트뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "베트남 보건부 대표단이 프랑스에 있는 사노피의 최첨단 백신 공장을 방문했습니다.",
+          "url": "https://www.vietnam.vn/ko/doan-bo-y-te-viet-nam-tham-nha-may-vac-xin-hien-dai-cua-sanofi-tai-phap",
+          "source": "Vietnam.vn",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "베트남, 사노피(프랑스)�� 가장 중요한 3가지 신세대 백신 생산 예정",
+          "url": "https://ko.laodong.vn/xa-hoi/viet-nam-se-san-xuat-3-loai-vaccine-the-he-moi-quan-trong-bac-nhat-cua-sanofi-phap-1764975.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "하주연": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T08:38:00+09:00",
+      "lastSeen": "2026-09-18T08:38:00+09:00",
+      "news": [
+        {
+          "title": "하주연, '쥬얼리 재결합' 빠진 이유? \"불러야 가죠..무대 오르고파\" [하!주연]",
+          "url": "https://v.daum.net/v/20260917224437898",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "쥬얼리 재결합에 '원모타임' 하주연 왜 빠졌나? 때아닌 ‘불화설’에 \"추측 자제\" [핫피플]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/18/MM3DQNJYHA4TCOJQHEYGMZRQGQ/",
+          "source": "조선일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "하주연, 쥬얼리 무대 불참 후 전한 속내 “불러줘야 가죠”",
+          "url": "https://www.segye.com/newsView/20260918502374",
+          "source": "세계일보",
           "date": "2026-09-17"
         }
       ]
