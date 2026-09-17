@@ -4845,10 +4845,10 @@
       ]
     },
     "라이머": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T22:43:00+09:00",
+      "lastSeen": "2026-09-17T23:15:00+09:00",
       "news": [
         {
           "title": "라이머, 안현모와 이혼 후 남은 '강남 7층 빌딩' 자랑..父 \"사귀는 여자는?\"(신랑수업2)",
@@ -4877,10 +4877,10 @@
       ]
     },
     "mcdonald's": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T22:43:00+09:00",
+      "lastSeen": "2026-09-17T23:15:00+09:00",
       "news": [
         {
           "title": "McDonald's has burgers for National Cheeseburger Day, but there's a catch",
@@ -4915,10 +4915,10 @@
       ]
     },
     "채수빈": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T22:43:00+09:00",
+      "lastSeen": "2026-09-17T23:15:00+09:00",
       "news": [
         {
           "title": "'나를 충전해줘' 김영광·채수빈, 찌릿한 로코 케미…스틸 공개",
@@ -4937,14 +4937,20 @@
           "url": "https://www.wikitree.co.kr/articles/1158582",
           "source": "위키트리",
           "date": "2026-09-17"
+        },
+        {
+          "title": "넷플릭스 시리즈 10월 9일 공개 확정! 김영광X채수빈 '찌릿짜릿' 설렘 급속 충전 티저 포스터&예고편 공개",
+          "url": "https://about.netflix.com/ko/news/take-charge-of-my-heart-premieres-october-9",
+          "source": "About Netflix",
+          "date": "2026-09-17"
         }
       ]
     },
     "영일만": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T22:43:00+09:00",
+      "lastSeen": "2026-09-17T23:15:00+09:00",
       "news": [
         {
           "title": "김영헌 포항시의원 \"영일만 횡단대교 더 이상 늦춰선 안 돼\"",
@@ -5011,10 +5017,10 @@
       ]
     },
     "가해자": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T22:43:00+09:00",
+      "lastSeen": "2026-09-17T23:15:00+09:00",
       "news": [
         {
           "title": "\"'야차룰' 동의?\"…경찰, 피해자 녹음파일 통째로 '누락'",
@@ -5038,6 +5044,12 @@
           "title": "여고생들이 여중생 집단폭행…가해자 거짓말에 피해학생 ‘가해자’ 처분",
           "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260916.99099005332",
           "source": "국제신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "KBS “'부산 추락사' 가해자 누나 출연, 별도 조치 어렵다”",
+          "url": "https://v.daum.net/v/4risssAipu",
+          "source": "Daum",
           "date": "2026-09-17"
         }
       ]
@@ -5069,10 +5081,10 @@
       ]
     },
     "thời tiết ngày mai": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T21:46:00+09:00",
-      "lastSeen": "2026-09-17T22:43:00+09:00",
+      "lastSeen": "2026-09-17T23:15:00+09:00",
       "news": [
         {
           "title": "Đường Hà Nội ngập sâu, giao thông tê liệt",
@@ -5107,10 +5119,10 @@
       ]
     },
     "웨이모": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T22:14:00+09:00",
-      "lastSeen": "2026-09-17T22:43:00+09:00",
+      "lastSeen": "2026-09-17T23:15:00+09:00",
       "news": [
         {
           "title": "美 웨이모는 도쿄·中바이두는 런던…韓 자율주행 어디까지 왔나",
@@ -5133,10 +5145,10 @@
       ]
     },
     "weather tomorrow": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-17T22:14:00+09:00",
-      "lastSeen": "2026-09-17T22:43:00+09:00",
+      "lastSeen": "2026-09-17T23:15:00+09:00",
       "news": [
         {
           "title": "Monsoon-Fueled Storms Soak the Southwestern US",
@@ -5155,14 +5167,26 @@
           "url": "https://www.abc15.com/weather/what-to-expect-flood-watch-on-wednesday-for-heavy-rain-and-flash-flooding",
           "source": "ABC15 Arizona",
           "date": "2026-09-17"
+        },
+        {
+          "title": "Arizona slammed by torrential rain and dangerous flash flooding",
+          "url": "https://www.usatoday.com/videos/news/weather/2026/09/17/torrential-rain-triggers-dangerous-flash-flooding-in-arizona/91806341007/",
+          "source": "USA Today",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "3 killed as tropical disturbance fuels dangerous monsoon flooding in the Four Corners",
+          "url": "https://www.foxweather.com/weather-news/rare-tropical-disturbance-gulf-of-california-southwest-flood-threat",
+          "source": "FOX Weather",
+          "date": "2026-09-17"
         }
       ]
     },
     "cuaca besok": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T22:14:00+09:00",
-      "lastSeen": "2026-09-17T22:43:00+09:00",
+      "lastSeen": "2026-09-17T23:15:00+09:00",
       "news": [
         {
           "title": "Cuaca Jakarta Jumat Besok: Jakbar dan Jaktim Berpotensi Diguyur Hujan",
@@ -5180,6 +5204,44 @@
           "title": "BMKG Prediksi Suhu Tertinggi 35°C di Jakarta Selatan, Rekor Panas Musim Ini Menggoyang Warga dan Aktivitas Luar Ruangan – Berita Hari Ini",
           "url": "https://lifestyle.teknokrat.ac.id/bmkg-prediksi-suhu-tertinggi-35c-di-jakarta-selatan-rekor-panas-musim-ini-menggoyang-warga-dan-aktivitas-luar-ruangan/",
           "source": "Universitas Teknokrat Indonesia",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "6 Wilayah Jawa Barat Berpotensi Hujan Ringan Besok (16/9), Cek Daftar Lengkapnya",
+          "url": "https://momsmoney.kontan.co.id/news/6-wilayah-jawa-barat-berpotensi-hujan-ringan-besok-169-cek-daftar-lengkapnya",
+          "source": "kontan.co.id",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Peringatan Dini Cuaca BMKG Jabodetabek Besok 18-19 September 2026, Bekasi-Bogor Berpotensi Hujan",
+          "url": "https://www.kompas.tv/regional/691184/peringatan-dini-cuaca-bmkg-jabodetabek-besok-18-19-september-2026-bekasi-bogor-berpotensi-hujan",
+          "source": "Kompas.tv",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "로맥": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T23:15:00+09:00",
+      "lastSeen": "2026-09-17T23:15:00+09:00",
+      "news": [
+        {
+          "title": "‘어서와 한국은’ 제이미 로맥, 문학경기장→치맥 맛집",
+          "url": "https://v.daum.net/v/20260917203843761",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "이대호 \"가장 만나기 싫었던 선수는 니퍼트\" (어서와 한국은)",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/518504",
+          "source": "iMBC 연예",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "MBC에브리원 '어서와 한국은 처음이지?' 니퍼트X이대호X지상���, 로맥 귀환에 뭉쳤다",
+          "url": "https://www.newsinstar.com/news/article.html?no=83927",
+          "source": "뉴스인스타",
           "date": "2026-09-17"
         }
       ]
