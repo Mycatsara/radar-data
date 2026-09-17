@@ -2971,10 +2971,10 @@
       ]
     },
     "교통약자석": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T14:41:00+09:00",
-      "lastSeen": "2026-09-17T14:41:00+09:00",
+      "lastSeen": "2026-09-17T15:17:00+09:00",
       "news": [
         {
           "title": "“나와” 옷 잡은 노인에 여성 발길질…2호선 노약자석 몸싸움",
@@ -2993,14 +2993,20 @@
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757086",
           "source": "SBS 뉴스",
           "date": "2026-09-17"
+        },
+        {
+          "title": "\"이거 놔\" \"노약자석 앉지 마\"...2호선 난투극 영상 [뉴스퀘어 2PM]",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609171426313172",
+          "source": "YTN",
+          "date": "2026-09-17"
         }
       ]
     },
     "양나래": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T14:41:00+09:00",
-      "lastSeen": "2026-09-17T14:41:00+09:00",
+      "lastSeen": "2026-09-17T15:17:00+09:00",
       "news": [
         {
           "title": "양나래 변호사, 결혼식 현장 공개…훈남 남편 옆에서 \"내 생에 가장 행복\" [N샷]",
@@ -3018,6 +3024,18 @@
           "title": "양나래 변호사, 남편 국정원 요원설에 \"살아있다\"..공개 안하는 이유 ('비밀��장')",
           "url": "http://www.osen.co.kr/article/G1112876382",
           "source": "OSEN",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'이혼 전문' 양나래 변호사, 결혼 결심한 이유...\"데이터로 고르고 골랐다\" (비밀보장)",
+          "url": "https://v.daum.net/v/20260917121109041",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'결혼' 양나래 변호사, 신라호텔서 ♥남편 실루엣 공개 \"내향형 연상\"",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/09/17/GY3TOMZXG4YTEMDCGVRDMNBSMU/",
+          "source": "조선일보",
           "date": "2026-09-17"
         }
       ]
@@ -3070,6 +3088,214 @@
           "title": "청년 지지율 하락세에 민주당 “추석 전 ‘청년 주거복지 플랜’ 발표”",
           "url": "https://www.khan.co.kr/article/202609171337001",
           "source": "경향신문",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "전북특별자치도지사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T15:17:00+09:00",
+      "lastSeen": "2026-09-17T15:17:00+09:00",
+      "news": [
+        {
+          "title": "'대리 운전비 살포' 혐의 김관영 전 전북도지사 송치(종합)",
+          "url": "https://v.daum.net/v/20260917112552982",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "전·현 전북지사 나란히 검찰로···경찰, 김관영 ‘기부행위’·이원택 ‘허위사실 공표’ 송치",
+          "url": "https://www.khan.co.kr/article/202609171049001",
+          "source": "경향신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'식사비 대납 허위 사실 ��표' 혐의 이원택 전북지사 송치(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260917071351055",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "나탈리 하프": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T15:17:00+09:00",
+      "lastSeen": "2026-09-17T15:17:00+09:00",
+      "news": [
+        {
+          "title": "트럼프, '애착 담요' 女 보좌관과 입맞춤?…일파만파 퍼지더니",
+          "url": "https://www.hankyung.com/article/202609179863H",
+          "source": "한국경제",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "진짜? AI 합성?...트럼프, 보좌관과 골프장 키스 사진 확산",
+          "url": "https://v.daum.net/v/20260917145350900",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "트럼프가 금발의 여성과... AI 합성 이미지? [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609171418010526",
+          "source": "YTN",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "조주빈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T15:17:00+09:00",
+      "lastSeen": "2026-09-17T15:17:00+09:00",
+      "news": [
+        {
+          "title": "\"매일 울어 재소자들에게 따돌림, 폭행당해\"…징역 47년 조주빈 근황",
+          "url": "https://www.news1.kr/society/general-society/6292790",
+          "source": "뉴스1",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "\"매일 울고 따돌림·폭행당해\"…'박사방' 조주빈 근황 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/17/2026091713315227671",
+          "source": "머니투데이",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'징역 47년4개월' 조주빈 교도소 근황 주장 확산��“영치금 압류·살 빠져”",
+          "url": "https://www.segyenewsagency.com/news/articleView.html?idxno=641716",
+          "source": "세계뉴스통신",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "트렌드": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T15:17:00+09:00",
+      "lastSeen": "2026-09-17T15:17:00+09:00",
+      "news": [
+        {
+          "title": "코트라가 꼽은 2027 세계 트렌드…'가벼운 삶'과 'AI 동반자'",
+          "url": "https://v.daum.net/v/20260917143556749",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "내년 세계 트렌드는… “가볍고 유연, AI는 동반자”",
+          "url": "https://www.munhwa.com/article/11617797",
+          "source": "문화일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "“덜 소유하고 AI와 연애한다”…코트라가 꼽은 2027년 10대 트렌드",
+          "url": "https://biz.heraldcorp.com/article/10876364",
+          "source": "헤럴드경제",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "종로3가": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T15:17:00+09:00",
+      "lastSeen": "2026-09-17T15:17:00+09:00",
+      "news": [
+        {
+          "title": "“한옥에 밤 포차까지…종로 3가, 세계서 가장 멋진 동네”",
+          "url": "https://www.donga.com/news/Society/article/all/20260917/134687491/1",
+          "source": "동아일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "뉴욕·파리도 아니었다…세계 최고 힙하다는 ‘서울 이곳’",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000012911",
+          "source": "국민일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "세계서 가장 멋진 동네 1위 차지한 韓 '이곳'…\"포장마차서 맥주에 ���치·해물전은 못 참지\"",
+          "url": "https://view.asiae.co.kr/article/2026091711095045807",
+          "source": "아시아경제",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "임은정": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T15:17:00+09:00",
+      "lastSeen": "2026-09-17T15:17:00+09:00",
+      "news": [
+        {
+          "title": "‘친윤검사’ 논란 중수청장 후보에 행안부 \"윤 정부 때 좌천\"",
+          "url": "https://news.jtbc.co.kr/article/NB12318760",
+          "source": "JTBC",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "추미애, 김지용 해명에 “한심한 궤변”…연이틀 지명 철회 압박",
+          "url": "https://v.daum.net/v/20260917145604057",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "행안부 \"김지용 후보자, 김학의·정진웅 기소 반대‥윤석열 친인척 불기���는 재수사 명령\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6852445_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "고기압": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T15:17:00+09:00",
+      "lastSeen": "2026-09-17T15:17:00+09:00",
+      "news": [
+        {
+          "title": "찬 고기압이 밀어냈다…25호 태풍 일본 향해",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260917051543neU",
+          "source": "연합뉴스TV",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[뉴스센터] 추석 앞두고 태풍 북상 중…한반도 영향은?",
+          "url": "https://v.daum.net/v/20260917123847593",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "다음주 초까지 '청명한 가을날'…태백산맥 서쪽 덥고 건조",
+          "url": "https://www.yna.co.kr/view/AKR20260917104100530",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "레지던트 이블 0번째 밤": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T15:17:00+09:00",
+      "lastSeen": "2026-09-17T15:17:00+09:00",
+      "news": [
+        {
+          "title": "'레지던트 이블: 0번째 밤', 로튼토마토 97%…해외 평단 호평",
+          "url": "https://www.newspim.com/news/view/20260917000889",
+          "source": "뉴스핌",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'누적 판매 2억 장' 레전드 게임, 완벽 부활…극한의 생존 서바이벌로 돌아온 '호러 영화'",
+          "url": "https://v.daum.net/v/20260917130709194",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "도파민 폭발 호러버스터… ‘레지던트 이블: 0번째 밤’[봤어영]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01230006645581104&mediaCodeNo=257",
+          "source": "이데일리",
           "date": "2026-09-17"
         }
       ]
