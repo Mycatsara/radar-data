@@ -758,10 +758,10 @@
       ]
     },
     "크리스털 팰리스 대 레흐 포즈난": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T05:40:00+09:00",
-      "lastSeen": "2026-09-18T06:13:00+09:00",
+      "lastSeen": "2026-09-18T06:39:00+09:00",
       "news": [
         {
           "title": "크리스탈 팰리스 vs 레흐 포즈난 예측: 상위권 경쟁의 뜨거운 승부",
@@ -784,10 +784,10 @@
       ]
     },
     "man city vs norwich city": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T05:40:00+09:00",
-      "lastSeen": "2026-09-18T06:13:00+09:00",
+      "lastSeen": "2026-09-18T06:39:00+09:00",
       "news": [
         {
           "title": "EFL Cup 3rd Round LIVE: Manchester City vs Norwich City - live text updates, score & radio commentary",
@@ -822,10 +822,10 @@
       ]
     },
     "sri lanka vs england": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T06:13:00+09:00",
-      "lastSeen": "2026-09-18T06:13:00+09:00",
+      "lastSeen": "2026-09-18T06:39:00+09:00",
       "news": [
         {
           "title": "England vs Sri Lanka LIVE: Second T20, Cardiff - cricket score, commentary & video highlights",
@@ -844,14 +844,26 @@
           "url": "https://sports.yahoo.com/articles/england-crush-sri-lanka-seal-203437396.html",
           "source": "Yahoo Sports",
           "date": "2026-09-17"
+        },
+        {
+          "title": "England vs Sri Lanka: Jos Buttler breaks T20 runs record as Harry Brook's side clinch series win with game to spare",
+          "url": "https://www.skysports.com/cricket/news/12123/13589035/england-vs-sri-lanka-jos-buttler-breaks-t20-runs-record-as-harry-brooks-side-clinch-series-win-with-game-to-spare",
+          "source": "Sky Sports",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Sri Lanka's T20 issues run deeper than just lacking the power game",
+          "url": "https://www.cricinfo.com/story/eng-vs-sl-sri-lanka-s-t20-issues-run-deeper-than-just-lacking-the-power-game-1554495",
+          "source": "Cricinfo",
+          "date": "2026-09-17"
         }
       ]
     },
     "유재석": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-18T06:13:00+09:00",
-      "lastSeen": "2026-09-18T06:13:00+09:00",
+      "lastSeen": "2026-09-18T06:39:00+09:00",
       "news": [
         {
           "title": "tvN 또 해냈다…최고 5.6%→동시간대 1위 찍으며 수요일 밤 꽉 잡은 예능 ('유퀴즈')",
@@ -870,14 +882,26 @@
           "url": "https://www.koreadaily.com/article/20260916172906865",
           "source": "미주중앙일보",
           "date": "2026-09-17"
+        },
+        {
+          "title": "유재석, 친정 복귀 또 실패했다…나영석에도 밀린 1%대 시청률 부진의 늪 ('해투')",
+          "url": "https://v.daum.net/v/20260918060109814",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "‘해피투게더’ 썸데이, 17년만 터졌다",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202609100062",
+          "source": "BNT뉴스",
+          "date": "2026-09-17"
         }
       ]
     },
     "man city đấu với norwich": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T06:13:00+09:00",
-      "lastSeen": "2026-09-18T06:13:00+09:00",
+      "lastSeen": "2026-09-18T06:39:00+09:00",
       "news": [
         {
           "title": "Nhận định bóng đá Man City vs Norwich, 01h30 ngày 18/9: Quỳ gối trước nhà vua",
@@ -895,6 +919,136 @@
           "title": "SIARAN LANGSUNG Manchester City vs Norwich: Pertandingan sedang berlangsung",
           "url": "https://www.vietnam.vn/id/truc-tieptruc-tiep-manchester-city-vs-norwich-tran-dau-dang-dien-ra",
           "source": "Vietnam.vn",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "지리산": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T06:39:00+09:00",
+      "lastSeen": "2026-09-18T06:39:00+09:00",
+      "news": [
+        {
+          "title": "지리산 바위 틈 과자·소주·순대... 70여년 뒤늦게 도착한 보급품",
+          "url": "https://v.daum.net/v/43rgCKpX7u",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "장엄한 지리산주능선은 산불의 아픔까지 넉넉히 품었다",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268081",
+          "source": "OhmyNews",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[조점선의 지리산 소식] 가을 지리산…‘정상 인증샷도 웨이팅’",
+          "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=645385",
+          "source": "경남일보",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "유도": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T06:39:00+09:00",
+      "lastSeen": "2026-09-18T06:39:00+09:00",
+      "news": [
+        {
+          "title": "'前국가대표' 김민경, 유도 75kg 이상 무제한 체급 대회 나서…\"멱살 잡혀본 적도 없어\"('운동뚱')",
+          "url": "https://v.daum.net/v/p2MwF3GhYN",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "사격 국대까지 된 김민경, 이번엔 유도다…‘운동뚱’ 컴백",
+          "url": "https://sports.donga.com/ent/article/all/20260915/134670555/1",
+          "source": "스포츠동아",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "‘사격 국대’ 김민경, 이번엔 유도다…금메달 향한 새로운 도전 (운동뚱)",
+          "url": "https://m.newsen.com/news_view.php?uid=202609151100432410",
+          "source": "뉴스엔",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "기후동행카드": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T06:39:00+09:00",
+      "lastSeen": "2026-09-18T06:39:00+09:00",
+      "news": [
+        {
+          "title": "\"기후동행카드 잘 쓰고 있긴했다만\"…모두의카드 전환 보름, 서울역 부스 가보니[출동!인턴]",
+          "url": "https://www.newsis.com/view/NISX20260916_0003792232",
+          "source": "뉴시스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "“기후동행카드 바꿔야 하나”…지하철역선 ‘패스 갈아타기’",
+          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129407",
+          "source": "투데이신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "교통비 아끼려다 매번 공부합니다, 계속 바뀌는 기후동행카드",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003267107",
+          "source": "OhmyNews",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "유로파리그": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T06:39:00+09:00",
+      "lastSeen": "2026-09-18T06:39:00+09:00",
+      "news": [
+        {
+          "title": "셀틱 대 페렌츠바로시 TC 경기 예측: 좋은 컨디션을 유지하고 있는 두 팀의 맞대결입니다.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-celtic-vs-ferencvarosi-tc-man-so-tai-cua-hai-doi-vao-phom",
+          "source": "Vietnam.vn",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "\"한국에 이득 됐어\" 양현준 자리 비운 사이 라이벌전 0-3 참사...韓 대표팀서는 쐐기골 도움 \"빨리 돌아와\"",
+          "url": "https://yourfield.nexon.com/today/view/2025052909553543133?type=all",
+          "source": "Your Field",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "유로파 리그 셀틱 대 페렌츠바로시 축구 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-celtic-vs-ferencvaros-tai-europa-league-1768351.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "정웅인": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T06:39:00+09:00",
+      "lastSeen": "2026-09-18T06:39:00+09:00",
+      "news": [
+        {
+          "title": "19세 정웅인 딸, 폭풍 성장…화려한 톱 입은 근황",
+          "url": "https://www.newsis.com/view/NISX20260917_0003794245",
+          "source": "뉴시스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "‘정웅인 첫째딸’ 정세윤, 배우 준비한다더니..‘경북대 퀸카’ 母도 인정한 미모",
+          "url": "https://v.daum.net/v/20260917162836620",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'정웅인 장녀' 정세윤, 폭풍성장 근황…고급진 비주얼 뽐낸 배우 지망생 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/18/GMZWKNRSGJRWKM3FMY2DQN3BGU/",
+          "source": "Chosunbiz",
           "date": "2026-09-17"
         }
       ]
