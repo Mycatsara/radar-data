@@ -1665,10 +1665,10 @@
       ]
     },
     "마이크로소프트": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-17T08:40:00+09:00",
-      "lastSeen": "2026-09-17T08:40:00+09:00",
+      "lastSeen": "2026-09-17T09:17:00+09:00",
       "news": [
         {
           "title": "'AI 공룡'의 충돌…'인류 파멸' 경고 뒤 속내는",
@@ -1687,15 +1687,34 @@
           "url": "https://www.mt.co.kr/world/2026/09/17/2026091705364173537",
           "source": "머니투데이",
           "date": "2026-09-16"
+        },
+        {
+          "title": "유엔 총장 \"안전 장치 없는 AI, 재앙 초래할 수도\"...안보리 논의 가능성",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609170827219340",
+          "source": "YTN",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "속도조절론 핵심엔 ‘AI가 개발하는 AI’…60년 전 공상, 현실 위험으로",
+          "url": "https://www.hani.co.kr/arti/economy/it/1278144.html",
+          "source": "한겨레",
+          "date": "2026-09-16"
         }
       ]
     },
     "대학 입학": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-17T08:40:00+09:00",
-      "lastSeen": "2026-09-17T08:40:00+09:00",
-      "news": []
+      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "news": [
+        {
+          "title": "[속보] '수시 먹통' 원서접수 미완료 최대 1200여명…14일부터 구제",
+          "url": "https://news.nate.com/view/20260913n15915?mid=n1101",
+          "source": "네이트",
+          "date": "2026-09-16"
+        }
+      ]
     },
     "fc barcelona vs racing santander standings": {
       "count": 1,
@@ -1770,6 +1789,214 @@
         {
           "title": "[사설] 여야 “전기차 세액공제 추진”…조속한 입법이 관건",
           "url": "https://www.sedaily.com/article/20091855",
+          "source": "서울경제",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "상여금": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T09:17:00+09:00",
+      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "news": [
+        {
+          "title": "청주산단 입주기업 절반 추석 상여금·여비 없어",
+          "url": "https://www.yna.co.kr/view/AKR20260916136500064",
+          "source": "연합뉴스",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "광양상의, 관내 기업 74.4% \"추석 연휴 4일간 휴무\"",
+          "url": "https://view.asiae.co.kr/article/2026091609432684140",
+          "source": "아시아경제",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "경남 기업 올해 추석 연휴 평균 4.13일 쉰다",
+          "url": "https://v.daum.net/v/20260917071017487",
+          "source": "Daum",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "살인": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-17T09:17:00+09:00",
+      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "news": [
+        {
+          "title": "옷 벗겨진 20~30대 여성 시신 7구…연쇄살인 공포에 싸인 '이 도시'",
+          "url": "https://www.news1.kr/world/middleeast-africa/6292655",
+          "source": "뉴스1",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "옷 벗겨진 여성 시신 잇따라…남아공 '8명의 죽음'에 연쇄살인 공포 확산",
+          "url": "https://www.asiae.co.kr/article/2026091709011170545",
+          "source": "아시아경제",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "남아공서 두달새 여성 8명 숨진 채 발견…현상금 걸고 봉쇄 수사",
+          "url": "https://v.daum.net/v/20260917011852575",
+          "source": "Daum",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "fifa u-20 여자 월드컵": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T09:17:00+09:00",
+      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "news": [
+        {
+          "title": "범예주 극적 결승골…한국 여자축구, 12년 만에 U-20 월드컵 8강",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01210326645581104&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "U-20 태극낭자, 아르헨티나에 1-0 승리…월드컵 8강 진출",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260917084829u0r",
+          "source": "연합뉴스TV",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "중국과 승부차기 '혈투' 이탈리아가 올라왔다...한국, U-20 여자 월드컵 8강 격돌",
+          "url": "https://v.daum.net/v/20260917042952344",
+          "source": "Daum",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "인천광역시": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T09:17:00+09:00",
+      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "news": [
+        {
+          "title": "[인천소식] 인천시, 19~20일 마을기업 팝업스토어 개최",
+          "url": "https://www.dailian.co.kr/news/view/1691409/%EC%9D%B8%EC%B2%9C%EC%86%8C%EC%8B%9D-%EC%9D%B8%EC%B2%9C%EC%8B%9C-1920%EC%9D%BC-%EB%A7%88%EC%9D%84%EA%B8%B0%EC%97%85-2026",
+          "source": "데일리안",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "인천 마을기업, 서울역 팝업스토어서 제품·사회적 가치 알려",
+          "url": "https://www.siminsori.com/news/articleView.html?idxno=401482",
+          "source": "시민의소리",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "인천시, 마을기업 제품 한자리에 ‘시민愛집’서 팝업스토어 개최",
+          "url": "http://www.surprisenews.kr/news/articleView.html?idxno=698528",
+          "source": "서프라이즈뉴스",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "파라 타 항공": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T09:17:00+09:00",
+      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "news": [
+        {
+          "title": "25개 국제선 노선 10개 항공사에 배분…중국 노선 확대에 중점",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971988",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "내년 여름 “저가항공 타고 베이징·상하이로”",
+          "url": "https://www.khan.co.kr/article/202609162028005",
+          "source": "경향신문",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "부산·청주·대구공항에서 청두·하얼빈 등 중국 대도시 직항 신설",
+          "url": "https://zdnet.co.kr/view/?no=20260916110621",
+          "source": "지디넷코리아",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "라민 야말": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T09:17:00+09:00",
+      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "news": [
+        {
+          "title": "“민심 조작 중이다” 佛 현지→19살 야말, 발롱도르 발언 두고 분노 “여론 몰이 통해 의도적으로 경쟁자 제거”",
+          "url": "https://sports.khan.co.kr/article/202609161821003",
+          "source": "스포츠경향",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "야말 “세계최고의 축구선수는 나와 음바페…발롱도르는 내 것”",
+          "url": "https://www.munhwa.com/article/11617063",
+          "source": "문화일��",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "라민 야말 \"발롱도르 자격은 내게 있다\"...음바페와 신경전",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433552",
+          "source": "데일리스포츠한국",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "다저스 대 레즈": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T09:17:00+09:00",
+      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "news": [
+        {
+          "title": "이래서 4453억 받는다! 야마모토 158km KKKKKKK 무실점→14승 수확…'14년 연속 PS' 다저스 2연승",
+          "url": "https://v.daum.net/v/fLCKjrNdCU?f=p",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "LA 다저스, 14년 연속 ‘가을 야구’ 진출",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/16/IG6RENBPAVBUVNVVHBB5FCX7AY/",
+          "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "'명장' 로버츠 \"우린 아직 배고프다\"…14년 연속 PS 역사→21년 만에 WS 3연패 도전 천명",
+          "url": "https://www.osen.co.kr/article/G1112876070",
+          "source": "OSEN",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    "정용진": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T09:17:00+09:00",
+      "lastSeen": "2026-09-17T09:17:00+09:00",
+      "news": [
+        {
+          "title": "[신세계그룹 인사 풍향계①] 정용진 이마트 대표로 14년 만의 등판, 오너와 전문경영인 각자대표 체제 자리잡나",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447245",
+          "source": "비즈니스포스트",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[MD포커스] 계열분리 속도 내는 신세계…정용진·정유경 ‘경영 구도’ 정기 인사에 쏠린 눈",
+          "url": "https://mydaily.co.kr/page/view/2026091322234994541",
+          "source": "마이데일리",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "5000만원씩 사더니 2000만원대로 ‘뚝’…지자체 스벅 상품권 구매 급감했다",
+          "url": "https://www.sedaily.com/article/20090734",
           "source": "서울경제",
           "date": "2026-09-16"
         }
