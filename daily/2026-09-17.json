@@ -2057,10 +2057,10 @@
       ]
     },
     "브레이브스 대 컵스": {
-      "count": 3,
-      "maxTraffic": 500,
+      "count": 4,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-17T09:46:00+09:00",
-      "lastSeen": "2026-09-17T10:41:00+09:00",
+      "lastSeen": "2026-09-17T11:13:00+09:00",
       "news": [
         {
           "title": "'대반전' 김하성 PS 예상 로스터 당당히 승선, 입지 이렇게 바뀌나 \"두 가지 이유로 논란 종결\"",
@@ -2095,10 +2095,10 @@
       ]
     },
     "한국항공우주산업": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T09:46:00+09:00",
-      "lastSeen": "2026-09-17T10:41:00+09:00",
+      "lastSeen": "2026-09-17T11:13:00+09:00",
       "news": [
         {
           "title": "국내외 방산전문가 1500명 온 시연회서 K드론 잇단 추락",
@@ -2178,10 +2178,10 @@
       ]
     },
     "inter miami vs cruz azul": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T10:12:00+09:00",
-      "lastSeen": "2026-09-17T10:41:00+09:00",
+      "lastSeen": "2026-09-17T11:13:00+09:00",
       "news": [
         {
           "title": "Does the 2026 Campeones Cup between Inter Miami and Cruz Azul count as an official title?",
@@ -2200,14 +2200,20 @@
           "url": "https://www.espn.com/soccer/story/_/id/49958765/messi-opens-campeones-cup-scoring-100th-goal-miami",
           "source": "ESPN",
           "date": "2026-09-17"
+        },
+        {
+          "title": "MATCH PREVIEW: Inter Miami CF Hosts Cruz Azul the 2026 Michelob ULTRA Campeones Cup",
+          "url": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-hosts-cruz-azul-the-2026-michelob-ultra-campeones-cup",
+          "source": "Inter Miami CF",
+          "date": "2026-09-17"
         }
       ]
     },
     "jev": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T10:12:00+09:00",
-      "lastSeen": "2026-09-17T10:41:00+09:00",
+      "lastSeen": "2026-09-17T11:13:00+09:00",
       "news": [
         {
           "title": "This $200 Million Startup Wants To Fix AI’s Overconfidence Problem",
@@ -2230,10 +2236,10 @@
       ]
     },
     "테크볼": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T10:41:00+09:00",
-      "lastSeen": "2026-09-17T10:41:00+09:00",
+      "lastSeen": "2026-09-17T11:13:00+09:00",
       "news": [
         {
           "title": "버추얼 태권도부터 MMA까지, 확! 달라진 아시안게임 총정리.zip - 영상 | 멀티미디어",
@@ -2251,6 +2257,142 @@
           "title": "[주목 이 선��]㉑ 파리 金 김유진, 다시 '도전자'로 AG 첫 정상 발차기 도전",
           "url": "https://www.news1.kr/sports/general-sport/6288373",
           "source": "뉴스1",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "VR태권도·테크볼·빠델…눈길 사로잡는 아시안게임 이색 종목",
+          "url": "https://biz.heraldcorp.com/article/10876229",
+          "source": "헤럴드경제",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "fifa u 20 여자 월드컵": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "news": [
+        {
+          "title": "한국 축구, 아르헨티나 1-0 꺾고 12년만에 U-20 여자 월드컵 8강",
+          "url": "https://www.yna.co.kr/view/AKR20260916191400007",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "U-20 여자 축구 대표팀, 아르헨티나 꺾고 월드컵 8강 진출",
+          "url": "https://v.daum.net/v/20260917102805248",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "범예주 극적 결승골…한국 여자축구, 12년 만에 U-20 월드컵 8강",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01210326645581104&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "신원식": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "news": [
+        {
+          "title": "'계엄 정당화 메시지' 신원식 前안보실장 측 \"尹 지시 안 받아\"",
+          "url": "https://www.yna.co.kr/view/AKR20260916126100004",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "’비상계엄 정당화 메시지’ 신원식, 모든 혐의 부인",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260917052142MEC",
+          "source": "연합뉴스TV",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'비상계엄 정당화 메시지' 윤석열·신원�� 재판 시작…직권남용 혐의",
+          "url": "https://www.news1.kr/society/court-prosecution/6292644",
+          "source": "뉴스1",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "윤여정": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "news": [
+        {
+          "title": "윤여정 영어 지적한 BBC, 틀렸다···조지은 옥스퍼드 교수 “mukbang과 unnie도 맞는 영어”",
+          "url": "https://www.khan.co.kr/article/202609170600031",
+          "source": "경향신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "‘성난 사람들 2’ 미국 에미상 3관왕···시상식 간 윤여정은 ‘여우조연상 불발’",
+          "url": "https://www.khan.co.kr/article/202609151435001",
+          "source": "경향신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[문화연예 ���러스] '성난 사람들2', 에미상 작품상 수상 불발",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6852119_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "대학 입시": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "news": [
+        {
+          "title": "‘수시 먹통’ 우왕좌왕 일주일… 수험생 분통",
+          "url": "https://www.chosun.com/national/education/2026/09/17/TA2TFGHPYNBMBDRB5HJZ6CMJ4I/",
+          "source": "조선일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "국힘 \"수시 접수 먹통, 공정과 형평 사라져…책임 규명 TF 구성\"",
+          "url": "https://v.daum.net/v/20260917103320620",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "교육�� \"경쟁률 보고 낸 원서, 취소 검토\" 초강수 - 머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/09/17/2026091619573888152",
+          "source": "머니투데이",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "고영욱": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "news": [
+        {
+          "title": "고영욱, 무빈소 장례 계획…“여러모로 앞서가”",
+          "url": "https://www.mk.co.kr/news/hot-issues/12154744",
+          "source": "매일경제",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "‘연예인 전자발찌 1호’ 고영욱, 비판 여론 속…“무빈소 장례 진작 결정, 난 늘 앞서가네”",
+          "url": "https://www.sedaily.com/article/20091735",
+          "source": "서울경제",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "고영욱, '전자발찌 벗고 러닝 논란' 의식했나..\"혼자 뛰는 게 좋아\" 장기하 책 공유 [스타이슈]",
+          "url": "https://v.daum.net/v/tlyViV71hj",
+          "source": "Daum",
           "date": "2026-09-17"
         }
       ]
