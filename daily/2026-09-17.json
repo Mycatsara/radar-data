@@ -2280,10 +2280,10 @@
       ]
     },
     "fifa u 20 여자 월드컵": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-17T11:13:00+09:00",
-      "lastSeen": "2026-09-17T12:42:00+09:00",
+      "lastSeen": "2026-09-17T13:14:00+09:00",
       "news": [
         {
           "title": "한국 축구, 아르헨티나 1-0 꺾고 12년만에 U-20 여자 월드컵 8강",
@@ -2446,10 +2446,10 @@
       ]
     },
     "도널드 j. 트럼프": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T12:13:00+09:00",
-      "lastSeen": "2026-09-17T12:42:00+09:00",
+      "lastSeen": "2026-09-17T13:14:00+09:00",
       "news": [
         {
           "title": "“내 이름 떼? 당장 폐쇄”…고성 지른 트럼프, 케네디센터 ‘초강수’",
@@ -2484,10 +2484,10 @@
       ]
     },
     "부산국제영화제": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T12:13:00+09:00",
-      "lastSeen": "2026-09-17T12:42:00+09:00",
+      "lastSeen": "2026-09-17T13:14:00+09:00",
       "news": [
         {
           "title": "‘와호장룡’ 양자경 15년 만에 부산 레드카펫 밟는다···내달 6일부터 부산국제영화제",
@@ -2510,10 +2510,10 @@
       ]
     },
     "pca": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T12:13:00+09:00",
-      "lastSeen": "2026-09-17T12:42:00+09:00",
+      "lastSeen": "2026-09-17T13:14:00+09:00",
       "news": [
         {
           "title": "PCA adds to MVP candidacy with another multihomer night against Braves",
@@ -2568,10 +2568,10 @@
       ]
     },
     "유승민": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T12:42:00+09:00",
-      "lastSeen": "2026-09-17T12:42:00+09:00",
+      "lastSeen": "2026-09-17T13:14:00+09:00",
       "news": [
         {
           "title": "[단독]유승민 '탁구 국대 바꿔치기' 의혹…경찰 수사심의 요청",
@@ -2590,14 +2590,20 @@
           "url": "https://www.nocutnews.co.kr/news/6579399",
           "source": "노컷뉴스",
           "date": "2026-09-17"
+        },
+        {
+          "title": "유승민 '국대 선발 개입' 의혹 불송치…고발인 수사심의 신청",
+          "url": "https://www.newsis.com/view/NISX20260917_0003793692",
+          "source": "뉴시스",
+          "date": "2026-09-17"
         }
       ]
     },
     "캐시워크 정답": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T12:42:00+09:00",
-      "lastSeen": "2026-09-17T12:42:00+09:00",
+      "lastSeen": "2026-09-17T13:14:00+09:00",
       "news": [
         {
           "title": "[단독] 캐시워크 돈버는퀴즈 정답 9월 17일",
@@ -2616,6 +2622,12 @@
           "url": "https://www.job-post.co.kr/news/articleView.html?idxno=227488",
           "source": "잡포스트",
           "date": "2026-09-17"
+        },
+        {
+          "title": "2026 차세대 트롯 가왕 캐시워크 돈 버는 퀴즈, 정답은?",
+          "url": "https://www.ajunews.com/view/20260916133543346",
+          "source": "아주경제",
+          "date": "2026-09-17"
         }
       ]
     },
@@ -2625,6 +2637,110 @@
       "firstSeen": "2026-09-17T12:42:00+09:00",
       "lastSeen": "2026-09-17T12:42:00+09:00",
       "news": []
+    },
+    "강주은": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T13:14:00+09:00",
+      "lastSeen": "2026-09-17T13:14:00+09:00",
+      "news": [
+        {
+          "title": "강주은, 부모님과 6번째 합가 앞두고 캐나다行..기억 흐려진 母에 '먹먹'",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-17/202609170100116400007518",
+          "source": "스포츠조선",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "강주은, 부모와 6번째 합가 앞두고 캐나다서 보낸 일주일...기억 흐려진 母 다독이며 먹먹",
+          "url": "https://www.insight.co.kr/news/573913",
+          "source": "인사이트",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "최진혁, 최민수♥강주은 부부 응원에 감격...\"이 감사함 다 갚으며 살겠다\" [★해시태그]",
+          "url": "https://v.daum.net/v/HDmeF8B3YZ",
+          "source": "Daum",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "이형일": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T13:14:00+09:00",
+      "lastSeen": "2026-09-17T13:14:00+09:00",
+      "news": [
+        {
+          "title": "여야 합의로 이형일 재경부 장관 후보자 청문보고서 채택",
+          "url": "https://www.hani.co.kr/arti/politics/assembly/1278219.html",
+          "source": "한겨레",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "국회 재경위, 이형일 후보자 인사청문보고서 채택‥국힘 '부적격'",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6852450_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "이형일, 재정준칙 도입에 “고려할 요인 많아”…미래대응기금엔 “쌈짓돈 아냐”",
+          "url": "https://v.daum.net/v/bUcZlQ9Ulg",
+          "source": "Daum",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "수도권 광역급행철도": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T13:14:00+09:00",
+      "lastSeen": "2026-09-17T13:14:00+09:00",
+      "news": [
+        {
+          "title": "수도권광역급행철도 GTX-C 사업 실착공 - 사진 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=73401&pageIndex=1",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "양주시, GTX 타고 기업 품는다…‘경기북부 중심도시’ 대도약",
+          "url": "https://v.daum.net/v/20260917110050278",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[패트롤] 경기도-경기도의회-경기도교육청-경기경제자유구역청-경기주택도시공사",
+          "url": "https://m.ekn.kr/view.php?key=20260916026475223",
+          "source": "에너지경제신문",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "맥도날드": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T13:14:00+09:00",
+      "lastSeen": "2026-09-17T13:14:00+09:00",
+      "news": [
+        {
+          "title": "맥크리스피·맥스파이시에 ‘고추장 버터’가?···지드래곤 손잡고 아시아 13개국에 ‘K버거’ 뜬다",
+          "url": "https://www.khan.co.kr/article/202609161036001",
+          "source": "경향신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "맥도날드, '고추장 버터' 버거 국내 첫선…亞 13개 시장으로 확대",
+          "url": "https://v.daum.net/v/y1xY20Hl1o",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "\"고추장 버터로 아시아 공략\" 한국맥도날드, 신메뉴 13개국 공개",
+          "url": "https://www.newsis.com/view/NISX20260916_0003791369",
+          "source": "뉴시스",
+          "date": "2026-09-17"
+        }
+      ]
     }
   },
   "sections": {
