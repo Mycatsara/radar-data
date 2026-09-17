@@ -2280,10 +2280,10 @@
       ]
     },
     "fifa u 20 여자 월드컵": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-17T11:13:00+09:00",
-      "lastSeen": "2026-09-17T12:13:00+09:00",
+      "lastSeen": "2026-09-17T12:42:00+09:00",
       "news": [
         {
           "title": "한국 축구, 아르헨티나 1-0 꺾고 12년만에 U-20 여자 월드컵 8강",
@@ -2318,10 +2318,10 @@
       ]
     },
     "신원식": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T11:13:00+09:00",
-      "lastSeen": "2026-09-17T12:13:00+09:00",
+      "lastSeen": "2026-09-17T12:42:00+09:00",
       "news": [
         {
           "title": "'계엄 정당화 메시지' 신원식 前안보실장 측 \"尹 지시 안 받아\"",
@@ -2344,10 +2344,10 @@
       ]
     },
     "윤여정": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T11:13:00+09:00",
-      "lastSeen": "2026-09-17T12:13:00+09:00",
+      "lastSeen": "2026-09-17T12:42:00+09:00",
       "news": [
         {
           "title": "윤여정 영어 지적한 BBC, 틀렸다···조지은 옥스퍼드 교수 “mukbang과 unnie도 맞는 영어”",
@@ -2365,6 +2365,12 @@
           "title": "[문화연예 ���러스] '성난 사람들2', 에미상 작품상 수상 불발",
           "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6852119_37012.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "에미상 레드 카펫, 윤여정의 순간",
+          "url": "https://www.vogue.co.kr/2026/09/16/%EC%97%90%EB%AF%B8%EC%83%81-%EB%A0%88%EB%93%9C-%EC%B9%B4%ED%8E%AB-%EC%9C%A4%EC%97%AC%EC%A0%95%EC%9D%98-%EC%88%9C%EA%B0%84/",
+          "source": "Vogue korea",
           "date": "2026-09-17"
         }
       ]
@@ -2440,10 +2446,10 @@
       ]
     },
     "도널드 j. 트럼프": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-17T12:13:00+09:00",
-      "lastSeen": "2026-09-17T12:13:00+09:00",
+      "lastSeen": "2026-09-17T12:42:00+09:00",
       "news": [
         {
           "title": "“내 이름 떼? 당장 폐쇄”…고성 지른 트럼프, 케네디센터 ‘초강수’",
@@ -2462,14 +2468,26 @@
           "url": "https://www.newsis.com/view/NISX20260916_0003791058",
           "source": "뉴시스",
           "date": "2026-09-17"
+        },
+        {
+          "title": "\"감히 내 이름을 빼?\"…트럼프, 케네디센터 \"즉각 폐쇄\" 몽니[이런일이]",
+          "url": "https://v.daum.net/v/20260917120324852",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "“케네디 센터에 트럼프 이름 추가 안 된다” 법원 명령에 트럼프 “센터 폐쇄, 판결 뒤집을 때까지 보수 막을 것”",
+          "url": "https://www.khan.co.kr/article/202609161628001",
+          "source": "경향신문",
+          "date": "2026-09-17"
         }
       ]
     },
     "부산국제영화제": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-17T12:13:00+09:00",
-      "lastSeen": "2026-09-17T12:13:00+09:00",
+      "lastSeen": "2026-09-17T12:42:00+09:00",
       "news": [
         {
           "title": "‘와호장룡’ 양자경 15년 만에 부산 레드카펫 밟는다···내달 6일부터 부산국제영화제",
@@ -2492,10 +2510,10 @@
       ]
     },
     "pca": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T12:13:00+09:00",
-      "lastSeen": "2026-09-17T12:13:00+09:00",
+      "lastSeen": "2026-09-17T12:42:00+09:00",
       "news": [
         {
           "title": "PCA adds to MVP candidacy with another multihomer night against Braves",
@@ -2514,8 +2532,99 @@
           "url": "https://www.espn.com/video/clip/_/id/49961922/pca-bregman-go-cubs-win-braves",
           "source": "ESPN",
           "date": "2026-09-17"
+        },
+        {
+          "title": "Pete Crow-Armstrong slugs homers 43, 44",
+          "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-16/pete-crow-armstrong-slugs-homers-43-44",
+          "source": "NBC Sports",
+          "date": "2026-09-17"
         }
       ]
+    },
+    "김하성": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-17T12:42:00+09:00",
+      "lastSeen": "2026-09-17T12:42:00+09:00",
+      "news": [
+        {
+          "title": "‘파트타임’ 김하성이 이 정도라니…승리기여도 팀 내 2위, 0.01 차이로 1위 놓쳤다",
+          "url": "https://v.daum.net/v/20260917064110023",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "애틀랜타 김하성, 또 3타수 무안타…시즌 타율 0.123",
+          "url": "https://www.yna.co.kr/view/AKR20260917021600007",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "타율 0.068에도 남긴 이유 이거였나…경쟁자 실책이 다시 증명한 '어썸킴' 가치",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/17/HFQTIZJUHBQTCNDFGEZWKYRWHA/",
+          "source": "조선일보",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "유승민": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T12:42:00+09:00",
+      "lastSeen": "2026-09-17T12:42:00+09:00",
+      "news": [
+        {
+          "title": "[단독]유승민 '탁구 국대 바꿔치기' 의혹…경찰 수사심의 요청",
+          "url": "https://v.daum.net/v/20260917050304196",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'유승민 체육회장 배임 등 의혹' 불송치에 고발인 수사심의 신청",
+          "url": "https://www.yna.co.kr/view/AKR20260917056100004",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[단독]유승민 '탁구 국대 바꿔치��' 의혹…경찰 수사심의 요청",
+          "url": "https://www.nocutnews.co.kr/news/6579399",
+          "source": "노컷뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "캐시워크 정답": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T12:42:00+09:00",
+      "lastSeen": "2026-09-17T12:42:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 캐시워크 돈버는퀴즈 정답 9월 17일",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202609170035",
+          "source": "BNT뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[캐시닥 퀴즈 정답] 캐시닥 오늘의 돈버는 퀴즈 9월 15일 10시 정답 공개",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16194247",
+          "source": "톱스타뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[N잡 앱테크] 캐시닥, 타임스프레드 9월15일 오�� 10시 용돈퀴즈 정답",
+          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=227488",
+          "source": "잡포스트",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "온주완": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T12:42:00+09:00",
+      "lastSeen": "2026-09-17T12:42:00+09:00",
+      "news": []
     }
   },
   "sections": {
