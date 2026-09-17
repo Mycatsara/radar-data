@@ -1795,10 +1795,10 @@
       ]
     },
     "상여금": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T09:17:00+09:00",
-      "lastSeen": "2026-09-17T10:12:00+09:00",
+      "lastSeen": "2026-09-17T10:41:00+09:00",
       "news": [
         {
           "title": "청주산단 입주기업 절반 추석 상여금·여비 없어",
@@ -1823,14 +1823,20 @@
           "url": "https://www.nocutnews.co.kr/news/6579306",
           "source": "노컷뉴스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "\"직원 성과급도 못 주는데\"…전주시의회, 추경 53억 '싹둑'",
+          "url": "https://v.daum.net/v/31kIjjJ6Xg",
+          "source": "Daum",
+          "date": "2026-09-16"
         }
       ]
     },
     "살인": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-17T09:17:00+09:00",
-      "lastSeen": "2026-09-17T10:12:00+09:00",
+      "lastSeen": "2026-09-17T10:41:00+09:00",
       "news": [
         {
           "title": "옷 벗겨진 20~30대 여성 시신 7구…연쇄살인 공포에 싸인 '이 도시'",
@@ -1865,10 +1871,10 @@
       ]
     },
     "fifa u-20 여자 월드컵": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T09:17:00+09:00",
-      "lastSeen": "2026-09-17T10:12:00+09:00",
+      "lastSeen": "2026-09-17T10:41:00+09:00",
       "news": [
         {
           "title": "범예주 극적 결승골…한국 여자축구, 12년 만에 U-20 월드컵 8강",
@@ -1892,6 +1898,12 @@
           "title": "U-20 여자 축구, 아르헨티나 꺾고 12년 만에 월드컵 8강 진출 쾌거",
           "url": "https://www.chosun.com/sports/football/2026/09/17/ET3UKNPN5VHXXPCJM2RLHLVX6M/",
           "source": "조선일보",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "한국 U-20 여자축구, 월드컵 8강…아르헨티나 1-0 꺾어",
+          "url": "https://www.hani.co.kr/arti/sports/soccer/1278214.html",
+          "source": "한겨레",
           "date": "2026-09-16"
         }
       ]
@@ -2045,10 +2057,10 @@
       ]
     },
     "브레이브스 대 컵스": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T09:46:00+09:00",
-      "lastSeen": "2026-09-17T10:12:00+09:00",
+      "lastSeen": "2026-09-17T10:41:00+09:00",
       "news": [
         {
           "title": "'대반전' 김하성 PS 예상 로스터 당당히 승선, 입지 이렇게 바뀌나 \"두 가지 이유로 논란 종결\"",
@@ -2083,10 +2095,10 @@
       ]
     },
     "한국항공우주산업": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-17T09:46:00+09:00",
-      "lastSeen": "2026-09-17T10:12:00+09:00",
+      "lastSeen": "2026-09-17T10:41:00+09:00",
       "news": [
         {
           "title": "국내외 방산전문가 1500명 온 시연회서 K드론 잇단 추락",
@@ -2111,21 +2123,27 @@
           "url": "https://v.daum.net/v/20260917094316387",
           "source": "Daum",
           "date": "2026-09-16"
+        },
+        {
+          "title": "이륙 하자마자 추락…K드론 또 망신 당했다",
+          "url": "https://v.daum.net/v/20260916225638986",
+          "source": "Daum",
+          "date": "2026-09-16"
         }
       ]
     },
     "쓰레기봉투": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T09:46:00+09:00",
-      "lastSeen": "2026-09-17T10:12:00+09:00",
+      "lastSeen": "2026-09-17T10:41:00+09:00",
       "news": []
     },
     "학과": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T09:46:00+09:00",
-      "lastSeen": "2026-09-17T10:12:00+09:00",
+      "lastSeen": "2026-09-17T10:41:00+09:00",
       "news": [
         {
           "title": "대기업 계약학과 수시 지원자 역대 최다…SK하이닉스 27.3%↑",
@@ -2144,14 +2162,26 @@
           "url": "https://www.etnews.com/20260916000376",
           "source": "전자신문",
           "date": "2026-09-16"
+        },
+        {
+          "title": "졸업만 하면 하이닉스…역대 최다 8994명 몰린 ‘취업 보장’ 학과",
+          "url": "https://v.daum.net/v/XDGbWgRfhQ",
+          "source": "Daum",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "[단독] [2027수시경쟁률] 서울교대 등 7개 '인서울' 대학 ‘사실상 미달’..'약대 간호학과 보유' 차의과대 등 17개 수도권 대학 '눈길'",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=628279",
+          "source": "베리타스알파",
+          "date": "2026-09-16"
         }
       ]
     },
     "inter miami vs cruz azul": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-17T10:12:00+09:00",
-      "lastSeen": "2026-09-17T10:12:00+09:00",
+      "lastSeen": "2026-09-17T10:41:00+09:00",
       "news": [
         {
           "title": "Does the 2026 Campeones Cup between Inter Miami and Cruz Azul count as an official title?",
@@ -2174,10 +2204,10 @@
       ]
     },
     "jev": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T10:12:00+09:00",
-      "lastSeen": "2026-09-17T10:12:00+09:00",
+      "lastSeen": "2026-09-17T10:41:00+09:00",
       "news": [
         {
           "title": "This $200 Million Startup Wants To Fix AI’s Overconfidence Problem",
@@ -2195,6 +2225,32 @@
           "title": "TypeSafe AI Emerges From Stealth With $40M in Funding With New Model for Composable AI",
           "url": "https://www.businesswire.com/news/home/20260915525333/en/TypeSafe-AI-Emerges-From-Stealth-With-%2440M-in-Funding-With-New-Model-for-Composable-AI",
           "source": "Business Wire",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "테크볼": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T10:41:00+09:00",
+      "lastSeen": "2026-09-17T10:41:00+09:00",
+      "news": [
+        {
+          "title": "버추얼 태권도부터 MMA까지, 확! 달라진 아시안게임 총정리.zip - 영상 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148972007",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "VR태권도·테크볼·빠델…눈길 사로잡는 아시안게임 이색 종목",
+          "url": "https://v.daum.net/v/20260917072912706",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[주목 이 선��]㉑ 파리 金 김유진, 다시 '도전자'로 AG 첫 정상 발차기 도전",
+          "url": "https://www.news1.kr/sports/general-sport/6288373",
+          "source": "뉴스1",
           "date": "2026-09-17"
         }
       ]
