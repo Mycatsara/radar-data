@@ -3997,10 +3997,10 @@
       ]
     },
     "지방정부": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-17T18:14:00+09:00",
-      "lastSeen": "2026-09-17T18:14:00+09:00",
+      "lastSeen": "2026-09-17T18:42:00+09:00",
       "news": [
         {
           "title": "프랑스 지방정부 대표단, 화성서 자율주행차 타고 미래 모빌리티 체험",
@@ -4023,10 +4023,10 @@
       ]
     },
     "캐시": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T18:14:00+09:00",
-      "lastSeen": "2026-09-17T18:14:00+09:00",
+      "lastSeen": "2026-09-17T18:42:00+09:00",
       "news": [
         {
           "title": "[단독] 캐시워크 돈버는퀴즈 정답 9월 17일",
@@ -4049,10 +4049,10 @@
       ]
     },
     "where to watch nfl games": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T18:14:00+09:00",
-      "lastSeen": "2026-09-17T18:14:00+09:00",
+      "lastSeen": "2026-09-17T18:42:00+09:00",
       "news": [
         {
           "title": "NFL+: How to watch Week 2, schedule, key matchups, and more",
@@ -4071,14 +4071,26 @@
           "url": "https://power1053.iheart.com/content/2026-09-01-your-listening-guide-to-week-2-of-the-2026-nfl-season/",
           "source": "Power 105.3",
           "date": "2026-09-17"
+        },
+        {
+          "title": "NFL Offensive Line Rankings Week 2: Matchups to Exploit",
+          "url": "https://www.4for4.com/2026/w2/nfl-offensive-line-rankings-week-2-matchups-exploit",
+          "source": "4for4",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Circa Survivor Week 2 Strategy & Picks (2026)",
+          "url": "https://poolgenius.teamrankings.com/circa-survivor-picks/articles/circa-survivor-strategy-picks-week-2-2026/",
+          "source": "Pool Genius",
+          "date": "2026-09-17"
         }
       ]
     },
     "한국장기조직 기증 원": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-17T18:14:00+09:00",
-      "lastSeen": "2026-09-17T18:14:00+09:00",
+      "lastSeen": "2026-09-17T18:42:00+09:00",
       "news": [
         {
           "title": "아내와 사별 후 홀로 딸 키우던 40대 외아들, 6명에 생명 나눔",
@@ -4097,14 +4109,20 @@
           "url": "https://v.daum.net/v/20260917103010399",
           "source": "Daum",
           "date": "2026-09-17"
+        },
+        {
+          "title": "“천국에선 일 그만…” 하루 14시간 배달, 심장 선물하고 떠난 40대",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1276774.html",
+          "source": "한겨레",
+          "date": "2026-09-17"
         }
       ]
     },
     "거점국립대학교": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T18:14:00+09:00",
-      "lastSeen": "2026-09-17T18:14:00+09:00",
+      "lastSeen": "2026-09-17T18:42:00+09:00",
       "news": [
         {
           "title": "거점 국립대 지원, 사립대도 국립대도 ‘반발’",
@@ -4127,10 +4145,10 @@
       ]
     },
     "옌스 카스트로프": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T18:14:00+09:00",
-      "lastSeen": "2026-09-17T18:14:00+09:00",
+      "lastSeen": "2026-09-17T18:42:00+09:00",
       "news": [
         {
           "title": "[공식발표]'韓 초대형 호재' 혼혈 국대 카스트로프, 아시안컵 소집 가능할까...러닝 훈련 복귀",
@@ -4252,6 +4270,110 @@
           "title": "전북, 4인 기준 차례상 28만4890원…전년보다 11.2% 올라",
           "url": "https://www.newsis.com/view/NISX20260917_0003793862",
           "source": "뉴시스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "키움 대 kia": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-17T18:42:00+09:00",
+      "lastSeen": "2026-09-17T18:42:00+09:00",
+      "news": [
+        {
+          "title": "◇오늘의 경기(17일)",
+          "url": "https://www.yna.co.kr/view/AKR20260915074551007",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[AI프리뷰] 17일 광주 KIA-키움전, 상승세 KIA의 올러와 푹 쉰 키움의 안우진",
+          "url": "https://www.newspim.com/news/view/20260917000791",
+          "source": "뉴스핌",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[2026 프로야구 경기일정] 9월 17일 선발투수와 생중계 채널",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3697869",
+          "source": "국제뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "이소영": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T18:42:00+09:00",
+      "lastSeen": "2026-09-17T18:42:00+09:00",
+      "news": [
+        {
+          "title": "“시끄럽기만 했지 결정적 한 방 없어…국힘이 잘못한 것” 박지원의 말",
+          "url": "https://www.munhwa.com/article/11617825",
+          "source": "문화일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "청문회 ‘후폭풍’ 청문보고서 충돌…김승원·강신철 보고서 여 주도 채택",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8666257",
+          "source": "KBS 뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "국힘, 李대통령 내일 회견에 \"공소취소·연임개헌없다 선언��야\"",
+          "url": "https://www.yna.co.kr/view/AKR20260917181400001",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "샘 올트먼": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T18:42:00+09:00",
+      "lastSeen": "2026-09-17T18:42:00+09:00",
+      "news": [
+        {
+          "title": "미 재무 \"중국과 AI 공통 위험 논의 열려 있어\"",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202609171101164510",
+          "source": "YTN 사이언스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[美·中 100일의 외교전 ②] 트럼프·시진핑, 이란·우크라 두고 정면충돌",
+          "url": "https://v.daum.net/v/20260917180512139",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "\"미중 정상 획기적 합의 난망…연내 추가 회담 잡고 끝낼 수도\"",
+          "url": "https://www.news1.kr/world/northeast-asia/6293875",
+          "source": "뉴스1",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "장갑차": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T18:42:00+09:00",
+      "lastSeen": "2026-09-17T18:42:00+09:00",
+      "news": [
+        {
+          "title": "천무·천궁-II 만드는 한화 창원 공장…무인차량 전초기지로 확장",
+          "url": "https://v.daum.net/v/4W7k7ztWH0",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "한화에어로, 軍 최초 다목적무인차량 ‘아리온스멧’ 양산 시작",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260917010006911",
+          "source": "아시아투데이",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "AI기반 자율주행에 정찰·수송까지…軍무인차량 아리온스멧 공개(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260917092751504",
+          "source": "연합뉴스",
           "date": "2026-09-17"
         }
       ]
