@@ -1795,10 +1795,10 @@
       ]
     },
     "상여금": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T09:17:00+09:00",
-      "lastSeen": "2026-09-17T09:46:00+09:00",
+      "lastSeen": "2026-09-17T10:12:00+09:00",
       "news": [
         {
           "title": "청주산단 입주기업 절반 추석 상여금·여비 없어",
@@ -1827,10 +1827,10 @@
       ]
     },
     "살인": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-17T09:17:00+09:00",
-      "lastSeen": "2026-09-17T09:46:00+09:00",
+      "lastSeen": "2026-09-17T10:12:00+09:00",
       "news": [
         {
           "title": "옷 벗겨진 20~30대 여성 시신 7구…연쇄살인 공포에 싸인 '이 도시'",
@@ -1865,10 +1865,10 @@
       ]
     },
     "fifa u-20 여자 월드컵": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T09:17:00+09:00",
-      "lastSeen": "2026-09-17T09:46:00+09:00",
+      "lastSeen": "2026-09-17T10:12:00+09:00",
       "news": [
         {
           "title": "범예주 극적 결승골…한국 여자축구, 12년 만에 U-20 월드컵 8강",
@@ -1887,14 +1887,20 @@
           "url": "https://v.daum.net/v/20260917042952344",
           "source": "Daum",
           "date": "2026-09-16"
+        },
+        {
+          "title": "U-20 여자 축구, 아르헨티나 꺾고 12년 만에 월드컵 8강 진출 쾌거",
+          "url": "https://www.chosun.com/sports/football/2026/09/17/ET3UKNPN5VHXXPCJM2RLHLVX6M/",
+          "source": "조선일보",
+          "date": "2026-09-16"
         }
       ]
     },
     "인천광역시": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T09:17:00+09:00",
-      "lastSeen": "2026-09-17T09:46:00+09:00",
+      "lastSeen": "2026-09-17T10:12:00+09:00",
       "news": [
         {
           "title": "[인천소식] 인천시, 19~20일 마을기업 팝업스토어 개최",
@@ -2039,10 +2045,10 @@
       ]
     },
     "브레이브스 대 컵스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T09:46:00+09:00",
-      "lastSeen": "2026-09-17T09:46:00+09:00",
+      "lastSeen": "2026-09-17T10:12:00+09:00",
       "news": [
         {
           "title": "'대반전' 김하성 PS 예상 로스터 당당히 승선, 입지 이렇게 바뀌나 \"두 가지 이유로 논란 종결\"",
@@ -2061,14 +2067,26 @@
           "url": "https://www.newsis.com/view/NISX20260916_0003791821",
           "source": "뉴시스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "‘김하성 결장’ 애틀란타, 홈런포 앞세워 컵스에 역전승...매직넘버 5",
+          "url": "https://www.mk.co.kr/news/sports/12154144",
+          "source": "매일경제",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "벼랑 끝 승부 펼치는 필리스&경쟁자들의 남은 일정과 포스트시즌 진출 시나리오 분석",
+          "url": "https://www.mlbkor.com/news/articleView.html?idxno=33068",
+          "source": "https://www.mlbkor.com/",
+          "date": "2026-09-16"
         }
       ]
     },
     "한국항공우주산업": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T09:46:00+09:00",
-      "lastSeen": "2026-09-17T09:46:00+09:00",
+      "lastSeen": "2026-09-17T10:12:00+09:00",
       "news": [
         {
           "title": "국내외 방산전문가 1500명 온 시연회서 K드론 잇단 추락",
@@ -2087,21 +2105,27 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8665629",
           "source": "KBS 뉴스",
           "date": "2026-09-16"
+        },
+        {
+          "title": "갈 길 먼 'K-드론'?…시연 행사서 줄줄이 추락",
+          "url": "https://v.daum.net/v/20260917094316387",
+          "source": "Daum",
+          "date": "2026-09-16"
         }
       ]
     },
     "쓰레기봉투": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T09:46:00+09:00",
-      "lastSeen": "2026-09-17T09:46:00+09:00",
+      "lastSeen": "2026-09-17T10:12:00+09:00",
       "news": []
     },
     "학과": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T09:46:00+09:00",
-      "lastSeen": "2026-09-17T09:46:00+09:00",
+      "lastSeen": "2026-09-17T10:12:00+09:00",
       "news": [
         {
           "title": "대기업 계약학과 수시 지원자 역대 최다…SK하이닉스 27.3%↑",
@@ -2120,6 +2144,58 @@
           "url": "https://www.etnews.com/20260916000376",
           "source": "전자신문",
           "date": "2026-09-16"
+        }
+      ]
+    },
+    "inter miami vs cruz azul": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T10:12:00+09:00",
+      "lastSeen": "2026-09-17T10:12:00+09:00",
+      "news": [
+        {
+          "title": "Does the 2026 Campeones Cup between Inter Miami and Cruz Azul count as an official title?",
+          "url": "https://bolavip.com/en/soccer/does-the-2026-campeones-cup-between-inter-miami-and-cruz-azul-count-as-an-official-title",
+          "source": "Bolavip US",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Cruz Azul Hits a Snag: Huiqui Forced to Rethink Game Plan Before Facing Messi’s Inter Miami",
+          "url": "https://www.soyfutbol.com/en/news/cruz-azul-hits-a-snag-huiqui-forced-to-rethink-game-plan-before-facing-messis-inter-miami-20260915-0023.html",
+          "source": "Soy Futbol",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Messi opens Campeones Cup scoring with 100th goal for Miami",
+          "url": "https://www.espn.com/soccer/story/_/id/49958765/messi-opens-campeones-cup-scoring-100th-goal-miami",
+          "source": "ESPN",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "jev": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T10:12:00+09:00",
+      "lastSeen": "2026-09-17T10:12:00+09:00",
+      "news": [
+        {
+          "title": "This $200 Million Startup Wants To Fix AI’s Overconfidence Problem",
+          "url": "https://www.forbes.com/sites/the-prompt/2026/09/15/this-200-million-startup-wants-to-fix-ais-overconfidence-problem/",
+          "source": "Forbes",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+          "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+          "source": "AI News",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "TypeSafe AI Emerges From Stealth With $40M in Funding With New Model for Composable AI",
+          "url": "https://www.businesswire.com/news/home/20260915525333/en/TypeSafe-AI-Emerges-From-Stealth-With-%2440M-in-Funding-With-New-Model-for-Composable-AI",
+          "source": "Business Wire",
+          "date": "2026-09-17"
         }
       ]
     }
