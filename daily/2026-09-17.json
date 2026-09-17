@@ -4793,10 +4793,10 @@
       ]
     },
     "거래소": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T20:41:00+09:00",
-      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:46:00+09:00",
       "news": [
         {
           "title": "거래소, 내달 1일 건전증시포럼…합리적 시장관리·투자자 보호 주제",
@@ -4819,10 +4819,10 @@
       ]
     },
     "열차": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T20:41:00+09:00",
-      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:46:00+09:00",
       "news": [
         {
           "title": "수수료 5배 챙긴 ‘매크로 열차표 새치기’…올해 14명 검거",
@@ -4845,10 +4845,10 @@
       ]
     },
     "라이머": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:46:00+09:00",
       "news": [
         {
           "title": "라이머, 안현모와 이혼 후 남은 '강남 7층 빌딩' 자랑..父 \"사귀는 여자는?\"(신랑수업2)",
@@ -4871,10 +4871,10 @@
       ]
     },
     "mcdonald's": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:46:00+09:00",
       "news": [
         {
           "title": "McDonald's has burgers for National Cheeseburger Day, but there's a catch",
@@ -4893,14 +4893,20 @@
           "url": "https://people.com/mcdonalds-free-double-cheeseburgers-national-cheeseburger-day-12116653",
           "source": "People.com",
           "date": "2026-09-17"
+        },
+        {
+          "title": "Applebee's Offer One Day Burger Deal for National Cheeseburger Day 2026",
+          "url": "https://www.applebees.com/en/news/2026/applebees-celebrates-national-cheeseburger-day-with-oneday-899-burger-fries-deal",
+          "source": "Applebee's",
+          "date": "2026-09-17"
         }
       ]
     },
     "채수빈": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:46:00+09:00",
       "news": [
         {
           "title": "'나를 충전해줘' 김영광·채수빈, 찌릿한 로코 케미…스틸 공개",
@@ -4923,10 +4929,10 @@
       ]
     },
     "영일만": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:46:00+09:00",
       "news": [
         {
           "title": "김영헌 포항시의원 \"영일만 횡단대교 더 이상 늦춰선 안 돼\"",
@@ -4945,14 +4951,20 @@
           "url": "https://www.seoul.co.kr/news/society/2026/09/16/20260916500098",
           "source": "서울신문",
           "date": "2026-09-17"
+        },
+        {
+          "title": "“바다 안 건너는 영일만대교”… 김영헌 포항시의원, ‘18년 표류’ 영일만대교 원안 변경 직격",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=311387",
+          "source": "스트레이트뉴스",
+          "date": "2026-09-17"
         }
       ]
     },
     "김태규": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:46:00+09:00",
       "news": [
         {
           "title": "급기야 \"이재명 탄핵\" 꺼내…'상임위 줄줄이 취소' 격화",
@@ -4971,14 +4983,26 @@
           "url": "https://www.munhwa.com/article/11617825",
           "source": "문화일보",
           "date": "2026-09-17"
+        },
+        {
+          "title": "급기야 \"이재명 탄핵\" 꺼내…‘상임위 줄줄이 취소’ 격화",
+          "url": "https://news.jtbc.co.kr/article/NB12318910",
+          "source": "JTBC",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "김승원·강신철 청문보고서 채택 강행…야, “장외 투쟁” 으름장",
+          "url": "https://v.daum.net/v/20260917211750560",
+          "source": "Daum",
+          "date": "2026-09-17"
         }
       ]
     },
     "가해자": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:46:00+09:00",
       "news": [
         {
           "title": "\"'야차룰' 동의?\"…경찰, 피해자 녹음파일 통째로 '누락'",
@@ -5001,10 +5025,10 @@
       ]
     },
     "포스코퓨처엠": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:46:00+09:00",
       "news": [
         {
           "title": "안대천 포항시의원, 1인·여성 소상공인 범죄예방 지원 근거 마련",
@@ -5022,6 +5046,32 @@
           "title": "포항시의회 안대천 의원, 1인·여성 소상공인 지원 조례 개정안 대표발의",
           "url": "https://www.metroseoul.co.kr/article/20260917500031",
           "source": "메트로신문",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "thời tiết ngày mai": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T21:46:00+09:00",
+      "lastSeen": "2026-09-17T21:46:00+09:00",
+      "news": [
+        {
+          "title": "Đường Hà Nội ngập sâu, giao thông tê liệt",
+          "url": "https://vnexpress.net/duong-ha-noi-ngap-sau-giao-thong-te-liet-5121237.html",
+          "source": "VnExpress",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Đường ngập do mưa lớn, nhiều trường ở Hà Nội cho phụ huynh đón con sớm",
+          "url": "https://kenh14.vn/duong-ngap-do-mua-lon-nhieu-truong-o-ha-noi-cho-phu-huynh-don-con-som-215260917182713207.chn",
+          "source": "Kenh14.vn",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Hà Nội chưa thể hết ngập, nhưng có thể chống chịu tốt hơn",
+          "url": "https://dantri.com.vn/tam-diem/ha-noi-chua-the-het-ngap-nhung-co-the-chong-chiu-tot-hon-20260917183143655.htm",
+          "source": "Báo Dân trí",
           "date": "2026-09-17"
         }
       ]
