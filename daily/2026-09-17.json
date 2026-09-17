@@ -2749,10 +2749,10 @@
       ]
     },
     "인천발 ktx": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T13:42:00+09:00",
-      "lastSeen": "2026-09-17T14:13:00+09:00",
+      "lastSeen": "2026-09-17T14:41:00+09:00",
       "news": [
         {
           "title": "인천발 KTX 개통 눈앞인데…환승시설 구축 첫 삽도 못 떠",
@@ -2787,10 +2787,10 @@
       ]
     },
     "박보검": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T13:42:00+09:00",
-      "lastSeen": "2026-09-17T14:13:00+09:00",
+      "lastSeen": "2026-09-17T14:41:00+09:00",
       "news": [
         {
           "title": "박보검, ‘구르미’ 10주년 여행 직접 기획…10년 사이 11kg 늘었다",
@@ -2815,14 +2815,20 @@
           "url": "https://www.newsis.com/view/NISX20260917_0003793289",
           "source": "��시스",
           "date": "2026-09-17"
+        },
+        {
+          "title": "'구르미' 김유정, 10년 전이나 지금이나 그때 그 김유정",
+          "url": "https://v.daum.net/v/20260917112509946",
+          "source": "Daum",
+          "date": "2026-09-17"
         }
       ]
     },
     "biff": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T14:13:00+09:00",
-      "lastSeen": "2026-09-17T14:13:00+09:00",
+      "lastSeen": "2026-09-17T14:41:00+09:00",
       "news": [
         {
           "title": "Kim Hye-ja to Attend BIFF for the First Time in 9-Year Screen Return... Meeting Audiences Through Stage Greetings and GV",
@@ -2841,14 +2847,26 @@
           "url": "https://deadline.com/2026/09/netflix-creative-asia-possible-love-the-blue-road-busan-1237104843/",
           "source": "Deadline",
           "date": "2026-09-17"
+        },
+        {
+          "title": "BIFF names Chinese auteur Zhang Yimou as Competition jury chief",
+          "url": "https://en.yna.co.kr/view/AEN20260917006100315",
+          "source": "Yonhap News Agency",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Director Zhang Yimou to Chair Busan International Film Festival Jury",
+          "url": "https://www.mk.co.kr/en/movies/12155280",
+          "source": "매일경제",
+          "date": "2026-09-17"
         }
       ]
     },
     "레지던트 이블": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T14:13:00+09:00",
-      "lastSeen": "2026-09-17T14:13:00+09:00",
+      "lastSeen": "2026-09-17T14:41:00+09:00",
       "news": [
         {
           "title": "도파민 폭발 호러버스터… ‘레지던트 이블: 0번째 밤’[봤어영]",
@@ -2867,14 +2885,20 @@
           "url": "https://www.econovill.com/news/articleView.html?idxno=751046",
           "source": "ER 이코노믹리뷰",
           "date": "2026-09-17"
+        },
+        {
+          "title": "[애프터스크리닝] '레지던트 이블: 0번째 밤' 원작 게임 감성 그대로, 잭 크레거 센스가 빛난 리부트 ★★★☆",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/518293",
+          "source": "iMBC 연예",
+          "date": "2026-09-17"
         }
       ]
     },
     "숙행": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-17T14:13:00+09:00",
-      "lastSeen": "2026-09-17T14:13:00+09:00",
+      "lastSeen": "2026-09-17T14:41:00+09:00",
       "news": [
         {
           "title": "\"남편 불륜, 집 나갔다\"...상간 소송당한 숙행, 오늘 1심 선고 - 머니투데이",
@@ -2893,14 +2917,26 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/17/MM4DKNRRGY2DMMBTGY2TQZTGGE/",
           "source": "조선일보",
           "date": "2026-09-17"
+        },
+        {
+          "title": "[단독] '불륜 논란' 숙행, 활동 중단 9개월 만에 무대 복귀…\"다시 노래로\"",
+          "url": "https://v.daum.net/v/7NStShDgNd",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "“나도 피해자” 주장했지만…숙행, ‘상간녀 위자료 소송’ 1심서 ‘패소’",
+          "url": "https://biz.heraldcorp.com/article/10876417",
+          "source": "헤럴드경제",
+          "date": "2026-09-17"
         }
       ]
     },
     "육아": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T14:13:00+09:00",
-      "lastSeen": "2026-09-17T14:13:00+09:00",
+      "lastSeen": "2026-09-17T14:41:00+09:00",
       "news": [
         {
           "title": "임신 중 남편도 육아휴직 쓴다…출산휴가 50일 전부터 사용 - 머니투데이",
@@ -2918,6 +2954,122 @@
           "title": "유산·사산 때 남편도 최대 5일 휴가…'배우자 지원 3종 세트' 18일 시행",
           "url": "https://www.etnews.com/20260917000127",
           "source": "전자신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "남편도 아내 임신 중에 육아휴직…'배우자 3종 세트' 18일 시행",
+          "url": "https://v.daum.net/v/20260917120233727",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "남편도 유산·사산 5일 휴가…출산 50일 전 휴가도 가능",
+          "url": "https://www.newsis.com/view/NISX20260917_0003793399",
+          "source": "뉴시스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "교통약자석": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T14:41:00+09:00",
+      "lastSeen": "2026-09-17T14:41:00+09:00",
+      "news": [
+        {
+          "title": "“나와” 옷 잡은 노인에 여성 발길질…2호선 노약자석 몸싸움",
+          "url": "https://www.joongang.co.kr/article/25462532",
+          "source": "중앙일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "“노인이 끌어내자 여성은 발길질”…교통약자석 양보 논란 [잇슈 키워드]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8665648",
+          "source": "KBS 뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "여성 잡고 끌어내자 발로 '퍽'…2호선 영상 확���",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757086",
+          "source": "SBS 뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "양나래": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T14:41:00+09:00",
+      "lastSeen": "2026-09-17T14:41:00+09:00",
+      "news": [
+        {
+          "title": "양나래 변호사, 결혼식 현장 공개…훈남 남편 옆에서 \"내 생에 가장 행복\" [N샷]",
+          "url": "https://v.daum.net/v/BpBKq71yHS",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "양나래 \"남편 보내지 말아야 할 모임 1위? 동창회\"…왜?",
+          "url": "https://www.newsis.com/view/NISX20260917_0003793588",
+          "source": "뉴시스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "양나래 변호사, 남편 국정원 요원설에 \"살아있다\"..공개 안하는 이유 ('비밀��장')",
+          "url": "http://www.osen.co.kr/article/G1112876382",
+          "source": "OSEN",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "타짜": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T14:41:00+09:00",
+      "lastSeen": "2026-09-17T14:41:00+09:00",
+      "news": [
+        {
+          "title": "'타짜4' 미요시 아야카, 관객 홀리는 손 키스…'무대인사 플러팅'",
+          "url": "https://v.daum.net/v/20260917111842572",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "스타들의 인터뷰|\"AI가 실제 외모는 못 따라오죠\"…iii, 1년 공백 딛고 꺼낸 새로운 얼굴 [TEN인터뷰]",
+          "url": "https://news.zum.com/photo/33825929/107801823",
+          "source": "ZUM 뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[현장톡] '타짜:벨제붑��� 노래' 최국희 감독 \"'타짜1'과 비교? 피할 생각 없다\"",
+          "url": "https://www.newspim.com/news/view/20260915001255",
+          "source": "뉴스핌",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "주거": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T14:41:00+09:00",
+      "lastSeen": "2026-09-17T14:41:00+09:00",
+      "news": [
+        {
+          "title": "청년 주거비 부담은 낮추고, 월세 지원은 더 넓게 - 전체 | 카드/한컷",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148971987",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "민주당 “청년 평가 매서운 것 알아”…‘주택 공급 논의’ 주거복지특위도 발족",
+          "url": "https://v.daum.net/v/20260917115153267",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "청년 지지율 하락세에 민주당 “추석 전 ‘청년 주거복지 플랜’ 발표”",
+          "url": "https://www.khan.co.kr/article/202609171337001",
+          "source": "경향신문",
           "date": "2026-09-17"
         }
       ]
