@@ -4845,10 +4845,10 @@
       ]
     },
     "라이머": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T23:15:00+09:00",
+      "lastSeen": "2026-09-17T23:41:00+09:00",
       "news": [
         {
           "title": "라이머, 안현모와 이혼 후 남은 '강남 7층 빌딩' 자랑..父 \"사귀는 여자는?\"(신랑수업2)",
@@ -4877,10 +4877,10 @@
       ]
     },
     "mcdonald's": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T23:15:00+09:00",
+      "lastSeen": "2026-09-17T23:41:00+09:00",
       "news": [
         {
           "title": "McDonald's has burgers for National Cheeseburger Day, but there's a catch",
@@ -4915,10 +4915,10 @@
       ]
     },
     "채수빈": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T23:15:00+09:00",
+      "lastSeen": "2026-09-17T23:41:00+09:00",
       "news": [
         {
           "title": "'나를 충전해줘' 김영광·채수빈, 찌릿한 로코 케미…스틸 공개",
@@ -4947,10 +4947,10 @@
       ]
     },
     "영일만": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T21:17:00+09:00",
-      "lastSeen": "2026-09-17T23:15:00+09:00",
+      "lastSeen": "2026-09-17T23:41:00+09:00",
       "news": [
         {
           "title": "김영헌 포항시의원 \"영일만 횡단대교 더 이상 늦춰선 안 돼\"",
@@ -5081,10 +5081,10 @@
       ]
     },
     "thời tiết ngày mai": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T21:46:00+09:00",
-      "lastSeen": "2026-09-17T23:15:00+09:00",
+      "lastSeen": "2026-09-17T23:41:00+09:00",
       "news": [
         {
           "title": "Đường Hà Nội ngập sâu, giao thông tê liệt",
@@ -5119,10 +5119,10 @@
       ]
     },
     "웨이모": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T22:14:00+09:00",
-      "lastSeen": "2026-09-17T23:15:00+09:00",
+      "lastSeen": "2026-09-17T23:41:00+09:00",
       "news": [
         {
           "title": "美 웨이모는 도쿄·中바이두는 런던…韓 자율주행 어디까지 왔나",
@@ -5145,10 +5145,10 @@
       ]
     },
     "weather tomorrow": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-17T22:14:00+09:00",
-      "lastSeen": "2026-09-17T23:15:00+09:00",
+      "lastSeen": "2026-09-17T23:41:00+09:00",
       "news": [
         {
           "title": "Monsoon-Fueled Storms Soak the Southwestern US",
@@ -5183,10 +5183,10 @@
       ]
     },
     "cuaca besok": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T22:14:00+09:00",
-      "lastSeen": "2026-09-17T23:15:00+09:00",
+      "lastSeen": "2026-09-17T23:41:00+09:00",
       "news": [
         {
           "title": "Cuaca Jakarta Jumat Besok: Jakbar dan Jaktim Berpotensi Diguyur Hujan",
@@ -5221,10 +5221,10 @@
       ]
     },
     "로맥": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T23:15:00+09:00",
-      "lastSeen": "2026-09-17T23:15:00+09:00",
+      "lastSeen": "2026-09-17T23:41:00+09:00",
       "news": [
         {
           "title": "‘어서와 한국은’ 제이미 로맥, 문학경기장→치맥 맛집",
@@ -5242,6 +5242,32 @@
           "title": "MBC에브리원 '어서와 한국은 처음이지?' 니퍼트X이대호X지상���, 로맥 귀환에 뭉쳤다",
           "url": "https://www.newsinstar.com/news/article.html?no=83927",
           "source": "뉴스인스타",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "지진희": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T23:41:00+09:00",
+      "lastSeen": "2026-09-17T23:41:00+09:00",
+      "news": [
+        {
+          "title": "염정아, 20년지기 남사친 등장에 기절초풍…“결혼식 사회도 봐” (산지직송3)",
+          "url": "https://v.daum.net/v/20260917131251353",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "‘염정아 20년 절친’ 지진희 출격…4천마리 장어떼에 ‘질겁’ (언니네3)",
+          "url": "https://sports.donga.com/ent/article/all/20260917/134690345/1",
+          "source": "스포츠동아",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "지진희, 4000마리 노지장어에 뛰어들��다…‘장어 사냥꾼’ 변신 (언니네 산지직송3)",
+          "url": "https://www.mk.co.kr/news/entertain/12155256",
+          "source": "매일경제",
           "date": "2026-09-17"
         }
       ]
