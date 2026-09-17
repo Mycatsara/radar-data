@@ -2639,10 +2639,10 @@
       "news": []
     },
     "강주은": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T13:14:00+09:00",
-      "lastSeen": "2026-09-17T13:42:00+09:00",
+      "lastSeen": "2026-09-17T14:13:00+09:00",
       "news": [
         {
           "title": "강주은, 부모님과 6번째 합가 앞두고 캐나다行..기억 흐려진 母에 '먹먹'",
@@ -2665,10 +2665,10 @@
       ]
     },
     "이형일": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T13:14:00+09:00",
-      "lastSeen": "2026-09-17T13:42:00+09:00",
+      "lastSeen": "2026-09-17T14:13:00+09:00",
       "news": [
         {
           "title": "여야 합의로 이형일 재경부 장관 후보자 청문보고서 채택",
@@ -2687,14 +2687,20 @@
           "url": "https://v.daum.net/v/bUcZlQ9Ulg",
           "source": "Daum",
           "date": "2026-09-17"
+        },
+        {
+          "title": "속보 국회 재경위, 이형일 후보자 청문보고서 여야 합의 채택",
+          "url": "https://www.ytn.co.kr/_ln/0101_202609170948090703",
+          "source": "YTN",
+          "date": "2026-09-17"
         }
       ]
     },
     "수도권 광역급행철도": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T13:14:00+09:00",
-      "lastSeen": "2026-09-17T13:42:00+09:00",
+      "lastSeen": "2026-09-17T14:13:00+09:00",
       "news": [
         {
           "title": "수도권광역급행철도 GTX-C 사업 실착공 - 사진 | 멀티미디어",
@@ -2717,10 +2723,10 @@
       ]
     },
     "맥도날드": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T13:14:00+09:00",
-      "lastSeen": "2026-09-17T13:42:00+09:00",
+      "lastSeen": "2026-09-17T14:13:00+09:00",
       "news": [
         {
           "title": "맥크리스피·맥스파이시에 ‘고추장 버터’가?···지드래곤 손잡고 아시아 13개국에 ‘K버거’ 뜬다",
@@ -2743,10 +2749,10 @@
       ]
     },
     "인천발 ktx": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T13:42:00+09:00",
-      "lastSeen": "2026-09-17T13:42:00+09:00",
+      "lastSeen": "2026-09-17T14:13:00+09:00",
       "news": [
         {
           "title": "인천발 KTX 개통 눈앞인데…환승시설 구축 첫 삽도 못 떠",
@@ -2765,14 +2771,26 @@
           "url": "https://www.kyeongin.com/article/1770980",
           "source": "경인일보",
           "date": "2026-09-17"
+        },
+        {
+          "title": "인천발 KTX 개통 눈앞인데…환승시설 구축 첫 삽도 못 떠",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332270",
+          "source": "인천일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[패트롤] 인천시-인천시의회-인천시교육청-인천경제자유구역청",
+          "url": "https://www.ekn.kr/web/view.php?key=20260917025365924",
+          "source": "에너지경제신문",
+          "date": "2026-09-17"
         }
       ]
     },
     "박보검": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T13:42:00+09:00",
-      "lastSeen": "2026-09-17T13:42:00+09:00",
+      "lastSeen": "2026-09-17T14:13:00+09:00",
       "news": [
         {
           "title": "박보검, ‘구르미’ 10주년 여행 직접 기획…10년 사이 11kg 늘었다",
@@ -2790,6 +2808,116 @@
           "title": "“65→76kg” 박보검, 10년 만 11kg 쪘는데…꽃미모 그대로 몸만 커졌다",
           "url": "https://sports.khan.co.kr/article/202609171055003",
           "source": "스포츠경향",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "김유정이 유일하게 '오빠'라고 불렀던 사람은?",
+          "url": "https://www.newsis.com/view/NISX20260917_0003793289",
+          "source": "��시스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "biff": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T14:13:00+09:00",
+      "lastSeen": "2026-09-17T14:13:00+09:00",
+      "news": [
+        {
+          "title": "Kim Hye-ja to Attend BIFF for the First Time in 9-Year Screen Return... Meeting Audiences Through Stage Greetings and GV",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008755977",
+          "source": "news.sbs.co.kr",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Busan film fest, Netflix expand Creative Asia workshop to record scale",
+          "url": "https://www.koreatimes.co.kr/entertainment/films/20260916/busan-film-fest-netflix-expand-creative-asia-workshop-to-record-scale",
+          "source": "The Korea Times",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "‘Possible Love’ DoP Among Speakers For Netflix Creative Asia At BIFF",
+          "url": "https://deadline.com/2026/09/netflix-creative-asia-possible-love-the-blue-road-busan-1237104843/",
+          "source": "Deadline",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "레지던트 이블": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T14:13:00+09:00",
+      "lastSeen": "2026-09-17T14:13:00+09:00",
+      "news": [
+        {
+          "title": "도파민 폭발 호러버스터… ‘레지던트 이블: 0번째 밤’[봤어영]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01230006645581104&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'누적 판매 2억 장' 레전드 게임, 완벽 부활…극한의 생존 서바이벌로 돌아온 '호러 영화'",
+          "url": "https://v.daum.net/v/20260917130709194",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "‘레지던트 이블: 0번째 밤’ 예매 5위… 박스오피스 3위 노린다 [9월 17일 영화 예매순위]",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=751046",
+          "source": "ER 이코노믹리뷰",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "숙행": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T14:13:00+09:00",
+      "lastSeen": "2026-09-17T14:13:00+09:00",
+      "news": [
+        {
+          "title": "\"남편 불륜, 집 나갔다\"...상간 소송당한 숙행, 오늘 1심 선고 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/17/2026091707491127953",
+          "source": "머니투데이",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'유부남과 엘베 키스' 숙행 상간 소송 졌다…가수 활동 복구 괜찮나[영상]",
+          "url": "https://www.news1.kr/society/incident-accident/6293814",
+          "source": "뉴스1",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "\"나도 피해자\" 주장한 숙행, 상간녀 소송 1심 패소 [Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/17/MM4DKNRRGY2DMMBTGY2TQZTGGE/",
+          "source": "조선일보",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "육아": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T14:13:00+09:00",
+      "lastSeen": "2026-09-17T14:13:00+09:00",
+      "news": [
+        {
+          "title": "임신 중 남편도 육아휴직 쓴다…출산휴가 50일 전부터 사용 - 머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/09/17/2026091710382431164",
+          "source": "머니투데이",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "남편도 아내 임신 중 육아휴직…‘배우자 지원 3종’ 18일 본격 시행",
+          "url": "https://v.daum.net/v/20260917135410135",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "유산·사산 때 남편도 최대 5일 휴가…'배우자 지원 3종 세트' 18일 시행",
+          "url": "https://www.etnews.com/20260917000127",
+          "source": "전자신문",
           "date": "2026-09-17"
         }
       ]
