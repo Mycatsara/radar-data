@@ -2,10 +2,10 @@
   "date": "2026-09-18",
   "keywords": {
     "what is a data breach": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T02:41:00+09:00",
+      "lastSeen": "2026-09-18T03:16:00+09:00",
       "news": [
         {
           "title": "Hackers demand Revolut pay $3mn ransom after data breach",
@@ -292,10 +292,10 @@
       ]
     },
     "특공무술": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 20000,
       "firstSeen": "2026-09-18T00:41:00+09:00",
-      "lastSeen": "2026-09-18T02:41:00+09:00",
+      "lastSeen": "2026-09-18T03:16:00+09:00",
       "news": [
         {
           "title": "특공무술 겨루기 심사 중 쓰러진 특전사 숨져…장기기증 결정",
@@ -320,14 +320,20 @@
           "url": "https://www.munhwa.com/article/11617893",
           "source": "문화일보",
           "date": "2026-09-17"
+        },
+        {
+          "title": "특전사 하사, 특공무술 겨루기 하다 숨져…유족 장기기증",
+          "url": "https://www.donga.com/news/Society/article/all/20260917/134691098/1",
+          "source": "동아일보",
+          "date": "2026-09-17"
         }
       ]
     },
     "안선영": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T00:41:00+09:00",
-      "lastSeen": "2026-09-18T02:41:00+09:00",
+      "lastSeen": "2026-09-18T03:16:00+09:00",
       "news": [
         {
           "title": "안선영, 子 유학 따라간 캐나다서 '대재앙'..\"연예인 여기서 아무 쓸모 없어\"",
@@ -356,10 +362,10 @@
       ]
     },
     "전제완": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T00:41:00+09:00",
-      "lastSeen": "2026-09-18T02:41:00+09:00",
+      "lastSeen": "2026-09-18T03:16:00+09:00",
       "news": [
         {
           "title": "'꼬꼬무', 1세대 IT계 신화 프리챌 전제완, 청소부 된 충격 근황 - 머니투데이",
@@ -394,10 +400,10 @@
       ]
     },
     "시부모": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T01:41:00+09:00",
-      "lastSeen": "2026-09-18T02:41:00+09:00",
+      "lastSeen": "2026-09-18T03:16:00+09:00",
       "news": [
         {
           "title": "\"손주 보러 가려했는데\"…호텔서 자라는 며느리 말에 시어머니 '엉엉'",
@@ -420,10 +426,10 @@
       ]
     },
     "india vs afghanistan": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T01:41:00+09:00",
-      "lastSeen": "2026-09-18T02:41:00+09:00",
+      "lastSeen": "2026-09-18T03:16:00+09:00",
       "news": [
         {
           "title": "IND vs AFG Cricket Scorecard, 3rd T20I at Delhi, September 17, 2026",
@@ -447,6 +453,91 @@
           "title": "Will Sooryavanshi to get to play in inconsequential third T20I",
           "url": "https://www.dailyexcelsior.com/will-sooryavanshi-to-get-to-play-in-inconsequential-third-t20i/",
           "source": "Daily Excelsior",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "봉누도2": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T03:16:00+09:00",
+      "lastSeen": "2026-09-18T03:16:00+09:00",
+      "news": []
+    },
+    "압구정 현대아파트": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T03:16:00+09:00",
+      "lastSeen": "2026-09-18T03:16:00+09:00",
+      "news": [
+        {
+          "title": "압구정현대보다 비쌌던 '원조 부촌'…대규모 부활 예고",
+          "url": "https://www.hankyung.com/article/202609166959i",
+          "source": "한국경제",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "광진구, '자양2동 모아타운' 내 첫 모아주택 조합설립인가",
+          "url": "https://www.slnews.co.kr/ko-kr/articles/91522",
+          "source": "서울로컬뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "\"와이프한테 너무 고맙죠\" 6평짜리 빌라가 3억→7억 상승한 서울 '이 동네' 전망",
+          "url": "https://www.nanamcom.co.kr/news/articleView.html?idxno=52892",
+          "source": "나남뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "송지효": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T03:16:00+09:00",
+      "lastSeen": "2026-09-18T03:16:00+09:00",
+      "news": [
+        {
+          "title": "송지효, 업로드 주기 자주 바뀌더니 결국 중단..\"마음만 앞서서 될 일 아냐\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/17/GMYWGNZXGU2DAMZWGM3DCMJQHE/",
+          "source": "조선일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "송지효 “그동안 감사했다” 울컥…유튜브 휴업 선언",
+          "url": "https://v.daum.net/v/20260917212727724",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "송지효, 유튜브 휴업 선언…“마음만 앞선다고 되는 게 아냐” 울컥",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12155890",
+          "source": "매일경제",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "아스트라에 오라티오": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T03:16:00+09:00",
+      "lastSeen": "2026-09-18T03:16:00+09:00",
+      "news": [
+        {
+          "title": "K게임, 도쿄게임쇼 '큰손' 됐다…참가사 2.5배 급증",
+          "url": "https://v.daum.net/v/f4uk1d8B5D",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "연애 감성에 RPG 손맛 더했다…넷마블엔투, '펄인블루' 첫선[도쿄게임쇼 2026]",
+          "url": "https://www.newsis.com/view/NISX20260917_0003794521",
+          "source": "뉴시스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'나혼렙'부터 '샹그릴라'까지…넷마블, TGS서 신작 보따리",
+          "url": "https://news.mtn.co.kr/news-detail/2026091717083757609",
+          "source": "MTN 머니투데이방송",
           "date": "2026-09-17"
         }
       ]
