@@ -2178,10 +2178,10 @@
       ]
     },
     "inter miami vs cruz azul": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T10:12:00+09:00",
-      "lastSeen": "2026-09-17T11:42:00+09:00",
+      "lastSeen": "2026-09-17T12:13:00+09:00",
       "news": [
         {
           "title": "Does the 2026 Campeones Cup between Inter Miami and Cruz Azul count as an official title?",
@@ -2242,10 +2242,10 @@
       ]
     },
     "테크볼": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T10:41:00+09:00",
-      "lastSeen": "2026-09-17T11:42:00+09:00",
+      "lastSeen": "2026-09-17T12:13:00+09:00",
       "news": [
         {
           "title": "버추얼 태권도부터 MMA까지, 확! 달라진 아시안게임 총정리.zip - 영상 | 멀티미디어",
@@ -2270,14 +2270,20 @@
           "url": "https://biz.heraldcorp.com/article/10876229",
           "source": "헤럴드경제",
           "date": "2026-09-17"
+        },
+        {
+          "title": "버추얼 태권도부터 MMA까지, 확! 달라진 아시안게임 총정리.zip - 영상 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148972007&pWise=sub&pWiseSub=C1",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-17"
         }
       ]
     },
     "fifa u 20 여자 월드컵": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-17T11:13:00+09:00",
-      "lastSeen": "2026-09-17T11:42:00+09:00",
+      "lastSeen": "2026-09-17T12:13:00+09:00",
       "news": [
         {
           "title": "한국 축구, 아르헨티나 1-0 꺾고 12년만에 U-20 여자 월드컵 8강",
@@ -2296,14 +2302,26 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=01210326645581104&mediaCodeNo=257",
           "source": "이데일리",
           "date": "2026-09-17"
+        },
+        {
+          "title": "중국과 승부차기 '혈투' 이탈리아가 올라왔다...한국, U-20 여자 월드컵 8강 격돌",
+          "url": "https://v.daum.net/v/20260917042952344",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "U-20 여자축구월드컵… 韓, 12년만에 8강 진출",
+          "url": "https://www.munhwa.com/article/11617717",
+          "source": "문화일보",
+          "date": "2026-09-17"
         }
       ]
     },
     "신원식": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T11:13:00+09:00",
-      "lastSeen": "2026-09-17T11:42:00+09:00",
+      "lastSeen": "2026-09-17T12:13:00+09:00",
       "news": [
         {
           "title": "'계엄 정당화 메시지' 신원식 前안보실장 측 \"尹 지시 안 받아\"",
@@ -2326,10 +2344,10 @@
       ]
     },
     "윤여정": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T11:13:00+09:00",
-      "lastSeen": "2026-09-17T11:42:00+09:00",
+      "lastSeen": "2026-09-17T12:13:00+09:00",
       "news": [
         {
           "title": "윤여정 영어 지적한 BBC, 틀렸다···조지은 옥스퍼드 교수 “mukbang과 unnie도 맞는 영어”",
@@ -2352,10 +2370,10 @@
       ]
     },
     "대학 입시": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T11:13:00+09:00",
-      "lastSeen": "2026-09-17T11:42:00+09:00",
+      "lastSeen": "2026-09-17T12:13:00+09:00",
       "news": [
         {
           "title": "‘수시 먹통’ 우왕좌왕 일주일… 수험생 분통",
@@ -2390,10 +2408,10 @@
       ]
     },
     "고영욱": {
-      "count": 2,
-      "maxTraffic": 1000,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-17T11:13:00+09:00",
-      "lastSeen": "2026-09-17T11:42:00+09:00",
+      "lastSeen": "2026-09-17T12:13:00+09:00",
       "news": [
         {
           "title": "고영욱, 무빈소 장례 계획…“여러모로 앞서가”",
@@ -2417,6 +2435,84 @@
           "title": "'미성년자 성폭행' 고영욱, 친구 '0명'→무빈소장례 계획 \"난 늘 앞서가\"",
           "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1007771",
           "source": "SPOTV NEWS",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "도널드 j. 트럼프": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T12:13:00+09:00",
+      "lastSeen": "2026-09-17T12:13:00+09:00",
+      "news": [
+        {
+          "title": "“내 이름 떼? 당장 폐쇄”…고성 지른 트럼프, 케네디센터 ‘초강수’",
+          "url": "https://v.daum.net/v/20260916102811292",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "\"내 이름 안 넣으면 돈 못 줘!\"‥트럼프의 한계 없는 '몽니'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6852297_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'트럼프 이름' 또 막힌 케���디센터, 2년 폐쇄…트럼프 \"대법원까지 간다\"",
+          "url": "https://www.newsis.com/view/NISX20260916_0003791058",
+          "source": "뉴시스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "부산국제영화제": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T12:13:00+09:00",
+      "lastSeen": "2026-09-17T12:13:00+09:00",
+      "news": [
+        {
+          "title": "‘와호장룡’ 양자경 15년 만에 부산 레드카펫 밟는다···내달 6일부터 부산국제영화제",
+          "url": "https://www.khan.co.kr/article/202609161412001",
+          "source": "경향신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "제31회 BIFF 경쟁부문 심사위원장에 장이모우 감독 위촉",
+          "url": "https://v.daum.net/v/20260917101800573",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "부산국제영화제 ‘오��� 시네마’…시민 천 명 초대",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8664850",
+          "source": "KBS 뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "pca": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T12:13:00+09:00",
+      "lastSeen": "2026-09-17T12:13:00+09:00",
+      "news": [
+        {
+          "title": "PCA adds to MVP candidacy with another multihomer night against Braves",
+          "url": "https://www.mlb.com/news/pete-crow-armstrong-alex-bregman-lead-cubs-to-win-over-braves",
+          "source": "MLB.com",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Pete Crow-Armstrong, Alex Bregman make MLB history with rare feat in Cubs' rout over Braves",
+          "url": "https://sports.yahoo.com/mlb/breaking-news/article/pete-crow-armstrong-alex-bregman-make-mlb-history-with-rare-feat-in-cubs-rout-over-braves-023041941.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "PCA, Bregman go off in Cubs win over the Braves",
+          "url": "https://www.espn.com/video/clip/_/id/49961922/pca-bregman-go-cubs-win-braves",
+          "source": "ESPN",
           "date": "2026-09-17"
         }
       ]
