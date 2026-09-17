@@ -1054,10 +1054,10 @@
       ]
     },
     "반도체": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-18T07:12:00+09:00",
-      "lastSeen": "2026-09-18T07:12:00+09:00",
+      "lastSeen": "2026-09-18T07:38:00+09:00",
       "news": [
         {
           "title": "[그래픽] 소부장 특화단지 지정 현황",
@@ -1080,10 +1080,10 @@
       ]
     },
     "두산에너빌리티": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-18T07:12:00+09:00",
-      "lastSeen": "2026-09-18T07:12:00+09:00",
+      "lastSeen": "2026-09-18T07:38:00+09:00",
       "news": [
         {
           "title": "두산, 계열사 차입 위해 두산에너빌리티 주식 161만주 담보 제공",
@@ -1102,14 +1102,26 @@
           "url": "https://www.cbci.co.kr/news/articleView.html?idxno=607795",
           "source": "CBC뉴스",
           "date": "2026-09-17"
+        },
+        {
+          "title": "오늘 7개월 만에 한미 외교장관 회담…‘호르무즈 파병’ 다룰 NSC 연기",
+          "url": "https://v.daum.net/v/20260918062409307",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "美전문가 \"한미외교장관 회담 계기 대미투자관련 발표 가능성\" 주장(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260918001151071",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
         }
       ]
     },
     "나스닥 100": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-18T07:12:00+09:00",
-      "lastSeen": "2026-09-18T07:12:00+09:00",
+      "lastSeen": "2026-09-18T07:38:00+09:00",
       "news": [
         {
           "title": "\"드디어 지구 궤도 비행\"…스페이스X 도전에 우주항공주 '불기둥'",
@@ -1128,14 +1140,26 @@
           "url": "https://stock.mk.co.kr/news/view/1160899",
           "source": "매일경제 마켓",
           "date": "2026-09-17"
+        },
+        {
+          "title": "미래운용 \"미국 대표지수 커버드콜 ETF 2종 순자산 3조원 돌파\"",
+          "url": "https://www.yna.co.kr/view/AKR20260917054700008",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "미래에셋운용, 美 대표지수 커버드콜 ETF 2종 순자산 3조원 돌파",
+          "url": "https://www.viva100.com/article/20260917500631",
+          "source": "브릿지경제",
+          "date": "2026-09-17"
         }
       ]
     },
     "산불": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T07:12:00+09:00",
-      "lastSeen": "2026-09-18T07:12:00+09:00",
+      "lastSeen": "2026-09-18T07:38:00+09:00",
       "news": [
         {
           "title": "산불로 10년 복역했는데 또···함양 대형산불 낸 연쇄방화범 ‘봉대산 불다람쥐’, 징역 12년 선고",
@@ -1309,6 +1333,162 @@
           "title": "“환자는 완치로, 전문가는 불치로” 창립 30주년 맞은 위암학회의 역설",
           "url": "http://www.newsmp.com/news/articleView.html?idxno=258201",
           "source": "의약뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "디에고 시메오네": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-18T07:38:00+09:00",
+      "lastSeen": "2026-09-18T07:38:00+09:00",
+      "news": [
+        {
+          "title": "\"이강인, 그리즈만처럼 원터치 패스 못해\"→\"이미 그리즈만 역할 하고 있다\"…LEE 2호골 폭발! 스페인 현지 시선 돌변 \"확실한 주전, 공격의 중심축\"",
+          "url": "https://v.daum.net/v/20260917182807881",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "물음표를 느낌표로 바꾸다, 6슈팅·4유효슈팅·1골→라리가 공식 MVP...'최고조'로 생애 첫 마드리드 더비 출격 준비",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/18/GIYDKMJSGM3TGYRSGU3TGOJYMM/",
+          "source": "조선일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "2호골 이강인, 20일 마드리드 더비…음바페와 맞대결 '기대감↑'",
+          "url": "https://www.yna.co.kr/view/AKR20260917125600007",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "thời tiết": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-18T07:38:00+09:00",
+      "lastSeen": "2026-09-18T07:38:00+09:00",
+      "news": [
+        {
+          "title": "Đường Hà Nội ngập sâu, giao thông tê liệt",
+          "url": "https://vnexpress.net/duong-ha-noi-ngap-sau-giao-thong-te-liet-5121237.html",
+          "source": "VnExpress",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Lũ sông Bùi vượt báo động 3, trên 5.600 người xã Trần Phú bị ảnh hưởng",
+          "url": "https://baotintuc.vn/lu-song-bui-vuot-bao-dong-3-anh-huong-5600-nguoi-o-xa-tran-phu-post1386417.html",
+          "source": "Báo Tin tức và Dân tộc",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Hà Nội mưa lớn kéo dài, các công trình chống ngập khẩn cấp hoạt động thế nào?",
+          "url": "https://www.24h.com.vn/tin-tuc-trong-ngay/ha-noi-mua-lon-keo-dai-cac-cong-trinh-chong-ngap-khan-cap-hoat-dong-the-nao-c46a1795604.html",
+          "source": "Tin tức 24h",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "외환시장": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T07:38:00+09:00",
+      "lastSeen": "2026-09-18T07:38:00+09:00",
+      "news": [
+        {
+          "title": "\"한동안 코스피 잠잠하더니\"…개미들 다시 '초긴장 모드' [분석+]",
+          "url": "https://www.hankyung.com/article/2026091718256",
+          "source": "한국경제",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "영향 제한적이라지만…고금리 이어지나",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8666766",
+          "source": "KBS 뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "한미 금리차 1%p로 확대…한은 연내 추가인상 가능성 커져",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1278375.html",
+          "source": "한겨레",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "참여연대": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T07:38:00+09:00",
+      "lastSeen": "2026-09-18T07:38:00+09:00",
+      "news": [
+        {
+          "title": "참여연대 \"李대통령 사건 조작됐다면 법정서…특검법 동원은 특혜\"",
+          "url": "https://v.daum.net/v/20260917140758909",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "참여연대, 이재명정부 1년 검찰보고서 발간",
+          "url": "https://www.yna.co.kr/view/PYH20260917167100013",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "참여연대 “검찰청 폐지로 끝 아냐”…이 대통령 공소취소에는 반대",
+          "url": "https://www.khan.co.kr/article/202609171634001",
+          "source": "경향신문",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "대구날씨": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T07:38:00+09:00",
+      "lastSeen": "2026-09-18T07:38:00+09:00",
+      "news": [
+        {
+          "title": "[날씨] 동해안·남부 5~20㎜ 비…제주 최고 80㎜↑",
+          "url": "https://v.daum.net/v/20260918063302423",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "대구·경북 흐리고 곳에 따라 비…낮 기온 21∼26도",
+          "url": "https://www.yna.co.kr/view/AKR20260918008900053",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "제주에 많은 비…남해안·내륙 곳곳 ‘강풍’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8666747",
+          "source": "KBS 뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "부산날씨": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T07:38:00+09:00",
+      "lastSeen": "2026-09-18T07:38:00+09:00",
+      "news": [
+        {
+          "title": "부산 울산 경남 흐리고 비…해안 강풍·풍랑 유의",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260918.99099006178",
+          "source": "국제신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[오늘의 날씨] 부산·경남(18일, 금)…강풍에 비 내리는 곳 '안전유의'",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6294518",
+          "source": "뉴스1",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "부산, 흐리고 가끔 비…예상 강수량 5~20㎜",
+          "url": "https://www.newsis.com/view/NISX20260918_0003794751",
+          "source": "뉴시스",
           "date": "2026-09-17"
         }
       ]
