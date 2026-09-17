@@ -1338,10 +1338,10 @@
       ]
     },
     "디에고 시메오네": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T07:38:00+09:00",
-      "lastSeen": "2026-09-18T07:38:00+09:00",
+      "lastSeen": "2026-09-18T08:10:00+09:00",
       "news": [
         {
           "title": "\"이강인, 그리즈만처럼 원터치 패스 못해\"→\"이미 그리즈만 역할 하고 있다\"…LEE 2호골 폭발! 스페인 현지 시선 돌변 \"확실한 주전, 공격의 중심축\"",
@@ -1359,6 +1359,12 @@
           "title": "2호골 이강인, 20일 마드리드 더비…음바페와 맞대결 '기대감↑'",
           "url": "https://www.yna.co.kr/view/AKR20260917125600007",
           "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "물음표를 느낌표로 바꾸다, 6슈팅·4유효슈팅·1골→라리가 공식 MVP...'최고조'로 생애 첫 마드리드 더비 출격 준비 - 조선비즈",
+          "url": "https://biz.chosun.com/sports/football/2026/09/18/HFTDIZRRHBRDCMRWMVSTENBSGE/",
+          "source": "Chosunbiz",
           "date": "2026-09-17"
         }
       ]
@@ -1489,6 +1495,240 @@
           "title": "부산, 흐리고 가끔 비…예상 강수량 5~20㎜",
           "url": "https://www.newsis.com/view/NISX20260918_0003794751",
           "source": "뉴시스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "삼성 갤럭시 z 폴드 8": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "news": [
+        {
+          "title": "접는 아이폰 나오자 삼성 Z폴드8 판매 급증",
+          "url": "https://www.chosun.com/economy/tech_it/2026/09/18/7WHJN6UQ7NHCJO24B27QLTU7OA/",
+          "source": "조선일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "애플이 화면 접자…주름 펴는 삼성D·LGD",
+          "url": "https://v.daum.net/v/20260918071110006",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "329만원 아이폰 듀오 공개 뒤…갤럭시 폴드8 판매 10%↑",
+          "url": "https://www.yna.co.kr/view/AKR20260917049300017",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "날씨": {
+      "count": 1,
+      "maxTraffic": 100000,
+      "firstSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "news": [
+        {
+          "title": "[날씨] 동해안·남부 5~20㎜ 비…제주 최고 80㎜↑",
+          "url": "https://v.daum.net/v/20260918063302423",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "대구·경북 흐리고 곳에 따라 비…낮 기온 21∼26도",
+          "url": "https://www.yna.co.kr/view/AKR20260918008900053",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "남부엔 비 쏟아지는데…경기·인천은 낮 최고 29도 [날씨]",
+          "url": "https://www.kyeonggi.com/article/20260917580566",
+          "source": "경기일보",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "ionq": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "news": [
+        {
+          "title": "IonQ, Synopsys cut simulation time by 14.6% with quantum tech",
+          "url": "https://www.investing.com/news/company-news/ionq-synopsys-cut-simulation-time-by-146-with-quantum-tech-93CH-4905765",
+          "source": "Investing.com",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "IonQ Demonstrates Computer-Aided Engineering Workload Acceleration by up to 14.6% with Quantum Tech",
+          "url": "https://www.hpcwire.com/off-the-wire/ionq-demonstrates-computer-aided-engineering-workload-acceleration-by-up-to-14-6-with-quantum-tech/",
+          "source": "HPCwire",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "IonQ (NYSE: IONQ) Wins Four IEEE Best Paper Awards From 857 Global Quantum Research Submissions",
+          "url": "https://www.foreignpolicyjournal.com/2026/09/16/ionq-nyse-ionq-wins-four-ieee-best-paper-awards-from-857-global-quantum-research-submissions/",
+          "source": "Foreign Policy Journal",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "김서현": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "news": [
+        {
+          "title": "‘1-6에서 7-6 대역전’ 야구대표팀, 연습경기서 끝내기승…류지현 감독 “좋은 에너지 받았다”",
+          "url": "https://v.daum.net/v/Zo0seTsAd2",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'박영현-조병현 아니었다' ERA 4.19 최준용 승부치기 투입→'무사 1·2루 무실점'... 류지현 승부수 통했다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/18/2026091807315738136",
+          "source": "머���투데이",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'리드오프 김도영·불펜 김진욱' 류지현호, 준비 끝…좌완 마운드는 불안요소",
+          "url": "https://www.yna.co.kr/view/MYH20260917022300038",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "weather": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "news": [
+        {
+          "title": "China Builds 10-Day Weather Forecast System on Homegrown AI Chips",
+          "url": "https://en.sedaily.com/international/2026/09/18/china-builds-10-day-weather-forecast-system-on-homegrown-ai",
+          "source": "Seoul Economic Daily",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "A world 20 light-years away reveals surprisingly organized, Jupiter-like weather",
+          "url": "https://phys.org/news/2026-09-world-years-reveals-jupiter-weather.html",
+          "source": "Phys.org",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Clouds of the brown dwarf SIMP 0136 change in accordance the pattern",
+          "url": "https://universemagazine.com/en/cloud-systems-on-the-brown-dwarf-change-in-an-orderly-pattern/",
+          "source": "Universe Space Tech",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "블레이크 스넬": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "news": [
+        {
+          "title": "MLB 스넬, 1이닝 던지고 사타구니 통증으로 교체…다저스 대형 악재",
+          "url": "https://www.donga.com/news/Sports/article/all/20260917/134686769/1",
+          "source": "동아일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "2511억 먹튀 좌완, 1이닝 만에 사라졌다…갑작스러운 부상에 모든 게 꼬인 LAD, 결국 2-6 패배 [LAD 리뷰]",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/17/GRRDAOJRMFSDCZTBGI2TMYTGHA/",
+          "source": "조선일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "프리드먼, 도대체 몇 수 앞을 봤나? 다저스, 스쿠발 트레이드 '신의 한 수'로 급부상, 스넬·오타니 줄부상",
+          "url": "https://v.daum.net/v/95tXDwaedp",
+          "source": "Daum",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "vix": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "news": [
+        {
+          "title": "Stock Market Warning? VIX Rises as Semiconductors Collapse",
+          "url": "https://www.investing.com/analysis/stock-market-warning-vix-rises-as-semiconductors-collapse-200687706",
+          "source": "Investing.com",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "About ProShares Ultra VIX Short-Term Futures ETF rStock",
+          "url": "https://www.coinbase.com/en-fr/price/proshares-ultra-vix-short-term-futures-etf-rstock",
+          "source": "Coinbase",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Nasdaq Jumps 326.94 Points as Fed Rate Hike to 3.75%-4% Lifts US Stocks at Open",
+          "url": "https://hdfcsky.com/news/nasdaq-jumps-326-94-points-as-fed-rate-hike-to-3-75percent-4percent-lifts-us-stocks-at-open-sept-17-2026",
+          "source": "HDFC Sky",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "qqq": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "news": [
+        {
+          "title": "VOO and VTI ETFs overlap 85%, duplicating your investment and reducing diversification benefits.",
+          "url": "https://pluang.com/en/news-feed/anda-membeli-voo-dan-vti-untuk-diversifikasi-85-persen-uang-anda-berada-di-saham",
+          "source": "Pluang",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
+          "url": "https://247wallst.com/investing/etf/2026/09/17/500000-split-between-voo-and-qqq-owns-the-same-seven-stocks-twice-and-nobody-adds-up-the-overlap/",
+          "source": "24/7 Wall St.",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "VOO vs. VTI: Which Vanguard ETF Is Right for You?",
+          "url": "https://www.tipranks.com/news/voo-vs-vti-which-vanguard-etf-is-right-for-you",
+          "source": "TipRanks",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "погода": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T08:10:00+09:00",
+      "lastSeen": "2026-09-18T08:10:00+09:00",
+      "news": [
+        {
+          "title": "Дождь и понижение температуры – прогноз погоды на 18 сентября",
+          "url": "https://cursorinfo.co.il/weather/dozhd-i-ponizhenie-temperatury-prognoz-pogody-na-18-sentyabrya/",
+          "source": "Cursorinfo",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Дождь после жары: прогноз погоды на выходные и Йом-Кипур",
+          "url": "https://www.vesty.co.il/main/article/byhmquftfg",
+          "source": "Vesty.co.il",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Прогноз погоды в Израиле, 17.09.2026 Newsru.co.il",
+          "url": "https://www.newsru.co.il/israel/17sep2026/pogoda.html",
+          "source": "NEWSru.co.il",
           "date": "2026-09-17"
         }
       ]
