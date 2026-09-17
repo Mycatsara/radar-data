@@ -4717,10 +4717,10 @@
       ]
     },
     "빙하 붕괴": {
-      "count": 2,
-      "maxTraffic": 2000,
+      "count": 3,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-17T20:13:00+09:00",
-      "lastSeen": "2026-09-17T20:41:00+09:00",
+      "lastSeen": "2026-09-17T21:17:00+09:00",
       "news": [
         {
           "title": "네팔 대홍수 실종자 하루 만에 1000명 급증···한국인 9명 수색도 난항",
@@ -4793,10 +4793,10 @@
       ]
     },
     "거래소": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-17T20:41:00+09:00",
-      "lastSeen": "2026-09-17T20:41:00+09:00",
+      "lastSeen": "2026-09-17T21:17:00+09:00",
       "news": [
         {
           "title": "거래소, 내달 1일 건전증시포럼…합리적 시장관리·투자자 보호 주제",
@@ -4819,10 +4819,10 @@
       ]
     },
     "열차": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-17T20:41:00+09:00",
-      "lastSeen": "2026-09-17T20:41:00+09:00",
+      "lastSeen": "2026-09-17T21:17:00+09:00",
       "news": [
         {
           "title": "수수료 5배 챙긴 ‘매크로 열차표 새치기’…올해 14명 검거",
@@ -4840,6 +4840,188 @@
           "title": "���수료 5배 챙긴 '매크로 열차표 새치기'…경찰 올해 14명 검거",
           "url": "https://www.yna.co.kr/view/AKR20260917129500061",
           "source": "연합뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "라이머": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "news": [
+        {
+          "title": "라이머, 안현모와 이혼 후 남은 '강남 7층 빌딩' 자랑..父 \"사귀는 여자는?\"(신랑수업2)",
+          "url": "https://v.daum.net/v/20260917141607389",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "‘신랑수업2’ 라이머 직접 잡은 볼락으로 아침상, 강예원 반응은 반전",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433648",
+          "source": "데일리스포츠한국",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "��예원, 라이머 연애 코치였다 “내 말 너무 안 들어”…패션까지 단속",
+          "url": "https://sports.donga.com/ent/article/all/20260916/134678901/1",
+          "source": "스포츠동아",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "mcdonald's": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "news": [
+        {
+          "title": "McDonald's has burgers for National Cheeseburger Day, but there's a catch",
+          "url": "https://www.yahoo.com/lifestyle/articles/mcdonalds-burgers-national-cheeseburger-day-104932592.html",
+          "source": "Yahoo",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "National Cheeseburger Day deals at McDonald's, Burger King, more",
+          "url": "https://www.usatoday.com/story/money/food/2026/09/17/national-cheeseburger-day-2026-deals-free-burgers/91459117007/",
+          "source": "USA Today",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "McDonald’s Is Giving Away Free Double Cheeseburgers for National Cheeseburger Day: How to Score Yours",
+          "url": "https://people.com/mcdonalds-free-double-cheeseburgers-national-cheeseburger-day-12116653",
+          "source": "People.com",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "채수빈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "news": [
+        {
+          "title": "'나를 충전해줘' 김영광·채수빈, 찌릿한 로코 케미…스틸 공개",
+          "url": "https://v.daum.net/v/0uyCD8B3oN",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "김영광·채수빈 ‘나를 충전해줘’, 인공 심장·전기 능력 로코 컴백",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16194009",
+          "source": "톱스타뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "\"방전\" 남자가 여자를 만나야만 충전된다…10월 공개되는 이 한국 드라마",
+          "url": "https://www.wikitree.co.kr/articles/1158582",
+          "source": "위키트리",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "영일만": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "news": [
+        {
+          "title": "김영헌 포항시의원 \"영일만 횡단대교 더 이상 늦춰선 안 돼\"",
+          "url": "https://v.daum.net/v/UABz1tWICo",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "`해상 랜드마크` 어디 가고 `다리 없는 대교`…갈팡질팡 영일만대교 노선",
+          "url": "https://www.imaeil.com/page/view/2026091710361914740",
+          "source": "매일신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "영일만횡단대교, 결국 우회하나…발등에 불 떨어진 포항 정치권",
+          "url": "https://www.seoul.co.kr/news/society/2026/09/16/20260916500098",
+          "source": "서울신문",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "김태규": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "news": [
+        {
+          "title": "급기야 \"이재명 탄핵\" 꺼내…'상임위 줄줄이 취소' 격화",
+          "url": "https://v.daum.net/v/20260917190102674",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "국회 법사위, 김승원 후보자 청문보고서 여당 주도 채택‥국힘 퇴장",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6852481_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "“시끄럽기만 했지 결정적 한 방 없어…국힘이 잘못한 것” 박지원의 말",
+          "url": "https://www.munhwa.com/article/11617825",
+          "source": "문화일보",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "가해자": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "news": [
+        {
+          "title": "\"'야차룰' 동의?\"…경찰, 피해자 녹음파일 통째로 '누락'",
+          "url": "https://v.daum.net/v/20260917140614831",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "국힘 “맞은 아이를 가해자 만든 與검찰개혁…법 만든이가 김승원”",
+          "url": "https://www.donga.com/news/Politics/article/all/20260917/134685887/1",
+          "source": "동아일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "단독 범행 송치 여중생 학폭 사건…검찰 보안수사서 3명 기소",
+          "url": "https://www.yna.co.kr/view/AKR20260916071700051",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "포스코퓨처엠": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-17T21:17:00+09:00",
+      "lastSeen": "2026-09-17T21:17:00+09:00",
+      "news": [
+        {
+          "title": "안대천 포항시의원, 1인·여성 소상공인 범죄예방 지원 근거 마련",
+          "url": "https://m.segye.com/view/20260916517626",
+          "source": "세계일보",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "포항남부서-포스코 퓨처엠, 범죄 노출 취약한 1인 소상공인에 ‘태양열 비상벨’ 지원",
+          "url": "https://www.seoul.co.kr/news/society/2026/09/17/20260917500252",
+          "source": "서울신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "포항시의회 안대천 의원, 1인·여성 소상공인 지원 조례 개정안 대표발의",
+          "url": "https://www.metroseoul.co.kr/article/20260917500031",
+          "source": "메트로신문",
           "date": "2026-09-17"
         }
       ]
