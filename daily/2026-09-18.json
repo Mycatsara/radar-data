@@ -470,10 +470,10 @@
       ]
     },
     "봉누도2": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T03:16:00+09:00",
-      "lastSeen": "2026-09-18T05:40:00+09:00",
+      "lastSeen": "2026-09-18T06:13:00+09:00",
       "news": [
         {
           "title": "'봉누도 시즌2' 2일차. '갱단' 설립을 향한 레이스 … 온 세상이 '범죄'다",
@@ -624,10 +624,10 @@
       ]
     },
     "록히드 마틴 f-35 라이트닝 ii": {
-      "count": 3,
-      "maxTraffic": 100,
+      "count": 4,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-18T04:40:00+09:00",
-      "lastSeen": "2026-09-18T05:40:00+09:00",
+      "lastSeen": "2026-09-18T06:13:00+09:00",
       "news": [
         {
           "title": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
@@ -662,10 +662,10 @@
       ]
     },
     "삼중살": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T04:40:00+09:00",
-      "lastSeen": "2026-09-18T05:40:00+09:00",
+      "lastSeen": "2026-09-18T06:13:00+09:00",
       "news": [
         {
           "title": "‘8일 만에 나왔는데 5초 만에 삼중살이라니’ 김혜성 망연자실…日 매체도 깜짝 “역대 가장 쿨?”",
@@ -694,10 +694,10 @@
       ]
     },
     "what is phishing": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T05:14:00+09:00",
-      "lastSeen": "2026-09-18T05:40:00+09:00",
+      "lastSeen": "2026-09-18T06:13:00+09:00",
       "news": [
         {
           "title": "Hackers demand Revolut pay $3mn ransom after data breach",
@@ -720,10 +720,10 @@
       ]
     },
     "백화점": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-18T05:14:00+09:00",
-      "lastSeen": "2026-09-18T05:40:00+09:00",
+      "lastSeen": "2026-09-18T06:13:00+09:00",
       "news": [
         {
           "title": "‘유통 공룡’ 이케아, 신세계 대구점 오픈…900개 홈퍼니싱 제품 선보여",
@@ -758,10 +758,10 @@
       ]
     },
     "크리스털 팰리스 대 레흐 포즈난": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-18T05:40:00+09:00",
-      "lastSeen": "2026-09-18T05:40:00+09:00",
+      "lastSeen": "2026-09-18T06:13:00+09:00",
       "news": [
         {
           "title": "크리스탈 팰리스 vs 레흐 포즈난 예측: 상위권 경쟁의 뜨거운 승부",
@@ -784,10 +784,10 @@
       ]
     },
     "man city vs norwich city": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-18T05:40:00+09:00",
-      "lastSeen": "2026-09-18T05:40:00+09:00",
+      "lastSeen": "2026-09-18T06:13:00+09:00",
       "news": [
         {
           "title": "EFL Cup 3rd Round LIVE: Manchester City vs Norwich City - live text updates, score & radio commentary",
@@ -805,6 +805,96 @@
           "title": "4 instant reactions to Man City’s breezy Carabao Cup victory against Norwich City",
           "url": "https://mancitysquare.com/instant-reactions-man-city-breezy-carabao-cup-victory-against-norwich-city",
           "source": "Man City Square",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Floyd Samba dream debut gives Man City something new",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/floyd-samba-dream-debut-gives-34634409",
+          "source": "Manchester Evening News",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Man City vs Norwich: Lineups, Prediction, Odds & Bet Builder Tip",
+          "url": "https://www.whoscored.com/articles/i91amroHXU6IhIqxULD3lQ/show/20260917-man-city-vs-norwich-prediction-1789641656",
+          "source": "WhoScored.com",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "sri lanka vs england": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T06:13:00+09:00",
+      "lastSeen": "2026-09-18T06:13:00+09:00",
+      "news": [
+        {
+          "title": "England vs Sri Lanka LIVE: Second T20, Cardiff - cricket score, commentary & video highlights",
+          "url": "https://www.bbc.com/sport/cricket/live/czexyld1ge3t",
+          "source": "BBC",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Highlights - England v Sri Lanka Second T20 - England win by six wickets",
+          "url": "https://www.bbc.co.uk/sport/cricket/videos/cq70dnxrg79lo",
+          "source": "BBC",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "England crush Sri Lanka to seal T20 series win",
+          "url": "https://sports.yahoo.com/articles/england-crush-sri-lanka-seal-203437396.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "유재석": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T06:13:00+09:00",
+      "lastSeen": "2026-09-18T06:13:00+09:00",
+      "news": [
+        {
+          "title": "tvN 또 해냈다…최고 5.6%→동시간대 1위 찍으며 수요일 밤 꽉 잡은 예능 ('유퀴즈')",
+          "url": "https://v.daum.net/v/YLSOEpXSek",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "“평균 수명 20세라고 했는데”… ‘유퀴즈’ 혈우병 크리에이터가 밝힌 반전",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/09/17/2026091702574.html",
+          "source": "헬스조선",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "전세계 0.01% 희귀질환…혈우병 투병 이견우 출연 ‘유퀴즈’ 동시간대 시청률 1위",
+          "url": "https://www.koreadaily.com/article/20260916172906865",
+          "source": "미주중앙일보",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "man city đấu với norwich": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T06:13:00+09:00",
+      "lastSeen": "2026-09-18T06:13:00+09:00",
+      "news": [
+        {
+          "title": "Nhận định bóng đá Man City vs Norwich, 01h30 ngày 18/9: Quỳ gối trước nhà vua",
+          "url": "https://bongdaplus.vn/cup-lien-doan-anh/nhan-dinh-bong-da-man-city-vs-norwich-01h30-ngay-18-9-quy-goi-truoc-nha-vua-5166042609.html",
+          "source": "Tạp chí Bóng đá",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Trực tiếp Manchester City vs Norwich: Manchester City nới rộng cách biệt 3-0",
+          "url": "https://baonghean.vn/truc-tiep-manchester-city-vs-norwich-manchester-city-noi-rong-cach-biet-3-0-10351583.html",
+          "source": "baonghean.vn",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "SIARAN LANGSUNG Manchester City vs Norwich: Pertandingan sedang berlangsung",
+          "url": "https://www.vietnam.vn/id/truc-tieptruc-tiep-manchester-city-vs-norwich-tran-dau-dang-dien-ra",
+          "source": "Vietnam.vn",
           "date": "2026-09-17"
         }
       ]
