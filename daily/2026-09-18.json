@@ -406,10 +406,10 @@
       ]
     },
     "시부모": {
-      "count": 7,
-      "maxTraffic": 1000,
+      "count": 8,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-18T01:41:00+09:00",
-      "lastSeen": "2026-09-18T04:40:00+09:00",
+      "lastSeen": "2026-09-18T05:14:00+09:00",
       "news": [
         {
           "title": "\"손주 보러 가려했는데\"…호텔서 자라는 며느리 말에 시어머니 '엉엉'",
@@ -432,10 +432,10 @@
       ]
     },
     "india vs afghanistan": {
-      "count": 7,
+      "count": 8,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T01:41:00+09:00",
-      "lastSeen": "2026-09-18T04:40:00+09:00",
+      "lastSeen": "2026-09-18T05:14:00+09:00",
       "news": [
         {
           "title": "IND vs AFG Cricket Scorecard, 3rd T20I at Delhi, September 17, 2026",
@@ -470,17 +470,36 @@
       ]
     },
     "봉누도2": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T03:16:00+09:00",
-      "lastSeen": "2026-09-18T04:40:00+09:00",
-      "news": []
+      "lastSeen": "2026-09-18T05:14:00+09:00",
+      "news": [
+        {
+          "title": "'봉누도 시즌2' 2일차. '갱단' 설립을 향한 레이스 … 온 세상이 '범죄'다",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308432",
+          "source": "경향게임스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "치지직 ‘봉누도2’ 오픈 전 둘러보자, 공무직 RP 가이드",
+          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216458",
+          "source": "게임플",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "‘봉누도2’ 공무직 49명 선발 완료 … 14일 ‘크랭크 인’",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308292",
+          "source": "경향게임스",
+          "date": "2026-09-17"
+        }
+      ]
     },
     "압구정 현대아파트": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T03:16:00+09:00",
-      "lastSeen": "2026-09-18T04:40:00+09:00",
+      "lastSeen": "2026-09-18T05:14:00+09:00",
       "news": [
         {
           "title": "압구정현대보다 비쌌던 '원조 부촌'…대규모 부활 예고",
@@ -503,10 +522,10 @@
       ]
     },
     "송지효": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T03:16:00+09:00",
-      "lastSeen": "2026-09-18T04:40:00+09:00",
+      "lastSeen": "2026-09-18T05:14:00+09:00",
       "news": [
         {
           "title": "송지효, 업로드 주기 자주 바뀌더니 결국 중단..\"마음만 앞서서 될 일 아냐\"",
@@ -541,10 +560,10 @@
       ]
     },
     "아스트라에 오라티오": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T03:16:00+09:00",
-      "lastSeen": "2026-09-18T04:40:00+09:00",
+      "lastSeen": "2026-09-18T05:14:00+09:00",
       "news": [
         {
           "title": "K게임, 도쿄게임쇼 '큰손' 됐다…참가사 2.5배 급증",
@@ -593,10 +612,10 @@
       ]
     },
     "록히드 마틴 f-35 라이트닝 ii": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T04:40:00+09:00",
-      "lastSeen": "2026-09-18T04:40:00+09:00",
+      "lastSeen": "2026-09-18T05:14:00+09:00",
       "news": [
         {
           "title": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
@@ -615,14 +634,20 @@
           "url": "https://www.jpost.com/middle-east/article-908993",
           "source": "The Jerusalem Post",
           "date": "2026-09-17"
+        },
+        {
+          "title": "US, in controversial deal, agrees to sell F-35s to Saudi Arabia",
+          "url": "https://www.politico.com/news/2026/09/17/us-saudi-arabia-f-35-sale-01082854",
+          "source": "Politico",
+          "date": "2026-09-17"
         }
       ]
     },
     "삼중살": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T04:40:00+09:00",
-      "lastSeen": "2026-09-18T04:40:00+09:00",
+      "lastSeen": "2026-09-18T05:14:00+09:00",
       "news": [
         {
           "title": "‘8일 만에 나왔는데 5초 만에 삼중살이라니’ 김혜성 망연자실…日 매체도 깜짝 “역대 가장 쿨?”",
@@ -640,6 +665,64 @@
           "title": "8일 만에 경기 나선 김혜성에게 무슨 일이…무사 1·2루서 ‘충격의 삼중살’, 다음 타석 적시타 쾅! 5타수 1안타 1타점 1득점 1도루 - 머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/09/17/202609171030775318O",
           "source": "머니투데이",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "김혜성, 8일 만에 라인업 복귀...1안타 1타점에 삼중살도 기록",
+          "url": "https://www.mk.co.kr/news/sports/12155173",
+          "source": "매일경제",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "what is phishing": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T05:14:00+09:00",
+      "lastSeen": "2026-09-18T05:14:00+09:00",
+      "news": [
+        {
+          "title": "Hackers demand Revolut pay $3mn ransom after data breach",
+          "url": "https://www.ft.com/content/d1f2c9bd-26ce-4e87-9da4-fe0238bd531d?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Revolut confirms customer data breach through fake government requests",
+          "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+          "source": "TechCrunch",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Italian banks under security review in wake of Revolut data breach",
+          "url": "https://www.mlex.com/mlex/articles/2526742/italian-banks-under-security-review-in-wake-of-revolut-data-breach",
+          "source": "MLex",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "백화점": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T05:14:00+09:00",
+      "lastSeen": "2026-09-18T05:14:00+09:00",
+      "news": [
+        {
+          "title": "‘유통 공룡’ 이케아, 신세계 대구점 오픈…900개 홈퍼니싱 제품 선보여",
+          "url": "https://v.daum.net/v/20260917140130512",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "노란 장바구니 가득 든 시민들",
+          "url": "https://www.newsis.com/view/NISI20260917_0002242185",
+          "source": "뉴시스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "개점 첫날 이케아 ‘도심형 대��매장’ 가보니… 수백명 대기줄 진풍경",
+          "url": "https://www.yeongnam.com/web/view.php?key=20260917028239240",
+          "source": "영남일보",
           "date": "2026-09-17"
         }
       ]
