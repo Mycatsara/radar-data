@@ -2057,10 +2057,10 @@
       ]
     },
     "브레이브스 대 컵스": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T09:46:00+09:00",
-      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:42:00+09:00",
       "news": [
         {
           "title": "'대반전' 김하성 PS 예상 로스터 당당히 승선, 입지 이렇게 바뀌나 \"두 가지 이유로 논란 종결\"",
@@ -2095,10 +2095,10 @@
       ]
     },
     "한국항공우주산업": {
-      "count": 4,
-      "maxTraffic": 500,
+      "count": 5,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-17T09:46:00+09:00",
-      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:42:00+09:00",
       "news": [
         {
           "title": "국내외 방산전문가 1500명 온 시연회서 K드론 잇단 추락",
@@ -2178,10 +2178,10 @@
       ]
     },
     "inter miami vs cruz azul": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-17T10:12:00+09:00",
-      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:42:00+09:00",
       "news": [
         {
           "title": "Does the 2026 Campeones Cup between Inter Miami and Cruz Azul count as an official title?",
@@ -2206,14 +2206,20 @@
           "url": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-hosts-cruz-azul-the-2026-michelob-ultra-campeones-cup",
           "source": "Inter Miami CF",
           "date": "2026-09-17"
+        },
+        {
+          "title": "Inter Miami adds to trophy case with first Campeones Cup title in Gonzalez debut",
+          "url": "https://www.miamiherald.com/sports/mls/inter-miami/article317246067.html",
+          "source": "Miami Herald",
+          "date": "2026-09-17"
         }
       ]
     },
     "jev": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-17T10:12:00+09:00",
-      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:42:00+09:00",
       "news": [
         {
           "title": "This $200 Million Startup Wants To Fix AI’s Overconfidence Problem",
@@ -2236,10 +2242,10 @@
       ]
     },
     "테크볼": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-17T10:41:00+09:00",
-      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:42:00+09:00",
       "news": [
         {
           "title": "버추얼 태권도부터 MMA까지, 확! 달라진 아시안게임 총정리.zip - 영상 | 멀티미디어",
@@ -2268,10 +2274,10 @@
       ]
     },
     "fifa u 20 여자 월드컵": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-17T11:13:00+09:00",
-      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:42:00+09:00",
       "news": [
         {
           "title": "한국 축구, 아르헨티나 1-0 꺾고 12년만에 U-20 여자 월드컵 8강",
@@ -2294,10 +2300,10 @@
       ]
     },
     "신원식": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-17T11:13:00+09:00",
-      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:42:00+09:00",
       "news": [
         {
           "title": "'계엄 정당화 메시지' 신원식 前안보실장 측 \"尹 지시 안 받아\"",
@@ -2320,10 +2326,10 @@
       ]
     },
     "윤여정": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T11:13:00+09:00",
-      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:42:00+09:00",
       "news": [
         {
           "title": "윤여정 영어 지적한 BBC, 틀렸다···조지은 옥스퍼드 교수 “mukbang과 unnie도 맞는 영어”",
@@ -2346,10 +2352,10 @@
       ]
     },
     "대학 입시": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-17T11:13:00+09:00",
-      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:42:00+09:00",
       "news": [
         {
           "title": "‘수시 먹통’ 우왕좌왕 일주일… 수험생 분통",
@@ -2368,14 +2374,26 @@
           "url": "https://www.mt.co.kr/policy/2026/09/17/2026091619573888152",
           "source": "머니투데이",
           "date": "2026-09-17"
+        },
+        {
+          "title": "임이자 \"李정부, 수시 먹통 사태에도 '남 탓' 반복…교육부 왜 있나\" - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/09/17/2026091710521585494",
+          "source": "머니투데이",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "국회 교육위 전체회의 개의",
+          "url": "https://www.yna.co.kr/view/PYH20260916160800013",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
         }
       ]
     },
     "고영욱": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-17T11:13:00+09:00",
-      "lastSeen": "2026-09-17T11:13:00+09:00",
+      "lastSeen": "2026-09-17T11:42:00+09:00",
       "news": [
         {
           "title": "고영욱, 무빈소 장례 계획…“여러모로 앞서가”",
@@ -2393,6 +2411,12 @@
           "title": "고영욱, '전자발찌 벗고 러닝 논란' 의식했나..\"혼자 뛰는 게 좋아\" 장기하 책 공유 [스타이슈]",
           "url": "https://v.daum.net/v/tlyViV71hj",
           "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "'미성년자 성폭행' 고영욱, 친구 '0명'→무빈소장례 계획 \"난 늘 앞서가\"",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1007771",
+          "source": "SPOTV NEWS",
           "date": "2026-09-17"
         }
       ]
