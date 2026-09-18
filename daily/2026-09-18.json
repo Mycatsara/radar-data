@@ -220,10 +220,10 @@
       ]
     },
     "thời tiết ngày mai": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T23:13:00+09:00",
+      "lastSeen": "2026-09-18T23:41:00+09:00",
       "news": [
         {
           "title": "Đường Hà Nội ngập sâu, giao thông tê liệt",
@@ -5488,10 +5488,10 @@
       ]
     },
     "조민": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-18T22:41:00+09:00",
-      "lastSeen": "2026-09-18T23:13:00+09:00",
+      "lastSeen": "2026-09-18T23:41:00+09:00",
       "news": [
         {
           "title": "조민, 홈쇼핑 90분 전 잘렸다···“논란 우려” 통보",
@@ -5514,10 +5514,10 @@
       ]
     },
     "사미자": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-18T22:41:00+09:00",
-      "lastSeen": "2026-09-18T23:13:00+09:00",
+      "lastSeen": "2026-09-18T23:41:00+09:00",
       "news": [
         {
           "title": "전원주 측 “유튜브 출연료 70만 원 아냐” 매니저 주장 부인",
@@ -5540,10 +5540,10 @@
       ]
     },
     "고속도로": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T23:13:00+09:00",
-      "lastSeen": "2026-09-18T23:13:00+09:00",
+      "lastSeen": "2026-09-18T23:41:00+09:00",
       "news": [
         {
           "title": "고속도 기름값 L당 100원 인하에, 동네주유소 “문 닫으라는 거냐”",
@@ -5562,21 +5562,27 @@
           "url": "https://www.ytn.co.kr/_cs/_ln_0102_202609181006142738_005.html",
           "source": "YTN",
           "date": "2026-09-18"
+        },
+        {
+          "title": "석유 최고가격 4주 더 동결…유가 급등했지만 민생안정 방점",
+          "url": "https://www.yna.co.kr/view/AKR20260918157200003",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
         }
       ]
     },
     "나는 solo, 그 후 사랑은 계속된다": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-18T23:13:00+09:00",
-      "lastSeen": "2026-09-18T23:13:00+09:00",
+      "lastSeen": "2026-09-18T23:41:00+09:00",
       "news": []
     },
     "애국가": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T23:13:00+09:00",
-      "lastSeen": "2026-09-18T23:13:00+09:00",
+      "lastSeen": "2026-09-18T23:41:00+09:00",
       "news": [
         {
           "title": "이번엔 ‘애국가’ 대신 ‘북한 국가’ 재생…‘실수가 반복되면 무능’",
@@ -5595,14 +5601,20 @@
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6852887_37004.html",
           "source": "MBC 뉴스",
           "date": "2026-09-18"
+        },
+        {
+          "title": "[아시안게임] 대한체육회, 하키 경기장 북한 국가 연주에 조직위 사과 요구",
+          "url": "https://www.yna.co.kr/view/AKR20260918093553007",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
         }
       ]
     },
     "정용진": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T23:13:00+09:00",
-      "lastSeen": "2026-09-18T23:13:00+09:00",
+      "lastSeen": "2026-09-18T23:41:00+09:00",
       "news": [
         {
           "title": "'구해줘 홈즈' 11가구 면적 중 50% 차지 깜짝..누구?",
@@ -5620,6 +5632,84 @@
           "title": "김남일, 190㎝ 고3 아들 공개…\"공부해야 하는데 게임만\"",
           "url": "https://www.newsis.com/view/NISX20260918_0003795037",
           "source": "뉴시스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "지귀연": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T23:41:00+09:00",
+      "lastSeen": "2026-09-18T23:41:00+09:00",
+      "news": [
+        {
+          "title": "[판결] “윤 전 대통령 내란 실명 판결문 비공개는 위법”",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226544",
+          "source": "법률신문",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "법원 \"尹 내란 우두머리 1심 실명 판결문 공개 거부는 위법\"(종합)",
+          "url": "https://v.daum.net/v/20260917162750593",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "지귀연 尹내란 판결문 비공개한 법원에 “위법” 질타한 법원",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337211",
+          "source": "미디어오늘",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "박시은": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T23:41:00+09:00",
+      "lastSeen": "2026-09-18T23:41:00+09:00",
+      "news": [
+        {
+          "title": "진태현·박시은 \"11만 유튜브 채널 구독 멈춰달라\"…왜?",
+          "url": "https://www.newsis.com/view/NISX20260918_0003796060",
+          "source": "뉴시스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "“구독 그만해달라”…‘11만 유튜버’ 진태현 박시은 뜻밖의 당부 왜?",
+          "url": "https://v.daum.net/v/HDcjm9UZy9",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "“구독 그만”…’박시은♥’ 진태현, 구독자 12만 목전인데 ‘공��� 호소’, 왜? [RE:뷰]",
+          "url": "https://tvreport.co.kr/entertainment/article/1076701/amp/",
+          "source": "TV리포트",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "스캔들 나나": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-18T23:41:00+09:00",
+      "lastSeen": "2026-09-18T23:41:00+09:00",
+      "news": [
+        {
+          "title": "지창욱 vs 배용준… 누구 스캔들이 더 요란할까",
+          "url": "https://www.donga.com/news/Culture/article/all/20260918/134692360/2",
+          "source": "동아일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[리뷰] 욕망은 뜨거운데, 재미는 미지근한 '스캔들'",
+          "url": "https://v.daum.net/v/20260918182737322?f=m",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "손예진이 얼마나 좋으면…광고주도 응원 \"'스캔들' 보며 감탄해보세요\" - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/18/GJQWMMZWGRRGKN3BGMYDAZLCHE/",
+          "source": "Chosunbiz",
           "date": "2026-09-18"
         }
       ]
