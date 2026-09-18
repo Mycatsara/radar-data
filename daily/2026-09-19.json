@@ -1391,10 +1391,10 @@
       ]
     },
     "김경문": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-19T07:12:00+09:00",
-      "lastSeen": "2026-09-19T07:12:00+09:00",
+      "lastSeen": "2026-09-19T07:39:00+09:00",
       "news": [
         {
           "title": "정우주 1군에서 못 본다…일본 단기유학 추진, 김경문 감독 \"내년을 생각하는 게 낫다\"",
@@ -1413,14 +1413,20 @@
           "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1007941",
           "source": "SPOTV NEWS",
           "date": "2026-09-18"
+        },
+        {
+          "title": "정우주 1군에서 못 본다…일본 단기유학 추진, 김경문 감독 \"내년을 생각하는 게 낫다\"",
+          "url": "https://v.daum.net/v/20260918101438970",
+          "source": "Daum",
+          "date": "2026-09-18"
         }
       ]
     },
     "해리 케인": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T07:12:00+09:00",
-      "lastSeen": "2026-09-19T07:12:00+09:00",
+      "lastSeen": "2026-09-19T07:39:00+09:00",
       "news": [
         {
           "title": "바이에른 뮌헨 '오피셜' 입장 정리, 해리 케인 발롱도르에 올인 → '표 나뉠라' 올리세-우파메카노 있어도 \"오직 케인\"",
@@ -1443,10 +1449,10 @@
       ]
     },
     "mu": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T07:12:00+09:00",
-      "lastSeen": "2026-09-19T07:12:00+09:00",
+      "lastSeen": "2026-09-19T07:39:00+09:00",
       "news": [
         {
           "title": "Micron Q4: Brace Yourself For The Inflection (NASDAQ:MU)",
@@ -1490,6 +1496,188 @@
           "title": "영화배우 뺨치는 KIA 루키 박종혁 설레는 첫 콜업, 이범호 열정 3루 수비 지도...활용도 질문에 \"마지막 선수로 쓰지 않을까\" [오!센 광주] - 머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/09/17/202609171500771672O",
           "source": "머니투데이",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "중대범죄수사청": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T07:39:00+09:00",
+      "lastSeen": "2026-09-19T07:39:00+09:00",
+      "news": [
+        {
+          "title": "[단독]중수청, 검사 대상 수사관 임용 대상자 발표…임은정·문지석도 합격",
+          "url": "https://v.daum.net/v/20260918205328046",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "중수청 인력난에 경찰 '관망'…\"검찰 주도 조직서 객 될라\" 경계",
+          "url": "https://www.newspim.com/news/view/20260918000339",
+          "source": "뉴스핌",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "불확실한 공소청 직제…중수청 2차 모��� 막판까지 눈치싸움 전망",
+          "url": "https://www.news1.kr/society/court-prosecution/6294505",
+          "source": "뉴스1",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "정의선": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-19T07:39:00+09:00",
+      "lastSeen": "2026-09-19T07:39:00+09:00",
+      "news": [
+        {
+          "title": "현대차 GBC '105층' 대신 '49층'…정의선은 '쓸모' 택했다",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01653126645581104&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "105층서 49층 3개동으로 바뀐 GBC…공사기간 5년6개월 연장",
+          "url": "https://m.ekn.kr/view.php?key=20260916027015422",
+          "source": "에너지경제신문",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "49층 3개 동 설계 변경에 공기 연장까지…현대건설 GBC ‘공사비 대형 증액’ 예고",
+          "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=301292",
+          "source": "뉴스퀘스트",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "아시안 게임": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-19T07:39:00+09:00",
+      "lastSeen": "2026-09-19T07:39:00+09:00",
+      "news": [
+        {
+          "title": "한국 男농구, 이란꺾고 결승행…20일 ‘한일전’ 금빛 매치",
+          "url": "https://www.munhwa.com/article/11618160",
+          "source": "문화일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "남자 농구 12년 만에 우승 눈앞…내일 일본과 결승전",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761074",
+          "source": "SBS 뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[아시안게임] 조�� 전역 가까워진 이우석 \"군인의 임무로 농구 금메달 딴다\"",
+          "url": "https://v.daum.net/v/zIExdtWIGx",
+          "source": "Daum",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "나스닥 100": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T07:39:00+09:00",
+      "lastSeen": "2026-09-19T07:39:00+09:00",
+      "news": [
+        {
+          "title": "WTI 선물, 장 초반 0.65% 내린 배럴당 101.25달러",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435568",
+          "source": "연합인포맥스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[속보] 국제유가 하락…WTI 1.58%↓",
+          "url": "https://www.etoday.co.kr/news/view/2627449",
+          "source": "이투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "나스닥 100 선물, 중동 전운 뚫고 상승...트럼프 결단 후 방향은?",
+          "url": "https://www.coinreaders.com/259131",
+          "source": "코인리더스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "육상 경기": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T07:39:00+09:00",
+      "lastSeen": "2026-09-19T07:39:00+09:00",
+      "news": [
+        {
+          "title": "\"정말 아름답다\" 日 팬들 난리 났다…'17명 추월' 육상 천재 소녀, 워싱턴대 유니폼 입고 새 출발→\"괴물 중학생이 어느덧 18살\"",
+          "url": "https://v.daum.net/v/5lz5hztWSZ",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"응원해줘요\" 日 '육상 천재 소녀' 드루리 슈리, 美 워싱턴대서 새 출발",
+          "url": "https://www.newsis.com/view/NISX20260917_0003793062",
+          "source": "뉴시스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "충남 아��교육지원청, ‘2026학년도 교육장배 꿈나무 육상대회’ 개최",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1100260",
+          "source": "충청매일",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "단발": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T07:39:00+09:00",
+      "lastSeen": "2026-09-19T07:39:00+09:00",
+      "news": [
+        {
+          "title": "'이게 54만 원?' 아이유, 단발에 플라워 원피스…청순美 한도 초과",
+          "url": "https://v.daum.net/v/20260917225839094",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "아이유, 이별은 띄어 쓰고 우정은 이어 쓴 '이 별로부터' [뉴트랙 쿨리뷰] - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/18/2026091811387288775",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[기고] 이 별로부터 이별(Farewell from this star)",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1100484",
+          "source": "충청매일",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "갤럽": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T07:39:00+09:00",
+      "lastSeen": "2026-09-19T07:39:00+09:00",
+      "news": [
+        {
+          "title": "李대통령 지지율 37%로 4주연속 최저치…부정 평가는 56%로 최고[한국갤럽](종합)",
+          "url": "https://v.daum.net/v/20260918111011001",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "갤럽 \"이 대통령 국정지지율 37%로 최저…1%p↓\"",
+          "url": "https://www.yna.co.kr/view/MYH20260918008000038",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "윤건영 “이 대통령 기자회�� 보니 마음 놓여…진심 전달”",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1278482.html",
+          "source": "한겨레",
           "date": "2026-09-18"
         }
       ]
