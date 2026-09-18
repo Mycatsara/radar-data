@@ -92,10 +92,10 @@
       ]
     },
     "로맥": {
-      "count": 6,
+      "count": 7,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T02:41:00+09:00",
+      "lastSeen": "2026-09-18T22:12:00+09:00",
       "news": [
         {
           "title": "‘어서와 한국은’ 제이미 로맥, 문학경기장→치맥 맛집",
@@ -120,6 +120,12 @@
           "url": "https://www.slist.kr/news/articleView.html?idxno=766515",
           "source": "싱글리스트",
           "date": "2026-09-17"
+        },
+        {
+          "title": "캐나다 1부 - 제이미 로맥 가족 | 444회 | 어서와 한국은 처음이지?",
+          "url": "https://m.imbc.com/VOD/VodView?progCode=1003861100000100000&broadcastID=1003861100447100000&type=Vod",
+          "source": "MBC",
+          "date": "2026-09-18"
         }
       ]
     },
@@ -214,10 +220,10 @@
       ]
     },
     "thời tiết ngày mai": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T00:14:00+09:00",
+      "lastSeen": "2026-09-18T22:12:00+09:00",
       "news": [
         {
           "title": "Đường Hà Nội ngập sâu, giao thông tê liệt",
@@ -236,6 +242,18 @@
           "url": "https://laodong.vn/xa-hoi/cap-nhat-danh-sach-cac-diem-ngap-ung-o-ha-noi-chieu-179-1768332.ldo",
           "source": "Laodong.vn",
           "date": "2026-09-17"
+        },
+        {
+          "title": "Dự báo thời tiết ngày 18/9/2026 | TP. Hồ Chí Minh có mây, có mưa rào và dông vài nơi",
+          "url": "https://htv.vn/du-bao-thoi-tiet-ngay-18-9-2026-tp-ho-chi-minh-co-may-co-mua-rao-va-dong-vai-noi-222260917204531759.htm",
+          "source": "Đài Phát thanh và Truyền hình TP.HCM",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Nóng Sài Gòn: Nam Bộ tiếp tục có mưa lớn",
+          "url": "https://laodong.vn/video/nong-sai-gon-nam-bo-tiep-tuc-co-mua-lon-1768938.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-18"
         }
       ]
     },
@@ -5136,10 +5154,10 @@
       ]
     },
     "청하": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T21:45:00+09:00",
+      "lastSeen": "2026-09-18T22:12:00+09:00",
       "news": [
         {
           "title": "청하, 오늘(18일) 새벽 응급실 이송…소속사 결별 앞두고 연속 악재 [Oh!쎈 이슈]",
@@ -5168,10 +5186,10 @@
       ]
     },
     "특별감찰관": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T21:45:00+09:00",
+      "lastSeen": "2026-09-18T22:12:00+09:00",
       "news": [
         {
           "title": "최길수, '김현지 실장 감찰'에 \"법상 수석비서관 이상만 대상\"(종합)",
@@ -5196,14 +5214,20 @@
           "url": "https://www.yna.co.kr/view/AKR20260918092451001",
           "source": "연합뉴스",
           "date": "2026-09-18"
+        },
+        {
+          "title": "“김현지·대통령 장남 감찰할 건가?” “아무나 감찰하나?”…특감 후보자 인사청문회",
+          "url": "https://v.daum.net/v/20260918214953031",
+          "source": "Daum",
+          "date": "2026-09-18"
         }
       ]
     },
     "배그": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T21:45:00+09:00",
+      "lastSeen": "2026-09-18T22:12:00+09:00",
       "news": [
         {
           "title": "미디어웹, Npay와 'CBL: PUBG' 랭킹전 개최… 마일리지 및 경",
@@ -5226,10 +5250,10 @@
       ]
     },
     "m": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T21:45:00+09:00",
+      "lastSeen": "2026-09-18T22:12:00+09:00",
       "news": [
         {
           "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore's Palestine comments",
@@ -5252,10 +5276,10 @@
       ]
     },
     "전투기": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T21:45:00+09:00",
+      "lastSeen": "2026-09-18T22:12:00+09:00",
       "news": [
         {
           "title": "[르포] \"KF-21 월 2대 이상\"…전투기·헬기 넘어 우주까지 뻗어가는 KAI",
@@ -5342,17 +5366,17 @@
       ]
     },
     "경상남도": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T21:45:00+09:00",
-      "lastSeen": "2026-09-18T21:45:00+09:00",
+      "lastSeen": "2026-09-18T22:12:00+09:00",
       "news": []
     },
     "xsmb": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T21:45:00+09:00",
-      "lastSeen": "2026-09-18T21:45:00+09:00",
+      "lastSeen": "2026-09-18T22:12:00+09:00",
       "news": [
         {
           "title": "Kết quả xổ số miền Trung hôm nay 18.9: Gia Lai, Ninh Thuận",
@@ -5396,6 +5420,32 @@
           "title": "CU, 리센느와 브랜드 마케팅 \"원이가 할인상품을 알려줘요\" [편의점 이야기]",
           "url": "https://v.daum.net/v/20260916160313528",
           "source": "Daum",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "롯데": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T22:12:00+09:00",
+      "lastSeen": "2026-09-18T22:12:00+09:00",
+      "news": [
+        {
+          "title": "롯데, 16일 SSG전서 도미니카공화국 문화 알렸다! \"로드리게스의 모국 문화 사직에 소개→야구 교류 지속 확대\"",
+          "url": "https://v.daum.net/v/7PoW2lwavi",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "야구와 문화를 잇는다…롯데, ‘인터내셔널데이’ 성료",
+          "url": "https://www.sportsworldi.com/newsView/20260918513608",
+          "source": "스포츠월드",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "롯데, 사직구장서 로드리게스의 고향 문화와 전통 알렸다…‘인터내셔널데이 With 도미니카공화국’ 개최",
+          "url": "https://sports.khan.co.kr/article/202609181903003",
+          "source": "스포츠경향",
           "date": "2026-09-18"
         }
       ]
