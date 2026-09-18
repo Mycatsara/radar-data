@@ -555,10 +555,10 @@
       ]
     },
     "자동차 산업": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 500,
       "firstSeen": "2026-09-19T02:38:00+09:00",
-      "lastSeen": "2026-09-19T04:37:00+09:00",
+      "lastSeen": "2026-09-19T05:13:00+09:00",
       "news": [
         {
           "title": "中 전기차 판매 비중 35%…“생산 연계 세액공제 서둘러야”",
@@ -639,10 +639,10 @@
       ]
     },
     "백종원": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-19T03:14:00+09:00",
-      "lastSeen": "2026-09-19T04:37:00+09:00",
+      "lastSeen": "2026-09-19T05:13:00+09:00",
       "news": [
         {
           "title": "[단독] 백종원도 ‘사이버 레커’ 잡았다…유튜브 채널 삭제 엔딩",
@@ -671,10 +671,10 @@
       ]
     },
     "버크셔 해서웨이": {
-      "count": 4,
-      "maxTraffic": 100,
+      "count": 5,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-19T03:14:00+09:00",
-      "lastSeen": "2026-09-19T04:37:00+09:00",
+      "lastSeen": "2026-09-19T05:13:00+09:00",
       "news": [
         {
           "title": "워런 버핏, 1970년부터 지켜온 버크셔 해서웨이 회장직 사퇴",
@@ -709,10 +709,10 @@
       ]
     },
     "주한 미군 사령관": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T03:41:00+09:00",
-      "lastSeen": "2026-09-19T04:37:00+09:00",
+      "lastSeen": "2026-09-19T05:13:00+09:00",
       "news": [
         {
           "title": "벨 前주한미군사령관 \"전작권 전환 반대 소신 지금도 그대로\"",
@@ -735,10 +735,10 @@
       ]
     },
     "레알 마드리드 cf": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-19T03:41:00+09:00",
-      "lastSeen": "2026-09-19T04:37:00+09:00",
+      "lastSeen": "2026-09-19T05:13:00+09:00",
       "news": [
         {
           "title": "시메오네 감독이 이강인 ‘7번’ 줬던 진짜 이유 공개…“뛰어난 볼 간수·대담한 성격·헌신적인 태도, 완전 매료됐다”",
@@ -773,10 +773,10 @@
       ]
     },
     "바이에른 대 우니온 베를린": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-19T04:12:00+09:00",
-      "lastSeen": "2026-09-19T04:37:00+09:00",
+      "lastSeen": "2026-09-19T05:13:00+09:00",
       "news": [
         {
           "title": "이럴 수가! '코리안 더비' 불발되나...김민재 '선발 제외' 전망한 獨 유력지, 정우영은 '출격 예측'",
@@ -799,10 +799,10 @@
       ]
     },
     "재귀적 자기 개선": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-19T04:12:00+09:00",
-      "lastSeen": "2026-09-19T04:37:00+09:00",
+      "lastSeen": "2026-09-19T05:13:00+09:00",
       "news": [
         {
           "title": "구글, AI 문제 해결에 ‘재귀적 자기개선’ 도입...탐색 비용 162배 절감",
@@ -884,6 +884,84 @@
           "title": "넥슨, FC온라인 등 16종 게임 추석 이벤트 진행",
           "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7184999",
           "source": "주간한국",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "brentford vs chelsea": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T05:13:00+09:00",
+      "lastSeen": "2026-09-19T05:13:00+09:00",
+      "news": [
+        {
+          "title": "Premier League: Welbeck starts as Chelsea visit unbeaten Brentford",
+          "url": "https://www.bbc.com/sport/football/live/cmrl69xy3lyyt",
+          "source": "BBC",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Premier League predictions & Jones Knows' best bets: Brentford to expose soft Chelsea underbelly",
+          "url": "https://www.skysports.com/football/news/11661/13588821/premier-league-predictions-and-jones-knows-best-bets-brentford-to-expose-soft-chelsea-underbelly",
+          "source": "Sky Sports",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Brentford vs Chelsea Predictions, Bet Builder Tips, Lineups, Odds",
+          "url": "https://www.whoscored.com/articles/CGDBQj-KmEG80iQ4XFLtGA/show/20260918-brentford-vs-chelsea-prediction-1789724300",
+          "source": "WhoScored.com",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "바이에른 뮌헨": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T05:13:00+09:00",
+      "lastSeen": "2026-09-19T05:13:00+09:00",
+      "news": [
+        {
+          "title": "깜짝 대반전! \"놀라운 김민재의 재계약 소식\" 獨 매체도 집중 조명...'KIM 팔아'→EPL 제안 거부 후 미래 논의, 뮌헨의 입장 '180도' 달라졌다",
+          "url": "https://v.daum.net/v/Z6s8SrNdDz",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"우리 민재 안 팔아요\" EPL 구단들 大실망... 뮌헨, '김민재 재계약' 급선회 \"장기 동행 청신호\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/17/2026091720091390271",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"초대박\" 韓 축구 중심! '괴물 수비수' 김민재 실력으로 만든 반전…바이에른 뮌헨, KIM '이적 유력 후보→계약 연장 논의'",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/17/MVSDCMTEGRRTEYZTMUZDQZLFHE/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "김부선": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T05:13:00+09:00",
+      "lastSeen": "2026-09-19T05:13:00+09:00",
+      "news": [
+        {
+          "title": "김부선, 2억원대 대여금 소송 속 유튜브 중단…\"심신 많이 지쳐\"",
+          "url": "https://www.newsis.com/view/NISX20260918_0003796124",
+          "source": "뉴시스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "김부선, 아파트 2억 가압류 후 유튜브 중단 \"심신 지쳐\"..故 지인 유족과 소송전 여파 [스타��슈]",
+          "url": "https://v.daum.net/v/Pic3PTsAyl",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "‘지인 유족과 2억원대 소송’ 김부선 돌연 유튜브 중단 “심신 지쳐, 회복에 집중”[공식]",
+          "url": "https://www.newsen.com/news_view.php?uid=202609181457001910&code=100100",
+          "source": "뉴스엔",
           "date": "2026-09-18"
         }
       ]
