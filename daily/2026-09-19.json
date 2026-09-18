@@ -709,10 +709,10 @@
       ]
     },
     "주한 미군 사령관": {
-      "count": 5,
-      "maxTraffic": 200,
+      "count": 6,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-19T03:41:00+09:00",
-      "lastSeen": "2026-09-19T05:40:00+09:00",
+      "lastSeen": "2026-09-19T06:12:00+09:00",
       "news": [
         {
           "title": "벨 前주한미군사령관 \"전작권 전환 반대 소신 지금도 그대로\"",
@@ -773,10 +773,10 @@
       ]
     },
     "바이에른 대 우니온 베를린": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 10000,
       "firstSeen": "2026-09-19T04:12:00+09:00",
-      "lastSeen": "2026-09-19T05:40:00+09:00",
+      "lastSeen": "2026-09-19T06:12:00+09:00",
       "news": [
         {
           "title": "이럴 수가! '코리안 더비' 불발되나...김민재 '선발 제외' 전망한 獨 유력지, 정우영은 '출격 예측'",
@@ -794,6 +794,12 @@
           "title": "이제 독일은 매주 코리안 더비야! ‘김민재 VS 정우영’ 나란히 선발출장 예상",
           "url": "https://www.footballist.co.kr/news/articleView.html?idxno=214919",
           "source": "풋볼리스트",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[오피셜] ‘뮌헨 출신’ 정우영 앞에서…해리 케인 미쳤다, 분데스 역사상 ‘최단기간 100골’ 달성",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98046",
+          "source": "포포투",
           "date": "2026-09-18"
         }
       ]
@@ -889,10 +895,10 @@
       ]
     },
     "brentford vs chelsea": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T05:13:00+09:00",
-      "lastSeen": "2026-09-19T05:40:00+09:00",
+      "lastSeen": "2026-09-19T06:12:00+09:00",
       "news": [
         {
           "title": "Premier League: Welbeck starts as Chelsea visit unbeaten Brentford",
@@ -911,14 +917,26 @@
           "url": "https://www.whoscored.com/articles/CGDBQj-KmEG80iQ4XFLtGA/show/20260918-brentford-vs-chelsea-prediction-1789724300",
           "source": "WhoScored.com",
           "date": "2026-09-18"
+        },
+        {
+          "title": "Licensable picture: UK: Premier League: Brentford v Chelsea",
+          "url": "https://www.reutersconnect.com/item/uk-premier-league-brentford-v-chelsea/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDA2REpQSk8",
+          "source": "Reuters Connect",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "West Ham And Fulham Clash In High-Stakes FA Cup Battle",
+          "url": "https://evrimagaci.org/gpt/west-ham-and-fulham-clash-in-highstakes-fa-cup-battle-545562",
+          "source": "Evrim Ağacı",
+          "date": "2026-09-18"
         }
       ]
     },
     "바이에른 뮌헨": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-19T05:13:00+09:00",
-      "lastSeen": "2026-09-19T05:40:00+09:00",
+      "lastSeen": "2026-09-19T06:12:00+09:00",
       "news": [
         {
           "title": "깜짝 대반전! \"놀라운 김민재의 재계약 소식\" 獨 매체도 집중 조명...'KIM 팔아'→EPL 제안 거부 후 미래 논의, 뮌헨의 입장 '180도' 달라졌다",
@@ -941,10 +959,10 @@
       ]
     },
     "김부선": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-19T05:13:00+09:00",
-      "lastSeen": "2026-09-19T05:40:00+09:00",
+      "lastSeen": "2026-09-19T06:12:00+09:00",
       "news": [
         {
           "title": "김부선, 2억원대 대여금 소송 속 유튜브 중단…\"심신 많이 지쳐\"",
@@ -967,10 +985,10 @@
       ]
     },
     "비트코인": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-19T05:40:00+09:00",
-      "lastSeen": "2026-09-19T05:40:00+09:00",
+      "lastSeen": "2026-09-19T06:12:00+09:00",
       "news": [
         {
           "title": "JP모건 \"비트코인 ETF 헤지 포지션 청산 시 금보다 더 큰 지지\"",
@@ -989,14 +1007,26 @@
           "url": "https://www.coinreaders.com/259085",
           "source": "코인리더스",
           "date": "2026-09-18"
+        },
+        {
+          "title": "비트코인 라이프, 건지서 9월17일 인가받아 종신보험에 비트코인 채권 출시",
+          "url": "https://www.wikitree.co.kr/articles/1160603",
+          "source": "위키트리",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "비트코인 라이프, 건지섬 생명보험 면허 취득",
+          "url": "https://www.tokenpost.kr/news/breaking/409981",
+          "source": "토큰포스트",
+          "date": "2026-09-18"
         }
       ]
     },
     "첼시": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T05:40:00+09:00",
-      "lastSeen": "2026-09-19T05:40:00+09:00",
+      "lastSeen": "2026-09-19T06:12:00+09:00",
       "news": [
         {
           "title": "브렌트포드 vs 첼시 프리뷰: 선두 경쟁의 뜨거운 승부",
@@ -1019,10 +1049,10 @@
       ]
     },
     "여객기": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-19T05:40:00+09:00",
-      "lastSeen": "2026-09-19T05:40:00+09:00",
+      "lastSeen": "2026-09-19T06:12:00+09:00",
       "news": [
         {
           "title": "기내 천장 패널이 ’와르르’…공포에 질린 승객들",
@@ -1045,10 +1075,10 @@
       ]
     },
     "김가영": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-19T05:40:00+09:00",
-      "lastSeen": "2026-09-19T05:40:00+09:00",
+      "lastSeen": "2026-09-19T06:12:00+09:00",
       "news": [
         {
           "title": "'김가영, 혼자 12승 원맨쇼' 하나카드, PBA 팀리그 3라운드 우승",
@@ -1066,6 +1096,38 @@
           "title": "NH농협카드, 휴온스 11연승 저지…김민아 복식 2승, 마민껌 마무리[PBA팀리그 3R]",
           "url": "https://v.daum.net/v/20260911005700269",
           "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "“김가영 MVP 활약” 하나카드, 하림 꺾고 3라운드 우승…역대 최초 5시즌 연속 포스트시즌 진출",
+          "url": "https://mkbn.mk.co.kr/news/sports/12156916",
+          "source": "mkbn.mk.co.kr",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "골프": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-19T06:12:00+09:00",
+      "lastSeen": "2026-09-19T06:12:00+09:00",
+      "news": [
+        {
+          "title": "정찬민, KPGA 골프존 오픈 2R 선두…AG 앞둔 문도엽은 '컷 탈락'",
+          "url": "https://www.yna.co.kr/view/AKR20260918173600007",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "최찬, 6언더파 몰아치기…'3승 선착은 내가 먼저'",
+          "url": "https://v.daum.net/v/1dsVZd8Bjz",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "장유빈 상금 넘어설까...경쟁자 최찬의 힘찬 출발 \"목표는 당연히 ���승, 3승 원한다\"",
+          "url": "https://www.chosun.com/sports/golf/2026/09/17/GUZGINRZMYZGEZRWG4ZDCMBWGI/",
+          "source": "조선일보",
           "date": "2026-09-18"
         }
       ]
