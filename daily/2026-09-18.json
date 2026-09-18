@@ -4787,10 +4787,10 @@
       ]
     },
     "무": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-18T19:41:00+09:00",
-      "lastSeen": "2026-09-18T20:12:00+09:00",
+      "lastSeen": "2026-09-18T20:40:00+09:00",
       "news": [
         {
           "title": "‘외국인’이 불붙인 K뷰티 2차전…4년 전 왕좌 오른 올리브영에 ‘다무’ 도전장",
@@ -4819,10 +4819,10 @@
       ]
     },
     "xsmn": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T20:12:00+09:00",
-      "lastSeen": "2026-09-18T20:12:00+09:00",
+      "lastSeen": "2026-09-18T20:40:00+09:00",
       "news": [
         {
           "title": "Kết quả xổ số miền Trung hôm nay 18.9: Gia Lai, Ninh Thuận",
@@ -4841,14 +4841,20 @@
           "url": "https://giaoducthoidai.vn/xsmt-189-ket-qua-xo-so-mien-trung-ngay-1892026-post792944.html",
           "source": "Báo Giáo dục và Thời đại Online",
           "date": "2026-09-18"
+        },
+        {
+          "title": "XSTV 18/9 - Trực tiếp kết quả xổ số Trà Vinh hôm nay 18/9/2026",
+          "url": "https://vtcnews.vn/xstv-18-9-truc-tiep-ket-qua-xo-so-tra-vinh-hom-nay-18-9-2026-ar1040414.html",
+          "source": "Báo điện tử VTC News",
+          "date": "2026-09-18"
         }
       ]
     },
     "박유나": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T20:12:00+09:00",
-      "lastSeen": "2026-09-18T20:12:00+09:00",
+      "lastSeen": "2026-09-18T20:40:00+09:00",
       "news": [
         {
           "title": "박유나·배정남, ‘사랑이 온다’ 인기 견인",
@@ -4867,14 +4873,20 @@
           "url": "https://v.daum.net/v/PJ3l0kLxld",
           "source": "Daum",
           "date": "2026-09-18"
+        },
+        {
+          "title": "박유나·배정남, ‘사랑이 온다’ 인기 견인",
+          "url": "https://star.ytn.co.kr/_sn/0117_202609181133192205",
+          "source": "YTN star",
+          "date": "2026-09-18"
         }
       ]
     },
     "구윤철": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T20:12:00+09:00",
-      "lastSeen": "2026-09-18T20:12:00+09:00",
+      "lastSeen": "2026-09-18T20:40:00+09:00",
       "news": [
         {
           "title": "고속도 기름값 L당 100원 인하에, 동네주유소 “문 닫으라는 거냐”",
@@ -4893,21 +4905,33 @@
           "url": "https://www.yna.co.kr/view/AKR20260918157200003",
           "source": "연합뉴스",
           "date": "2026-09-18"
+        },
+        {
+          "title": "주유소협회 \"고속도로 주유소 리터당 100원 인하, 가격경쟁 왜곡\"",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6852824_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "나경원 \"고속도로 주유소만 100원 인하, 시장 경쟁 왜곡\"",
+          "url": "https://v.daum.net/v/20260918201528262",
+          "source": "Daum",
+          "date": "2026-09-18"
         }
       ]
     },
     "kfa": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T20:12:00+09:00",
-      "lastSeen": "2026-09-18T20:12:00+09:00",
+      "lastSeen": "2026-09-18T20:40:00+09:00",
       "news": []
     },
     "에코프로 비엠": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-18T20:12:00+09:00",
-      "lastSeen": "2026-09-18T20:12:00+09:00",
+      "lastSeen": "2026-09-18T20:40:00+09:00",
       "news": [
         {
           "title": "에코프로비엠, K-양극재 최초 中 CATL 뚫는다",
@@ -4977,6 +5001,110 @@
           "title": "진에어, 中 후베이성 이창 하늘길 열었다",
           "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=854194",
           "source": "뉴스웍스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "두산에너 빌리티": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-18T20:40:00+09:00",
+      "lastSeen": "2026-09-18T20:40:00+09:00",
+      "news": [
+        {
+          "title": "반토막 난 '텐배거' 두산에너빌리티⋯대미투자에 다시 쏠린 눈",
+          "url": "https://v.daum.net/v/20260918151807008",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[K-TECH 글로벌 리더스]글로벌 에너지 선도기업 거듭나는 두산에너빌리티…가스터빈·SMR 생산 확충에 2조 투입",
+          "url": "https://www.donga.com/news/K-TECH%20Global%20Leaders/article/all/20260918/134697126/1",
+          "source": "동아일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[리포트 브리핑]두산에너빌리티, '대미 원전투자의 Safe pick' 목표가 120,000원 - 미래에셋증권",
+          "url": "https://www.newspim.com/news/view/20260915000122",
+          "source": "뉴스핌",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "지승현": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T20:40:00+09:00",
+      "lastSeen": "2026-09-18T20:40:00+09:00",
+      "news": [
+        {
+          "title": "'편스토랑' 지승현 \"父 무도 10단 체육 교사·母 교장선생님 출신\"",
+          "url": "https://v.daum.net/v/20260917212927785",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "지승현 \"무명시절, 부모님 찬스로 단편영화 제작·연출해\" - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/18/GZQTKOLCMRQWIYZWME4DQMJVMU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "지승현父, 아들 무명시절 제작비까지 지원",
+          "url": "https://www.newsis.com/view/NISX20260917_0003793924",
+          "source": "뉴시스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "스캔들 넷플릭스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T20:40:00+09:00",
+      "lastSeen": "2026-09-18T20:40:00+09:00",
+      "news": [
+        {
+          "title": "[리뷰] 욕망은 뜨거운데, 재미는 미지근한 '스캔들'",
+          "url": "https://v.daum.net/v/20260918182737322?f=m",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "“그녀의 정절을 꺾어오게, 원하는걸 다 줄테니”…위험한 유혹",
+          "url": "https://www.donga.com/news/Culture/article/all/20260917/134687783/1",
+          "source": "동아일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "24년 만의 사극 복귀 손예진부터 지창욱·나나의 변신…넷플릭스 '스캔들', 오늘(18일) 공개",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008760665",
+          "source": "SBS 뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "리센느빵": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T20:40:00+09:00",
+      "lastSeen": "2026-09-18T20:40:00+09:00",
+      "news": [
+        {
+          "title": "민음사빵 대항마 리센느빵 나온다…치열해진 편의점빵 경쟁",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03840886645581104&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"원이가 좋아하는 맛 그대로\"…CU, 리센느 빵 5종 출시",
+          "url": "https://zdnet.co.kr/view/?no=20260915091011",
+          "source": "지디넷코리아",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "CU, 리센느와 브랜드 마케팅 \"원이가 할인상품을 알려줘요\" [편의점 이야기]",
+          "url": "https://v.daum.net/v/20260916160313528",
+          "source": "Daum",
           "date": "2026-09-18"
         }
       ]
