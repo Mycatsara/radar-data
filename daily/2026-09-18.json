@@ -3278,10 +3278,10 @@
       ]
     },
     "fifa u-20 월드컵": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-18T15:45:00+09:00",
-      "lastSeen": "2026-09-18T15:45:00+09:00",
+      "lastSeen": "2026-09-18T16:13:00+09:00",
       "news": [
         {
           "title": "한국 축구, 아르헨티나 1-0 꺾고 12년만에 U-20 여자 월드컵 8강",
@@ -3300,14 +3300,26 @@
           "url": "https://www.osen.co.kr/article/G1112877078",
           "source": "OSEN",
           "date": "2026-09-18"
+        },
+        {
+          "title": "범예주 결승골…U-20 여자축구월드컵 12년 만에 8강[포토뉴스]",
+          "url": "https://v.daum.net/v/20260917211530504",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "U-20 여자 축구 대표팀, 아르헨티나 꺾고 월드컵 8강 진출",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6852438_36946.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-18"
         }
       ]
     },
     "도플갱어": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T15:45:00+09:00",
-      "lastSeen": "2026-09-18T15:45:00+09:00",
+      "lastSeen": "2026-09-18T16:13:00+09:00",
       "news": [
         {
           "title": "한가인 뜨자 촬영장 대우가 달라졌다…김동준 \"반사판 있는 줄 처음 알아\"",
@@ -3325,6 +3337,12 @@
           "title": "한가인, 드라마 촬영장 '8년 만'에 복귀…새벽 출근길에 \"그래 이 느낌이었어\"",
           "url": "https://www.koreadaily.com/article/20260917035745667",
           "source": "미주중앙일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "한가인, ‘도플갱어’ 김동준 친누나 됐다…“감독님이 2년간 모시고 싶었다고”",
+          "url": "https://v.daum.net/v/20260918152437305",
+          "source": "Daum",
           "date": "2026-09-18"
         }
       ]
@@ -3403,6 +3421,214 @@
           "title": "‘박위 아내’ 송지은 눈물 영상에 쏟아진 악플…결국 댓글창 닫았다",
           "url": "https://m.go.seoul.co.kr/news/life/2026/09/18/20260918500009",
           "source": "서울Pn",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "미국 증권거래위원회": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "news": [
+        {
+          "title": "70조달러 美 증시 문 열렸다… 상장 주식도 블록체인 거래",
+          "url": "https://www.chosun.com/economy/int_economy/2026/09/18/RAPTZEWJZZFJXCAWFP35A65OJU/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "'클래리티 법' 사실상 좌초…자체 규정 마련 나선 SEC·CFTC[코인브리핑]",
+          "url": "https://v.daum.net/v/20260918103039719",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "美 SEC, '토큰 주식' 거래 문턱 낮춘다…24시간 거래 확대되나",
+          "url": "https://www.yna.co.kr/view/AKR20260918000600072",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "하이 록스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "news": [
+        {
+          "title": "中서 배변사고에도 대회 우승 호주여성…현지 음료 때문에 배탈?",
+          "url": "https://www.yna.co.kr/view/AKR20260916091800009",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "'설사록스' 논란 일으킨 하이록스 우승자, 일주일 만 사과…기권패 처리",
+          "url": "https://v.daum.net/v/20260918133912206",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "’대변 민폐’ 국제 경기 우승자, 트로피 반납…“모든 분께 사과“",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260918140253l0k",
+          "source": "연합뉴스TV",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "정구": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "news": [
+        {
+          "title": "\"태극기는 안 됩니다\"...日, 나고야 입성 한국 선수단 막아",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609181049515642",
+          "source": "YTN",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "개최국 일본은 후지나미·중국은 우위…개회식 빛낼 각국 기수[나고야AG]",
+          "url": "https://www.newsis.com/view/NISX20260918_0003795682",
+          "source": "뉴시스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "3년 만에 돌아온 아시안게임 내일 개막…한국, ‘톱3 유지’ 목표",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8667120",
+          "source": "KBS 뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "리트리버": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "news": [
+        {
+          "title": "도둑 쫓지 않고 장난감 놀이…'직무유기' 반려견 딱 걸렸다",
+          "url": "https://v.daum.net/v/20260918050243079",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "“도둑도 경찰도 모두 꼬리치며 환영”…美 최악의 경비견은",
+          "url": "https://www.etnews.com/20260917000243",
+          "source": "전자신문",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "집에 들어온 침입자… 알아차린 반려견의 반��� 행동 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/17/2026091711103453844",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "재산": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 대법, ’최태원-노소영 재산분할’ 재상고 접수…崔 인지대 8억 납부",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260918101041KpX",
+          "source": "연합뉴스TV",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "‘2440억원 다툼 여지’…최태원, 노소영 상대 재산분할 재상고",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1278516.html",
+          "source": "한겨레",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "‘최태원-노소��� 재산분할’ 다시 대법원으로…인지대 8억 납부",
+          "url": "https://news.jtbc.co.kr/article/NB12319020",
+          "source": "JTBC",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "수학": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "news": [
+        {
+          "title": "[단독] ‘수학 학원’ 생각하는황소, 개인정보 유출 정황… “해커 침입 확인” - 조선비즈",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/09/18/JJTB4XZT65AOFDYDC3KQY2XJGQ/",
+          "source": "Chosunbiz",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "유명 수학학원 해킹…학생·학부모 개인정보 유출 됐을 수도 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/18/2026091813502970499",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "유명 수학 학원 ‘생각하는황소’ 해킹... 학부모 피싱 사기 주의해야",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=145947",
+          "source": "보안뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "이예빈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "news": [
+        {
+          "title": "‘뜻밖의 건망증?’ kt 이예빈 치어리더...재빠른 깨달음으로 상황 수습! [SS리플레이]",
+          "url": "https://www.sportsseoul.com/news/read/1635966",
+          "source": "스포츠서울",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "'뜻밖의 건망증?' kt 이예빈 치어리더…재빠른 깨달음으로 상황 수습! [SS리플레이]",
+          "url": "https://news.nate.com/view/20260917n22769?mid=n1007",
+          "source": "네이트",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "'뜻밖의 건망증?' kt 이예빈 치어리더…재빠른 깨달음으로 상황 수습! [SS리플레이]",
+          "url": "https://sports.news.nate.com/view/20260917n22769",
+          "source": "네이트",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "포스코노동조합": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "news": [
+        {
+          "title": "포스코 노조, 2차 부분파업 확대…사측 \"공장, 정상 가동 중\"",
+          "url": "https://v.daum.net/v/20260918112100722",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "포항지역발전협의회 “멈춰야 할 것은 조업 아닌 갈등”",
+          "url": "https://sports.donga.com/region/article/all/20260918/134695656/1",
+          "source": "스포츠동아",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "포스코 노조, 내홍 속 파업 확대…\"교섭 뒷전, 선거용 해석\" 지적도",
+          "url": "https://www.newsis.com/view/NISX20260917_0003793327",
+          "source": "뉴시스",
           "date": "2026-09-18"
         }
       ]
