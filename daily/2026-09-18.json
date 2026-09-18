@@ -220,10 +220,10 @@
       ]
     },
     "thời tiết ngày mai": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T22:41:00+09:00",
+      "lastSeen": "2026-09-18T23:13:00+09:00",
       "news": [
         {
           "title": "Đường Hà Nội ngập sâu, giao thông tê liệt",
@@ -5372,10 +5372,10 @@
       ]
     },
     "경상남도": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T21:45:00+09:00",
-      "lastSeen": "2026-09-18T22:41:00+09:00",
+      "lastSeen": "2026-09-18T23:13:00+09:00",
       "news": [
         {
           "title": "산청군, 경남도 평생학습대상 기관부문 2년 연속 1위",
@@ -5398,10 +5398,10 @@
       ]
     },
     "xsmb": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T21:45:00+09:00",
-      "lastSeen": "2026-09-18T22:41:00+09:00",
+      "lastSeen": "2026-09-18T23:13:00+09:00",
       "news": [
         {
           "title": "Kết quả xổ số miền Trung hôm nay 18.9: Gia Lai, Ninh Thuận",
@@ -5450,10 +5450,10 @@
       ]
     },
     "롯데": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-18T22:12:00+09:00",
-      "lastSeen": "2026-09-18T22:41:00+09:00",
+      "lastSeen": "2026-09-18T23:13:00+09:00",
       "news": [
         {
           "title": "롯데, 16일 SSG전서 도미니카공화국 문화 알렸다! \"로드리게스의 모국 문화 사직에 소개→야구 교류 지속 확대\"",
@@ -5488,10 +5488,10 @@
       ]
     },
     "조민": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T22:41:00+09:00",
-      "lastSeen": "2026-09-18T22:41:00+09:00",
+      "lastSeen": "2026-09-18T23:13:00+09:00",
       "news": [
         {
           "title": "조민, 홈쇼핑 90분 전 잘렸다···“논란 우려” 통보",
@@ -5514,10 +5514,10 @@
       ]
     },
     "사미자": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T22:41:00+09:00",
-      "lastSeen": "2026-09-18T22:41:00+09:00",
+      "lastSeen": "2026-09-18T23:13:00+09:00",
       "news": [
         {
           "title": "전원주 측 “유튜브 출연료 70만 원 아냐” 매니저 주장 부인",
@@ -5535,6 +5535,91 @@
           "title": "전원주 \"출연료 좀 올리자고 했더니\"...유튜브 제작진 하차 전말",
           "url": "https://www.ytn.co.kr/_sn/0117_202609150945044022",
           "source": "YTN",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "고속도로": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T23:13:00+09:00",
+      "lastSeen": "2026-09-18T23:13:00+09:00",
+      "news": [
+        {
+          "title": "고속도 기름값 L당 100원 인하에, 동네주유소 “문 닫으라는 거냐”",
+          "url": "https://v.daum.net/v/20260918151607925",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "국제유가 폭등에도 기름값 동결‥추석 연휴 고속도로 주유소 리터당 100원 할인",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6852885_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "구윤철 \"추석 고속도로 기름값 리터당 100원 인하·유류세 인하 연장\"",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202609181006142738_005.html",
+          "source": "YTN",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "나는 solo, 그 후 사랑은 계속된다": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T23:13:00+09:00",
+      "lastSeen": "2026-09-18T23:13:00+09:00",
+      "news": []
+    },
+    "애국가": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T23:13:00+09:00",
+      "lastSeen": "2026-09-18T23:13:00+09:00",
+      "news": [
+        {
+          "title": "이번엔 ‘애국가’ 대신 ‘북한 국가’ 재생…‘실수가 반복되면 무능’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8667475",
+          "source": "KBS 뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "대한체육회, 하키 경기 전 북한 국가 연주에 공식 항의문 발송",
+          "url": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008761010&oaid=N1008737669&plink=ISSUE&cooper=SBSNEWSMOBEND",
+          "source": "m.news.sbs.co.kr",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "애국가 대신 북한 국가 연주‥'아시안게임 왜 이래?'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6852887_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "정용진": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T23:13:00+09:00",
+      "lastSeen": "2026-09-18T23:13:00+09:00",
+      "news": [
+        {
+          "title": "'구해줘 홈즈' 11가구 면적 중 50% 차지 깜짝..누구?",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/18/GUZTAZBRMZTDEM3EMNRWMOJQMU/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"-50배\" 연봉 13억이 2400만원으로 ‘X박살’..김영광 폭로에 김남일 “미안하다”",
+          "url": "https://www.osen.co.kr/article/G1112877520",
+          "source": "OSEN",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "김남일, 190㎝ 고3 아들 공개…\"공부해야 하는데 게임만\"",
+          "url": "https://www.newsis.com/view/NISX20260918_0003795037",
+          "source": "뉴시스",
           "date": "2026-09-18"
         }
       ]
