@@ -1133,10 +1133,10 @@
       ]
     },
     "조선민주주의인민공화국": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-19T06:39:00+09:00",
-      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T07:12:00+09:00",
       "news": [
         {
           "title": "\"수위와 빈도↑, 하지만 외부 공개만\"...북 담화 의도는?",
@@ -1155,14 +1155,26 @@
           "url": "https://www.yna.co.kr/view/AKR20260918087300083",
           "source": "연합뉴스",
           "date": "2026-09-18"
+        },
+        {
+          "title": "미중정상회담 앞두고…北김여정, 연이틀 이례적 담화",
+          "url": "https://v.daum.net/v/20260918211114392",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "IAEA 총회 \"북한 핵보유국 지위 인정 안 해\"",
+          "url": "https://www.yna.co.kr/view/MYH20260918010600038",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
         }
       ]
     },
     "화재": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-19T06:39:00+09:00",
-      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T07:12:00+09:00",
       "news": [
         {
           "title": "인천 물류센터 화재 7시간째…진화 상황은?",
@@ -1181,14 +1193,20 @@
           "url": "https://imnews.imbc.com/news/2026/society/article/6852914_36918.html",
           "source": "MBC 뉴스",
           "date": "2026-09-18"
+        },
+        {
+          "title": "인천 서해구 물류창고 화재 4시간째…소방 ‘대응 2단계’로 상향",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332456",
+          "source": "인천일보",
+          "date": "2026-09-18"
         }
       ]
     },
     "베트남 u-23 축구 국가대표팀": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-19T06:39:00+09:00",
-      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T07:12:00+09:00",
       "news": [
         {
           "title": "베트남 U23 대표팀이 필리핀 U23 대표팀을 상대로 승리한 후, 우려스러운 통계들이 나왔습니다.",
@@ -1211,10 +1229,10 @@
       ]
     },
     "bayern vs union berlin": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-19T06:39:00+09:00",
-      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T07:12:00+09:00",
       "news": [
         {
           "title": "Fünfmal Note 1 beim Schützenfest: Bayern-Stars in der Einzelkritik",
@@ -1233,14 +1251,20 @@
           "url": "https://www.grenzecho.net/146543/artikel/2026-09-18/die-bayern-schenken-ein-anstich-von-musiala-dreierpack-von-olise",
           "source": "GrenzEcho",
           "date": "2026-09-18"
+        },
+        {
+          "title": "Kane feiert sein 100. Tor für die Bayern – und träumt jetzt vom Ballon d'Or",
+          "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6aad932c6e60885e7e0471f6/fc-bayern-harry-kane-feiert-sein-100-tor-und-traeumt-vom-ballon-dor.html",
+          "source": "WELT",
+          "date": "2026-09-18"
         }
       ]
     },
     "김민재": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-19T06:39:00+09:00",
-      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T07:12:00+09:00",
       "news": [
         {
           "title": "깜짝 대반전! \"놀라운 김민재의 재계약 소식\" 獨 매체도 집중 조명...'KIM 팔아'→EPL 제안 거부 후 미래 논의, 뮌헨의 입장 '180도' 달라졌다",
@@ -1263,10 +1287,10 @@
       ]
     },
     "생일": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-19T06:39:00+09:00",
-      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T07:12:00+09:00",
       "news": [
         {
           "title": "\"오늘 생일이라셨지?\"…12시간 암 수술 마친 의사가 환자 팔에 남긴 메시지 '감동' [따뜻했슈]",
@@ -1284,6 +1308,12 @@
           "title": "마취 직전 \"오늘 생일이세요?\" 묻더니…수술 뒤 팔에 적힌 문구",
           "url": "https://www.yonhapnewstv.co.kr/news/AKR20260918174615M5c",
           "source": "연합뉴스TV",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"생일이세요? 잘될 거예요\"…암 수술 환자 팔에 간호사가 남긴 한마디",
+          "url": "https://www.newsis.com/view/NISX20260918_0003795663",
+          "source": "뉴시스",
           "date": "2026-09-18"
         }
       ]
@@ -1356,6 +1386,110 @@
           "title": "'롯데 재계약 불발' 고마워해야 할 판…155km 강속구 앞세워 ML 2호 기록 적립, KBO 역수출 신화 탄생",
           "url": "https://v.daum.net/v/V691WJ6bls",
           "source": "Daum",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "김경문": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T07:12:00+09:00",
+      "lastSeen": "2026-09-19T07:12:00+09:00",
+      "news": [
+        {
+          "title": "정우주 1군에서 못 본다…일본 단기유학 추진, 김경문 감독 \"내년을 생각하는 게 낫다\"",
+          "url": "https://v.daum.net/v/QxhC9sAiTC?f=p",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "‘한화의 미래’ 정우주, ‘2년차 징크스’ 지우기 안간힘···완성도 높은 변화구 추가 구슬땀, 日 넥스트베이스 ...",
+          "url": "https://sports.khan.co.kr/article/202609180954013",
+          "source": "스포츠경향",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "한화에서 156km 던지고 국가대표 됐는데…올해는 왜 2군에서 시즌 마무리하나 \"내년에는 무조건 좋아질 것\"",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1007941",
+          "source": "SPOTV NEWS",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "해리 케인": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T07:12:00+09:00",
+      "lastSeen": "2026-09-19T07:12:00+09:00",
+      "news": [
+        {
+          "title": "바이에른 뮌헨 '오피셜' 입장 정리, 해리 케인 발롱도르에 올인 → '표 나뉠라' 올리세-우파메카노 있어도 \"오직 케인\"",
+          "url": "https://v.daum.net/v/ZJ0S5qFYlP?f=p",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[분데스·리뷰] ‘7골 터졌다!’ 코리안 더비, 김민재 ‘교체+45분’ 정우영 ‘선발+60분’ 활약, 바이에른 ...",
+          "url": "https://sports.khan.co.kr/article/202609190625003",
+          "source": "스포츠경향",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "이럴 수가! '코리안 더비' 불발되나...김민재 '선발 제외' 전망한 獨 유력지, 정우영은 '출격 예측'",
+          "url": "https://v.daum.net/v/20260918122350614",
+          "source": "Daum",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "mu": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T07:12:00+09:00",
+      "lastSeen": "2026-09-19T07:12:00+09:00",
+      "news": [
+        {
+          "title": "Micron Q4: Brace Yourself For The Inflection (NASDAQ:MU)",
+          "url": "https://seekingalpha.com/article/4947555-micron-q4-brace-yourself-for-the-inflection",
+          "source": "Seeking Alpha",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "The Memory Market Could Be Entering a Golden Age for Micron",
+          "url": "https://247wallst.com/investing/2026/09/18/the-memory-market-could-be-entering-a-golden-age-for-micron/",
+          "source": "24/7 Wall St.",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Micron Stock: Why the AI Memory Cycle Is Different This Time",
+          "url": "https://io-fund.com/ai-stocks/micron-stock-ai-memory-cycle-different-this-time",
+          "source": "I/O Fund",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "kia 타이거즈": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-19T07:12:00+09:00",
+      "lastSeen": "2026-09-19T07:12:00+09:00",
+      "news": [
+        {
+          "title": "\"너 너무 잘 생겼다\"…KIA 꽃미남 신인, '제2의 김도영' 성장할까→\"데뷔 첫 1군 기뻐, 20홈런-20도루 꿈꾼다\" [광주 인터뷰]",
+          "url": "https://v.daum.net/v/yaJrKpXSYE",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[스경x인터뷰] 장미 한 송이로 ‘예쁜이’들 마음 쓸어간 KIA 신인 1군 왔다…박종혁의 어필 “가장 자신있는 ...",
+          "url": "https://sports.khan.co.kr/article/202609171730003",
+          "source": "스포츠경향",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "영화배우 뺨치는 KIA 루키 박종혁 설레는 첫 콜업, 이범호 열정 3루 수비 지도...활용도 질문에 \"마지막 선수로 쓰지 않을까\" [오!센 광주] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/17/202609171500771672O",
+          "source": "머니투데이",
           "date": "2026-09-18"
         }
       ]
