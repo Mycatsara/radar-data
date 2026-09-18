@@ -1501,10 +1501,10 @@
       ]
     },
     "중대범죄수사청": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-19T07:39:00+09:00",
-      "lastSeen": "2026-09-19T07:39:00+09:00",
+      "lastSeen": "2026-09-19T08:12:00+09:00",
       "news": [
         {
           "title": "[단독]중수청, 검사 대상 수사관 임용 대상자 발표…임은정·문지석도 합격",
@@ -1527,10 +1527,10 @@
       ]
     },
     "정의선": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-19T07:39:00+09:00",
-      "lastSeen": "2026-09-19T07:39:00+09:00",
+      "lastSeen": "2026-09-19T08:12:00+09:00",
       "news": [
         {
           "title": "현대차 GBC '105층' 대신 '49층'…정의선은 '쓸모' 택했다",
@@ -1678,6 +1678,214 @@
           "title": "윤건영 “이 대통령 기자회�� 보니 마음 놓여…진심 전달”",
           "url": "https://www.hani.co.kr/arti/politics/politics_general/1278482.html",
           "source": "한겨레",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "단풍": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T08:12:00+09:00",
+      "lastSeen": "2026-09-19T08:12:00+09:00",
+      "news": [
+        {
+          "title": "설악산 단풍 즐기는 3가지 방법",
+          "url": "http://topclass.chosun.com/news/articleView.html?idxno=36799",
+          "source": "톱클래스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "날씨 \"서울→ 2026단풍시기 언제\" 주말날씨 30도 안팎",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3700396",
+          "source": "국제뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "국립수목원, 점봉산서 시민참여 관찰로 '첫 단풍' 확인",
+          "url": "https://www.yna.co.kr/view/AKR20260916086900060",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "brentford f.c. vs chelsea f.c. standings": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T08:12:00+09:00",
+      "lastSeen": "2026-09-19T08:12:00+09:00",
+      "news": [
+        {
+          "title": "Premier League: Welbeck starts as Chelsea visit unbeaten Brentford",
+          "url": "https://www.bbc.com/sport/football/live/cmrl69xy3lyyt",
+          "source": "BBC",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Premier League predictions & Jones Knows' best bets: Brentford to expose soft Chelsea underbelly",
+          "url": "https://www.skysports.com/football/news/11661/13588821/premier-league-predictions-and-jones-knows-best-bets-brentford-to-expose-soft-chelsea-underbelly",
+          "source": "Sky Sports",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Chelsea star makes 'bullied' admission as alarm bells ring for Xabi Alonso",
+          "url": "https://www.football.london/chelsea-fc/news/chelsea-brentford-premier-league-alonso-34641269",
+          "source": "Football London",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "박재홍": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T08:12:00+09:00",
+      "lastSeen": "2026-09-19T08:12:00+09:00",
+      "news": [
+        {
+          "title": "'뇌경색' 박재홍, 한 달 만에 복귀 '울컥'…\"앉아서 하는 방송은 괜찮아\" [엑's 이슈]",
+          "url": "https://v.daum.net/v/20260918234037165",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "뇌경색 진단 박재홍 CBS 앵커, 한 달 만에 복귀 “기적 만났다”",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337213",
+          "source": "미디어오늘",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "박재홍 '한판승부' 돌아온다…뇌경색 딛고 17일 방송 복귀",
+          "url": "https://www.nocutnews.co.kr/news/6578189",
+          "source": "노컷뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "주식": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-19T08:12:00+09:00",
+      "lastSeen": "2026-09-19T08:12:00+09:00",
+      "news": [
+        {
+          "title": "[기자의 눈] '금융의 상상력' 주식은 토큰이 된다",
+          "url": "https://v.daum.net/v/20260919060202369",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "토큰증권 시장 열리는데 매대는 텅텅···비금전신탁 입법 지연",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026091813232609431",
+          "source": "뉴스웨이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[코인 품는 증권사]③주식부터 한우까지 한 앱에…증권사 '금융 백화점' 된다",
+          "url": "https://www.news1.kr/finance/general-stock/6294501",
+          "source": "뉴스1",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "초과근무": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T08:12:00+09:00",
+      "lastSeen": "2026-09-19T08:12:00+09:00",
+      "news": [
+        {
+          "title": "공무원 '하루 4시간' 초과근무 상한 폐지‥\"일한 만큼 인정\"",
+          "url": "https://v.daum.net/v/pzwh4HlwyB?f=p",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "“수당 없는 야근 초래”...인천 공직사회, ‘초과근무 총량관리제’ 도입 중단 촉구",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363736553",
+          "source": "중부일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "기업으로부터 주목받는'구미국가공단'...철도·고속도로 뚫는다",
+          "url": "https://www.guminews.net/news/articleView.html?idxno=16775",
+          "source": "경북구미신문",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "vix": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T08:12:00+09:00",
+      "lastSeen": "2026-09-19T08:12:00+09:00",
+      "news": [
+        {
+          "title": "India VIX Falls 7.4% as Oil Prices Ease, Global Rate Hikes Shape Market Volatility",
+          "url": "https://hdfcsky.com/news/india-vix-falls-7-4percent-as-oil-prices-ease-global-rate-hikes-shape-market-volatility-september-18-2026",
+          "source": "HDFC Sky",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday",
+          "url": "https://upstox.com/news/market-news/stocks/india-vix-jumps-over-10-as-sensex-nifty-50-decline-here-are-5-key-triggers-behind-market-fall/article-200285/",
+          "source": "Upstox",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "India VIX Falls 1.55% to 12.09 as Crude Oil Eases and NSE IPO Bidding Continues",
+          "url": "https://hdfcsky.com/news/india-vix-falls-1-55percent-to-12-09-as-crude-oil-eases-and-nse-ipo-bidding-continues-september-18-2026",
+          "source": "HDFC Sky",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "대한체육회": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-19T08:12:00+09:00",
+      "lastSeen": "2026-09-19T08:12:00+09:00",
+      "news": [
+        {
+          "title": "이번엔 ‘애국가’ 대신 ‘북한 국가’ 재생…‘실수가 반복되면 무능’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8667475",
+          "source": "KBS 뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "한국 경기서 '북한' 국가 흘러나왔다…AG 황당 사고에 \"항의 서한\"",
+          "url": "https://v.daum.net/v/20260919072441237",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[아시안게임] 대한체육회, 하키 경기장 북한 국가 연주에 조직위 사과 요구(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260918093554007",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "백신": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-19T08:12:00+09:00",
+      "lastSeen": "2026-09-19T08:12:00+09:00",
+      "news": [
+        {
+          "title": "독감 접종 당기고 코로나19도 필수로…대비 권장",
+          "url": "https://v.daum.net/v/PDMGdtWIH3",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "전북도, 인플루엔자 무료 예방 접종…어린이·노인 등 대상",
+          "url": "https://www.yna.co.kr/view/AKR20260918100200055",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "올해 독감 백신은 3가 접종...4가 백신과 효능 차이점은?",
+          "url": "https://www.ytn.co.kr/_ln/0105_202609190027590626",
+          "source": "YTN",
           "date": "2026-09-18"
         }
       ]
