@@ -3760,10 +3760,10 @@
       ]
     },
     "여자 축구": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T17:14:00+09:00",
-      "lastSeen": "2026-09-18T17:14:00+09:00",
+      "lastSeen": "2026-09-18T17:42:00+09:00",
       "news": [
         {
           "title": "'골골골골골골골골골골골' 韓 자비란 없었다, '18-0' 북한까지 넘어버리나…\"특별 팀 미팅도 진행했다, 실수 적은 팀이 이긴다\" [MD나고야]",
@@ -3782,14 +3782,26 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8666604",
           "source": "KBS 뉴스",
           "date": "2026-09-18"
+        },
+        {
+          "title": "[영상] “필승조선” 외친 북한 여자 축구, 한국전 각오 물었더니",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8667192",
+          "source": "KBS 뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "북 선수단 선수촌 공식 입촌…'북한의 조던' 박천종이 단장",
+          "url": "https://www.yna.co.kr/view/IPT20260918000012365?section=gallery/index",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
         }
       ]
     },
     "이단": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T17:14:00+09:00",
-      "lastSeen": "2026-09-18T17:14:00+09:00",
+      "lastSeen": "2026-09-18T17:42:00+09:00",
       "news": [
         {
           "title": "예장합동, 지난해 이어 '정동수 이단' 재확인",
@@ -3808,14 +3820,26 @@
           "url": "https://www.newsnjoy.or.kr/news/articleView.html?idxno=400753",
           "source": "뉴스앤조이",
           "date": "2026-09-18"
+        },
+        {
+          "title": "예장합동, 지난해 이어 '정동수 이단' 재확인…여성 강도사·정년 연장안 부결 -",
+          "url": "https://christian.nocutnews.co.kr/news/6580618",
+          "source": "크리스천 노컷뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[새로 ���온 책] 킹제임스 유일주의자 정동수를 왜 이단이라 하는가",
+          "url": "https://v.daum.net/v/20260918030817177",
+          "source": "Daum",
+          "date": "2026-09-18"
         }
       ]
     },
     "l-sam": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T17:14:00+09:00",
-      "lastSeen": "2026-09-18T17:14:00+09:00",
+      "lastSeen": "2026-09-18T17:42:00+09:00",
       "news": [
         {
           "title": "Hanwha Systems, UAE's EDGE Group to team up on integrated air defense network",
@@ -3838,10 +3862,10 @@
       ]
     },
     "đội tuyển bóng đá u-23 quốc gia philippines đấu với u-23 việt nam": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T17:14:00+09:00",
-      "lastSeen": "2026-09-18T17:14:00+09:00",
+      "lastSeen": "2026-09-18T17:42:00+09:00",
       "news": [
         {
           "title": "Việt Nam - Kuwait: Chờ tin thắng trận của đội U23 ở ASIAD 2026",
@@ -3860,21 +3884,33 @@
           "url": "https://laodong.vn/the-thao/truc-tiep-bong-da-u23-viet-nam-1-0-u23-philippines-thanh-nhan-mo-ti-so-1768715.ldo",
           "source": "Laodong.vn",
           "date": "2026-09-18"
+        },
+        {
+          "title": "CĐV Đông Nam Á bùng nổ phản ứng sau chiến thắng 2-0 của U23 Việt Nam",
+          "url": "https://thethao247.vn/191838-cdv-dong-nam-a-bung-no-phan-ung-sau-chien-thang-2-0-cua-u23-viet-nam-c1-d436706.html",
+          "source": "Thể Thao 247",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Trực tiếp bóng đá U23 Việt Nam 2-0 U23 Philippines: Nhân đôi cách biệt",
+          "url": "https://laodong.vn/the-thao/truc-tiep-bong-da-u23-viet-nam-2-0-u23-philippines-nhan-doi-cach-biet-1768715.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-18"
         }
       ]
     },
     "병무청": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T17:14:00+09:00",
-      "lastSeen": "2026-09-18T17:14:00+09:00",
+      "lastSeen": "2026-09-18T17:42:00+09:00",
       "news": []
     },
     "도플 갱어": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-18T17:14:00+09:00",
-      "lastSeen": "2026-09-18T17:14:00+09:00",
+      "lastSeen": "2026-09-18T17:42:00+09:00",
       "news": [
         {
           "title": "‘신병4’, 4.6% 최고 또 경신…평온해서 더 수상하다 '떡밥들'",
@@ -3892,6 +3928,12 @@
           "title": "한가인, 드라마 촬영장 '8년 만'에 복귀…새벽 출근길에 \"그래 이 느낌이었어\"",
           "url": "https://www.koreadaily.com/article/20260917035745667",
           "source": "미주중앙일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "한가인, ‘도플갱어’ 김동준 친누나 됐다…“감독님이 2년간 모시고 싶었다고”",
+          "url": "https://www.donga.com/news/Culture/article/all/20260918/134696090/2",
+          "source": "동아일보",
           "date": "2026-09-18"
         }
       ]
@@ -3918,6 +3960,110 @@
           "title": "아누아, 올리브영N 성수서 ‘PDRN 팝업스토어’ 운영… 29일까지 - 조선비즈",
           "url": "https://biz.chosun.com/industry/business_info/2026/09/18/JRCXKNQPHNEDJCAIYE6C3L2AU4/",
           "source": "Chosunbiz",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "아시안게임 농구": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T17:42:00+09:00",
+      "lastSeen": "2026-09-18T17:42:00+09:00",
+      "news": [
+        {
+          "title": "이현중 '컨디션 좋아'",
+          "url": "https://www.news1.kr/photos/8114737",
+          "source": "뉴스1",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "'유관력' 넘치는 최준용, '합법 브로커' 역할 해낼까?…팀 전체가 믿고 있다 [나고야 AG]",
+          "url": "https://v.daum.net/v/20260918023147078",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "득점하는 이우석",
+          "url": "https://mobile.newsis.com/photo/NISI20260918_0021443390",
+          "source": "뉴시스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "도쿄 게임 쇼": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T17:42:00+09:00",
+      "lastSeen": "2026-09-18T17:42:00+09:00",
+      "news": [
+        {
+          "title": "스마일게이트 CBO \"향후 애니메이션 게임 라인업 비중 늘릴 것\"",
+          "url": "https://www.yna.co.kr/view/AKR20260918088800017",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "“대기만 90분”... 엔씨 신작 ‘아스트라에 오라티오’ 해보니",
+          "url": "https://www.chosun.com/economy/tech_it/2026/09/18/62QMWHVOEJEIVFMDKWV6KVUPGY/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "넷마블, TGS 2026서 '블룸워커'·'펄인블루' 출격…글로벌 공략 가속",
+          "url": "https://zdnet.co.kr/view/?no=20260918162702",
+          "source": "지디넷코리아",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "이동욱": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T17:42:00+09:00",
+      "lastSeen": "2026-09-18T17:42:00+09:00",
+      "news": [
+        {
+          "title": "\"상견례 하자고, 3500만 원 뜯겨\" 30대女 주장→이동욱 측 \"개인적인 접근 無, 사칭 주의\" 당부 [공식]",
+          "url": "https://v.daum.net/v/20260918094109385",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"결혼 암시까지\"…'이동욱 사칭범'에 30대女 3500만원 뜯겼다",
+          "url": "https://www.newsis.com/view/NISX20260918_0003795288",
+          "source": "뉴시스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "이동욱이 고백했다?...��맨스 스캠에 3500만원 털렸다 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/18/2026091807081619477",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "민희진": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-18T17:42:00+09:00",
+      "lastSeen": "2026-09-18T17:42:00+09:00",
+      "news": [
+        {
+          "title": "민희진 이겼다…'아일릿 뉴진스 카피' 손배소 최종 승소 [MD이슈]",
+          "url": "https://v.daum.net/v/20260918165349015",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "민희진, ‘아일릿 뉴진스 카피’ 1억 손배소 승소…法 “피���자 특정 안 돼”",
+          "url": "https://sports.khan.co.kr/article/202609181709003",
+          "source": "스포츠경향",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[단독] ‘아일릿, 뉴진스 카피 의혹’ 민희진 상대 손배소 기각…원고 항소 포기",
+          "url": "https://www.hani.co.kr/arti/culture/culture_general/1278489.html",
+          "source": "한겨레",
           "date": "2026-09-18"
         }
       ]
