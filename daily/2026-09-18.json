@@ -1500,10 +1500,10 @@
       ]
     },
     "삼성 갤럭시 z 폴드 8": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T08:10:00+09:00",
-      "lastSeen": "2026-09-18T08:38:00+09:00",
+      "lastSeen": "2026-09-18T09:18:00+09:00",
       "news": [
         {
           "title": "접는 아이폰 나오자 삼성 Z폴드8 판매 급증",
@@ -1528,14 +1528,20 @@
           "url": "https://v.daum.net/v/20260918074826578",
           "source": "Daum",
           "date": "2026-09-17"
+        },
+        {
+          "title": "\"100만원이나 더 주고 굳이?\"…뚜껑 열리자 벌어진 '반전'",
+          "url": "https://www.hankyung.com/article/2026091720561",
+          "source": "한국경제",
+          "date": "2026-09-17"
         }
       ]
     },
     "날씨": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100000,
       "firstSeen": "2026-09-18T08:10:00+09:00",
-      "lastSeen": "2026-09-18T08:38:00+09:00",
+      "lastSeen": "2026-09-18T09:18:00+09:00",
       "news": [
         {
           "title": "[날씨] 동해안·남부 5~20㎜ 비…제주 최고 80㎜↑",
@@ -1554,14 +1560,26 @@
           "url": "https://www.kyeonggi.com/article/20260917580566",
           "source": "경기일보",
           "date": "2026-09-17"
+        },
+        {
+          "title": "[출근길 날씨] 남부·제주 가을비…서쪽 낮더위, 서울 28도",
+          "url": "https://v.daum.net/v/20260918075814745",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "제주 시간당 20∼30㎜ 호우…남·동해안 강풍·너울 주의",
+          "url": "https://www.yna.co.kr/view/AKR20260918022200530",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
         }
       ]
     },
     "ionq": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T08:10:00+09:00",
-      "lastSeen": "2026-09-18T08:38:00+09:00",
+      "lastSeen": "2026-09-18T09:18:00+09:00",
       "news": [
         {
           "title": "IonQ, Synopsys cut simulation time by 14.6% with quantum tech",
@@ -1590,10 +1608,10 @@
       ]
     },
     "김서현": {
-      "count": 2,
-      "maxTraffic": 500,
+      "count": 3,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-18T08:10:00+09:00",
-      "lastSeen": "2026-09-18T08:38:00+09:00",
+      "lastSeen": "2026-09-18T09:18:00+09:00",
       "news": [
         {
           "title": "‘1-6에서 7-6 대역전’ 야구대표팀, 연습경기서 끝내기승…류지현 감독 “좋은 에너지 받았다”",
@@ -1611,6 +1629,18 @@
           "title": "'리드오프 김도영·불펜 김진욱' 류지현호, 준비 끝…좌완 마운드는 불안요소",
           "url": "https://www.yna.co.kr/view/MYH20260917022300038",
           "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "‘김서현 대참사’ 한화 울리고 군 입대, AG 국대까지 울렸다…안타-2루타-2타점 폭발, 1R 포수 심상치 않다",
+          "url": "https://v.daum.net/v/KbaH2XSrTf",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "야구대표팀 상무에 ‘진땀승’ AG 예방주사 될까?",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8666836",
+          "source": "KBS 뉴스",
           "date": "2026-09-17"
         }
       ]
@@ -1758,10 +1788,10 @@
       ]
     },
     "세무사": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T08:38:00+09:00",
-      "lastSeen": "2026-09-18T08:38:00+09:00",
+      "lastSeen": "2026-09-18T09:18:00+09:00",
       "news": [
         {
           "title": "경남 진주지역세무사회, ‘찾아가는 마을세무사’ 행사 개최",
@@ -1780,14 +1810,26 @@
           "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04972486645580776",
           "source": "마켓인",
           "date": "2026-09-17"
+        },
+        {
+          "title": "\"위법 광고 엄단하자\"…'세무사제도수호센터 TF' 발족식",
+          "url": "https://www.taxtimes.co.kr/news/article.html?no=276900",
+          "source": "한국세정신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "세무플랫폼 오인광고, 세무사가 직접 잡는다…제도수호 TF 발족",
+          "url": "https://m.joseilbo.com/news/view.htm?newsid=575837",
+          "source": "조세일보",
+          "date": "2026-09-17"
         }
       ]
     },
     "단발": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T08:38:00+09:00",
-      "lastSeen": "2026-09-18T08:38:00+09:00",
+      "lastSeen": "2026-09-18T09:18:00+09:00",
       "news": [
         {
           "title": "'이게 54만 원?' 아이유, 단발에 플라워 원피스…청순美 한도 초과",
@@ -1810,10 +1852,10 @@
       ]
     },
     "사노피": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T08:38:00+09:00",
-      "lastSeen": "2026-09-18T08:38:00+09:00",
+      "lastSeen": "2026-09-18T09:18:00+09:00",
       "news": [
         {
           "title": "J&J '이마비'로 첫발 뗀 wAIHA 치료제… 사노피 추격 예고",
@@ -1857,6 +1899,84 @@
           "title": "하주연, 쥬얼리 무대 불참 후 전한 속내 “불러줘야 가죠”",
           "url": "https://www.segye.com/newsView/20260918502374",
           "source": "세계일보",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "한화그룹": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T09:18:00+09:00",
+      "lastSeen": "2026-09-18T09:18:00+09:00",
+      "news": [
+        {
+          "title": "[인터뷰] \"위성만 팔아선 한계\"…KAI, '영상 판매'로 우주사업 판 바꾼다",
+          "url": "https://v.daum.net/v/20260918060123825",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "KAI 위성사업 방점은 '초소형 위성' 'AI', \"초기 상업화 촉진하는 정부 지원책 절실\"",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447375",
+          "source": "비즈니스포스트",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "[동정] 박동식 사천시장, 한화와 우주·AI 투자 협력 논의",
+          "url": "https://www.yna.co.kr/view/AKR20260916158400052",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "노란봉투법": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T09:18:00+09:00",
+      "lastSeen": "2026-09-18T09:18:00+09:00",
+      "news": [
+        {
+          "title": "법원, '노란봉투법' 첫 판단…극동건설 집행정지 신청 기각",
+          "url": "https://www.yna.co.kr/view/AKR20260917187300530",
+          "source": "연합뉴스",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "법원 “극동건설, 하청 교섭요구 공고해야”…노란봉투법 관련 첫 판단",
+          "url": "https://www.khan.co.kr/article/202609172034001",
+          "source": "경향신문",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "법원, ‘하청노조 교섭요구 공고’ 멈춰달라는 원청 신청 첫 기각",
+          "url": "https://www.sedaily.com/article/20092376",
+          "source": "서울경제",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    "지수": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T09:18:00+09:00",
+      "lastSeen": "2026-09-18T09:18:00+09:00",
+      "news": [
+        {
+          "title": "뉴욕증시, 금리인상 여파 소화하며 반등…나스닥 1.7%↑(종합)",
+          "url": "https://v.daum.net/v/20260918063842507",
+          "source": "Daum",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "금리인상 충격 하루만에 털었다…\"기업 실적이 상쇄\"[뉴욕마감] - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/18/2026091806093942622",
+          "source": "머니투데이",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "뉴욕증시, 국채 금리·유가 하락에 반등…나스닥 1.69%↑",
+          "url": "https://www.chosun.com/economy/int_economy/2026/09/18/ZT6DHZZOSRGQPNIXQ6SXJ4FTBI/",
+          "source": "조선일보",
           "date": "2026-09-17"
         }
       ]
