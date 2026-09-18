@@ -2012,11 +2012,18 @@
       ]
     },
     "철도망": {
-      "count": 5,
-      "maxTraffic": 100,
+      "count": 6,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-18T09:44:00+09:00",
-      "lastSeen": "2026-09-18T11:41:00+09:00",
-      "news": []
+      "lastSeen": "2026-09-18T12:13:00+09:00",
+      "news": [
+        {
+          "title": "최현덕 남양주시장, 별내선 연장 예타 대응 현장 점검",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260909010003627",
+          "source": "아시아투데이",
+          "date": "2026-09-17"
+        }
+      ]
     },
     "왕옌청": {
       "count": 5,
@@ -2045,10 +2052,10 @@
       ]
     },
     "허양 임": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T10:12:00+09:00",
-      "lastSeen": "2026-09-18T11:41:00+09:00",
+      "lastSeen": "2026-09-18T12:13:00+09:00",
       "news": [
         {
           "title": "고지용 VS 허양임, 5년 전에도 극과 극 성향…\"진짜 스트레스 받았다\" [엑's 이슈]",
@@ -2083,10 +2090,10 @@
       ]
     },
     "이재명": {
-      "count": 4,
-      "maxTraffic": 10000,
+      "count": 5,
+      "maxTraffic": 20000,
       "firstSeen": "2026-09-18T10:12:00+09:00",
-      "lastSeen": "2026-09-18T11:41:00+09:00",
+      "lastSeen": "2026-09-18T12:13:00+09:00",
       "news": [
         {
           "title": "홍준표 “대통령이 정신 차려 정국 대전환 선언했으면…이낙연과 방송 녹화한다”",
@@ -2147,10 +2154,10 @@
       ]
     },
     "이혼숙려캠프: 새로고침": {
-      "count": 3,
-      "maxTraffic": 500,
+      "count": 4,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-18T10:39:00+09:00",
-      "lastSeen": "2026-09-18T11:41:00+09:00",
+      "lastSeen": "2026-09-18T12:13:00+09:00",
       "news": [
         {
           "title": "남편 자존심 짓밟던 아내, '고부갈등' 반전 있었다…\"시모가 엄마 없다 생각하라고\" (이숙캠)",
@@ -2185,10 +2192,10 @@
       ]
     },
     "sk그룹": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-18T10:39:00+09:00",
-      "lastSeen": "2026-09-18T11:41:00+09:00",
+      "lastSeen": "2026-09-18T12:13:00+09:00",
       "news": [
         {
           "title": "[단독] SK그룹 핵심 부회장 3人, 하이닉스에 일제히 합류",
@@ -2213,14 +2220,20 @@
           "url": "https://v.daum.net/v/20260918110037379",
           "source": "Daum",
           "date": "2026-09-18"
+        },
+        {
+          "title": "SK그룹 전문경영인 부회장 3명 SK하이닉스로 보임",
+          "url": "https://www.yna.co.kr/view/AKR20260918027100003",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
         }
       ]
     },
     "볼보 es90": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T11:13:00+09:00",
-      "lastSeen": "2026-09-18T11:41:00+09:00",
+      "lastSeen": "2026-09-18T12:13:00+09:00",
       "news": [
         {
           "title": "SUV의 공간에 세단의 주행감 담았다…볼보 전기차 ES90 타보니",
@@ -2238,6 +2251,116 @@
           "title": "수입차에 ‘틈’ 내준 제네시스… 볼보·렉서스, 7000만원��� EV로 정조준",
           "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170390",
           "source": "IT조선",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"유럽보다 약 5천만원 낮은 파격 가격\"...볼보 EX90, 패밀리 SUV 선택 기준 새롭게 바꾼다",
+          "url": "https://www.g-enews.com/article/Industry/2026/09/20260917092052253031a5c2dd38_1",
+          "source": "글로벌이코노믹",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "경복궁 강녕전": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T12:13:00+09:00",
+      "lastSeen": "2026-09-18T12:13:00+09:00",
+      "news": [
+        {
+          "title": "담배 뻑뻑 피우고, 노상방뇨…경복궁 큰일납니다",
+          "url": "https://v.daum.net/v/20260918000408930",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "궁능 관람 질서 준수 유관기관 합동 캠페인",
+          "url": "https://mobile.newsis.com/photo/NISI20260917_0021441334",
+          "source": "뉴시스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"관람질서 지켜달라\" 외쳐도…창호지 뚫고 대변 보는 궁궐 관람객 - 머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/09/17/2026091715175489253",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "사기": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T12:13:00+09:00",
+      "lastSeen": "2026-09-18T12:13:00+09:00",
+      "news": [
+        {
+          "title": "경찰서 찾았지만 \"사기 단정 못한다\" 답변…결국 3억원 피해",
+          "url": "https://v.daum.net/v/20260918112154796",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "피해자가 먼저 사기 의심했지만 경찰서 다녀온 후 3억 원 날렸다",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3035108",
+          "source": "기호일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "“26억 수익 났다”…투자 리딩방 사기 현금수거책 2명 구속송치",
+          "url": "https://www.donga.com/news/Society/article/all/20260918/134694694/1",
+          "source": "동아일보",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "폐기물": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-18T12:13:00+09:00",
+      "lastSeen": "2026-09-18T12:13:00+09:00",
+      "news": [
+        {
+          "title": "기후부, 추석 연휴 환경오염 특별 감시·단속 실시",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372561",
+          "source": "전기신문",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "택배상자 테이프 안 떼면 과태료 30만원… 추석 쓰레기 배출 금지일 주의",
+          "url": "https://www.imaeil.com/page/view/2026091807011804891",
+          "source": "매일신문",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "양구군, 추석 앞두고 환경오염 물질 배출사업장 지도·점검",
+          "url": "https://www.yna.co.kr/view/AKR20260917047400062",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "육아휴직": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-18T12:13:00+09:00",
+      "lastSeen": "2026-09-18T12:13:00+09:00",
+      "news": [
+        {
+          "title": "배우자! 알면 힘이 되는 육아원칙 - 영상 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148972023",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "남편도 아내 임신 중에 육아휴직…'배우자 3종 세트' 18일 시행",
+          "url": "https://v.daum.net/v/PtuGed8BtT",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "남편도 유산·사산 5일 휴가…출산 50일 전 휴가도 가능",
+          "url": "https://www.newsis.com/view/NISX20260917_0003793399",
+          "source": "뉴시스",
           "date": "2026-09-18"
         }
       ]
