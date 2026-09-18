@@ -709,10 +709,10 @@
       ]
     },
     "주한 미군 사령관": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T03:41:00+09:00",
-      "lastSeen": "2026-09-19T05:13:00+09:00",
+      "lastSeen": "2026-09-19T05:40:00+09:00",
       "news": [
         {
           "title": "벨 前주한미군사령관 \"전작권 전환 반대 소신 지금도 그대로\"",
@@ -735,10 +735,10 @@
       ]
     },
     "레알 마드리드 cf": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-19T03:41:00+09:00",
-      "lastSeen": "2026-09-19T05:13:00+09:00",
+      "lastSeen": "2026-09-19T05:40:00+09:00",
       "news": [
         {
           "title": "시메오네 감독이 이강인 ‘7번’ 줬던 진짜 이유 공개…“뛰어난 볼 간수·대담한 성격·헌신적인 태도, 완전 매료됐다”",
@@ -773,10 +773,10 @@
       ]
     },
     "바이에른 대 우니온 베를린": {
-      "count": 3,
-      "maxTraffic": 5000,
+      "count": 4,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-19T04:12:00+09:00",
-      "lastSeen": "2026-09-19T05:13:00+09:00",
+      "lastSeen": "2026-09-19T05:40:00+09:00",
       "news": [
         {
           "title": "이럴 수가! '코리안 더비' 불발되나...김민재 '선발 제외' 전망한 獨 유력지, 정우영은 '출격 예측'",
@@ -889,10 +889,10 @@
       ]
     },
     "brentford vs chelsea": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-19T05:13:00+09:00",
-      "lastSeen": "2026-09-19T05:13:00+09:00",
+      "lastSeen": "2026-09-19T05:40:00+09:00",
       "news": [
         {
           "title": "Premier League: Welbeck starts as Chelsea visit unbeaten Brentford",
@@ -915,10 +915,10 @@
       ]
     },
     "바이에른 뮌헨": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-19T05:13:00+09:00",
-      "lastSeen": "2026-09-19T05:13:00+09:00",
+      "lastSeen": "2026-09-19T05:40:00+09:00",
       "news": [
         {
           "title": "깜짝 대반전! \"놀라운 김민재의 재계약 소식\" 獨 매체도 집중 조명...'KIM 팔아'→EPL 제안 거부 후 미래 논의, 뮌헨의 입장 '180도' 달라졌다",
@@ -941,10 +941,10 @@
       ]
     },
     "김부선": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-19T05:13:00+09:00",
-      "lastSeen": "2026-09-19T05:13:00+09:00",
+      "lastSeen": "2026-09-19T05:40:00+09:00",
       "news": [
         {
           "title": "김부선, 2억원대 대여금 소송 속 유튜브 중단…\"심신 많이 지쳐\"",
@@ -962,6 +962,110 @@
           "title": "‘지인 유족과 2억원대 소송’ 김부선 돌연 유튜브 중단 “심신 지쳐, 회복에 집중”[공식]",
           "url": "https://www.newsen.com/news_view.php?uid=202609181457001910&code=100100",
           "source": "뉴스엔",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "비트코인": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T05:40:00+09:00",
+      "lastSeen": "2026-09-19T05:40:00+09:00",
+      "news": [
+        {
+          "title": "JP모건 \"비트코인 ETF 헤지 포지션 청산 시 금보다 더 큰 지지\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435645",
+          "source": "연합인포맥스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[비트코인 인사이트] 비트코인 시장, ETF 자금 확대 기대와 美 규제 지연 변수 교차",
+          "url": "https://www.etoday.co.kr/news/view/2627208",
+          "source": "이투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "비��코인이 금 시총 따라잡으면 얼마?…계산해보니 150만달러",
+          "url": "https://www.coinreaders.com/259085",
+          "source": "코인리더스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "첼시": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T05:40:00+09:00",
+      "lastSeen": "2026-09-19T05:40:00+09:00",
+      "news": [
+        {
+          "title": "브렌트포드 vs 첼시 프리뷰: 선두 경쟁의 뜨거운 승부",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-brentford-vs-chelsea-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "브렌트포드 대 첼시 프리미어 리그 생중계는 어느 채널에서 볼 수 있습니까?",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/xem-truc-tiep-brentford-vs-chelsea-tai-premier-league-tren-kenh-nao-1768884.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "2026/27 잉글랜드 프리미어 리그 5라운드 경기 일정: 아스널은 흔들릴까?",
+          "url": "https://www.vietnam.vn/ko/lich-thi-dau-vong-5-ngoai-hang-anh-2026-27-arsenal-chung-lai",
+          "source": "Vietnam.vn",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "여객기": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T05:40:00+09:00",
+      "lastSeen": "2026-09-19T05:40:00+09:00",
+      "news": [
+        {
+          "title": "기내 천장 패널이 ’와르르’…공포에 질린 승객들",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260918164234EZx",
+          "source": "연합뉴스TV",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[이슈클릭] 이륙 직후 타이어 ‘펑’…“알리여!” 기도로 버틴 아찔한 회항",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8666266",
+          "source": "KBS 뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[게시판] 한진 노삼석·조현민 사장, 추석특수기 택배 현장점검",
+          "url": "https://stock.mk.co.kr/news/view/1160396",
+          "source": "매일경제 마켓",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "김가영": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-19T05:40:00+09:00",
+      "lastSeen": "2026-09-19T05:40:00+09:00",
+      "news": [
+        {
+          "title": "'김가영, 혼자 12승 원맨쇼' 하나카드, PBA 팀리그 3라운드 우승",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=06189366645581432&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "하나카드-하림, PBA 팀리그 3R 최종일 우승 놓고 맞대결",
+          "url": "https://www.yna.co.kr/view/AKR20260918026200007",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "NH농협카드, 휴온스 11연승 저지…김민아 복식 2승, 마민껌 마무리[PBA팀리그 3R]",
+          "url": "https://v.daum.net/v/20260911005700269",
+          "source": "Daum",
           "date": "2026-09-18"
         }
       ]
