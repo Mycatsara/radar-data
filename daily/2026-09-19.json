@@ -1683,10 +1683,10 @@
       ]
     },
     "단풍": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T08:12:00+09:00",
-      "lastSeen": "2026-09-19T08:12:00+09:00",
+      "lastSeen": "2026-09-19T08:38:00+09:00",
       "news": [
         {
           "title": "설악산 단풍 즐기는 3가지 방법",
@@ -1709,10 +1709,10 @@
       ]
     },
     "brentford f.c. vs chelsea f.c. standings": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-19T08:12:00+09:00",
-      "lastSeen": "2026-09-19T08:12:00+09:00",
+      "lastSeen": "2026-09-19T08:38:00+09:00",
       "news": [
         {
           "title": "Premier League: Welbeck starts as Chelsea visit unbeaten Brentford",
@@ -1731,14 +1731,26 @@
           "url": "https://www.football.london/chelsea-fc/news/chelsea-brentford-premier-league-alonso-34641269",
           "source": "Football London",
           "date": "2026-09-18"
+        },
+        {
+          "title": "Xabi Alonso says Chelsea were 'out of control' in Brentford loss",
+          "url": "https://www.espn.com/soccer/story/_/id/49975410/alonso-says-chelsea-were-control-brentford-defeat",
+          "source": "ESPN",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Chelsea put to the sword by brilliant Brentford in West London derby",
+          "url": "https://www.flashscore.com/news/chelsea-put-the-sword-by-brilliant-brentford-in-west-london-derby/Iegei32n/",
+          "source": "Flashscore.com",
+          "date": "2026-09-18"
         }
       ]
     },
     "박재홍": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T08:12:00+09:00",
-      "lastSeen": "2026-09-19T08:12:00+09:00",
+      "lastSeen": "2026-09-19T08:38:00+09:00",
       "news": [
         {
           "title": "'뇌경색' 박재홍, 한 달 만에 복귀 '울컥'…\"앉아서 하는 방송은 괜찮아\" [엑's 이슈]",
@@ -1787,10 +1799,10 @@
       ]
     },
     "초과근무": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T08:12:00+09:00",
-      "lastSeen": "2026-09-19T08:12:00+09:00",
+      "lastSeen": "2026-09-19T08:38:00+09:00",
       "news": [
         {
           "title": "공무원 '하루 4시간' 초과근무 상한 폐지‥\"일한 만큼 인정\"",
@@ -1886,6 +1898,162 @@
           "title": "올해 독감 백신은 3가 접종...4가 백신과 효능 차이점은?",
           "url": "https://www.ytn.co.kr/_ln/0105_202609190027590626",
           "source": "YTN",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "김영웅": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-19T08:38:00+09:00",
+      "lastSeen": "2026-09-19T08:38:00+09:00",
+      "news": [
+        {
+          "title": "봤는가, 130m 초대형 홈런 터졌다…멀티 출루→멀티 안타, '2군행' 삼성 젊은 영웅이 살아난다",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/19/MRSGKZJUGMZDOOLEMJRWGYLBMU/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "‘타율 1할→2군행’ 삼성 김영웅, 4타수 무안타→1타수 1안타 1볼넷 반등 보여주다…감독 작심발언 “주위에서 이상한 소리를” - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/18/202609180901770438O",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "야구인이 삼성 히어로를 흔든다? 박진만 감독 작심 발언 \"야구 관련되신 분들이 자꾸 이상한 소스를…\"",
+          "url": "https://v.daum.net/v/YgrVXSrNmT",
+          "source": "Daum",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "약": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T08:38:00+09:00",
+      "lastSeen": "2026-09-19T08:38:00+09:00",
+      "news": [
+        {
+          "title": "임신중지약물 '법적 공백' 산적...\"의사 선택권 보장\"",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609190628448031",
+          "source": "YTN",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"임신중지약은 살인\"…천주교부터 개신교, 불교까지 종교계 '절대 안돼' - 머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/09/19/2026091815045670502",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "SNS",
+          "url": "https://www.president.go.kr/social-media/1MSwf4zQ",
+          "source": "대한민국 청와대",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "최두호": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T08:38:00+09:00",
+      "lastSeen": "2026-09-19T08:38:00+09:00",
+      "news": [
+        {
+          "title": "8년 만의 UFC 랭킹 복귀 노리는 최두호…\"핏불, 판정까지 못 버틴다\"",
+          "url": "https://www.news1.kr/sports/general-sport/6293867",
+          "source": "뉴스1",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "최두호 ‘미소와 함께 계체를’ [MK포토]",
+          "url": "https://www.mk.co.kr/news/sports/12156974",
+          "source": "매일경제",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"마지막…\" 3번 외친 최두호 vs \"내가 죽인다!\" 핏불 [인터뷰]",
+          "url": "https://www.nocutnews.co.kr/news/6580050",
+          "source": "노컷뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "상어": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-19T08:38:00+09:00",
+      "lastSeen": "2026-09-19T08:38:00+09:00",
+      "news": [
+        {
+          "title": "[현장영상] \"어머 미치겠다\" 부산 공원 수로에 나타난 '검은 물체'",
+          "url": "https://v.daum.net/v/20260918173606666",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "산책로 옆에 3.5m 상어 출몰…시민 ‘화들짝’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8667744",
+          "source": "KBS 뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "“3m 넘는 상어 돌아다닌다” 부산 북항 친수공원 발칵…해경 출동",
+          "url": "https://www.joongang.co.kr/article/25463049",
+          "source": "중앙일보",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "해군": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T08:38:00+09:00",
+      "lastSeen": "2026-09-19T08:38:00+09:00",
+      "news": [
+        {
+          "title": "해군제2함대사령부 소청도 감시대 장병들, 음악으로 모병활동 힘 보탠다",
+          "url": "https://sisaissue.com/View.aspx?No=4234301",
+          "source": "시사의창",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "해군 소청도 감시대 밴드 동아리, 연주 재능기부 펼쳐",
+          "url": "http://www.newspeak.kr/news/articleView.html?idxno=912993",
+          "source": "뉴스피크",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[단독] 미 전쟁부 부차관보 한화오션 거제사업장 찾았다...‘마스가’ 속도 빨라지나",
+          "url": "https://www.segye.com/newsView/20260917508531",
+          "source": "세계일보",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "강남": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T08:38:00+09:00",
+      "lastSeen": "2026-09-19T08:38:00+09:00",
+      "news": [
+        {
+          "title": "\"강남 하락, 외곽 상승은 평탄화 과정\"... 李, 부동산 기조 안 바꾼다",
+          "url": "https://www.chosun.com/politics/politics_general/2026/09/19/37VYUOA4FBHV7FRHWBCAZM3X2M/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "이재명 “부동산 공화국 반드시 끝낸다… ‘경제·행정 2수도’ 시대 열 것”",
+          "url": "https://www.donga.com/news/Politics/article/all/20260919/134700273/1",
+          "source": "동아일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "'전세 질문'에 이재명 대통령 \"내가 언제 사라져야 한다고?\"…과거 발언 보니",
+          "url": "https://v.daum.net/v/2xIOWRfz3w",
+          "source": "Daum",
           "date": "2026-09-18"
         }
       ]
