@@ -2726,10 +2726,10 @@
       ]
     },
     "황석정": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-18T13:41:00+09:00",
-      "lastSeen": "2026-09-18T13:41:00+09:00",
+      "lastSeen": "2026-09-18T14:12:00+09:00",
       "news": [
         {
           "title": "황석정 \"'호프' 외계인, 사타구니에 손이 절로\"..스태프 경악한 애드리브 연기 [절에 간 성경]",
@@ -2752,10 +2752,10 @@
       ]
     },
     "gpt-5.6": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-18T13:41:00+09:00",
-      "lastSeen": "2026-09-18T13:41:00+09:00",
+      "lastSeen": "2026-09-18T14:12:00+09:00",
       "news": [
         {
           "title": "Our framework for reporting model misalignment",
@@ -2778,10 +2778,10 @@
       ]
     },
     "삼전닉스": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T13:41:00+09:00",
-      "lastSeen": "2026-09-18T13:41:00+09:00",
+      "lastSeen": "2026-09-18T14:12:00+09:00",
       "news": [
         {
           "title": "뉴욕증시, 금리인상 여파 소화하며 반등…나스닥 1.7%↑(종합)",
@@ -2800,14 +2800,26 @@
           "url": "https://imnews.imbc.com/news/2026/econo/article/6852698_36932.html",
           "source": "MBC 뉴스",
           "date": "2026-09-18"
+        },
+        {
+          "title": "\"금리 올라도 버리지 마라\"…증권사 10곳 중 9곳이 찍은 종목 [증시긴급진단]",
+          "url": "https://v.daum.net/v/pBAWc3Ghza",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "KB증권 “AI 병목 GPU서 메모리로 이동…삼성전자·SK하이닉스 수혜”",
+          "url": "https://www.viva100.com/article/20260918500016",
+          "source": "브릿지경제",
+          "date": "2026-09-18"
         }
       ]
     },
     "부산 상어": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T13:41:00+09:00",
-      "lastSeen": "2026-09-18T13:41:00+09:00",
+      "lastSeen": "2026-09-18T14:12:00+09:00",
       "news": [
         {
           "title": "[속보]북항 친수공원 해변에 상어가? 3~4m 상어 목격",
@@ -2825,6 +2837,162 @@
           "title": "부산 앞바다에 3m 상어가 나타났다…산책로 턱밑 대응 중(종합)",
           "url": "https://v.daum.net/v/20260918113900923",
           "source": "Daum",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "여명학교": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T14:12:00+09:00",
+      "lastSeen": "2026-09-18T14:12:00+09:00",
+      "news": [
+        {
+          "title": "‘결사반대’에 무릎 꿇고 눈물 흘린 교장… “아이들 품어주세요”",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000013268",
+          "source": "국민일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "여명학교, 또 ‘님비’에 좌절되나…눈물 호소에도 “떠나라”",
+          "url": "https://www.seoul.co.kr/news/society/education-news/2026/09/17/20260917500310",
+          "source": "서울신문",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[단독] “의미 ���는 시설”… 현대차, 여명학교 인테리어도 지원",
+          "url": "https://www.segye.com/newsView/20260917516770",
+          "source": "세계일보",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "스파이더맨: 브랜드 뉴 데이": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T14:12:00+09:00",
+      "lastSeen": "2026-09-18T14:12:00+09:00",
+      "news": [
+        {
+          "title": "[잇슈 컬처] ‘스파이더맨4’, ‘스타워즈’ 넘어 북미 흥행 신기록",
+          "url": "https://v.daum.net/v/8x9Ccu5Tvy",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "'스파이더맨: 브랜드 뉴데이', 북미 역대 박스오피스 1위 등극 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/17/2026091715127217894",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "톰 홀랜드 '스파이더맨4', 새 역사 썼다..11년만 '스타워즈' 꺾고 북미 1위 [공식]",
+          "url": "https://www.chosun.com/entertainments/movie/2026/09/17/MZTDENZTGVSWCOBYG42DONZTGI/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "서울페이": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T14:12:00+09:00",
+      "lastSeen": "2026-09-18T14:12:00+09:00",
+      "news": [
+        {
+          "title": "쿠콘, 카카오페이·서울페이 연동... 27만 가맹점서 QR결제",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1182290",
+          "source": "금강일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[금융 이모저모] 카카오페이, 간편결제 최초 '서울페이플러스(서울Pay+)' 결제 지원",
+          "url": "https://www.goodkyung.com/news/articleView.html?idxno=291352",
+          "source": "굿모닝경제",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "카카오페이, PG 사업 진출…4300만 앞세워 결제 인프라 구축한다",
+          "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=254752",
+          "source": "인사이트코리아",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "한혜진": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-18T14:12:00+09:00",
+      "lastSeen": "2026-09-18T14:12:00+09:00",
+      "news": [
+        {
+          "title": "7년차 모델 \"수입 0원\" 고백…한혜진, 뉴욕행 비행기 티켓 선물 '눈물 펑펑' (한혜진)",
+          "url": "https://v.daum.net/v/4Z11RyOcY7",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "한혜진, '수입 제로' 후배에 뉴욕행 항공권 쾌척..\"잘하고 올게요\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/18/MNSTCMDFHA3GGOLCGA2TEZJZMM/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "한혜진 “뉴욕 진출 당시 이미 48kg, 쇼핑 중독…싸구려 입어서 탈락될까봐”(한혜진채널)",
+          "url": "https://m.newsen.com/news_view.php?uid=202609181244432110",
+          "source": "뉴스엔",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "노동자": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-18T14:12:00+09:00",
+      "lastSeen": "2026-09-18T14:12:00+09:00",
+      "news": [
+        {
+          "title": "[현장] \"다쳐도 티 내지 말고 휴직하지 마라\", 삼성전자 반도체 하청 노동자들이 전하는 '일상화된 차별' 실태",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447502",
+          "source": "비즈니스포스트",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "반도체 호황 속 하청노동자 ‘눈물’…쪼개기 계약·위장도급 정황",
+          "url": "https://www.hani.co.kr/arti/society/labor/1278317.html",
+          "source": "한겨레",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"삼성전자 구내식당 '밥값' 정규직은 1500원, 하청은 7500원\"",
+          "url": "https://www.pressian.com/pages/articles/2026091717484474903",
+          "source": "프레시안",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "운동": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-18T14:12:00+09:00",
+      "lastSeen": "2026-09-18T14:12:00+09:00",
+      "news": [
+        {
+          "title": "출퇴근길 지하철역을 운동공간으로…문정역에 '펀 스테이션'",
+          "url": "https://v.daum.net/v/20260918102151307",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "피클볼 체험하는 오세훈 시장과 배현진 의원",
+          "url": "https://www.news1.kr/photos/8113710",
+          "source": "뉴스1",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "출퇴근길 지하철역이 운동공간으로 변신…문정역 ‘펀 스테이션’ 개장",
+          "url": "https://www.khan.co.kr/article/202609181020001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+          "source": "경향신문",
           "date": "2026-09-18"
         }
       ]
