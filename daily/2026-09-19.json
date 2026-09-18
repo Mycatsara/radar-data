@@ -2,10 +2,10 @@
   "date": "2026-09-19",
   "keywords": {
     "장신영": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T00:13:00+09:00",
-      "lastSeen": "2026-09-19T02:11:00+09:00",
+      "lastSeen": "2026-09-19T02:38:00+09:00",
       "news": [
         {
           "title": "장신영, 아파트 1층서만 살았던 이유 “펜트하우스 살고 싶지만…” - 스타투데이",
@@ -267,10 +267,10 @@
       ]
     },
     "비트코인 시세": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-19T00:41:00+09:00",
-      "lastSeen": "2026-09-19T02:11:00+09:00",
+      "lastSeen": "2026-09-19T02:38:00+09:00",
       "news": [
         {
           "title": "[코인시황] 지캐시 20.19% 상승, 스테이블 10.45% 하락",
@@ -363,10 +363,10 @@
       ]
     },
     "이선민": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T01:12:00+09:00",
-      "lastSeen": "2026-09-19T02:11:00+09:00",
+      "lastSeen": "2026-09-19T02:38:00+09:00",
       "news": [
         {
           "title": "'대세' 이선민, '가성비 인간'의 쇼핑법 [나혼산]",
@@ -389,10 +389,10 @@
       ]
     },
     "지창욱": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T01:12:00+09:00",
-      "lastSeen": "2026-09-19T02:11:00+09:00",
+      "lastSeen": "2026-09-19T02:38:00+09:00",
       "news": [
         {
           "title": "지창욱, 바쁜 스케줄에 ‘인간관계’ 뚝..“아무도 연락 NO, 외톨이 됐다” (‘비서진’) - 조선비즈",
@@ -427,10 +427,10 @@
       ]
     },
     "마이크론 테크놀로지": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-19T01:40:00+09:00",
-      "lastSeen": "2026-09-19T02:11:00+09:00",
+      "lastSeen": "2026-09-19T02:38:00+09:00",
       "news": [
         {
           "title": "Micron Gains 1.4% as 512GB Module Raises the AI Memory Ceiling",
@@ -448,6 +448,12 @@
           "title": "Micron announces 512GB DDR5-9200 memory modules with 16W power draw — up to 12TB per server, claims 60% less energy-intensive than four 128GB modules",
           "url": "https://www.tomshardware.com/pc-components/dram/micron-announces-512gb-ddr5-9200-memory-modules-with-16w-power-draw-up-to-12tb-per-server-claims-60-percent-less-energy-intensive-than-four-128gb-modules",
           "source": "Tom's Hardware",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Micron’s New 512GB Memory Module Deepens Its AI Infrastructure Advantage",
+          "url": "https://finance.yahoo.com/technology/ai/articles/micron-512gb-memory-module-deepens-141000357.html",
+          "source": "Yahoo Finance",
           "date": "2026-09-18"
         }
       ]
@@ -479,10 +485,10 @@
       ]
     },
     "팬심": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-19T02:11:00+09:00",
-      "lastSeen": "2026-09-19T02:11:00+09:00",
+      "lastSeen": "2026-09-19T02:38:00+09:00",
       "news": [
         {
           "title": "“대기만 90분”... 엔씨 신작 ‘아스트라에 오라티오’ 해보니",
@@ -501,14 +507,26 @@
           "url": "https://www.yna.co.kr/view/AKR20260918131000017",
           "source": "연합뉴스",
           "date": "2026-09-18"
+        },
+        {
+          "title": "스마일게이트 CBO \"향후 애니메이션 게임 라인업 비중 늘릴 것\"",
+          "url": "https://www.yna.co.kr/view/AKR20260918088800017",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "中 빠진 ���쿄게임쇼…K-게임, 서브컬처로 빈틈 파고든다",
+          "url": "https://v.daum.net/v/20260918173901795",
+          "source": "Daum",
+          "date": "2026-09-18"
         }
       ]
     },
     "수성구": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-19T02:11:00+09:00",
-      "lastSeen": "2026-09-19T02:11:00+09:00",
+      "lastSeen": "2026-09-19T02:38:00+09:00",
       "news": [
         {
           "title": "수성구 30-11구역, 시공자 재입찰… 1차는 한신공영만",
@@ -526,6 +544,84 @@
           "title": "수성대·수성구·AI기업 `빅션`, 함께 `GLOCAL 마케터` 키운다",
           "url": "https://www.imaeil.com/page/view/2026091816293719419",
           "source": "매일신문",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "자동차 산업": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-19T02:38:00+09:00",
+      "lastSeen": "2026-09-19T02:38:00+09:00",
+      "news": [
+        {
+          "title": "中 전기차 판매 비중 35%…“생산 연계 세액공제 서둘러야”",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372609",
+          "source": "전기신문",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"中 전기차 저가 공세 본격화...韓 전기차산업 대응 마련 시급\" - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/18/2026091809413864447",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "中BYD, EU ‘45%관세’ 뚫는데…8%세율로 버티는 韓",
+          "url": "https://www.munhwa.com/article/11618118",
+          "source": "문화일보",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "김남일": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-19T02:38:00+09:00",
+      "lastSeen": "2026-09-19T02:38:00+09:00",
+      "news": [
+        {
+          "title": "'구해줘 홈즈' 11가구 면적 중 50% 차지 깜짝..누구?",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/18/GUZTAZBRMZTDEM3EMNRWMOJQMU/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"-50배\" 연봉 13억이 2400만원으로 ‘X박살’..김영광 폭로에 김남일 “미안하다”",
+          "url": "https://www.osen.co.kr/article/G1112877520",
+          "source": "OSEN",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "김남일, 190㎝ ��3 아들 공개…\"공부해야 하는데 게임만\"",
+          "url": "https://www.newsis.com/view/NISX20260918_0003795037",
+          "source": "뉴시스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "비정규직": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T02:38:00+09:00",
+      "lastSeen": "2026-09-19T02:38:00+09:00",
+      "news": [
+        {
+          "title": "공무직 위원회 출범식, 기념 촬영하는 참석자들",
+          "url": "https://www.yna.co.kr/view/PYH20260918199800013",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "공공부문 비정규직 처우 논의 '공무직위' 출범…법정기구로 격상",
+          "url": "https://v.daum.net/v/3RuijUZvXx",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"모두를 위한 더 나은 일터, 모두의 일상에 닿는 더 나은 변화\" - 「공무직위원회」 오늘부터 공식 출범",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=448300",
+          "source": "서울Pn",
           "date": "2026-09-18"
         }
       ]
