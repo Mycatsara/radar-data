@@ -220,10 +220,10 @@
       ]
     },
     "thời tiết ngày mai": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-18T00:14:00+09:00",
-      "lastSeen": "2026-09-18T22:12:00+09:00",
+      "lastSeen": "2026-09-18T22:41:00+09:00",
       "news": [
         {
           "title": "Đường Hà Nội ngập sâu, giao thông tê liệt",
@@ -5154,10 +5154,10 @@
       ]
     },
     "청하": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T22:12:00+09:00",
+      "lastSeen": "2026-09-18T22:41:00+09:00",
       "news": [
         {
           "title": "청하, 오늘(18일) 새벽 응급실 이송…소속사 결별 앞두고 연속 악재 [Oh!쎈 이슈]",
@@ -5186,10 +5186,10 @@
       ]
     },
     "특별감찰관": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T22:12:00+09:00",
+      "lastSeen": "2026-09-18T22:41:00+09:00",
       "news": [
         {
           "title": "최길수, '김현지 실장 감찰'에 \"법상 수석비서관 이상만 대상\"(종합)",
@@ -5224,10 +5224,10 @@
       ]
     },
     "배그": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T22:12:00+09:00",
+      "lastSeen": "2026-09-18T22:41:00+09:00",
       "news": [
         {
           "title": "미디어웹, Npay와 'CBL: PUBG' 랭킹전 개최… 마일리지 및 경",
@@ -5250,10 +5250,10 @@
       ]
     },
     "m": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T22:12:00+09:00",
+      "lastSeen": "2026-09-18T22:41:00+09:00",
       "news": [
         {
           "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore's Palestine comments",
@@ -5271,6 +5271,12 @@
           "title": "How Ed Sheeran's tour became a flashpoint over Gaza and free speech",
           "url": "https://www.npr.org/2026/09/17/nx-s1-5971218/ed-sheeran-macklemore-tour-gaza",
           "source": "NPR",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "The 40-Minute Phone Call That Left Ed Sheeran’s Tour Hanging by a Thread",
+          "url": "https://www.wsj.com/arts-culture/music/the-40-minute-phone-call-that-left-ed-sheerans-tour-hanging-by-a-thread-99e07984",
+          "source": "WSJ",
           "date": "2026-09-18"
         }
       ]
@@ -5366,17 +5372,36 @@
       ]
     },
     "경상남도": {
-      "count": 2,
-      "maxTraffic": 200,
+      "count": 3,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-18T21:45:00+09:00",
-      "lastSeen": "2026-09-18T22:12:00+09:00",
-      "news": []
+      "lastSeen": "2026-09-18T22:41:00+09:00",
+      "news": [
+        {
+          "title": "산청군, 경남도 평생학습대상 기관부문 2년 연속 1위",
+          "url": "https://www.yna.co.kr/view/RPR20260918006700353",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "“배움으로 잇는 길, 삶이 빛나는 경남” 제3회 경상남도 평생학습박람회 & 문해의 달 성황리 마무리",
+          "url": "https://www.kclassicnews.com/news/article.html?no=226500",
+          "source": "K-Classic News",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "경남 평생학습 한자리에…60개 기관·도민 4000여명 함께했다",
+          "url": "https://www.koreaeaglenews.com/news/articleView.html?idxno=105456",
+          "source": "코리아이글뉴스",
+          "date": "2026-09-18"
+        }
+      ]
     },
     "xsmb": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T21:45:00+09:00",
-      "lastSeen": "2026-09-18T22:12:00+09:00",
+      "lastSeen": "2026-09-18T22:41:00+09:00",
       "news": [
         {
           "title": "Kết quả xổ số miền Trung hôm nay 18.9: Gia Lai, Ninh Thuận",
@@ -5425,10 +5450,10 @@
       ]
     },
     "롯데": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T22:12:00+09:00",
-      "lastSeen": "2026-09-18T22:12:00+09:00",
+      "lastSeen": "2026-09-18T22:41:00+09:00",
       "news": [
         {
           "title": "롯데, 16일 SSG전서 도미니카공화국 문화 알렸다! \"로드리게스의 모국 문화 사직에 소개→야구 교류 지속 확대\"",
@@ -5446,6 +5471,70 @@
           "title": "롯데, 사직구장서 로드리게스의 고향 문화와 전통 알렸다…‘인터내셔널데이 With 도미니카공화국’ 개최",
           "url": "https://sports.khan.co.kr/article/202609181903003",
           "source": "스포츠경향",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[게시판] 롯데장학재단, 한부모가족 등에 1억원 상당 쌀 지원",
+          "url": "https://www.yna.co.kr/view/AKR20260918021900030",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "롯데장학재단, 소외계층에 쌀 1198포대 지원…1억원 규모",
+          "url": "https://www.newsis.com/view/NISX20260918_0003794995",
+          "source": "뉴시스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "조민": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T22:41:00+09:00",
+      "lastSeen": "2026-09-18T22:41:00+09:00",
+      "news": [
+        {
+          "title": "조민, 홈쇼핑 90분 전 잘렸다···“논란 우려” 통보",
+          "url": "https://sports.khan.co.kr/article/202609181539003",
+          "source": "스포츠경향",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "조국 딸 조민 \"갑자기 홈쇼핑 출연 취소\"...이유가?",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04995446645581432",
+          "source": "마켓인",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "“대내외적 논란 우려”로 90분전 방송 취소…조민, 홈쇼핑서 대체 무슨 일?",
+          "url": "https://www.sportsseoul.com/news/read/1636261",
+          "source": "스포츠서울",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "사미자": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T22:41:00+09:00",
+      "lastSeen": "2026-09-18T22:41:00+09:00",
+      "news": [
+        {
+          "title": "전원주 측 “유튜브 출연료 70만 원 아냐” 매니저 주장 부인",
+          "url": "https://sports.khan.co.kr/article/202609171154003",
+          "source": "스포츠경향",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "전원주 출연료가 70만원?…매니저 주장에 소속사 \"사실무근\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/16/2026091617251121705",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "전원주 \"출연료 좀 올리자고 했더니\"...유튜브 제작진 하차 전말",
+          "url": "https://www.ytn.co.kr/_sn/0117_202609150945044022",
+          "source": "YTN",
           "date": "2026-09-18"
         }
       ]
