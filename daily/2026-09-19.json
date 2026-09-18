@@ -1107,10 +1107,10 @@
       ]
     },
     "골프": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-19T06:12:00+09:00",
-      "lastSeen": "2026-09-19T06:12:00+09:00",
+      "lastSeen": "2026-09-19T06:39:00+09:00",
       "news": [
         {
           "title": "정찬민, KPGA 골프존 오픈 2R 선두…AG 앞둔 문도엽은 '컷 탈락'",
@@ -1128,6 +1128,234 @@
           "title": "장유빈 상금 넘어설까...경쟁자 최찬의 힘찬 출발 \"목표는 당연히 ���승, 3승 원한다\"",
           "url": "https://www.chosun.com/sports/golf/2026/09/17/GUZGINRZMYZGEZRWG4ZDCMBWGI/",
           "source": "조선일보",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "조선민주주의인민공화국": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "news": [
+        {
+          "title": "\"수위와 빈도↑, 하지만 외부 공개만\"...북 담화 의도는?",
+          "url": "https://www.ytn.co.kr/_ln/0101_202609190610344095",
+          "source": "YTN",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[뉴스 동서남북] 김여정 “핵보유국 지위 불변”…국제사회 입장과 충돌",
+          "url": "https://www.voakorea.com/a/nkor-across-nation-091826/8201534.html",
+          "source": "VOA 한국어 홈페이지",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "中국방부장, 北국방성 부상 만나…\"전략소통·교류협력 강화\"",
+          "url": "https://www.yna.co.kr/view/AKR20260918087300083",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "화재": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "news": [
+        {
+          "title": "인천 물류센터 화재 7시간째…진화 상황은?",
+          "url": "https://v.daum.net/v/20260918212838681",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "인천 경서동 물류창고서 큰불...7시간 반 만에 꺼져",
+          "url": "https://www.ytn.co.kr/_ln/0103_202609190616038068",
+          "source": "YTN",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "인천 서해구 물류센터 화재 8시간 만에 완진‥다친 사람 없어",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6852914_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "베트남 u-23 축구 국가대표팀": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "news": [
+        {
+          "title": "베트남 U23 대표팀이 필리핀 U23 대표팀을 상대로 승리한 후, 우려스러운 통계들이 나왔습니다.",
+          "url": "https://www.vietnam.vn/ko/thong-ke-bao-dong-cua-u23-viet-nam-sau-tran-thang-u23-philippines",
+          "source": "Vietnam.vn",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "김상식 없으니 약하네…베트남 축구, AG 첫 경기서 쿠웨이트에 졸전 끝 무승부 [나고야 AG]",
+          "url": "https://v.daum.net/v/20260915214007127",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "'27슈팅'도 무용지물…김상식 부재, 베트남 AG 8강 '빨간불' 왜? : 스포츠",
+          "url": "https://news.jkn.co.kr/post/987227",
+          "source": "재경일보",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "bayern vs union berlin": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "news": [
+        {
+          "title": "Fünfmal Note 1 beim Schützenfest: Bayern-Stars in der Einzelkritik",
+          "url": "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/bayern-stars-in-der-einzelkritik-fuenfmal-note-beim-schuetzenfest-gegen-union-94500048.html",
+          "source": "Absolut Fussball",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Bundesliga: Debakel für Union Berlin und Lustrinelli in München",
+          "url": "https://www.nzz.ch/sport/union-berlin-bleibt-beim-auswaertsspiel-gegen-bayern-muenchen-chancenlos-ld.10024550",
+          "source": "NZZ",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Die Bayern schenken ein: „Anstich“ von Musiala, Dreierpack von Olise",
+          "url": "https://www.grenzecho.net/146543/artikel/2026-09-18/die-bayern-schenken-ein-anstich-von-musiala-dreierpack-von-olise",
+          "source": "GrenzEcho",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "김민재": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "news": [
+        {
+          "title": "깜짝 대반전! \"놀라운 김민재의 재계약 소식\" 獨 매체도 집중 조명...'KIM 팔아'→EPL 제안 거부 후 미래 논의, 뮌헨의 입장 '180도' 달라졌다",
+          "url": "https://v.daum.net/v/Z6s8SrNdDz",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"우리 민재 안 팔아요\" EPL 구단들 大실망... 뮌헨, '김민재 재계약' 급선회 \"장기 동행 청신호\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/17/2026091720091390271",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"초대박\" 韓 축구 중심! '괴물 수비수' 김민재 실력으로 만든 반전…바이에른 뮌헨, KIM '이적 유력 후보→계약 연장 논의'",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/17/MVSDCMTEGRRTEYZTMUZDQZLFHE/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "생일": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "news": [
+        {
+          "title": "\"오늘 생일이라셨지?\"…12시간 암 수술 마친 의사가 환자 팔에 남긴 메시지 '감동' [따뜻했슈]",
+          "url": "https://v.daum.net/v/20260918153911885",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"오늘 생일이라셨지?\"…마취 깰 환자 위해 멸균 마킹펜 든 의사[오따뉴] - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/18/2026091810144359244",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "마취 직전 \"오늘 생일이세요?\" 묻더니…수술 뒤 팔에 적힌 문구",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260918174615M5c",
+          "source": "연합뉴스TV",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "토트넘 홋스퍼 fc": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "news": [
+        {
+          "title": "토트넘 144년 창단 후 최악의 기록…英 BBC ‘비피셜’ 노스트라마무스 예상, “지든 이기든 ‘1골’ 넣는다”",
+          "url": "https://v.daum.net/v/4OgfrV71hP",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[오피셜]\"에이스, 선발 출격합니다\" 2무2패 4경기 무득점 '최악의 개막 부진' 토트넘 데 제르비 감독, '부상 회복' 제임스 매디슨 첫 선발 낙점..'19일 애스턴빌라전 풀가동 예고'",
+          "url": "https://www.sportschosun.com/football/2026-09-18/202609180100128910008365",
+          "source": "스포츠조선",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "'리그 0승 0골→리버풀에 1-3 패배' 데 제르비 토트넘 감독, \"우리는 운이 없었다\"",
+          "url": "https://www.koreadaily.com/article/20260915234902011",
+          "source": "미주중앙일보",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "달러 원 환율": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "news": [
+        {
+          "title": "일본은행, 금리 1.25%로 인상···31년 만의 최고치",
+          "url": "https://www.khan.co.kr/article/202609181250001",
+          "source": "경향신문",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "일본은행 금리 인상, 글로벌 긴축 사이클 가시화",
+          "url": "https://kr.investing.com/news/economy-news/article-93CH-2100057",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"저금리 시대 끝났다\" 중동·AI 인플레 겹친 세계, 긴축 본격화 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/18/2026091811471312148",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "알렉 감 보아": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-19T06:39:00+09:00",
+      "lastSeen": "2026-09-19T06:39:00+09:00",
+      "news": [
+        {
+          "title": "\"상상도 하기 힘들었는데\"...롯데 재계약 실패가 천운, 필승조급 ���지 상승! PS 엔트리 보인다",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/19/HFTDEMTDHBRDMMRWGEYTQMRUGQ/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "'롯데 재계약 불발' 고마워해야 할 판…155km 강속구 앞세워 ML 2호 기록 적립, KBO 역수출 신화 탄생",
+          "url": "https://v.daum.net/v/V691WJ6bls",
+          "source": "Daum",
           "date": "2026-09-18"
         }
       ]
