@@ -2,10 +2,10 @@
   "date": "2026-09-19",
   "keywords": {
     "장신영": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T00:13:00+09:00",
-      "lastSeen": "2026-09-19T01:12:00+09:00",
+      "lastSeen": "2026-09-19T01:40:00+09:00",
       "news": [
         {
           "title": "장신영, 아파트 1층서만 살았던 이유 “펜트하우스 살고 싶지만…” - 스타투데이",
@@ -28,10 +28,10 @@
       ]
     },
     "업비트": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T00:13:00+09:00",
-      "lastSeen": "2026-09-19T01:12:00+09:00",
+      "lastSeen": "2026-09-19T01:40:00+09:00",
       "news": [
         {
           "title": "업비트서 스테이블코인 상장 직후 190%대 이례적 급등",
@@ -49,6 +49,18 @@
           "title": "400% 상승 후 급락… 업비트·빗썸, ‘스���이블코인’도 급등락",
           "url": "https://biz.chosun.com/stock/finance/2026/09/17/OPBNP6NFXBGQPMV3J4F7JHWP3E/",
           "source": "Chosunbiz",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "1엔짜리 스테이블코인이 4배 폭등?…업비트서 무슨 일이",
+          "url": "https://v.daum.net/v/20260918173753740",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "업비트서 스테이블코인 상장 직후 190%대 이례적 급등",
+          "url": "https://www.yna.co.kr/view/AKR20260917189700002",
+          "source": "연합뉴스",
           "date": "2026-09-18"
         }
       ]
@@ -80,10 +92,10 @@
       ]
     },
     "아스트라에 오라티오": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T00:13:00+09:00",
-      "lastSeen": "2026-09-19T01:12:00+09:00",
+      "lastSeen": "2026-09-19T01:40:00+09:00",
       "news": [
         {
           "title": "“대기만 90분”... 엔씨 신작 ‘아스트라에 오라티오’ 해보니",
@@ -107,6 +119,12 @@
           "title": "넷마블 방준혁, 도쿄게임쇼 현장 점검…\"유저 목소리 살펴야\"",
           "url": "https://www.yna.co.kr/view/AKR20260918131000017",
           "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "공백의 27년, 무슨 일이 있었나…'나혼렙: 카르마' [TGS 2026]",
+          "url": "https://www.dailian.co.kr/news/view/1692409/%EA%B3%B5%EB%B0%B1-27%EB%85%84-%EB%AC%B4%EC%8A%A8-%EC%9D%BC%EC%9D%B4-%EC%9E%88%EC%97%88%EB%82%98%EB%82%98%ED%98%BC%EB%A0%99-2026",
+          "source": "데일리안",
           "date": "2026-09-18"
         }
       ]
@@ -249,10 +267,10 @@
       ]
     },
     "비트코인 시세": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-19T00:41:00+09:00",
-      "lastSeen": "2026-09-19T01:12:00+09:00",
+      "lastSeen": "2026-09-19T01:40:00+09:00",
       "news": [
         {
           "title": "[코인시황] 지캐시 20.19% 상승, 스테이블 10.45% 하락",
@@ -271,14 +289,20 @@
           "url": "https://www.tokenpost.kr/news/briefing/410449",
           "source": "토큰포스트",
           "date": "2026-09-18"
+        },
+        {
+          "title": "비트코인 82,000달러 넘으면 94,000달러 보인다…니어 30%·유니스왑 26% 급등",
+          "url": "https://www.coinreaders.com/259058",
+          "source": "코인리더스",
+          "date": "2026-09-18"
         }
       ]
     },
     "재벌형사2": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T00:41:00+09:00",
-      "lastSeen": "2026-09-19T01:12:00+09:00",
+      "lastSeen": "2026-09-19T01:40:00+09:00",
       "news": [
         {
           "title": "재벌X형사 2 : 안보현, 유승호의 비밀 지하실에 전시된 피해자들의 물건 마주한 충격적인 장면",
@@ -313,10 +337,10 @@
       ]
     },
     "자동차산업": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T01:12:00+09:00",
-      "lastSeen": "2026-09-19T01:12:00+09:00",
+      "lastSeen": "2026-09-19T01:40:00+09:00",
       "news": [
         {
           "title": "中 전기차 판매 비중 35%…“생산 연계 세액공제 서둘러야”",
@@ -339,10 +363,10 @@
       ]
     },
     "이선민": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T01:12:00+09:00",
-      "lastSeen": "2026-09-19T01:12:00+09:00",
+      "lastSeen": "2026-09-19T01:40:00+09:00",
       "news": [
         {
           "title": "'대세' 이선민, '가성비 인간'의 쇼핑법 [나혼산]",
@@ -365,10 +389,10 @@
       ]
     },
     "지창욱": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T01:12:00+09:00",
-      "lastSeen": "2026-09-19T01:12:00+09:00",
+      "lastSeen": "2026-09-19T01:40:00+09:00",
       "news": [
         {
           "title": "지창욱, 바쁜 스케줄에 ‘인간관계’ 뚝..“아무도 연락 NO, 외톨이 됐다” (‘비서진’) - 조선비즈",
@@ -386,6 +410,64 @@
           "title": "'비서진' 이서진, 나나 밥 사준 일화 공개…\"팬들 식사까지\"",
           "url": "https://www.news1.kr/entertain/broadcast-tv/6295823",
           "source": "뉴스1",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "'비서진' 이서진 \"손예진 제일 예뻐!\"…'스캔들' 제발회 깜짝 만남",
+          "url": "https://v.daum.net/v/20260918235638259",
+          "source": "Daum",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "마이크론 테크놀로지": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-19T01:40:00+09:00",
+      "lastSeen": "2026-09-19T01:40:00+09:00",
+      "news": [
+        {
+          "title": "Micron Gains 1.4% as 512GB Module Raises the AI Memory Ceiling",
+          "url": "https://finance.yahoo.com/technology/ai/articles/micron-gains-1-4-512gb-152828297.html",
+          "source": "Yahoo Finance",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Micron Technology Has Just Shared Great News (NASDAQ:MU)",
+          "url": "https://seekingalpha.com/article/4947243-micron-technology-has-just-shared-great-news",
+          "source": "Seeking Alpha",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Micron announces 512GB DDR5-9200 memory modules with 16W power draw — up to 12TB per server, claims 60% less energy-intensive than four 128GB modules",
+          "url": "https://www.tomshardware.com/pc-components/dram/micron-announces-512gb-ddr5-9200-memory-modules-with-16w-power-draw-up-to-12tb-per-server-claims-60-percent-less-energy-intensive-than-four-128gb-modules",
+          "source": "Tom's Hardware",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "두산": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T01:40:00+09:00",
+      "lastSeen": "2026-09-19T01:40:00+09:00",
+      "news": [
+        {
+          "title": "두산로보틱스, 신임 CEO에 권영민 두산모트롤 대표 선임 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/18/2026091816233984259",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[경제계 인사] 두산로보틱스 신임 CEO에 권영민",
+          "url": "https://www.chosun.com/economy/industry-company/2026/09/19/JNKIYWJ4ANFFLNQ6E642VDVOD4/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "두산로보틱스 신임 최고경영자(CEO)으로 권영민 사장 선임",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447612",
+          "source": "비즈니스포스트",
           "date": "2026-09-18"
         }
       ]
