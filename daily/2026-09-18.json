@@ -3670,10 +3670,10 @@
       ]
     },
     "필리핀 u-23 축구 국가대표팀 대 베트남 u-23": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T16:41:00+09:00",
-      "lastSeen": "2026-09-18T16:41:00+09:00",
+      "lastSeen": "2026-09-18T17:14:00+09:00",
       "news": [
         {
           "title": "김상식 없으니 약하네…베트남 축구, AG 첫 경기서 쿠웨이트에 졸전 끝 무승부 [나고야 AG]",
@@ -3696,10 +3696,10 @@
       ]
     },
     "교장": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T16:41:00+09:00",
-      "lastSeen": "2026-09-18T16:41:00+09:00",
+      "lastSeen": "2026-09-18T17:14:00+09:00",
       "news": [
         {
           "title": "교단에 선 산울학교 교장… 초·중 경계 허문 '수업 나눔'",
@@ -3718,14 +3718,26 @@
           "url": "https://www.sjsori.com/news/articleView.html?idxno=88710",
           "source": "세종의소리",
           "date": "2026-09-18"
+        },
+        {
+          "title": "“오레된 빗을 갑푸려 합니다”…48년 전 500원→500만원 보답",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1277853.html",
+          "source": "한겨레",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "“48년전 빚 갑푸려 합니��” 역 찾은 ‘난곡동 할매’",
+          "url": "https://www.donga.com/news/People/article/all/20260915/134668242/1",
+          "source": "동아일보",
+          "date": "2026-09-18"
         }
       ]
     },
     "상장지수 펀드": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T16:41:00+09:00",
-      "lastSeen": "2026-09-18T16:41:00+09:00",
+      "lastSeen": "2026-09-18T17:14:00+09:00",
       "news": [
         {
           "title": "미래운용 \"미국 대표지수 커버드콜 ETF 2종 순자산 3조원 돌파\"",
@@ -3743,6 +3755,169 @@
           "title": "미래에셋운용, 'TIGER 미국 대표지수 커버드콜 ETF' 2종 순자산 3조 돌파",
           "url": "https://core.asiae.co.kr/article/2026091709110389213",
           "source": "아시아경제",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "여자 축구": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T17:14:00+09:00",
+      "lastSeen": "2026-09-18T17:14:00+09:00",
+      "news": [
+        {
+          "title": "'골골골골골골골골골골골' 韓 자비란 없었다, '18-0' 북한까지 넘어버리나…\"특별 팀 미팅도 진행했다, 실수 적은 팀이 이긴다\" [MD나고야]",
+          "url": "https://v.daum.net/v/20260918070251874",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[아시안게임] 한국 여자축구, 방글라데시 6-0 제압…2연승·8강 확정(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260917184051007",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[오늘의 영상] 이런 게 진짜 ‘합작 골’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8666604",
+          "source": "KBS 뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "이단": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T17:14:00+09:00",
+      "lastSeen": "2026-09-18T17:14:00+09:00",
+      "news": [
+        {
+          "title": "예장합동, 지난해 이어 '정동수 이단' 재확인",
+          "url": "https://v.daum.net/v/20260918162407840",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[11신] 정동수 ‘이단’ 재결의, 성경총회 ‘이단’ 규정",
+          "url": "https://www.kidok.com/news/articleView.html?idxno=508802",
+          "source": "기독신문",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[고신5] 예장고신, 정동수 목사 이단 규정",
+          "url": "https://www.newsnjoy.or.kr/news/articleView.html?idxno=400753",
+          "source": "뉴스앤조이",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "l-sam": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T17:14:00+09:00",
+      "lastSeen": "2026-09-18T17:14:00+09:00",
+      "news": [
+        {
+          "title": "Hanwha Systems, UAE's EDGE Group to team up on integrated air defense network",
+          "url": "https://en.yna.co.kr/view/AEN20260917002900320",
+          "source": "Yonhap News Agency",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "L-SAM Gets Green Light for First Export",
+          "url": "https://www.mk.co.kr/en/business/12155719",
+          "source": "매일경제",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Hanwha to Establish UAE as Strategic Base... Teams Up with EDGE Group to Build Integrated Air Defense Network",
+          "url": "https://www.asiae.co.kr/en/article/2026091708454629060",
+          "source": "아시아경제",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "đội tuyển bóng đá u-23 quốc gia philippines đấu với u-23 việt nam": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T17:14:00+09:00",
+      "lastSeen": "2026-09-18T17:14:00+09:00",
+      "news": [
+        {
+          "title": "Việt Nam - Kuwait: Chờ tin thắng trận của đội U23 ở ASIAD 2026",
+          "url": "https://vnexpress.net/viet-nam-kuwait-cho-tin-thang-tran-cua-doi-u23-o-asiad-2026-5120508.html",
+          "source": "VnExpress",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Lịch thi đấu Asian Games ngày 18/9 của Đoàn thể thao Việt Nam",
+          "url": "https://www.vietnam.vn/lich-thi-dau-asian-games-ngay-18-9-cua-doan-the-thao-viet-nam",
+          "source": "Vietnam.vn",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Trực tiếp bóng đá U23 Việt Nam 1-0 U23 Philippines: Thanh Nhàn mở tỉ số",
+          "url": "https://laodong.vn/the-thao/truc-tiep-bong-da-u23-viet-nam-1-0-u23-philippines-thanh-nhan-mo-ti-so-1768715.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "병무청": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-18T17:14:00+09:00",
+      "lastSeen": "2026-09-18T17:14:00+09:00",
+      "news": []
+    },
+    "도플 갱어": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-18T17:14:00+09:00",
+      "lastSeen": "2026-09-18T17:14:00+09:00",
+      "news": [
+        {
+          "title": "‘신병4’, 4.6% 최고 또 경신…평온해서 더 수상하다 '떡밥들'",
+          "url": "https://v.daum.net/v/20260918092148478",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "한가인, 김동준과 '도플갱어' 된 이유 찾았다...\"알고 보니 외할아버지가 똑같이 생겼어?\" ('자유부인')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/18/HAYGGYZYMVRGEZBZGBRDKNJXGE/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "한가인, 드라마 촬영장 '8년 만'에 복귀…새벽 출근길에 \"그래 이 느낌이었어\"",
+          "url": "https://www.koreadaily.com/article/20260917035745667",
+          "source": "미주중앙일보",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "수지": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T17:14:00+09:00",
+      "lastSeen": "2026-09-18T17:14:00+09:00",
+      "news": [
+        {
+          "title": "수지라고? 뼈말라에 올백 '믿기지 않은 미모 경신' [핫피플]",
+          "url": "https://v.daum.net/v/20260918141007432",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[똑똑한나들이] 아누아, 하이원리조트, 파라다이스 호텔 부산, 이랜드파크 코럴 오션 리조트 사이판",
+          "url": "https://www.ekn.kr/web/view.php?key=20260918023136561",
+          "source": "에너지경제신문",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "아누아, 올리브영N 성수서 ‘PDRN 팝업스토어’ 운영… 29일까지 - 조선비즈",
+          "url": "https://biz.chosun.com/industry/business_info/2026/09/18/JRCXKNQPHNEDJCAIYE6C3L2AU4/",
+          "source": "Chosunbiz",
           "date": "2026-09-18"
         }
       ]
