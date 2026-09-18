@@ -3426,10 +3426,10 @@
       ]
     },
     "미국 증권거래위원회": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-18T16:13:00+09:00",
-      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:41:00+09:00",
       "news": [
         {
           "title": "70조달러 美 증시 문 열렸다… 상장 주식도 블록체인 거래",
@@ -3452,10 +3452,10 @@
       ]
     },
     "하이 록스": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-18T16:13:00+09:00",
-      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:41:00+09:00",
       "news": [
         {
           "title": "中서 배변사고에도 대회 우승 호주여성…현지 음료 때문에 배탈?",
@@ -3474,14 +3474,20 @@
           "url": "https://www.yonhapnewstv.co.kr/news/AKR20260918140253l0k",
           "source": "연합뉴스TV",
           "date": "2026-09-18"
+        },
+        {
+          "title": "'배변 사고' 하이록스 위상 '흔들'…\"일관된 규칙 정립해야\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03712966645581432",
+          "source": "마켓인",
+          "date": "2026-09-18"
         }
       ]
     },
     "정구": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T16:13:00+09:00",
-      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:41:00+09:00",
       "news": [
         {
           "title": "\"태극기는 안 됩니다\"...日, 나고야 입성 한국 선수단 막아",
@@ -3500,14 +3506,26 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8667120",
           "source": "KBS 뉴스",
           "date": "2026-09-18"
+        },
+        {
+          "title": "“태극기 왜 막아?”…신유빈·서승재, 日제지에 입국장서 태극기 못 들어",
+          "url": "https://v.daum.net/v/20260918120407129",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "기념촬영 하는 박천종 선수단장",
+          "url": "https://mobile.newsis.com/photo/NISI20260918_0021443301",
+          "source": "뉴시스",
+          "date": "2026-09-18"
         }
       ]
     },
     "리트리버": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T16:13:00+09:00",
-      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:41:00+09:00",
       "news": [
         {
           "title": "도둑 쫓지 않고 장난감 놀이…'직무유기' 반려견 딱 걸렸다",
@@ -3530,10 +3548,10 @@
       ]
     },
     "재산": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T16:13:00+09:00",
-      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:41:00+09:00",
       "news": [
         {
           "title": "[단독] 대법, ’최태원-노소영 재산분할’ 재상고 접수…崔 인지대 8억 납부",
@@ -3552,14 +3570,26 @@
           "url": "https://news.jtbc.co.kr/article/NB12319020",
           "source": "JTBC",
           "date": "2026-09-18"
+        },
+        {
+          "title": "최태원, 노소영 이혼소송 재상고...인지대 8억5천만원 납부",
+          "url": "https://www.kyeonggi.com/article/20260918580177",
+          "source": "경기일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "최태원, 노소영 이혼 재상고 인지대 8억 부담…대법원 사건접수",
+          "url": "https://www.newsis.com/view/NISX20260918_0003795564",
+          "source": "뉴시스",
+          "date": "2026-09-18"
         }
       ]
     },
     "수학": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-18T16:13:00+09:00",
-      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:41:00+09:00",
       "news": [
         {
           "title": "[단독] ‘수학 학원’ 생각하는황소, 개인정보 유출 정황… “해커 침입 확인” - 조선비즈",
@@ -3578,14 +3608,20 @@
           "url": "https://www.boannews.com/news/articleView.html?idxno=145947",
           "source": "보안뉴스",
           "date": "2026-09-18"
+        },
+        {
+          "title": "수학학원 ‘생각하는황소’ 시험 예약사이트 해킹…“정보 유출된 듯”",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260918.99099006379",
+          "source": "국제신문",
+          "date": "2026-09-18"
         }
       ]
     },
     "이예빈": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-18T16:13:00+09:00",
-      "lastSeen": "2026-09-18T16:13:00+09:00",
+      "lastSeen": "2026-09-18T16:41:00+09:00",
       "news": [
         {
           "title": "‘뜻밖의 건망증?’ kt 이예빈 치어리더...재빠른 깨달음으로 상황 수습! [SS리플레이]",
@@ -3629,6 +3665,84 @@
           "title": "포스코 노조, 내홍 속 파업 확대…\"교섭 뒷전, 선거용 해석\" 지적도",
           "url": "https://www.newsis.com/view/NISX20260917_0003793327",
           "source": "뉴시스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "필리핀 u-23 축구 국가대표팀 대 베트남 u-23": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T16:41:00+09:00",
+      "lastSeen": "2026-09-18T16:41:00+09:00",
+      "news": [
+        {
+          "title": "김상식 없으니 약하네…베트남 축구, AG 첫 경기서 쿠웨이트에 졸전 끝 무승부 [나고야 AG]",
+          "url": "https://v.daum.net/v/20260915214007127?f=p",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "8강 진출권을 따내겠다는 각오로 임하고 있다.",
+          "url": "https://www.vietnam.vn/ko/quyet-gianh-tam-ve-vao-tu-ket",
+          "source": "Vietnam.vn",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "U-23 베트남, 필리���의 스로인 ‘비밀 병기’ 막을 특별 전술 훈련",
+          "url": "https://chaovietnam.co.kr/188434/",
+          "source": "씬짜오베트남",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "교장": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T16:41:00+09:00",
+      "lastSeen": "2026-09-18T16:41:00+09:00",
+      "news": [
+        {
+          "title": "교단에 선 산울학교 교장… 초·중 경계 허문 '수업 나눔'",
+          "url": "https://v.daum.net/v/20260918141650666",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "'진정한 사랑' 주제로 교장 직접 수업…초등 5학년 북토크 열려",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7184912",
+          "source": "주간한국",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "초·중통합학교의 힘, 교장선생님이 초��학생과 함께한 특별한 북토크 수업",
+          "url": "https://www.sjsori.com/news/articleView.html?idxno=88710",
+          "source": "세종의소리",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "상장지수 펀드": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T16:41:00+09:00",
+      "lastSeen": "2026-09-18T16:41:00+09:00",
+      "news": [
+        {
+          "title": "미래운용 \"미국 대표지수 커버드콜 ETF 2종 순자산 3조원 돌파\"",
+          "url": "https://www.yna.co.kr/view/AKR20260917054700008",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "미래에셋운용, 美 대표지수 커버드콜 ETF 2종 순자산 3조원 돌파",
+          "url": "https://www.viva100.com/article/20260917500631",
+          "source": "브릿지경제",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "미래에셋운용, 'TIGER 미국 대표지수 커버드콜 ETF' 2종 순자산 3조 돌파",
+          "url": "https://core.asiae.co.kr/article/2026091709110389213",
+          "source": "아시아경제",
           "date": "2026-09-18"
         }
       ]
