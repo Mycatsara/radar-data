@@ -4497,10 +4497,10 @@
       ]
     },
     "레지던트 이블: 0번째 밤": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T19:13:00+09:00",
-      "lastSeen": "2026-09-18T19:41:00+09:00",
+      "lastSeen": "2026-09-18T20:12:00+09:00",
       "news": [
         {
           "title": "[시네프리뷰] 레지던트 이블: 0번째 밤-장르 너무 잘 아는 ‘겜덕’ 감독이 연출을 맡았을 때",
@@ -4523,10 +4523,10 @@
       ]
     },
     "유니온 알파": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T19:13:00+09:00",
-      "lastSeen": "2026-09-18T19:41:00+09:00",
+      "lastSeen": "2026-09-18T20:12:00+09:00",
       "news": [
         {
           "title": "스텔스 모델 '유니온 알파' 등장...\"페이블 5급 성능\"",
@@ -4787,10 +4787,10 @@
       ]
     },
     "무": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-09-18T19:41:00+09:00",
-      "lastSeen": "2026-09-18T19:41:00+09:00",
+      "lastSeen": "2026-09-18T20:12:00+09:00",
       "news": [
         {
           "title": "‘외국인’이 불붙인 K뷰티 2차전…4년 전 왕좌 오른 올리브영에 ‘다무’ 도전장",
@@ -4808,6 +4808,175 @@
           "title": "샤르드, 무신사온누리약국 입점으로 약�� 유통 확대",
           "url": "https://www.lawissue.co.kr/view.php?ud=202609180932531026204ead0791_12",
           "source": "로이슈",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "톰, 약국 진출 6개월 만에 300곳으로 확대…무신사 뷰티 홍대 입점",
+          "url": "http://www.greened.kr/news/articleView.html?idxno=350285",
+          "source": "녹색경제신문",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "xsmn": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T20:12:00+09:00",
+      "lastSeen": "2026-09-18T20:12:00+09:00",
+      "news": [
+        {
+          "title": "Kết quả xổ số miền Trung hôm nay 18.9: Gia Lai, Ninh Thuận",
+          "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-189-gia-lai-ninh-thuan-1768916.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "XSGL 18/9 - Kết quả xổ số Gia Lai hôm nay thứ Sáu 18/9/2026",
+          "url": "https://vtcnews.vn/xsgl-18-9-ket-qua-xo-so-gia-lai-hom-nay-thu-sau-18-9-2026-ar1040401.html",
+          "source": "Báo điện tử VTC News",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "XSMT 18/9 - Kết quả xổ số miền Trung ngày 18/9/2026",
+          "url": "https://giaoducthoidai.vn/xsmt-189-ket-qua-xo-so-mien-trung-ngay-1892026-post792944.html",
+          "source": "Báo Giáo dục và Thời đại Online",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "박유나": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T20:12:00+09:00",
+      "lastSeen": "2026-09-18T20:12:00+09:00",
+      "news": [
+        {
+          "title": "박유나·배정남, ‘사랑이 온다’ 인기 견인",
+          "url": "https://www.ytn.co.kr/_ln/0117_202609181133192205",
+          "source": "YTN",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "배정남의 재발견, 한량 아닌 유명 포토그래퍼",
+          "url": "https://sports.khan.co.kr/article/202609161029003",
+          "source": "스포츠경향",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "박유나·배��남, '사랑이 온다' 상승세 속 빛나는 존재감",
+          "url": "https://v.daum.net/v/PJ3l0kLxld",
+          "source": "Daum",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "구윤철": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T20:12:00+09:00",
+      "lastSeen": "2026-09-18T20:12:00+09:00",
+      "news": [
+        {
+          "title": "고속도 기름값 L당 100원 인하에, 동네주유소 “문 닫으라는 거냐”",
+          "url": "https://v.daum.net/v/20260918151607925",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[이슈5] 유류세 인하 두 달 연장…추석 고속도로 기름값도↓ 外",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260918193118BYi",
+          "source": "연합뉴스TV",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "석유 최고가격 4주 더 동결…유가 급등했지만 민생안정 방점",
+          "url": "https://www.yna.co.kr/view/AKR20260918157200003",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "kfa": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T20:12:00+09:00",
+      "lastSeen": "2026-09-18T20:12:00+09:00",
+      "news": []
+    },
+    "에코프로 비엠": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-18T20:12:00+09:00",
+      "lastSeen": "2026-09-18T20:12:00+09:00",
+      "news": [
+        {
+          "title": "에코프로비엠, K-양극재 최초 中 CATL 뚫는다",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=62506",
+          "source": "디일렉",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "에코프로비엠, 증자 8861억도 상단…주가가 먼저 잘라낸 곳",
+          "url": "https://www.leadeconomy.co.kr/news/articleView.html?idxno=9833",
+          "source": "리드경제",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[장중수급포착] 대한광통신, 외국인/기관 동시 순매수… 주가 +13.33%",
+          "url": "https://www.newspim.com/news/view/20260918000556",
+          "source": "뉴스핌",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "아시안게임 일정": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T20:12:00+09:00",
+      "lastSeen": "2026-09-18T20:12:00+09:00",
+      "news": [
+        {
+          "title": "[아시안게임] '66점 차 대승' 여자농구 박수호 감독 \"컨디션 회복 중점\"",
+          "url": "https://v.daum.net/v/20260918123238822?f=p",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "‘태극마크’ 품고 고향으로…재일교포 홍유순 투혼의 데뷔전 [현장영상]",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8667329",
+          "source": "KBS 뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[엠빅뉴스] 12년 만의 금메달 도전! 쾌조의 스타트! 66점차 대승!!",
+          "url": "https://imnews.imbc.com/original/mbig/6852788_29041.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "진에어": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-18T20:12:00+09:00",
+      "lastSeen": "2026-09-18T20:12:00+09:00",
+      "news": [
+        {
+          "title": "진에어, 인천~中이창 취항…내달 12일부터 주 4회로",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04795366645581432",
+          "source": "마켓인",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "진에어, 인천~이창 신규 취항…중국 노선 확대",
+          "url": "https://www.etoday.co.kr/news/view/2627137",
+          "source": "이투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "진에어, 中 후베이성 이창 하늘길 열었다",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=854194",
+          "source": "뉴스웍스",
           "date": "2026-09-18"
         }
       ]
