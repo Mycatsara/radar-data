@@ -2486,10 +2486,10 @@
       ]
     },
     "1기 신도시": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T13:13:00+09:00",
-      "lastSeen": "2026-09-18T13:13:00+09:00",
+      "lastSeen": "2026-09-18T13:41:00+09:00",
       "news": [
         {
           "title": "‘매매 16억, 전세 7억’ 서울 뜹니다… 상반기 23만명 ‘탈서울’",
@@ -2512,10 +2512,10 @@
       ]
     },
     "미프진": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T13:13:00+09:00",
-      "lastSeen": "2026-09-18T13:13:00+09:00",
+      "lastSeen": "2026-09-18T13:41:00+09:00",
       "news": [
         {
           "title": "먹는 낙태약, 어떤 의사가 누구에게 어떻게 처방하나",
@@ -2538,10 +2538,10 @@
       ]
     },
     "고양이": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T13:13:00+09:00",
-      "lastSeen": "2026-09-18T13:13:00+09:00",
+      "lastSeen": "2026-09-18T13:41:00+09:00",
       "news": [
         {
           "title": "100여년 만에 발견된 신종 고양잇과 동물...약 46cm 몸길이에 무게는 약 1.4kg",
@@ -2564,10 +2564,10 @@
       ]
     },
     "군사기밀": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T13:13:00+09:00",
-      "lastSeen": "2026-09-18T13:13:00+09:00",
+      "lastSeen": "2026-09-18T13:41:00+09:00",
       "news": [
         {
           "title": "중국에 1천700만원 받고 군사기밀 넘긴 병사…징역 4년 확정",
@@ -2590,10 +2590,10 @@
       ]
     },
     "맘스터치 청사초롱": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-18T13:13:00+09:00",
-      "lastSeen": "2026-09-18T13:13:00+09:00",
+      "lastSeen": "2026-09-18T13:41:00+09:00",
       "news": [
         {
           "title": "맘스터치, 추석 맞이 이벤트 진행… 특별 굿즈 가격은?",
@@ -2616,10 +2616,10 @@
       ]
     },
     "주가": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-18T13:13:00+09:00",
-      "lastSeen": "2026-09-18T13:13:00+09:00",
+      "lastSeen": "2026-09-18T13:41:00+09:00",
       "news": [
         {
           "title": "“주가 41% 빠졌는데 실적은 사상 최대…삼성전기, 저가매수 기회”",
@@ -2637,6 +2637,12 @@
           "title": "“업황은 신고가, 주가는 저평가”…삼성전기, 역대급 실적 전망[오늘 나온 보고서]",
           "url": "https://stock.mk.co.kr/news/view/1161709",
           "source": "매일경제 마켓",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"300만원 간다\" 삼성전기, 전고점서 41% 빠졌지만 실적 역대 최대…두산, 목표가 275만원↑ [株토피아]",
+          "url": "https://v.daum.net/v/20260918110329589",
+          "source": "Daum",
           "date": "2026-09-18"
         }
       ]
@@ -2715,6 +2721,110 @@
           "title": "KB국민카드, '도쿄 마라톤 2027' 출전권 이벤트",
           "url": "https://www.newspim.com/news/view/20260917001123",
           "source": "뉴스핌",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "황석정": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-18T13:41:00+09:00",
+      "lastSeen": "2026-09-18T13:41:00+09:00",
+      "news": [
+        {
+          "title": "황석정 \"'호프' 외계인, 사타구니에 손이 절로\"..스태프 경악한 애드리브 연기 [절에 간 성경]",
+          "url": "https://v.daum.net/v/20260918012237834",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "황석정 \"온몸 불타는 고통 겪어…신병 온 줄 알았다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/18/2026091810195539351",
+          "source": "머니투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "황���정, 영화 '호프' 비화 밝혀 \"나홍진 감독과 소통 없어\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/17/GY4DQNLBGQ3GMMTFGU3WMNBSGQ/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "gpt-5.6": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T13:41:00+09:00",
+      "lastSeen": "2026-09-18T13:41:00+09:00",
+      "news": [
+        {
+          "title": "Our framework for reporting model misalignment",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework/",
+          "source": "OpenAI",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+          "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+          "source": "The New York Times",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "OpenAI Reports New AI Safety Incidents, Sets Disclosure Plan",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-16/openai-reports-new-ai-safety-incidents-sets-disclosure-process",
+          "source": "Bloomberg.com",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "삼전닉스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T13:41:00+09:00",
+      "lastSeen": "2026-09-18T13:41:00+09:00",
+      "news": [
+        {
+          "title": "뉴욕증시, 금리인상 여파 소화하며 반등…나스닥 1.7%↑(종합)",
+          "url": "https://v.daum.net/v/20260918063842507",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "[특징주] 삼전닉스 급등에 반도체 소부장도 강세",
+          "url": "https://www.yna.co.kr/view/AKR20260918040600008",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "반도체주 강세��� 코스피 2%대 상승 출발‥삼성전자 2%↑·SK하이닉스 4%↑",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6852698_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "부산 상어": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T13:41:00+09:00",
+      "lastSeen": "2026-09-18T13:41:00+09:00",
+      "news": [
+        {
+          "title": "[속보]북항 친수공원 해변에 상어가? 3~4m 상어 목격",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260918.99099006190",
+          "source": "국제신문",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "부산 북항 친수공원에 3m 넘는 상어 출몰… 해경 출동",
+          "url": "https://www.chosun.com/national/regional/2026/09/18/6Z7RFEHZSRAARELD5B47R7K7VE/",
+          "source": "조선일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "부산 앞바다에 3m 상어가 나타났다…산책로 턱밑 대응 중(종합)",
+          "url": "https://v.daum.net/v/20260918113900923",
+          "source": "Daum",
           "date": "2026-09-18"
         }
       ]
