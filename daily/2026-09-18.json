@@ -5006,10 +5006,10 @@
       ]
     },
     "두산에너 빌리티": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-18T20:40:00+09:00",
-      "lastSeen": "2026-09-18T21:16:00+09:00",
+      "lastSeen": "2026-09-18T21:45:00+09:00",
       "news": [
         {
           "title": "반토막 난 '텐배거' 두산에너빌리티⋯대미투자에 다시 쏠린 눈",
@@ -5136,10 +5136,10 @@
       ]
     },
     "청하": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T21:16:00+09:00",
+      "lastSeen": "2026-09-18T21:45:00+09:00",
       "news": [
         {
           "title": "청하, 오늘(18일) 새벽 응급실 이송…소속사 결별 앞두고 연속 악재 [Oh!쎈 이슈]",
@@ -5158,14 +5158,20 @@
           "url": "https://www.newsis.com/view/NISX20260918_0003795760",
           "source": "뉴시스",
           "date": "2026-09-18"
+        },
+        {
+          "title": "청하, 18일 새벽 응급실 이송…\"경기대 축제 공연 불참\"",
+          "url": "https://www.dispatch.co.kr/2348134",
+          "source": "디스패치",
+          "date": "2026-09-18"
         }
       ]
     },
     "특별감찰관": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T21:16:00+09:00",
+      "lastSeen": "2026-09-18T21:45:00+09:00",
       "news": [
         {
           "title": "최길수, '김현지 실장 감찰'에 \"법상 수석비서관 이상만 대상\"(종합)",
@@ -5184,14 +5190,20 @@
           "url": "https://www.hani.co.kr/arti/society/society_general/1278508.html",
           "source": "한겨레",
           "date": "2026-09-18"
+        },
+        {
+          "title": "특별감찰관 청문회 여야공방…\"尹정부 감찰도\"·\"김현지도 조사\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260918092451001",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
         }
       ]
     },
     "배그": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T21:16:00+09:00",
+      "lastSeen": "2026-09-18T21:45:00+09:00",
       "news": [
         {
           "title": "미디어웹, Npay와 'CBL: PUBG' 랭킹전 개최… 마일리지 및 경",
@@ -5214,10 +5226,10 @@
       ]
     },
     "m": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T21:16:00+09:00",
+      "lastSeen": "2026-09-18T21:45:00+09:00",
       "news": [
         {
           "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore's Palestine comments",
@@ -5240,10 +5252,10 @@
       ]
     },
     "전투기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T21:16:00+09:00",
+      "lastSeen": "2026-09-18T21:45:00+09:00",
       "news": [
         {
           "title": "[르포] \"KF-21 월 2대 이상\"…전투기·헬기 넘어 우주까지 뻗어가는 KAI",
@@ -5266,10 +5278,10 @@
       ]
     },
     "south korea": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-18T21:16:00+09:00",
-      "lastSeen": "2026-09-18T21:16:00+09:00",
+      "lastSeen": "2026-09-18T21:45:00+09:00",
       "news": [
         {
           "title": "\"What on Earth Is This From the First Match...\" An Incident That Flustered South Korean Athletes",
@@ -5287,6 +5299,18 @@
           "title": "South Korea's Anthem Replaced by North Korea's at Asian Games",
           "url": "https://www.chosun.com/english/sports-en/2026/09/18/AOIVXQYSMBF6TEQ56AHRPFGYT4/",
           "source": "조선일보",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Korea men’s basketball routs Iran, reaches Asian Games final - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-sports/2026/09/18/ETBOIJ72KJGYLKGKWLCZXJYE2U/",
+          "source": "Chosunbiz",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"I Want to Win Every Game as a National Representative\"... Ace Lee Hyun-jung's Resolve Ahead of the Final",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008760907",
+          "source": "SBS 뉴스",
           "date": "2026-09-18"
         }
       ]
@@ -5313,6 +5337,65 @@
           "title": "손예진이 얼마나 좋으면…광고주도 응원 \"'스캔들' 보며 감탄해보세요\" - 조선비즈",
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/18/GJQWMMZWGRRGKN3BGMYDAZLCHE/",
           "source": "Chosunbiz",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "경상남도": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T21:45:00+09:00",
+      "lastSeen": "2026-09-18T21:45:00+09:00",
+      "news": []
+    },
+    "xsmb": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-18T21:45:00+09:00",
+      "lastSeen": "2026-09-18T21:45:00+09:00",
+      "news": [
+        {
+          "title": "Kết quả xổ số miền Trung hôm nay 18.9: Gia Lai, Ninh Thuận",
+          "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-189-gia-lai-ninh-thuan-1768916.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "XSMB 18/9 - Kết quả xổ số miền Bắc hôm nay ngày 18/9/2026",
+          "url": "https://giaoducthoidai.vn/xsmb-189-ket-qua-xo-so-mien-bac-hom-nay-ngay-1892026-post792943.html",
+          "source": "Báo Giáo dục và Thời đại Online",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "XSGL 18/9 - Kết quả xổ số Gia Lai hôm nay thứ Sáu 18/9/2026",
+          "url": "https://vtcnews.vn/xsgl-18-9-ket-qua-xo-so-gia-lai-hom-nay-thu-sau-18-9-2026-ar1040401.html",
+          "source": "Báo điện tử VTC News",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "리센느 빵": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-18T21:45:00+09:00",
+      "lastSeen": "2026-09-18T21:45:00+09:00",
+      "news": [
+        {
+          "title": "민음사빵 대항마 리센느빵 나온다…치열해진 편의점빵 경쟁",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03840886645581104&mediaCodeNo=257",
+          "source": "이데��리",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "\"원이가 좋아하는 맛 그대로\"…CU, 리센느 빵 5종 출시",
+          "url": "https://zdnet.co.kr/view/?no=20260915091011",
+          "source": "지디넷코리아",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "CU, 리센느와 브랜드 마케팅 \"원이가 할인상품을 알려줘요\" [편의점 이야기]",
+          "url": "https://v.daum.net/v/20260916160313528",
+          "source": "Daum",
           "date": "2026-09-18"
         }
       ]
