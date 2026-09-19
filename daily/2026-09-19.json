@@ -3416,6 +3416,266 @@
           "date": "2026-09-19"
         }
       ]
+    },
+    "펀더멘털": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T15:16:00+09:00",
+      "lastSeen": "2026-09-19T15:16:00+09:00",
+      "news": [
+        {
+          "title": "\"달러-원, 단기 반등 후 펀더멘털 반영해 1,200원대로 하락할 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435749",
+          "source": "연합인포맥스",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "“원화는 단기 약세, 엔화는 지속 강세”…환율 디커플링 전망 이유는",
+          "url": "https://v.daum.net/v/20260918104205391",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "김민 스테이트스트리트 �� 대표 \"미 연준 행보, 환율·한은 정책과 직결\"",
+          "url": "https://www.etoday.co.kr/news/view/2626948",
+          "source": "이투데이",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "네이버": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-19T15:16:00+09:00",
+      "lastSeen": "2026-09-19T15:16:00+09:00",
+      "news": [
+        {
+          "title": "[AI프리즘] \"킬 스위치는 우리 손에\"…국방 AI 주권론",
+          "url": "https://v.daum.net/v/zNMSQGhD1s",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "“쓰리스타 출근하셨습니다” 한국판 팔란티어 노리는 네이버",
+          "url": "https://www.joongang.co.kr/article/25460807",
+          "source": "중앙일보",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "[단독] 삼성, 3000억 軍 차세대 지휘통제사업 정조준",
+          "url": "https://www.sedaily.com/article/20092774",
+          "source": "서울경제",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "지진희": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T15:16:00+09:00",
+      "lastSeen": "2026-09-19T15:16:00+09:00",
+      "news": [
+        {
+          "title": "지진희, 조업 현장서 \"속옷 안 가져왔다\"는 노윤서에 분노 '폭소'",
+          "url": "https://v.daum.net/v/20260918143244356",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "'언니네 산지직송3' 지진희, 염정아 보러 왔다가 노동 지옥…시청률 상승 3.1% [종합] - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/18/2026091809057240377",
+          "source": "머니투데이",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "지진희, 4톤 노지장어 잡고 기빨렸다…‘산지직송3’ 최고 4.2% 동시간대 1위 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/18/GMYGGNDCMQZDQOLBHA3GCNZXGY/",
+          "source": "Chosunbiz",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "대한민국의 법무부 장관": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T15:16:00+09:00",
+      "lastSeen": "2026-09-19T15:16:00+09:00",
+      "news": [
+        {
+          "title": "‘태어났지만 텅 빈 주민번호’, 김남희 의원의 질문",
+          "url": "https://www.ohmynews.com/NWS_Web/View/mov_pg.aspx?CNTN_CD=ME000116144",
+          "source": "OhmyNews",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "아이 낳고 떠난 아빠, 지금 한국서 벌어지는 'K-코피노'",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003265238",
+          "source": "OhmyNews",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "법무부장관 후보님, '이상한 나라의 엄마'를 아시나요?",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003267660",
+          "source": "OhmyNews",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "이정후": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-19T15:16:00+09:00",
+      "lastSeen": "2026-09-19T15:16:00+09:00",
+      "news": [
+        {
+          "title": "이정후, 솔로아치로 시즌 10호…미국 진출 후 첫 두 자릿수 홈런",
+          "url": "https://www.yna.co.kr/view/AKR20260919039300007",
+          "source": "연합뉴스",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "이정후, MLB 진출 3년 만에 첫 두 자릿수 홈런",
+          "url": "https://www.hani.co.kr/arti/sports/baseball/1278603.html",
+          "source": "한겨레",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "이정후, 다저스전서 시즌 10호포 '쾅'…MLB 데뷔 첫 두 자릿수 홈런",
+          "url": "https://www.newsis.com/view/NISX20260919_0003796554",
+          "source": "뉴시스",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "拓元": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T15:16:00+09:00",
+      "lastSeen": "2026-09-19T15:16:00+09:00",
+      "news": [
+        {
+          "title": "AAA今天13:00全面開賣懶人包／拓元藏1規則　3動作超重要沒做沒票",
+          "url": "https://www.nownews.com/news/6875805",
+          "source": "NOWnews今日新聞",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "子瑜要回台灣了！露面暖心甜喊：我們到時見囉",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5577966",
+          "source": "自由娛樂",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "周子瑜成JYP首位台灣人出道！20歲奪冠全球百大美顏 IG追蹤超越周杰倫",
+          "url": "https://news.videoland.com.tw/article/b181447d-83d1-4f64-bd6b-09a0e4c2d8e3.html",
+          "source": "緯來新聞網",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "서효림": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-19T15:16:00+09:00",
+      "lastSeen": "2026-09-19T15:16:00+09:00",
+      "news": [
+        {
+          "title": "서효림 \"故김수미 팔아서 김치 판다는 시선 두려웠다\" 눈물 ('정혜드림') [순간포착]",
+          "url": "https://v.daum.net/v/20260919100007084",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "서효림, 故 김수미 김치 사업 잇다 결국 오열 \"돌아가신 시母 팔아먹는다는 시선에\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-19/202609190100129370008389",
+          "source": "스포츠조선",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "서효림 \"故김수미 팔아서 김치 판다는 시선 두려웠다\" 눈물 ('정혜드림') [순간포착]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/19/GJRDQZTFGJRGMOBRGA2TCYRXGQ/",
+          "source": "조선일보",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "원자폭탄": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T15:16:00+09:00",
+      "lastSeen": "2026-09-19T15:16:00+09:00",
+      "news": [
+        {
+          "title": "[임채경의 Us for Earth, Earth for Us!]#7 \"우리의 미래를 위해 느린 에너지를 택하자!\"",
+          "url": "https://www.erounews.kr/news/articleView.html?idxno=5188",
+          "source": "이로운뉴스",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "매일 100만 개 원자폭탄 에너지 투하‥행성을 뒤흔드는 인류의 힘 [기후인사이트 46 | 인싸M]",
+          "url": "https://imnews.imbc.com/newszoomin/newsinsight/6852952_29123.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "‘딥러닝 노벨상’ 힌턴 “AI 통제 남은시간 1년”",
+          "url": "https://www.donga.com/news/People/article/all/20260918/134699757/2",
+          "source": "동아일보",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "유튜브": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-19T15:16:00+09:00",
+      "lastSeen": "2026-09-19T15:16:00+09:00",
+      "news": [
+        {
+          "title": "딘딘, 대한적십자사에 1000만원 기부…꾸준한 선행",
+          "url": "https://v.daum.net/v/20260919081504796",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "딘딘, 유튜브 플리마켓 수익금 1000만원 기부…위기가정 지원",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6295974",
+          "source": "뉴스1",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "'개념 연예인' 딘딘, 유튜��� 수익 1000만원 기부",
+          "url": "https://www.newsis.com/view/NISX20260918_0003796331",
+          "source": "뉴시스",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "구글": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T15:16:00+09:00",
+      "lastSeen": "2026-09-19T15:16:00+09:00",
+      "news": [
+        {
+          "title": "Gemini hacked three companies in first known breakout by Google's AI",
+          "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+          "source": "Reuters",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "Google says its Gemini AI model hacked three other companies",
+          "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+          "source": "The Guardian",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+          "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+          "source": "CNBC",
+          "date": "2026-09-19"
+        }
+      ]
     }
   },
   "sections": {
