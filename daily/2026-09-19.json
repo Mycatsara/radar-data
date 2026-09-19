@@ -2660,10 +2660,10 @@
       ]
     },
     "포스코노동조합": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T11:40:00+09:00",
-      "lastSeen": "2026-09-19T12:40:00+09:00",
+      "lastSeen": "2026-09-19T13:13:00+09:00",
       "news": [
         {
           "title": "포스코 노조, 2차 부분파업 확대…사측 \"공장, 정상 가동 중\"",
@@ -2712,10 +2712,10 @@
       ]
     },
     "수성못": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-19T12:12:00+09:00",
-      "lastSeen": "2026-09-19T12:40:00+09:00",
+      "lastSeen": "2026-09-19T13:13:00+09:00",
       "news": [
         {
           "title": "대구 주말 축제 잇따라…수성못·두류공원 교통 혼잡 예상",
@@ -2738,10 +2738,10 @@
       ]
     },
     "김수미": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-19T12:40:00+09:00",
-      "lastSeen": "2026-09-19T12:40:00+09:00",
+      "lastSeen": "2026-09-19T13:13:00+09:00",
       "news": [
         {
           "title": "서효림 \"故김수미 팔아서 김치 판다는 시선 두려웠다\" 눈물 ('정혜드림') [순간포착]",
@@ -2760,14 +2760,20 @@
           "url": "https://www.newsen.com/news_view.php?uid=202609190741272110&code=100100",
           "source": "뉴스엔",
           "date": "2026-09-19"
+        },
+        {
+          "title": "며느리 서효림 “故 김수미 팔아 먹는다” 김치 사업 비난 고통…전통+진정성 지키고파",
+          "url": "https://m.newsen.com/news_view.php?uid=202609190741272110",
+          "source": "뉴스엔",
+          "date": "2026-09-19"
         }
       ]
     },
     "김승원 사퇴": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T12:40:00+09:00",
-      "lastSeen": "2026-09-19T12:40:00+09:00",
+      "lastSeen": "2026-09-19T13:13:00+09:00",
       "news": [
         {
           "title": "[속보]김승원 법무장관 후보자 사퇴... 李정부 2기 개각 두번째 낙마",
@@ -2786,14 +2792,26 @@
           "url": "https://imnews.imbc.com/news/2026/society/article/6852962_36918.html",
           "source": "MBC 뉴스",
           "date": "2026-09-19"
+        },
+        {
+          "title": "김승원 법무부 장관 후보자, 지명 20일 만에 자진 사퇴",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8667832",
+          "source": "KBS 뉴스",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "대통령 회견 하루 만에 전격 사퇴…\"국민 눈높이에 못 미쳐\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761441",
+          "source": "SBS 뉴스",
+          "date": "2026-09-19"
         }
       ]
     },
     "부활남": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-19T12:40:00+09:00",
-      "lastSeen": "2026-09-19T12:40:00+09:00",
+      "lastSeen": "2026-09-19T13:13:00+09:00",
       "news": [
         {
           "title": "'부활남' 구교환, 美친 액션·타격감이 주는 극강의 쾌감..믿고보는 이 남자 [Oh!쎈 리뷰]",
@@ -2812,14 +2830,26 @@
           "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7184653",
           "source": "주간한국",
           "date": "2026-09-19"
+        },
+        {
+          "title": "'부활남' 구교환, 유재석 만난다…'핑계고' 세 번째 출격",
+          "url": "https://www.news1.kr/entertain/movie/6294889",
+          "source": "뉴스1",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "[SC리뷰] 제철 구교환, '부활남: 더 레드' 원맨쇼로 입증한 '전성시대'",
+          "url": "https://www.chosun.com/entertainments/movie/2026/09/18/ME2TIYJRGRTDCNZZGZRDOZJVGU/",
+          "source": "조선일보",
+          "date": "2026-09-19"
         }
       ]
     },
     "하원": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-19T12:40:00+09:00",
-      "lastSeen": "2026-09-19T12:40:00+09:00",
+      "lastSeen": "2026-09-19T13:13:00+09:00",
       "news": [
         {
           "title": "美 하원 사법위원장 \"쿠팡 탄압한 韓 공정위 '그 사람' 입국 불허해야\"",
@@ -2837,6 +2867,110 @@
           "title": "美하원 '미국 기업 차별' 공무원 입국 제한법…외교부 \"모든 기업 공정 대우\"",
           "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6295574",
           "source": "뉴스1",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "홍현희": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-19T13:13:00+09:00",
+      "lastSeen": "2026-09-19T13:13:00+09:00",
+      "news": [
+        {
+          "title": "홍현희 子 아이돌 준비? \"JYP에 직접 가봤습니다\"",
+          "url": "https://mobile.newsis.com/view.html?ar_id=NISX20260918_0003796360",
+          "source": "뉴시스",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "‘데뷔 20년차’ 홍현희, 아이돌에 미련 가득..“유부녀돌 만들어달라” [순간포착]",
+          "url": "https://v.daum.net/v/20260919072709260",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "홍현희♥제이쓴, 3살 子=아이돌 데뷔 욕���..JYP 사옥 방문에 “꽃길만 걷자” (홍쓴TV) - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/18/MY4TOYRUMZQTQODGMNQTAYRSHE/",
+          "source": "Chosunbiz",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "한화에어로스페이스 채용": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T13:13:00+09:00",
+      "lastSeen": "2026-09-19T13:13:00+09:00",
+      "news": [
+        {
+          "title": "공고엔 없던 ‘학벌 컷’…한화 채용이 드러낸 ‘깜깜이 전형’의 민낯 [권상집의 논전(論戰)]",
+          "url": "https://v.daum.net/v/H1Th5KpXFp",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "한화에어로 '나이·11개大' 채용 논란…노동부 조사 착수 : 네이버 블로그",
+          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224416143493&redirect=Dlog",
+          "source": "Naver Blog",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "노동부, ‘채용 제한 의혹’ 한화에어로스페이스 감독 착수 - 조선비즈",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/09/16/CQAVLA2XSBEQPPLSKL5633UF64/",
+          "source": "Chosunbiz",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "국가보훈부": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-19T13:13:00+09:00",
+      "lastSeen": "2026-09-19T13:13:00+09:00",
+      "news": [
+        {
+          "title": "내년 54만원 되는 참전명예수당…보훈부, '200만원 인상론'까지 검토",
+          "url": "https://v.daum.net/v/qTCIo6b0Yj",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "美 건국 250주년 기념식 - 사진 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=73471&pageIndex=1",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "[게시판] 보훈부, 유엔참전국 감사 만찬 개최",
+          "url": "https://www.yna.co.kr/view/AKR20260918062700504",
+          "source": "연합뉴스",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "japan vs hong kong": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T13:13:00+09:00",
+      "lastSeen": "2026-09-19T13:13:00+09:00",
+      "news": [
+        {
+          "title": "Hosts Japan double up Hong Kong 2-0 in Asian Games men’s soccer Group A opener",
+          "url": "https://www.thechronicle.com.au/sport/hosts-japan-double-up-hong-kong-20-in-asian-games-mens-soccer-group-a-opener/video/451153cfe9d095d4fbd106e1a2d1b783",
+          "source": "Toowoomba Chronicle",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "Live Score: JPN 53/3 (12.0), Japan vs Hong Kong, China 1st T20I, 19 September 2026",
+          "url": "https://thesportstak.com/cricket/match/jpn-vs-hk-1st-t20i-hong-kong-china-tour-of-japan-19-september-2026-274508/live",
+          "source": "SportsTak",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "Japan vs Hong Kong T20 Live Score at Sano International Cricket Ground, Hong Kong tour of Japan",
+          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010064/hong-kong-tour-of-japan-t20-1",
+          "source": "Cricketnmore",
           "date": "2026-09-19"
         }
       ]
