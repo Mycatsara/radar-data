@@ -2976,10 +2976,10 @@
       ]
     },
     "이미숙": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-19T14:11:00+09:00",
-      "lastSeen": "2026-09-19T14:11:00+09:00",
+      "lastSeen": "2026-09-19T14:39:00+09:00",
       "news": [
         {
           "title": "이미숙 “며느리 올까 봐 무서워…명절에도 안 부르고 여행 가라고”",
@@ -3179,6 +3179,240 @@
           "title": "초지능 AI를 통제할 수 있을까?...AI 미래 설계자의 경고 [더 프롬프트]",
           "url": "https://www.ytn.co.kr/_ln/0105_202609190030555301",
           "source": "YTN",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "윤석열": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-19T14:39:00+09:00",
+      "lastSeen": "2026-09-19T14:39:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 윤석열·김건희, 올여름 ‘냉방’ 구치소 접견실 하루 4∼7회 ‘특혜 이용’",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1278569.html",
+          "source": "한겨레",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "靑 \"김지용 중수청장 후보자 추가 검증 중…꼼꼼히 살펴보고 있다\"",
+          "url": "https://v.daum.net/v/20260919133651744",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "“이게 국민이 요구한 검찰개혁인가?”…추미애 이어 이성윤도 중수청 때리기",
+          "url": "https://www.munhwa.com/article/11618173",
+          "source": "문화일보",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "김수현": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-19T14:39:00+09:00",
+      "lastSeen": "2026-09-19T14:39:00+09:00",
+      "news": [
+        {
+          "title": "김수현, 오늘 국내 무대 복귀…1년 반 만에",
+          "url": "https://www.newsis.com/view/NISX20260919_0003796456",
+          "source": "뉴시스",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "김수현, 1년 6개월 침묵 깨고 대중 앞에...'첫인사'에 초미의 관심",
+          "url": "https://v.daum.net/v/20260919113050335",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "'2026 TMA' 부산서 첫 개최…리센느·임영웅→시상자 김수현까지 총출동",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008759833",
+          "source": "SBS 뉴스",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "도쿄 게임 쇼": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T14:39:00+09:00",
+      "lastSeen": "2026-09-19T14:39:00+09:00",
+      "news": [
+        {
+          "title": "[게임위드인] K게임의 도쿄게임쇼 키워드는…모바일·서브컬처",
+          "url": "https://v.daum.net/v/20260919110155930",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "TSG에 韓 서브컬처 태풍 분다…넥슨·NC·스마게 부스 '인산인해'",
+          "url": "https://www.news1.kr/it-science/game-review/6296077",
+          "source": "뉴스1",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "TGS 시연부터 연내 글로벌 CBT까지… 엔씨 신작 ‘아스오라’, 완성도 높인다",
+          "url": "https://www.osen.co.kr/article/G1112878228",
+          "source": "OSEN",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "최형우": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T14:39:00+09:00",
+      "lastSeen": "2026-09-19T14:39:00+09:00",
+      "news": [
+        {
+          "title": "삼성 초비상! 구자욱, 6회 주루 도중 우측 햄스트링 불편함 호소→대주자 교체…\"선수 보호 차원\" [대전 라이브]",
+          "url": "https://v.daum.net/v/Hrn1dtWIGc",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "'이럴 수가' 왕옌청 없는데, 박준영마저 허리 잡고 교체됐다…3회부터 '불펜 총동원령'",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/18/GBRTEMTFMRSDEYTGHFRDCZBUGA/",
+          "source": "조선일보",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "다시 선두 1.5G 차이로 좁힌 삼성, 선두 싸움 마지막 기회 왔다! 주말 롯���전 2연전 분수령 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/19/2026091907574780386",
+          "source": "머니투데이",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "weather tomorrow": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T14:39:00+09:00",
+      "lastSeen": "2026-09-19T14:39:00+09:00",
+      "news": [
+        {
+          "title": "IMD forecasts heavy rainfall across several states and UTs today",
+          "url": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-across-several-states-and-uts-today/",
+          "source": "News On AIR",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "Daily weather tracker: Bihar, Rajasthan, Kerala, Odisha, Sikkim among states to receive heavy rainfall",
+          "url": "https://www.downtoearth.org.in/climate-change/daily-weather-tracker-bihar-rajasthan-kerala-odisha-sikkim-among-states-to-receive-heavy-rainfall",
+          "source": "Down To Earth",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "Delhi-NCR likely to receive light to moderate rain",
+          "url": "https://ddnews.gov.in/en/delhi-ncr-likely-to-receive-light-to-moderate-rain/",
+          "source": "DD News",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "응급": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T14:39:00+09:00",
+      "lastSeen": "2026-09-19T14:39:00+09:00",
+      "news": [
+        {
+          "title": "추석에 아프면 어디로? 경북 응급의료기관 36곳 24시간 운영",
+          "url": "https://v.daum.net/v/20260919101239302",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "경남도, 추석 연휴 나흘간 응급진료체계 가동",
+          "url": "https://www.viva100.com/article/20260919500155",
+          "source": "브릿지경제",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "김해시 추석 연휴 종합상황실 운영…의료·교통 공백 차단 등",
+          "url": "https://www.yna.co.kr/view/AKR20260918112500052",
+          "source": "연합뉴스",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "원자력 발전소": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-19T14:39:00+09:00",
+      "lastSeen": "2026-09-19T14:39:00+09:00",
+      "news": [
+        {
+          "title": "세계 최초의 레이저 기반 핵융합 발전소가 독일에서 건설되고 있습니다.",
+          "url": "https://www.vietnam.vn/ko/nha-may-dien-nhiet-hach-bang-laser-dau-tien-the-gioi-duoc-xay-dung-tai-duc",
+          "source": "Vietnam.vn",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "“핵융합 패권, 이제 ‘초전도 테이프’가 가른다…독일, 유럽 첫 HTS 대형공장 추진”",
+          "url": "https://www.esnews.kr/news/articleView.html?idxno=6195",
+          "source": "에너��안전신문",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "IAEA \"러시아 쿠르스크 원전 냉각탑 드론 피격\"",
+          "url": "https://www.yna.co.kr/view/AKR20260919001000079",
+          "source": "연합뉴스",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "도서관": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T14:39:00+09:00",
+      "lastSeen": "2026-09-19T14:39:00+09:00",
+      "news": [
+        {
+          "title": "다대포 노을에 책 펼치고… 하반기 '부산바다도서관'",
+          "url": "https://v.daum.net/v/20260918115842854",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "바다와 도서관이 만나는 독서축제…다대포서 바다도서관",
+          "url": "https://www.yna.co.kr/view/AKR20260918018000051",
+          "source": "연합뉴스",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "부산바다도서관, 19일 다대포서 출항… “가을밤 바다에서 책을 읽다”",
+          "url": "https://www.viva100.com/article/20260918500423",
+          "source": "브릿지경제",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "타이거스 대 화이트삭스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T14:39:00+09:00",
+      "lastSeen": "2026-09-19T14:39:00+09:00",
+      "news": [
+        {
+          "title": "'뼈아픈 역전패' 8회에만 5실점 무너진 화이트삭스, 가을야구 순위 싸움서 클리블랜드에 지구 선두 헌납",
+          "url": "https://www.mlbkor.com/news/articleView.html?idxno=33215",
+          "source": "https://www.mlbkor.com/",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "클리블랜드 가디언스전 패배로 7월 이후 처음 지구 1위 자리 내어준 시카고 화이트삭스",
+          "url": "https://www.mlbkor.com/news/articleView.html?idxno=33144",
+          "source": "https://www.mlbkor.com/",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "아메리칸리그 중부지구 우승과 양대 리그 와일드카드를 흔들 시리즈들...이번 주 주목할 5대 시리즈",
+          "url": "https://www.mlbkor.com/news/articleView.html?idxno=33049",
+          "source": "https://www.mlbkor.com/",
           "date": "2026-09-19"
         }
       ]
