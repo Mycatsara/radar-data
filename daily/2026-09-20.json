@@ -2,10 +2,10 @@
   "date": "2026-09-20",
   "keywords": {
     "아스날": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T05:56:00+09:00",
+      "lastSeen": "2026-09-20T07:50:00+09:00",
       "news": [
         {
           "title": "오늘(9월 19일) 브라이튼 대 아스날 생중계 링크",
@@ -66,10 +66,10 @@
       ]
     },
     "pl": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T05:56:00+09:00",
+      "lastSeen": "2026-09-20T07:50:00+09:00",
       "news": [
         {
           "title": "Nowe lotnisko bliżej. Próbne palowanie pod terminal pasażerski. Kolejne prace idą naprzód",
@@ -142,10 +142,10 @@
       ]
     },
     "토트넘": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T05:56:00+09:00",
+      "lastSeen": "2026-09-20T07:50:00+09:00",
       "news": [
         {
           "title": "'5경기 0승' 골 하나 넣는 데만 446분, 승리는 아직도 없다...토트넘, 5873억짜리 선수단으로 빌라에 2-3 패배→강등권 추락 - 머니투데이",
@@ -180,10 +180,10 @@
       ]
     },
     "sxmb": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T05:56:00+09:00",
+      "lastSeen": "2026-09-20T07:50:00+09:00",
       "news": [
         {
           "title": "XSMN 19/9 - Kết quả xổ số miền Nam hôm nay ngày 19/9/2026",
@@ -218,10 +218,10 @@
       ]
     },
     "프로야구 순위": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T05:56:00+09:00",
+      "lastSeen": "2026-09-20T07:50:00+09:00",
       "news": [
         {
           "title": "[영상] KIA 팬들 뒷목 잡게 한 번트…어쩌라고 이겼잖아",
@@ -340,10 +340,10 @@
       ]
     },
     "최예나": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-20T03:28:00+09:00",
-      "lastSeen": "2026-09-20T05:56:00+09:00",
+      "lastSeen": "2026-09-20T07:50:00+09:00",
       "news": [
         {
           "title": "‘워터밤’ 전신 수영복은 최예나 아이디어, ‘전참시’로 보이는 ‘프로 아이돌’의 진수",
@@ -378,10 +378,10 @@
       ]
     },
     "유영우": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-20T03:28:00+09:00",
-      "lastSeen": "2026-09-20T05:56:00+09:00",
+      "lastSeen": "2026-09-20T07:50:00+09:00",
       "news": [
         {
           "title": "'전참시' 유영우, 리센느 시상식 무대 보고 '울컥'…훈훈한 응원",
@@ -406,14 +406,20 @@
           "url": "https://www.chosun.com/entertainments/broadcast/2026/09/19/GAYGEOJWGNRDSZJXGRSWGNZSGY/",
           "source": "조선일보",
           "date": "2026-09-19"
+        },
+        {
+          "title": "유영우, 19만원 옷 사고 교통카드 잔액 부족…\"3만원도 못 받아\" (전참시)",
+          "url": "https://v.daum.net/v/20260920052636444",
+          "source": "Daum",
+          "date": "2026-09-19"
         }
       ]
     },
     "재벌형사": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 100,
       "firstSeen": "2026-09-20T03:28:00+09:00",
-      "lastSeen": "2026-09-20T05:56:00+09:00",
+      "lastSeen": "2026-09-20T07:50:00+09:00",
       "news": [
         {
           "title": "'재벌X형사2' 살인마 유승호, 안보현에 총 겨눴다…최후의 결전",
@@ -474,10 +480,10 @@
       ]
     },
     "로또번호": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-20T05:56:00+09:00",
-      "lastSeen": "2026-09-20T05:56:00+09:00",
+      "lastSeen": "2026-09-20T07:50:00+09:00",
       "news": [
         {
           "title": "로또 1242회 당첨번호 ‘2·4·10·16·31·41’…1등 당첨금 32억원",
@@ -495,6 +501,44 @@
           "title": "“9명에게 32억8천만원씩”…이번주 로또 명당은 어디?",
           "url": "https://www.kyeonggi.com/article/20260919580169",
           "source": "경기일보",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "로또 제1242회 당첨번호 ‘2·4·10·16·31·41’…보너스 ‘9’",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03017606645581760&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "로또 1등 9명 당첨금 각 32억8000만원...춘천 인제 2등 당첨",
+          "url": "https://v.daum.net/v/FfN2wNd8WE",
+          "source": "Daum",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "ufc": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-20T07:50:00+09:00",
+      "lastSeen": "2026-09-20T07:50:00+09:00",
+      "news": [
+        {
+          "title": "The press conference for 'UFC 331' was held at CryptoCom Arena on the 18th (Korea Standard Time).Lig..",
+          "url": "https://www.mk.co.kr/en/sports/12157113",
+          "source": "매일경제",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "UFC 331 ‘Van vs. Pantoja 2’ play-by-play, results & round scoring",
+          "url": "https://www.sherdog.com/news/news/UFC-331-Van-vs-Pantoja-2-playbyplay-results-round-scoring-202850",
+          "source": "Sherdog",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "Cold Open | Crypto.com UFC 331: Van vs Pantoja 2",
+          "url": "https://www.ufc.com/video/160255",
+          "source": "UFC.com",
           "date": "2026-09-19"
         }
       ]
