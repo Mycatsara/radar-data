@@ -2,10 +2,10 @@
   "date": "2026-09-20",
   "keywords": {
     "아스날": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T00:35:00+09:00",
+      "lastSeen": "2026-09-20T03:28:00+09:00",
       "news": [
         {
           "title": "오늘(9월 19일) 브라이튼 대 아스날 생중계 링크",
@@ -23,6 +23,12 @@
           "title": "유럽 ​​축구 경기 일정: 아스널, 바르셀로나, 도르트문트 경기.",
           "url": "https://www.vietnam.vn/ko/lich-truc-tiep-bong-da-chau-au-arsenal-barca-dortmund-thi-dau",
           "source": "Vietnam.vn",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "[pl.review] ‘브라이튼의 미친 압박에 완전히 무너졌다!’ 아스널, 원정서 충격의 0-3 완패...결국 시즌 첫 패배",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98087",
+          "source": "포포투",
           "date": "2026-09-19"
         }
       ]
@@ -54,10 +60,10 @@
       ]
     },
     "pl": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T00:35:00+09:00",
+      "lastSeen": "2026-09-20T03:28:00+09:00",
       "news": [
         {
           "title": "Nowe lotnisko bliżej. Próbne palowanie pod terminal pasażerski. Kolejne prace idą naprzód",
@@ -76,14 +82,26 @@
           "url": "https://www.wnp.pl/rynki/zakonczylo-sie-wazny-etap-budowy-teraminala-portu-polska,1100510.html",
           "source": "wnp.pl",
           "date": "2026-09-19"
+        },
+        {
+          "title": "Pęczniejący problem. \"Z polskiego balonika schodzi powietrze\" [OPINIA]",
+          "url": "https://www.money.pl/gospodarka/peczniejacy-problem-z-polskiego-balonika-schodzi-powietrze-opinia-7331119262906592a.html",
+          "source": "Money.pl",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "„Kradną, kłamią i zadłużają naszą Ojczyznę”. Politycy biją w rząd po decyzji Moody's",
+          "url": "https://www.rp.pl/polityka/art45162941-zbyt-duzo-osmiu-gwiazdek-politycy-uderzaja-w-rzad-po-obnizeniu-ratingu-polski-przez-moody-s",
+          "source": "Rzeczpospolita",
+          "date": "2026-09-19"
         }
       ]
     },
     "로또": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T00:35:00+09:00",
+      "lastSeen": "2026-09-20T03:28:00+09:00",
       "news": [
         {
           "title": "1242회 로또 1등 9명…당첨금 각 32억8천만원(종합)",
@@ -102,14 +120,26 @@
           "url": "https://www.dailian.co.kr/news/view/1692523/%EB%B0%B0%EC%9A%B0%EC%9E%90-%EA%BF%88%EC%97%90-%EC%8A%A4%EB%8B%98-%EB%82%98%ED%83%80%EB%82%98%EC%84%9C-%EB%B3%B5%EA%B6%8C-12-2026",
           "source": "데일리안",
           "date": "2026-09-19"
+        },
+        {
+          "title": "“9명에게 32억8천만원씩”…이번주 로또 명당은 어디?",
+          "url": "https://www.kyeonggi.com/article/20260919580169",
+          "source": "경기일보",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "로또 제1242회 당첨번호 ‘2·4·10·16·31·41’…보너스 ‘9’",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03017606645581760&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-19"
         }
       ]
     },
     "토트넘": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T00:35:00+09:00",
+      "lastSeen": "2026-09-20T03:28:00+09:00",
       "news": [
         {
           "title": "'5경기 0승' 골 하나 넣는 데만 446분, 승리는 아직도 없다...토트넘, 5873억짜리 선수단으로 빌라에 2-3 패배→강등권 추락 - 머니투데이",
@@ -128,14 +158,26 @@
           "url": "https://v.daum.net/v/20260919202753518",
           "source": "Daum",
           "date": "2026-09-19"
+        },
+        {
+          "title": "\"손흥민이 결국 다 해줬던 거였다\" 국내 팬들 비판 계속...최악의 토트넘, 아스톤 빌라에 2-3 패배→또 강등 위기",
+          "url": "https://v.daum.net/v/20260919233728375",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "'충격! 너무 다급해 이 선수까지 검토하다니' 개막 4경기 무득점 졸전 토트넘, 갈라타사라이 방출→'무적' FA 아르헨 국대 출신 이카르디 영입 검토中..'전력외 히샬리송 보다 잘 할까'",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/19/GI4WMMDBGIYDOZRSMNQWCMLGMU/",
+          "source": "조선일보",
+          "date": "2026-09-19"
         }
       ]
     },
     "sxmb": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T00:35:00+09:00",
+      "lastSeen": "2026-09-20T03:28:00+09:00",
       "news": [
         {
           "title": "XSMN 19/9 - Kết quả xổ số miền Nam hôm nay ngày 19/9/2026",
@@ -154,14 +196,26 @@
           "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-19-thang-9-cay-ve-trung-392-ti-dong-xuat-hien-som-185260919102522842.htm",
           "source": "Báo Thanh Niên",
           "date": "2026-09-19"
+        },
+        {
+          "title": "Kết quả xổ số miền Bắc hôm nay ngày 19/9/2026",
+          "url": "https://antt.nguoiduatin.vn/ket-qua-xo-so-mien-bac-hom-nay-ngay-19-9-2026-205260918222542149.htm",
+          "source": "An ninh Tiền tệ",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "XSMN 19/9 - Kết quả xổ số miền Nam hôm nay 19/9/2026 - XSMN ngày 19 tháng 9",
+          "url": "https://cafef.vn/xsmn-19-9-ket-qua-xo-so-mien-nam-hom-nay-19-9-2026-xsmn-ngay-19-thang-9-188260919173849111.chn",
+          "source": "CafeF",
+          "date": "2026-09-19"
         }
       ]
     },
     "프로야구 순위": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T00:35:00+09:00",
+      "lastSeen": "2026-09-20T03:28:00+09:00",
       "news": [
         {
           "title": "[영상] KIA 팬들 뒷목 잡게 한 번트…어쩌라고 이겼잖아",
@@ -179,6 +233,18 @@
           "title": "KIA 1선발의 승부욕은 오직 순위 싸움…득점지원 ‘0’에도 웃은 올러 “커피라도 좀 돌려야겠어”[스경x인터뷰]",
           "url": "https://v.daum.net/v/20260919100509205",
           "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "KIA 초대형 트레이드 주인공, '80억 유격수' 대체자 가능할까…'희생번트 더블아웃→수어사이드 스퀴즈 대실패' 울고 싶네 [광주 현장]",
+          "url": "https://v.daum.net/v/Xre6L0HlXf",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "[스경x인터뷰] KIA 1선발의 승부욕은 오직 순위 싸움…득점지원 ‘0’에도 웃은 올러 “커피라도 좀 돌려야겠어...",
+          "url": "https://sports.khan.co.kr/article/202609191002013",
+          "source": "스포츠경향",
           "date": "2026-09-19"
         }
       ]
@@ -257,6 +323,110 @@
           "title": "단고테 정유 CEO, 이란 전쟁 이후에도 연료 부족 지속될 것",
           "url": "https://kr.investing.com/news/commodities-news/article-93CH-2086882",
           "source": "Investing.com 한국어",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "최예나": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-20T03:28:00+09:00",
+      "lastSeen": "2026-09-20T03:28:00+09:00",
+      "news": [
+        {
+          "title": "‘워터밤’ 전신 수영복은 최예나 아이디어, ‘전참시’로 보이는 ‘프로 아이돌’의 진수",
+          "url": "https://v.daum.net/v/8WGmqKpXpa",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "최예나, '워터밤' 전신 슈트·'청룡' 화제의 무대 비하인드 공개",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6296244",
+          "source": "뉴스1",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "최예나, ‘캐치 캐치’ 대박 ��상했다 “이준 커버 보고 '곡 뺏겼다' 위기의식”(전참시) - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/19/MIZWCODFMQZTGYJZMIYDMMZVGI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "유영우": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-20T03:28:00+09:00",
+      "lastSeen": "2026-09-20T03:28:00+09:00",
+      "news": [
+        {
+          "title": "'전참시' 유영우, 리센느 시상식 무대 보고 '울컥'…훈훈한 응원",
+          "url": "https://v.daum.net/v/20260919095052965",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "유영우, 리센느와 무슨 사이? 세상 짠돌이가 25만원 한우 선사 ('전참시') - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/19/MNQTQZJYGIZTCNTBHFSGEODGMU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "유영우, 리센느 원이 母와 맞절한 사연 “잘 돼서 감사하다고”",
+          "url": "https://www.osen.co.kr/article/G1112878557",
+          "source": "OSEN",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "재벌형사": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-20T03:28:00+09:00",
+      "lastSeen": "2026-09-20T03:28:00+09:00",
+      "news": [
+        {
+          "title": "'재벌X형사2' 살인마 유승호, 안보현에 총 겨눴다…최후의 결전",
+          "url": "https://v.daum.net/v/20260919201251301",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "“시신을 보고 영감을 받은 거야” 최희진, 안보현에게 전한 유승호의 뒤틀린 유년 시절 이야기",
+          "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC481814833?div=live_end",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "안보현X정은채, 재벌 살인마 유승호와 최후의 결전…‘재벌X형사2’ 막방",
+          "url": "https://sports.donga.com/ent/article/all/20260919/134701090/1",
+          "source": "스포츠동아",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "라이엇게임즈": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-20T03:28:00+09:00",
+      "lastSeen": "2026-09-20T03:28:00+09:00",
+      "news": [
+        {
+          "title": "“한국 게이머 위해 특별한 선물 준비” 라이엇 게임즈 ‘리프트바운드’ 국내 상륙",
+          "url": "https://v.daum.net/v/20260919210949091",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "[현장] ��임 밖으로 나온 LoL…라이엇, 실물 TCG로 IP 영토 넓힌다 By EBN",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2099225",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "[체험기] '롤'팬과 TCG팬 모두 사로잡을 수 있을까? '리프트바운드'",
+          "url": "https://www.thisisgame.com/articles/430188?newsId=263",
+          "source": "디스이즈게임",
           "date": "2026-09-19"
         }
       ]
@@ -1403,6 +1573,72 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjM2NjluRDdwQm5WZl9PVHQxU25yVWNBYnZ1RExfekR4Q1c4UGFtZ1lBUTY0eWYwY196U1J0R0tXNUMzUnhYNy10dGl4Rl9WNGFRVFJ6TlJ4M0JXSTZEVm5OdmdUVjhjYmNhaDRnWXN3dzYyNkhYSG1zV29MUl8wZGJB?oc=5",
         "source": "스포츠조선",
         "date": "2026-09-17"
+      },
+      {
+        "title": "아시안게임서 '욱일기' 응원 막아야…서경덕, 외신에 공론화",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuVEV2QUY2UXRkdjJVZHE0cFhyVE1EN2VkS2hpVXRIR1ZJUkhRS2FBZHFaVGJBLXFDSl84TFYzTXVZVG14YklSNHZSUEp1NGZnRGlST3dlaHpFcXJWQ3Rzeng2Y2NNZU1I?oc=5",
+        "source": "강원신문",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "‘권순우 2승’ 한국 남자 테니스, ‘세계 8강’ 데이비스컵 도전 첫 역사 썼다",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PNHRMbzRNZ2dwM0hqWHhfVThuQ2txWG1QZUVFdlNtNjZweE9ScjRISkFfOUNRRGxCX1hZVEZ0b2dTUkdDbmg0X3JDNUsyZEh5Q3BPMjVVS21PQdIBX0FVX3lxTFBzc0tXS2t3Q3RhTzF1Z3F5OUJuZ1JveGUtRm9oWWlMaHpLR2VwMGZ1RWpRa2dXRmgtcnhMaGMyQS1mR09IYmMxS082b0tnNmtPb0RSaThCazBUZUsteUFj?oc=5",
+        "source": "경향신문",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "[아시안게임] 야구대표팀 곽빈·최민석·소형준 불펜 투구로 구위 점검",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXMm5fa1g2Q2w5ZUFXUHQyN2tWOW9RT0VFNVB0QngzRHhWVUdHYmtOQ1MwM2dBR2U5TExsdXlyWjdCdnQ3cmUtekdKR2Y4UHRzeUdYS3Z2dFBXZlHSAWBBVV95cUxOblE4S2hMZmFzVV9WcUxpU3czR0RhVUF5d2NwQXY5UXRkaE5iZmhMeWhPVmpJWXJiQVZURmdlbm9XellPbkpfRlBObUI4b0tIbmwxeTRPelJFOTlXUFhQRGk?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "아시안게임 하키: 남자 대표팀 전 경기 결과 모아보기 [아이치-나고야 2026]",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVk5CQmQ4Q0tweEllazRqaWltVlgtV3hFbUtzLUFEVlhpbUZxbUo4QU1VeGRxNjdzcmFSRjczN25tZ3hKUTg3YmxKVndVM0lOdTdURUNYdlNjRzZjQzluSE9CdjNITXZOSnR6dC1pcVhoV2s5MUFZTFhqc1REWFQ5ZEprWmpHZzU4Q2xjZA?oc=5",
+        "source": "olympics.com",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "'품새 퀸' 이주영, 양쪽 무릎 수술 딛고 세계선수권 4연패",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5UnJlUnotRkJaY1FqdXhWOVZpVldPdXpNLU9Zb1dFZTRrQ0VRQ2ZtcGpYVHBZMkxrNFp5REdkNDZBVDlERjAzb0EtWElnTjlRUXhadF9icWJNdzjSAWBBVV95cUxNZDlVX3VFLVI1aUswLVRZREZoX1RtRDdqTUs3TndyZ0loaTlkam1SNTlEaG9TU0FSRTdub1l3NVQ3TnA4alk1ckc0TWdxX2wtS25JUHExbFdBYzhZdGhCMjM?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "피겨 최하빈, 주니어 GP 4차 대회 동메달…유동한은 5위",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRXzVjTFVUMGZCbEpUS21lWDh2M0tjMTVEcEVwaUxNaUFLWnBSYWV1OFU5ckRiN3lLZld3TVR0YU54WUpVaUg0T3pPb0tjblROVDFLV0VZbGZPVlBk?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "[아시안게임] 전투력 측정 준비 완료! LoL 국가대표 평가전, 19일 부산서 개막",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IR3NoeGthWUUtUk5hcl9nX3ljaktja1VhRkE1TWFjeVNOdUJCZDRHclJTWWF5ZldfTUMtV3VNSW9Td1VXU1pKTExpS1o0ajQzeHBjSjdpR0tESjRpckE?oc=5",
+        "source": "inven.co.kr",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "해리 케인, 최단기간 분데스리가 100호 골…98경기 만",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PYjNOZm5OdW03VGN0TnFMN05qbWR1NkQ4T0xRd1hQejAzYVVmX214SjZFaFRlSEV3UE50a3ZOS3lDR3NWdi05UC00S2ZuY25zeDRFYklHYjhweXBybjBodU84T1c4YVE?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "[나고야 2026] 이민성호, 1경기 만에 8강 확정",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iajE4VWszbE94NkRwZkFkUHpfWmRKQlJ4U05MdENOcTNYWmJaVXVXQ1JxdFRXaWlVUjF0bmQzU1BhQzBILTU2SzBrNERTcWM?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "아시안게임 여자 배구: 8강·준결승 토너먼트 결과 모아보기 [아이치-나고야 2026]",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb09NTlVGTWdRYVllcHVGSE5rc0VJU1dNVHBZV1VEUnFuRlRfMUt2N1FiS3ZxSkNvc1MyTGZHc21adklWT1U4c1ZTeUozNm1PV293RkowM0lCcHc4cENpUEJvdXVaZHhCaEk1cXJZMUZlNGs3Sy1UN1B4dW9iUzkxWEdzUlliN21UMmtfek5MZ09KUjdfVmJfYWhCWmFXWGExdENz?oc=5",
+        "source": "olympics.com",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "\"우리 집 거덜나겠다\"…이동국 딸 재시, 뉴욕 유학 미룬 이유",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hd3podzR6Tk5BZ0wtTDlYLXJjTjRxQVRpT3FDRE5KUkpiT3MwcGl1STdzRl8xYlJhU3VYWC1GV2lBR3RwMzdZX2R2ZHYxZkllcVBpMTZiaFrSAVRBVV95cUxQVXdjeGdvblA5OVlTWGYwT3JTVVVoMjhMQjM0aHJLSVhlZHpMZEphUE1NZ3ZjaGJyajhGTVdQU1V3b3lmR0h3S1pTa1BBMGhsSzdyRTc?oc=5",
+        "source": "세계일보",
+        "date": "2026-09-18"
       }
     ]
   }
