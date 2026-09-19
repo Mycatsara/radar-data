@@ -2550,10 +2550,10 @@
       ]
     },
     "이소나": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-19T11:12:00+09:00",
-      "lastSeen": "2026-09-19T12:12:00+09:00",
+      "lastSeen": "2026-09-19T12:40:00+09:00",
       "news": [
         {
           "title": "현정, 20년 ♥도대웅에 박력 프로포즈 “나랑 결혼해줘!” (미스트롯 포유)",
@@ -2602,10 +2602,10 @@
       ]
     },
     "선거": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-19T11:12:00+09:00",
-      "lastSeen": "2026-09-19T12:12:00+09:00",
+      "lastSeen": "2026-09-19T12:40:00+09:00",
       "news": [
         {
           "title": "美 공화 “최대 225석 하원 다수당 가능…‘블루웨이브’ 징후 없다”",
@@ -2628,10 +2628,10 @@
       ]
     },
     "정현": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-19T11:40:00+09:00",
-      "lastSeen": "2026-09-19T12:12:00+09:00",
+      "lastSeen": "2026-09-19T12:40:00+09:00",
       "news": [
         {
           "title": "정현 \"버티는 사람이 이기는 경기, 나는 그냥 버텼다\"... 3시간6분 혈투 끝 집념의 대역전승",
@@ -2660,10 +2660,10 @@
       ]
     },
     "포스코노동조합": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200,
       "firstSeen": "2026-09-19T11:40:00+09:00",
-      "lastSeen": "2026-09-19T12:12:00+09:00",
+      "lastSeen": "2026-09-19T12:40:00+09:00",
       "news": [
         {
           "title": "포스코 노조, 2차 부분파업 확대…사측 \"공장, 정상 가동 중\"",
@@ -2686,10 +2686,10 @@
       ]
     },
     "골골골골": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-19T12:12:00+09:00",
-      "lastSeen": "2026-09-19T12:12:00+09:00",
+      "lastSeen": "2026-09-19T12:40:00+09:00",
       "news": [
         {
           "title": "[스포츠머그] 6대 0 대승에도 아쉬웠다? 장지현 해설이 냉정했던 이유 (여자축구)",
@@ -2712,10 +2712,10 @@
       ]
     },
     "수성못": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-19T12:12:00+09:00",
-      "lastSeen": "2026-09-19T12:12:00+09:00",
+      "lastSeen": "2026-09-19T12:40:00+09:00",
       "news": [
         {
           "title": "대구 주말 축제 잇따라…수성못·두류공원 교통 혼잡 예상",
@@ -2733,6 +2733,110 @@
           "title": "[출연]\"머무는 도시 수성구로\" 김대권 수성구청장",
           "url": "https://www.tbc.co.kr/news/view?pno=20260917105905AE05748&id=211221&c1=code&c2=",
           "source": "TBC",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "김수미": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-19T12:40:00+09:00",
+      "lastSeen": "2026-09-19T12:40:00+09:00",
+      "news": [
+        {
+          "title": "서효림 \"故김수미 팔아서 김치 판다는 시선 두려웠다\" 눈물 ('정혜드림') [순간포착]",
+          "url": "https://v.daum.net/v/20260919100007084",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "서효림, 故 김수미 김치 사업 잇다 결국 오열 \"돌아가신 시母 팔아먹는다는 시선에\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-19/202609190100129370008389",
+          "source": "스포츠조선",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "며느리 서효림 “故 김수미 팔아 먹는다” 김치 사업 비난 고통…전통+진정성 지키고파",
+          "url": "https://www.newsen.com/news_view.php?uid=202609190741272110&code=100100",
+          "source": "뉴스엔",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "김승원 사퇴": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-19T12:40:00+09:00",
+      "lastSeen": "2026-09-19T12:40:00+09:00",
+      "news": [
+        {
+          "title": "[속보]김승원 법무장관 후보자 사퇴... 李정부 2기 개각 두번째 낙마",
+          "url": "https://www.chosun.com/politics/assembly/2026/09/19/4XKHFWAQOJHCZD2CS2KBMTMAC4/",
+          "source": "조선일보",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "김승원 \"국민 눈높이 못미쳐\"…법무부 장관 후보 자진 사퇴",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260919112545CDP",
+          "source": "연합뉴스TV",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "[속보] 김승원 법무장관 후보자 자진 사퇴‥\"국민 눈높이 못 미쳐\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6852962_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "부활남": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T12:40:00+09:00",
+      "lastSeen": "2026-09-19T12:40:00+09:00",
+      "news": [
+        {
+          "title": "'부활남' 구교환, 美친 액션·타격감이 주는 극강의 쾌감..믿고보는 이 남자 [Oh!쎈 리뷰]",
+          "url": "https://v.daum.net/v/fHsOXJ6bCd",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "'부활남' 구교환, '핑계고' 단골 계원 인증..신승호X강기영과 유재석 만난다",
+          "url": "https://www.chosun.com/entertainments/movie/2026/09/18/GY4TAY3BGEZGENJWHFRTGNLFGY/",
+          "source": "조선일보",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "‘부활남’ 구교환, 멜로부터 액션까지 올라운더",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7184653",
+          "source": "주간한국",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "하원": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T12:40:00+09:00",
+      "lastSeen": "2026-09-19T12:40:00+09:00",
+      "news": [
+        {
+          "title": "美 하원 사법위원장 \"쿠팡 탄압한 韓 공정위 '그 사람' 입국 불허해야\"",
+          "url": "https://v.daum.net/v/20260918114328139",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "美하원 법사위 “‘美기업 차별 공무원 입국 거부’ 법안 韓외교장관과 논의”",
+          "url": "https://www.chosun.com/international/us/2026/09/19/3TMQB7DP7FCMJBZFQAW5O7PWCI/",
+          "source": "조선일보",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "美하원 '미국 기업 차별' 공무원 입국 제한법…외교부 \"모든 기업 공정 대우\"",
+          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6295574",
+          "source": "뉴스1",
           "date": "2026-09-19"
         }
       ]
