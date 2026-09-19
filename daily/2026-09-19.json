@@ -1709,10 +1709,10 @@
       ]
     },
     "brentford f.c. vs chelsea f.c. standings": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-19T08:12:00+09:00",
-      "lastSeen": "2026-09-19T08:38:00+09:00",
+      "lastSeen": "2026-09-19T09:18:00+09:00",
       "news": [
         {
           "title": "Premier League: Welbeck starts as Chelsea visit unbeaten Brentford",
@@ -1903,10 +1903,10 @@
       ]
     },
     "김영웅": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-19T08:38:00+09:00",
-      "lastSeen": "2026-09-19T08:38:00+09:00",
+      "lastSeen": "2026-09-19T09:18:00+09:00",
       "news": [
         {
           "title": "봤는가, 130m 초대형 홈런 터졌다…멀티 출루→멀티 안타, '2군행' 삼성 젊은 영웅이 살아난다",
@@ -1925,14 +1925,26 @@
           "url": "https://v.daum.net/v/YgrVXSrNmT",
           "source": "Daum",
           "date": "2026-09-18"
+        },
+        {
+          "title": "봤는가, 130m 초대형 홈런 터졌다…멀티 출루→멀티 안타, '2군행' 삼성 젊은 영웅이 살아난다",
+          "url": "https://v.daum.net/v/20260919014151024",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "야구인 '책임없는' 훈수 제발 그만! → 박진만 감독 호소 \"자꾸 이상한 소스를..\" [잠실 현장]",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/17/ME2WMOJYMQZDGMRQMM4TEZRSMY/",
+          "source": "조선일보",
+          "date": "2026-09-18"
         }
       ]
     },
     "약": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-19T08:38:00+09:00",
-      "lastSeen": "2026-09-19T08:38:00+09:00",
+      "lastSeen": "2026-09-19T09:18:00+09:00",
       "news": [
         {
           "title": "임신중지약물 '법적 공백' 산적...\"의사 선택권 보장\"",
@@ -1951,14 +1963,20 @@
           "url": "https://www.president.go.kr/social-media/1MSwf4zQ",
           "source": "대한민국 청와대",
           "date": "2026-09-18"
+        },
+        {
+          "title": "李 “비 새는 천장 고치는 동안 바닥 젖어”…임신중지약 신속 도입 강조",
+          "url": "https://www.donga.com/news/Politics/article/all/20260917/134692253/2",
+          "source": "동아일보",
+          "date": "2026-09-18"
         }
       ]
     },
     "최두호": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-19T08:38:00+09:00",
-      "lastSeen": "2026-09-19T08:38:00+09:00",
+      "lastSeen": "2026-09-19T09:18:00+09:00",
       "news": [
         {
           "title": "8년 만의 UFC 랭킹 복귀 노리는 최두호…\"핏불, 판정까지 못 버틴다\"",
@@ -2007,10 +2025,10 @@
       ]
     },
     "해군": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-19T08:38:00+09:00",
-      "lastSeen": "2026-09-19T08:38:00+09:00",
+      "lastSeen": "2026-09-19T09:18:00+09:00",
       "news": [
         {
           "title": "해군제2함대사령부 소청도 감시대 장병들, 음악으로 모병활동 힘 보탠다",
@@ -2054,6 +2072,117 @@
           "title": "'전세 질문'에 이재명 대통령 \"내가 언제 사라져야 한다고?\"…과거 발언 보니",
           "url": "https://v.daum.net/v/2xIOWRfz3w",
           "source": "Daum",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "필리조선소": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T09:18:00+09:00",
+      "lastSeen": "2026-09-19T09:18:00+09:00",
+      "news": [
+        {
+          "title": "한화시스템, 필리조선소 지분 60% 한화디펜스USA 자회사에 매각",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/09/18/2026091880190.html",
+          "source": "인베스트조선",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "한화시스템, 종속회사 HS USA가 필리조선소 지분 3251억원에 처분 결정",
+          "url": "https://www.datatooza.com/article/20260918183221526152ef325a0d_80",
+          "source": "데이터투자",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "비핵심 덜고 3251억 베팅…한화시스템 '우주·스마트시티' 대전환",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=276554",
+          "source": "파이낸셜포스트",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "이승철": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T09:18:00+09:00",
+      "lastSeen": "2026-09-19T09:18:00+09:00",
+      "news": [
+        {
+          "title": "이승철, 할아버지 됐다…손자 공개하며 \"웰컴\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008759241",
+          "source": "SBS 뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "'라이브 황제' 이승철, 할아버지 됐다…\"내 손주 웰컴\"",
+          "url": "https://www.yna.co.kr/view/AKR20260917043500005",
+          "source": "연합뉴스",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "가수 이승철, 데뷔 40주년에 첫 손자 봐…\"세상 첫 구경, 웰컴\"",
+          "url": "https://v.daum.net/v/20260917103528736",
+          "source": "Daum",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "조선일보": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T09:18:00+09:00",
+      "lastSeen": "2026-09-19T09:18:00+09:00",
+      "news": [
+        {
+          "title": "[조우석 칼럼] 실로 충격인 조선일보 김대중의 실체",
+          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=393303",
+          "source": "파이낸스투데이",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "2030 기자들의 내집 마련 분투기 \"그래서 열심히 모으면 살 수 있긴 한가요?\"",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=55374",
+          "source": "주간조선",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "'17년 보유 4개월 거주', '철거민 특공'...이게 다 뭔 말인가요? [몇층이세요]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202609181500502112",
+          "source": "YTN",
+          "date": "2026-09-18"
+        }
+      ]
+    },
+    "klasemen brentford vs chelsea": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T09:18:00+09:00",
+      "lastSeen": "2026-09-19T09:18:00+09:00",
+      "news": []
+    },
+    "장유여객터미널": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-19T09:18:00+09:00",
+      "lastSeen": "2026-09-19T09:18:00+09:00",
+      "news": [
+        {
+          "title": "김해 장유여객터미널 추석 전 개장 무산…\"안정 운영기반 우선\"",
+          "url": "https://v.daum.net/v/20260918140640313",
+          "source": "Daum",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "김해시, 장유여객터미널 추석 전 개장 유보…정상화에 집중",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=716247",
+          "source": "뉴스타운",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "김해 장유여객터미널 또 개장 미뤄져…추석 전 개장 무산",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6295193",
+          "source": "뉴스1",
           "date": "2026-09-18"
         }
       ]
