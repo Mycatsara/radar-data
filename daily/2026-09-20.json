@@ -2,10 +2,10 @@
   "date": "2026-09-20",
   "keywords": {
     "아스날": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 500,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T07:50:00+09:00",
+      "lastSeen": "2026-09-20T09:48:00+09:00",
       "news": [
         {
           "title": "오늘(9월 19일) 브라이튼 대 아스날 생중계 링크",
@@ -66,10 +66,10 @@
       ]
     },
     "pl": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T07:50:00+09:00",
+      "lastSeen": "2026-09-20T09:48:00+09:00",
       "news": [
         {
           "title": "Nowe lotnisko bliżej. Próbne palowanie pod terminal pasażerski. Kolejne prace idą naprzód",
@@ -142,10 +142,10 @@
       ]
     },
     "토트넘": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T07:50:00+09:00",
+      "lastSeen": "2026-09-20T09:48:00+09:00",
       "news": [
         {
           "title": "'5경기 0승' 골 하나 넣는 데만 446분, 승리는 아직도 없다...토트넘, 5873억짜리 선수단으로 빌라에 2-3 패배→강등권 추락 - 머니투데이",
@@ -180,10 +180,10 @@
       ]
     },
     "sxmb": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 200,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T07:50:00+09:00",
+      "lastSeen": "2026-09-20T09:48:00+09:00",
       "news": [
         {
           "title": "XSMN 19/9 - Kết quả xổ số miền Nam hôm nay ngày 19/9/2026",
@@ -340,10 +340,10 @@
       ]
     },
     "최예나": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-20T03:28:00+09:00",
-      "lastSeen": "2026-09-20T07:50:00+09:00",
+      "lastSeen": "2026-09-20T09:48:00+09:00",
       "news": [
         {
           "title": "‘워터밤’ 전신 수영복은 최예나 아이디어, ‘전참시’로 보이는 ‘프로 아이돌’의 진수",
@@ -378,10 +378,10 @@
       ]
     },
     "유영우": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-20T03:28:00+09:00",
-      "lastSeen": "2026-09-20T07:50:00+09:00",
+      "lastSeen": "2026-09-20T09:48:00+09:00",
       "news": [
         {
           "title": "'전참시' 유영우, 리센느 시상식 무대 보고 '울컥'…훈훈한 응원",
@@ -416,10 +416,10 @@
       ]
     },
     "재벌형사": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-20T03:28:00+09:00",
-      "lastSeen": "2026-09-20T07:50:00+09:00",
+      "lastSeen": "2026-09-20T09:48:00+09:00",
       "news": [
         {
           "title": "'재벌X형사2' 살인마 유승호, 안보현에 총 겨눴다…최후의 결전",
@@ -518,10 +518,10 @@
       ]
     },
     "ufc": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-20T07:50:00+09:00",
-      "lastSeen": "2026-09-20T07:50:00+09:00",
+      "lastSeen": "2026-09-20T09:48:00+09:00",
       "news": [
         {
           "title": "The press conference for 'UFC 331' was held at CryptoCom Arena on the 18th (Korea Standard Time).Lig..",
@@ -539,6 +539,64 @@
           "title": "Cold Open | Crypto.com UFC 331: Van vs Pantoja 2",
           "url": "https://www.ufc.com/video/160255",
           "source": "UFC.com",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "Joshua Van Talks With Megan Olivi | Crypto.com UFC 331",
+          "url": "https://www.ufc.com/video/160258",
+          "source": "UFC.com",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "유주상": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-20T09:48:00+09:00",
+      "lastSeen": "2026-09-20T09:48:00+09:00",
+      "news": [
+        {
+          "title": "천당과 지옥 오간 '코리안 슈퍼보이' 최두호, 레전드 핏불 꺾고 UFC 챔피언 꿈 이어갈까",
+          "url": "https://v.daum.net/v/20260919194549891",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "‘한 방이 없었다’ 유주상, 애스웰 주니어에 판정패 [MK현장]",
+          "url": "https://www.mk.co.kr/news/sports/12157286",
+          "source": "매일경제",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "'8년 만에 랭킹 진입 도전' 최두호, 계체 통과…내일 핏��과 대결",
+          "url": "https://www.news1.kr/sports/general-sport/6296049",
+          "source": "뉴스1",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "로또 당첨번호": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-20T09:48:00+09:00",
+      "lastSeen": "2026-09-20T09:48:00+09:00",
+      "news": [
+        {
+          "title": "로또 제1242회 당첨번호 ‘2·4·10·16·31·41’…보너스 ‘9’",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03017606645581760&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "1242회 로또 1등번호 당첨자 9명...32억씩 배당",
+          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=599281",
+          "source": "헤드라인제주",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "“9명에게 32억8천만원씩”…이번주 로또 명당은 어디?",
+          "url": "https://www.kyeonggi.com/article/20260919580169",
+          "source": "경기일보",
           "date": "2026-09-19"
         }
       ]
