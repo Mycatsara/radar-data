@@ -2,10 +2,10 @@
   "date": "2026-09-21",
   "keywords": {
     "instagram": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T03:05:00+09:00",
+      "lastSeen": "2026-09-21T06:00:00+09:00",
       "news": [
         {
           "title": "Kate Beckinsale Shares Bleak Messages on Instagram",
@@ -24,14 +24,20 @@
           "url": "https://pagesix.com/2026/09/20/celebrity-news/kate-beckinsale-posts-alarming-messages-on-social-media-weeks-after-sharing-ptsd-struggles/",
           "source": "Page Six",
           "date": "2026-09-20"
+        },
+        {
+          "title": "Kate Beckinsale sparks fan concern with cryptic Instagram post weeks after sharing PTSD struggles",
+          "url": "https://ew.com/kate-beckinsale-worries-fans-with-cryptic-instagram-posts-12130345",
+          "source": "Entertainment Weekly",
+          "date": "2026-09-20"
         }
       ]
     },
     "레알마드리드": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T03:05:00+09:00",
+      "lastSeen": "2026-09-21T06:00:00+09:00",
       "news": [
         {
           "title": "‘쐐기골 기점’ 이강인, 첫 마드리드 더비서 기립박수 받았다",
@@ -50,21 +56,40 @@
           "url": "https://www.asiae.co.kr/article/2026092101582493591",
           "source": "아시아경제",
           "date": "2026-09-20"
+        },
+        {
+          "title": "\"두 번째 골은 이강인의 발끝에서 시작됐다!\" 스페인 현지 극찬...첫 마드리드 더비 89분→과감한 슈팅 정확한 드리블 '평점 7' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/21/202609210230774979O",
+          "source": "머니투데이",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "이강인, 음바페와 적으로 재회…첫 마드리드 더비서 승리",
+          "url": "https://v.daum.net/v/20260921020051411",
+          "source": "Daum",
+          "date": "2026-09-20"
         }
       ]
     },
     "축구중계": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T03:05:00+09:00",
-      "news": []
+      "lastSeen": "2026-09-21T06:00:00+09:00",
+      "news": [
+        {
+          "title": "[아시안게임] 여자배구대표팀, 결전지 나고야로…\"항저우 악몽 씻겠다\"",
+          "url": "https://supple.kr/news/cmtzb6tcv003z56oqdk0pxbbm",
+          "source": "supple.kr",
+          "date": "2026-09-20"
+        }
+      ]
     },
     "리버풀": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T03:05:00+09:00",
+      "lastSeen": "2026-09-21T06:00:00+09:00",
       "news": [
         {
           "title": "[pl.review] ‘2400억 사나이’ 이삭 결승골! 리버풀, 본머스에 1-0 승...5G 무패",
@@ -83,14 +108,26 @@
           "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-bournemouth-vs-liverpool-tai-premier-league-1769786.ldo",
           "source": "Laodong.vn",
           "date": "2026-09-20"
+        },
+        {
+          "title": "맨체스터 유나이티드 결단! '넌 어디에도 못 간다'…15세 초신성 퇴단 요청 거절하다",
+          "url": "https://v.daum.net/v/43GbnoMVEp",
+          "source": "Daum",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "‘1845억? 우리가 산다’ 레알 마드리드, 맨유의 ‘15살 초신성’ 영입 매우 적극적 “맨체스터에서 시간은 사...",
+          "url": "https://sports.khan.co.kr/article/202609191010003",
+          "source": "스포츠경향",
+          "date": "2026-09-20"
         }
       ]
     },
     "맨시티": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T03:05:00+09:00",
+      "lastSeen": "2026-09-21T06:00:00+09:00",
       "news": [
         {
           "title": "'8골 터진 난타전' 맨시티, 선덜랜드에 5-3 승리...리그 5승 전승으로 선두 '질주' - 머니투데이",
@@ -109,14 +146,20 @@
           "url": "https://ko.laodong.vn/bong-da-quoc-te/semenyo-toa-sang-dua-man-city-len-dau-bang-ngoai-hang-anh-1769946.ldo",
           "source": "Laodong.vn",
           "date": "2026-09-20"
+        },
+        {
+          "title": "[2분 하이라이트] 맨시티 5-3 선덜랜드",
+          "url": "https://kr.mancity.com/citytv/mens/city-5-3-sunderland-two-minute-highlights-63925531",
+          "source": "Manchester City FC",
+          "date": "2026-09-20"
         }
       ]
     },
     "google": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T03:05:00+09:00",
+      "lastSeen": "2026-09-21T06:00:00+09:00",
       "news": [
         {
           "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
@@ -135,14 +178,26 @@
           "url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
           "source": "The New York Times",
           "date": "2026-09-20"
+        },
+        {
+          "title": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+          "source": "WSJ",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "Google says its AI model gained unauthorized access to three outside systems",
+          "url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
+          "source": "NBC News",
+          "date": "2026-09-20"
         }
       ]
     },
     "sxmb": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T03:05:00+09:00",
+      "lastSeen": "2026-09-21T06:00:00+09:00",
       "news": [
         {
           "title": "Xổ số miền Nam ngày 20 tháng 9: Người trúng 32 tờ nhận chuyển khoản ngay",
@@ -165,24 +220,42 @@
       ]
     },
     "kbs": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T03:05:00+09:00",
+      "lastSeen": "2026-09-21T06:00:00+09:00",
       "news": [
         {
           "title": "[Graphic News] Aichi-Nagoya Asian Games to raise curtain Friday",
           "url": "https://www.koreaherald.com/article/10877917",
           "source": "The Korea Herald",
           "date": "2026-09-20"
+        },
+        {
+          "title": "PPP Media Committee: 'Alleged Protest Call to KBS by DP Aide Constitutes External Pressure if True'",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008762457",
+          "source": "news.sbs.co.kr",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "국힘 \"김승원, 2026년의 조국…끝까지가면 文정부처럼 될 것\"",
+          "url": "https://v.daum.net/v/20260913141329232",
+          "source": "Daum",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "국힘 \"김승원, 2026년의 조국…끝까지가면 文정부처럼 될 것\"",
+          "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1409549",
+          "source": "연합뉴스 한민족센터",
+          "date": "2026-09-20"
         }
       ]
     },
     "이현중": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T03:05:00+09:00",
+      "lastSeen": "2026-09-21T06:00:00+09:00",
       "news": [
         {
           "title": "[아시안게임] 이현중 27점·18리바운드‥남자 농구 12년만의 금메달",
@@ -201,14 +274,26 @@
           "url": "https://www.yna.co.kr/view/AKR20260921000800007",
           "source": "연합뉴스",
           "date": "2026-09-20"
+        },
+        {
+          "title": "“일본이 언제부터 다국적 국가였나” 농구 결승에 귀화 선수까지 총출동…'외국계 부모 4명+귀화 1명'에도 한국 못 넘었다",
+          "url": "https://v.daum.net/v/20260920235251378?x_trkm=t",
+          "source": "Daum",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "'버스 실종-강제 훈련 취소'에도 일본 잡고 金! 韓 농구, 日 안방서 사상 첫 결승 한일전 완승→나고야서 태극기 가장 높이 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/21/202609202151776966O",
+          "source": "머니투데이",
+          "date": "2026-09-20"
         }
       ]
     },
     "김영범": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T03:05:00+09:00",
+      "lastSeen": "2026-09-21T06:00:00+09:00",
       "news": [
         {
           "title": "[아시안게임] 수영 김영범, 판잔러에 0.04초 뒤진 은메달‥황선우는 3위",
@@ -226,6 +311,12 @@
           "title": "김영범, 남자 자유형 100m 은메달...황선우 동메달",
           "url": "https://www.ytn.co.kr/_cs/_ln_0107_202609201824145826_005.html",
           "source": "YTN",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "세계 최강과 0.04초차… 김영범 자유형 100m 銀",
+          "url": "https://www.donga.com/news/Sports/article/all/20260921/134706890/2",
+          "source": "동아일보",
           "date": "2026-09-20"
         }
       ]
@@ -1317,6 +1408,126 @@
         "title": "“표지모델 시켜줄게” 한마디에 ‘인생 전환’…日 국가대표 된 26세 모델 사연[아하 일본]",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaSGVNNTRYbWs2WUdxVmpOZzZCanFVWm54bXNlS29Ecmw4Rk5fNDVWMXVqei1ScGtXaXFHZEtZM0JTRm4xQXctZGRCWFNCWm5I?oc=5",
         "source": "문화일보",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "[1보] 한국 남자농구, 개최국 일본 꺾고 12년 만에 아시안게임 금메달",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4VmZiUjYxRDFiYUh4emRJaTgwTDZaV3FaU3d0ZzIwakFGanNwV0dhMEduMnJVazFCempSVl9Obk0wUWRTMDg3b1NwV1pueG9sR3BhMmRyU290NUXSAWBBVV95cUxPRndBWkxsRGZFNlFZcUhJTG5xamlobjdydE11bHF0S0NqM1FNMlJlUnBoaTVhbG9NLWdXWkY4SmdRSkJiZUVfV3NEeGdkS3pJMkV6dlhNNXpTamxMM3BGNmQ?oc=5",
+        "source": "yna.co.kr",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "[사진]2026 아이치·나고야 아시안게임 선수단 크루즈선 숙소 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xU1VXSkg0YU10SzlsMmZPZXhIaGpueGtUUnI1WElfcmotLVVLVUgzLWVXMWNIenZnblFrTmlqcXYtcF9ITnhEQUgtYjZLbXloaHlyWjFySzhlUGVLSS1aQjBuTk1iVERmcUHSAW9BVV95cUxOOGJ5MVhISGIwNUVkbVlkZktzOEJWVEVPQVBMaWJ4UHA5VGNaSldKcDQyUGYxa01iaUZ5eGU0TjlLZnF5STU2Qk10UGN0cVN0QVlyWkdnQlhTYXFjSHlwNDd3RFZVMTY3dlFITXQ3Rlk?oc=5",
+        "source": "머니투데이",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "‘이강인 쐐기골 기점’ AT마드리드, 시즌 첫 ‘마드리드 더비’ 승...레알에 2-1승",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rQjNsRHpiWDNWN0JsWHc4UDAwVS1mbGhwRURwdTVGdkVLRElJMHd1RXA2WERWUmRhVlpmWHZPdFZSUVJnUTJndXU0cjhpZ28?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "김민선, KLPGA 하나금융 챔피언십 우승",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsaW9hSW1GcGMwTkVKTU9CZ1kxSGNHZHNaMmJIY3VoYkE5S0ZpS2pWUHdDVlZFbFhiSnluMjgtRFNDWVo5c1NhaEJmejFUXzhwVV9fVzZFYWJCUdIBX0FVX3lxTE5ralhCdExraFFfV2RtbE9yejRQYm9xV0JJUFM5cDFhaDNub2NYYzJfMEtBN0haWEJkZmRrRW4yXzVvTm00N0U4QlZLRVZzeU5SZE5zNHh2ZEJuMXY3ZHJF?oc=5",
+        "source": "경향신문",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "[아시안게임] 테크볼 이준석, 종목 최초 금메달",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53eFpZaWx6Qm1VR3NtTVVUalpkYXE3TjQ2MXR1ZTBOM2IwaUNXX3ExZlZxaWxhcGg3SmI3WWgweXcyYllEd1cwcnFWbHp5bWdwUUgwQ3A3ckdsUzNDd0VjZ0pwTUZqR1NuNXpCc3hHbzlib3FGanfSAXZBVV95cUxOaThDaUNSb3dFdVpkWjZZVWV2S3U4ejBqUGdoQkdJVVBUZ3JDWWJ3cGhJMXl2cmdUT3RORUFYTFdoRl83eEFya3FNd3I3RHpTckhNanZJLXk1R2FQV0tWZXR1bElqX2d5VGhKQkxUOHNhQnRxTGdn?oc=5",
+        "source": "MBC 뉴스",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "[아시안게임] 김영범·황선우, 남자 자유형 100ｍ 은·동…판잔러 2연패",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IOHA1UE5tYzRnMmdmMG1ndGVTMXQ1Z0pEZ0hCdHZsUVpfUHFUSDN1ZXZFbGF4QlpXSDdnWHpvVUJESDNxbmhyVW9iVHd5aDFnalpwVTFScXpGa1HSAWBBVV95cUxPMXJoaDduc0ZRUUhjT2ZtMGVQRUQtazlRQV9oTzM4dUJVY3VyVGpjcWFmQzJRT2g4VEUtbmJwcFc3QnhJN052Wm1NUlZ4RFFMMVFHZzJyMV91UnJJSzZadzI?oc=5",
+        "source": "yna.co.kr",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "개막식부터 관중석 텅텅… 32년 만의 축제 맞아? [2026 아이치 나고야 아시안게임]",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SMTZhNUFTS0FpSDFHV3BPcEpXTzVPOEtEWmdOYk03SkVLbmltNzAzdVgtSW1xS2hybWs0OG1GLVBSZzJtV2JSM0JlR1FFZ3F4R04xSU9OUjDSAVRBVV95cUxQTUpqZVkxMUp0blFuV0JON0NRT3Q3MUQtQldfMzF1NXlzTXN6V3RFTGFzWWI2MHBDUkxDWm85QnE3SDlpZGhJbjJNUjBwTVQwdmxXdHU?oc=5",
+        "source": "세계일보",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "한국 여자배구, 카자흐 3대 0 꺾고 8년 만에 4강 진출…육서영 20득점 활약",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ERXRoWmdtdTIyM1JGWnNEZzV6ZnVMTVZiOXl3R3BLQmwyX040a1J6UVluT3FWTThaSFozYWdZaFJSNldwRTEzdGNoSHdLV05FTEVHOWY2enBZSnc?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "한국, 66년 만 데이비스컵 8강 진출...권순우가 리드와 마무리 홀로 책임져",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNVlWOF9fNXBpQ0I3ZUlIcV9lQlp2cmdNMnhOT0NIaHNtYVFmZjNlWWM1bjZtOFJ6QnZCbWVSMl9MQS1EaEtfY2NNY2ZLWHB5ZktkdzZ4VzRrekFUTzJkdHN0Vm5TdVRmZ0NEN19LTUhnbGxxUVhHa0UxM0NFZWNRSGUtTmh0LV93SDJZ?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "19살 반효진 10m 공기소총 동메달…생일에 개인 첫 AG 메달",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDV0VUdmtFdGVfMzJiUVVoanc4RFNoOG5FSlp5RmxXbUhBTjBnVEFpa2lzM3pNQXBMVmg2UnpWZmk2LXRUVXYtR0FYSzY4eXhfbm85cEh6R1hEdTJlcWlwejFhMjFOb2ZyQTFaSjhRY3BuUURuUnlR?oc=5",
+        "source": "한겨레",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "[아시안게임] 남녀 정구 대표팀, 단체전 동반 동메달‥나란히 대만에 패배",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16U09QWkg0Y1VHM1JlandyV19WRldKTE9pOGI4YW9id3phTU5pN2UzMmRvNms1bTBKbGlLWG1KV0pkN0dWclZFUUNPV3U4RlFOTDBTM0pobnMzdFVyV1FQdmF0dGsxOUdyRVJnNkN3M2tFOXdhVGfSAXZBVV95cUxPYlRpaS1RXzk4bFVmU01EbVFONlVJREEydHpUeXBVUHVZU05FWURhenRraHIyQTRZLVAyZjNaVGpBQ3ExblZDMmlJaXpReGl4LXdUNjVIUUFUZ2hWUXpONklTOXFRR2dUWnJPaUUtYXJ6aTAydkVR?oc=5",
+        "source": "MBC 뉴스",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "[아시안게임] 김일국 北체육상 \"조선의 위용, 세계에 보여줄 것\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSHA1OWFWay1PLUxPb3UtOUFpcmJXaGgwN01lWVZhakpvbWROTkxpbVRrOExvM2JqeXRta2JQdUszWUtoSVBmZGd5WEUySlRMUGJ4emNYS1FISnfSAWBBVV95cUxPMXZGaFlSS1NUTjJZNzc0cnMyNXNyUHRnd3c1LVpCcVMwSURpaFFtNXd4cWs0RVhDcjVLT3NnMzVHc1kzYlUtRzl6Z2hQWTVpMDlSaC1VZ2tUTm1oR0VGSzM?oc=5",
+        "source": "yna.co.kr",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "전북, 티아고 2골에도 최하위 광주와 무승부",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MODh3cEYyMUllejBqbU9OSkk4ai16eTFYTVdtQzNEUWhQdXpWd0JCTEsyaE5PMHZXVEM1Qjh1VFVtRUJVVW9RcXdCbU1QS1BhbDZXMUFkWFlRaHh2cVE?oc=5",
+        "source": "YTN",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "'강원전 신승' 세르지우 코스타 제주SK 감독 \"저희 선수들이 굉장히 자랑스러워\"",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RYzNEbkNnOXhJLWtOU2p1a1daaTZmTkFuNXhBY2RUWGJBVGRaNllrY0d1STVqTlA5WDR3QjlOYWRabXpfRTlUZDZoZXp5SVo3Vl9LLXpxa096WTkySHp1UFFjWVF4RHNOWkQwYnYxNEJJcG8?oc=5",
+        "source": "헤드라인제주",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "한국태권도, 세계품새선수권 14연패…이주영·변재영 2연속 MVP",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VajF3QkFXeDlTLU84amZ0VlYtZzdMMHd4RTRLNkhURkx1ZEx1SWlLeXNjdzBRdUlmTV8zeWdkSnhGcFBacEx2cUhocFdyZEE4OW5ERmdZMXhTa3fSAWBBVV95cUxQRFNZa2RMRFBmcHFaQi1pcWxRdTE1RUhYX19peWk5aVFSZmNtNTlwejNzanFmTV8waUh1dEVuQllqU0NRN1Q5X0RCMXBudDRHeVNpN25EaDFBcUZsREh1eFc?oc=5",
+        "source": "yna.co.kr",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "kt, 두산 꺾고 선두 질주...장준원 '연타석 홈런'",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XdWdrdjNLQzF3cE5ubUJWTGM3SmVLUFZoU2tUYXhaOGFpdnNNNnlpVUlmaGJmQ3RzYTJQWmt6QVVXRC1Rbk5aVmdtcjVXNG9iYlhJUzNGVkEyUUxmdXc?oc=5",
+        "source": "YTN",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "‘이재성 선발’ 마인츠, 묀헨글라트바흐에 4-3 역전승",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tMzJTVWMzTU1zd0tTNzZRNzRfN0NZNkJxOEhPWWdvN3BWSVBJRDQtNk40Qm1BVXN4NnBvMFJ5a0hFeHQxMmViLUxfVEJpOGlMRXVTWjFaU29WN3c?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "베트남 선수 `방플` 논란에 PUBG 아시아 대회 파행…韓 대표단 전원 `보이콧`",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HR1gtRzhERGtQR2dzVEZ2eVc3NWNUV2xjRjVwY0tyWjRETlhZVEZGUlpqcnNqN0ROY0ZCSGFDOEIwZnhoRXNMX1VYdy1icUNzZjhrUmdVdldaSWYxc2VNZi1R?oc=5",
+        "source": "매일신문",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "\"공도 못 만지고 경기 뛰라고? 화나서 사비로 빌렸다\"... 조직위 만행에 야구·배구 국대 '분통' [나고야 AG]",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KdHd6OFVYRVFxckVTWEI3Rl9NaWxGQzhYY2o2NVhhaGdfTHJEUy1RVE1Pbm9PWDVKc2Npc1lCWm9QTms2OGhRd3VjbjdDOUE?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "남자 하키 경기에 ‘애국가’ 대신 ‘북한 국가’…일본 현지서도 \"있을 수 없는 일\"",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fbzZyR0ZhbUR1dVlFai1GWVprZThSUC1yNktLSlNPOEhoOHIxdWV1Q3k0OGR0OENCWHQzUGRhcjRJNzk4OWdHU3k1XzFHUU8yZUpfZg?oc=5",
+        "source": "JTBC",
         "date": "2026-09-19"
       }
     ]
