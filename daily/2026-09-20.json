@@ -1,11 +1,37 @@
 {
   "date": "2026-09-20",
   "keywords": {
+    "8": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-20T14:51:00+09:00",
+      "lastSeen": "2026-09-20T14:51:00+09:00",
+      "news": [
+        {
+          "title": "Ole Miss, Chambliss spoil Kiffin's return to Oxford, upset LSU",
+          "url": "https://www.espn.com/college-football/story/_/id/49985998/ole-miss-chambliss-spoil-kiffin-return-oxford-upset-lsu",
+          "source": "ESPN",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "Fans in Ole Miss’ Grove mock Lane Kiffin but tout their ‘hospitality’ as he returns with LSU",
+          "url": "https://apnews.com/article/lane-kiffin-lsu-ole-miss-df25946d1bf7268861dc4e2c9dd27184",
+          "source": "AP News",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "How Ole Miss got the final laugh vs Lane Kiffin in LSU coach's homecoming",
+          "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2026/09/19/lsu-ole-miss-football-live-updates-score--live/91796685007/",
+          "source": "USA Today",
+          "date": "2026-09-19"
+        }
+      ]
+    },
     "아스날": {
-      "count": 5,
+      "count": 6,
       "maxTraffic": 500,
       "firstSeen": "2026-09-20T00:35:00+09:00",
-      "lastSeen": "2026-09-20T09:48:00+09:00",
+      "lastSeen": "2026-09-20T14:51:00+09:00",
       "news": [
         {
           "title": "오늘(9월 19일) 브라이튼 대 아스날 생중계 링크",
@@ -340,10 +366,10 @@
       ]
     },
     "최예나": {
-      "count": 4,
+      "count": 5,
       "maxTraffic": 100,
       "firstSeen": "2026-09-20T03:28:00+09:00",
-      "lastSeen": "2026-09-20T09:48:00+09:00",
+      "lastSeen": "2026-09-20T14:51:00+09:00",
       "news": [
         {
           "title": "‘워터밤’ 전신 수영복은 최예나 아이디어, ‘전참시’로 보이는 ‘프로 아이돌’의 진수",
@@ -378,10 +404,10 @@
       ]
     },
     "유영우": {
-      "count": 4,
-      "maxTraffic": 100,
+      "count": 5,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-20T03:28:00+09:00",
-      "lastSeen": "2026-09-20T09:48:00+09:00",
+      "lastSeen": "2026-09-20T14:51:00+09:00",
       "news": [
         {
           "title": "'전참시' 유영우, 리센느 시상식 무대 보고 '울컥'…훈훈한 응원",
@@ -518,10 +544,10 @@
       ]
     },
     "ufc": {
-      "count": 2,
-      "maxTraffic": 1000,
+      "count": 3,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-20T07:50:00+09:00",
-      "lastSeen": "2026-09-20T09:48:00+09:00",
+      "lastSeen": "2026-09-20T14:51:00+09:00",
       "news": [
         {
           "title": "The press conference for 'UFC 331' was held at CryptoCom Arena on the 18th (Korea Standard Time).Lig..",
@@ -546,14 +572,20 @@
           "url": "https://www.ufc.com/video/160258",
           "source": "UFC.com",
           "date": "2026-09-19"
+        },
+        {
+          "title": "UFC 331 salaries: Champ Joshua Van's disclosed payout topped by one fighter",
+          "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/09/19/ufc-331-salaries-joshua-van-alexandre-pantoja-disclosed-payouts/91839878007/",
+          "source": "MMA Junkie",
+          "date": "2026-09-19"
         }
       ]
     },
     "유주상": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-20T09:48:00+09:00",
-      "lastSeen": "2026-09-20T09:48:00+09:00",
+      "lastSeen": "2026-09-20T14:51:00+09:00",
       "news": [
         {
           "title": "천당과 지옥 오간 '코리안 슈퍼보이' 최두호, 레전드 핏불 꺾고 UFC 챔피언 꿈 이어갈까",
@@ -571,6 +603,18 @@
           "title": "'8년 만에 랭킹 진입 도전' 최두호, 계체 통과…내일 핏��과 대결",
           "url": "https://www.news1.kr/sports/general-sport/6296049",
           "source": "뉴스1",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "‘좀비 주니어’ 유주상, UFC 2연패…11개월 만의 복귀전서 애스웰 주니어에 쓴맛",
+          "url": "https://v.daum.net/v/20260920090727655",
+          "source": "Daum",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "'도발→TKO 패' UFC 유주상 \"내 방���! 또 도발할 수 있다\" [인터뷰]",
+          "url": "https://www.nocutnews.co.kr/news/6580598",
+          "source": "노컷뉴스",
           "date": "2026-09-19"
         }
       ]
@@ -597,6 +641,104 @@
           "title": "“9명에게 32억8천만원씩”…이번주 로또 명당은 어디?",
           "url": "https://www.kyeonggi.com/article/20260919580169",
           "source": "경기일보",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "lafc": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-20T14:51:00+09:00",
+      "lastSeen": "2026-09-20T14:51:00+09:00",
+      "news": [
+        {
+          "title": "Son Heung-min Shines, LAFC Draws 2-2 with San Jose",
+          "url": "https://www.chosun.com/english/world-en/2026/09/20/NEZIFNN45ZDTJOISTSBIGUMBME/",
+          "source": "조선일보",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "Son Heung-min Records One Goal and One Assist... LAFC Draws 2-2 with San Jose Despite Numerical Disadvantage",
+          "url": "https://www.asiae.co.kr/en/article/2026092012290657538",
+          "source": "아시아경제",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "Son Heung-min (Los Angeles FC) showed off his sharp toes ahead of the A-match period.",
+          "url": "https://www.mk.co.kr/en/sports/12157300",
+          "source": "매일경제",
+          "date": "2026-09-20"
+        }
+      ]
+    },
+    "하피냐": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-20T14:51:00+09:00",
+      "lastSeen": "2026-09-20T14:51:00+09:00",
+      "news": [
+        {
+          "title": "'강인아 큰일 났다, 우승 못 하겠다' '미친' 하피냐 또 해트트릭 대폭발! 바르셀로나 7전 전승 행진, 세비야 원정 3-1 역전승..'벌써 개인 리그 12골, 팀 전 경기 멀티골 행진'",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/20/MRRDIZJQMQYGIOBSGYYGMMJWGA/",
+          "source": "조선일보",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "골골골골골골골! '7경기 33골' 바르셀로나, 역대 최강 공격력 과시→라리가 선두 질주",
+          "url": "https://v.daum.net/v/GBrTU0Hlra",
+          "source": "Daum",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "'오른발-머리-왼발로 쾅쾅쾅' 하피냐 美친 페이스...2G 연속 해트트릭→7경기 12골 폭발, 메시 기록까지 넘었다!",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553554623",
+          "source": "스포탈코리아",
+          "date": "2026-09-20"
+        }
+      ]
+    },
+    "최두호": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-20T14:51:00+09:00",
+      "lastSeen": "2026-09-20T14:51:00+09:00",
+      "news": [
+        {
+          "title": "UFC 한국인 파이터 전멸… 최두호 1R KO패하며 랭커 복귀 실패",
+          "url": "https://www.chosun.com/sports/sports_general/2026/09/20/HCVNV56EWJAYDPM3VJYDCT2Z6U/",
+          "source": "조선일보",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "UFC 최두호, 핏불에 1R TKO 패배…8년 만의 랭킹 재진입 무산",
+          "url": "https://www.newsis.com/view/NISX20260920_0003797063",
+          "source": "뉴시스",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "파이터의 세계",
+          "url": "https://m.news.zum.com/photo/54046543/107853178?cm=news_photolist&r=1&thumb=1",
+          "source": "ZUM 뉴스",
+          "date": "2026-09-19"
+        }
+      ]
+    },
+    "토토": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-20T14:51:00+09:00",
+      "lastSeen": "2026-09-20T14:51:00+09:00",
+      "news": [
+        {
+          "title": "롤토토의 숫자는 왜 그대로 믿기 어려울까? 2026 경기 분석",
+          "url": "https://www.outlookindia.com/play/korean/%EB%A1%A4%ED%86%A0%ED%86%A0-%EC%88%AB%EC%9E%90-%EA%B7%B8%EB%8C%80%EB%A1%9C-%EB%AF%BF%EA%B8%B0-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%9D%B4%EC%9C%A0-2026-%EA%B2%BD%EA%B8%B0%EB%B6%84%EC%84%9D",
+          "source": "Outlook India",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "토토사이트 높은 배당보다 먼저 봐야 할 2026 정산 기준",
+          "url": "https://www.outlookindia.com/play/korean/%ED%86%A0%ED%86%A0%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%86%92%EC%9D%80%EB%B0%B0%EB%8B%B9-%EC%A0%95%EC%82%B0%EA%B8%B0%EC%A4%80-2026-%ED%99%95%EC%9D%B8%EC%82%AC%ED%95%AD",
+          "source": "Outlook India",
           "date": "2026-09-19"
         }
       ]
