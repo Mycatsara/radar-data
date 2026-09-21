@@ -2,10 +2,10 @@
   "date": "2026-09-22",
   "keywords": {
     "구글": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-22T04:07:00+09:00",
-      "lastSeen": "2026-09-22T04:07:00+09:00",
+      "lastSeen": "2026-09-22T07:44:00+09:00",
       "news": [
         {
           "title": "퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개",
@@ -24,14 +24,26 @@
           "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2101412",
           "source": "Investing.com 한국어",
           "date": "2026-09-21"
+        },
+        {
+          "title": "Google hit with $463 million fine for EU location data rule breach",
+          "url": "https://abcnews.com/Technology/wireStory/google-hit-463-million-fine-eu-location-data-136616044",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
+          "url": "https://www.bbc.com/news/articles/ck1e52v16ngxo",
+          "source": "BBC",
+          "date": "2026-09-21"
         }
       ]
     },
     "업비트": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-22T04:07:00+09:00",
-      "lastSeen": "2026-09-22T04:07:00+09:00",
+      "lastSeen": "2026-09-22T07:44:00+09:00",
       "news": [
         {
           "title": "스마트폰으로 배우는 금융지식…업비트·서울시 '금융골든벨' 개최",
@@ -50,14 +62,26 @@
           "url": "https://www.etnews.com/20260921000031",
           "source": "전자신문",
           "date": "2026-09-21"
+        },
+        {
+          "title": "한국 상장하며 몸집 불린 엔화 코인…일평균 거래 2억→450억원",
+          "url": "https://v.daum.net/v/G6J30qFYtp",
+          "source": "Daum",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "널뛰기 반복하는 스테이블코인… 스테이블 맞나?",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170572",
+          "source": "IT조선",
+          "date": "2026-09-21"
         }
       ]
     },
     "윤동희": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-22T04:07:00+09:00",
-      "lastSeen": "2026-09-22T04:07:00+09:00",
+      "lastSeen": "2026-09-22T07:44:00+09:00",
       "news": [
         {
           "title": "롯데 2군선수 국대 승선 논란, 대타 쐐기포 폭발→솔직 심경 밝혔다 “난 대표팀에 어울리지 않는 선수인데…” [오!쎈 오카자키] - 머니투데이",
@@ -76,14 +100,26 @@
           "url": "https://www.nocutnews.co.kr/news/6581673",
           "source": "노컷뉴스",
           "date": "2026-09-21"
+        },
+        {
+          "title": "윤동희 '활짝'",
+          "url": "https://www.yna.co.kr/view/PYH20260921313500013",
+          "source": "연합뉴스",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "'국대' 윤동희, 태극마크 자격 증명했다…\"대표팀에 안 어울리는 성적이라 마음 무거웠어\" [AG 현장]",
+          "url": "https://v.daum.net/v/20260922072408090",
+          "source": "Daum",
+          "date": "2026-09-21"
         }
       ]
     },
     "조병현": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-22T04:07:00+09:00",
-      "lastSeen": "2026-09-22T04:07:00+09:00",
+      "lastSeen": "2026-09-22T07:44:00+09:00",
       "news": [
         {
           "title": "한국 야구, 하마터면 큰일 날 뻔…'국대 데뷔전' 실업야구 대만 투수에 혼쭐→\"제구 좋아 치기 어려웠다\" [AG 현장]",
@@ -102,14 +138,26 @@
           "url": "https://www.munhwa.com/article/11618720",
           "source": "문화일보",
           "date": "2026-09-21"
+        },
+        {
+          "title": "야구대표팀 대만과 1차전‥곽빈 6이닝 노히트 10탈삼진 역투",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853365_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "한국 야구, 곽빈 꽉찬 직구로 대만 타선 꽁꽁 묶었다!",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8669164",
+          "source": "KBS 뉴스",
+          "date": "2026-09-21"
         }
       ]
     },
     "치지직": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-22T04:07:00+09:00",
-      "lastSeen": "2026-09-22T04:07:00+09:00",
+      "lastSeen": "2026-09-22T07:44:00+09:00",
       "news": [
         {
           "title": "'농구 결승에 38만명 몰렸다'...한일전 응원 열기 모인 치지직, 스포츠 중계 가능성 확인",
@@ -152,10 +200,10 @@
       ]
     },
     "김영범": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-22T04:07:00+09:00",
-      "lastSeen": "2026-09-22T04:07:00+09:00",
+      "lastSeen": "2026-09-22T07:44:00+09:00",
       "news": [
         {
           "title": "“100번 봐도 믿기지 않아”…김영범 생애 첫 AG ‘금’",
@@ -174,14 +222,26 @@
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8668876",
           "source": "KBS 뉴스",
           "date": "2026-09-21"
+        },
+        {
+          "title": "한국에 없던 단거리 간판‥\"50m는 이미 정상급\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6853418_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "[아시안게임] 김효열 수영 총감독 \"김영범, 허허 웃어도 물속에선 철저\"",
+          "url": "https://v.daum.net/v/20260922070655848",
+          "source": "Daum",
+          "date": "2026-09-21"
         }
       ]
     },
     "dmz": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-22T04:07:00+09:00",
-      "lastSeen": "2026-09-22T04:07:00+09:00",
+      "lastSeen": "2026-09-22T07:44:00+09:00",
       "news": [
         {
           "title": "3 military officers injured in unidentified explosion during operation at DMZ: JCS",
@@ -200,14 +260,26 @@
           "url": "https://www.chosun.com/english/national-en/2026/09/21/REMX5U3JYBAK7MQYPWNJS2DVTI/",
           "source": "조선일보",
           "date": "2026-09-21"
+        },
+        {
+          "title": "Three Soldiers Injured in Landmine Explosion, North Korean Placement Suspected",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008764894",
+          "source": "SBS 뉴스",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "Yonhap News Summary",
+          "url": "https://en.yna.co.kr/view/AEN20260921009700320",
+          "source": "Yonhap News Agency",
+          "date": "2026-09-21"
         }
       ]
     },
     "발로란트 추석 이벤트": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-22T04:07:00+09:00",
-      "lastSeen": "2026-09-22T04:07:00+09:00",
+      "lastSeen": "2026-09-22T07:44:00+09:00",
       "news": [
         {
           "title": "(9/21~10/5) 2026 발로란트 추석 맞이 이벤트 안내",
@@ -245,6 +317,58 @@
           "title": "“AI가 만든 이미지인줄” 외신도 감탄한 韓펜싱 국대",
           "url": "https://www.donga.com/news/Sports/article/all/20260921/134713093/1",
           "source": "동아일보",
+          "date": "2026-09-21"
+        }
+      ]
+    },
+    "프로야구 순위": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-22T07:44:00+09:00",
+      "lastSeen": "2026-09-22T07:44:00+09:00",
+      "news": [
+        {
+          "title": "‘부산고 이도류’ 하현승, 전체 1순위로 키움행",
+          "url": "https://www.donga.com/news/Sports/article/all/20260922/134714823/2",
+          "source": "동아일보",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "'MLB 20억 제안' 뿌리친 거포 3루수, '김동주→허경민' 이젠 김지우... \"파워가 강점, 공수주 다 갖추겠다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/22/2026092202385676200",
+          "source": "머니투데이",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "전체 1순위 하현승부터 ‘라밤바’까지…드래프트 명장면 [현장영상]",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8668728",
+          "source": "KBS 뉴스",
+          "date": "2026-09-21"
+        }
+      ]
+    },
+    "삼성전자 주가": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-22T07:44:00+09:00",
+      "lastSeen": "2026-09-22T07:44:00+09:00",
+      "news": [
+        {
+          "title": "연휴 전에 살까? 팔까? 7000선 앞둔 코스피 어디로",
+          "url": "https://www.khan.co.kr/article/202609210700001",
+          "source": "경향신문",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "[마켓 프리뷰] 추석 앞두고 관망심리 이겨낸 코스피…'7천피' 재탈환",
+          "url": "https://v.daum.net/v/20260922073111190",
+          "source": "Daum",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "반도체 타고 '7천피' 탈환…삼성전자 5% 급등",
+          "url": "https://www.yna.co.kr/view/MYH20260921019600038",
+          "source": "연합뉴스",
           "date": "2026-09-21"
         }
       ]
@@ -1396,6 +1520,66 @@
         "title": "[창간 57] 올림픽 金 최가온 “정상 향해 달려온 지난 10년…이제는 나를 넘을래요”",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DdHJkUkxGZjFtRkxzalRKNFJlWFJYN1hOOTI4ZzdKR0J3TnRwXzRxMmYySlQxLUtsdmpYNkJZU2lxb3Iya1prTGw3YnpZTEtSOUpUT25uQVlnWWM?oc=5",
         "source": "일간스포츠",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "[아시안게임] 여자배구, 일본과 4강서 0-3 패배…22일 태국과 동메달 결정전",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Zd1AzeE5MWVRJOFRkNkdTczdheXR6VDdOMVFsNmpnTGxteUlSNEFtaTNCMHdCZ0RzV3VZSVMzTFRmMTY2dWVza1I1eUtjT2ExQzZGTnJacEpIMzTSAWBBVV95cUxNZW9OQTVvQTJsaWExSW9aQl9NVnlyVHhrcGtNRjJPeEI2aEZFdkItMzhPeWd1U0Rmd0VfNVRDUE52T0drZzA2TWdEU2xLZWwwVWpYNWtJYVBVRFVfVXZNY18?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "김영범, AG 수영 남자 자유형 50ｍ 금메달…지유찬 동메달",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GZi1pUVlxLVlJemlmak5MMjlpUk56ZjFzeVo5RXNzRllHSkxCQUhySUtZQ1kwa2NHcy1Ga1EzRDJXUWxhSnFWa1o3Q25fTWZSSC1CdQ?oc=5",
+        "source": "JTBC",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "이강인의 거친 백태클, '피의 보복' 부르나…발베르데와 '4년 악연' 위험천만해 보이는 것은 맞다",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qQ3dsejBKRHFzVjNGWlkxVGtDMmxZc3ZKZFRMazJkT3pGVkladlVoSUtrUlVaVjZSNzl1eFE3NVdLYmsxUDZOVkFNOWJRUFk?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "정규직 포기하고 일군 기적의 우승…테크볼 이준석의 인생 2막",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TVVJkOFlSeHNnRnBNOWcyWmsyU0ZJb0ZJVGdnSXl3blpvSFFVMWZQWXRvQ3hDTGZWcDJMSnRZZmN3R0JYM1UtdWhzWkp5Z25IdkNlNGdac3hSRVdsX3JhcVhZSXRpT3Vla2laWVM2NS1mUHM3LTNnbVpNbXEzRlk?oc=5",
+        "source": "TV조선뉴스",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "‘충격’ 아시안게임 첫 금지약물 양성 나왔다, 19세 태국 ‘배드민턴 아이돌’ 출전 정지 철퇴",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWJ0cUVudTZTaDhsanN5MnN0ODlsUVZVYmViaUVudGVWRGNhcDdCNWZqQ1BFWGQydG44Z2RZcU5HQ21SOEcxbEc1dk9FazE3M1pHSVN3Ukl6SFFUamhqSVkxODQycl9uZHZVNzc1UTlEVl9sS2ZCeVc3Z1NBMXVhYnk4Tkhqc3phVUhr?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "금메달 땄는데도 또 버스가 안 왔다…男농구 대표팀, 귀국길까지 '황당 대기'",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53Z2FDR1RLMEs5akVSc3RqTW5hNDMyVTdjMHV1Wlc5VkxrekhSLTJVY05XTS1zbVJlbmVkODRTU0hKUVA0MzRPNVVXTHhUdEhKalhIYlluY1dZa1lsdmU0UQ?oc=5",
+        "source": "asiae.co.kr",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "첫 소집 모레노호, ‘세대교체’ 아닌 손흥민-이강인 '시너지'가 필요하다 [이영규의 비욘더매치]",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5bnhVVlRxX29MdzBKYVh5VTBjaS1Sb2VVYTUxcHNYNDFSYlo1VEJwOXVzdU14Xy04WXJtMFJiNlFheFo5Q0RtU3l3X1NmM00?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "벤치에서 시작한 황인범, ‘우 클라시쿠’ 끝냈다…생일날 포르투 첫 골",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9teTVwbXNreTdGV3M3bzhvTzh1eWlYdlN5c0hPWUZrXzBydU9tUFRib1V2OGVJQnd0NWdPeTdaRnNtTG5VQ2twblJGWnFDYlgycmhQVXlhRUtSZ3FWdHhnY2lZcHNUS0dYcFZzNEJR?oc=5",
+        "source": "알파경제",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "‘1·2순위 이후 예측불허’ 2027 KBO 신인드래프트, 최대 변수 ‘빅리거’ 최지만",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xenRxaGV2ZUFLVU1KMDBjbUVsQXQ2NFY5c2lqUDV2VEVJUkZxdjNIb0F6dUhfQ3NhejVjU2lZZ2FoUGt2V2NwcWVOV3d0d1lmNlhQSUxtODBOeVFIMzJzRWVQOV9Bc3RLa25VSDNzUDRUdw?oc=5",
+        "source": "스포츠동아",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "‘5연패 도전’ 야구 대표팀, 대만과 첫 경기 [오늘의 아시안게임]",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpbkFCQnpiMm0wdG4zREdkd0Z4Ti1nS2JmTWIxbFA2S0d5X2J2allPUGtlZy1femY5eGVrSmpzRnAweDlCZm0tN1VBd2g4OHRMLThWbDVsWlBudm5oa0Z3NC1URDhYZWxsMl9YekFaQ3R5OUZFZS00?oc=5",
+        "source": "한겨레",
         "date": "2026-09-20"
       }
     ]
