@@ -346,10 +346,10 @@
       ]
     },
     "김영범": {
-      "count": 2,
-      "maxTraffic": 100,
+      "count": 3,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T06:00:00+09:00",
+      "lastSeen": "2026-09-21T22:44:00+09:00",
       "news": [
         {
           "title": "[아시안게임] 수영 김영범, 판잔러에 0.04초 뒤진 은메달‥황선우는 3위",
@@ -374,6 +374,12 @@
           "url": "https://www.donga.com/news/Sports/article/all/20260921/134706890/2",
           "source": "동아일보",
           "date": "2026-09-20"
+        },
+        {
+          "title": "한국 남자 계영 800ｍ 동메달 획득…자유형 50ｍ는 금·동 수확",
+          "url": "https://v.daum.net/v/20260921190309585",
+          "source": "Daum",
+          "date": "2026-09-21"
         }
       ]
     },
@@ -488,10 +494,10 @@
       ]
     },
     "최지만": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-21T15:52:00+09:00",
-      "lastSeen": "2026-09-21T15:52:00+09:00",
+      "lastSeen": "2026-09-21T22:44:00+09:00",
       "news": [
         {
           "title": "“우리는 1라운드 투수 뽑는다” ML 67홈런 최지만, 2라운드로 밀리나…수술 받은 무릎, 지명타자 고정이 변수",
@@ -510,14 +516,26 @@
           "url": "https://v.daum.net/v/20260921103734098",
           "source": "Daum",
           "date": "2026-09-21"
+        },
+        {
+          "title": "전직 빅리거 최지만, KT 유니폼 입는다…2라운드 전체 15순위로 지명",
+          "url": "https://www.newsis.com/view/NISX20260921_0003798652",
+          "source": "뉴시스",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "김현수·장성우 있는데 최지만까지?…KT 나도현 단장도 놀랐다 \"감독님과 상의를 했다\" [MD잠실]",
+          "url": "https://v.daum.net/v/20260921182840568",
+          "source": "Daum",
+          "date": "2026-09-21"
         }
       ]
     },
     "드래프트": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-09-21T15:52:00+09:00",
-      "lastSeen": "2026-09-21T15:52:00+09:00",
+      "lastSeen": "2026-09-21T22:44:00+09:00",
       "news": [
         {
           "title": "프로야구 드래프트 전체 1순위, 부산고 하현승 지명",
@@ -536,14 +554,26 @@
           "url": "https://www.yna.co.kr/view/MYH20260920001800038",
           "source": "연합뉴스",
           "date": "2026-09-21"
+        },
+        {
+          "title": "부산고 '이도류' 하현승, KBO 신인 드래프트 전체 1순위 키움행",
+          "url": "https://www.yna.co.kr/view/AKR20260921128200007",
+          "source": "연합뉴스",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "천하의 차명석 꼬리 내렸다 \"'라밤바' 박근서 아버지 도저히 못 이겨\"…대체 무슨 일일까",
+          "url": "https://v.daum.net/v/20260921162439301?f=p",
+          "source": "Daum",
+          "date": "2026-09-21"
         }
       ]
     },
     "김다현": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-21T15:52:00+09:00",
-      "lastSeen": "2026-09-21T15:52:00+09:00",
+      "lastSeen": "2026-09-21T22:44:00+09:00",
       "news": [
         {
           "title": "심수봉, 같은 행사서 김다현 공개 비판…“저 아가씨 내보내지말라. 노래·삶 뭔지 몰라”",
@@ -561,6 +591,18 @@
           "title": "'김다현 저격 논란' 심수봉…\"김다현 父에 전화 사과, 100% 잘못\" [직격인터뷰]",
           "url": "https://www.news1.kr/life-culture/general-cultural/6297562",
           "source": "뉴스1",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "심수봉, 후배 가수에 \"노래 모르는 아가씨\" 직격…논란일자 사과",
+          "url": "https://www.yna.co.kr/view/AKR20260921140200005",
+          "source": "연합뉴스",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "'54살 어린 후배' 김다현 저격한 심수봉...하루 만에 \"실언했다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/21/2026092116093315859",
+          "source": "머니투데이",
           "date": "2026-09-21"
         }
       ]
@@ -724,6 +766,150 @@
           "title": "Is Facebook down? Users have problem with Facebook",
           "url": "https://www.app.com/story/news/2026/09/20/is-facebook-down-facebook-down-sunday/91867575007/",
           "source": "Asbury Park Press",
+          "date": "2026-09-21"
+        }
+      ]
+    },
+    "윤동희": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-21T22:44:00+09:00",
+      "lastSeen": "2026-09-21T22:44:00+09:00",
+      "news": [
+        {
+          "title": "‘롯데 소리질러’ 국제용 타자의 귀환! 윤동희 대타 쐐기포 작렬→대만전 승리 눈앞이다 [오!쎈 오카자키] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/21/202609212050771984O",
+          "source": "머니투데이",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "'절치부심 특타 동기' 박준순·윤동희의 불방망이…질타에 2군행 아픔 '훨훨'",
+          "url": "https://www.nocutnews.co.kr/news/6581673",
+          "source": "노컷뉴스",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "'대타 쐐기포' 윤동희 \"대표팀 승선 부담됐지만…한시름 놓았다\"[AG]",
+          "url": "https://www.news1.kr/sports/baseball/6298098",
+          "source": "뉴스1",
+          "date": "2026-09-21"
+        }
+      ]
+    },
+    "치지직": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-21T22:44:00+09:00",
+      "lastSeen": "2026-09-21T22:44:00+09:00",
+      "news": [
+        {
+          "title": "'농구 결승에 38만명 몰렸다'...한일전 응원 열기 모인 치지직, 스포츠 중계 가능성 확인",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155448",
+          "source": "테크M",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "아시안게임 영상 클립, AI로 생성…‘스포터’로 생태계 확대하는 네이버 치지직",
+          "url": "https://www.dt.co.kr/article/12085177",
+          "source": "www.dt.co.kr",
+          "date": "2026-09-21"
+        }
+      ]
+    },
+    "아시안게임": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-21T22:44:00+09:00",
+      "lastSeen": "2026-09-21T22:44:00+09:00",
+      "news": [
+        {
+          "title": "오늘 대만과 1차전‥곽빈 vs 린이웨이 선발 맞대결",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6853180_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "[아시안게임] 류지현 감독 \"타격감 좋은 김주원 활용방안 준비하겠다\"",
+          "url": "https://www.yna.co.kr/view/AKR20260921181000007",
+          "source": "연합뉴스",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "앞서가는 대한민국",
+          "url": "https://v.daum.net/v/20260921191314826",
+          "source": "Daum",
+          "date": "2026-09-21"
+        }
+      ]
+    },
+    "dmz": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-21T22:44:00+09:00",
+      "lastSeen": "2026-09-21T22:44:00+09:00",
+      "news": [
+        {
+          "title": "Yonhap News Summary",
+          "url": "https://en.yna.co.kr/view/AEN20260921009700320",
+          "source": "Yonhap News Agency",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "Landmine on Western Front Injures 3 Soldiers: North Korean Mine Suspected?",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008764603",
+          "source": "SBS 뉴스",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "Rep. Yu Yong-weon Links DMZ Explosion to North Korean Minefield",
+          "url": "https://www.chosun.com/english/national-en/2026/09/21/REMX5U3JYBAK7MQYPWNJS2DVTI/",
+          "source": "조선일보",
+          "date": "2026-09-21"
+        }
+      ]
+    },
+    "발로란트 추석 이벤트": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-21T22:44:00+09:00",
+      "lastSeen": "2026-09-21T22:44:00+09:00",
+      "news": [
+        {
+          "title": "(9/21~10/5) 2026 발로란트 추석 맞이 이벤트 안내",
+          "url": "https://playvalorant.com/ko-kr/news/announcements/2026-chuseok-event/",
+          "source": "VALORANT",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "(9/21 ~ 소진 시까지) 카카오페이 VP 충전 10% 할인 이벤트",
+          "url": "https://playvalorant.com/ko-kr/news/announcements/kakaopay-vp-discount-event-0921/",
+          "source": "VALORANT",
+          "date": "2026-09-21"
+        }
+      ]
+    },
+    "양승혜": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-21T22:44:00+09:00",
+      "lastSeen": "2026-09-21T22:44:00+09:00",
+      "news": [
+        {
+          "title": "“AI처럼 완벽한 미모”…외신 놀란 ‘韓펜싱 국가대표’ 정체",
+          "url": "https://v.daum.net/v/20260921124436921",
+          "source": "Daum",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "\"AI 미녀야?\"…韓 펜싱 국대 양승혜, 해외 언론도 주목[AG]",
+          "url": "https://www.news1.kr/sports/general-sport/6297240",
+          "source": "뉴스1",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "\"실제 인물 맞나\" 외신 극찬… 펜싱 아이돌 양승혜, 실력까지 '완벽' [아시안게임]",
+          "url": "https://www.kyeonggi.com/article/20260921580430",
+          "source": "경기일보",
           "date": "2026-09-21"
         }
       ]
