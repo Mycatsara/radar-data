@@ -1,11 +1,37 @@
 {
   "date": "2026-09-21",
   "keywords": {
+    "7": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-21T10:24:00+09:00",
+      "lastSeen": "2026-09-21T10:24:00+09:00",
+      "news": [
+        {
+          "title": "7 Wirraway Boulevard, Badagarang, NSW 2540",
+          "url": "https://www.realestate.com.au/property-residential+land-nsw-badagarang-204654680",
+          "source": "Real Estate",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "Kristian Fulton's INT against Daniel Jones gives Chiefs an instant-red-zone possession",
+          "url": "https://www.nfl.com/videos/kristian-fulton-s-int-against-daniel-jones-gives-chiefs-an-instant-red-zone-possession",
+          "source": "NFL.com",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "Travis Kelce scores after Kristian Fulton interception, Chiefs lead 10-7",
+          "url": "https://sports.yahoo.com/articles/travis-kelce-scores-kristian-fulton-005039522.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-20"
+        }
+      ]
+    },
     "instagram": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 100,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T08:11:00+09:00",
+      "lastSeen": "2026-09-21T10:24:00+09:00",
       "news": [
         {
           "title": "Kate Beckinsale Shares Bleak Messages on Instagram",
@@ -40,10 +66,10 @@
       ]
     },
     "레알마드리드": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T08:11:00+09:00",
+      "lastSeen": "2026-09-21T10:24:00+09:00",
       "news": [
         {
           "title": "‘쐐기골 기점’ 이강인, 첫 마드리드 더비서 기립박수 받았다",
@@ -78,10 +104,10 @@
       ]
     },
     "축구중계": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 500,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T08:11:00+09:00",
+      "lastSeen": "2026-09-21T10:24:00+09:00",
       "news": [
         {
           "title": "[아시안게임] 여자배구대표팀, 결전지 나고야로…\"항저우 악몽 씻겠다\"",
@@ -98,10 +124,10 @@
       ]
     },
     "리버풀": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T08:11:00+09:00",
+      "lastSeen": "2026-09-21T10:24:00+09:00",
       "news": [
         {
           "title": "[pl.review] ‘2400억 사나이’ 이삭 결승골! 리버풀, 본머스에 1-0 승...5G 무패",
@@ -136,10 +162,10 @@
       ]
     },
     "맨시티": {
-      "count": 3,
+      "count": 4,
       "maxTraffic": 200,
       "firstSeen": "2026-09-21T03:05:00+09:00",
-      "lastSeen": "2026-09-21T08:11:00+09:00",
+      "lastSeen": "2026-09-21T10:24:00+09:00",
       "news": [
         {
           "title": "'8골 터진 난타전' 맨시티, 선덜랜드에 5-3 승리...리그 5승 전승으로 선두 '질주' - 머니투데이",
@@ -352,10 +378,10 @@
       ]
     },
     "조선일보": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-21T08:11:00+09:00",
-      "lastSeen": "2026-09-21T08:11:00+09:00",
+      "lastSeen": "2026-09-21T10:24:00+09:00",
       "news": [
         {
           "title": "[에너지 오디세이]⑤대왕고래는 죄가 없다…정권 5년보다 긴 자원개발의 시간",
@@ -373,6 +399,90 @@
           "title": "윤석열 정부 대왕고래 감사 결과에 조선일보와 동아일보 엇갈렸다",
           "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337157",
           "source": "미디어오늘",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "[와이라노] 尹 대왕고래 ‘140억 배럴’ 확률 0.0002%",
+          "url": "https://www.kookje.co.kr/contents/newsbody.asp?code=0200&key=20260921.99099006805",
+          "source": "국제신문",
+          "date": "2026-09-20"
+        }
+      ]
+    },
+    "기상청": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-21T10:24:00+09:00",
+      "lastSeen": "2026-09-21T10:24:00+09:00",
+      "news": [
+        {
+          "title": "[날씨] 한낮, 늦더위 기승…남부 자외선 주의",
+          "url": "https://v.daum.net/v/20260921063303347",
+          "source": "Daum",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "전국 맑고 내륙 일부는 일교차 15도 이상…낮 최고 24∼30도",
+          "url": "https://www.yna.co.kr/view/AKR20260921023500530",
+          "source": "연합뉴스",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "동해안만 선선, 나머지 전국 30도 근접 늦더위",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8668336",
+          "source": "KBS 뉴스",
+          "date": "2026-09-21"
+        }
+      ]
+    },
+    "크래프톤 주가": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-21T10:24:00+09:00",
+      "lastSeen": "2026-09-21T10:24:00+09:00",
+      "news": [
+        {
+          "title": "베트남 선수 '방플' 논란에 PUBG 대회 취소…\"재발 방지책 마련\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260920046351017",
+          "source": "연합뉴스",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "'방플' 논란에 스폰서도 떠났다…크래프톤 비난 폭주한 사연",
+          "url": "https://www.hankyung.com/article/202609216931i",
+          "source": "한국경제",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "PUBG 아시아 스타즈 2026 - 이벤트 - PUBG: 배틀그라운드",
+          "url": "https://www.pubg.com/ko/events/notice/10926",
+          "source": "www.pubg.com",
+          "date": "2026-09-21"
+        }
+      ]
+    },
+    "달력": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-21T10:24:00+09:00",
+      "lastSeen": "2026-09-21T10:24:00+09:00",
+      "news": [
+        {
+          "title": "달력은 똑같이 빨간데…작은 회사 다니면 ‘유급휴일’도 남 얘기",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02791286645582088&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "'5인 미만 사업장' 직장인 절반 이상, \"추석에도 유급으로 못 쉰다\"",
+          "url": "https://www.kyeonggi.com/article/20260920580381",
+          "source": "경기일보",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "최저임금 위반 신고 10건 중 9건 ‘50인 미만’…5인 미만만 68%",
+          "url": "https://mbiz.heraldcorp.com/article/10880219",
+          "source": "헤럴드경제",
           "date": "2026-09-20"
         }
       ]
