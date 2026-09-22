@@ -2,10 +2,10 @@
   "date": "2026-09-23",
   "keywords": {
     "죽음": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-23T02:12:00+09:00",
-      "lastSeen": "2026-09-23T02:12:00+09:00",
+      "lastSeen": "2026-09-23T05:25:00+09:00",
       "news": [
         {
           "title": "[공감]죽음의 메시지",
@@ -24,14 +24,20 @@
           "url": "https://v.daum.net/v/20260919060239429?f=p",
           "source": "Daum",
           "date": "2026-09-22"
+        },
+        {
+          "title": "10화 죽음이 한 줌으로 쥐어진다면",
+          "url": "https://brunch.co.kr/@shoop1305/18",
+          "source": "브런치",
+          "date": "2026-09-22"
         }
       ]
     },
     "신병4": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-23T02:12:00+09:00",
-      "lastSeen": "2026-09-23T02:12:00+09:00",
+      "lastSeen": "2026-09-23T05:25:00+09:00",
       "news": [
         {
           "title": "‘신병4’ 2중대 ‘전원 전사’ 충격에 각성…3회 연속 시청률 4.6% 콘크리트 [차트IS]",
@@ -54,10 +60,10 @@
       ]
     },
     "김혜수": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-23T02:12:00+09:00",
-      "lastSeen": "2026-09-23T02:12:00+09:00",
+      "lastSeen": "2026-09-23T05:25:00+09:00",
       "news": [
         {
           "title": "\"김혜수·엄정화 애 안 낳아 안 늙은 것 아냐\" 백지연 소신 발언 - 머니투데이",
@@ -76,14 +82,26 @@
           "url": "https://www.sportsseoul.com/news/read/1636908",
           "source": "스포츠서울",
           "date": "2026-09-22"
+        },
+        {
+          "title": "'시그널2' 기다리는 중..'56세' 김혜수 미모는 더욱 물올랐다",
+          "url": "https://v.daum.net/v/20260922185737147",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "56세 김혜수, 올백 머리도 소화…얼굴형 완벽",
+          "url": "https://www.newsis.com/view/NISX20260922_0003800861",
+          "source": "뉴시스",
+          "date": "2026-09-22"
         }
       ]
     },
     "무신사": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-23T02:12:00+09:00",
-      "lastSeen": "2026-09-23T02:12:00+09:00",
+      "lastSeen": "2026-09-23T05:25:00+09:00",
       "news": [
         {
           "title": "무신사, 라코스테·핏더사이즈 협업 에디션 선봬",
@@ -106,10 +124,10 @@
       ]
     },
     "대통령": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-23T02:12:00+09:00",
-      "lastSeen": "2026-09-23T02:12:00+09:00",
+      "lastSeen": "2026-09-23T05:25:00+09:00",
       "news": [
         {
           "title": "\"지금까지 국민 속인 것\" 날 선 발언…또 이 대통령 직격",
@@ -127,6 +145,18 @@
           "title": "유시민 \"李대통령, 검찰개혁 놓고 지금까지 국민 속였다\"",
           "url": "https://www.chosun.com/politics/assembly/2026/09/22/MOQAQ7KXCJDP5MC2ZG4HISKMVU/",
           "source": "조선일보",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "이 대통령 \"북한 더 이상 고립국 아냐\" '현실적 해법' 제시",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853600_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "李 “북핵-ICBM 개발 중단… 美 대북제재 완화와 교환을”",
+          "url": "https://www.donga.com/news/Politics/article/all/20260923/134723640/2",
+          "source": "동아일보",
           "date": "2026-09-22"
         }
       ]
@@ -238,6 +268,136 @@
           "title": "\"집 사려면 올해 안에 … 한강벨트 유망, 청약보다 기존주택\"",
           "url": "https://v.daum.net/v/20260922174508778",
           "source": "Daum",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "한다감": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-23T05:25:00+09:00",
+      "lastSeen": "2026-09-23T05:25:00+09:00",
+      "news": [
+        {
+          "title": "배우 한다감, 결혼 6년 만에 엄마 됐다…“오늘 저녁 아들 출산”",
+          "url": "https://v.daum.net/v/20260922224607765",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "배우 한다감, 아들 출산…\"산모와 아이 모두 건강\"",
+          "url": "https://www.yna.co.kr/view/AKR20260922197500005",
+          "source": "연합뉴스",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "한다감, 출산 앞두고 고급 외제차 선물 \"내 이미지와 맞아\"",
+          "url": "https://www.newsis.com/view/NISX20260921_0003798805",
+          "source": "뉴시스",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "opus 5.5": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-23T05:25:00+09:00",
+      "lastSeen": "2026-09-23T05:25:00+09:00",
+      "news": [
+        {
+          "title": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
+          "url": "https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html",
+          "source": "The New York Times",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Anthropic unveils Claude Opus 5.5",
+          "url": "https://www.reuters.com/business/anthropic-unveils-claude-opus-55-2026-09-22/",
+          "source": "Reuters",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Anthropic releases cheaper AI model ahead of IPO",
+          "url": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "전국노래자랑": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-23T05:25:00+09:00",
+      "lastSeen": "2026-09-23T05:25:00+09:00",
+      "news": [
+        {
+          "title": "유리, 제주 정착 3년만에 '전국노래자랑'까지…도민들 사이 흥 폭발 [엑's 이슈]",
+          "url": "https://v.daum.net/v/bwUI1kLxXE",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "이래도 이효리 따라하기? 소녀시대 유리, 제주도 전국노래자랑 관람 포착 [Oh!쎈 이슈] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/22/GJSDEZJXMQ3DCNZZHFSTGOLBGU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "유리, '전국노래자랑'서 손뼉 치며…찐 제주도민 된 근황",
+          "url": "https://www.newsis.com/view/NISX20260922_0003800365",
+          "source": "뉴시스",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "웨스팅하우스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-23T05:25:00+09:00",
+      "lastSeen": "2026-09-23T05:25:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 韓, 미국에 원전 8기 건설 …'한국형' 2기는 웨스팅에 로열티낼듯",
+          "url": "https://v.daum.net/v/20260922174809889",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "“대미투자, 年 200억달러-총 2000억달러로 제한” 재확인",
+          "url": "https://www.donga.com/news/Economy/article/all/20260923/134723501/2",
+          "source": "동아일보",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "한미동맹 관리자는 어디에?…워싱턴은 결국 ‘트럼프’로 통한다",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8669620",
+          "source": "KBS 뉴스",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "닥터x: 하얀 마피아의 시대": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-23T05:25:00+09:00",
+      "lastSeen": "2026-09-23T05:25:00+09:00",
+      "news": [
+        {
+          "title": "SBS 대박 났다…'시청률 24.9%+1031만' 女배우들 '병원 권력' 암투 다룬 韓 드라마 ('닥터X')",
+          "url": "https://v.daum.net/v/zQ7k5fztJM",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "'닥터X' 김지원·이정은만 기대? 조연진까지 빈틈없다 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/22/2026092208587294496",
+          "source": "머니투데이",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "김지원, 이정은과 압도적 케미…색다른 관계성 예고하는 '닥터X' [화보] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/21/GMYGMYRYGU2TEZTDGVRTIYRTGU/",
+          "source": "Chosunbiz",
           "date": "2026-09-22"
         }
       ]
@@ -840,6 +1000,12 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sUTEzN0VTNUM1MkVydk5KYnIzRDFUVUlXQ1pHSnR5VTM0RTJHWTgxaXNhRGo0YjlIWTc0UWpxR2NpczdvbmZUSzdxRzVVM2wxcGVBeWZ3?oc=5",
         "source": "지디넷코리아",
         "date": "2026-09-22"
+      },
+      {
+        "title": "“엔비디아 잘난 척도 끝이다”…알리바바 신형 AI칩 어느 정도길래",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9HOEFxV1U4VlA2cDYtbE1yY25BNjVwOU9QTFBGSEI0VnBQLWxyRDJ5eUFwR05sb3plQXVfc3VOZzZpaWFLRXc?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-22"
       }
     ],
     "ENTERTAINMENT": [
@@ -1389,6 +1555,60 @@
         "title": "“어차피 (고)우석이 대안은 준비해야 하니까” LG 고우석 효과로 2위 도전…10월엔 다르다, 염갈량은 움직인다",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGT2JsYnFaYjcybE40c2loT0h1WkgtcGQzWC04aTE2N3lsMnpzZ1FGazVSZk5VVkV6TUhkV3pfNjV5aVItY0tJNTVLSVFQaXNHNFo0bHExbFpKZjBMUDBsZjdiZEhrdw?oc=5",
         "source": "마이데일리",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "노시환 투런·조형우 만루포…한국 야구, 홍콩에 13-0 콜드게임승",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54WWdfNkpGNW01T0wwdHdKQXQ1bmxFV3Z4WFhxeEpkUWplY3FuZ01DUW1PaGtwajNMeTRQdWlkLXV6RzBDRmlJZHVfSE9ONk9QVGpXMGxLcjNVd9IBX0FVX3lxTE5kVlZzbXJjcXBnQTNzcFpUdk5KTnRwNkpNakEwdUVWYXlQOHp2VTVaMlA2eTVWY2RsOVo0NjNnNWQ4YW82eTdfdnQxX0dBa2VZVnM1bmtqdzNQQno2Rnhz?oc=5",
+        "source": "경향신문",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "월드컵 아픔 털고 새 출발…모레노호, 에콰도르와 데뷔전 펼쳐",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoU1UwUEhCR2t5QjNiRldYVldidE1MM0djTm50X1pmZnYwNGtqdmdCdmxBSENmOVQ2dGlNM3ZLeTc4MndXWDk3cXdpa005VXlZc1lOb3AzRGpFTGs?oc=5",
+        "source": "강원일보",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "수영 김우민, 개인전 다관왕 시동…펜싱 ‘금빛 찌르기’ 시작 [오늘의 아시안게임]",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PV3NQWlU3ZDNvYzFYTDBuYklXQVR4VV9sNHZpMHZ5V3JlZUtmbTlTNU9jVm9UWVBiSjNyaEliWVNGUzZoM0gwZXZkSXU5Zlp2bnVWXzNYdGdLWU1Hck5tN1hFNzVOZTRMYUV1WFJqX0NaQ01jbVFN?oc=5",
+        "source": "한겨레",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "‘홍명보 감독 선임 부당개입’ 혐의 정몽규-이임생 등 3명 檢송치",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YYjVfRFRMQWVxanVkZFFfeHJ5a2FtcWxZU2RTNWhuNXpGelhJbE51MWFDenBLOU5nTF9SYjJPbG9WZVY2Rjh4MnBiYnlNbFdOb2NXNTlpX29fZ2VzSlRDMXl1TTFKUjZ3U1dtV2UxRWtvNUh3bVHSAWZBVV95cUxOemY3OHBCXzBGZWZSczVmWW0wdHBjRWJGZGtPYzFkNWdwUVFRTEd6X25aT0VteTh4Z3VUb1oxbkxDQVdFTEFIakptZlZWRVpWOFZGY3JyMWk2d1VWRzk5RndKaHg1NWc?oc=5",
+        "source": "동아일보",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "여자 농구, 대만에 완승...조별리그 3연승으로 1위",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SaGkxYzgxazBCUEtKaDNuMkh6X2xfVjd3amVwcE5hbEstaVVnVURhbTJvSTRkdkFhdW1nY0hldTJ3Y0J0a0dFOVQ4bU1rQ2IyQ2dXMXMtekEzejRaZ3c?oc=5",
+        "source": "YTN",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "[아시안게임] '필승카드' 안세영 앞장선 女배드민턴, 4강서 일본과 맞대결(종합2보)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UjVHZjZGcHl3ZEJaUXhUYlpvRnhvajhhUm9qMW1QcnBCZkItajVVVlJ0bVJFMXVDVWZwR3FYY0xmUFhDQnU5Vy1Mbk9nLVMzOVdPaFBQWDA2N2PSAWBBVV95cUxOQmNYUE0xdGd1UDR1OEJaZTVaNHN3VVJuVnZ1cEZEVTF0eHBhU1hFMG94QkNBNHZYbEN2SVJQLTRoWjBNVThCTC1pSVhWbDFva1d2bk1Xc201cmg5UnE1ckM?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "롯데 지명 박근서 아버지, 과��� 맥주 모델 활동…‘라밤바’ 열창 후 재조명",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Xd21HTUZKTUpwYmYweW9LY0l5MVdWUDhhbFdsbVBTZUdaenZ2aXgteFRhdnM5Um0xcXRlSzBxZC10Rng4aFV1cXdoUmJ1NGdYd2FiMTlXTnFBNEt6MDdlS1N3VGVCXzROX3hCa093?oc=5",
+        "source": "아시아투데이",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "[2026 아시안게임]“한가위 금빛 낭보 기다린다”…강원 태극전사 추석 메달 사냥 기대",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50cjRDUzFKVkZ4bGtrbjNkT25wa1FSM2FyMC1vZ1FDR3daejlOVmlzcXJrY1JkTWdXQXI3Wmd6M2h1RGFuMTVoTDlaRHRjTDNjY0ItNkh4djU4bDg?oc=5",
+        "source": "강원일보",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "\"터미네이터와 싸워보니…\" 발차기 한 번에 나뒹군 男",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oNXlGM3hzN0xNblVqcHpmZ2doUEM0X1ZJOFpsNDFKWndMVjk2Yjh4VmxTZmtFRmJwTHA1VG5KbmRQZWZfY2ZvRUdqcXAtWmlsWFA3TmtsY3ZfRFlHS2lKcmpJUXpEdldhWElZZVV6d2ZpTjA?oc=5",
+        "source": "마켓인",
         "date": "2026-09-22"
       }
     ]
