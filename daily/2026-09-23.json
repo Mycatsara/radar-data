@@ -401,6 +401,266 @@
           "date": "2026-09-22"
         }
       ]
+    },
+    "사건": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-23T08:10:00+09:00",
+      "lastSeen": "2026-09-23T08:10:00+09:00",
+      "news": [
+        {
+          "title": "[단독]이 대통령, 귀국 직후 '내란 사건 특별수사본부' 구성 지시 검토",
+          "url": "https://v.daum.net/v/20260923065855370",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "국힘, 식약처 항의 방문…\"김승원 의혹 자료 공개해야\"(종합)",
+          "url": "https://v.daum.net/v/xqnuIgRf1A",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "‘제넨셀’ 사건 관계자…국감 증인 채택 놓고 與野 줄다리기 - 조선비���",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/09/23/WVP37TW45VFC7FDRLAYOUKAWSM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "황보라": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-23T08:10:00+09:00",
+      "lastSeen": "2026-09-23T08:10:00+09:00",
+      "news": [
+        {
+          "title": "황보라, 화장실서 낙상 사고→병원行 \"머리 뒤로 완전히 박았다\" [보라이어티]",
+          "url": "https://v.daum.net/v/qjQyz71yvp",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "황보라 “아들 목욕시킨 뒤 뒤로 꽈당”…머리 부딪혀 병원행",
+          "url": "https://sports.donga.com/ent/article/all/20260922/134723974/1",
+          "source": "스포츠동아",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "'유튜브' 황보라 \"뒤로 꽈당 넘어져\"…갑작스러운 병원行",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6299505",
+          "source": "뉴스1",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "정준하": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-23T08:10:00+09:00",
+      "lastSeen": "2026-09-23T08:10:00+09:00",
+      "news": [
+        {
+          "title": "정준하 아들, 배우 상 얼굴…이국적 분위기",
+          "url": "https://www.newsis.com/view/NISX20260922_0003800621",
+          "source": "뉴시스",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "정준하 아들 로하, 언제 이렇게 컸지?..깜짝 놀랄 ‘훈훈’ 비주얼 [Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/22/GI3DKOBWGFRTGY3BMZRWINZXGU/",
+          "source": "조선일보",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "정준하 아들, 훈남으로 자랐다…\"이번이 마지막\" 아빠 지원군 자처",
+          "url": "https://v.daum.net/v/20260922103139818",
+          "source": "Daum",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "추분": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-09-23T08:10:00+09:00",
+      "lastSeen": "2026-09-23T08:10:00+09:00",
+      "news": [
+        {
+          "title": "대구·경북 대체로 맑아…내륙엔 안개 '주의'",
+          "url": "https://www.yna.co.kr/view/AKR20260923014500053",
+          "source": "연합뉴스",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "[날씨] 절기 '추분', 쾌청한 하늘...한낮 늦더위, 큰 일교차",
+          "url": "https://www.ytn.co.kr/_ln/0108_202609230735351374",
+          "source": "YTN",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "인천, 낮 최고기온 28도…대기 건조해 화재 유의",
+          "url": "https://www.newsis.com/view/NISX20260922_0003800820",
+          "source": "뉴시스",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "장윤정": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-23T08:10:00+09:00",
+      "lastSeen": "2026-09-23T08:10:00+09:00",
+      "news": [
+        {
+          "title": "트로트계 저격 난리 속…장윤정, 대체 후배들에 얼마나 잘한 거야 \"추석이라고 바리바리\" [엑's 이슈]",
+          "url": "https://v.daum.net/v/xxcHr5Tstd",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "장윤정, 후배들 추석 선물에 환한 미소…사무실서 따뜻한 인증샷",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16207371",
+          "source": "톱스타뉴스",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "장윤정, 인생 잘 살았네…추석에 후배들 줄 섰다 \"바리바리 ��마워요\"",
+          "url": "https://mydaily.co.kr/page/view/2026092220205371429",
+          "source": "마이데일리",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "핑클": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-23T08:10:00+09:00",
+      "lastSeen": "2026-09-23T08:10:00+09:00",
+      "news": [
+        {
+          "title": "[잇슈 컬처] ‘1세대 걸그룹’ 핑클, 21년 만에 활동 재개",
+          "url": "https://v.daum.net/v/20260922070222735",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "[공식] 핑클 재결합 발표…“단발성 만남 NO” 21년 만 새출발",
+          "url": "https://sports.khan.co.kr/article/202609210934003",
+          "source": "스포츠경향",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "21년 만에 완전체로…핑클, 지속적 활동 예고",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764758",
+          "source": "SBS 뉴스",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "현대자동차": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-23T08:10:00+09:00",
+      "lastSeen": "2026-09-23T08:10:00+09:00",
+      "news": [
+        {
+          "title": "현대로템, 항공우주에 ‘현대차 AI’ 이식…“안전사고 없이 품질 극대화”",
+          "url": "https://v.daum.net/v/20260922193337007",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "자동차 공장 AI 기술, 항공우주로…현대로템·현대차 맞손",
+          "url": "https://zdnet.co.kr/view/?no=20260922093451",
+          "source": "지디넷코리아",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "현대로템, 항공우주 사업장에 현대차 스마트팩토리 도입",
+          "url": "https://www.yna.co.kr/view/AKR20260922043000003",
+          "source": "연합뉴스",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "인공지능": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-23T08:10:00+09:00",
+      "lastSeen": "2026-09-23T08:10:00+09:00",
+      "news": [
+        {
+          "title": "구글 전 안전담당 임원 \"AI, SNS보다 아동에 더 위험\"",
+          "url": "https://v.daum.net/v/20260923072405793",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "前 구글 안전담당 \"AI, 아동에게 SNS보다 위험\"[오늘아침]",
+          "url": "https://v.daum.net/v/20260923073900013",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "\"우리 애도 쓰는데\"…AI에 사고 맡기다 '인지 외주화' 우려",
+          "url": "https://www.hankyung.com/article/202609232325H",
+          "source": "한국경제",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "농민": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-23T08:10:00+09:00",
+      "lastSeen": "2026-09-23T08:10:00+09:00",
+      "news": [
+        {
+          "title": "“농지조사, 평당 9만원 땅 6만원에도 안 팔려”…농민들, 장관 만나 불만 폭발",
+          "url": "https://v.daum.net/v/3Cd0EHlwWd",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "농식품부 장관, 농지 전수조사 현장 간담회 참석",
+          "url": "https://www.korea.kr/news/pressReleaseView.do?newsId=156782977&pWise=sub&pWiseSub=J1",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "'전수조사' 칼 뺐지만‥\"늙어 농사 못 짓는데\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6853443_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-22"
+        }
+      ]
+    },
+    "재건축": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-23T08:10:00+09:00",
+      "lastSeen": "2026-09-23T08:10:00+09:00",
+      "news": [
+        {
+          "title": "목동9·13단지 최고 49층 아파트...홍제동 개미마을엔 30층 주택",
+          "url": "https://v.daum.net/v/96XMwRfzy3",
+          "source": "Daum",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "49층 목동 스카이라인 윤곽…9·13단지 통합심의 통과[코주부]",
+          "url": "https://www.sedaily.com/article/20094217",
+          "source": "서울경제",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "양천구 목동9·13단지 재건축 '속도'…서울시 통합심의 통과",
+          "url": "http://m.tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3538328&seq_800=20531222",
+          "source": "서울특별시 미디어재단 TBS",
+          "date": "2026-09-22"
+        }
+      ]
     }
   },
   "sections": {
