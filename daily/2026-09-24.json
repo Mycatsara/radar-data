@@ -520,6 +520,247 @@
           "date": "2026-09-23"
         }
       ]
+    },
+    "재테크": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-24T08:53:00+09:00",
+      "lastSeen": "2026-09-24T08:53:00+09:00",
+      "news": []
+    },
+    "원자력 발전소": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-24T08:53:00+09:00",
+      "lastSeen": "2026-09-24T08:53:00+09:00",
+      "news": [
+        {
+          "title": "美 원전 손잡은 폴란드, 2036년 가동 '속도전'…본계약 9부 능선 넘었다",
+          "url": "https://www.esnews.kr/news/articleView.html?idxno=6442",
+          "source": "에너지안전신문",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "[사설]국회 비공개 회의를 녹취해 유출하다니, 묵과 안 된다",
+          "url": "https://www.khan.co.kr/article/202609231819001",
+          "source": "경향신문",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "대미투자 무슨 내용 샜길래... 김민석 \"간첩 행위\" 유출자 비난",
+          "url": "https://www.chosun.com/politics/assembly/2026/09/23/YA65VDLS2FAXDHKVFOODZ3UBQQ/",
+          "source": "조선일보",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "마이클 버리": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-24T08:53:00+09:00",
+      "lastSeen": "2026-09-24T08:53:00+09:00",
+      "news": [
+        {
+          "title": "마이크론, 매출 또 신기록 쓰나…HBM4로 삼성·SK하이닉스 ‘맹추격’",
+          "url": "https://v.daum.net/v/HpdhaJXSCd",
+          "source": "Daum",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "마이크론 테크놀로지 주가, 9월 30일 실적 발표에 7.8% 변동 가능성",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2104381",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "마이크론 5% 급등에 삼전닉스 2%대 상승…메모리株 훈풍[핫종목]",
+          "url": "https://www.news1.kr/finance/market-exr/6299856",
+          "source": "뉴스1",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "마우스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-24T08:53:00+09:00",
+      "lastSeen": "2026-09-24T08:53:00+09:00",
+      "news": [
+        {
+          "title": "다시 한번 WARRIORS! 국가대표 팀 응원 이벤트",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/notices/warriors-team-cheering-event/",
+          "source": "League of Legends",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "네이버 치지직, 라이엇게임즈와 아시안게임 LoL 협업 확대",
+          "url": "https://v.daum.net/v/qfpH1wB3s5",
+          "source": "Daum",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "[아시안게임] 라이엇게임즈, LoL 대표팀 응원 캠페인…결승전 뷰잉파티",
+          "url": "https://www.yna.co.kr/view/AKR20260923064900017",
+          "source": "연합뉴스",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "현숙": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-24T08:53:00+09:00",
+      "lastSeen": "2026-09-24T08:53:00+09:00",
+      "news": [
+        {
+          "title": "22기 현숙, 16기 광수와 언팔→결별설 속 데이트 인증 \"일분일초가 아쉬워\"",
+          "url": "https://v.daum.net/v/3BKfnUAiW7",
+          "source": "Daum",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "정일대♥김소연, 빚·임신·폭언 터졌다…결별은 안 해 (연애전쟁)",
+          "url": "https://sports.donga.com/ent/article/all/20260922/134716248/1",
+          "source": "스포츠동아",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "‘나솔’ 22기 현숙, 전 남편에 맞아 장기파열…현 남친 “ 왜 맞았는지 알겠다”",
+          "url": "https://biz.heraldcorp.com/article/10881752",
+          "source": "헤럴드경제",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "포로": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-24T08:53:00+09:00",
+      "lastSeen": "2026-09-24T08:53:00+09:00",
+      "news": [
+        {
+          "title": "젤렌스키 \"북한군 포로 2명, 한국에 보내…왜 그들이 목숨 바치나\"(종합)",
+          "url": "https://v.daum.net/v/20260924051351139",
+          "source": "Daum",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "젤렌스키 \"러, 47개국 국민 전쟁에 동원…北 파병은 광기\"(종합)",
+          "url": "https://www.newsis.com/view/NISX20260924_0003802788",
+          "source": "뉴시스",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "젤렌스키, 북한 전쟁 포로 2명 한국으로 이송",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=716845",
+          "source": "뉴스타운",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "구글 북": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-24T08:53:00+09:00",
+      "lastSeen": "2026-09-24T08:53:00+09:00",
+      "news": [
+        {
+          "title": "구글북 899달러, 원가 구조에 물음표... \"이게 되나?\"",
+          "url": "https://zdnet.co.kr/view/?no=20260923140658",
+          "source": "지디넷코리아",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "AI가 선택한 종목, 이달 AI 노트북 계약으로 약 20% 급등",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2103334",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "대만, 파운드리 이어 설계 강국으로… 미디어텍, PC·서버 칩 외연 확장 - 조선비즈",
+          "url": "https://biz.chosun.com/it-science/ict/2026/09/23/FFUSNMKOXJFAFJKT25FL7ES66Y/",
+          "source": "Chosunbiz",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "고양이": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-24T08:53:00+09:00",
+      "lastSeen": "2026-09-24T08:53:00+09:00",
+      "news": [
+        {
+          "title": "동물 구조단체서 고양이 500여 마리 발견...사체는 냉동고에",
+          "url": "https://www.radiokorea.com/news/article.php?uid=504793",
+          "source": "라디오코리아",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "“명절에도 걱정 마세요”…취약계층 반려동물 돌봄 확대",
+          "url": "https://v.daum.net/v/20260923220921008",
+          "source": "Daum",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "반려견과 도심 추캉스…콘래드 서울 ‘펫 메종’",
+          "url": "https://www.newsis.com/view/NISX20260923_0003802389",
+          "source": "뉴시스",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "두산에너 빌리티": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-24T08:53:00+09:00",
+      "lastSeen": "2026-09-24T08:53:00+09:00",
+      "news": [
+        {
+          "title": "[사설]국회 비공개 회의를 녹취해 유출하다니, 묵과 안 된다",
+          "url": "https://www.khan.co.kr/article/202609231819001",
+          "source": "경향신문",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "대미투자 무슨 내용 샜길래... 김민석 \"간첩 행위\" 유출자 비난",
+          "url": "https://www.chosun.com/politics/assembly/2026/09/23/YA65VDLS2FAXDHKVFOODZ3UBQQ/",
+          "source": "조선일보",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "기대 밑도는 웨스팅하우스 지분율에도 \"긍정적으로 볼 여지 상당\" 왜?",
+          "url": "https://www.ytn.co.kr/_ln/0102_202609230601036510",
+          "source": "YTN",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "김혜성": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-24T08:53:00+09:00",
+      "lastSeen": "2026-09-24T08:53:00+09:00",
+      "news": [
+        {
+          "title": "'마이너 내려간 지 116일' 김혜성 끝난 줄 알았는데 대반전! \"PS 논의 대상\" 로버츠 직접 언급…프리랜드와 재격돌",
+          "url": "https://v.daum.net/v/GJzJUXJ6ne",
+          "source": "Daum",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "\"타격 꾸준함 필요\" 로버츠 말 떨어지자 멀티히트…김혜성, PS 막차 경쟁 다시 불붙었다",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/09/24/MZRGKOBUGQ4WIZDCGVRDCN3DGE/",
+          "source": "조선일보",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "빅리그 향한 무력시위인가…김혜성, 트리플A서 멀티히트 폭발+두 차례 홈 밟았다",
+          "url": "https://www.osen.co.kr/article/G1112880728",
+          "source": "OSEN",
+          "date": "2026-09-23"
+        }
+      ]
     }
   },
   "sections": {
