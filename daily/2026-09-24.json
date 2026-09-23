@@ -260,6 +260,266 @@
           "date": "2026-09-23"
         }
       ]
+    },
+    "걷기": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-24T06:18:00+09:00",
+      "lastSeen": "2026-09-24T06:18:00+09:00",
+      "news": [
+        {
+          "title": "양주시 장흥면, ‘우이령 석굴암길 걷기대회’ 성료",
+          "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1058501",
+          "source": "내외뉴스통신",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "양주시 장흥면지역사회보장협의체, 우이령 석굴암길 걷기대회서 캠페인 실시",
+          "url": "https://www.hkbc.kr/news/articleView.html?idxno=567246",
+          "source": "HKBC환경방송",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "양주시 장흥면지역사���보장협의체, 우이령 석굴암길 걷기대회서 복지사각지대 발굴 캠페인 전개",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2317146",
+          "source": "웹이코노미",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "두산에너빌리티": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-24T06:18:00+09:00",
+      "lastSeen": "2026-09-24T06:18:00+09:00",
+      "news": [
+        {
+          "title": "與 “대미투자 비공개 정부 보고, 불법 녹취·유포”…김민석 “간첩 행위”",
+          "url": "https://www.joongang.co.kr/article/25464380",
+          "source": "중앙일보",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "기대 밑도는 웨스팅하우스 지분율에도 \"긍정적으로 볼 여지 상당\" 왜?",
+          "url": "https://www.ytn.co.kr/_ln/0102_202609230601036510",
+          "source": "YTN",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "\"원금회수 넘어 韓기업 참여 보장받아야\"",
+          "url": "https://stock.mk.co.kr/news/view/1164441",
+          "source": "매일경제 마켓",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "아이폰": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-24T06:18:00+09:00",
+      "lastSeen": "2026-09-24T06:18:00+09:00",
+      "news": [
+        {
+          "title": "Apple Raised Stakes with its $2000-Priced Foldable. But Can it Be the New Growth Engine?",
+          "url": "https://finance.yahoo.com/technology/articles/apple-raised-stakes-2000-priced-181154520.html",
+          "source": "Yahoo Finance",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "4 Folding Phones Cheaper Than The iPhone Duo Actually Worth Buying",
+          "url": "https://www.bgr.com/2261609/folding-phones-cheaper-than-iphone-duo-alternatives/",
+          "source": "BGR",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "Why Apple Is Betting on Foldable iPhones",
+          "url": "https://www.theinformation.com/articles/apple-betting-foldable-iphones",
+          "source": "The Information",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "이선빈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-24T06:18:00+09:00",
+      "lastSeen": "2026-09-24T06:18:00+09:00",
+      "news": [
+        {
+          "title": "장항준·송은이·김풍 뭉친 '거장항준', 10월 15일 첫방",
+          "url": "https://v.daum.net/v/7neO1sAijL",
+          "source": "Daum",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "단독 유재명·이선빈, '거장항준' 첫 게스트…10월 15일 첫 방송",
+          "url": "https://star.ytn.co.kr/_sn/0117_202609221020195135",
+          "source": "YTN star",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "SBS 새 예능 ‘거장항준’, 10월 15일 첫 방송…송은이·김풍 합류",
+          "url": "https://www.viva100.com/article/20260922500463",
+          "source": "브릿지경제",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "리 성금": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-24T06:18:00+09:00",
+      "lastSeen": "2026-09-24T06:18:00+09:00",
+      "news": [
+        {
+          "title": "북한 세계신 첫 金…‘북한’으로 부르자 “호칭 똑바로 하시오”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8670632",
+          "source": "KBS 뉴스",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "“북한? 똑바로 하십쇼” 韓기자에 ‘발끈’北…이유는",
+          "url": "https://www.munhwa.com/article/11619310",
+          "source": "문화일보",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "[아시안게임] 北 효자종목 역도서 하루만에 金 2개…종합순위 '껑충'(종합)",
+          "url": "https://v.daum.net/v/20260923190258000",
+          "source": "Daum",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "생계": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-24T06:18:00+09:00",
+      "lastSeen": "2026-09-24T06:18:00+09:00",
+      "news": [
+        {
+          "title": "번 돈 맞먹는 생계급여 삭감?…국회·복지부 '94% 통계' 공방",
+          "url": "https://www.yna.co.kr/view/AKR20260923164000530",
+          "source": "연합뉴스",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "[카드뉴스] 최빈곤층이 일할수록 손해 보는 구조",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065453",
+          "source": "신아일보",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "벌어도 남는 건 쥐꼬리…극빈층, 근로소득 맞먹는 생계급여 삭감",
+          "url": "https://v.daum.net/v/tmpf0SrN1s",
+          "source": "Daum",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "대한민국 대법관": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-24T06:18:00+09:00",
+      "lastSeen": "2026-09-24T06:18:00+09:00",
+      "news": [
+        {
+          "title": "청와대 \"적법 추천된 후보를 배제하려는 시도가 중대한 절차적 흠결\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6853800_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "“비선출이 선 넘었다”…조희대 겨냥한 與의 ‘선출 만능주의’",
+          "url": "https://v.daum.net/v/20260924060215980",
+          "source": "Daum",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "‘제청권과 임명권’ 이례적 충돌…헌법 전문가 의견은?",
+          "url": "https://news.jtbc.co.kr/article/NB12319820",
+          "source": "JTBC",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "과일": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-24T06:18:00+09:00",
+      "lastSeen": "2026-09-24T06:18:00+09:00",
+      "news": [
+        {
+          "title": "“혈당 걱정 내려놓고 먹어라” 의사가 꼽아준 7가지 과일",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/09/22/2026092202179.html",
+          "source": "헬스조선",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "아침 공복에 사과 ‘이렇게’ 먹었더니… 혈당, 체중, 염증에 변화가?",
+          "url": "https://kormedi.com/2869512/",
+          "source": "코메디닷컴",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "사과 vs 배, 혈당 관리에 더 좋은 과일은 어느 쪽?",
+          "url": "https://m.joseilbo.com/news/view.htm?newsid=576290&class2=&class=6",
+          "source": "조세일보",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "토트넘 홋스퍼 fc": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-24T06:18:00+09:00",
+      "lastSeen": "2026-09-24T06:18:00+09:00",
+      "news": [
+        {
+          "title": "'6회' 비욘세 콘서트보다 보기 힘든 토트넘 홈 승리...36경기서 단 5승, 개막 후에도 리그 승리 '0' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/23/202609230713776329O",
+          "source": "머니투데이",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "\"5939억 쓰고 무승?\" 레전드 뼈 때리는 팩폭…손흥민의 토트넘, 어쩌다 이 지경 됐나",
+          "url": "https://www.chosun.com/sports/world-football/2026/09/23/GUZWMOJYMY3TCZLDHA4DEYJXGE/",
+          "source": "조선일보",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "\"쏘니 떠난 뒤 망가졌다\"...'리버�� 전설'의 일침! 토트넘 부진 원인으로 '케인-손흥민' 등 슈퍼스타 부재 선정, \"딱히 두려움 주는 선수 없어\"",
+          "url": "https://v.daum.net/v/20260924000651529",
+          "source": "Daum",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    "은지원": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-24T06:18:00+09:00",
+      "lastSeen": "2026-09-24T06:18:00+09:00",
+      "news": [
+        {
+          "title": "은지원 “장모님이 한 상 가득…음식 남기면 죄송해 찾아뵙기 부담”",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260923/134725057/1",
+          "source": "동아일보",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "‘살림남2’ 박서진 父, 30년 만에 모친 위한 선상제…“한 번이라도 만나고 싶어”",
+          "url": "https://star.ytn.co.kr/_sn/0117_202609221244349802",
+          "source": "YTN star",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "은지원, 9살 연하 ♥스타일리스트 재혼하더니..\"장모님이 명절에 진수성찬 차려줘\" 자랑(살림남)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/23/GFSWMNJUGFSGGMLEGQ4DKN3DGM/",
+          "source": "조선일보",
+          "date": "2026-09-23"
+        }
+      ]
     }
   },
   "sections": {
@@ -847,6 +1107,24 @@
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nQ0tESHFrVUhvZmNYaV9vSzN1eFhsOFlVeUhxT3lSSjltNmtvWWJNOXlhTEU5c0dnQl9Xc0xMbmxWUksxcEIydWpZZw?oc=5",
         "source": "아이뉴스24",
         "date": "2026-09-22"
+      },
+      {
+        "title": "\"K원전 안 짓겠다면 없던 일로\"… 美에 '배수의 진'을 쳤다",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xeVhOLW5STHJWdUs3MGtZdl9hS1FwZnpvZGlnNDBpS0lYQzgyZ1ltRGZoM01HODBWZXJkX3hGcERJNDJQaHNhRndPZF84MTA?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "로봇 타고 78만원 갔는데…반토막 난 현대차, 반전 카드는 '실적'[stock&톡]",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1QXl1cG95SEp0NFVqZDhtMUhFWVpNOWpxcE1IdDBrN01PNWE5cGlOUUliNVRSOXRtbkxUN2pYR3FQLVFIOVg4YVlvc3NiZ1E?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "연준 금리 인상 관련 비트코인 시장 우려 커져",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yY1dhdnZCYUhhVFdJMXg0WHBhMUlSQl9QX1ItbzFEaVZVVFdEd0JlUVFYSHpFTFA5VEVrYjdFd0VxeTNoQzBaQzdJT1VYRXVTSkJQQmJLWWc?oc=5",
+        "source": "tokenpost.kr",
+        "date": "2026-09-23"
       }
     ],
     "ENTERTAINMENT": [
@@ -1396,6 +1674,60 @@
         "title": "이동국 아들 시안, 고개 못 들고 눈물…브라질행 앞두고 무슨 일?",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmeGdtdHFIZnZGMzFxUHg2Zkhic0s5WWNTU2xHc3Q3Qmhja29mYjF5MldQLU5NVWxxZUY1N2FmUENRWlF0N0M2NzhPdDdEcjVXQjBTcg?oc=5",
         "source": "xportsnews.com",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "펜싱 오상욱 또 ‘금빛 찌르기’…허리 부상 딛고 대회 2연패",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MdF9qOUxDZVJxbDVLdUZscVhaQlkxaV9xUThRN0FVUWNSTzJIbC04Wnp2RTdXbWhXXzR6U0tycTFqenF1c3J6QWI0dU1EWDd1N29feDVzOTVrVk0yMDFGczJjQkwtenlIc2YwdF90WUVRM1BVX0dV?oc=5",
+        "source": "한겨레",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "‘삐약이’ 신유빈, 탁구 혼합복식 정상 도전",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wRGZfaEVGQjFKbVk1MXluX3lTU2wyUmdkWDRTdS1pYmZZejZ1T0tQVkVfaUcxY3d2dF9rMEtzTVRYekh0YVBZejI1azFyWnROb1kwVVhsUXk5UmhsN3RXRmxQSDlQYmVlZm5ZRWdjQVVRbnN20gFmQVVfeXFMUFFGMXlKTHdXSzRIUHBxU01LbnNqWC13YVowN2FocDNhTjdZYWVtazg4MmlKa1Q3MnE2TTdsRXdGUVVYLXZaTzg4bEVRaU82UGhDN25tbDAyVFhfN25zbnZIek5zVTlB?oc=5",
+        "source": "동아일보",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "\"내 SNS에 내가 죽었다는 글이\"…'쇼트트랙 金' 김건우도 몰랐다",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05Ykg3cnh3ZjAyTU5nV1RrcE1VMWJ5RVNsQmVpT0daUFJsSmpvbmgxa1RtYU5yRVA0QjNCXzAxbzVtUjQ1RExXRmJHbUs4eUFJRExNZTlaTUJSZw?oc=5",
+        "source": "한국경제",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "'박재현·박준순 만루포' 야구 대표팀, 조 1위로 슈퍼라운드 진출",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yU0Mzb1NOY0hlZGJJVWNMRkdRS2lmdVEzeWkydnlQOTdWOVJ2YURjZTdBNlk0SFdVWXY5a3dEWGV6MHFFOEk5YXhUTUhIdWQ3dDFUZ3d0YmR3VVMyTkE?oc=5",
+        "source": "YTN",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "[AI그래픽] 2026 아이치·나고야 아시안게임 한국 선수단 주요 일정 (9월 24일)",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Lc0lsOGhDLVhLZlRjZHFNZGFET01UUnJRSDN6TXBNUk91R01EanI1U2hnekdkaUpLNzJ6TlhxaE1rbzg3ZVdiMGxGMWhWVmJBbEFJUUctT1RJRUQw?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "[아시안게임] 여자 사격 10m 공기권총 단체전 은메달‥추가은 본선 1위",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYM1Z0X0lYVXZib2J0SV9aNjhvV09pLTk5ZXdESGUyeXg3TU5rVk5QUVdJUFBTV3Y4VmVURE9JVW1qSGFVU1k5WlB2NkRqREJQWVlQSWhDa2dGQ01HUHk3MXZWMUhsQzhMd05sWEYwaTE4U3pHSFHSAXZBVV95cUxNdU9KOGRhVXVBS1FhcXJDTndWNjJabU5JQjNfVGFtVDJZbm12VnA3UmEyN2JnSXFTaWdKQ0tkeGxXeFRxOTBDU3pHY1F2dkRhMmNjR0I5Q1JsQ19hN1NNVko5cVJ6MWI4WEZhTW5TUWtwZUZEVXdn?oc=5",
+        "source": "MBC 뉴스",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "[아시안게임] 김연경 은퇴 후 아시아 4등 된 여자 배구, 답이 안 보인다",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NVzd5cDhaZlMzTHgwbXhZV0JobXBNcGVBclpHZlE5TENSTEpodDFmUmVUOTlMa3duMGhnYWw0ZVp1dGxoVkpnMnJNQ0tOdzVicHdnUjBWMUwyeHfSAWBBVV95cUxPVzVucnlLUGctN2hoaVY4ZGh5c292YnhPUHNVZm9yM2J3OEhGNVZ0VEZaWWQtZGh4STU3dEZHZ3lSVC1mNzh0NDlCS0NIaHJuRmswcGpLV0hGcE1QZWZEcWo?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "'대회 한 번 나가는데 700만 원' 햄버거집 알바까지 뛰었다…이 악물고 버틴 신지은의 8년, 드디어 AG 기적의 첫 승 [아시안게임]",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVNHN3pnT1R2VDBhMTVMMFBJeExVRVhFaG9pdEhzLVM1dmhfNlhVV0lZMk0zdEJJSEJvWlk5UW8wQWRfekdLU0EtMWlacFdEeGJUNUN0bG5EQ3V2LU5YRVFIYlY1LTNwOFZLYVJaT3ZPUmlfc3hPWWU5TWFNT2Vaa1FRdXZTaWdlcnJZ?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "북한 첫 금 리성금, '북한'이라 하자 답��� 거부 [아시안게임]",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhZHRueVV5My1YYTMzZEw3TXJ0Y1poVV8yYWNUMzJMUVNtM0JnWHVmd1d1WVFlYV9OV0s2b01iUjJ6T0p2VGJtc2hrb19uOW9qU29xX3NFUUxMV1E?oc=5",
+        "source": "경기일보",
         "date": "2026-09-23"
       }
     ]
