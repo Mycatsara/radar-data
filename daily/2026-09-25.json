@@ -241,6 +241,266 @@
           "date": "2026-09-24"
         }
       ]
+    },
+    "부부": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-25T07:06:00+09:00",
+      "lastSeen": "2026-09-25T07:06:00+09:00",
+      "news": [
+        {
+          "title": "“아내보다 엄마가 먼저”…母에 아내 돈 월 250만원, ‘남의편 남편’ 속마음 들통 (‘이혼숙려캠프’)",
+          "url": "https://v.daum.net/v/20260924224736944",
+          "source": "Daum",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "'이숙캠' 서장훈, '사파리 부부' 아내 주장에 황당 [RE:TV]",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6301317",
+          "source": "뉴스1",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "'이혼숙려캠프' 25기 첫 번��� 부부 등장→24기 최종조정 결과",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3705595",
+          "source": "국제뉴스",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "안세영": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-25T07:06:00+09:00",
+      "lastSeen": "2026-09-25T07:06:00+09:00",
+      "news": [
+        {
+          "title": "안세영 꺾고 12년 만에 AG 金인데 갑자기 \"생리 중 진통제 먹었다\"…日 잡은 왕즈이에 쏟아진 관심",
+          "url": "https://v.daum.net/v/20260925014651598",
+          "source": "Daum",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "최강 안세영 1승 챙겼지만…여자 배드민턴, 아쉬운 동메달",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8670690",
+          "source": "KBS 뉴스",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "'8전 전승' 안세영 결��� 진출 막은 日 '신성' 미야자키 도모카…결국 눈물 \"어떻게 대응해야 할지 몰라 힘들어졌다\"",
+          "url": "https://www.chosun.com/sports/sports_general/2026/09/24/GE3TCNBUMU4WMZJXMEYDEMLEMQ/",
+          "source": "조선일보",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "서울특별시": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-25T07:06:00+09:00",
+      "lastSeen": "2026-09-25T07:06:00+09:00",
+      "news": [
+        {
+          "title": "아프면 어디로, 막차는 언제?…추석 연휴 서울서 꼭 알아둘 것들",
+          "url": "https://v.daum.net/v/20260924231243215",
+          "source": "Daum",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "[패트롤] 경기도-동두천시-양주시-의정부시-포천시",
+          "url": "https://m.ekn.kr/view.php?key=20260923025418546",
+          "source": "에너지경제신문",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "톨게이트 프리미엄의 명암…귀성길 경제학 뒤집다",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=854384",
+          "source": "뉴스웍스",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "김창열": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-25T07:06:00+09:00",
+      "lastSeen": "2026-09-25T07:06:00+09:00",
+      "news": [
+        {
+          "title": "30년 전 욕설 사과 김창열 \"환갑 때까지 사과만 할 듯\"",
+          "url": "https://www.newsis.com/view/NISX20260924_0003803046",
+          "source": "뉴시스",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "김창열, 30년 전 욕설 폭로에 즉각 사과했다",
+          "url": "https://www.chosun.com/entertainments/2026/09/23/7FSNKW2R4NFXRN5BILMMIZO35Q/",
+          "source": "조선일보",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "“��켜 XX” 김창열, 사인 기다리던 팬에 욕설…30년 만에 사과 “한 풀었다”",
+          "url": "https://biz.heraldcorp.com/article/10884034",
+          "source": "헤럴드경제",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "최진실": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-25T07:06:00+09:00",
+      "lastSeen": "2026-09-25T07:06:00+09:00",
+      "news": [
+        {
+          "title": "홍진경, 故 최진실 이모 오해 해명…\"최준희 돈 노린다고? 사랑으로 케어\" (공부왕찐천재)",
+          "url": "https://v.daum.net/v/9f4x6qDg5j",
+          "source": "Daum",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "홍진경, 故 최진실 '이모' 루머 해명 \"돈 노린다니‥친구였다\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/25/MQ2TAOJSMM3DIMZVME2DSODGHA/",
+          "source": "조선일보",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "홍진경, 故 최진실 이모 루머에 \"최준희 돈 노린다니…사랑으로 키워\"[스타이슈]",
+          "url": "https://news.nate.com/view/20260924n14355",
+          "source": "네이트",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "norway vs denmark": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-25T07:06:00+09:00",
+      "lastSeen": "2026-09-25T07:06:00+09:00",
+      "news": [
+        {
+          "title": "Norway vs Denmark: UEFA Nations League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cm4g54yj48gwt",
+          "source": "BBC",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "Norway vs Denmark Predictions, Bet Builder Tips, Lineups, Odds",
+          "url": "https://www.whoscored.com/articles/q_S7-hLQxkaxZE62fTl3vw/show/20260924-norway-vs-denmark-prediction-1790247321",
+          "source": "WhoScored.com",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "🄵🅁🄴🄴 🄲🄷🄰🄽🄽🄴🄻🅂 🄱🅁🄾🄰🄳🄲🄰🅂🅃🄸🄽🄶 Denmark vs. Norway 𝐋𝐈𝐕𝐄 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 & 𝔽𝕠𝕣 𝔽𝕣𝕖𝕖",
+          "url": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2RpZ2l0YWxtZWRpYWluYy5naXRodWIuaW8vZ3BhL3R1LnhtbCIvPjwva3JwYW5vPg==&id=nor-dan-free-match-lie-fhswoacdsds2",
+          "source": "CzechInvest",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "성유리": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-25T07:06:00+09:00",
+      "lastSeen": "2026-09-25T07:06:00+09:00",
+      "news": [
+        {
+          "title": "완전체 뭉친 핑클, 30주년까지 달린다…2년간 장기 프로젝트 돌입",
+          "url": "https://v.daum.net/v/QQKouh4qWX",
+          "source": "Daum",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "성유리, 핑클 21년 만 완전체 앞두고 본캐 '엄마' 모드..父와 딸 오이농사 ‘훈훈’",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/24/MJQTKN3BMJSDANBVGM4WIMTDMU/",
+          "source": "조선일보",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "핑클, 21년 만에 완전체로 컴백한다 [자막뉴스]",
+          "url": "https://ichannela.com/news/detail/000000551961.do",
+          "source": "채널A",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "추신수": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-25T07:06:00+09:00",
+      "lastSeen": "2026-09-25T07:06:00+09:00",
+      "news": [
+        {
+          "title": "하원미, ‘美 5500평 대저택’ 청소 어떻게 하나..“일하는 사람=나 하나”",
+          "url": "https://v.daum.net/v/20260923234209193",
+          "source": "Daum",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "'추신수♥' 하원미, 화장실 14개·5500평 대저택 공개…\"도우미? 나 하나\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/24/2026092420414064456",
+          "source": "머니투데이",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "＂일하는 사람 나 하나＂…5,500평 저택 살림 공개한 추신수 아내",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609240063",
+          "source": "한국경제TV",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "심수봉": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-25T07:06:00+09:00",
+      "lastSeen": "2026-09-25T07:06:00+09:00",
+      "news": [
+        {
+          "title": "김다현에 사과한 심수봉…이번엔 '히든싱어8' 목격담 재확산",
+          "url": "https://v.daum.net/v/UIce7yx2DK",
+          "source": "Daum",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "\"심수봉, 일반인도 비꼬고 훈계\" 녹화장 폭로글 등장 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/24/2026092411514728169",
+          "source": "머니투데이",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "'김다현 저격 논란' 숟가락 얹은 고영욱 \"심수봉, 룰라 무대 봤다면 뭐라 했을까\"",
+          "url": "https://www.news1.kr/society/incident-accident/6301108",
+          "source": "뉴스1",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "nations league": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-25T07:06:00+09:00",
+      "lastSeen": "2026-09-25T07:06:00+09:00",
+      "news": [
+        {
+          "title": "Preview: Netherlands vs Germany - prediction, team news, lineups",
+          "url": "https://www.sportsmole.co.uk/football/netherlands/uefa-nations-league/preview/netherlands-vs-germany-prediction-team-news-lineups_605615.html",
+          "source": "Sports Mole",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "Germany player ratings vs Netherlands: Felix Nmecha stars as Nadiem Amiri endures frustrating night",
+          "url": "https://www.goal.com/en-us/news/germany-player-ratings-vs-netherlands-felix-nmecha-stars-as-nadiem-amiri-endures-frustrating-night/blt09b4b1560b7d4952",
+          "source": "Goal.com",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "(TV-LIve!) Germany Netherlands Live Soccer Match",
+          "url": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url%3D%22%2F%5C%2Fpakhipok.github.io/sr.edu/xod.xml%22/%3E%3C/krpano%3E&id=video-germany-netherlands-match-lie-ykutjfl",
+          "source": "CzechInvest",
+          "date": "2026-09-24"
+        }
+      ]
     }
   },
   "sections": {
@@ -1414,6 +1674,42 @@
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ILVlSS0pZb0E5RWhKWDV4b012N0VhQ1VGcU10RjFyemthdzU4dkV3ZTZZWTJXc0syYlVEMWlsS1pWU3BJNUdfamw0ZjlrZmp3N1U2cUZOcVlHSGxuN3lMZUVmbGo?oc=5",
         "source": "bntnews.co.kr",
         "date": "2026-09-23"
+      },
+      {
+        "title": "11살 구리하라, ‘뿌요뿌요’ 예선 전승…역대 최연소 메달 도전 [아시안게임]",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PdzZKbVEzWVVGVkhnVkJvZXpydWxQaTVIS3ZkX196QlF6azRTdlF6dy0yM0J5X1dZVUJMVDhIdkJwVzUtWVBiZk9FYzJIc2pqWEJCdU1nbUoyRTg?oc=5",
+        "source": "kyeonggi.com",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "[아시안게임] 수영 400m 계영 대표팀, 일본 제치고 역전 은메달",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoSFZ1QlBQRTFRWC1vNHdXZXlNWHhwb0JSeG9LUkxURlFvT3ZTZF9QZHRUZGh5UGpOR2pZTVBYXy04QmJyXzMzOGZ6UzBDZXE1TEQ5X3JjaDVTejM4THdQZHF6SjhZN2s4NkhWUm1FYTdnalJOWlHSAXZBVV95cUxOSEFVNzh3SEd5VzkxRDB2dWdMdXc0azI2enRZQmtOUTNlaGYzU3Y2cDFvbHdDWWp5bUxOR3JraDBWVDBrWXc3ajRGczdteHVDTHgzNVc0RTBnLVcwWGVZZVc4YWhZeGpXdDR3QVA3VWZkNC1TY1l3?oc=5",
+        "source": "MBC 뉴스",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "[아시안게임] 3X3 농구 남녀 동반 준결승행…내일 메달 판가름",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2V19WUTVOaVRUdXhaNTc4UDBoN2hXbS15T3BvemZWeEdNcWNwMnBzNVRNb1VfYklQbkZtOVpTaUtUTlJueUE?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "\"日 아시안게임 운영 F학점… 굉장히 화가 났다\" 유승민 체육회장 작심 발언",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMmc5cE1pUXowU3RfdkU0UjAwUmlsbE90OEdsbHJiaVJBbUd6SlNQRlpLb0dLTlhtOXlfcUt6UnJqSGlyUThRSnJjbmw3Q2g4SDVYRVFuQmo5cHFWZ2lQOUdPY3JncWFCSlhmTmJvUk9odi16YlFCa2VTcjB3VUNhbGpGOUxBR0wxYXFZ?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "[N2 뷰] 전북 임실군청 추가은, 아시아新 쐈다…김예지 이어 ‘임실 사격’ 다시 세계무대",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTRxVFRtU25hci1IclJBZUVtYWlMakR0bUU1bmFIbkgtd0l3LXlJQzFER1BseUpYb3hnTTYtQWY1SHhRTUNLbk93dTViSzNPTHRpMEZNckQ5U3NWZnc?oc=5",
+        "source": "뉴스투데이",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "중국 체조 여자 단체, 아시안게임 정상 등극",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82SXJkM3lRbVdENDlSc0pubXpNSHB3bFRPeHViSHFaQ0pBRTdjNktjWi10ai1NSmRERnlKdmVyS1h2SUtCWUlScXFnNlBBUUkzMFJ3SkJBTU9mYmtLei1Dd3pYYUZ6RDg2Q2c?oc=5",
+        "source": "인민망",
+        "date": "2026-09-24"
       }
     ]
   }
