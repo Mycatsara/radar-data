@@ -761,6 +761,247 @@
           "date": "2026-09-23"
         }
       ]
+    },
+    "포탄": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-24T12:48:00+09:00",
+      "lastSeen": "2026-09-24T12:48:00+09:00",
+      "news": [
+        {
+          "title": "北, 개량 240㎜방사포탄 시험…\"가장치명적 무력 남부국경 집중\"(종합)",
+          "url": "https://v.daum.net/v/20260924110455927",
+          "source": "Daum",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "북한, 개량 방사포 시험‥\"남부국경에 치명적 공격능력 집중\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6853904_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "北 \"성능 개량 240㎜방사포탄 시험, 남부국경 공격 집중\"…요격 무력화 의도(종합)",
+          "url": "https://www.newsis.com/view/NISX20260924_0003802910",
+          "source": "뉴시스",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "한국수력원자력": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-24T12:48:00+09:00",
+      "lastSeen": "2026-09-24T12:48:00+09:00",
+      "news": []
+    },
+    "단풍": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-24T12:48:00+09:00",
+      "lastSeen": "2026-09-24T12:48:00+09:00",
+      "news": [
+        {
+          "title": "[포토타임] 올가을 가장 붉은 날은 10월 31일…설악산은 20일 절정",
+          "url": "https://v.daum.net/v/20260923102336832",
+          "source": "Daum",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "강원 단풍 실황·날씨 한눈에…기상청 융합서비스 가동",
+          "url": "https://www.yna.co.kr/view/AKR20260923173100062",
+          "source": "연합뉴스",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "올해 단풍 10월 초부터 본격…설악산 10월 20일 절정",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8669907",
+          "source": "KBS 뉴스",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "건강": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-24T12:48:00+09:00",
+      "lastSeen": "2026-09-24T12:48:00+09:00",
+      "news": [
+        {
+          "title": "1kg도 안 됐던 오둥이 폭풍성장…뒤뚱뒤뚱 걸으며 두 돌 맞았다",
+          "url": "https://v.daum.net/v/8czyFmKpCc",
+          "source": "Daum",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "손바닥만 했던 오둥이 \"우리 건강하게 두 살 됐어요\"",
+          "url": "https://www.chosun.com/national/welfare-medical/2026/09/24/PQRKK5DAU5DBHDIW3XQCEA3RKU/",
+          "source": "조선일보",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "27주 만에 태어난 다섯쌍둥이…치료 이겨내고 ‘건��한 두 돌’",
+          "url": "https://www.kyeonggi.com/article/20260923580383",
+          "source": "경기일보",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "며느리": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-24T12:48:00+09:00",
+      "lastSeen": "2026-09-24T12:48:00+09:00",
+      "news": [
+        {
+          "title": "'의사 남편과 신혼' 박은영 \"결혼 후 첫 명절인데 도쿄 출장…MZ 며느리\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6300150",
+          "source": "뉴스1",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "박은영, 결혼 후 첫 명절에 도쿄 간다 \"MZ 며느리\"",
+          "url": "https://www.newsis.com/view/NISX20260923_0003801763",
+          "source": "뉴시스",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "'중식 여신' 박은영, 홍콩 여신이었네 “예쁜 코리안이라고..핫플 못 걸어 다닐 정도” - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/22/MQ3GIOBSMEYTGZDBGEZWGMBZGQ/",
+          "source": "Chosunbiz",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "한국고속철도": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-24T12:48:00+09:00",
+      "lastSeen": "2026-09-24T12:48:00+09:00",
+      "news": [
+        {
+          "title": "[사설] ‘인천발 KTX’ 개통 4번째 연기…시민들 목 빠진다",
+          "url": "https://www.kyeonggi.com/article/20260922580683",
+          "source": "경기일보",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "‘인천공항발 KTX’ 대체 노선, 기약 없는 기다림",
+          "url": "https://www.kyeongin.com/article/1771301",
+          "source": "경인일보",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "[사설] KTX, 송도역 환승 원도심 연계가 핵심",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332345",
+          "source": "인천일보",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "박위": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-24T12:48:00+09:00",
+      "lastSeen": "2026-09-24T12:48:00+09:00",
+      "news": [
+        {
+          "title": "잘했다 박위…이제 일어나 KTX 코레일과 싸우길 [세상읽기]",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1279352.html",
+          "source": "한겨레",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "현직 목사, 'KTX 논란' 박위 공개 비판…\"호의를 권리로 착각해\"",
+          "url": "https://www.newsis.com/view/NISX20260923_0003802715",
+          "source": "뉴시스",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "목사도 등돌렸다..'기독교' 박위 저격 \"오만해, 호의를 권리로 착각\" [스타이슈]",
+          "url": "https://v.daum.net/v/20260923084007392?f=m",
+          "source": "Daum",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "엄정화": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-24T12:48:00+09:00",
+      "lastSeen": "2026-09-24T12:48:00+09:00",
+      "news": [
+        {
+          "title": "52kg 엄정화, 완벽한 수영복 자태..“풀리아 여행, 너무 행복해” (엄정화TV)",
+          "url": "https://v.daum.net/v/p19UKyx2Cp",
+          "source": "Daum",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "고현정, 송혜교도 빵 터진 독특한 와인 맛 표현 \"성질머리가 없네\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6295966",
+          "source": "뉴스1",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "\"나 잘못 앉은 듯\" 송혜교, 강민경 옆자리서..뜻밖의 상황에 당황",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-19/202609190100130130008440",
+          "source": "스포츠조선",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "afghanistan vs japan": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-24T12:48:00+09:00",
+      "lastSeen": "2026-09-24T12:48:00+09:00",
+      "news": [
+        {
+          "title": "Player match highlights - Japan vs Afghanistan, 1st Match, Group A, Asian Games 2026, Today, Asian Games 2026",
+          "url": "https://www.cricbuzz.com/player-match-highlights/170973/1/32602/bowling",
+          "source": "Cricbuzz",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "Japan vs Afghanistan Live Streaming: When And Where To Watch JPN vs AFG Asian Games 2026 Match",
+          "url": "https://www.ndtvprofit.com/sports/japan-vs-afghanistan-live-streaming-when-and-where-to-watch-jpn-vs-afg-asian-games-2026-match-12085741",
+          "source": "NDTV Profit",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "Asian Games Men's Cricket Competition - T20 -",
+          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010122/hong-kong-tour-of-japan-1",
+          "source": "Cricketnmore",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    "두류공원": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-24T12:48:00+09:00",
+      "lastSeen": "2026-09-24T12:48:00+09:00",
+      "news": [
+        {
+          "title": "BTS·임영웅 대구에?…대구시 ‘돔구장 유치’ 도전장",
+          "url": "https://v.daum.net/v/20260923143207589",
+          "source": "Daum",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "파주 돔구장 유치전 본격화…정부 공모 준비 나섰다",
+          "url": "https://www.kyeonggi.com/article/20260923580073",
+          "source": "경기일보",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "대구 두류공원에 2만석 규모 ‘스포츠·공연 복합 돔구장’ 추진···정부 공모 도전장",
+          "url": "https://www.khan.co.kr/article/202609231137001",
+          "source": "경향신문",
+          "date": "2026-09-23"
+        }
+      ]
     }
   },
   "sections": {
