@@ -452,6 +452,266 @@
           "date": "2026-09-25"
         }
       ]
+    },
+    "날씨": {
+      "count": 1,
+      "maxTraffic": 200000,
+      "firstSeen": "2026-09-26T08:26:00+09:00",
+      "lastSeen": "2026-09-26T08:26:00+09:00",
+      "news": [
+        {
+          "title": "[주말 날씨] 아침까지 전남 해안 강한 비…남부 비 낮까지",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8671798",
+          "source": "KBS 뉴스",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "“귀경길 우산 챙기세요”…추석 연휴 셋째 날 전국 곳곳 비 [날씨]",
+          "url": "https://v.daum.net/v/20260926063105564",
+          "source": "Daum",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "인천, 새벽까지 5~10㎜ 비 예보…오전부터 맑아져",
+          "url": "https://www.newsis.com/view/NISX20260925_0003803560",
+          "source": "뉴시스",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "뉴스": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-26T08:26:00+09:00",
+      "lastSeen": "2026-09-26T08:26:00+09:00",
+      "news": [
+        {
+          "title": "\"유엔사와 함께해 은폐 불가\"…조사 지연 논란엔 \"흑막 없다\"",
+          "url": "https://news.jtbc.co.kr/article/NB12320031",
+          "source": "JTBC",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "靑, DMZ 지뢰 폭발 '은폐 의혹' 일축…\"모든 가능성 열고 조사\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436506",
+          "source": "연합인포맥스",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "합참 “지뢰 부상자 美헬기 후송? 사실 아냐… 우리軍 메디온 헬기였다”",
+          "url": "https://www.donga.com/news/Politics/article/all/20260925/134733124/1",
+          "source": "동아일보",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "weather": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-26T08:26:00+09:00",
+      "lastSeen": "2026-09-26T08:26:00+09:00",
+      "news": [
+        {
+          "title": "Nor'easter will batter Northeast, NYC, Boston through Sunday",
+          "url": "https://weather.com/2026/09/25/forecast/regional/noreaster-forecast-coastal-flooding-rain-wind-boston-mid-atlantic",
+          "source": "The Weather Channel",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "New York and New Jersey declare states of emergency, bracing for flooding and outages from nor’easter By Reuters",
+          "url": "https://www.investing.com/news/stock-market-news/noreaster-expected-to-disrupt-travel-flood-basements-knock-out-power-along-us-east-coast-4917963",
+          "source": "Investing.com",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Falling Tree Limbs Are In the Forecast This Weekend — And Might Delay Your Train, MTA Says",
+          "url": "https://www.thecityreporter.nyc/2026/09/25/subway-mta-delays-wind-trees-rain-storm-noreaster/",
+          "source": "The City Reporter",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "앤트로픽": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-26T08:26:00+09:00",
+      "lastSeen": "2026-09-26T08:26:00+09:00",
+      "news": [
+        {
+          "title": "앤트로픽, 클라우드기업 아카마이와 16조원 규모 컴퓨팅 계약",
+          "url": "https://stock.mk.co.kr/news/view/1165139",
+          "source": "매일경제 마켓",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Jabil Circuit 주가, 오늘 급등하는 이유는?",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2106983",
+          "source": "Investing.com 한국어",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "앤트로픽-아카마이, 116억 달러 컴퓨팅 계약…\"클로드 수요 급증 대응\"",
+          "url": "https://v.daum.net/v/20260925162137723",
+          "source": "Daum",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "turkey national football team vs france national football team standings": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-26T08:26:00+09:00",
+      "lastSeen": "2026-09-26T08:26:00+09:00",
+      "news": [
+        {
+          "title": "Turkey 0-1 France: Kylian Mbappe injured while scoring winner in Nations League",
+          "url": "https://www.bbc.com/sport/football/live/crlyqpvqjgqet",
+          "source": "BBC",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Turkey vs. France Lineup Today: Confirmed Team News & Starting XI",
+          "url": "https://sports.yahoo.com/articles/turkey-vs-france-lineup-today-202621849.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Turkey 0-1 France, Italy 0-2 Belgium, Georgia 0-1 Northern Ireland: Nations League – live",
+          "url": "https://www.theguardian.com/football/live/2026/sep/25/turkey-v-france-italy-v-belgium-and-more-nations-league-clockwatch-live",
+          "source": "The Guardian",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "유시민": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-26T08:26:00+09:00",
+      "lastSeen": "2026-09-26T08:26:00+09:00",
+      "news": [
+        {
+          "title": "'국민 속였다' 유시민에 청와대 \"왜곡·근거 없는 비난\"…법적 대응설엔 \"결정된 바 없어\"",
+          "url": "https://v.daum.net/v/20260925153226152",
+          "source": "Daum",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "與, 유시민 '국민 속였다' 발언에 \"검찰개혁 동력 꺾일까 우려\"",
+          "url": "https://www.yna.co.kr/view/AKR20260925032600001",
+          "source": "연합뉴스",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "박지원 “유시민 작가님! 너무합니다…왜 손톱 때만 봅니까”",
+          "url": "https://www.munhwa.com/article/11619480",
+          "source": "문화일보",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "노윤서": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-26T08:26:00+09:00",
+      "lastSeen": "2026-09-26T08:26:00+09:00",
+      "news": [
+        {
+          "title": "노윤서, 누구랑 떠났나 봤더니..영혼의 단짝 리정과 바다 여행",
+          "url": "https://v.daum.net/v/7BrmMEzthO",
+          "source": "Daum",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "노윤서, 이런 뒤태 숨겼었나…하와이서 과감한 비키니 자태 [SD셀픽]",
+          "url": "https://sports.donga.com/ent/article/all/20260925/134733381/1",
+          "source": "스포츠동아",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "청순미 벗고 드러낸 반전 뒤태, 노윤서의 과감한 하와이 해변",
+          "url": "https://news.nate.com/view/20260925n12547?mid=n1008",
+          "source": "네이트",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "vix": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-26T08:26:00+09:00",
+      "lastSeen": "2026-09-26T08:26:00+09:00",
+      "news": [
+        {
+          "title": "India VIX Falls 4.18% to 12.13 as Crude Cools and US-Iran Tensions Ease",
+          "url": "https://hdfcsky.com/news/india-vix-falls-4-18percent-to-12-13-as-crude-cools-and-us-iran-tensions-ease-september-25-2026",
+          "source": "HDFC Sky",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Indian Stock Market Remains Calm Despite Global Turmoil, FII Selling and Rupee Risks: What Is Keeping India VIX Low?",
+          "url": "https://tradebrains.in/indian-markets/indian-stock-market-remains-calm-despite-global-turmoil-fii-selling-and-rupee-risks-what-is-keeping-india-vix-low-12559084",
+          "source": "Trade Brains",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "India VIX Falls 4.82% to 10.52 as Oil and Global Gains Offset FII Selling",
+          "url": "https://hdfcsky.com/news/india-vix-falls-4-82percent-to-10-52-as-oil-and-global-gains-offset-fii-selling-september-23-2026",
+          "source": "HDFC Sky",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "погода": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-26T08:26:00+09:00",
+      "lastSeen": "2026-09-26T08:26:00+09:00",
+      "news": [
+        {
+          "title": "Синоптик Колесов: Конец сентября в Петербурге будет сухим и аномально теплым",
+          "url": "https://www.rosbalt.ru/news/2026-09-25/sinoptik-kolesov-konets-sentyabrya-v-peterburge-budet-suhim-i-anomalno-teplym-5691894",
+          "source": "Росбалт",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Погода в Санкт-Петербурге: антициклон подарит продолжительный период бабьего лета",
+          "url": "https://www.gismeteo.ru/news/weather/pogoda-v-sankt-peterburge-anticiklon-podarit-prodolzhitelnyj-period-babego-leta/",
+          "source": "GISMETEO.Новости",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Когда бабье лето придет в Санкт-Петербург: регион ждут дождливые выходные",
+          "url": "https://ura.news/news/1053130694",
+          "source": "URA.RU",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "สภาพอากาศ": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-26T08:26:00+09:00",
+      "lastSeen": "2026-09-26T08:26:00+09:00",
+      "news": [
+        {
+          "title": "น้ำท่วมขังหน้า ม.เกษตรฯ บางเขน ถนนพหลโยธิน อัมพาตหนัก! ฝนกระหน่ำซ้ำ รถดับสนิทหลายคัน ท้ายแถวสะสมยาว",
+          "url": "https://today.line.me/th/v3/article/Nv5DPEn",
+          "source": "LINE TODAY",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "สธ.เตือนพื้นที่เสี่ยง \"ภาคกลาง-ตะวันตก-กทม.-ปริมณฑล\" ยกระดับเฝ้าระวังน้ำท่วม 24 ชม. ช่วง 25-27 ก.ย.นี้",
+          "url": "https://www.thailandplus.tv/archives/1058682",
+          "source": "thailandplus",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "อัปเดต สถานการณ์พื้นที่เสี่ยง ฝนตกหนักถึงหนักมาก และพื้นที่เสี่ยงน้ำท่วมฉับพลัน 25 ก.ย.69 เวลา 21.30-00.30 น.",
+          "url": "https://www.facebook.com/tmd.go.th/videos/%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%95-%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87-%E0%B8%9D%E0%B8%99%E0%B8%95%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%81-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%97%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%89%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%99-/1389012606733985/",
+          "source": "Facebook",
+          "date": "2026-09-25"
+        }
+      ]
     }
   },
   "sections": {
@@ -1655,6 +1915,12 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTnE4amJhU1NXU0VKWjAzR2xISVFLVklWbDhJOVoyeWRFSFZseHgweGxMOXVUVThydXFJVGh6dzg3YmdiWnpRYTVnSVpubklJcTBQM2FNZ29rZDBnZUpWSVVJd0RSazFHeVZ6VjE5LVNUbTFJNTR3SjZ2SWJ1Y1dZenV3Q3JBcjNkTktZ?oc=5",
         "source": "조선일보",
         "date": "2026-09-24"
+      },
+      {
+        "title": "김우민·황선우 아쉬움 속 김영범 '에이스 우뚝'…한국 수영, 희망도 봤다 [아시안게임]",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xb3FKRG9INmJ0aWx1Wk9mbTRBaGFzdC11bDVIRjNJQzZIVEl5NkExbTZ1VE5DQWM0cEpQd3o4WXg3NGxiaHJpb0xsNXJqMEZTVVFiNk9OZ0TSAVRBVV95cUxNOWdSbmZnTV9xc21KSVppYkxkZnl5NEt6R1ZJZDBvS2FXYTd1REt4bmFzYm1sN2EzZUliYXhRcldzaTJxdWZLOF96elhmQUFkeE5NVEE?oc=5",
+        "source": "세계일보",
+        "date": "2026-09-25"
       }
     ]
   }
