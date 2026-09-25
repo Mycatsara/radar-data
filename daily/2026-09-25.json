@@ -1002,6 +1002,260 @@
           "date": "2026-09-25"
         }
       ]
+    },
+    "u-23 hàn quốc đấu với u-23 việt nam": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-25T20:41:00+09:00",
+      "lastSeen": "2026-09-25T20:41:00+09:00",
+      "news": [
+        {
+          "title": "Hàn Quốc - Việt Nam: Thay hơn nửa đội hình",
+          "url": "https://vnexpress.net/han-quoc-viet-nam-thay-hon-nua-doi-hinh-5124828.html",
+          "source": "VnExpress",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Trực tiếp bóng đá U23 Việt Nam 0-0 U23 Hàn Quốc: Hiệp 1",
+          "url": "https://laodong.vn/bong-da/truc-tiep-bong-da-u23-viet-nam-0-0-u23-han-quoc-hiep-1-1772702.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Hàn Quốc h��� Saudi Arabia 2-0, rộng cửa hướng tới chức vô địch ASIAD lần thứ 4 liên tiếp",
+          "url": "https://vn.asiatoday.co.kr/view.php?key=20260923000950329",
+          "source": "아시아투데이",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "치지직": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-25T20:41:00+09:00",
+      "lastSeen": "2026-09-25T20:41:00+09:00",
+      "news": [
+        {
+          "title": "다시 한번 WARRIORS! 국가대표 팀 응원 이벤트",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/notices/warriors-team-cheering-event/",
+          "source": "League of Legends",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "네이버 치지직, 라이엇게임즈와 아시안게임 LoL 협업 확대",
+          "url": "https://v.daum.net/v/qfpH1wB3s5",
+          "source": "Daum",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "[아시��게임] 라이엇게임즈, LoL 대표팀 응원 캠페인…결승전 뷰잉파티",
+          "url": "https://www.yna.co.kr/view/AKR20260923064900017",
+          "source": "연합뉴스",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "문보경": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-25T20:41:00+09:00",
+      "lastSeen": "2026-09-25T20:41:00+09:00",
+      "news": [
+        {
+          "title": "야구대표팀, 시골마을 훈련...문보경 '보물 활약' 약속",
+          "url": "https://www.ytn.co.kr/_sn/0107_202609192022262447",
+          "source": "YTN",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "실책 유도-볼넷…'WBC 영웅' 문보경, 이번엔 '행운남' 등극[AG 초점]",
+          "url": "https://v.daum.net/v/20260921210456525",
+          "source": "Daum",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "김도영 부상에 1루 공백...한국, 대만전 앞두고 고심",
+          "url": "https://www.maniareport.com/view.php?ud=2026092113495123766cf2d78c68_19",
+          "source": "마니아타임즈",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "중국": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-25T20:41:00+09:00",
+      "lastSeen": "2026-09-25T20:41:00+09:00",
+      "news": [
+        {
+          "title": "꽉 막힌 도로 위 ‘춤판’…중국도 대이동",
+          "url": "https://ichannela.com/news/detail/000000552248.do",
+          "source": "채널A",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "[사진] 입에서 불이 화르르~ 눈길 사로잡는 쓰촨극 공연",
+          "url": "https://www.nbnnews.co.kr/news/articleView.html?idxno=1058610",
+          "source": "내외뉴스통신",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "중추절 앞두고 中 각지서 다채로운 행사 열려",
+          "url": "http://kr.people.com.cn/n3/2026/0924/c207466-20503481.html",
+          "source": "인민망",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "유튜버": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-25T20:41:00+09:00",
+      "lastSeen": "2026-09-25T20:41:00+09:00",
+      "news": [
+        {
+          "title": "1인당 평균 14억원 '슈퍼챗'도 세금 뗀다…유튜버 17명에 작년 239억원 부과",
+          "url": "https://v.daum.net/v/KmCnZIV7o1",
+          "source": "Daum",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "국세청, ‘탈세 유튜버’에 철퇴…17명에 239억 부과",
+          "url": "https://www.mk.co.kr/news/society/12161251",
+          "source": "매일경제",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "악성 정보로 떼돈 버는 ‘탈세 유튜버’ 16명, 국세청 세무조사 받는다",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1279449.html",
+          "source": "한겨레",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "한국 u-23 대 베트남 u-23": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-25T20:41:00+09:00",
+      "lastSeen": "2026-09-25T20:41:00+09:00",
+      "news": [
+        {
+          "title": "[아시안게임] '가시밭길' 피한 이민성호, 김상식 없는 베트남과 8강 격돌",
+          "url": "https://www.yna.co.kr/view/AKR20260924026200007",
+          "source": "연합뉴스",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "이민성 감독 '장신 카드' 적중! 192㎝ 이영준, 헤더골 폭발... 韓, 베트남에 전반 1-0 리드 [아이치 나고야 AG] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/25/2026092518063167151",
+          "source": "머니투데이",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "[아시안게��] 4연패 바라보는 한국 남자축구, 베트남전 이영준 '원톱' 출격",
+          "url": "https://v.daum.net/v/20260925181449952",
+          "source": "Daum",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "금메달": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-25T20:41:00+09:00",
+      "lastSeen": "2026-09-25T20:41:00+09:00",
+      "news": [
+        {
+          "title": "남자 3대3 농구, 필리핀 꺾고 결승 진출…첫 금메달 도전 [AG 영상]",
+          "url": "https://v.daum.net/v/20260925143900444",
+          "source": "Daum",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "‘청춘’들 똘똘 뭉쳐 ‘금빛슛’ 쐈다…한국 남자 3대3 대표팀 사상 첫 금",
+          "url": "https://www.hani.co.kr/arti/sports/sportstemp/asiangame/1279477.html",
+          "source": "한겨레",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "[아시안게임] 여���농구, '만리장성' 중국 넘고 8년 만에 결승행",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6854099_36946.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "히구치 신": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-09-25T20:41:00+09:00",
+      "lastSeen": "2026-09-25T20:41:00+09:00",
+      "news": [
+        {
+          "title": "오전 시설부 직원-오후 야구선수…‘운명의 한일전’ 일본 선발 히구치 신",
+          "url": "https://www.hani.co.kr/arti/sports/sportstemp/asiangame/1279471.html",
+          "source": "한겨레",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "'앗, 송구 실책이라니'",
+          "url": "https://mobile.newsis.com/photo/NISI20260925_0021457618",
+          "source": "뉴시스",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "[포토]'3회말 득��� 축하하는' 일본 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/25/2026092519394979646",
+          "source": "머니투데이",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "호주 대 브라질": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-25T20:41:00+09:00",
+      "lastSeen": "2026-09-25T20:41:00+09:00",
+      "news": [
+        {
+          "title": "호주 대 브라질 경기 예측: 다득점 경기가 예상됩니다.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-uc-vs-brazil-hua-hen-man-doi-cong",
+          "source": "Vietnam.vn",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "[if.preview] 다음 월드컵 향한 첫 걸음! ‘유망주 대거 발탁’ 호주와 브라질의 맞대결",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98340",
+          "source": "포포투",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "주���욱": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-25T20:41:00+09:00",
+      "lastSeen": "2026-09-25T20:41:00+09:00",
+      "news": [
+        {
+          "title": "딸 얼굴공개 계획었었네,,주상욱 \"아이돌 연습생부터 시킬 것\" 눈길",
+          "url": "https://v.daum.net/v/7UkjMBwall",
+          "source": "Daum",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "주상욱♥차예련 9살 딸 공개…\"엄마·아빠 반반 빼닮았네\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/23/2026092319382265854",
+          "source": "머니투데이",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "주상욱♥차예련, '붕어빵' 8세 딸 첫 공개…훈훈 가족 화보 [N샷]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6301123",
+          "source": "뉴스1",
+          "date": "2026-09-25"
+        }
+      ]
     }
   },
   "sections": {
