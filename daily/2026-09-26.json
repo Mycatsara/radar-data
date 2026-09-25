@@ -2,10 +2,10 @@
   "date": "2026-09-26",
   "keywords": {
     "하주석": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-26T01:50:00+09:00",
-      "lastSeen": "2026-09-26T01:50:00+09:00",
+      "lastSeen": "2026-09-26T05:19:00+09:00",
       "news": [
         {
           "title": "3일만 버티면 김도영 오는데…KIA, 26일 광주 비 예보 앞당겨져 울상→주말 3위 '1G 차' 줄일까",
@@ -24,14 +24,26 @@
           "url": "https://www.mt.co.kr/sports/2026/09/23/2026092316420213002",
           "source": "머니투데이",
           "date": "2026-09-25"
+        },
+        {
+          "title": "이범호 “KIA에서 많이 안 뛰더니 도루 많이 하네”…80억 유격수 “뒤에서 빵빵 쳤으니까 뛸 필요가 없었죠”",
+          "url": "https://v.daum.net/v/qAqW7PvmWv",
+          "source": "Daum",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "\"박찬호 아니었으면 지금�� 서산에…\" KIA 트레이드 보물도 인정, 80억 FA는 누군가의 야구인생을 바꿨다",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1009357",
+          "source": "SPOTV NEWS",
+          "date": "2026-09-25"
         }
       ]
     },
     "맨시티": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-26T01:50:00+09:00",
-      "lastSeen": "2026-09-26T01:50:00+09:00",
+      "lastSeen": "2026-09-26T05:19:00+09:00",
       "news": [
         {
           "title": "맨체스터 시티 초대형 위기! ‘115개 혐의 중 114개 유죄’ 판정…승점 삭감 넘어 PL 퇴출 가능성까지",
@@ -50,14 +62,26 @@
           "url": "https://sports.khan.co.kr/article/202609210759003",
           "source": "스포츠경향",
           "date": "2026-09-25"
+        },
+        {
+          "title": "\"우승 박탈까지 가능\" 맨시티, 115개 혐의 중 114개 '유죄' 판정...프리미어리그 퇴출 가능성도",
+          "url": "https://v.daum.net/v/20260926000213634",
+          "source": "Daum",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "맨체스터 시티는 115개 혐의 중 114개 혐의에 대해 유죄 판결을 받았습니다.",
+          "url": "https://www.vietnam.vn/ko/man-city-bi-ket-toi-o-114-115-cao-buoc",
+          "source": "Vietnam.vn",
+          "date": "2026-09-25"
         }
       ]
     },
     "이승철": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-26T01:50:00+09:00",
-      "lastSeen": "2026-09-26T01:50:00+09:00",
+      "lastSeen": "2026-09-26T05:19:00+09:00",
       "news": [
         {
           "title": "박보검 뜨자 “내 이럴 줄 알았다”…1.2만명 빵 터진 이승철 발언",
@@ -76,14 +100,26 @@
           "url": "https://www.yna.co.kr/view/AKR20260923137100005",
           "source": "연합뉴스",
           "date": "2026-09-25"
+        },
+        {
+          "title": "가수 이승철 출연한 더헤븐리조트 캠페인, 뉴욕 타임스퀘어에 등장",
+          "url": "https://v.daum.net/v/W4KsuxyOY3",
+          "source": "Daum",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "이승철, 박보검 등장에 \"백날 노래 잘해봐야 소용없다\"",
+          "url": "https://www.segye.com/newsView/20260925504423",
+          "source": "세계일보",
+          "date": "2026-09-25"
         }
       ]
     },
     "이은결": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-26T01:50:00+09:00",
-      "lastSeen": "2026-09-26T01:50:00+09:00",
+      "lastSeen": "2026-09-26T05:19:00+09:00",
       "news": [
         {
           "title": "용인문화재단, 이은결 데뷔 30주년 기념 공연 10월 말 개최",
@@ -257,6 +293,162 @@
           "title": "이란 최고지도자 고문, 미 항공 제재 동참국 향해 보복 시사",
           "url": "https://imnews.imbc.com/news/2026/world/article/6854108_36925.html",
           "source": "MBC 뉴스",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "이탈리아 대 벨기에": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-26T05:19:00+09:00",
+      "lastSeen": "2026-09-26T05:19:00+09:00",
+      "news": [
+        {
+          "title": "이탈리아, 벨기에와 경기 예정…로베르토 만치니 감독, 중대한 발언 내놓아.",
+          "url": "https://www.vietnam.vn/ko/italia-dau-bi-roberto-mancini-tuyen-bo-lon",
+          "source": "Vietnam.vn",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "네이션스 리그 이탈리아 대 벨기에 생중계 링크",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-italy-vs-bi-tai-nations-league-1772750.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "\"그때는 미안했다!\"...거액에 조국 버렸던 만치니, 3년 만에 복귀! \"난 이탈리아 사랑해, 내 인생의 전부\"",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=695147",
+          "source": "인터풋볼",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "난폭운전": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-26T05:19:00+09:00",
+      "lastSeen": "2026-09-26T05:19:00+09:00",
+      "news": [
+        {
+          "title": "\"딸 아파서\"…국도서 시속 157㎞, 10분간 22차례 법 어긴 50대 운전자",
+          "url": "https://v.daum.net/v/20260925153528187",
+          "source": "Daum",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "80km/h 도로서 157km/h ‘광란의 칼치기 질주’…“원주에 딸이 아파서”",
+          "url": "https://www.donga.com/news/Society/article/all/20260925/134733115/1",
+          "source": "동아일보",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "“딸이 아파서”…추석 연휴 국도서 157㎞로 내달린 50대, 22차례 법규 위반",
+          "url": "https://www.kyeonggi.com/article/20260925580120",
+          "source": "경기일보",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "türkiye vs france": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-26T05:19:00+09:00",
+      "lastSeen": "2026-09-26T05:19:00+09:00",
+      "news": [
+        {
+          "title": "Turkey vs France: UEFA Nations League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/crlyqpvqjgqet",
+          "source": "BBC",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live",
+          "url": "https://www.theguardian.com/football/live/2026/sep/25/turkey-v-france-italy-v-belgium-and-more-nations-league-clockwatch-live",
+          "source": "The Guardian",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "LIVE: Turkiye vs France – UEFA Nations League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/9/25/live-turkiye-vs-france-uefa-nations-league",
+          "source": "Al Jazeera",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "사회적 고립": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-26T05:19:00+09:00",
+      "lastSeen": "2026-09-26T05:19:00+09:00",
+      "news": [
+        {
+          "title": "“일주일 동안 전화 한통 안와”…쓸쓸히 죽음 맞는 노인들",
+          "url": "https://www.mk.co.kr/news/society/12161378",
+          "source": "매일경제",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "“일주일 동안 전화 한통 안와”…쓸쓸히 죽음 맞는 노인들",
+          "url": "https://v.daum.net/v/20260925163904898",
+          "source": "Daum",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "친구 0명, 전화 한 통 없이 일주일 지나간다…가난보다 무서운 혼자의 삶",
+          "url": "https://www.sedaily.com/article/20094911",
+          "source": "서울경제",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "윌스미스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-26T05:19:00+09:00",
+      "lastSeen": "2026-09-26T05:19:00+09:00",
+      "news": [
+        {
+          "title": "Rob Lowe awkwardly admits he was ‘the only person happy’ when Will Smith slapped Chris Rock at Oscars",
+          "url": "https://pagesix.com/2026/09/25/entertainment/rob-lowe-admits-he-was-the-only-person-happy-when-will-smith-slapped-chris-rock-at-oscars/",
+          "source": "Page Six",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Rob Lowe explains why he was ‘the only person happy’ when Will Smith slapped Chris Rock at the Oscars",
+          "url": "https://www.yahoo.com/entertainment/articles/rob-lowe-explains-why-only-023008649.html",
+          "source": "Yahoo",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Rob Lowe Explains Why He Was The 'Only Person' Who Was 'Happy' Will Smith Slapped Chris Rock",
+          "url": "https://www.huffpost.com/entry/rob-lowe-happy-will-smith-chris-rock-oscars-slap_n_6ab677c9e4b0bad9a6470c5b",
+          "source": "HuffPost",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    "olympia": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-26T05:19:00+09:00",
+      "lastSeen": "2026-09-26T05:19:00+09:00",
+      "news": [
+        {
+          "title": "Mr. Olympia schedule 2026: Dates, times, live stream to watch men's, women's bodybuilding events",
+          "url": "https://www.sportingnews.com/us/tsn/news/mr-olympia-schedule-2026-times-live-stream-watch-bodybuilding/1f0b6628afa9a07020047700",
+          "source": "Sporting News AU",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "2026 Mr. Olympia Free Livestream: Watch Here (Friday Pre-Judging LIVE)",
+          "url": "https://generationiron.com/watch-2026-olympia-livestream/",
+          "source": "Generation Iron",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "How to Watch the 2026 Mr. Olympia Press Conference Free Today",
+          "url": "https://fitnessvolt.com/watch-the-2026-mr-olympia-press-conference/",
+          "source": "Fitness Volt",
           "date": "2026-09-25"
         }
       ]
@@ -1361,6 +1553,108 @@
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ONUl2SzNtbEl3QktrTVIzXzhJRDZEQnhVOWFFTzJSSi1JMXNSWnRUdTBQNjc2MzRIZURaMUx6UGp0dEFXOWtRRGUzWkV2SUpKSWZBeA?oc=5",
         "source": "xportsnews.com",
         "date": "2026-09-23"
+      },
+      {
+        "title": "이민성호, 이영준 멀티골 앞세워 베트남 4-0 대파…4강 확정",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JUTU0dTJLNGdGSTdBX21sdmprSVZ2Q3ppc3VHVkNXME15WE9lZDE0eGNSaWlPVEtuYXJGREpic2pvcHNaS1Z6REJMUFpOM0Q5Z1lyaUI0WkNHenYwWkpwcF93bVRsWDBsQkJvSjJUangzUS0yNDhV?oc=5",
+        "source": "한겨레",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "안세영 제치고 金메달 눈 앞인데 \"생리 중 아픔, 진통제 먹었다\"…中 왕즈이 우승 비화 \"렌즈도 빠졌어\"",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xcGNZTFN1eXN4TDZndEthLU9qb2ZjTHA1V0htb05CRUZqUUxLSi1EazMxLVZNbEJmMlVXUUpfQW1mZ2ZUd3MyQTExanM4ZTQ?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "다시 돌아가는 韓 축구 시계! '포스트 손흥���' 김민수, 20살 A매치 데뷔 \"모레노 감독과 스페인어 소통 편해\" 미소 만발…추석 꿀맛 휴가, 26일 재소집",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcEQ5ZVRCMDRnUlVNWkh1NGhMd3pxNnRNY1M2U1dkNmlUcVN4blA5U1ExOUl1ZjJBLURjeFE5NGJxall1MzVnQ2pTcnRmWWpUX2dkQWFsMVlyWFd3MjhEOVpNNWVmV3czejYwZWFVbUtEcUdVLWJYUkk2OVNxakh3RWFRYw?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "[2026AG] 탁구 혼복 '세계 1위' 임종훈-신유빈, 중국에 역전패…2연속 동메달",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aQnBYZmcyY1k4ZkFQTTQyQXpkNjFDUjhBZXVaQ3NOdk1TLXhRSWkyZWtmejBnT3lEanFYNEFxM09sb25NNGFqRVh6OUtyb21fUVhJUm02RmhVWmdL?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "[아시안게임] 4위 오르고도 아쉬운 조엘진 \"너무 욕심냈다\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Eem51YjZINnFTWU9DSmZoTl9Qb21sMUJ4TnFqdmN5RGpoYXctN0Rqd0ZFc0RaVFNxb041UWI0VlUzQ01UNWg1bWMtNzhiN05wTnFTNzNDMk5yR0XSAWBBVV95cUxNZHpsQ254ZnZTcWlUM2x0cHdxN1VjT1NXWlpCSGVpRUpOMjZzaTdVZzZfT2N6bTFUdDlEVE1aeUxVb0JPZHRoaFNMYWtpTXdoYjFfcmd3ZGc2ZmZybXdJOWc?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "연수구청 장상원, 아시안게임 카누 K-4 500m ‘역사상 첫 금메달’",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93eUxHUW03c2Z5SzNRSW45QmdmODY0c0Y2MnY2c08zQ2wxRkdaOVZ4Y1pOUEpPSHY0WnNaWk92X0VqTEFERHRaQmJwRkFMdWs5dk51RWlzYm53Sm9pbWVXbg?oc=5",
+        "source": "newsgb.co.kr",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "한국 수영 ‘은빛’ 결산…항저우보다 금 5개 줄었다",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tWTQtWmxILW5NQ01ZQ3RsVlFQZllwYkx3Q01UOFIyRy1Mei1GWnU3SlNGWFdNRVpMd0NSMHZtZ1BfM2V2RjU0SzEyVnNpeFk?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "[아시안게임] '2관왕 불발' 펜싱 송세라 \"제가 부족했다…더 배울 것\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ibGZRUjlkdDRhdld5Q1BpREVUejB3LUlhOVRPa3B5WllrVURtTzN2amw5UmRqSFhlTlhYVk1VaXhHcm5kU3JfVVdVRGs1SVBrdTdSNmNyekNCTTDSAWBBVV95cUxNYXdPMi1adFZic3FqYUhVclQ0V1BtSDlGQzE3QUtIdjNGSHF2N29DWkZJcFYwdzdoYlRTVHlxOFdLdEZrQUdLdlFQV0FnWDV3THNqUTFSR1k0cmNFVjdEdDQ?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "한국 여자축구 ‘괴물’ 탄생…윤수정 멀티골로 우즈벡 대파·4강행 견인",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45Q3B1ZzRuR2I1N3Rsd2JVV29JcWJsamZwSkJPRVhRMGYzaVlXWW93YUlrTV8tZHJwWjVTaXNua3pnSVQyQ3FqbXpVd1RiMVoyMmluNXVxQUpUdGY0Nkx2RmxNakJJV0J6RGFFSUVaT3pkemdvNWdz?oc=5",
+        "source": "한겨레",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "\"한국야구 16명 병역 면제 도전\" 대만 경악했는데, 日사회인에 참패→이들 운명 어떻게 되나 '중국전 승리만이 살길' [오!쎈 도요하시]",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFNYT3Z3X01xcG12TmlWTkphcDhRa19oZkc2cTJzUVNtR3RWQ0xBelpfVjJLUGdkelYwYmJ6a3FYUmVQNjh6OTNxSDN2bzk4NkR1OVJob0RpWVBKX0d1THh6d1otUEZQc3U0Sk0yaE5iaWdhLURSbS1TenNlaVFTOGxEMA?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "[아시안게임] 알사니 OCA 의장, 코리아하우스 방문해 한국 문화 체험",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXVDR3WkdhWWVsc3hiNUp2Z2FUSHctMW52N0RTQld5TlRDb25mNjJOeUhLWEd0RkRkMmQ0ZXdFOVhBYU00bjZ5X3J6ZHQwRkRBbkJlM3p2dWt6azRwSmJQcm9OeGxDSl9qeVVGS0Z4cl9tWjR5?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "中 새로운 ‘수영 괴물’ 떴다.. 박태환 기록 넘고 亞게임 7관왕",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmRUN0djZVpUZlFYS3B1aVN6QmlFQndHb200Y3ZGc0pkejY1cGJkbmEyVjlVdURPM29rVk1KZVNDaWpFckd4clRpZ2QzUmQyNWdKRzl1WXBjZTZxNlNRY3NQdlh4TUZqaVVpdDhVWjk0MXJvSVR2MF9UYnNKYnhIdjdsajBOREwzcXV3?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "중국 金따라고 만들었나…1시간만에 금메달 6개 ‘싹쓸이’한 이 종목",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2WFNqbzJWUndDd1VacTd1SDBCNVduSVNia2NqY1hXR2VUbWNuMklMZnAwaUNTcEVLZC1ROUVKVU00ZVIzNXpMZHp6cVBMVWxmUnc?oc=5",
+        "source": "매일경제",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "에페 단체 결승행…‘고윤정 닮은’ 미녀 검객 양승혜는 왜 실종됐나[AG 펜싱]",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jeTBQZUJzYXd6UWFVaFp4RkdzYWxUSFNRU2dEcVg4SHhyVGRCY3dXMlQ3MmlvWkVrQXJMQ0x5R1BiYmVYTGNsN3BPNFVaTEZuZElJMmhjeHVuZnJCUzRTSWI4ZkEwelNsMndGbWxPZVnSAXRBVV95cUxPMDVxeTZwVU5ZbXVObm9GZ09ZTmNCSkxON1JrSVo1V1NCYjVTbmhvcmlGNFdqcE5Ud0trT0EtNS1wMkdJeUJ4QThWWExLTWJyUENQQXgza3JZcnQxMUtrZVhMYXlXZ1BYaVQwX1JMUXJRemhsVw?oc=5",
+        "source": "스포츠한국",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "'신유빈 24분 만에 3-0 완파' 그 일본 선수, 中 간판 쑨잉사에 20전 20패라니→중국 여자탁구는 여전히 강하다",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wY0JqTURVeVJ4NGRsMV95V015UHJfQmphX0FyUHc0ZVd0cUM4YThFRWNLLVR5RjNOcVpmRDc2YmVkZWZNeU01cTN0OVYyOVBWX05FaA?oc=5",
+        "source": "xportsnews.com",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "한국, e스포츠 ‘대전 격투’ 銀 확보…결승은 한일전",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzSWRDSVFGNXRoUUxJRWh4UUlPVDJOSUkySjdLbFZQTW50cGpoUWhmaXE3VTZuSkNOYm41WGZPNkpfRHZWMVdWX3ZuQnZKTTJGeFZ5TDVkdmJIR3daT0NMbWZ6dVdVa1nSAWxBVV95cUxNd1NtZC1CLUZNbDFYY2tKNV9rNWZUdEdnbjI2SU9FMFVvaWdkUDlzM0pFajRCZUVrakctd1RmdWFoVng4V01oTnNRSDdtQVIwbXFjVFhFV25zX1pGNE9XeUR6OHlIS05FNjNMU1I?oc=5",
+        "source": "국민일보",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "\"3년 888억 남은 이정후, SF 발목 잡는다\"...94패 원흉 꼽히다니, '먹튀' 평가 못 피했다",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTnE4amJhU1NXU0VKWjAzR2xISVFLVklWbDhJOVoyeWRFSFZseHgweGxMOXVUVThydXFJVGh6dzg3YmdiWnpRYTVnSVpubklJcTBQM2FNZ29rZDBnZUpWSVVJd0RSazFHeVZ6VjE5LVNUbTFJNTR3SjZ2SWJ1Y1dZenV3Q3JBcjNkTktZ?oc=5",
+        "source": "조선일보",
+        "date": "2026-09-24"
       }
     ]
   }
