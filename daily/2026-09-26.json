@@ -1213,6 +1213,266 @@
           "date": "2026-09-26"
         }
       ]
+    },
+    "성심당": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-26T21:21:00+09:00",
+      "lastSeen": "2026-09-26T21:21:00+09:00",
+      "news": [
+        {
+          "title": "성심당에 대적할 맞수... 대전 현지인들은 여기를 갑니다",
+          "url": "https://v.daum.net/v/20260926110314959",
+          "source": "Daum",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "“2시간 기다려도 현장이 낫다”…성심당이 원격 웨이팅 접은 이유는",
+          "url": "https://m.segye.com/view/20260926505825",
+          "source": "세계일보",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "빵지 순례가 만든 700조 시장, 일상의 빵이 재편하는 지구촌 식탁 - 조선비즈",
+          "url": "https://biz.chosun.com/distribution/food/2026/09/25/7D6HDH6SMJC3FIHZDNNPMDF3ZI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "기이안 연애": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-26T21:21:00+09:00",
+      "lastSeen": "2026-09-26T21:21:00+09:00",
+      "news": [
+        {
+          "title": "'36세' 이유비, 나이가 안 믿겨지는 교복 자태…'진짜 여고생 아닌가'",
+          "url": "https://v.daum.net/v/20260926160255422",
+          "source": "Daum",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "이유비, 결국 AI 남친 사훈과 최종 커플…“영구 삭제 못해” (기이안 연애)",
+          "url": "https://sports.donga.com/ent/article/all/20260926/134733739/1",
+          "source": "스포츠동아",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "TV-라디오 화제의 순간|기안84, 나희와 단란한 2세 가족사진에 흐뭇 \"딸은 희주 아들은 희재\"(기이안연애) [텔리뷰]",
+          "url": "https://m.news.zum.com/photo/39547648/107940258?cm=news_photolist&r=2&thumb=1",
+          "source": "ZUM 뉴스",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "윤상현": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-26T21:21:00+09:00",
+      "lastSeen": "2026-09-26T21:21:00+09:00",
+      "news": [
+        {
+          "title": "[인터뷰] 윤상현 \"국힘, 강성층만으로 선거 못 이겨…51% 신뢰 얻어야\"",
+          "url": "https://v.daum.net/v/20260926000203618",
+          "source": "Daum",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "[속보] 국민의힘 윤상현 긴급 국회 기자회견 생중계 [현장영상] / 채널A",
+          "url": "https://ichannela.com/news/digitalspecial/detail/iAyZWYMy_8c.do",
+          "source": "채널A 뉴스",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "국민의힘 윤상현 긴급 국회 기자회견 생중계 [현장영상]",
+          "url": "https://ichannela.com/news/detail/000000552099.do",
+          "source": "채널A",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "치지직": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-26T21:21:00+09:00",
+      "lastSeen": "2026-09-26T21:21:00+09:00",
+      "news": [
+        {
+          "title": "다시 한번 WARRIORS! 국가대표 팀 응원 이벤트",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/notices/warriors-team-cheering-event/",
+          "source": "League of Legends",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "라이엇, '리그오브레전드' 국가대표 선전 기원 ‘워리어즈’ 캠페인 실시",
+          "url": "https://v.daum.net/v/20260923181328821",
+          "source": "Daum",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "LoL 국가대표 응원한다…라이엇 게임즈, 게임 플레이 미션·SNS 이벤트 전개",
+          "url": "https://www.xportsnews.com/article/2199823",
+          "source": "www.xportsnews.com",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "일본 u-23 대 북한 u-23": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-26T21:21:00+09:00",
+      "lastSeen": "2026-09-26T21:21:00+09:00",
+      "news": [
+        {
+          "title": "'이민성호 금메달은 우리가 막는다' 아시안게임 4강서 한중전 성사...중국, 8강서 태국 3-0 완파",
+          "url": "https://v.daum.net/v/20260926172242345",
+          "source": "Daum",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "'4연패 도전' 이민성호, 남자축구 결승 길목서 중국과 격돌[나고야AG]",
+          "url": "https://www.newsis.com/view/NISX20260926_0003803781",
+          "source": "뉴시스",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "'4연패 도전' 이민성호, 준결승 상대는 중국…태국 3-0 완파[AG]",
+          "url": "https://www.news1.kr/sports/soccer/6302011",
+          "source": "뉴스1",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "이해란": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-26T21:21:00+09:00",
+      "lastSeen": "2026-09-26T21:21:00+09:00",
+      "news": [
+        {
+          "title": "2m 26cm 만리장성 넘었다…여자농구 오늘 결승",
+          "url": "https://v.daum.net/v/6xxQvxyOzt",
+          "source": "Daum",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "[포토]'3점이다!' 이소희 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/26/2026092620335768713",
+          "source": "머니투데이",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "[아시안게임] 한국 여자농구, 중국 무너뜨리고 결승행…금메달 놓고 한일전(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260925038951007",
+          "source": "연합뉴스",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "오상욱": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-26T21:21:00+09:00",
+      "lastSeen": "2026-09-26T21:21:00+09:00",
+      "news": [
+        {
+          "title": "“끝난 거 아니야!” 동료 한 마디에 대역전 “오상욱은 오상욱이다”",
+          "url": "https://v.daum.net/v/20260926203309781",
+          "source": "Daum",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "태극기와 함께 기념촬영 하는 남자 펜싱 사브르",
+          "url": "https://www.newsis.com/view/NISI20260926_0021459306",
+          "source": "뉴시스",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "[속보]‘41-44’서 터진 오상욱 대역전극…韓 ‘어펜져스’ 아시안게임 4연패",
+          "url": "https://www.donga.com/news/Sports/article/all/20260926/134734944/1",
+          "source": "동아일보",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "정미애": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-26T21:21:00+09:00",
+      "lastSeen": "2026-09-26T21:21:00+09:00",
+      "news": [
+        {
+          "title": "심수봉 '김다현 비난' 사태 정미애에 불똥…\"발언 못 들었다\"",
+          "url": "https://www.nocutnews.co.kr/news/6583300",
+          "source": "노컷뉴스",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "유퉁 \"심수봉 정신 왔다 갔다, 스스로 연예계 사망 선고\"…'김다현 직격'에 쓴소리",
+          "url": "https://www.news1.kr/society/people/6301585",
+          "source": "뉴��1",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "\"심수봉, 일반인도 비꼬고 훈계\" 녹화장 폭로글 등장 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/24/2026092411514728169",
+          "source": "머니투데이",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "엔비디아": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-26T21:21:00+09:00",
+      "lastSeen": "2026-09-26T21:21:00+09:00",
+      "news": [
+        {
+          "title": "Opinion | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+          "url": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html",
+          "source": "The New York Times",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "\"Enough predictions\": Jensen Huang unloads on AI doomsday fears",
+          "url": "https://www.axios.com/2026/09/23/nvidia-jensen-huang-ai-doom-predictions",
+          "source": "Axios",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "Anderson Cooper asks NVIDIA CEO about tech CEOs' being worried about AI",
+          "url": "https://www.cnn.com/2026/09/24/us/video/achuangsot1",
+          "source": "CNN",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "두산": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-26T21:21:00+09:00",
+      "lastSeen": "2026-09-26T21:21:00+09:00",
+      "news": [
+        {
+          "title": "두산 초비상! '日 아쿼' 원석→보석 바꿨더니 다시 뺏기나?…\"NPB 명문 팀 스카우트 한국 직접 찾아 집중 관찰\"",
+          "url": "https://www.xportsnews.com/article/2199762",
+          "source": "엑스포츠뉴스",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "“실수했다고 이닝 중간에 교체한 건 처음이다” 아찔한 실수를 2번이나…왜 2루 베이스 비웠나, 나름 이유는 있었다",
+          "url": "https://v.daum.net/v/20260926104249582",
+          "source": "Daum",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "어이없는 실책은 쓴소리, 어쩔 수 없는 실책은 위로…80억 유격수, 이래서 우승 내야 사령관인가 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/25/202609251227775714O",
+          "source": "머니투데이",
+          "date": "2026-09-26"
+        }
+      ]
     }
   },
   "sections": {
