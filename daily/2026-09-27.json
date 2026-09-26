@@ -2,10 +2,10 @@
   "date": "2026-09-27",
   "keywords": {
     "이창섭": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-27T01:37:00+09:00",
-      "lastSeen": "2026-09-27T01:37:00+09:00",
+      "lastSeen": "2026-09-27T04:35:00+09:00",
       "news": [
         {
           "title": "이창섭, '소유 부친상 위로' 이미지 좋았는데..'쓰레기 논쟁'으로 치명타[Oh!쎈 이슈]",
@@ -24,14 +24,20 @@
           "url": "https://www.sportsseoul.com/news/read/1637586",
           "source": "스포츠서울",
           "date": "2026-09-26"
+        },
+        {
+          "title": "\"적정선 넘었다\" 이창섭 사과에도 '쓰레기 논쟁' 일파만파 [MD이슈]",
+          "url": "https://v.daum.net/v/20260926030128524",
+          "source": "Daum",
+          "date": "2026-09-26"
         }
       ]
     },
     "윤아": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-09-27T01:37:00+09:00",
-      "lastSeen": "2026-09-27T01:37:00+09:00",
+      "lastSeen": "2026-09-27T04:35:00+09:00",
       "news": [
         {
           "title": "임윤아, 이탈리아가 깜짝 놀란 미모…이날 얼마나 예뻤길래",
@@ -50,14 +56,20 @@
           "url": "https://sports.donga.com/ent/article/all/20260926/134735158/1",
           "source": "스포츠동아",
           "date": "2026-09-26"
+        },
+        {
+          "title": "[사진]윤아,'마스크로 가려도 아름다워'",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/26/GNRTCMZRGU2TCZTEHBRWKNLFGU/",
+          "source": "조선일보",
+          "date": "2026-09-26"
         }
       ]
     },
     "왕사남": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-27T01:37:00+09:00",
-      "lastSeen": "2026-09-27T01:37:00+09:00",
+      "lastSeen": "2026-09-27T04:35:00+09:00",
       "news": [
         {
           "title": "1692만 흥행작 ‘왕과 사는 남자’, 오늘(26일) 추석 특선 영화 방송",
@@ -80,10 +92,10 @@
       ]
     },
     "지선": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-27T01:37:00+09:00",
-      "lastSeen": "2026-09-27T01:37:00+09:00",
+      "lastSeen": "2026-09-27T04:35:00+09:00",
       "news": [
         {
           "title": "600대 1 경쟁률 뚫었는데…러브홀릭 지선, 팀 탈퇴한 이유?(‘백투더뮤직2’) - 스타투데이",
@@ -102,14 +114,20 @@
           "url": "https://enter.etoday.co.kr/news/view/302922",
           "source": "비즈엔터",
           "date": "2026-09-26"
+        },
+        {
+          "title": "지선, 러브홀릭 돌연 탈퇴 이유 고백 \"좌절감 느꼈다\" ('백투더뮤직2') [종합]",
+          "url": "https://v.daum.net/v/98xRUGe45M",
+          "source": "Daum",
+          "date": "2026-09-26"
         }
       ]
     },
     "휴게소": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-09-27T01:37:00+09:00",
-      "lastSeen": "2026-09-27T01:37:00+09:00",
+      "lastSeen": "2026-09-27T04:35:00+09:00",
       "news": [
         {
           "title": "10명 숨지고 92명 다쳤다…불안한 '휴게소 안전'",
@@ -128,14 +146,20 @@
           "url": "https://www.kgnews.co.kr/news/article.html?no=912810",
           "source": "경기신문",
           "date": "2026-09-26"
+        },
+        {
+          "title": "고속도로 2차사고 치사율 44.3%…휴게소까지 견인 0원인데 아무도 모른다",
+          "url": "https://www.imaeil.com/page/view/2026092216035004612",
+          "source": "매일신문",
+          "date": "2026-09-26"
         }
       ]
     },
     "조현아": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-27T01:37:00+09:00",
-      "lastSeen": "2026-09-27T01:37:00+09:00",
+      "lastSeen": "2026-09-27T04:35:00+09:00",
       "news": [
         {
           "title": "'17㎏ 감량' 조현아, 몰라보게 늘씬해진 모습 '눈길'",
@@ -154,21 +178,27 @@
           "url": "https://www.news1.kr/entertain/celebrity-topic/6301904",
           "source": "뉴스1",
           "date": "2026-09-26"
+        },
+        {
+          "title": "‘17kg 감량’ 조현아, 날렵한 턱선 자랑",
+          "url": "https://sports.khan.co.kr/article/202609261507003",
+          "source": "스포츠경향",
+          "date": "2026-09-26"
         }
       ]
     },
     "lotto result 6/45": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-27T01:37:00+09:00",
-      "lastSeen": "2026-09-27T01:37:00+09:00",
+      "lastSeen": "2026-09-27T04:35:00+09:00",
       "news": []
     },
     "sbs": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-09-27T01:37:00+09:00",
-      "lastSeen": "2026-09-27T01:37:00+09:00",
+      "lastSeen": "2026-09-27T04:35:00+09:00",
       "news": [
         {
           "title": "Elevator Breakdown at Daejeon Hypermarket Traps 5 People Before Rescue",
@@ -238,6 +268,58 @@
           "title": "정시아 \"VIP 조리원, 아이 딱 4명...양현석 아들도 있었다\" - 머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/09/26/2026092607011088317",
           "source": "머니투데이",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "england vs spain": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-27T04:35:00+09:00",
+      "lastSeen": "2026-09-27T04:35:00+09:00",
+      "news": [
+        {
+          "title": "England vs Spain LIVE: UEFA Nations League score, commentary, updates & stats",
+          "url": "https://www.bbc.com/sport/football/live/c9j3dpkxe5vdt",
+          "source": "BBC",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "Tuchel starts Leeds keeper James Trafford, Pickford benched for Spain in Nations League",
+          "url": "https://onefootball.com/en/news/tuchel-starts-leeds-keeper-james-trafford-pickford-benched-for-spain-in-nations-league-43524813",
+          "source": "OneFootball",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "Who are the ITV pundits, commentators and presenters for England vs Spain?",
+          "url": "https://sports.yahoo.com/articles/itv-pundits-commentators-presenters-england-160000957.html",
+          "source": "Yahoo Sports",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "잉글랜드 대 스페인": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-27T04:35:00+09:00",
+      "lastSeen": "2026-09-27T04:35:00+09:00",
+      "news": [
+        {
+          "title": "감독 바꿔도 반복되는 잉글랜드의 실패…가디언 “진짜 문제는 무능력한 잉글랜드 출신 지도자들”",
+          "url": "https://v.daum.net/v/20260925085207629",
+          "source": "Daum",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "“스페인 따라하기? 그건 안된다” 앤서니 고든 쓴소리",
+          "url": "https://sports.khan.co.kr/article/202609250853003",
+          "source": "스포츠경향",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "네이션스 리그 잉글랜드 대 스페인 생중계 링크",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-anh-vs-tay-ban-nha-tai-nations-league-1773246.ldo",
+          "source": "Laodong.vn",
           "date": "2026-09-26"
         }
       ]
