@@ -2,10 +2,10 @@
   "date": "2026-09-28",
   "keywords": {
     "로드리고 벤탕쿠르": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-09-28T02:11:00+09:00",
-      "lastSeen": "2026-09-28T02:11:00+09:00",
+      "lastSeen": "2026-09-28T05:19:00+09:00",
       "news": [
         {
           "title": "'쏘니 옛 동료' 벤탕쿠르 \"손흥민에게 실점하지 않도록 준비\"",
@@ -24,14 +24,20 @@
           "url": "https://sports.donga.com/sports/article/all/20260927/134739204/1",
           "source": "스포츠동아",
           "date": "2026-09-27"
+        },
+        {
+          "title": "대한민국 축구대표팀과 경기 전 기자회견하는 포를란 감독",
+          "url": "https://mobile.newsis.com/photo/NISI20260927_0021460726",
+          "source": "뉴시스",
+          "date": "2026-09-27"
         }
       ]
     },
     "심진화": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-28T02:11:00+09:00",
-      "lastSeen": "2026-09-28T02:11:00+09:00",
+      "lastSeen": "2026-09-28T05:19:00+09:00",
       "news": [
         {
           "title": "다이어트가 최고의 성형…심진화, 이목구비 꽉 찬 ‘인형 비주얼’ 폭발",
@@ -54,10 +60,10 @@
       ]
     },
     "나경원": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-28T02:11:00+09:00",
-      "lastSeen": "2026-09-28T02:11:00+09:00",
+      "lastSeen": "2026-09-28T05:19:00+09:00",
       "news": [
         {
           "title": "추석 앞두고 MB 만난 나경원 \"보수정권 성과, 역사에 더욱 선명해져\"",
@@ -76,14 +82,26 @@
           "url": "https://www.segye.com/newsView/20260924504937",
           "source": "세계일보",
           "date": "2026-09-27"
+        },
+        {
+          "title": "靑 “우크라 거짓발표, 사과하라”…‘北포로 비공개 합의’ 대충돌",
+          "url": "https://www.joongang.co.kr/article/25465017",
+          "source": "중앙일보",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "젤렌스키, 북한군 포로 한국행 공개에… 李 “비공개 합의 어겨”",
+          "url": "https://www.donga.com/news/Politics/article/all/20260928/134740311/2",
+          "source": "동아일보",
+          "date": "2026-09-27"
         }
       ]
     },
     "로봇": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-28T02:11:00+09:00",
-      "lastSeen": "2026-09-28T02:11:00+09:00",
+      "lastSeen": "2026-09-28T05:19:00+09:00",
       "news": [
         {
           "title": "로봇은 달라도 두뇌는 하나로…'범용 로봇 지능' 뜬다",
@@ -102,14 +120,26 @@
           "url": "https://v.daum.net/v/20260926150136762",
           "source": "Daum",
           "date": "2026-09-27"
+        },
+        {
+          "title": "배송·주차·청소까지…'로봇 아파트' 뜬다",
+          "url": "https://www.hankyung.com/article/2026092776141",
+          "source": "한국경제",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "주차도 배송도 모두 로봇이… 고급아파트 경쟁력 ‘하이테크’로 진화",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170811",
+          "source": "IT조선",
+          "date": "2026-09-27"
         }
       ]
     },
     "빨래": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-09-28T02:11:00+09:00",
-      "lastSeen": "2026-09-28T02:11:00+09:00",
+      "lastSeen": "2026-09-28T05:19:00+09:00",
       "news": [
         {
           "title": "“이럴 거면 왜 했나”…돈 쏟아붓고 ‘국제 망신’ 산 나고야·여수",
@@ -128,14 +158,26 @@
           "url": "https://www.chosun.com/sports/sports_general/2026/09/27/GBSDKNJUGJRDAMZYMNTDKZDCME/",
           "source": "조선일보",
           "date": "2026-09-27"
+        },
+        {
+          "title": "“세탁기 청소엔 어떤 가루?”…세탁조 전용 클리너부터 확인",
+          "url": "https://www.jejutwn.com/news/article.html?no=459673",
+          "source": "제주교통복지신문",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "“빨래에 하얀 가루가…” 세제 찌꺼기와 종이 조각 구분",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=388151",
+          "source": "비건뉴스",
+          "date": "2026-09-27"
         }
       ]
     },
     "우상혁": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-09-28T02:11:00+09:00",
-      "lastSeen": "2026-09-28T02:11:00+09:00",
+      "lastSeen": "2026-09-28T05:19:00+09:00",
       "news": [
         {
           "title": "[아시안게임] 높이뛰기 우상혁, 2ｍ22로 3위…3회 연속 메달 획득",
@@ -154,14 +196,26 @@
           "url": "https://www.mt.co.kr/sports/2026/09/27/2026092721385839615",
           "source": "머니투데이",
           "date": "2026-09-27"
+        },
+        {
+          "title": "‘스마일 점퍼’ 우상혁 부상 딛고 날아 올랐다…아시안게임 동메달",
+          "url": "https://www.donga.com/news/Sports/article/all/20260927/134739857/1",
+          "source": "동아일보",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "[아시안게임] 단순 찰과상 아니었다…우상혁, 인대파열·트라우마 딛고 도약",
+          "url": "https://www.yna.co.kr/view/AKR20260927056000007",
+          "source": "연합뉴스",
+          "date": "2026-09-27"
         }
       ]
     },
     "미운 우리 새끼": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-09-28T02:11:00+09:00",
-      "lastSeen": "2026-09-28T02:11:00+09:00",
+      "lastSeen": "2026-09-28T05:19:00+09:00",
       "news": [
         {
           "title": "'양정아에게 차인' 김승수, 미모의 여성과 맞선..서장훈 호통 \"하지마!\" ('미우새')",
@@ -179,6 +233,12 @@
           "title": "김승수 母, 아들 남성 호르몬 수치까지 어필 했는데…서장훈 \"하지마!\" 호통 (미우새) - 조선비즈",
           "url": "https://biz.chosun.com/entertainment/tv/2026/09/27/GY4TOMZUMZQWCNBZGZRGCNRQMQ/",
           "source": "Chosunbiz",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "방송용 연애 사실인가…'55세' 김승수, 16년째 솔로 고백→송종호와 합숙 맞선 ('미우새')",
+          "url": "https://v.daum.net/v/20260927150148656",
+          "source": "Daum",
           "date": "2026-09-27"
         }
       ]
@@ -257,6 +317,84 @@
           "title": "ML 진출 3년차 이정후…'타율·홈런·타점·도루' 개인 최고",
           "url": "https://www.nocutnews.co.kr/news/6581915",
           "source": "노컷뉴스",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "norway vs portugal": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-28T05:19:00+09:00",
+      "lastSeen": "2026-09-28T05:19:00+09:00",
+      "news": [
+        {
+          "title": "!+[𝐒𝐓ream]HERE'S*!$ Norway Football Team vs Portugal Match Live streams",
+          "url": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5bmVwcHkuZ2l0aHViLmlvL2JhYnUvbnVudS54bWwiLz48L2tycGFubz4=&id=norway-football-team-vs-portugal-liv-on-tv-18",
+          "source": "CzechInvest",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "Ronaldo vs Haaland Steals The Show as Gulf Cup 27 and Nations League Return",
+          "url": "https://koorabreak.com/en/341881/",
+          "source": "كورة بريك",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "Why Isn’t Cristiano Ronaldo Starting Against Norway?",
+          "url": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/why-isn-t-cristiano-ronaldo-starting-against-norway-2026-09-27",
+          "source": "beIN SPORTS",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "신병": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-28T05:19:00+09:00",
+      "lastSeen": "2026-09-28T05:19:00+09:00",
+      "news": [
+        {
+          "title": "단 두 회 남긴 '신병4:사보타주' 신병즈 종영소감 \"금방 돌아올게요~\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/27/2026092710147282763",
+          "source": "머니투데이",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "'신병4' 김민호·김동준·오대환 아쉬운 종영 인사 “시즌5로 돌아올 것”",
+          "url": "https://v.daum.net/v/Xrp56L1yu9",
+          "source": "Daum",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "“강찬석→성윤모 맞아?” 역대 빌런까지 잘 자랐다 [‘신병4’ 종영]",
+          "url": "https://isplus.com/article/view/isp202609220176",
+          "source": "일간스포츠",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "gpt-6 아스트라": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-28T05:19:00+09:00",
+      "lastSeen": "2026-09-28T05:19:00+09:00",
+      "news": [
+        {
+          "title": "GPT-6 아스트라, 물리적 명령에 잇따라 치명적 행위 실행",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215692",
+          "source": "AI타임스",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "위험한 지시 100번 중 97번 시도… AI에 로봇을 맡겨도 될까",
+          "url": "https://www.chosun.com/economy/tech_it/2026/09/22/JIYTMFNMY5DGBISMUX2V7L43PY/",
+          "source": "조선일보",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "대한중대재해예방協 “안전·현장 전문성과 법률 전문성 결합”",
+          "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250721",
+          "source": "안전신문",
           "date": "2026-09-27"
         }
       ]
@@ -1433,6 +1571,42 @@
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ROXdEV2g2VjlBUkRuamh3d1RsQmZ0VHFITDFiaWR1bUlLNmxuaTI5bVVWdnBUYmF3anQtTE5hVVhvZzR0ZTR5cXQ4ZnJMX3k2aFdLaQ?oc=5",
         "source": "xportsnews.com",
         "date": "2026-09-26"
+      },
+      {
+        "title": "한국 펜싱 여자 사브르, 8년 만에 아시안게임 단체전 금메달",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84X0ZNT3ZEQzk3WXQ3UkJDbmJURFVlbkRvdEFSN0lNa1Q0V1NlUk1JVlRqUnVCT3BjNGdCWEJpTzVvTHc1ODBKWExxdndRSDZ4ejJmSXdxdWI3UGs?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "손흥민, 우루과이전서 차범근 넘어설까…A매치 최다골까지 단 1골",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RNC01MWQ2eDMxcmFLNndqZU1rUWtwSzkteEtnRTZpQ1FPV3NHVXVzNkpiNmtmaHBBWjc0OUpfZG4tdkZMdmlNaWRxcjhtN2ZaNTlSbzh1RnZkdkU?oc=5",
+        "source": "강원일보",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "[아시안게임] 배드민턴 안세영, 세계 5위 완파하며 준결승행",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BLXhMV3RSTDJpdDRWQmxHQzB5T1hkbW5kUkViU1JUQnVHblBUckNMOGU3bkRaSUJnMkVoenlBb0ViRzk0RzRpZG1VdEJzN01tNnZqaUdtX09reGMxX1BsV28wTHZyV0dwbXQzV3ozdFNSRE13WEHSAXZBVV95cUxQQmdvdmRlMjFrbXgxLUlrdnFtUDlBUEVZSXhHenBlOVhwWmFhbjhDVi1HMEtqeWpxVkFnMGRUTk9XYVBLN25wbjJIdjVwNmZEbU1tc29ncGZPOXU0YW84RmNtXzUtT0FLU19wNW5HU0ZKM1QxbFVB?oc=5",
+        "source": "MBC 뉴스",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "[아시안게임] '포켓몬 유나이트' 동메달…e스포츠 메달 4개로 늘어",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5USU5icmJtRjVaRHk1aGRSOWNjdVBOX1ZDb29wS2M5bXRqT05kN0NmR3IyTXVQd0UwNUU4bV9zQkx3UnM4RVFRZmQ2VGJNcVR4cGZuLXh0Y3NtaFnSAWBBVV95cUxNUzRoNHdWZGtFNndOYVVvVlpfV2Z0SFVLbURZcE0tczluME81MDNHMXJzQ1hUVHAzRWJMVVB6eVl2V2tfTXVjaHBOSEp1MHdKWEs4RmIwMUdtR1Vzd1IxWFY?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "인대파열·트라우마 이긴 ‘값진 동메달’…우상혁 “올림픽 향해 다시 뛰겠다”",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wMFp0TUhoTFFONVQtZnVINXZOWU1VVTlVTThnUEVRSGdyQ19fSVB6X1BIdVZaV1dQZWZSQnB5WWQ1d3NwQnFpQ25fTG9CakFaVTVLVGJrdmg2UlBMUF9Ddnh3blA5bURuRXdKeTVfQ1Q0TzdOWkMw?oc=5",
+        "source": "한겨레",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "[2026 아시안게임]김영범, 강원 수영 새 희망으로…한국 경영은 과제 남겨",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uTjBrWUJBdVBrZkRNakxVR3NRZUdUQ2Nhd1FnVzVPNDVTT2NidTQ2QXlST2hIdGREQW5fVnR3WDZlcHV2bnJCcERwdndHaFZoUFhWcnN5ZU5ROEk?oc=5",
+        "source": "강원일보",
+        "date": "2026-09-27"
       }
     ]
   }
