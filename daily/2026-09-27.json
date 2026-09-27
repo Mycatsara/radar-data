@@ -1078,6 +1078,266 @@
           "date": "2026-09-27"
         }
       ]
+    },
+    "로또당첨": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-09-27T21:20:00+09:00",
+      "lastSeen": "2026-09-27T21:20:00+09:00",
+      "news": [
+        {
+          "title": "“25억9천만원씩 받는다”…추석 연휴 로또 1등 12명, 명당은 어디",
+          "url": "https://www.kyeonggi.com/article/20260926580120",
+          "source": "경기일보",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "[속보]로또 1243회 당첨번호 '9·18·24·38·43·44'…보너스 '35'",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02312406645584056&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "1243회 로��� 1등 12명… 당첨금 각 25.9억원 - 조선비즈",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/09/26/TQGIFRGYFNG5ZNCD253IR2KMR4/",
+          "source": "Chosunbiz",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "미운 우리 새끼": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-27T21:20:00+09:00",
+      "lastSeen": "2026-09-27T21:20:00+09:00",
+      "news": [
+        {
+          "title": "방송용 연애 사실이었다…'55세' 김승수, 16년째 솔로 고백→송종호와 합숙 맞선 ('미우새')",
+          "url": "https://v.daum.net/v/20260927150148656",
+          "source": "Daum",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "'미운 우리 새끼' 김승수-송종호, 50대 노총각들의 합숙맞선 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/27/2026092715107233145",
+          "source": "머니투데이",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "김승수 母, 아들 남성 호르몬 수치까지 어필 했는데…서장훈 \"하지마!\" 호통 (미우새) - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/27/GY4TOMZUMZQWCNBZGZRGCNRQMQ/",
+          "source": "Chosunbiz",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "박유천": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-27T21:20:00+09:00",
+      "lastSeen": "2026-09-27T21:20:00+09:00",
+      "news": [
+        {
+          "title": "미키광수 “여친 믿고 주식 투자 맡겼는데…3천만원→3백만원”",
+          "url": "https://v.daum.net/v/bwSq28lwWV?f=p",
+          "source": "Daum",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "김구라, 박유천 돌연 언급…\"누구나 다 부침 있다\"",
+          "url": "https://www.newsis.com/view/NISX20260927_0003804348",
+          "source": "뉴시스",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "김구라, '마약파문→日도피' 박유천 응원 '무리수'..\"위기딛고 일어나야\"[Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/27/GQZWGM3GGY4DCZDBMMYWKYRXMM/",
+          "source": "조선일보",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "조형우": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-27T21:20:00+09:00",
+      "lastSeen": "2026-09-27T21:20:00+09:00",
+      "news": [
+        {
+          "title": "교체되는 곽빈",
+          "url": "https://www.newsis.com/view/NISI20260927_0021461107",
+          "source": "뉴시스",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "선두타자 안타 허용한 곽빈",
+          "url": "https://www.news1.kr/photos/8128073",
+          "source": "뉴스1",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "[사진]2루타 김지찬, 폭풍 슬라이딩 - 조선비즈",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/09/27/GEZGIMRYMNQTAMJXGI3WGMZXMY/",
+          "source": "Chosunbiz",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "이정후": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-27T21:20:00+09:00",
+      "lastSeen": "2026-09-27T21:20:00+09:00",
+      "news": [
+        {
+          "title": "\"이정후 평범한 수준의 타자, 수비도 급격히 무너지고…\" 美 언론 실망했네, 이제는 트레이드도 쉽지 않다",
+          "url": "https://v.daum.net/v/tcwCW1Lxvr",
+          "source": "Daum",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "ML 진출 3년차 이정후…'타율·홈런·타점·도루' 개인 최고",
+          "url": "https://www.nocutnews.co.kr/news/6581915",
+          "source": "노컷뉴스",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "이정후 향한 감독 폭탄 발언! \"개같은 선수 옆에 있고 싶어 해\"…오프시즌 회복 전념 \"개인적인 기복은 아쉬웠다\"",
+          "url": "https://www.sportschosun.com/baseball/2026-09-27/202609270100178220011771",
+          "source": "스포츠조선",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "레버리지": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-27T21:20:00+09:00",
+      "lastSeen": "2026-09-27T21:20:00+09:00",
+      "news": [
+        {
+          "title": "“코스피를 도박판으로”…韓 증시 할퀸 레버리지 ETF",
+          "url": "https://v.daum.net/v/20260926235245993",
+          "source": "Daum",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "단종레 장투하면 ‘음의 복리효과’ 직격탄…장기 보유 늪 빠진 개미",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01774486645584384&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "단일 레버리지 규제 효과…거래대금 92%↓, 회전율도 한 자릿수",
+          "url": "https://stock.mk.co.kr/news/view/1165330",
+          "source": "매일경제 마켓",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "영천시": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-27T21:20:00+09:00",
+      "lastSeen": "2026-09-27T21:20:00+09:00",
+      "news": [
+        {
+          "title": "와인 마시고 한우 맛보고…영천 공동축제 내달 2일 개막",
+          "url": "https://v.daum.net/v/20260927065151963",
+          "source": "Daum",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "'영천 공동축제' 10월 2일 개막…문화·한방·와인·한우 한자리에",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6301856",
+          "source": "뉴스1",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "[숨은 영천을 걷다④] 300년 솔숲 따라 2㎞…은해사 금포정길에서 만난 가을",
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%88%A8%EC%9D%80-%EC%98%81%EC%B2%9C%EC%9D%84-%EA%B1%B7%EB%8B%A4-300%EB%85%84-%EC%86%94%EC%88%B2-%EB%94%B0%EB%9D%BC-2-%EC%9D%80%ED%95%B4%EC%82%AC-%EA%B8%88%ED%8F%AC%EC%A0%95%EA%B8%B8%EC%97%90%EC%84%9C-%EB%A7%8C%EB%82%9C-%EA%B0%80%EC%9D%84/ar-AA2cRrys",
+          "source": "MSN",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "england vs sri lanka": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-27T21:20:00+09:00",
+      "lastSeen": "2026-09-27T21:20:00+09:00",
+      "news": [
+        {
+          "title": "England vs Sri Lanka third ODI LIVE! Teams, updates, live commentary from The Oval as Harry Brook's side look to win series",
+          "url": "https://www.skysports.com/cricket/live-blog/13592358/england-vs-sri-lanka-third-odi-live-teams-updates-live-commentary-from-the-oval-as-harry-brooks-side-look-to-win-series",
+          "source": "Sky Sports",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "England v Sri Lanka: third and deciding men’s one-day cricket international – live",
+          "url": "https://www.theguardian.com/sport/live/2026/sep/27/england-v-sri-lanka-third-one-day-cricket-international-live-score-updates?page=with:block-6ab9071c8f089b24256ff85c",
+          "source": "The Guardian",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "Kusal, Wellalage star as Sri Lanka defend 322 in Headingley thriller",
+          "url": "https://www.cricinfo.com/series/sri-lanka-in-england-2026-1496567/england-vs-sri-lanka-2nd-odi-1496589/match-report",
+          "source": "Cricinfo",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "아시안게임 야구": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-27T21:20:00+09:00",
+      "lastSeen": "2026-09-27T21:20:00+09:00",
+      "news": [
+        {
+          "title": "'히구치 악몽 지울까?' 류지현호, 결승 일본전 선발 라인업 발표[AG 야구]",
+          "url": "https://v.daum.net/v/20260927172749581",
+          "source": "Daum",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "아쉬운 노시환",
+          "url": "https://mobile.newsis.com/photo/NISI20260927_0021461009",
+          "source": "뉴시스",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "[아시안게임] 대표팀 1선발 곽빈, 히구치 제압하고 한국 야구 5연패 이끌까",
+          "url": "https://www.yna.co.kr/view/AKR20260927016100007",
+          "source": "연합뉴스",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "박준순": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-27T21:20:00+09:00",
+      "lastSeen": "2026-09-27T21:20:00+09:00",
+      "news": [
+        {
+          "title": "[포토]'2회초 1사 마루' 삼진으로 물러나는 박준순 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/27/2026092719444545617",
+          "source": "머니투데이",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "박준순, 내야를 가르는 안타",
+          "url": "https://www.news1.kr/photos/8128040",
+          "source": "뉴스1",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "김진욱, 좌완으로 일본 상대한다 [사진]",
+          "url": "https://v.daum.net/v/20260925195650105",
+          "source": "Daum",
+          "date": "2026-09-27"
+        }
+      ]
     }
   },
   "sections": {
