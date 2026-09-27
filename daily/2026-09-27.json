@@ -583,6 +583,247 @@
           "date": "2026-09-26"
         }
       ]
+    },
+    "김상식": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-27T09:50:00+09:00",
+      "lastSeen": "2026-09-27T09:50:00+09:00",
+      "news": [
+        {
+          "title": "이영표의 소신 발언 \"지금은 결과, 이민성 감독 말이 맞다\"…\"전술 이해할 수 없다\"에서 지지 → 안정환도 \"대회 내내 잘하는 팀은 없어\" 응원",
+          "url": "https://v.daum.net/v/HJIZG4hDSs",
+          "source": "Daum",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "'이영준 멀티골' 축구대표팀, 베트남 4：0으로 꺾고 4강 진출",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0107_202609252146155132_005.html",
+          "source": "YTN",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "한국, 베트남에 4-0 대승…8강 승리 만끽하는 태극전사들",
+          "url": "https://www.yna.co.kr/view/IPT20260926000005365?section=gallery/index",
+          "source": "연합뉴스",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "한옥": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-27T09:50:00+09:00",
+      "lastSeen": "2026-09-27T09:50:00+09:00",
+      "news": [
+        {
+          "title": "“돈 많이 줘도 못 바꿔”…도심 속 한옥 지키는 사람들",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8671916",
+          "source": "KBS 뉴스",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "\"10월 북촌 한옥으로 물들다\"…서울한옥위크, 역대 최대 규모 개최 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/09/17/2026091710025288429",
+          "source": "머니투데이",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "“연휴 쉬면서 가을 나들이 계획할까”…서울한옥위크 10월 개최",
+          "url": "https://m.ekn.kr/view.php?key=20260923022408438",
+          "source": "에너지경제신문",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "스타벅스": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-27T09:50:00+09:00",
+      "lastSeen": "2026-09-27T09:50:00+09:00",
+      "news": [
+        {
+          "title": "스타벅스 전국 250개 매장 이번주 폐점",
+          "url": "https://www.koreadaily.com/article/20260926090008989",
+          "source": "미주중앙일보",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "스타벅스, 북미 250개 지점 문 닫는다…1년만에 또 대규모 폐점",
+          "url": "https://www.yna.co.kr/view/AKR20260925016400075",
+          "source": "연합뉴스",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "스벅 또 250곳 폐점…집·직장 사이 '제3의 공간' 정체성 안간힘",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01954886645583728&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "최동석": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-27T09:50:00+09:00",
+      "lastSeen": "2026-09-27T09:50:00+09:00",
+      "news": [
+        {
+          "title": "‘돌싱’ 박지윤, 올케표 추석 한상 공개 “난 고기 선물로 면피”",
+          "url": "https://www.newsen.com/news_view.php?uid=202609261442412410",
+          "source": "뉴스엔",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "이혼 박지윤, 올케 덕분에 또 추석에 한자리에",
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=90906",
+          "source": "미디어파인",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "박지윤, 최동석과 이혼 후 맞은 추석...친정 가족 품에서 활짝 웃은 뭉클한 근황",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-26/202609260100172640011364",
+          "source": "스포츠조선",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "증여세": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-27T09:50:00+09:00",
+      "lastSeen": "2026-09-27T09:50:00+09:00",
+      "news": [
+        {
+          "title": "부모에게 집 받거나 돈 빌릴 때… 증여세만 따지면 낭패 - 조선비즈",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/27/KCG4KDAIMRB5ZFU7H7D4QNH2KI/",
+          "source": "Chosunbiz",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "“집 사는 데 보태라”…올해 증여·상속자금 7조원 육박",
+          "url": "https://v.daum.net/v/20260926134337770",
+          "source": "Daum",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "\"아버지, 집 사게 돈 좀 주세요\" 20대 주택 매수 2건 중 1건은 '부모 찬스'였다",
+          "url": "https://m.news.nate.com/view/20260925n10442?issue_sq=10477",
+          "source": "네이트",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "공무원": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-27T09:50:00+09:00",
+      "lastSeen": "2026-09-27T09:50:00+09:00",
+      "news": [
+        {
+          "title": "일한 만큼 보상·다치면 복귀까지…바뀌는 공무원 처우",
+          "url": "https://v.daum.net/v/20260927085444230",
+          "source": "Daum",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "[교육타파] \"교사 초과근무 1일 상한 폐지 실효성 확보하라\"… 관리자 승인 기준 마련 국회 청원",
+          "url": "https://edujb.com/news/articleView.html?idxno=9261",
+          "source": "전북미래교육신문",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "초과근무 1시간마다 인증이 감시? 시민 공감 못받는 전공노 반발",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260922.22003007011",
+          "source": "국제신문",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "김하성": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-27T09:50:00+09:00",
+      "lastSeen": "2026-09-27T09:50:00+09:00",
+      "news": [
+        {
+          "title": "김하성, 2년 만에 3루타+시즌 첫 멀티 득점…타율 0.118↑",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8672030",
+          "source": "KBS 뉴스",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "'20타수 무안타 끝' 김하성 PS 앞두고 3루타 쾅+2득점! 가을야구 앞두고 드디어 터졌다... ATL도 8-3 완승 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/27/2026092708171690870",
+          "source": "머니투데이",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "김하성, 2년 만에 3루타 '쾅'…1안타 1볼넷 2득점 '펄펄'",
+          "url": "https://www.newsis.com/view/NISX20260927_0003803997",
+          "source": "뉴시스",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "소송": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-27T09:50:00+09:00",
+      "lastSeen": "2026-09-27T09:50:00+09:00",
+      "news": [
+        {
+          "title": "“외도 의심해서”…아내 차에 녹음기 설치한 30대 집행유예",
+          "url": "https://www.donga.com/news/Society/article/all/20260926/134733829/1",
+          "source": "동아일보",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "“내연관계 의심돼서”…아내 차 몰래 녹음한 30대, 법원 판단은",
+          "url": "https://www.sedaily.com/article/20095091",
+          "source": "서울경제",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "“아내와 내연남 통화 녹음 성공” 30대男 ‘징역형’… 이혼소송 증거 냈더니 法 “사생활 비밀 침해”",
+          "url": "https://www.seoul.co.kr/news/society/2026/09/26/20260926500047",
+          "source": "서울신문",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "이경실": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-09-27T09:50:00+09:00",
+      "lastSeen": "2026-09-27T09:50:00+09:00",
+      "news": [
+        {
+          "title": "조영남 \"바람둥이 오해받아\" 발언에… 임예진·이경실 \"바람피운 적 있지 뭐\" 강력 일침 ('동치미')",
+          "url": "https://v.daum.net/v/20260927002114260",
+          "source": "Daum",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "55세 김승수에 “어딘가 모자란 거다”…조영남 “돈도 여자에 잘 보이려고”",
+          "url": "https://www.mk.co.kr/news/entertain/12161750",
+          "source": "매일경제",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "“나랑 뽀뽀할래?” 김승수, AI 여친에게 뽀뽀 신청했다 거절당한 사연",
+          "url": "https://www.sportsseoul.com/news/read/1637663",
+          "source": "스포츠서울",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    "한진칼": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-27T09:50:00+09:00",
+      "lastSeen": "2026-09-27T09:50:00+09:00",
+      "news": []
     }
   },
   "sections": {
