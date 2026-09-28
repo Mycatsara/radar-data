@@ -858,6 +858,266 @@
           "date": "2026-09-27"
         }
       ]
+    },
+    "메이저 리그 베이스볼": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-28T17:24:00+09:00",
+      "lastSeen": "2026-09-28T17:24:00+09:00",
+      "news": [
+        {
+          "title": "5연패의 대한민국 '금빛 세리머니'",
+          "url": "https://v.daum.net/v/20260927221349292",
+          "source": "Daum",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "'결승타' 김도영, AG 야구 금메달에도 \"나 자신에 실망\" 자책 - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/sports/2026/09/28/2026092808300055735",
+          "source": "머니투데이",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "3년 전 '무임 승차' ���역 혜택? 이제는 16人 '브로커'로 나선다 \"하나님 같은 존재죠\" [도요하시 현장]",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/27/MEYTCM3DGUYDKNJVMVTGENLGGM/",
+          "source": "조선일보",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "김기현": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-28T17:24:00+09:00",
+      "lastSeen": "2026-09-28T17:24:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 특검, '김건희에 로저비비에 선물' 김기현 의원에 징역 1년 구형",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6854511_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "특검, ‘김건희 가방 제공’ 김기현 징역 1년·배우자 6개월 구형",
+          "url": "https://www.donga.com/news/Society/article/all/20260928/134743928/2",
+          "source": "동아일보",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "특검, ‘김건희 로저비비에 선물’ 김기현 의원에 징역 1년 구형",
+          "url": "https://v.daum.net/v/20260928162611285",
+          "source": "Daum",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "우 서윤": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-28T17:24:00+09:00",
+      "lastSeen": "2026-09-28T17:24:00+09:00",
+      "news": [
+        {
+          "title": "'미코 진' 우서윤, 야구장서 춤 실력 공개",
+          "url": "https://www.newsis.com/view/NISX20260928_0003805031",
+          "source": "뉴시스",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "‘성형 논란’ 우서윤, ‘미코 진’ 미모는 감탄인데…“춤엔 소질 없네”",
+          "url": "https://sports.khan.co.kr/article/202609271005003",
+          "source": "스포츠경향",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "'성형 논란' 우지원 딸 우서윤, 175cm 한복 자태..\"우리의 아름다움\" - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/24/MJSWIZRUHFSDCZTCHEYWGYZSMM/",
+          "source": "Chosunbiz",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "lg전자": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-28T17:24:00+09:00",
+      "lastSeen": "2026-09-28T17:24:00+09:00",
+      "news": [
+        {
+          "title": "LG전자, 엔비디아 AI 데이터센터 냉각 공식 파트너 됐다",
+          "url": "https://dbr.donga.com/kfocus/view/article_no/3619",
+          "source": "동아비즈니스리뷰",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "[ET특징주]LG전자, 엔비디아 공식 파트너 선정에 상승세",
+          "url": "https://www.etnews.com/20260928000258",
+          "source": "전자신문",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "구광모·젠슨황 깊어지는 '밀월'…로봇·모빌리티·AI '전방위 깐부'",
+          "url": "https://v.daum.net/v/20260928094908695",
+          "source": "Daum",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "삼성전자 주가": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-28T17:24:00+09:00",
+      "lastSeen": "2026-09-28T17:24:00+09:00",
+      "news": [
+        {
+          "title": "“삼성전자 역대급 배당 막차타세요”…주당 4600원 배당금 오늘까지 - 조선비즈",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/09/28/4B2A5DOHGBAZXHEPW5LXVLDPL4/",
+          "source": "Chosunbiz",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "배당 앞둔 삼성전자 질주…레버리지 수익률 23% ‘싹쓸이’[펀드와치]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01538326645584384&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "삼성전자 1000주면 배당 460만원?…주가 4000원 빠지면 세후론 손해 [숫자 뒤의 진실]",
+          "url": "https://v.daum.net/v/20260928050249579",
+          "source": "Daum",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "아시안 게임 e스포츠": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-28T17:24:00+09:00",
+      "lastSeen": "2026-09-28T17:24:00+09:00",
+      "news": [
+        {
+          "title": "e스포츠, 2026년 끝으로 아시안게임 정식 종목서 제외",
+          "url": "https://www.etoday.co.kr/news/view/2629671",
+          "source": "이투데이",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "한국, e스포츠 ‘왕자영요’ 8강 탈락…필리핀에 패배",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000017545&code=61162011",
+          "source": "국민일보",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "‘가장 뜨거울 때 떠난다’ 아시안게임 마지막 무대 선 e스포츠",
+          "url": "https://v.daum.net/v/20260928105123147",
+          "source": "Daum",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "정원오": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-28T17:24:00+09:00",
+      "lastSeen": "2026-09-28T17:24:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 추미애 이어 ‘명픽’ 정원오도...李 측근 일하는 업체에 컨설팅비 등 13억 지출",
+          "url": "https://v.daum.net/v/20260928040337766",
+          "source": "Daum",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "‘명픽’ 정원오, 이재명 대통령 측근 업체에 13억 지출…유상범 \"따져봐야\"",
+          "url": "https://news.jtbc.co.kr/article/NB12320244",
+          "source": "JTBC",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "추미애에 이어 정원오도 … 李 성남시장 시절 비서관 출신 업체와 13억 거래",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/09/28/2026092800084.html",
+          "source": "뉴데일리",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "싸이": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-28T17:24:00+09:00",
+      "lastSeen": "2026-09-28T17:24:00+09:00",
+      "news": [
+        {
+          "title": "다음달 3∼5일 도산대로 ‘강남페스티벌’…싸이 공연·주민 퍼레이드",
+          "url": "https://v.daum.net/v/20260928163257550",
+          "source": "Daum",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "개천절 연휴, 압구정 도산대로가 ‘축제’로 물든다",
+          "url": "https://www.khan.co.kr/article/202609281335001",
+          "source": "경향신문",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "“강남 주민, 1km 거리 행진”…강남페스티벌, 내달 3일 개막",
+          "url": "https://www.etnews.com/20260928000348",
+          "source": "전자신문",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "살림하는 남자들": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-28T17:24:00+09:00",
+      "lastSeen": "2026-09-28T17:24:00+09:00",
+      "news": [
+        {
+          "title": "'母 치매·26억 소송' 이민우♥이아미, '살림남' 하차…\"논의 끝에 결정\" [단독]",
+          "url": "https://v.daum.net/v/20260928104408772",
+          "source": "Daum",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "'이민우♥' 아미, 해변에서 꿀벅지 자랑…\"일본에서 필라테스 강사\" - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/28/MQ3GCYLEMRRDAN3EMUYDCM3FMU/",
+          "source": "Chosunbiz",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "이민우♥이아미, 치매 母 `황혼육아` 논란 속…살림남 하차 \"끝났다\"",
+          "url": "https://mydaily.co.kr/page/view/2026092811073242955",
+          "source": "마이데일리",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "삼성전기": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-28T17:24:00+09:00",
+      "lastSeen": "2026-09-28T17:24:00+09:00",
+      "news": [
+        {
+          "title": "삼성전기, AI 기판에 6조원대 투자.. 역대 최대규모",
+          "url": "https://www.hankyung.com/article/202609289908i",
+          "source": "한국경제",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "삼성전기, '환율 변수'에도 예상 뛰어넘는 '실적 신기록' 전망 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/28/2026092809343253823",
+          "source": "머니투데이",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "삼성전기, 환율 하락 '압박'에도 3Q 고실적 전망…AI 부품 '견인차'",
+          "url": "https://v.daum.net/v/20260928101751294",
+          "source": "Daum",
+          "date": "2026-09-28"
+        }
+      ]
     }
   },
   "sections": {
