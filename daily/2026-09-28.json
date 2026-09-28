@@ -400,10 +400,10 @@
       ]
     },
     "식중독": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-09-28T08:18:00+09:00",
-      "lastSeen": "2026-09-28T08:18:00+09:00",
+      "lastSeen": "2026-09-28T10:54:00+09:00",
       "news": [
         {
           "title": "대구광역시, 다중이용시설 135곳 위생점검...식중독균 검사 병행",
@@ -426,10 +426,10 @@
       ]
     },
     "klasemen tim nasional sepak bola norwegia vs portugal": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-09-28T08:18:00+09:00",
-      "lastSeen": "2026-09-28T08:18:00+09:00",
+      "lastSeen": "2026-09-28T10:54:00+09:00",
       "news": [
         {
           "title": "Rangkuman laga internasional: Dua gol Haaland pastikan kemenangan Norwegia",
@@ -448,14 +448,26 @@
           "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8681946/alasan-jorge-jesus-tak-mainkan-ronaldo",
           "source": "detiksport",
           "date": "2026-09-27"
+        },
+        {
+          "title": "Portugal Menang Lagi di UEFA Nations League",
+          "url": "https://rri.co.id/jayapura/sepak-bola/2765892/portugal-menang-lagi-di-uefa-nations-league",
+          "source": "RRI.co.id",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "Krisis cedera Manchester United makin parah setelah Patrick Dorgu tertatih-tatih keluar lapangan saat Denmark bentrok dengan Wales di Nations League",
+          "url": "https://www.goal.com/id/daftar/krisis-cedera-manchester-united-makin-parah-setelah-patrick-dorgu-tertatih-tatih-keluar-lapangan-saat-denmark-bentrok-dengan-wales-di-nations-league/blt60629b607c5082bb",
+          "source": "Goal.com",
+          "date": "2026-09-27"
         }
       ]
     },
     "권상우": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 10000,
       "firstSeen": "2026-09-28T08:18:00+09:00",
-      "lastSeen": "2026-09-28T08:18:00+09:00",
+      "lastSeen": "2026-09-28T10:54:00+09:00",
       "news": [
         {
           "title": "권상우 고3 아들 룩희, 183㎝ 아빠보다 크네",
@@ -473,6 +485,18 @@
           "title": "손태영♥권상우 子, 183cm 미남 아빠 넘어섰다…강남女에 번호 따일만",
           "url": "https://sports.khan.co.kr/article/202609271121003",
           "source": "스포츠경향",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "손태영 어쩌나…\"고3 아들 룩희, SAT 앞두고 축구 올인, 걱정\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/28/2026092808191651533",
+          "source": "머니투데이",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "권상우 아들 룩희, 아빠보다 커졌다…17세 근황에 ‘깜짝’",
+          "url": "https://www.segye.com/newsView/20260928502138?OutUrl=google",
+          "source": "세계일보",
           "date": "2026-09-27"
         }
       ]
@@ -655,6 +679,182 @@
           "title": "이란 \"미군 첨단 무인 잠수정 나포\"...영국군 기지 인근 폭발물 사건",
           "url": "https://m.ytn.co.kr/news_view.php?key=202609280429439830&s_mcd=0104",
           "source": "YTN",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "pakistan vs hong kong": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-28T10:54:00+09:00",
+      "lastSeen": "2026-09-28T10:54:00+09:00",
+      "news": [
+        {
+          "title": "1st Quarter-Final, Nisshin, September 28, 2026, Asian Games Men's Cricket Competition",
+          "url": "https://www.cricinfo.com/series/asian-games-men-s-cricket-competition-2026-1552449/hong-kong-vs-pakistan-1st-quarter-final-1552772/live-cricket-score",
+          "source": "Cricinfo",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "Pakistan vs Hong Kong Live Streaming: When And Where To Watch PAK vs HK Asian Games 2026 Quarter-Final",
+          "url": "https://www.ndtvprofit.com/sports/pakistan-vs-hong-kong-live-streaming-when-and-where-to-watch-pak-vs-hk-asian-games-2026-quarter-final-12104556",
+          "source": "NDTV Profit",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "New-look Pakistan take on inconsistent Hong Kong for semi-final spot",
+          "url": "https://www.espn.in/cricket/series/22547/preview/1552772/hong-kong-vs-pakistan-1st-quarter-final-22547",
+          "source": "ESPN India",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "오유경 아나운서": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-28T10:54:00+09:00",
+      "lastSeen": "2026-09-28T10:54:00+09:00",
+      "news": [
+        {
+          "title": "오유경 아나운서 \"3살 연상 남편 얼굴 보며 매일 행복\"",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3706708",
+          "source": "국제뉴스",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "오유경 남편 “양가 부모님과 美 여행 위해 2천만원 빌려”(아침마당)",
+          "url": "https://www.newsen.com/news_view.php?uid=202609280919476310",
+          "source": "뉴스엔",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "오유경, ♥천종식과 첫 만남 회상…“3개월 만에 프러포즈, 처음엔 거절”",
+          "url": "https://www.segyenewsagency.com/news/articleView.html?idxno=642200",
+          "source": "세계뉴스통신",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "columbus vs inter miami": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-28T10:54:00+09:00",
+      "lastSeen": "2026-09-28T10:54:00+09:00",
+      "news": [
+        {
+          "title": "MATCH PREVIEW: Inter Miami CF in Road Action Against Columbus Crew this Sunday",
+          "url": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-in-road-action-against-columbus-crew-this-sunday",
+          "source": "Inter Miami CF",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "Lionel Messi Keeps Focus on Inter Miami Ahead of Argentina Farewell",
+          "url": "https://www.fotmob.com/embed/news/01m3hycdfx5p/lionel-messi-keeps-focus-inter-miami-ahead-argentina-farewell",
+          "source": "FotMob",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "Columbus Crew host Latino Celebration Night, presented by Sherwin-Williams, vs. Inter Miami CF on Sunday",
+          "url": "https://www.columbuscrew.com/news/columbus-crew-host-latino-celebration-night-presented-by-sherwin-williams-vs-inter-miami-cf-on-sunday",
+          "source": "Columbus Crew",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "오늘날씨": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-28T10:54:00+09:00",
+      "lastSeen": "2026-09-28T10:54:00+09:00",
+      "news": [
+        {
+          "title": "[날씨] 연휴 끝 일상 복귀…출근길 짙은 안개 조심!",
+          "url": "https://v.daum.net/v/20260928054655224",
+          "source": "Daum",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "짙은 안개 속 일교차 큰 하루…내일 동해안 중심 비 조금",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8672258",
+          "source": "KBS 뉴스",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "[날씨] 연휴 마지막 날, 날씨 상황",
+          "url": "https://www.ytn.co.kr/_ln/0108_202609271726057853",
+          "source": "YTN",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "김시우": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-28T10:54:00+09:00",
+      "lastSeen": "2026-09-28T10:54:00+09:00",
+      "news": [
+        {
+          "title": "한국 골퍼들 세리머니가 비신사적?…김시우 포효한 진짜 이유",
+          "url": "https://v.daum.net/v/20260928050348642",
+          "source": "Daum",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "대회 이름처럼 그대로… 트럼프, ‘적진’에서 열린 프레지던츠컵 등장",
+          "url": "https://www.chosun.com/international/us/2026/09/28/ZBGOYLTKQ5G4DLO3TTQN6WKQOY/",
+          "source": "조선일보",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "김주형·임성재 이겼지만…인터내셔널팀, 프레지던츠컵서 역전패(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260928010851007",
+          "source": "연합뉴스",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "콜럼버스 크루 대 인터 마이애미": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-28T10:54:00+09:00",
+      "lastSeen": "2026-09-28T10:54:00+09:00",
+      "news": [
+        {
+          "title": "콜럼버스 크루 vs 인터 마이애미 경기 예측: 원정 경기에서의 경기력이 시험대에 오를 것이다",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-columbus-crew-vs-inter-miami-ban-linh-san-khach-duoc-thu-lua",
+          "source": "Vietnam.vn",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "MLS 콜럼버스 크루 대 인터 마이애미 축구 예측",
+          "url": "https://ko.laodong.vn/the-thao/nhan-dinh-bong-da-columbus-crew-vs-inter-miami-tai-mls-1773657.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-09-27"
+        }
+      ]
+    },
+    "나는 solo": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-28T10:54:00+09:00",
+      "lastSeen": "2026-09-28T10:54:00+09:00",
+      "news": [
+        {
+          "title": "‘31기 순자♥’ 경수, 추석에도 빠질 수 없는 애정 가득 가을 데이트",
+          "url": "https://www.mk.co.kr/news/entertain/12162109",
+          "source": "매일경제",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "'나솔' 31기 순자♥경수, 옷차림 보고 웨딩 화보인 줄…선남선녀 비주얼",
+          "url": "https://v.daum.net/v/20260926083256867",
+          "source": "Daum",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "31기 순자♥경수, 여전히 잘 만나네…등산 데이트로 굳건한 애정전선 [★해시태그]",
+          "url": "https://www.xportsnews.com/article/2201236",
+          "source": "www.xportsnews.com",
           "date": "2026-09-27"
         }
       ]
