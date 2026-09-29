@@ -520,6 +520,260 @@
           "date": "2026-09-28"
         }
       ]
+    },
+    "세무서": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-29T11:14:00+09:00",
+      "lastSeen": "2026-09-29T11:14:00+09:00",
+      "news": [
+        {
+          "title": "체납 상담이 복지 지원으로…창원세무서 체납관리단 '복지 세정'",
+          "url": "https://www.yna.co.kr/view/AKR20260928137900052",
+          "source": "연합뉴스",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "논산시, 체납관리단 현장 실태조사로 위기가구 복지서비스 연계",
+          "url": "https://www.news1.kr/local/daejeon-chungnam/6304309",
+          "source": "뉴스1",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "울산 동구, 주소 불명 체납자 188명 ��산조회",
+          "url": "https://v.daum.net/v/20260928141759646",
+          "source": "Daum",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "개그콘서트": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-29T11:14:00+09:00",
+      "lastSeen": "2026-09-29T11:14:00+09:00",
+      "news": [
+        {
+          "title": "故박지선 떠난 뒤 발 끊겨.. 22기 동기들에 박성광 “이름조차 못 꺼내” 뭉클 (‘짠한형’)",
+          "url": "https://v.daum.net/v/20260928230814752",
+          "source": "Daum",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "'짠한형' 송준근 \"허경환, 동기들 모임 싫어해\" 폭로",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6303698",
+          "source": "뉴스1",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "장효인, 짝사랑 고백에…박성광 \"다른 한 명\" 故 박지선 ��급 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/28/2026092821383146053",
+          "source": "머니투데이",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "장한별": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-29T11:14:00+09:00",
+      "lastSeen": "2026-09-29T11:14:00+09:00",
+      "news": [
+        {
+          "title": "‘전설의 사내’ 가수 장한별, ‘사랑 참’ 무대 예고",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16226374",
+          "source": "톱스타뉴스",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "장한별, ‘귀거래사’ 부르다 하모니카까지…출연진도 입 벌린 무대",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=610452",
+          "source": "CBC뉴스",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "여인의 눈물, 장한별·박���현이 다시 부르니…같은 노래에서 번진 두 가지 감성",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=609673",
+          "source": "CBC뉴스",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "김명수 배우": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-29T11:14:00+09:00",
+      "lastSeen": "2026-09-29T11:14:00+09:00",
+      "news": [
+        {
+          "title": "정은표·김명수·김학도·장한별 '서울의 별' 주역들 '아침마당' 떴다",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3707743",
+          "source": "국제뉴스",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "'아침마당' 김명수 \"수염 덕에 사극 자주 출연, 헤어+메이크업 고민 없어\"",
+          "url": "https://www.joynews24.com/view/2009730",
+          "source": "조이뉴스24",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "정은표": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-29T11:14:00+09:00",
+      "lastSeen": "2026-09-29T11:14:00+09:00",
+      "news": [
+        {
+          "title": "정은표 '서울대생' 아들, 40kg 뺀 근황…\"100kg 넘었는데 군대에서 빼고 나와\" (아침마당)",
+          "url": "https://www.xportsnews.com/article/2201757",
+          "source": "www.xportsnews.com",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "정은표 “서울대 子 정지웅, 힙합 음악 한다고‥뭘 하든 반대 안 한다”(아침마당)",
+          "url": "https://m.newsen.com/news_view.php?uid=202609290856246710",
+          "source": "뉴스엔",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "정은표·김명수·김학도·장한별 '서울의 별' 주역들 '아침마당' 떴다",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3707743",
+          "source": "국제뉴스",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "문화일보": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-29T11:14:00+09:00",
+      "lastSeen": "2026-09-29T11:14:00+09:00",
+      "news": [
+        {
+          "title": "‘전혀 생각지도 못한...’…전통시장 살리자고 나눠준 온누리상품권, 흘러간 곳 보니",
+          "url": "https://www.munhwa.com/article/11619993",
+          "source": "문화일보",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "온누리상품권 상반기 결제 1위는 약국…하지만~",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544900",
+          "source": "약사공론",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "온누리상품권 상반기 결제액 1·2위가 약국·의원…‘마운자로 성지’ 유명세 - 조선비즈",
+          "url": "https://biz.chosun.com/industry/business-venture/2026/09/28/J6FBJHI5PZEQRCYJ3QQB4M3SNQ/",
+          "source": "Chosunbiz",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "sl vs nep": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-29T11:14:00+09:00",
+      "lastSeen": "2026-09-29T11:14:00+09:00",
+      "news": [
+        {
+          "title": "3rd Quarter-Final, Nisshin, September 29, 2026, Asian Games Men's Cricket Competition",
+          "url": "https://www.cricinfo.com/series/asian-games-men-s-cricket-competition-2026-1552449/nepal-vs-sri-lanka-3rd-quarter-final-1552774/live-cricket-score",
+          "source": "Cricinfo",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "Rain knocks Nepal out of Asian Games as Sri Lanka advances on higher T20 ranking",
+          "url": "https://english.nepalnews.com/s/sports/rain-knocks-nepal-out-of-asian-games-as-sri-lanka-advances-on-higher-t20-ranking/",
+          "source": "Nepalnews.com",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "Japan Washed Out of Asian Games 2026",
+          "url": "https://www.cricket.or.jp/en/news/japan-washed-out-of-asian-games-2026",
+          "source": "Japan Cricket Association",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "창신 메모리 테크놀로지": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-29T11:14:00+09:00",
+      "lastSeen": "2026-09-29T11:14:00+09:00",
+      "news": [
+        {
+          "title": "[단독] “삼전 레시피 훔쳐와”…대놓고 협박한 창신메모리 CEO",
+          "url": "https://v.daum.net/v/HO4vAqDgCs",
+          "source": "Daum",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "\"삼전 공정레시피 훔쳐와\"…창신메모리 전 CEO, 한국 기술진 협박",
+          "url": "https://news.jtbc.co.kr/article/NB12320409",
+          "source": "JTBC",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "\"100% 삼성 것\"... 중국 유명 반도체회사, 이런 식으로 제품 만들고 있다",
+          "url": "https://www.wikitree.co.kr/articles/1162616",
+          "source": "위키트리",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "운동": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-29T11:14:00+09:00",
+      "lastSeen": "2026-09-29T11:14:00+09:00",
+      "news": [
+        {
+          "title": "\"헬스장서 속옷 안 입는 여성 증가\"…'노팬티는 성병 옮긴다' 진실은?",
+          "url": "https://www.news1.kr/world/global-topic/6302385",
+          "source": "뉴스1",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "“성병 옮기잖아?” 헬스장 ‘노팬티 운동’ 英서 논란[당신생각은]",
+          "url": "https://www.munhwa.com/article/11619731",
+          "source": "문화일보",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "’운동할 때 속옷 입냐’ 설문해보니…’위생 논쟁’ 와글",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260928163251m6K",
+          "source": "연합뉴스TV",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "재산": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-29T11:14:00+09:00",
+      "lastSeen": "2026-09-29T11:14:00+09:00",
+      "news": [
+        {
+          "title": "김상욱 울산시장 50억·최기영 봉화군수 349억 '광역·기초 상위 1위'",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6854689_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "충청권 신규 단체장·교육감 재산 공개…신용한 충북지사 32.7억 최다",
+          "url": "https://v.daum.net/v/20260929104646951",
+          "source": "Daum",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "[단독] ‘경기도 재정난 선포’ 추미애, 6개월새 재산 8억7천 늘었다",
+          "url": "https://www.kyeonggi.com/article/20260928580642",
+          "source": "경기일보",
+          "date": "2026-09-28"
+        }
+      ]
     }
   },
   "sections": {
