@@ -774,6 +774,266 @@
           "date": "2026-09-28"
         }
       ]
+    },
+    "혈당": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-09-29T17:55:00+09:00",
+      "lastSeen": "2026-09-29T17:55:00+09:00",
+      "news": [
+        {
+          "title": "“시험 앞두고 받은 스트레스, 혈당 올렸다”",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/09/29/2026092903786.html",
+          "source": "헬스조선",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "시험 스트레스에 혈당 7% 상승⋯코르티솔이 원인일까?",
+          "url": "https://kormedi.com/2874395/",
+          "source": "코메디닷컴",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "\"혈당 스파이크 올 줄 알았지?\"⋯15분 만에 먹은 버거의 놀라운 반���",
+          "url": "https://v.daum.net/v/6SaK3eGhl1",
+          "source": "Daum",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "박보경": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-29T17:55:00+09:00",
+      "lastSeen": "2026-09-29T17:55:00+09:00",
+      "news": [
+        {
+          "title": "‘로또 1등도 출근합니다’ 박보경, 이준혁에 책임 물었다",
+          "url": "https://v.daum.net/v/20260929080513963",
+          "source": "Daum",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "“10년 공백, 연기 더 잘하는 남편 밀어주는 게 맞다고 생각했어요”",
+          "url": "https://woman.donga.com/people/article/all/12/6400564/1",
+          "source": "여성동아",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "경력 단절 딛고 받은 연기상 “하나님 계획 있었죠”",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000017659",
+          "source": "국민일보",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "배구": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-29T17:55:00+09:00",
+      "lastSeen": "2026-09-29T17:55:00+09:00",
+      "news": [
+        {
+          "title": "‘정말 기본도 안 돼 있다’ 한국 이어 파키스탄도 당했다, 남자배구 대표팀 버스에서 경기 준비…역대급 최악의 AG",
+          "url": "https://v.daum.net/v/20260929102214454",
+          "source": "Daum",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "[아시안게임] 대만전 앞둔 남자배구, 수송 문제로 훈련 취소",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6854566_36946.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "농구 이어 배구까지?…수송 실수로 한국 남자배구 훈련 취소 '황당' [아시안게임]",
+          "url": "https://www.kyeonggi.com/article/20260928580521",
+          "source": "경기일보",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "경보": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-29T17:55:00+09:00",
+      "lastSeen": "2026-09-29T17:55:00+09:00",
+      "news": [
+        {
+          "title": "발바닥 찢어져도 끝까지…박민호, 피 흘리며 마라톤 완주[AG]",
+          "url": "https://www.news1.kr/sports/general-sport/6304465",
+          "source": "뉴스1",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "“기권하지 않겠다” 박민호, 운동화가 피범벅돼도 완주",
+          "url": "https://sports.donga.com/sports/article/all/20260929/134753796/1",
+          "source": "스포츠동아",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "오른발이 피로 흥건, 이런 발로 어떻게 42.195㎞ 완주했지…19명 중 8위도 기적이었다",
+          "url": "https://v.daum.net/v/20260927233149226",
+          "source": "Daum",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "임신": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-29T17:55:00+09:00",
+      "lastSeen": "2026-09-29T17:55:00+09:00",
+      "news": [
+        {
+          "title": "\"윤아가 임신?\" AI 합성 사진 확산…SM \"형사 고소 마쳤다\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202609291121058mn",
+          "source": "연합뉴스TV",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "SM, 윤아 AI 합성 사진 유포에 형사고소…\"선처·합의 없다\"",
+          "url": "https://www.newsis.com/view/NISX20260928_0003806016",
+          "source": "뉴시스",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "윤아 배 위에 손 얹은 남성…임신설 불 지핀 사진 ‘발칵’",
+          "url": "https://m.seoul.co.kr/news/entertainment/starinterN/2026/09/28/20260928500185",
+          "source": "서울신문",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "이소희": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-29T17:55:00+09:00",
+      "lastSeen": "2026-09-29T17:55:00+09:00",
+      "news": [
+        {
+          "title": "[나고야 2026] 이소희-백하나, 역대급 혈전 승리...24년 만에 AG 여자 복식 금메달 획득",
+          "url": "https://v.daum.net/v/20260929143358141",
+          "source": "Daum",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "배드민턴 이소희·백하나, 금메달…AG여자복식 24년만 정상",
+          "url": "https://news.jtbc.co.kr/article/NB12320495",
+          "source": "JTBC",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "시상대 가장 높은 곳에 선 이소희-백하나",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260929_0021465472&pID=1&cID=&sID=1&type=photoMain&idx=2",
+          "source": "뉴시스",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "해커": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-29T17:55:00+09:00",
+      "lastSeen": "2026-09-29T17:55:00+09:00",
+      "news": [
+        {
+          "title": "한국 망명 시도하다 붙잡힌 北해커…“온몸 석고로 떠서 북한 끌려가”",
+          "url": "https://v.daum.net/v/20260929104114617",
+          "source": "Daum",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "[D리포트] 북한인권단체 \"탈북 실패 해커, '환자 위장' 북송\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008775207&plink=PLAY&cooper=RSS&autoplay=Y",
+          "source": "news.sbs.co.kr",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "\"베이징 북대사관 지하에 비밀감옥…���전신깁스’해 강제북송\"",
+          "url": "https://news.jtbc.co.kr/article/NB12320472",
+          "source": "JTBC",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "송영길": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-29T17:55:00+09:00",
+      "lastSeen": "2026-09-29T17:55:00+09:00",
+      "news": [
+        {
+          "title": "생방송 중 “대통령 모시고 식사하러”…송영길, 인터뷰 갑자기 끊더니",
+          "url": "https://v.daum.net/v/20260929101633116",
+          "source": "Daum",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "“대통령 모시고 식사중” 송영길 생방인터뷰 중단",
+          "url": "https://www.munhwa.com/article/11620103",
+          "source": "문화일보",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "송영길 \"라디오 생방송 인터뷰 중단 사과…약속 무겁게 여길 것\"",
+          "url": "https://www.newsis.com/view/NISX20260929_0003807288",
+          "source": "뉴시스",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "당뇨병": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-29T17:55:00+09:00",
+      "lastSeen": "2026-09-29T17:55:00+09:00",
+      "news": [
+        {
+          "title": "‘2026 세계당뇨병의 날’ 기념행사 이달 11월 국회서 개최",
+          "url": "https://www.nursenews.co.kr/news/articleView.html?idxno=44636",
+          "source": "간호사신문",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "45만 고혈압·당뇨 노인 환자 지원 사업 개편에 전문가 우려",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012899",
+          "source": "의학신문",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "20년차 고·당 관리사업 예산 50억 삭감 '암초'…19개 지역 반발",
+          "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=166516",
+          "source": "의협신문",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    "박나래": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-29T17:55:00+09:00",
+      "lastSeen": "2026-09-29T17:55:00+09:00",
+      "news": [
+        {
+          "title": "‘박나래 협박’ 전 매니저, 재판서 혐의 대부분 부인 “정당한 요구였다”",
+          "url": "https://v.daum.net/v/20260929170611586",
+          "source": "Daum",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "\"돈 안 주면 폭로\"…박나래 협박한 전 매니저, 혐의 대부분 부인 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/29/2026092915535094812",
+          "source": "머니투데이",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "“매출 10% 줘”…박나래 전 매니저 2명, 오늘(29일) 첫 재판",
+          "url": "https://www.mk.co.kr/news/hot-issues/12163337",
+          "source": "매일경제",
+          "date": "2026-09-29"
+        }
+      ]
     }
   },
   "sections": {
