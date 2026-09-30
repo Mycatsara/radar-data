@@ -260,6 +260,266 @@
           "date": "2026-09-30"
         }
       ]
+    },
+    "삼전닉스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-01T06:18:00+09:00",
+      "lastSeen": "2026-10-01T06:18:00+09:00",
+      "news": [
+        {
+          "title": "마이크론, 4분기 매출 542억달러…AI 메모리 수요에 ‘어닝 서프라이즈’",
+          "url": "https://v.daum.net/v/20261001054944906",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "마이크론 실적 경계감? 삼전 1.5%↓…하이닉스 0.6%↑(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260930042451008",
+          "source": "연합뉴스",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "마이크론 실적에 엔비디아 자사주까지…반도체 투심 회복 촉각",
+          "url": "https://www.newsis.com/view/NISX20260929_0003807546",
+          "source": "뉴시스",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "주주": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-01T06:18:00+09:00",
+      "lastSeen": "2026-10-01T06:18:00+09:00",
+      "news": [
+        {
+          "title": "주주 보호한다더니 대주주만 출구?…의무공개매수안에 운용사들 반발",
+          "url": "https://v.daum.net/v/PMm0T1LxCo",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "\"지배·일반주주 지분 매수 차별 안돼\"…의무공개매수 보류 거듭 촉구",
+          "url": "https://www.yna.co.kr/view/AKR20260930127900008",
+          "source": "연합뉴스",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "[단독]\"이대론 안돼\" 업계 반발에 의무공개매수 법안 본회의 상정 보류 - 머니��데이",
+          "url": "https://www.mt.co.kr/stock/2026/09/30/2026093014461560802",
+          "source": "머니투데이",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "김종국": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-01T06:18:00+09:00",
+      "lastSeen": "2026-10-01T06:18:00+09:00",
+      "news": [
+        {
+          "title": "김종국, 전원주·서장훈 제쳤다…‘돈 벌어도 주변에 안 쓸 것 같은 스타’ 1위",
+          "url": "https://www.segye.com/newsView/20260930511599",
+          "source": "세계일보",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "\"아무리 돈 벌어도 주변에 1원도 안 쓸 연예인\"…2위 전원주 4위 장원영, 1위는?",
+          "url": "https://v.daum.net/v/20260930052959333?f=p",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "\"돈 많이 벌어도 쉽게 안 쓸 것 같은 스타\"…1위 '짠돌이' 김종국",
+          "url": "https://www.newsis.com/view/NISX20260930_0003808343",
+          "source": "뉴시스",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "서진용": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-01T06:18:00+09:00",
+      "lastSeen": "2026-10-01T06:18:00+09:00",
+      "news": [
+        {
+          "title": "미스코리아 정유성, 야구선수 서진용과 깜짝 결혼…딸도 출산",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260930/134758321/1",
+          "source": "동아일보",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "정유성 아나, SSG 서진용과 결혼·득녀 발표...“결혼식은 내년 겨울” - 스타투데이",
+          "url": "https://www.mk.co.kr/news/hot-issues/12164517",
+          "source": "매일경제",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "정유성 아나♥SSG 서진용, 혼전임신+출산 깜짝발표 \"결혼식 내년 겨울\"[핫피플] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/30/MIYTCZJWGM2GMZDFMNRTQMJUGQ/",
+          "source": "Chosunbiz",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "필리스 대 브레이브스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-01T06:18:00+09:00",
+      "lastSeen": "2026-10-01T06:18:00+09:00",
+      "news": [
+        {
+          "title": "김하성, 4년 만의 MLB 가을야구서 연타석 삼진 후 교체",
+          "url": "https://v.daum.net/v/20260930081658457",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "'라일리 역전 3점 포' 애틀랜타, WC 1차전 승리",
+          "url": "https://mobile.newsis.com/photo/NISI20260930_0002251397",
+          "source": "뉴시스",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "'김하성 2차전도 선발 확정' 이정도면 감독 뚝심, 1차전 대타 교체에도 또 유격수 출전",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/01/MNSGKNDBG5STGYLGME3WENJWHE/",
+          "source": "조선일보",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "신병": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-01T06:18:00+09:00",
+      "lastSeen": "2026-10-01T06:18:00+09:00",
+      "news": [
+        {
+          "title": "'신병4' 최민호, 무속인 신병으로 엔딩 깜짝 등판…다음 시즌 기대감↑",
+          "url": "https://v.daum.net/v/20260930133412633",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "공민정, 소령으로 '신병4' 강렬한 등장…이현균과 미묘한 신경전",
+          "url": "https://www.ytn.co.kr/_ln/0117_202609290938388952",
+          "source": "YTN",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "김현규, '신병4' 종영 소감 \"성윤모와 함께 성장\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/30/2026093010107290270",
+          "source": "머니투데이",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "장항준": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-01T06:18:00+09:00",
+      "lastSeen": "2026-10-01T06:18:00+09:00",
+      "news": [
+        {
+          "title": "‘1600만 영화’ 감독의 굴욕…시청률 0%대, 쓸쓸한 퇴장",
+          "url": "https://v.daum.net/v/20260930162903622",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "'시간추적자 설록' 종영…장항준 \"또 다른 이야기로 만나길\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6306410",
+          "source": "뉴스1",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "장항준 “이건 가족도 하기 힘든 일”…러시아 마지막 황족 비극에 탄식",
+          "url": "https://sports.donga.com/ent/article/all/20260930/134757573/1",
+          "source": "스포츠동아",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "항소": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-01T06:18:00+09:00",
+      "lastSeen": "2026-10-01T06:18:00+09:00",
+      "news": [
+        {
+          "title": "檢, \"이재명 아들 군 면제\" 허위글 이수정 항소 기각 요청",
+          "url": "https://v.daum.net/v/G4H9tBwaH5",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "1세대 프로파일러가 어쩌다···이수정 “타인 진술 감정한 내가 손안의 정보 의심 못해”",
+          "url": "https://weekly.khan.co.kr/article/202609301058011",
+          "source": "주간경향",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "’이 대통령 아들 군면제 허위글’ 이수정, 선처 호소…“교직 경력 파면 끝날 수도“",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260930112644G3W",
+          "source": "연합뉴스TV",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "이더 리움": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-01T06:18:00+09:00",
+      "lastSeen": "2026-10-01T06:18:00+09:00",
+      "news": [
+        {
+          "title": "톰 리 비트마인 의장 \"가상자산 강세장 이미 시작...역대 최대 사이클 될 것\" [KBW2026]",
+          "url": "https://v.daum.net/v/20260930144612721",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "톰 리 \"이더리움, 5년 이어진 가격 조정 벗어나 상승세 탈 것\"",
+          "url": "https://www.newspim.com/news/view/20260930000871",
+          "source": "뉴스핌",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "이더리움 최다 보유 비트마인 “자산토큰화·피지컬AI가 미래 핵심 호재” [크립토360]",
+          "url": "https://biz.heraldcorp.com/article/10887587",
+          "source": "헤럴드경제",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "한화오션": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-01T06:18:00+09:00",
+      "lastSeen": "2026-10-01T06:18:00+09:00",
+      "news": [
+        {
+          "title": "한화오션 하청노동자 원청 교섭 요구 고공농성…진보정당 \"연대\"(종합)",
+          "url": "https://v.daum.net/v/20260930163902075",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "\"하청노동자 저임금 방치\"…한화오션 하청노동자 고공농성 돌입",
+          "url": "https://www.newspim.com/news/view/20260930001082",
+          "source": "뉴스핌",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "“노란봉투법 준수하라” 한화오션 하청노조 기습 고공농성 돌입",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=351130",
+          "source": "녹색경제신문",
+          "date": "2026-09-30"
+        }
+      ]
     }
   },
   "sections": {
@@ -1463,6 +1723,12 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTG9STm5uMk9ockl6dXBTM2dmWGN5Qzd3cG5xaE0zTnNSUjBIdEdoUG1NMFN6VzhBUGRib3Z3YUxmN2ZVTEh0bWxKVlhoS0RZRF9uNmNOU3J6X25sc3NaenRiTDFobVBMdDA3UFZzSXBMeUxxcFlscHA4aTBvdmNWMzVfVU96N1h5ejZ3?oc=5",
         "source": "조선일보",
         "date": "2026-09-29"
+      },
+      {
+        "title": "日 언론도 극찬 \"안세영 시대는 계속된다…경이적인 98.2% 승률에도 나는 90점\"",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WeFREaXJGVHlvQ1hBeDJoNGZsM0k0NmN0VGlIVlRjeGtDUUFXd3ZjcmhkOElmNW9VOEJ0QWJGMzUzR1hRcEwtQmtlcDR3ZGo5U2c?oc=5",
+        "source": "노컷뉴스",
+        "date": "2026-09-30"
       }
     ]
   }
