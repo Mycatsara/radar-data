@@ -752,6 +752,266 @@
           "date": "2026-09-29"
         }
       ]
+    },
+    "이혼": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-30T13:41:00+09:00",
+      "lastSeen": "2026-09-30T13:41:00+09:00",
+      "news": [
+        {
+          "title": "“해외서 딴남자 애까지 낳았는데 이혼안해줍니다”",
+          "url": "https://www.munhwa.com/article/11620366",
+          "source": "문화일보",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "해외서 혼외자 출산한 아내에게 \"이혼 못 해\" 10년째 버티는 남편, 왜?",
+          "url": "https://www.news1.kr/society/general-society/6305556",
+          "source": "뉴스1",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "해외서 불륜으로 아이 낳고 10년 별거…\"이혼 못 해\" 버��는 남편 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/30/2026093007281180651",
+          "source": "머니투데이",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "앱 스토어": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-30T13:41:00+09:00",
+      "lastSeen": "2026-09-30T13:41:00+09:00",
+      "news": [
+        {
+          "title": "Codex에 앱스토어 1위 게임 만들라 했더니, 진짜 1위 했다",
+          "url": "https://yozm.wishket.com/magazine/detail/3968/",
+          "source": "요즘IT",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "메타, ‘엔터프라이즈 플랫폼’ 출범…기업용 AI 시장 본격 도전",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215743",
+          "source": "AI타임스",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "메타 '뮤즈', 사업용으로 확장…기업시장 본격 공�� - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/30/2026093009105380571",
+          "source": "머니투데이",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "건설근로자공제회": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-30T13:41:00+09:00",
+      "lastSeen": "2026-09-30T13:41:00+09:00",
+      "news": [
+        {
+          "title": "건설근로자공제회, 특별퇴직공제 대상 '4년이상 적립자'로 확대",
+          "url": "https://www.yna.co.kr/view/AKR20260929150400530",
+          "source": "연합뉴스",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "건설근로자공제회, 특별퇴직공제금 지급 구간 4년 이상 적립자까지 확대",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=449607",
+          "source": "서울Pn",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "건설근로자 퇴직공제금 4년 적립 시 10만원 더 받는다",
+          "url": "https://www.newsis.com/view/NISX20260929_0003807441",
+          "source": "뉴시스",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "채시라": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-09-30T13:41:00+09:00",
+      "lastSeen": "2026-09-30T13:41:00+09:00",
+      "news": [
+        {
+          "title": "58세 채시라, 올화이트룩에 핑크 워커…패션센스",
+          "url": "https://www.segye.com/newsView/20260928503294",
+          "source": "세계일보",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "\"58세라고?\"…채시라, 나이 믿기지 않는 '흰티·반바지' 레전드 몸매",
+          "url": "https://www.osen.co.kr/article/G1112882914",
+          "source": "OSEN",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "채시라, 57세 안 믿기는 미모…흰 티에 청바지 ‘심플’ 패션도 우아하게",
+          "url": "https://m.newsen.com/news_view.php?uid=202609291405162110",
+          "source": "뉴스엔",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "뇌물": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-30T13:41:00+09:00",
+      "lastSeen": "2026-09-30T13:41:00+09:00",
+      "news": [
+        {
+          "title": "차 안에 현금 9000, 상품권 850… 5급 ‘뇌물 공무원’의 최후",
+          "url": "https://v.daum.net/v/20260930075212904",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "[판결] 압수수색 중에 증거 치우려 했는데 무죄 받은 이유",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227030",
+          "source": "법률신문",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "뇌물 받고 수의계약 준 지자체 공무원…대법서 징역 2년 확정",
+          "url": "https://www.yna.co.kr/view/AKR20260929185000004",
+          "source": "연합뉴스",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "성현주": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-30T13:41:00+09:00",
+      "lastSeen": "2026-09-30T13:41:00+09:00",
+      "news": [
+        {
+          "title": "\"허경환과 자주 잤다\" 유부녀 개그우먼 '폭로' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/30/2026093010280158593",
+          "source": "머니투데이",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "성현주 \"과거 우리집서 허경환과 자주 잤다\" 충격 고백('짠한형')",
+          "url": "https://v.daum.net/v/20260929101946333",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "성현주, 애둘 유부녀인데..\"허경환과 집에서 자주 잤다\" 폭탄발언 '초토화'[순간포착]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/30/G42WCMZVGFSWCMBXGZRDEYZZHE/",
+          "source": "조선일보",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "유재명": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-09-30T13:41:00+09:00",
+      "lastSeen": "2026-09-30T13:41:00+09:00",
+      "news": [
+        {
+          "title": "‘백발’ 유재명, 유재석보다 동생이었다..“이름 부르기 좀” 반전 나이에 폭소 [Oh!쎈 예고]",
+          "url": "https://v.daum.net/v/GvS5FVIkCB",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "\"편하게 부르기가\"…54세 유재석, '한살 동생' 유재명 '큰아버지 포스'에 멈칫",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6305318",
+          "source": "뉴스1",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "“동생이라고?” 54세 ��재석…53세 유재명 ‘백발포스’에 멈칫 “이름 부르기가 좀”",
+          "url": "https://www.sportsseoul.com/news/read/1638448",
+          "source": "스포츠서울",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "경기도교육청": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-09-30T13:41:00+09:00",
+      "lastSeen": "2026-09-30T13:41:00+09:00",
+      "news": [
+        {
+          "title": "내년 서울 공립중등교사 584명 선발‥316명 감축",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6854951_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "경기도교육청 \"중등 교원 2037명 뽑는다\"…내년 임용시험 공고 - 머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/09/30/2026093013113313443",
+          "source": "머니투데이",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "부산시교육청, 국·공·사립 중등학교 교사 471명 선발",
+          "url": "https://www.yna.co.kr/view/AKR20260930069600051",
+          "source": "연합뉴스",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "멕시코 대 페루": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-09-30T13:41:00+09:00",
+      "lastSeen": "2026-09-30T13:41:00+09:00",
+      "news": [
+        {
+          "title": "Mexico vs Peru: Friendlies stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cjkg77dgz1g3t",
+          "source": "BBC",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "How to watch Mexico vs. Peru online for free",
+          "url": "https://mashable.com/entertainment/mexico-peru-international-friendly-2026-live-stream-for-free",
+          "source": "Mashable",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Mexico vs. Peru—International Friendly: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/mexico-vs-peru-international-friendly-preview-predictions-lineups-9-29-26",
+          "source": "Sports Illustrated",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "아시안게임 롤": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-09-30T13:41:00+09:00",
+      "lastSeen": "2026-09-30T13:41:00+09:00",
+      "news": [
+        {
+          "title": "[아시안게임] 제카 앞세운 한국 LoL, 대만 꺾고 첫 승",
+          "url": "https://v.daum.net/v/20260930101544956",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "‘페이커’ 아끼고도 20-5 압승…韓 LoL, 대만 꺾고 첫 승",
+          "url": "https://www.donga.com/news/Sports/article/all/20260930/134758751/1",
+          "source": "동아일보",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "[아시안게임] ‘페이커’ 이상혁, 인도전 선발 출격",
+          "url": "https://www.osen.co.kr/article/G1112884827",
+          "source": "OSEN",
+          "date": "2026-09-30"
+        }
+      ]
     }
   },
   "sections": {
