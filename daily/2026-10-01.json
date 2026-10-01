@@ -780,6 +780,266 @@
           "date": "2026-09-30"
         }
       ]
+    },
+    "사형": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-01T15:58:00+09:00",
+      "lastSeen": "2026-10-01T15:58:00+09:00",
+      "news": [
+        {
+          "title": "美테네시주 사형 집행 논란…독극물 투여 뒤에도 1시간 가까이 숨소리",
+          "url": "https://v.daum.net/v/20261001154000095",
+          "source": "Daum",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "독극물 주입에도 생존…미국서 사형 실패, 왜?",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04824886645608656",
+          "source": "마켓인",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "사형 집행 1시간 앞두고 “멈춰!”… 50세 사형수 운명은? [이 사람@World]",
+          "url": "https://www.segye.com/newsView/20261001504243",
+          "source": "세계일보",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "지드래곤": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-01T15:58:00+09:00",
+      "lastSeen": "2026-10-01T15:58:00+09:00",
+      "news": [
+        {
+          "title": "지드래곤, 뉴욕서 신혼여행…\"우리 채널 이름 부부로그\"",
+          "url": "https://www.newsis.com/view/NISX20260930_0003809019",
+          "source": "뉴시스",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "뉴욕 간 지드래곤, 얼마나 피곤했으면…\"하루 반을 잤어\" [MHN:픽]",
+          "url": "https://v.daum.net/v/ptWA7gFYMl",
+          "source": "Daum",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "지드래곤 \"신혼여행 떠났다\"..'민효린♥' 태양 빼고 대성과 \"부부���그\" - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/30/G43DGODGMQYGIMJYGI4TMOBYMU/",
+          "source": "Chosunbiz",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "병무청": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-01T15:58:00+09:00",
+      "lastSeen": "2026-10-01T15:58:00+09:00",
+      "news": [
+        {
+          "title": "'재입대' 하겠다던 송민호, 1심 판결 나오자 반응이‥",
+          "url": "https://v.daum.net/v/20261001134618083",
+          "source": "Daum",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "송민호 “매일 후회했다”…법원, 징역 1년에 집행유예 2년 선고 [현장영상]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8675485",
+          "source": "KBS 뉴스",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "‘사회복무 102일 무단결근’ 가수 송민호, 1심서 징역형 집행유예···재복무 계획 묻자 ‘입 꾹’",
+          "url": "https://www.khan.co.kr/article/202610011054001",
+          "source": "경향신문",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "정치": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-10-01T15:58:00+09:00",
+      "lastSeen": "2026-10-01T15:58:00+09:00",
+      "news": [
+        {
+          "title": "“윤석열도 전두환도 내란 아냐” 국힘 김태규 망언에···민주당 “귀를 의심, 즉각 제명해야”",
+          "url": "https://v.daum.net/v/VvTbj1Lxhu",
+          "source": "Daum",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "민주당, '윤석열·전두환 내란 아냐' 국힘 김태규에 \"헌법 부정‥징계안 제출\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6855167_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "김태규 \"윤석열·전두환 내란 아니다\"…민주당 \"내란의힘 되려 하나\" 사죄·제명 촉구",
+          "url": "https://news.jtbc.co.kr/article/NB12320853",
+          "source": "JTBC",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "이상준": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-01T15:58:00+09:00",
+      "lastSeen": "2026-10-01T15:58:00+09:00",
+      "news": [
+        {
+          "title": "'탈북미녀' 한송이, 개그맨 이상준이 남편?..결혼설에 \"그분 눈높아\" 해명",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/01/GBRTKNJZMNSDOZLDMQZTENZVG4/",
+          "source": "Chosunbiz",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "'탈북 유튜버' 한송이 \"이상준이 남편인줄 알아…남친도 아니다\" 결혼설 해명",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1010698",
+          "source": "SPOTV NEWS",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "`탈북녀` 한송이 \"송승헌 닮은 전 남친과 첫 키스…간첩으로 오해받기도\" [닭터신]",
+          "url": "https://www.mydaily.co.kr/page/view/2026100110051934805",
+          "source": "마이데일리",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "india vs sri lanka": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-01T15:58:00+09:00",
+      "lastSeen": "2026-10-01T15:58:00+09:00",
+      "news": [
+        {
+          "title": "Breaking: Kim Jongho Makes History, Secures Silver in Asian Games Compound",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/01/Z55JT77LJ5AMXCO2PKVZZKYDLM/",
+          "source": "조선일보",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "Archer Chikitha misses Asiad medal hat-trick after losing in individual quarters | Chikitha won just a single game against Ashrifah | Inshorts",
+          "url": "https://inshorts.com/en/news/archer-chikitha-misses-asiad-medal-hat-trick-after-losing-in-individual-quarters-1790826250689",
+          "source": "Inshorts",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "Asian Games: Ganesh wins bronze in men’s individual compound archery",
+          "url": "https://ddindia.co.in/2026/10/asian-games-ganesh-wins-bronze-in-mens-individual-compound-archery/",
+          "source": "DD India",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "복싱": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-01T15:58:00+09:00",
+      "lastSeen": "2026-10-01T15:58:00+09:00",
+      "news": [
+        {
+          "title": "세계랭킹 26위의 반란… 장동환, 12년만의 복싱 金 도전",
+          "url": "https://v.daum.net/v/20261001043304799",
+          "source": "Daum",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "[오늘의 영상] 코너 몰아 연타…김민성 결승 진출",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8674034",
+          "source": "KBS 뉴스",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "[아시안게임] 12년 만의 복싱 남자 金 보인다…출격 준비하는 장동환·김민성",
+          "url": "https://www.yna.co.kr/view/AKR20260930140200007",
+          "source": "연합뉴스",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "ssg 랜더스": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-01T15:58:00+09:00",
+      "lastSeen": "2026-10-01T15:58:00+09:00",
+      "news": [
+        {
+          "title": "'7명 전원 대학 선수' 투수부터 포수까지 육성선수 싹 채웠다! SSG는 '왜' 대학 야구에 초점 맞췄나",
+          "url": "https://v.daum.net/v/20261001105856871",
+          "source": "Daum",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "SSG, 대학 선수 7명 육성선수 영입…선수단 뎁스 강화",
+          "url": "https://www.kyeonggi.com/article/20261001580068",
+          "source": "경기일보",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "SSG, 육성선수 7명 영입…전 포지션 유망주 보강",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036346",
+          "source": "기호일보",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "육영수": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-01T15:58:00+09:00",
+      "lastSeen": "2026-10-01T15:58:00+09:00",
+      "news": [
+        {
+          "title": "'암살자들' 논란에 '부엉이바위' 포스터 등장‥또 음모론",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6855037_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "“특정 입장 지지 아냐”…부산영상위, ‘암살자(들)’ 무료 시사회 취소",
+          "url": "https://v.daum.net/v/20261001151207996",
+          "source": "Daum",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "이동진, ‘암살자(들)’ 별 3개에…“평가 철회나 사과 없다”",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1280343.html",
+          "source": "한겨레",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "전설의 사내": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-01T15:58:00+09:00",
+      "lastSeen": "2026-10-01T15:58:00+09:00",
+      "news": [
+        {
+          "title": "장한별 \"女연예인들에게 DM으로 대시 받아…이름 대면 알 만한 분들\" 깜짝 고백 ('전설의 사내')",
+          "url": "https://www.koreadaily.com/article/20260930153221201",
+          "source": "미주중앙일보",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "'리센느 삼촌' 이선민, 월수입 0원→5500만 원?... 재산 역���적에 '진땀' ('전현무계획4')",
+          "url": "https://v.daum.net/v/20260930172727899",
+          "source": "Daum",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "이선민 \"원걸 선예, 나와 동년배..내 영웅\" 깜짝 ('전현무계획4') - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/01/ME3DKOLCGRRTENZVGQ4DIY3DMY/",
+          "source": "Chosunbiz",
+          "date": "2026-10-01"
+        }
+      ]
     }
   },
   "sections": {
