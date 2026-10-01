@@ -520,6 +520,266 @@
           "date": "2026-09-30"
         }
       ]
+    },
+    "chat gpt": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-01T09:43:00+09:00",
+      "lastSeen": "2026-10-01T09:43:00+09:00",
+      "news": [
+        {
+          "title": "Introducing dots",
+          "url": "https://openai.com/index/introducing-dots/",
+          "source": "OpenAI",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "OpenAI launches always-on AI agents a day after apologizing for a hack by its bots",
+          "url": "https://www.nbcnews.com/tech/tech-news/openai-launches-dots-ai-agents-safety-questions-rcna600338",
+          "source": "NBC News",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "OpenAI’s New Agent Delivers a Reality Check for the Enterprise",
+          "url": "https://www.wsj.com/cio-journal/openais-new-agent-delivers-a-reality-check-for-the-enterprise-0370ea8a",
+          "source": "WSJ",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "우즈베키스탄 축구 국가대표팀": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-01T09:43:00+09:00",
+      "lastSeen": "2026-10-01T09:43:00+09:00",
+      "news": [
+        {
+          "title": "냉온탕 오간 모레노호, 베네수엘라와 격돌…중원 조합 등 관심",
+          "url": "https://www.yna.co.kr/view/AKR20260930086200007",
+          "source": "연합뉴스",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "韓 대형 참사에 이천수, 작심 발언, \"진짜 보완하지 않으면 큰 일\"...모레노호, \"여러 가지 고쳐서 조금 더 변화를 일으켜야\"",
+          "url": "https://v.daum.net/v/28VpQL1yJZ",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "손흥민과 축구 현장",
+          "url": "https://m.news.zum.com/photo/58104268/108012514?cm=news_photolist&r=2&thumb=1",
+          "source": "ZUM 뉴스",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "챗gpt": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-01T09:43:00+09:00",
+      "lastSeen": "2026-10-01T09:43:00+09:00",
+      "news": [
+        {
+          "title": "싼 구독료 미끼로 AI 의존 높이더니… \"챗GPT 월67만원\"",
+          "url": "https://www.mk.co.kr/news/business/12165226",
+          "source": "매일경제",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "퇴근해도 일하는 AI… 오픈AI·메타 ‘내 손안 비서’ 경쟁",
+          "url": "https://www.chosun.com/economy/tech_it/2026/09/30/2DVPNE6QWNCR7PXUOMBOEYLKKI/",
+          "source": "조선일보",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "챗GPT 프로, 최고 월 ＄500…＄200 요금제는 사용�� 반토막",
+          "url": "https://www.news1.kr/it-science/internet-platform/6305528",
+          "source": "뉴스1",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "argentina vs bolivia": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-01T09:43:00+09:00",
+      "lastSeen": "2026-10-01T09:43:00+09:00",
+      "news": [
+        {
+          "title": "\"A different look\": will Scaloni change Argentina's \"identity\" after Messi?",
+          "url": "https://www.goal.com/en/news/a-different-look-will-scaloni-change-argentina-s-identity-after-messi/blt12be863e906491f0",
+          "source": "Goal.com",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "With ‘Dibu’ as vice-captain and two doubts: Scaloni’s XI v Bolivia",
+          "url": "https://onefootball.com/en/news/with-dibu-as-vice-captain-and-two-doubts-scalonis-xi-v-bolivia-43541414",
+          "source": "OneFootball",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Five Candidates to Wear Messi’s No. 10 Shirt for Argentina",
+          "url": "https://forzafootball.com/news/five-candidates-to-wear-messis-no-10-shirt-for-argentina-159457642",
+          "source": "Forza Football",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "양민혁": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-01T09:43:00+09:00",
+      "lastSeen": "2026-10-01T09:43:00+09:00",
+      "news": [
+        {
+          "title": "‘초대박’ 이영표·손흥민·양민혁 이어 ‘韓 축구 4호’ 탄생 가능성 떴다…‘득점력 난조→최전방 공격수 보강 추진’ 토트넘, 오현규 영입 관심",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8E%E1%85%A9%E1%84%83%E1%85%A2%E1%84%87%E1%85%A1%E1%86%A8-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%91%E1%85%AD-%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%B3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB-%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%A8-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A5-%E9%9F%93-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AE-4%E1%84%92%E1%85%A9-%E1%84%90%E1%85%A1%E1%86%AB%E1%84%89%E1%85%A2%E1%86%BC-%E1%84%80%E1%85%A1%E1%84%82%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC-%E1%84%84%E1%85%A5%E1%86%BB%E1%84%83%E1%85%A1--%E1%84%83%E1%85%B3%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%B7%E1%84%85%E1%85%A7%E1%86%A8-%E1%84%82%E1%85%A1%E1%86%AB%E1%84%8C%E1%85%A9%E2%86%92%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A1%E1%86%BC-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A7%E1%86%A8%E1%84%89%E1%85%AE-%E1%84%87%E1%85%A9%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%8E%E1%85%AE%E1%84%8C%E1%85%B5%E1%86%AB-%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7-%E1%84%8B%E1%85%A9%E1%84%92%E1%85%A7%E1%86%AB%E1%84%80%E1%85%B2-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%B8-%E1%84%80%E1%85%AA%E1%86%AB%E1%84%89%E1%85%B5%E1%86%B7/blt5eade8744570f4e4",
+          "source": "Goal.com",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "'손흥민 수준에 근접한 선수조차 없다'…EPL 최하위 추락 토트넘, 공격진 물갈이에도 문제 반복",
+          "url": "https://v.daum.net/v/20260929055159637",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "‘EPL 명단 제외’ 히샬리송 대체자가 오현규? 5000억 원 쓴 ‘꼴찌’ 토트넘, 겨울 이적시장서 공격수 보강 계획…한국FW 우선 영입 옵션",
+          "url": "https://sports.donga.com/sports/article/all/20260928/134742543/1",
+          "source": "스포츠동아",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "호날두": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-01T09:43:00+09:00",
+      "lastSeen": "2026-10-01T09:43:00+09:00",
+      "news": [
+        {
+          "title": "선발 제외 호날두 \"언젠가 진실 밝힐 것\"…포르투갈 대표팀 중도 하차",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/01/EAGKGDWVOFAG5D7IKVK6MIENME/",
+          "source": "조선일보",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "'또 선발 제외' 41세 호날두, 포르투갈 축구대표팀서 전격 이탈",
+          "url": "https://www.yna.co.kr/view/AKR20261001014300007",
+          "source": "연합뉴스",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "노르웨이전 ‘0분 출전’, 자존심 상한 호날두…감독과 직접 대화 나눴다! ‘입장 정리 및 분위기 풀 목적’",
+          "url": "https://v.daum.net/v/20261001035944640",
+          "source": "Daum",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "아르헨티나 대 볼리비아": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-01T09:43:00+09:00",
+      "lastSeen": "2026-10-01T09:43:00+09:00",
+      "news": [
+        {
+          "title": "\"메시 다음 10번? 고별전까지는 없어\" 아르헨티나는 고민 중",
+          "url": "https://www.nocutnews.co.kr/news/6584806",
+          "source": "노컷뉴스",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "\"메시의 마지막 탱고\"…국대 고별전 2시간 만에 8만장 완판",
+          "url": "https://www.yna.co.kr/view/AKR20260926000900087",
+          "source": "연합뉴스",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "\"메시 마지막 A매치 꼭 보고 싶다\" 디발라·몰리나의 간절한 요청, AS 로마는 칼같이 거절 \"아르헨티나 가지마\"",
+          "url": "https://v.daum.net/v/20260930074913828",
+          "source": "Daum",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "검사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-01T09:43:00+09:00",
+      "lastSeen": "2026-10-01T09:43:00+09:00",
+      "news": [
+        {
+          "title": "李, 밤새 김지용 인선 놓고 SNS 설전…\"박은정·이성윤도 검사 출신인데\"",
+          "url": "https://v.daum.net/v/20261001080236697",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "이재명 대통령 \"김지용 중수청장 후보자, '친윤검사' 비난은 납득 어려워\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6855069_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "강행 땐 강경파 반발, 철회 땐 리더십 타격… ‘김지용 딜레마’",
+          "url": "https://www.chosun.com/politics/blue_house/2026/10/01/SZPEAY3QGFGKHLGPELHIIB2LAM/",
+          "source": "조선일보",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "웨스팅하우스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-01T09:43:00+09:00",
+      "lastSeen": "2026-10-01T09:43:00+09:00",
+      "news": [
+        {
+          "title": "웨스팅 지분 5~10% 협상…이사회 진입엔 난색, 투자 실익 관건",
+          "url": "https://www.newsis.com/view/NISX20260922_0003800777",
+          "source": "뉴시스",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Cameco’s Westinghouse Stake Could Be Worth More Than $24.5 Billion",
+          "url": "https://www.tikr.com/ko/blog/camecos-westinghouse-stake-could-be-worth-more-than-24-5-billion?",
+          "source": "TIKR.com",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "웨스팅하우스 지분 투자, ‘EU 경쟁법’ 위반 소지 변수로",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01626886645585040&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    "쓰레기봉투": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-01T09:43:00+09:00",
+      "lastSeen": "2026-10-01T09:43:00+09:00",
+      "news": [
+        {
+          "title": "“종량제 봉투 아끼려면?”…페트병 압착·상자 접어 분리배출",
+          "url": "https://www.jejutwn.com/news/article.html?no=460760",
+          "source": "제주교통복지신문",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "“햇반 용기 모아봤니?” 중구에 가져가면 종량제봉투로 바꿔준다[서울25]",
+          "url": "https://v.daum.net/v/0WgnZRYChR",
+          "source": "Daum",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "[서울 25]중구, 빈 즉석밥 용기 ‘종량제봉투’로 보상",
+          "url": "https://www.khan.co.kr/article/202609282152025",
+          "source": "경향신문",
+          "date": "2026-09-30"
+        }
+      ]
     }
   },
   "sections": {
