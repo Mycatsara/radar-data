@@ -262,10 +262,10 @@
       ]
     },
     "추성훈": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-10-02T08:46:00+09:00",
-      "lastSeen": "2026-10-02T08:46:00+09:00",
+      "lastSeen": "2026-10-02T13:43:00+09:00",
       "news": [
         {
           "title": "日톱모델 야노시호, 추성훈에 무명일 때 첫눈에 반했다…\"만나려고 주변 수소문\"",
@@ -283,6 +283,12 @@
           "title": "'��스토랑' 야노 시호 母女, 한복 입고 상황극…\"전하!\"",
           "url": "https://www.news1.kr/entertain/broadcast-tv/6308223",
           "source": "뉴스1",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "매번 눈물 흘렸는데..야노시호, 51세 ♥추성훈 은퇴경기 \"기대돼\" 이유는?",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/02/HFTDSMJXMM2TEMTFMJRGMMZTGY/",
+          "source": "조선일보",
           "date": "2026-10-01"
         }
       ]
@@ -498,6 +504,240 @@
           "title": "'구해줘홈즈' 김대호, 제주 애월 옛집에 \"귀여워\"…만족",
           "url": "https://www.news1.kr/entertain/broadcast-tv/6308247",
           "source": "뉴스1",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "나나": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-02T13:43:00+09:00",
+      "lastSeen": "2026-10-02T13:43:00+09:00",
+      "news": [
+        {
+          "title": "[단독] \"우리가 진짜, 스캔들\"…탑·나나, 열애의 현장",
+          "url": "https://www.dispatch.co.kr/2348704",
+          "source": "디스패치",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "빅뱅 출신 탑·'스캔들' 나나, 열애설…톱스타 커플 탄생? \"확인 중\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6308744",
+          "source": "뉴스1",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "탑·나나, 연인 됐다 \"6월부터 열애 중\"(종합)",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812381",
+          "source": "뉴시스",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "쓰레기봉투": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-02T13:43:00+09:00",
+      "lastSeen": "2026-10-02T13:43:00+09:00",
+      "news": [
+        {
+          "title": "쓰레기봉투 속 2500만 원 끝내 주인 안 나타나… 최초 발견자 품으로",
+          "url": "https://www.segye.com/newsView/20261002502623",
+          "source": "세계일보",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "인천 쓰레기봉투서 발견된 2,500만원...결국 최초 발견자 손으로",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610020900341043",
+          "source": "YTN",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "\"헌옷 줍다 로또 맞았네\"…쓰레기봉투 속 2500만원 최초 발견자 횡재",
+          "url": "https://v.daum.net/v/88Q93S6byW",
+          "source": "Daum",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "홍진경": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-02T13:43:00+09:00",
+      "lastSeen": "2026-10-02T13:43:00+09:00",
+      "news": [
+        {
+          "title": "29억 건물 매입 홍진경, ‘연예인 착각’ 버리자 50층 아파트가 보였다",
+          "url": "https://www.segye.com/newsView/20260625510091",
+          "source": "세계일보",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "홍진경, 이혼 발표 1년 만 “내 남편은 석유부자” 고백(도라이버)",
+          "url": "https://www.newsen.com/news_view.php?uid=202610021157526310",
+          "source": "뉴스엔",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "`도라이버` 홍진경, 금덩어리 변신! `불금인가? 불상인가?`",
+          "url": "http://sagunin.com/119958",
+          "source": "사건의내막",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "필리스 대 브레이브스": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-02T13:43:00+09:00",
+      "lastSeen": "2026-10-02T13:43:00+09:00",
+      "news": [
+        {
+          "title": "'김하성 벤치' 애틀랜타 NLDS 진출…다저스와 격돌",
+          "url": "https://www.yna.co.kr/view/AKR20261002070000007",
+          "source": "연합뉴스",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "다저스 나와! ATL 디비전시리즈 진출!...해리스 2세 3점포→알비스 투런포→올슨 쐐기포, '하루 휴식' 세일 4아웃 투혼, 김하성은 결장 [NLWC3 리뷰] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/02/202610021154775100O",
+          "source": "머니투데이",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "‘슈퍼스타’ 하퍼, 선제 적시타→치명적 실수→동점포 ‘PHI 들었다 놨다’",
+          "url": "https://sports.donga.com/sports/article/all/20261001/134765070/1",
+          "source": "스포츠동아",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "챗gpt": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-10-02T13:43:00+09:00",
+      "lastSeen": "2026-10-02T13:43:00+09:00",
+      "news": [
+        {
+          "title": "챗GPT 옷도 입어본다…AI가 상품 탐색부터 가상 착용까지",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/02/PFPYXZ3PWZBRFAQJLPLID45CMQ/",
+          "source": "조선일보",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "10월 2일 기술 뉴스: ChatGPT는 테스트 방법을 알고 NASA는 달에 5G 네트워크를 구축합니다",
+          "url": "https://ko.laodong.vn/cong-nghe/cong-nghe-ngay-210-chatgpt-biet-thu-do-nasa-xay-mang-5g-tren-mat-trang-1776250.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "[AI 활용팁] 챗GPT로 가상 피팅 사용하기…참조 사진 관리와 즐겨찾기 저장까지",
+          "url": "https://aimatters.co.kr/ai-tool/53887/",
+          "source": "AI 매터스",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "chat gpt": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-02T13:43:00+09:00",
+      "lastSeen": "2026-10-02T13:43:00+09:00",
+      "news": [
+        {
+          "title": "ChatGPT can now virtually try on clothes for you",
+          "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+          "source": "TechCrunch",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "ChatGPT Launches Virtual Try-On for Apparel",
+          "url": "https://www.chosun.com/english/industry-en/2026/10/02/KBPIYKIVXFCU5MMJH2JIY3HL7Y/",
+          "source": "조선일보",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "ChatGPT Can Now Help You Virtually Try On Clothes",
+          "url": "https://www.engadget.com/2275295/chatgpt-can-now-help-you-virtually-try-on-clothes/",
+          "source": "Engadget",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "돔 경기장": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-02T13:43:00+09:00",
+      "lastSeen": "2026-10-02T13:43:00+09:00",
+      "news": [
+        {
+          "title": "\"KTX 바로 앞\" \"우린 땅 공짜\" 정부 지원 돔구장에 10여곳 도전장",
+          "url": "https://www.chosun.com/national/national_general/2026/10/02/DSWTRPB5LNGX5EJZENYL2RUN5E/",
+          "source": "조선일보",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "부천종합운동장에 돔구장 유치 추진…부천시, 정부 공모 도전",
+          "url": "https://v.daum.net/v/20261001091751361",
+          "source": "Daum",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "영천시, K-팝 돔구장 건설 추진 TF 구성·운영",
+          "url": "https://www.yna.co.kr/view/AKR20261001129600053",
+          "source": "연합뉴스",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "승부차기": {
+      "count": 1,
+      "maxTraffic": 50000,
+      "firstSeen": "2026-10-02T13:43:00+09:00",
+      "lastSeen": "2026-10-02T13:43:00+09:00",
+      "news": [
+        {
+          "title": "일본 대 에콰도르 축구 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-nhat-ban-vs-ecuador-1775366.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "모레노호에 0-3 참패해 놓고…\"일본이 한국보다 강하다\" 에콰도르 매체 보도, \"공 뺏고 단 몇 초만에 득점하는 팀\"",
+          "url": "https://www.sportschosun.com/football/2026-10-01/202610010100010760000409",
+          "source": "스포츠조선",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "`스즈키 PK 선방` 일본, 에콰도르에 승부차기 승리…기린컵 결승 진출",
+          "url": "https://mydaily.co.kr/page/view/2026100121203641902",
+          "source": "마이데일리",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    "태양광 발전": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-02T13:43:00+09:00",
+      "lastSeen": "2026-10-02T13:43:00+09:00",
+      "news": [
+        {
+          "title": "가평군, 태양광 발전시설 6개 마을 97곳 설치 ‘마을 공동 소득기반 마련’",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261002010000673",
+          "source": "아시아투데이",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "가평군 6개 마을에 태양광 발전시설 설치",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03460406645608984&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "가평군, ‘경기RE100 소득마을’ 조성 업무협약",
+          "url": "https://www.hksisaeconomy.com/news/article.html?no=1254237",
+          "source": "한국시사경제",
           "date": "2026-10-01"
         }
       ]
