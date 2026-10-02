@@ -741,6 +741,266 @@
           "date": "2026-10-01"
         }
       ]
+    },
+    "결승전": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-02T19:56:00+09:00",
+      "lastSeen": "2026-10-02T19:56:00+09:00",
+      "news": [
+        {
+          "title": "결승 못 뛴 페이커, 아쉬움은 전혀 없다…\"태극마크 사명감 느껴, 한국 금메달만 목표였다\" [AG 현장]",
+          "url": "https://v.daum.net/v/20261002181612067",
+          "source": "Daum",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "리그 오브 레전드(LoL) 대표팀, 2회 연속 금메달...무실 세트 전승",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0107_202610021544506369_005.html",
+          "source": "YTN",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "[아시안게임] 페이커 \"어린이들, 좋아하는 일에 열정 갖길…게임은 적당히\"",
+          "url": "https://www.yna.co.kr/view/AKR20261002158600007",
+          "source": "연합뉴스",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "외환시장": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-02T19:56:00+09:00",
+      "lastSeen": "2026-10-02T19:56:00+09:00",
+      "news": [
+        {
+          "title": "대외 악재에도 환율 1350원까지 하락… '역대급' 무역흑자 '달러 공급'(종합)",
+          "url": "https://v.daum.net/v/20261002164432816",
+          "source": "Daum",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "달러-원, 장중 1,350원 아래로…한때 1,349.90원",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437636",
+          "source": "연합인포맥스",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "미국 ��금리 장기화 우려에…환율 1,350원대 후반으로 상승",
+          "url": "https://www.yna.co.kr/view/AKR20261001150700002",
+          "source": "연합뉴스",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "사우디아라비아": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-02T19:56:00+09:00",
+      "lastSeen": "2026-10-02T19:56:00+09:00",
+      "news": [
+        {
+          "title": "\"美, 대이란 폭격재개 대비해 사우디·카타르에 패트리엇 증강\"",
+          "url": "https://v.daum.net/v/20261002152056109",
+          "source": "Daum",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "트럼프 '이란 폭격 결단' 임박에 중동 패트리엇 증강",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610021638230275",
+          "source": "YTN",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "\"미국, 대이란 폭격 재개 대비해 사우디·카타르에 패트리엇 증강\"",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6855432_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "반도체": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-02T19:56:00+09:00",
+      "lastSeen": "2026-10-02T19:56:00+09:00",
+      "news": [
+        {
+          "title": "코스피, 하락 출발해 보합권 등락…코스닥, 장중 900선 회복(종합)",
+          "url": "https://v.daum.net/v/20261002093907184",
+          "source": "Daum",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "삼전닉스 자사주가 끌어올려 6900선...개인·외인·기관은 모두 ‘팔자’ - 조선비즈",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/10/02/OPWZU6CECZHG5INQZW2BCCBY4U/",
+          "source": "Chosunbiz",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "[개장시황] 코스피, 외인·기관 ‘팔자’에 6940선으로 하락⋯코스닥은 0.8% 올라",
+          "url": "https://www.viva100.com/article/20261002500069",
+          "source": "브릿지경제",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "가을": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-02T19:56:00+09:00",
+      "lastSeen": "2026-10-02T19:56:00+09:00",
+      "news": [
+        {
+          "title": "개천절 연휴 돌풍-천둥 ‘요란한 비’…강원 산간엔 얼음도",
+          "url": "https://www.donga.com/news/Society/article/all/20261002/134774332/1",
+          "source": "동아일보",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "[날씨] 내일도 오늘만큼 쌀쌀...맑다가 구름양 늘어",
+          "url": "https://www.ytn.co.kr/_ln/0108_202610021917181448",
+          "source": "YTN",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "일부 지역 ��침 기온 10도↓…큰 일교차에 서리까지[내일날씨]",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812977",
+          "source": "뉴시스",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "유승준": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-02T19:56:00+09:00",
+      "lastSeen": "2026-10-02T19:56:00+09:00",
+      "news": [
+        {
+          "title": "유승준, ‘비자 거부’ 또 이겼지만…한국 들어올 수 있을까? [이런뉴스]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8676733",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "‘11년째 소송전’ 유승준, 비자 발급 거부 ‘세번째 취소소송’ 항소심도 승소",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1280704.html",
+          "source": "한겨레",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "[속보] '병역기피' 유승준 비자발급 거부 세번째 소송 항소심도 승소",
+          "url": "https://v.daum.net/v/YvknsFgRGF",
+          "source": "Daum",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "김성근": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-02T19:56:00+09:00",
+      "lastSeen": "2026-10-02T19:56:00+09:00",
+      "news": [
+        {
+          "title": "'불꽃야구' 제대로 잘못 걸렸다…프로 진출자만 14명, 김성근도 칼 빼들었다",
+          "url": "https://v.daum.net/v/20261002141215099",
+          "source": "Daum",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "‘불꽃야구2’ 불꽃 파이터즈, 대학 국가대표팀과 맞대결",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3437342",
+          "source": "천지일보",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "'불꽃야구2' 김성근 감독, 파격 선발 라인업으로 승리 정조준[방송 프리뷰] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/02/GFTDSYZSMRSGKNZRMNRGMM3FMI/",
+          "source": "Chosunbiz",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "아버지": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-02T19:56:00+09:00",
+      "lastSeen": "2026-10-02T19:56:00+09:00",
+      "news": [
+        {
+          "title": "아버지가 아파트 남겨줬더니…새엄마, “내 아들 아냐” 소송",
+          "url": "https://www.munhwa.com/article/11620963",
+          "source": "문화일보",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "네 살부터 '내 아들'이라더니...아버지 떠나자 서울 아파트 놓고 '돌변'",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610010011032167",
+          "source": "YTN",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "아버지 죽고 상속 앞두자…새엄마가 50년 키운 아들에게 \"친자 아냐\" 소송",
+          "url": "https://www.news1.kr/society/general-society/6307215",
+          "source": "뉴스1",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "김": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-02T19:56:00+09:00",
+      "lastSeen": "2026-10-02T19:56:00+09:00",
+      "news": [
+        {
+          "title": "윤서영, 6년 心고생 끝…끝내 안세영·신유빈처럼 '金쐈다'",
+          "url": "https://www.nocutnews.co.kr/news/6586220",
+          "source": "노컷뉴스",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "사격 2관왕은 머스크 홀린 김예지 남편…\"아내가 비번을\"",
+          "url": "https://v.daum.net/v/20261002090300529",
+          "source": "Daum",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "‘김예지 남편’ 이건혁, 두 번 연장 끝에 속사권총 금메달",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8676271",
+          "source": "KBS 뉴스",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "김태규": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-02T19:56:00+09:00",
+      "lastSeen": "2026-10-02T19:56:00+09:00",
+      "news": [
+        {
+          "title": "민주당, “전두환 신군부는 내란 아냐” 발언 김태규 제명 촉구 결의안 당론 채택",
+          "url": "https://www.munhwa.com/article/11620951",
+          "source": "문화일보",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "국회 운영위, 與 주도로 김태규 제명 촉구 결의안 처리",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6855408_36911.html",
+          "source": "MBC ��스",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "국민의힘에 항의하는 민주당",
+          "url": "https://mobile.newsis.com/photo/NISI20261002_0021472333",
+          "source": "뉴시스",
+          "date": "2026-10-02"
+        }
+      ]
     }
   },
   "sections": {
