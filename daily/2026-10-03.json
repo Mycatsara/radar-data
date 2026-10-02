@@ -2,10 +2,10 @@
   "date": "2026-10-03",
   "keywords": {
     "야구": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-10-03T01:35:00+09:00",
-      "lastSeen": "2026-10-03T01:35:00+09:00",
+      "lastSeen": "2026-10-03T06:13:00+09:00",
       "news": [
         {
           "title": "추신수가 본 AG 야구 금메달과 한국의 미래, “기대되지만… 리그가 명확한 플랜 가져야”",
@@ -23,6 +23,12 @@
           "title": "[시간들] 감동없는 프로야구 병특, '양정모 시대' 이대로 둘 건가",
           "url": "https://www.yna.co.kr/view/AKR20261001101600546",
           "source": "연합뉴스",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "추신수가 본 AG 야구 금메달과 한국의 미래, “기대되지만… 리그가 명확한 플랜 가져야”",
+          "url": "https://v.daum.net/v/20261002061143610",
+          "source": "Daum",
           "date": "2026-10-02"
         }
       ]
@@ -238,6 +244,240 @@
           "title": "Kim Min-jae's 'deliberate remarks': \"Defenders are in a pitiable state... Even if we had won, the feeling would not have been good\"",
           "url": "https://www.starnewskorea.com/en/sports/2026/10/02/2026100222541184226",
           "source": "스타뉴스",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "경제": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-03T06:13:00+09:00",
+      "lastSeen": "2026-10-03T06:13:00+09:00",
+      "news": [
+        {
+          "title": "엔화 개입, 무엇이 과장됐나…일본 경제 파멸론이 놓치고 있는 것들",
+          "url": "https://v.daum.net/v/20261002090702730",
+          "source": "Daum",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "[도쿄환시] 달러-엔, 연준 비둘기 발언 소화하며 하락",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437630",
+          "source": "연합인포맥스",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "日 총리 \"정책으로 엔화 신뢰 높일 것…트럼프에 엔저 문�� 전달\"",
+          "url": "https://www.news1.kr/world/northeast-asia/6308284",
+          "source": "뉴스1",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "분당 신도시": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-03T06:13:00+09:00",
+      "lastSeen": "2026-10-03T06:13:00+09:00",
+      "news": [
+        {
+          "title": "한토신 \"성남시, 분당 한솔123 특별정비구역 지정 제안 수용\"",
+          "url": "https://v.daum.net/v/20261002101822178",
+          "source": "Daum",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "분당 한솔123 재건축, 특별정비구역 지정 박차…3447가구 탈바꿈 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/02/2026100210315432552",
+          "source": "머니투데이",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "\"1억 올린대요\"…특별구역 분당, 호가 뛰고 곳곳에 ��수막[르포]",
+          "url": "https://www.newsis.com/view/NISX20261001_0003811409",
+          "source": "뉴시스",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "연금": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-03T06:13:00+09:00",
+      "lastSeen": "2026-10-03T06:13:00+09:00",
+      "news": [
+        {
+          "title": "기초연금 '소득 하위 70%' 기준 바꾼다…중위소득 연계 재추진",
+          "url": "https://v.daum.net/v/20261002060236418",
+          "source": "Daum",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "“국민연금 수익률 2%p 높이면 2120년까지 기금 유지”",
+          "url": "https://www.viva100.com/article/20260930501155",
+          "source": "브릿지경제",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "\"국민연금 미적립부채 1450조…개혁 미루면 미래세대 부담\"",
+          "url": "https://www.hankyung.com/article/202610018162i",
+          "source": "한국경제",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "중국 축구 국가대표팀": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-03T06:13:00+09:00",
+      "lastSeen": "2026-10-03T06:13:00+09:00",
+      "news": [
+        {
+          "title": "'대충격, 아시안게임 폭망이 문제가 아니다' 중국 축구, 팔레스타인과의 안방 친선 A매치 0-5 역대급 참패..비난 대폭발 \"팀 전체가 몽유병 환자 같았다\"",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/03/HFSTCZBUMMYGEN3DGNSTEMTDGM/",
+          "source": "조선일보",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "'무려 0-5' 충칭 대참사! 中 축구, 월드컵 택도 없겠다...'FIFA 랭킹 95위' 약체에 역사상 첫 패배 \"도대체 이게 무슨 축구냐?\"",
+          "url": "https://www.osen.co.kr/article/G1112886569",
+          "source": "OSEN",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "'이래서 월드컵 가겠나?' 중국, FIFA 랭킹 95위 팔레스타인에 0-5 박살났다",
+          "url": "https://v.daum.net/v/20261002230031813?f=p",
+          "source": "Daum",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "김경문": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-03T06:13:00+09:00",
+      "lastSeen": "2026-10-03T06:13:00+09:00",
+      "news": [
+        {
+          "title": "15년간 포수 GG 독점한 ‘양(의지)·강(민호)’ 체제, 수비이닝 미달로 스스로 무너졌다...이를 대체할 건 ‘허’(인서)밖에 없다 [남정훈의 비욘드 더 그라운드]",
+          "url": "https://v.daum.net/v/KNVxmn5TAo",
+          "source": "Daum",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "37년 만의 20홈런 포수인데도 칭찬은 아직…김경문 감독, “허인서 평가? 마지막 경기 끝나고 하겠다” [오!쎈 대구] - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/10/01/MIYTEMDEMVQTQMJRMFSWKODFMM/",
+          "source": "Chosunbiz",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "37년 묵은 내 기록, 제발 깨다오…‘한화 20홈런 포수’ 원조 유승안 전 감독, “허인서, 양의지 능가할 잠재력 있다” - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/01/202610010007771092O",
+          "source": "머니투데이",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "france vs italy": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-03T06:13:00+09:00",
+      "lastSeen": "2026-10-03T06:13:00+09:00",
+      "news": [
+        {
+          "title": "France 1-1 Italy: Michael Olise scores before Alessandro Bastoni equalises in Nations League",
+          "url": "https://www.bbc.com/sport/football/live/cqe8xr3lw0ret",
+          "source": "BBC",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "France 1-1 Italy: Nations League football – live reaction",
+          "url": "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates",
+          "source": "The Guardian",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "Italy's Alessandro Bastoni scores goal to tie up game against France",
+          "url": "https://www.foxsports.com/watch/fmc-xi225sl8w2pl9gw8",
+          "source": "FOX Sports",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "장동혁": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-03T06:13:00+09:00",
+      "lastSeen": "2026-10-03T06:13:00+09:00",
+      "news": [
+        {
+          "title": "장동혁, 이형일 부총리 만나 “‘대통령 쌈짓돈’ 미래대응기금 원점 재검토해야”",
+          "url": "https://v.daum.net/v/20261002154944395",
+          "source": "Daum",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "조의장, 이형일 만나 \"경제 성장 온기 국민 삶에서 체감돼야\"",
+          "url": "https://www.yna.co.kr/view/AKR20261002142300001",
+          "source": "연합뉴스",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "조정식 국회의장, 이형일 부총리 접견",
+          "url": "https://mobile.newsis.com/photo/NISI20261002_0021472479",
+          "source": "뉴시스",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "프랑스 대 이탈리아": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-03T06:13:00+09:00",
+      "lastSeen": "2026-10-03T06:13:00+09:00",
+      "news": [
+        {
+          "title": "'냉혹한 승부사'에게 이런 면이? \"오직 이 자리만 원했다\"던 지단, 제자 극장골 직후 이례적 세리머니 '화제'",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/02/MVRDIMDGGZRDSZLEHFRTEZJZGU/",
+          "source": "조선일보",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "‘54세 감독의 발끝’이 이 정도…프랑스 대표팀서 다시 드러난 지단의 클래스 “기량 전혀 안 잃어”",
+          "url": "https://v.daum.net/v/20261001045431999",
+          "source": "Daum",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "'챔스 3연패 감독' 지단의 프랑스, 네이션스리그 2연승",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1184207",
+          "source": "금강일보",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    "비야디": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-03T06:13:00+09:00",
+      "lastSeen": "2026-10-03T06:13:00+09:00",
+      "news": [
+        {
+          "title": "테슬라 3분기 車판매량 2% 감소…시장 기대치는 웃돌아",
+          "url": "https://v.daum.net/v/20261003045059038",
+          "source": "Daum",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "테슬라 3분기 車판매 2% 감소…시장 전망은 웃돌아",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261003045458AfO",
+          "source": "연합뉴스TV",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "테슬라, 오늘 밤 3분기 전기차 인도량 발표…전년비 7~9% 감소 예상 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/02/2026100207543660805",
+          "source": "머니투데이",
           "date": "2026-10-02"
         }
       ]
@@ -1402,6 +1642,54 @@
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PU2dRYU5jazRqRDRGVlNzRUpNZy1UY01IUVRkUUVaR01Zb3R2Ni13MlJsT0M3Q0wzRzFRNGxjdFo0eWRoS0FkNlFrVEVHY1Z0djhZWl9kVHBDLXNzOWs5OVNyS09icEx6OTZNZjlPVHI?oc=5",
         "source": "SPOTV NEWS",
         "date": "2026-10-01"
+      },
+      {
+        "title": "‘48위’ 베네수와 졸전 끝 0-0…김민재는 축구화 집어던졌다",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hQlJPSnA0elhHVTR4WWZQNlNKUF9RSXFLUVpYQUJZYXNqcEdnNkVXZ1hSV3VvbC0xd1hfZGFxeHhDTzk1bG5ZaEhOVEdWckxlM2FEQ1c0MnVrVXVSV1pHVnpId3h2VVQ1dDB4VV9QS1loT3VodFHSAWZBVV95cUxPbnNwY0NWSURmaEh5b1lfT2xMV0FjdlZQcmNnbVVvTF9PZkYwMmJUMUhneHBkZ0V5ekFyZXlGY3RWbTd4ZFBxaHlHMEJUeWdEdGtPRGd2OWYwaHJ3U0dvTER6MzBWdWc?oc=5",
+        "source": "donga.com",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "[아시안게임] 양궁 남자 단체·e스포츠 LoL·요트 하지민 '금빛 합창'(종합)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3SE5fcmtlSFBwX3N6MmtRdUJSaWd4aGxzRDBXUmtNdVA0aThEQzlmY1VaZVl6QVc1UzAwUjR2QTZyTDYtVVh5S0VUUkRJVWctV2laYVdjbW56N0nSAWBBVV95cUxNZWh2cGdkc1FPR1Eyak5IeDE3MjlqUnItUFB1a3RsVEZmNUd6SmhHYjNYM203QnlTY25YSERuSXZ4bHF1U29yVHB6dzhmTkpVYjZhc3VDSzBEMkJiQXJQU1Q?oc=5",
+        "source": "yna.co.kr",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "[아시안게임] 리그오브레전드, 대만 꺾고 대회 2연패‥e스포츠 두 번째 금",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oSTB4MDlTY3pEaHpCYTNBblRpcFpOYlMxWWRVeW52VU9MTktSNXktcWRxblpYUjhZakVxNFcwcXl3VmlZMUg0RXFqc3p1V2cyUUVaM29yVldzMkpHZk5RWnNIdFBlYVd1NklUel9hRS1RREVoOFHSAXZBVV95cUxPQ3pXc1JLeEVIMWNLSEJrS09OcVFhWElTSDZCME9uNGppZm50TGFneVluVExoWnhCSmZlLWpkVl9yWlN2OGZZQnh0OW56cHNIVjQ1ZnU5aTJDdEh6WEZOcTdsdkZ0cV9CWF91QVV2bHAyWGpZVHRR?oc=5",
+        "source": "imnews.imbc.com",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "한일전 앞두고 잔디 탓에 훈련 삐끗? 이민성호, 변수도 문제 없다",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03ekFUMTRidU4xSE5sUlllS0piSm5VcWR2cGgzSm9mVFNsYlhQSVhWZDB3RHdNYUdtb3VUSzktRUg5Y1daUzBRQWhabTBPLTI1cTJhbXpUV2JkNzg?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "[TV CHOSUN 2026 아이치-나고야 아시안게임] 김예지 해설위원, 중계석서 함께한 '남편 금메달' 감.격.의.순.간!",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wT1ZxOEhJQTBFZFlOcDlXZWxMa0I0clRza25XYmt3Y1B2VkdybXZ3ZEppbm1MLUtrRnZkWUtjeWQyMDVsa0pQZUhrT0JnbzBnYW9sYjVSOE5JeFE3bmVnWm9hVQ?oc=5",
+        "source": "경남도민뉴스",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "양윤서, 아시안게임 여자골프 3R 단독 5위…한국 단체전은 8위↓",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GVVVGR0FEYVhqSFA1Q0dWdU1iT2RfMXlqQUJteFN5dG9NRk14VDJoZ3FOYmdRcHlNVmZBdEx6Z29pQmU0VXVubXVzVGdoVXFVN1I4X3Mta3JuRzlEaUVTX0E4UkM4M2hIc3pNOXJHeVM2ZkNZQmd4etIBfEFVX3lxTE5BR2V6RlhsMm9RUWEtMkNkQjJDZWh2S3oyMk9VQ09rMzJoOHpya2VfZmhWZmxTQmtSODMtS1ExMlhrRlAwUHFBWnNuQld0QXdBM2JvVzluMnJiX3BGQ1lybW5oTU0wT2FEa3Bkb3VsblRsZVNUbk9XM2VidzM?oc=5",
+        "source": "골프한국",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "[아시안게임] 北여자축구 결승전 응원에 南응원단도 가세…\"힘이 납니다\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12WEhteTE3S2d0Mndub2lLMWQ3SjVubmwzb2Q4cTBJSEV5LTBReVEtaG5kREZmTi1vWVNWWkRfUGNlNHhENHFzNFVBTkdOM2k5a3U1VzVsaTNRU1nSAWBBVV95cUxQcFpNOXpoSF9mdUtPTl8zekt1NnhxWWxSUktyYjNEYUdvT3l6MHYzSXRXOGNOb2dNWVUzalAxcTluLUwtTjU5LXJBTVlyVWFuVWRHV0Q2MTh5d0dUX3ZEaHg?oc=5",
+        "source": "yna.co.kr",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "‘씨름 선수 아빠’ 닮은 19세 이현지… 첫 아시안게임서 값진 銀",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTzJ1cFFLOXl1LUUwRGV5NzdEV3JKWkppY2Zjc3dJQ3dlanVQRzJJZlZHVXVtZ3hLTW03Uzg2M3N5MHRDSFdhLUdYcTBtQUx4N24xOHl4eUVNQzZtVHFhWkNKS1V5SzVqS0QzcWhrNHVvV0Y0SW9TSGl2RjgzUUpxQVlnbHZ5UXkzakF3?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-02"
       }
     ]
   }
