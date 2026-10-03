@@ -354,6 +354,266 @@
           "date": "2026-10-03"
         }
       ]
+    },
+    "이동국": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-04T07:20:00+09:00",
+      "lastSeen": "2026-10-04T07:20:00+09:00",
+      "news": [
+        {
+          "title": "이동국 셋째 설아, 美 중학교 입학..언니 재시 이어 유학길 \"가족 다 흩어져\"",
+          "url": "https://v.daum.net/v/V3DxRWMVhA",
+          "source": "Daum",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "이동국 셋째딸 설아, 장녀 뉴욕행 포기하자 美 유학 결정..\"덜컥 입학\"[핫피플]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/03/GRRWGNJWHEYGIZJWMRRGMOJWMU/",
+          "source": "조선일보",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "스�� 가족 슬라이드",
+          "url": "https://m.news.nate.com/photoSlide/view?section=ent&clstId=1193922",
+          "source": "네이트",
+          "date": "2026-10-03"
+        }
+      ]
+    },
+    "원자력 발전소": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-04T07:20:00+09:00",
+      "lastSeen": "2026-10-04T07:20:00+09:00",
+      "news": [
+        {
+          "title": "트럼프 “알래스카에 인류 역사상 누구보다 많은 것 가져와”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8677313",
+          "source": "KBS 뉴스",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "\"한국 투자한다\" 또 일방 주장…\"기준은 단 하나\" 단호한 정부",
+          "url": "https://news.jtbc.co.kr/article/NB12321237",
+          "source": "JTBC",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "첫 수출 17년 만에 '종주국' 美 문 열��다…K원전 새 분기점",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812579",
+          "source": "뉴시스",
+          "date": "2026-10-03"
+        }
+      ]
+    },
+    "불": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-04T07:20:00+09:00",
+      "lastSeen": "2026-10-04T07:20:00+09:00",
+      "news": [
+        {
+          "title": "포천 플라스틱 재활용 공장서 화재…인명 피해 없어",
+          "url": "https://v.daum.net/v/20261003135900115",
+          "source": "Daum",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "재난문자",
+          "url": "https://d.kbs.co.kr/info/messageView?seq=205847&areaCd=50",
+          "source": "KBS 재난포털",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "경기 포천시 자원순환시설 불…2시간 만에 진화",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781991",
+          "source": "SBS 뉴스",
+          "date": "2026-10-03"
+        }
+      ]
+    },
+    "김다영": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-04T07:20:00+09:00",
+      "lastSeen": "2026-10-04T07:20:00+09:00",
+      "news": [
+        {
+          "title": "'배성재♥' 김다영 \"사진 한 장 때문에 임신 공개…올 연말 출산 예정\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6309969",
+          "source": "뉴스1",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "배성재, 48세에 아빠 된다…아내 김다영 아나운서 연말 출산",
+          "url": "https://www.yna.co.kr/view/AKR20260929185400005",
+          "source": "연합뉴스",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "`배성재♥` 김다영, 축구장서 강제 임밍아웃…\"천천히 말하려 했는데\"",
+          "url": "https://mydaily.co.kr/page/view/2026100222230546781",
+          "source": "마이데일리",
+          "date": "2026-10-03"
+        }
+      ]
+    },
+    "김소영": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-04T07:20:00+09:00",
+      "lastSeen": "2026-10-04T07:20:00+09:00",
+      "news": [
+        {
+          "title": "'오상진 판박이 子' 수호, 6개월 지나니 母 김소영 닮아가네…\"눈이 계속 내려가\" [RE:스타]",
+          "url": "https://v.daum.net/v/20261002101513014",
+          "source": "Daum",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "'오상진♥' 김소영, 6개월 아들 성격 테스트 했다 깜짝...\"엄마 연기가 부족했나\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-03/202610030100019530001054",
+          "source": "스포츠조선",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "김소영, '오상진 붕어빵' 子 얼굴 근황 \"요즘 눈 계속 내��가\"",
+          "url": "https://www.starnewskorea.com/star/2026/10/02/2026100207171394556",
+          "source": "스타뉴스",
+          "date": "2026-10-03"
+        }
+      ]
+    },
+    "송기윤": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-04T07:20:00+09:00",
+      "lastSeen": "2026-10-04T07:20:00+09:00",
+      "news": [
+        {
+          "title": "송기윤 아내 \"차량 형체도 없이 사라져\"…교통사고 후유증 전해",
+          "url": "https://www.nocutnews.co.kr/news/6586844",
+          "source": "노컷뉴스",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "74세 송기윤, 15세 연하 미모의 아내 공개",
+          "url": "https://www.newsis.com/view/NISX20261002_0003811637",
+          "source": "뉴시스",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "'74세' 송기윤, 15세 연하 미모 아내 공개…첫인상은 \"뚱뚱한 아저씨\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6308345",
+          "source": "뉴스1",
+          "date": "2026-10-03"
+        }
+      ]
+    },
+    "선수": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-04T07:20:00+09:00",
+      "lastSeen": "2026-10-04T07:20:00+09:00",
+      "news": [
+        {
+          "title": "양의지와 오타니의 공통점… 몸값보다 중요한 선수의 가치",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/03/FU2ASWZSDJCGRBUBGV3VCW5CPM/",
+          "source": "조선일보",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "'하현승 포함 12명' 키움, 6일 고척 KT전서 신인 환영 행사 '영웅의 첫걸음' 개최 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/03/2026100309223862082",
+          "source": "머니투데이",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "'괴물' 하현승, 키움 팬들 앞에서 첫 인사한다...6일 KT전 신인 환영회 개최",
+          "url": "https://www.osen.co.kr/article/G1112886373",
+          "source": "OSEN",
+          "date": "2026-10-03"
+        }
+      ]
+    },
+    "시어머니": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-04T07:20:00+09:00",
+      "lastSeen": "2026-10-04T07:20:00+09:00",
+      "news": [
+        {
+          "title": "고3 아들 방서 자고 가겠다는 시모…거절하니, 시누 \"너도 쫓겨날 것\" 막말",
+          "url": "https://www.news1.kr/society/general-society/6308693",
+          "source": "뉴스1",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "\"수능 앞둔 아들 거실서 재우라고?\"…시어머니 숙박 거절했다가 ‘싸가지’ 된 며느리",
+          "url": "https://www.newsis.com/view/NISX20261002_0003812891",
+          "source": "뉴시스",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "고3 아들 방서 자고 가겠다던 시모…거절 뒤 시누 막말",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=470302",
+          "source": "스페셜타임스",
+          "date": "2026-10-03"
+        }
+      ]
+    },
+    "1244 회 로또": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-04T07:20:00+09:00",
+      "lastSeen": "2026-10-04T07:20:00+09:00",
+      "news": [
+        {
+          "title": "1244회 로또복권 1등 18명…당첨금 16억469만 원",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261003.99099000624",
+          "source": "국제신문",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "[속보]로또 124회 당첨번호 '1·13·18·26·34·38'…보너스 25",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03306246645609312&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "[오늘 로또]로또 1244회 추첨 오후 9시35분께...아시안게임 축구 한일전 중계로 변경",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=925108",
+          "source": "남도일보",
+          "date": "2026-10-03"
+        }
+      ]
+    },
+    "후티": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-04T07:20:00+09:00",
+      "lastSeen": "2026-10-04T07:20:00+09:00",
+      "news": [
+        {
+          "title": "‘후티 전면전’ 계획 사우디 빈살만, 트럼프 지원 요청했지만 거절 당해",
+          "url": "https://v.daum.net/v/20261004035513226",
+          "source": "Daum",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "예멘 수도서 폭음…사우디 아람코 시설에서도 화염",
+          "url": "https://www.yna.co.kr/view/AKR20261003052200108",
+          "source": "연합뉴스",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "후티의 급성장과 중국의 위험한 '양다리'",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610031717285109",
+          "source": "YTN",
+          "date": "2026-10-03"
+        }
+      ]
     }
   },
   "sections": {
