@@ -2,10 +2,10 @@
   "date": "2026-10-04",
   "keywords": {
     "인도 대 브라질": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-10-04T00:59:00+09:00",
-      "lastSeen": "2026-10-04T00:59:00+09:00",
+      "lastSeen": "2026-10-04T04:10:00+09:00",
       "news": [
         {
           "title": "India vs Brazil: Friendlies stats & head-to-head",
@@ -24,14 +24,20 @@
           "url": "https://mashable.com/entertainment/india-brazil-international-friendly-2026-live-stream-for-free",
           "source": "Mashable",
           "date": "2026-10-03"
+        },
+        {
+          "title": "India vs. Brazil: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/india-vs-brazil-preview-predictions-lineups-10-3-26",
+          "source": "Sports Illustrated",
+          "date": "2026-10-03"
         }
       ]
     },
     "금융위기": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-10-04T00:59:00+09:00",
-      "lastSeen": "2026-10-04T00:59:00+09:00",
+      "lastSeen": "2026-10-04T04:10:00+09:00",
       "news": [
         {
           "title": "“주담대 금리 7.28%, 숨쉴수가 없습니다”…매일 돈 삭제된다는 미국상황",
@@ -49,6 +55,12 @@
           "title": "\"집 ���러 오는 사람 없다\"…美 주담대 7.28%, 세계 경제에도 부담",
           "url": "https://www.chosun.com/economy/int_economy/2026/10/02/HMTGJIKNRRH45FYXLFXDRIQ33A/",
           "source": "조선일보",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "“주담대 금리 7.28%, 숨쉴수가 없습니다”…매일 돈 삭제된다는 미국상황",
+          "url": "https://v.daum.net/v/20261003060300656",
+          "source": "Daum",
           "date": "2026-10-03"
         }
       ]
@@ -80,10 +92,10 @@
       ]
     },
     "박서진": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-10-04T00:59:00+09:00",
-      "lastSeen": "2026-10-04T00:59:00+09:00",
+      "lastSeen": "2026-10-04T04:10:00+09:00",
       "news": [
         {
           "title": "'살림남' 박서진, 본선 직전 초비상...박효정에 \"너 필요없어\" 분노",
@@ -102,14 +114,26 @@
           "url": "https://www.news1.kr/entertain/broadcast-tv/6307107",
           "source": "뉴스1",
           "date": "2026-10-03"
+        },
+        {
+          "title": "“응급 처치 해야 해”…박서진, ‘국중박 분장놀이’ 본선 당일 초비상 (살림남)",
+          "url": "https://sports.donga.com/ent/article/all/20261003/134779888/1",
+          "source": "스포츠동아",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "'국중박 분장놀이' 비하인드를 아시나요?",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3712676",
+          "source": "국제뉴스",
+          "date": "2026-10-03"
         }
       ]
     },
     "내일 날씨": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200000,
       "firstSeen": "2026-10-04T00:59:00+09:00",
-      "lastSeen": "2026-10-04T00:59:00+09:00",
+      "lastSeen": "2026-10-04T04:10:00+09:00",
       "news": [
         {
           "title": "내일 밤부터 전국 곳곳에 비…연휴 마지막 날엔 강풍 분다",
@@ -128,14 +152,26 @@
           "url": "https://www.ytn.co.kr/_ln/0108_202610031649014626",
           "source": "YTN",
           "date": "2026-10-03"
+        },
+        {
+          "title": "[뉴스9 날씨] 선선한 가을 날씨…곳곳 가을비",
+          "url": "https://v.daum.net/v/20261003214013432",
+          "source": "Daum",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "쌀쌀한 개천절, 낮 25도 안팎…맑다가 오후부터 구름 많아져",
+          "url": "https://www.khan.co.kr/article/202610030815001",
+          "source": "경향신문",
+          "date": "2026-10-03"
         }
       ]
     },
     "weather tomorrow": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-10-04T00:59:00+09:00",
-      "lastSeen": "2026-10-04T00:59:00+09:00",
+      "lastSeen": "2026-10-04T04:10:00+09:00",
       "news": [
         {
           "title": "Monsoon withdrawal advances Saturday: Rain expected in south, northeast",
@@ -158,10 +194,10 @@
       ]
     },
     "이주승": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-10-04T00:59:00+09:00",
-      "lastSeen": "2026-10-04T00:59:00+09:00",
+      "lastSeen": "2026-10-04T04:10:00+09:00",
       "news": [
         {
           "title": "\"통장 텅장돼\" 이주승, 1억 기부하고 성수동 새 집 이사..천우희와 첫 집들이 [핫피플]",
@@ -184,10 +220,10 @@
       ]
     },
     "mbc": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-10-04T00:59:00+09:00",
-      "lastSeen": "2026-10-04T00:59:00+09:00",
+      "lastSeen": "2026-10-04T04:10:00+09:00",
       "news": [
         {
           "title": "Swift Current, Sask., man charged with sexual assault as RCMP look for more victims",
@@ -210,10 +246,10 @@
       ]
     },
     "유재석": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-10-04T00:59:00+09:00",
-      "lastSeen": "2026-10-04T00:59:00+09:00",
+      "lastSeen": "2026-10-04T04:10:00+09:00",
       "news": [
         {
           "title": "유재석, 명절에 한우 100여명 보낸다더니 \"주소 취합해 우체국 가서 붙이면 돼\" (핑계고)",
@@ -231,6 +267,12 @@
           "title": "‘부산 남자’ 정용화, 알고보니 잠실 출생..유재석 “니는 뭐고?” 배신감 (핑계고) - 조선비즈",
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/03/G4ZWINJZMJQWKYZWGVRDSMBXGM/",
           "source": "Chosunbiz",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "100명에 한우 선물하는 유재석…주우재 \"나도 받았다\"",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813604",
+          "source": "뉴시스",
           "date": "2026-10-03"
         }
       ]
@@ -257,6 +299,58 @@
           "title": "‘나솔사계’ 7기 옥순, 미스터 서에 흔들⋯14기 영자는 거리두기",
           "url": "https://www.etoday.co.kr/news/view/2632012",
           "source": "이투데이",
+          "date": "2026-10-03"
+        }
+      ]
+    },
+    "croatia vs england": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-04T04:10:00+09:00",
+      "lastSeen": "2026-10-04T04:10:00+09:00",
+      "news": [
+        {
+          "title": "Croatia vs England: UEFA Nations League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cm046w9zdkrwt",
+          "source": "BBC",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "Croatia v England buildup; tempers flare at Ireland v Israel press conference – as it happened",
+          "url": "https://www.theguardian.com/football/live/2026/oct/03/england-scotland-nations-league-action-manchester-city-latest-matchday-live",
+          "source": "The Guardian",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "On video: Gordon finally beats Livaković, and Saka contributes to Croatia's festival | Goal.com India",
+          "url": "https://www.goal.com/en-in/news/video-gordon-finally-beats-livakovic-as-saka-contributes-to-croatia-s-goal-fest/bltc1ce82010f5dbc4b",
+          "source": "Goal.com",
+          "date": "2026-10-03"
+        }
+      ]
+    },
+    "크로아티아 대 잉글랜드": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-04T04:10:00+09:00",
+      "lastSeen": "2026-10-04T04:10:00+09:00",
+      "news": [
+        {
+          "title": "`쏘니 나 기록 도전해`…`골골골골골골골` 케인, 잉글랜드 역대 네 번째 원정 6경기 연속골 도전",
+          "url": "https://www.mydaily.co.kr/page/view/2026100319453836161",
+          "source": "마이데일리",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "크로아티아 대 잉글랜드 (10월 4일 0시): 맨체스터 시티 스캔들 와중에 펼쳐지는 맞대결.",
+          "url": "https://www.vietnam.vn/ko/croatia-anh-00h00-ngay-4-10-dai-chien-trong-con-bao-be-boi-man-city",
+          "source": "Vietnam.vn",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "네이션스 리그 크로아티아 대 잉글랜드 경기 점수 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-croatia-vs-anh-tai-nations-league-1776662.ldo",
+          "source": "Laodong.vn",
           "date": "2026-10-03"
         }
       ]
@@ -1433,6 +1527,42 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSk9NOFFPWXZEanVxRXBxaURYRVlkMFg4a25TcTZwRDR5ckg3anZEYUp0LXdVYVBiTEZZM2x4NDFuX3c3TktrblRoS3RmbkRJa3c3UnQ5MG45c2NEbk5sYkFucTZCWTZBRU9melRoblRVTC1KbGtpOEdIcDdTaEg0OFY2Zw?oc=5",
         "source": "ZUM 뉴스",
         "date": "2026-10-02"
+      },
+      {
+        "title": "서채현, 아시안게임 스포츠클라이밍 리드 금메달…한국 대표팀 8년 만의 정상",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VQUstVGZNU0h6cHFadUZaN0VWcDI5T1JPSnQxUnFrRFF2N0NGT1QwbU5wWU9Jekp1MGdNT01aRUlyanZFMTRXRWpTZC1MZmlLMGJIMnlnOHI5cmtRUDlPaEcwQ0lmaG8?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "[아시안게임] 김주형 \"타이거 우즈가 보낸 응원 메시지가 큰 힘이 됐다\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVdUJTei1lVVpqWE9YUm9NckEyellKaVlQLVpmZUJFaExxeHh0LWtyLVZoQmtxMVNOZ1d6RG56QjN6WG1lMTdNVGFTNHZMNkpYV3ZROVRqd3BWTzTSAWBBVV95cUxPdEtEeDM5R0VLUnliMDhDakhNa3REWUcyMXp4Rk95eU50Y19WLUlyeGdiVENrdmNVSHJGNGNSd09YUW9NRkJaVXZfLTk5R3lmZ0w0NzF2QU5UTVFCMS1ERHA?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "[아시안게임] 양궁 남자 리커브 이우석, 개인전도 금‥대회 2관왕",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTYmtYVk5yM0ZEcjZvVTI2MXh5VVYxVTFtdVl1SDVpajVhQjhuS054NTB5OEgwZkZYbXFJajNvR3drbVRKOGl1TGNJZlJON1RIdl8xenBFS2g2alFOUmZBWWZFVU5jNGcwcExyTVdFNXprb1F2RGfSAXZBVV95cUxPYjhDVVBITm5XTHhPeVQ0d2pFZmNHUU9ISDZVUjB2ZzFsTm0zeG5KeHh5SExJSm1wVXVvZW9rWVBsZldvZk9MdDdSbGlKMDVmaU9pZFNfNjlQUWUyLW9nMWw1dW5ua3pNMlpyV2prZlI2amFHYnBn?oc=5",
+        "source": "MBC 뉴스",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "\"민재 말이 다 맞다\" 축구화 던진 후배 향해 고개 숙인 캡틴 손흥민 \"공격수들이 미안해\"",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hVmV6MkpUbTA2NVlvMV95YUZHRlVnY0RZdjZzNHdrV1gyaGJRREVqaHljQVJsY05icWExZHBCSmlrMGcxZUVPZFZGUUlzY2c?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "요트: 하지민, 4번째 아시안게임 금메달 획득하고 6번째 올림픽 향한 항해 시작 [아이치-나고야 2026]",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0Q0cFhaTklPZl94WXRyRkI2SmVMODFhWWdtbEk5eGswQ0pjak1zMzlGQUROY1NQcVBQejVZVi1PV3RxNGdzVV96blBnV092ZmhSWUhjQ2stbnBUVVZmUjJ5TmFmOExIMGR4X3ctOTFJQVppQU82UTl5RllMa1IwVlRWQmxpbThCblcxSC16VXF3cDdrSTkxVVVjb2N4dDQzbTFKWXctUFpTalVNbGhicw?oc=5",
+        "source": "olympics.com",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "아시안게임 사격 2관왕 이건혁 금메달 해프닝과 귀국 현장",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XV1MxakJWN1UtV2RBZG5Va3l5VGhtZkFhUVE0NTZlbUFZMXltazh2YzZ2SjlWWjB6UVE5VU10QTYtVDkyRDU0aVFnbUhQYzZRTF9NSE1HVnVLVkVKOVZ4TVdmRWMwY1Ju?oc=5",
+        "source": "2news.co.kr",
+        "date": "2026-10-03"
       }
     ]
   }
