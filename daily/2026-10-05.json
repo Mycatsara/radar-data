@@ -260,6 +260,266 @@
           "date": "2026-10-04"
         }
       ]
+    },
+    "당구": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-05T06:48:00+09:00",
+      "lastSeen": "2026-10-05T06:48:00+09:00",
+      "news": [
+        {
+          "title": "11월 ‘당구메카=양구’는 초대형 당구축제의 장…3쿠션월드컵, 전국대회, 디비전리그 열려",
+          "url": "https://mkbn.mk.co.kr/news/sports/12167174",
+          "source": "mkbn.mk.co.kr",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "고성군, 국내 최정상 당구선수 총출동…'2026 경남고성군수배 전국당구대회'개최",
+          "url": "http://www.gnen.net/news/articleView.html?idxno=176287",
+          "source": "경남경제",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "'2000만원→500만원' 무슨 일이?…'고성군수배' 우승 상금 왜 줄었나",
+          "url": "https://www.thebilliards.kr/news/articleView.html?idxno=32048",
+          "source": "빌리어즈",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "택시": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-05T06:48:00+09:00",
+      "lastSeen": "2026-10-05T06:48:00+09:00",
+      "news": [
+        {
+          "title": "\"한국인 싫어\" 짐 내던진 대만 택시기사…5만원 내고 22만원짜리 식사한 커플[주간HIT영상]",
+          "url": "https://www.news1.kr/society/general-society/6309358",
+          "source": "뉴스1",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "한국인이라며 승차 거부한 대만 택시기사…짐 내던지고 \"배신자 나라\"",
+          "url": "https://news.jtbc.co.kr/article/NB12320804",
+          "source": "JTBC",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "\"한국 싫어\" 짐 던진 대만 택시, 현지서도 '시끌'…검찰, 입 열어",
+          "url": "https://v.daum.net/v/20261002193513662",
+          "source": "Daum",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "대청봉": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-05T06:48:00+09:00",
+      "lastSeen": "2026-10-05T06:48:00+09:00",
+      "news": [
+        {
+          "title": "설악산 대청봉서 추락한 60대…비번 소방관이 목숨 살렸다",
+          "url": "https://v.daum.net/v/20261004122713936",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "설악산 대청봉서 등산객 추락 사고…비번 광주 소방관이 살려",
+          "url": "https://www.yna.co.kr/view/AKR20261004014900054",
+          "source": "연합뉴스",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "설악산 추락 등산객…비번 소방관·간호사가 응급처치·구조",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261004112514yEt",
+          "source": "연합뉴스TV",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "김대호": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-05T06:48:00+09:00",
+      "lastSeen": "2026-10-05T06:48:00+09:00",
+      "news": [
+        {
+          "title": "김대호, 소속사 원헌드레드레이블 분쟁 심경..\"짜증 많이 나\"",
+          "url": "https://v.daum.net/v/20261004164501219",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "김대호, 소속사 원헌드레드 사태에 우회 심경 \"많이 짜증나\"[스타이슈]",
+          "url": "https://www.starnewskorea.com/star/2026/10/04/2026100415062560084",
+          "source": "스타뉴스",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "김대호, 원헌드레드 논란 속 불만 터졌나…\"짜증 많이 나죠\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-04/202610040100027650001718",
+          "source": "스포츠조선",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "관리 종목": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-05T06:48:00+09:00",
+      "lastSeen": "2026-10-05T06:48:00+09:00",
+      "news": [
+        {
+          "title": "\"이러다 돈줄 다 막힐 판\"…신약 만들던 기업들 '초비상'",
+          "url": "https://www.hankyung.com/article/2026100425911",
+          "source": "한국경제",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "[신간] 헌트-FcRn과 이뮤노반트",
+          "url": "https://www.medigatenews.com/news/1827407409",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "아주대의료원 “병원 중심 신약개발 플랫폼 승부”…발굴·임상 잇는 허브로",
+          "url": "https://www.etnews.com/20260922000397",
+          "source": "전자신문",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "신지애": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-05T06:48:00+09:00",
+      "lastSeen": "2026-10-05T06:48:00+09:00",
+      "news": [
+        {
+          "title": "신지애, 일본 투어 30승...영구 시드에 커리어 그랜드슬램까지 달성",
+          "url": "https://www.chosun.com/sports/golf/2026/10/04/SZ6AFLKM55HINHAVUESOUTLQA4/",
+          "source": "조선일보",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "신지애, 일본여자오픈골프 우승…30승·커리어 그랜드 슬램 달성",
+          "url": "https://www.yna.co.kr/view/AKR20261004040100007",
+          "source": "연합뉴스",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "신지애, 일본 메이저 4개 대회 석권…통산 30승, 영구 시드 획득",
+          "url": "https://www.hani.co.kr/arti/sports/golf/1280878.html",
+          "source": "한겨레",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "로스앤젤레스 다저스": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-05T06:48:00+09:00",
+      "lastSeen": "2026-10-05T06:48:00+09:00",
+      "news": [
+        {
+          "title": "스쿠벌 6이닝 1실점 다저스, NLDS 기선 제압…김하성 1볼넷",
+          "url": "https://www.yna.co.kr/view/AKR20261004006800007",
+          "source": "연합뉴스",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "선제 2점 포 날리는 테오스카 에르난데스",
+          "url": "https://www.newsis.com/view/NISI20261004_0002255311",
+          "source": "뉴시스",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "'와, 이것도 잡네?' 美 중계진, 김하성 호수비에 감탄 폭발...\"눈부신 수비, 정말 큰 아웃카운트 올렸다\"",
+          "url": "https://v.daum.net/v/20261005000313065",
+          "source": "Daum",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "국민연금공단": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-05T06:48:00+09:00",
+      "lastSeen": "2026-10-05T06:48:00+09:00",
+      "news": [
+        {
+          "title": "국민연금, 코스닥 투자 100조 넘어…다른 공적연금은 '미미'",
+          "url": "https://v.daum.net/v/20261004060732402",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "국민연금, 코스닥 투자액 10조원 넘어...국내 주식 투자 비중은 2%대",
+          "url": "https://www.fnnews.com/news/202610041507185563",
+          "source": "파이낸셜뉴스",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "국민연금, 코스닥 투자 10조 돌파…비중은 2%대",
+          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005931552",
+          "source": "매일경제TV",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "bồ đào nha đấu với na uy": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-05T06:48:00+09:00",
+      "lastSeen": "2026-10-05T06:48:00+09:00",
+      "news": [
+        {
+          "title": "Trực tiếp bóng đá Bồ Đào Nha - Na Uy: 10 người bảo vệ thành quả (Nations League) (Hết giờ)",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-bo-dao-nha-na-uy-no-chong-them-no-nations-league-c48a1800021.html",
+          "source": "Tin tức 24h",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "Ronaldo thích bài viết chỉ trích HLV Jesus",
+          "url": "https://vnexpress.net/ronaldo-thich-bai-viet-chi-trich-hlv-jesus-5127916.html",
+          "source": "VnExpress",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "Ngày 4 tháng 10: Cuộc đàm phán ba bên sắp diễn ra! Liên đoàn bóng đá hy vọng Ronaldo sẽ trở lại cho trận đấu chia tay sự nghiệp, nhưng người hâm mộ cho rằng: Anh ấy không chỉ muốn giải nghệ ở đây",
+          "url": "https://ngoisao.vn/hau-truong/chuyen-lang-sao/ngay-4-thang-10-cuoc-dam-phan-ba-ben-sap-dien-ra-lien-doan-bong-da-hy-vong-ronaldo-se-tro-lai-cho-tran-dau-chia-tay-su-nghiep-nhung-nguoi-ham-mo-cho-rang-anh-ay-khong-chi-muon-giai-nghe-o-day-d493232.html",
+          "source": "Ngôi Sao VN",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "엔비디아 테슬라": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-05T06:48:00+09:00",
+      "lastSeen": "2026-10-05T06:48:00+09:00",
+      "news": [
+        {
+          "title": "\"엔비디아·테슬라 다 팔았다\"…부자들 새로 베팅한 종목",
+          "url": "https://www.hankyung.com/article/2026100426701",
+          "source": "한국경제",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "美 증시 사상 ��고치의 착시…AI 빼면 이미 구멍 숭숭[디브리핑]",
+          "url": "https://v.daum.net/v/20261004104144540",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "비만 치료제 덕에 美 여성 취업 증가 의료 일자리 급증",
+          "url": "https://www.chosun.com/economy/weeklybiz/2026/10/04/NWFMVKZBVJGKTCXCKCCLHUIUUU/",
+          "source": "조선일보",
+          "date": "2026-10-04"
+        }
+      ]
     }
   },
   "sections": {
@@ -1348,6 +1608,60 @@
         "title": "“尹이 왜 아시안게임에?”… 사격 경기장에서 찍힌 ‘닮은꼴’ 中 코치",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wRHJWT09nUmtLaDhWQkQwd2tLRlBvamtPUEFkMmFFalo2ZlFRc2d1ekh6MWYzaU9PNFIxMnkyUFhKOTFaQ1lqaHp5UUJ5ZjJS?oc=5",
         "source": "문화일보",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "유승민, '아시안게임 군면제 논란'에 \"제도 문제, 폐지 옳다\"",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZWXFERVNabF9lc0YtVnNOSk4zSjZJaDBrNXNUa3Q4RlFVdDNGa2dIVHlVYzRSTTRZb2hYcHVJRW5mbjh6SVJsb1ZzSENpOU1ob1VqUXRHRmtldw?oc=5",
+        "source": "한국경제",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "금메달 ‘환희’ 노메달 ‘좌절’…‘희·로·애·락·경’의 아시안게임",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rWnpKU3RVdl94REpzQU0yMGM3Wmd1R0pKcTV4Qmd5SlM0dF84R2dXdDQzUDZ3NFdwakt1SWRUODdQY19vVnVLLUFEVkV0TnAxNnA4eVJRdU5UdmltanlRaXJxYUlnbnZlUzIzcGFzVHdZYVItdVA0?oc=5",
+        "source": "한겨레",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "‘LPGA 메이저 퀸’ 유해란, 세 번째 ‘메이저 왕관’은 국내에서",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vc1NQWTFMRDljTUlvcjk4M3ZTd25WM1dWTkRKUzh5NXFEQ204b0plSnlHbzl5Qk5SNnRNV3JJcXJGemlEa25uT1VhV1Awc09OT1dLcUQ0RnkyTVpjVGM5YnhIZG9PdmJwc29hdEtCSklCdVNN0gFmQVVfeXFMUEtzR19KMWI5Z0RDMHZhWTljbGJ1LWx5M3pVT3FDczl1clpXaExIUjdmYVVaWW5IVlhRbG5vWXEtR3pkdDAtM0pDTjltTXhOVGpCRl85TEpWWG5xNFRWSUFtbi1menJn?oc=5",
+        "source": "동아일보",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "LPGA 우승 향한 윤이나, 세계2위 티띠꾼과 최종일 챔피언조 맞대결 [롯데 챔피언십]",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RQnFUOWd3azZfSmtvMXBIcW83ZjhGeUFJbjVGNnEwb1dhSDZOQ3kxemhhb1pRWERHcE5sRmpGZjBDM0liMkhEeW9YM2g4RW9CbDQzWFlLU1dYYTh4UTlIaVd1bTI1N1pJcUtKS2JXMDJzb2YtX2VBWtIBfEFVX3lxTFBZTldLUkhIbzdTOU1YcC1raE5rRjVEclpYNTZpTUtUeE5LZXpaRFJHTWstd3F2MkpiaVFHdEdzRmJzSHdxMGR1Zzd0UnFNS2xscXZhdndzdll3eWJQWms1ck44TzA5OWJjUjI1TUJvTWZxU25rRF85UTBtNkE?oc=5",
+        "source": "골프한국",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "‘요트 레전드’ 하지민, 통산 4번째 金 [2026 아이치 나고야 아시안게임 폐막]",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4LWU4dktxX21nbjQ1WXBxZEU0TmhRSmcwV3YxYzRDNTNkdUlQUVhqYXJnV1FfbC02eVlTRVd4STFsOVFiNTN3Q2xFWFRDOWpQc2dJWTRRa1bSAVRBVV95cUxPZnF5MElJdy1QTVhCcFB2WjAwM3ljbEF4ZEs2OW5lXzZCby1uZW5BS0ktR1AybmkzY2x2Tk1vWmxrZjJEN0hXZlRzaXRUOS02M09CNGo?oc=5",
+        "source": "세계일보",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "[아시안게임] 송다빈, 태권도 겨루기 첫 金…여자 67㎏초과급 정상",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yVlJwUVlSdjBMd3JrZ2RQeWIxbUtUTlRqam4wLVVCeThwY1pOTWphZDAtRnliazNLYzdTLUJnSEVjbEJiNnlsR1VwMExwR2xXaXEyQlBxS0hfbENCV1Q0S2JaVGVGSm1zc2FBWTRGYUZJcFNtdVVVcm14M28?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "[아이치·나고야 AG] 日 올림픽위원회장, 아시안게임 폐막 하루 앞두고 '파행 운영' 사과",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JYWVIcHR4RnlURXoxeENISU01LVZEX0hGaktURExFZlpRNkM3b0lZVGxGWWYtMlczbHowempoZEx1YUFUUXROczg1dDJqdU5NZE56RUtwSGtIaUlranhMNw?oc=5",
+        "source": "news.nate.com",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "권오을 “허미미 너무 자랑스러워…한국에 커다란 감동·자긍심 안겨”",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyejRDY1NkZGZJa25zaGFYbTlvRTNSZjc0RzdOck5ZaDBGUzdRWjdZN1lfNzlpMVQ1VHZvSUluUFRmcXZjWWFwcDkwS1hMR2Zm?oc=5",
+        "source": "munhwa.com",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "[영상] \"나이는 상관없다\"…은퇴 질문에 페이커가 내놓은 '진짜 속마음'",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IbVRqUDBMcllzZzhuVktENjRyYmZYb21objhjZHN4TjF2eGg0UmN6dEhEOGFPYkx3ZEpIOTg4d3lxR0NvSUd6bWJrNTY0ZzhBQzNJVzI4REs4T2c?oc=5",
+        "source": "경기일보",
         "date": "2026-10-03"
       }
     ]
