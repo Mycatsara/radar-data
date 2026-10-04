@@ -130,10 +130,10 @@
       ]
     },
     "내일 날씨": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 200000,
       "firstSeen": "2026-10-04T00:59:00+09:00",
-      "lastSeen": "2026-10-04T04:10:00+09:00",
+      "lastSeen": "2026-10-04T22:48:00+09:00",
       "news": [
         {
           "title": "내일 밤부터 전국 곳곳에 비…연휴 마지막 날엔 강풍 분다",
@@ -168,10 +168,10 @@
       ]
     },
     "weather tomorrow": {
-      "count": 2,
+      "count": 3,
       "maxTraffic": 2000,
       "firstSeen": "2026-10-04T00:59:00+09:00",
-      "lastSeen": "2026-10-04T04:10:00+09:00",
+      "lastSeen": "2026-10-04T22:48:00+09:00",
       "news": [
         {
           "title": "Monsoon withdrawal advances Saturday: Rain expected in south, northeast",
@@ -190,6 +190,18 @@
           "url": "https://www.india.com/news/india/weather-tomorrow-october-3-rain-thunderstorms-alert-for-10-states-check-imd-forecast-for-delhi-uttar-pradesh-odish-himachal-karnataka-8532476/",
           "source": "India.com",
           "date": "2026-10-03"
+        },
+        {
+          "title": "Kauai Weather Forecast for October 04, 2026",
+          "url": "https://kauainownews.com/2026/10/03/kauai-weather-forecast-for-october-04-2026/",
+          "source": "Kauai Now",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "Kauai Weather Forecast for October 03, 2026",
+          "url": "https://kauainownews.com/2026/10/02/kauai-weather-forecast-for-october-03-2026/",
+          "source": "Kauai Now",
+          "date": "2026-10-04"
         }
       ]
     },
@@ -1125,6 +1137,214 @@
           "title": "김재윤 대신 뒷문 잠근 이승민…국민 유격수의 극찬 “올해 가장 성장, 믿음이 간다” [오!쎈 대구] - 머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/10/04/202610041156773274O",
           "source": "머니투데이",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "과즙세연": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-04T22:48:00+09:00",
+      "lastSeen": "2026-10-04T22:48:00+09:00",
+      "news": [
+        {
+          "title": "'마약 혐의' 과즙세연, 하루 만에 돈방석 앉았다..엑셀 방송 '1억' 잭팟 [Oh!쎈 이슈]",
+          "url": "https://v.daum.net/v/8XrFCkb0TD",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "'마약류 위반 혐의' 과즙세연, 복귀 방송 하루 만에 후원금 1억 2천만 원",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3712710",
+          "source": "국제뉴스",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "마약 조사 받�� 과즙세연, 엑셀방송 오픈…1억 후원 터졌다",
+          "url": "https://www.hankyung.com/article/2026100422077",
+          "source": "한국경제",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "허미미": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-04T22:48:00+09:00",
+      "lastSeen": "2026-10-04T22:48:00+09:00",
+      "news": [
+        {
+          "title": "유도 대표팀, 혼성단체전 준결승서 카자흐에 패배…결승 실패 [AG 영상]",
+          "url": "https://v.daum.net/v/YGAWKbrNUB",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "허미미 \"할머니께 금메달 보여드리면 좋아하시겠죠\"",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610041354458002",
+          "source": "YTN",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "2026 아이치-나고야 아시안게임",
+          "url": "https://m.imbc.com/VOD/VodView?progCode=1006923100000100000&broadcastID=1006923101266100001&type=Clip",
+          "source": "MBC",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "thời tiết ngày mai": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-04T22:48:00+09:00",
+      "lastSeen": "2026-10-04T22:48:00+09:00",
+      "news": [
+        {
+          "title": "[Video] Dự báo thời tiết đêm nay và ngày mai 5/10/2026: Bắc Bộ đón không khí lạnh, Trung Bộ mưa lớn",
+          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-5102026-bac-bo-don-khong-khi-lanh-trung-bo-mua-lon-post992862.html",
+          "source": "Báo Nhân Dân điện tử",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "Thời tiết Hà Nội chuyển mát, người dân tranh thủ xuống phố tận hưởng",
+          "url": "https://laodong.vn/short-video/thoi-tiet-ha-noi-chuyen-mat-nguoi-dan-tranh-thu-xuong-pho-tan-huong-1777408.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "Miền Bắc chuyển lạnh và mưa dông do ảnh hưởng của không khí lạnh",
+          "url": "https://voh.com.vn/thoi-tiet/mien-bac-chuyen-lanh-va-mua-dong-do-anh-huong-cua-khong-khi-lanh-671493.html",
+          "source": "VOH",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "머스캣": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-04T22:48:00+09:00",
+      "lastSeen": "2026-10-04T22:48:00+09:00",
+      "news": [
+        {
+          "title": "\"3만원 주고 사 먹었는데 1년 만에\"…'귀족 과일'의 반전",
+          "url": "https://www.hankyung.com/article/2026100425811",
+          "source": "한국경제",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "'싸서 자주 사 먹었는데'…5년새 71% 폭락하자 농가들 결국",
+          "url": "https://v.daum.net/v/20261004071059165",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "'금포도' 옛말 된 샤인머스캣…공급과잉·품질저하에 재배 감소",
+          "url": "https://www.yna.co.kr/view/AKR20261003020600030",
+          "source": "연합뉴스",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "김준호": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-04T22:48:00+09:00",
+      "lastSeen": "2026-10-04T22:48:00+09:00",
+      "news": [
+        {
+          "title": "'김지민♥︎' 김준호, 2세 '두릅이' 생각뿐..108배에 담은 뭉클한 부성애 ('독박투어') - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/04/GIZTGOBQGFRGIMTEMVTGMYZUGI/",
+          "source": "Chosunbiz",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "박영진 \"RM, 김천 직지사 템플스테이 후 BTS 빌보드 올라\"",
+          "url": "https://www.newsis.com/view/NISX20261004_0003813839",
+          "source": "뉴시스",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "‘독박투어’ 유세윤, 벌칙으로 시작했는데 뭉클… “멤버들 소원이 내 소원”",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3437736",
+          "source": "천지일보",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "롯데 자이언츠": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-10-04T22:48:00+09:00",
+      "lastSeen": "2026-10-04T22:48:00+09:00",
+      "news": [
+        {
+          "title": "'삼성 떨고 있나' 1위팀 에이스 파격 선언! 완봉승→3일 휴식→삼성전 불펜 자청하다 “우승만 할 수 있다면 다승왕 쯤이야...”",
+          "url": "https://v.daum.net/v/K7f3x5aelh",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "'와' 삼성 지고 KT 비겼는데→우승 매직넘버 2 됐다! 롯데와 2-2 무승부에도 KS 직행 성큼 '손동현-박영현-스기모토 릴레이 호투' [수원 리뷰]",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/04/GQZTANRVGM2DCN3DGRQWINDCGI/",
+          "source": "조선일보",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "ERA 18.00 롯데 2년차 '3이닝 무실점' 호투, 외인 부상→영봉패에도 김태형 감독 웃게 했다 \"좋은 걸 가졌다\" [수원 현장] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/04/2026100414230582420",
+          "source": "머니투데이",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "유도": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-04T22:48:00+09:00",
+      "lastSeen": "2026-10-04T22:48:00+09:00",
+      "news": [
+        {
+          "title": "[아시안게임] 유도 정수진, 계체 실격 폭로 \"대상 아니라고 해서 음식 섭취\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261004033751007",
+          "source": "연합뉴스",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "[단독] 유도 감독, AG 코앞 정수진 교체 시도…선수 부실관리 논란",
+          "url": "https://v.daum.net/v/20261004181858783",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "‘랜덤 계체 실격’ 정수진 “대상 아니라는 지도자 말에 식사했다”",
+          "url": "https://www.donga.com/news/Sports/article/all/20261004/134783414/1",
+          "source": "동아일보",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "김주하": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-04T22:48:00+09:00",
+      "lastSeen": "2026-10-04T22:48:00+09:00",
+      "news": [
+        {
+          "title": "\"난 인복 많아\"...황제성, 부친 '빚투 논란' 언급 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/04/2026100323234121041",
+          "source": "머니투데이",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "김주하 \"앵커 선배, 뉴스 진행 1시간 전 모친상…입은 웃고 눈은 울더라\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6310030",
+          "source": "뉴스1",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "김준현, 김주하 \"돼지 귀\" 돌직구에 발끈..급기야 방송 중단 요청 [데이앤나잇]",
+          "url": "https://v.daum.net/v/f7VDSjpXWO?f=p",
+          "source": "Daum",
           "date": "2026-10-04"
         }
       ]
