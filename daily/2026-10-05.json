@@ -520,6 +520,266 @@
           "date": "2026-10-04"
         }
       ]
+    },
+    "미운 우리 새끼": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-05T09:33:00+09:00",
+      "lastSeen": "2026-10-05T09:33:00+09:00",
+      "news": [
+        {
+          "title": "'조윤희와 이혼' 이동건, 결혼할 때 산 가구 그대로 사용 \"원래 내 거라...\"('미우새')",
+          "url": "https://v.daum.net/v/20261004223959591",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "'미우새' 김희철 \"결혼 비관적일 수밖에 없어…내 주변 다 이런데\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6310277",
+          "source": "뉴스1",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "이동건, 이혼 후에도 ‘결혼 혼수’ 그대로 쓴다…\"원래 내 거라 다 쓴다\" ('미우새')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/04/GYYTONBRHA3DKYJXGEZDEZBUGA/",
+          "source": "조선일보",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "김성근": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-05T09:33:00+09:00",
+      "lastSeen": "2026-10-05T09:33:00+09:00",
+      "news": [
+        {
+          "title": "'불꽃야구 시즌2' 이대은 감기에 이대호 부상...연패 탈출 '위기'",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3712972",
+          "source": "국제뉴스",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "불꽃야구2 불꽃 파이터즈, 연패 위기 속 ‘한 방’ 기다린다",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16238323",
+          "source": "TopStarNews",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "‘불꽃야구2’ 불꽃 파이터즈, 대학 국가대표팀과 맞대결",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3437342",
+          "source": "천지일보",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "교사": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-05T09:33:00+09:00",
+      "lastSeen": "2026-10-05T09:33:00+09:00",
+      "news": [
+        {
+          "title": "일본 교사 ‘긴 노동ㆍ낮은 보상’⋯만족도 추락하자 학자금까지 지원",
+          "url": "https://v.daum.net/v/20261004070103950",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "일본의 역설: 아동 수는 감소하고 있지만, 교사는 여전히 부족하다.",
+          "url": "https://www.vietnam.vn/ko/nghich-ly-nhat-ban-tre-em-giam-giao-vien-van-thieu",
+          "source": "Vietnam.vn",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "\"요즘 누가 하려고 해요\"…주 50시간 일하는데 급여는 낮아, 만족도 '꼴찌'라는 日 '이 직업'",
+          "url": "https://view.asiae.co.kr/article/2026093014340250143",
+          "source": "아시아경제",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "구속": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-05T09:33:00+09:00",
+      "lastSeen": "2026-10-05T09:33:00+09:00",
+      "news": [
+        {
+          "title": "\"범인은 현직 경찰\"…임용 전부터 이어온 '끔찍 범행'",
+          "url": "https://v.daum.net/v/20261004203305565",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "AI로 성착취물 제작·유포...20대 현직 경찰관 구속",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610041521057409_005.html",
+          "source": "YTN",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "현직 경찰 휴대전화서 불법 영상물 5600개… 잠입수사에 덜미",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3437762",
+          "source": "천지일보",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "lpga": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-05T09:33:00+09:00",
+      "lastSeen": "2026-10-05T09:33:00+09:00",
+      "news": [
+        {
+          "title": "Meet the 15 Epson Tour players who earned LPGA cards for 2027",
+          "url": "https://sports.yahoo.com/articles/meet-15-epson-tour-players-225717126.html",
+          "source": "Yahoo Sports",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "Guce, Ardina make promising starts",
+          "url": "https://tribune.net.ph/2026/10/02/guce-ardina-make-promising-starts",
+          "source": "Daily Tribune",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "Epson Tour Championship Highlights Women’s Golf, Coachella Valley Invitational Returns, Firebirds Add Devin Kaplan",
+          "url": "https://www.nbcpalmsprings.com/sports/2026/10/01/epson-tour-championship-highlights-womens-golf-coachella-valley-invitational-returns-firebirds-add-devin-kaplan",
+          "source": "NBC Palm Springs",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "나는 solo": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-05T09:33:00+09:00",
+      "lastSeen": "2026-10-05T09:33:00+09:00",
+      "news": [
+        {
+          "title": "'식탐' 지적받은 '나는 솔로' 33기 영수 \"부족한 모습…개선하도록 노력\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6309937",
+          "source": "뉴스1",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "\"라방 안 나왔는데 협찬 왜 받아\" 33기 영수, 불참 구설에 입 열었다…\"좋은 모습으로 인사 원해\"",
+          "url": "https://v.daum.net/v/20261004063146800",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "오리탕 집착 33기 영수 \"부족하고 미흡한 모습 보였다\"",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813438",
+          "source": "뉴시스",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "임신": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-05T09:33:00+09:00",
+      "lastSeen": "2026-10-05T09:33:00+09:00",
+      "news": [
+        {
+          "title": "'배성재♥' 김다영 \"사진 한 장 때문에 임신 공개…올 연말 출산 예정\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6309969",
+          "source": "뉴스1",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "'이긴자로'였던 배성재 \"아내 김다영 관리 덕에 100kg→85kg 감량\"",
+          "url": "https://v.daum.net/v/20261004112945293",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "배성재, 12월 아빠 된다 “아이는 나 1g도 안 닮았으면”",
+          "url": "https://sports.donga.com/ent/article/all/20261005/134785250/1",
+          "source": "스포츠동아",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "100일의 거짓말": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-05T09:33:00+09:00",
+      "lastSeen": "2026-10-05T09:33:00+09:00",
+      "news": [
+        {
+          "title": "공들이는 '100일의 거짓말' 오늘(3일) 스페셜 예능 출격",
+          "url": "https://v.daum.net/v/20261003220504796",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "김유정 등장에 스태프들 주머니 간수..왜? \"생각보다 재능있다고\" ('100일의 거짓말') - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/04/GUYGGOLBHEZTOOJSG42WCYTEGY/",
+          "source": "Chosunbiz",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "'100일의 거짓말' 김현주X이무생X진선규, 진가 증명할 관록의 3인방 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/03/2026100316037242459",
+          "source": "머니투데이",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "조현아": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-05T09:33:00+09:00",
+      "lastSeen": "2026-10-05T09:33:00+09:00",
+      "news": [
+        {
+          "title": "조현아, 전남친 세금까지 내줬다더니 또 폭로 \"집착에 비혼까지\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/05/2026100501413890915",
+          "source": "머니투데이",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "\"이미주, 예능하며 대시 많이 받아\" 절친 폭로 등장..현재는 솔로 [미우새] [★밤TView]",
+          "url": "https://v.daum.net/v/20261004223943588",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "“연애 안 한다”던 이미주, 조현아 폭로에 “조용히 해”…소개받은 男 누구?",
+          "url": "https://www.sportsseoul.com/news/read/1639341",
+          "source": "스포츠서울",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "초과근무": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-05T09:33:00+09:00",
+      "lastSeen": "2026-10-05T09:33:00+09:00",
+      "news": [
+        {
+          "title": "'가짜 야근' 5배 물려도 안 멈췄다…공무원 4년째 매년 300명 이상 적발",
+          "url": "https://v.daum.net/v/20261004105031701?f=p",
+          "source": "Daum",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "[���플만평] “5배 물려도 못막는다··· 공무원 초과근무수당 부정수령, 4년 연속 300명 넘어”",
+          "url": "http://www.webplusnews.kr/news/articleView.html?idxno=44849",
+          "source": "웹플러스뉴스",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "초과근무 부정수급 울산 남부서 경찰관 소청 취하",
+          "url": "https://mobile.busan.com/view/busan/view.php?code=2026092914423616726",
+          "source": "부산일보",
+          "date": "2026-10-04"
+        }
+      ]
     }
   },
   "sections": {
@@ -1663,6 +1923,72 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IbVRqUDBMcllzZzhuVktENjRyYmZYb21objhjZHN4TjF2eGg0UmN6dEhEOGFPYkx3ZEpIOTg4d3lxR0NvSUd6bWJrNTY0ZzhBQzNJVzI4REs4T2c?oc=5",
         "source": "경기일보",
         "date": "2026-10-03"
+      },
+      {
+        "title": "‘나고야 운동회’로 전락…‘10년 준비’ 아시안게임의 굴욕 [임창만의 창대한 나고야]",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90endiYm5GOU1FQmxicXZYcDJuWTJSa014UEpDMmk2U0NZNXpYSWZPUnRBOGRnSUZoRzZId3VZVXlvWXFSSmVsekstbGhmYXhtQ3ZpdTJCTVE3LWs?oc=5",
+        "source": "경기일보",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "야구-남녀 농구-女핸드볼 이어 ‘결승 한일전’ 축구도 승리 환호",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91NHVNMmlENWw1SFRXMnJLdFMwTkg3aGFQSV9WRUNKa3RsdXB3dTAwdnJnNjk3anQxNl9iUVNsaThlYXQxXzZWZ01LcjVvWXhBQ1hfQ0lsN1VHMkNENjljcFpndGRSYlRxRFNfTmJzb2RPZk5y0gFmQVVfeXFMTW8xbFJobUZMdjl2eDBUenJLeVhWMnJKQ1h0SGZPUWY5MjlMc1dPeEFESVhGeTdLOVVGMW5UMm43Q3dEblB5cDlpVE9LVHlsWnNhZk4wMnFscGNnX3p6MFB6bXI3M3pR?oc=5",
+        "source": "동아일보",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "'LPGA 아이언 1인자' 유해란 \"높은 탄도의 아이언샷이 블루헤런 단단한 그린에서 강점\" [KLPGA 메이저 우승]",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85NW90b1BsU3NEbHd6OU5hakRHazFMUE85ekcyTm15TGl6ZUFVaFhreVphYU1UaWhtMmp1VkJjV3lpX0hvLUpHT2tpMFNVN0VMTFRMdFJqMVIyb2FwMUx0TzktektqRHVTQlJzOUh0alFmb0xCelREcA?oc=5",
+        "source": "골프한국",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "여자 양궁 '세계최강'·'태권도 종주국'은 옛말…투기 종목 전반적 부진",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PV2Q0TkxBZXZGeGZXMElCUmFEZGFZcmV0dUJJajhCdGxLV3JJNERZQ1dXR2RtUFZ0Qm9CNXhJOTZsSVQ1a0pPbXVpTmlaS2lsVHpMYW5oNnpFNDFlRVFxNjIzMWNNX1NXQVZ3VTZZajZfTmJEZmhPTy01TjNLYk0?oc=5",
+        "source": "TV조선뉴스",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "이틀 53구 투혼이 KIA 3위 만들었다, 3연투도 각오한 전상현 “오히려 컨디션 좋았다, 믿어준 감독·코치님께 감사해”",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TdkZHd0NRRThZMEpIVk55R1R0RjlqV29KNF85aGRzUjdVYnFYc0VlUThCUlo3OXNLckx1Uzh1emFDa1pIclFXaTladHRWUEU?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "\"손흥민 저격이다\" vs \"이강인 저격이다\" 논쟁 바쁘다...축구화를 집어 던질 정도의 분노, 김민재 호소에도 '범인 찾기' [오!쎈 울산] - 조선비즈",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUNuZ0RBbzRnU2U1Ykg5cUt0a0JIRGVNU1dDRk1TZ19NTTB0bTE4TFlNSFRDUWdJT0dqbHdjbXo4ajUzWExIMk41b0R4VDJsM050dm9ZRlByT1VPQlczMElpaWtLcG5fSFh0YnVhVTRNUHhzaDh6Q0VEVlNmTWxhQTBMa9IBlwFBVV95cUxNUVBtQVVlOVB0bXhsN00zMUI5NE5WQjJadEU4NHBXTGY1bkp0ZmNSeXY2cU5VcWF0NXMwdWl5ckh2NXNkQmVHOG9KRmdmQ1lwdUlzZ3BlTUF5R2c0bUVONmdVTjdfWTZjRXpfVVNSXzNJUW1aWU9YMUJweTNiUmRETTkwT0NTRkV0Ymt6N1gxdEZlQmhxNDgw?oc=5",
+        "source": "biz.chosun.com",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "LPGA 롯데 챔피언십 3R 성적은?…윤이나·황유민·김아림·최혜진·이정은·고진영·유현조 등",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54YjhHbGZfSjFjM3JvSGE3Q0JMWEx4a3diZkJIV24wMktmNTFtem1jdVJ1WjlXUG5naC1aS0Y4ajU4LWg5Xzd6Sy1uX01DWnFTdG14U0RvSGt5VFdHQzBEcndQSG40d2QwTGM4a01TUG1LbjJwZjdpTNIBfEFVX3lxTFBxT0RwQWVkQUVjNy1aajF0N2RFRmFqcUtKZk9ZTmphY042SnZudTJzWGh0UmtXdUdIUmpkRFVXLUllb3NwUUVvcnkyUU96WU5jTEw5dzNodE9GX3hkd1E2YVV3VEh3LXUyZmZqSVNNNy1hdS01bVRPRXdRNTg?oc=5",
+        "source": "골프한국",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "송다빈, 생애 첫 아시안게임 금메달…한국 태권도 겨루기 첫 금",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CZnFSWi16RU1qQ0pWWkRsdmVoRWdIdkhlQWRNRlFfUmw3VDUyNG02UzJSUGdBRzlWdlFSRGI0YUJoQWdrQzhtWWVsYjM2WEk?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "‘최강 검객’ 오상욱, 한국 선수단 MVP 선정",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JbVJFRFRIZmxybmEtZzRqd2dVWWoxSE9uZUJqdDl4Y2NjaTVMTldlT3lNblBvS0dodGZoQlN2MFM2RFpFdFRENlhRU0d1cXlqQlZvUHpkblRDNGc?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "'안타 확률 93%' 이 타구를 낚아채다니, 김하성 연속 호수비 작렬…애틀랜타는 '김혜성 결장' 다저스에 3-5 패 [NLDS]",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaSGMwaUFmZnp6Y1RvQTNBOUVrNm5zWlo3N2ltVFNKTXFXUHJsMjVLZEtvSnZ5ZTQ4Q2ZjV3dudG5URjc1NDBFTTJVSk9jLU0?oc=5",
+        "source": "v.daum.net",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "펜싱 오상욱, 한국 MVP 뽑혔다…‘별 중의 별’ 2회 연속 AG 2관왕",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fc1I5cmJmYUhKc3ZzTGRjVEFuOWtGbkdXa2plbkIwT2M0YlVSTDBnR3NvbzExT2czMThtVVVJbDFvUDRFOC1UalZNZzZobTZYODdfTWZTWTdMei1KbzRzSm92eHFpeXV0NlliWkpIOENWOUlJWEFz?oc=5",
+        "source": "한겨레",
+        "date": "2026-10-04"
       }
     ]
   }
