@@ -241,6 +241,266 @@
           "date": "2026-10-05"
         }
       ]
+    },
+    "lg전자": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-06T07:22:00+09:00",
+      "lastSeen": "2026-10-06T07:22:00+09:00",
+      "news": [
+        {
+          "title": "LG전자, 북미 AI 데이터센터 냉각시장서 대형 계약 수주",
+          "url": "https://v.daum.net/v/20261005230914907",
+          "source": "Daum",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "최대 시장 북미서 통했다…LG전자, 5GW 수주로 '냉각 경쟁력' 입증 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/05/2026100516112469972",
+          "source": "머니투데이",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "엔진·배터리·공조… AI 데이터센터, 제조업 신시장을 열다",
+          "url": "https://www.kmib.co.kr/article/view_amp.asp?arcid=9000019993",
+          "source": "국민일보",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "s&p 500": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-06T07:22:00+09:00",
+      "lastSeen": "2026-10-06T07:22:00+09:00",
+      "news": [
+        {
+          "title": "Nasdaq closes at fresh record as tech shares rise and traders look past higher yields",
+          "url": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
+          "source": "CNBC",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "Wall Street Climbs Despite Rising US Treasury Yields, Nasdaq Hits Record High",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008783887",
+          "source": "news.sbs.co.kr",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "Stock Market Today: Dow Slips, Dollar Strengthens as Investors Look for Safety — Live Updates",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026",
+          "source": "WSJ",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "나스닥 지수": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-06T07:22:00+09:00",
+      "lastSeen": "2026-10-06T07:22:00+09:00",
+      "news": [
+        {
+          "title": "뉴욕증시, 상승세로 마감…나스닥 1.05%↑",
+          "url": "https://bloomingbit.io/feed/news/121641",
+          "source": "블루밍비트",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "Western Digital Corp (WDC) 주식 시작했습니다 상승 5.97%에 10월5일: 전체 분석",
+          "url": "https://www.tradingkey.com/kr/news/market-movers/262200168-market-movers-wdc-20261005",
+          "source": "TradingKey",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "미국 증시는 10월 5�� 개장을 앞두고 혼조세를 보였다.",
+          "url": "https://www.vietnam.vn/ko/co-phieu-my-bien-dong-trai-chieu-truoc-gio-mo-cua-ngay-5-10",
+          "source": "Vietnam.vn",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "연합뉴스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-06T07:22:00+09:00",
+      "lastSeen": "2026-10-06T07:22:00+09:00",
+      "news": [
+        {
+          "title": "서초구, 고향사랑기부 답례품에 '디지털 콘텐츠' 첫선",
+          "url": "https://www.yna.co.kr/view/AKR20261006011700004",
+          "source": "연합뉴스",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "작심발언 김민재, 이틀 연속 팀훈련 불참…우즈베크전 결장할 듯(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261005047451007",
+          "source": "연합뉴스",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "‘황인범+김민재 작심발언’ 들은 모레노 “대표팀 문제점 알고 있지만 외부 비공개 원칙…내부에서 해결하겠다!” [현장 인터뷰]",
+          "url": "https://v.daum.net/v/20261005184213838",
+          "source": "Daum",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "이재용": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-06T07:22:00+09:00",
+      "lastSeen": "2026-10-06T07:22:00+09:00",
+      "news": [
+        {
+          "title": "사진 속 한미 해군 사령관 뒤 젊은 통역장교…이재용 장남 이지호",
+          "url": "https://v.daum.net/v/yxdBCucn32",
+          "source": "Daum",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "‘3성 장군’ 옆 통역 소위… 삼성 이재용 장남이었다",
+          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/10/02/QIX2COB2NJHM3PGWPCZPEB52AI/",
+          "source": "조선일보",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "\"이재용 회장 아들이라고?\"...정체 공개되니 '깜짝'",
+          "url": "https://magazine.hankyung.com/business/article/202610042406b",
+          "source": "한경매거진&북",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "아동수당": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-06T07:22:00+09:00",
+      "lastSeen": "2026-10-06T07:22:00+09:00",
+      "news": [
+        {
+          "title": "이 대통령 \"복지급여, 신청하지 않아도 국가가 먼저 챙긴다\"",
+          "url": "https://v.daum.net/v/VSQrXdHlgK?f=p",
+          "source": "Daum",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "이제 신청하지 않아도, 국가가 먼저 챙깁니다!",
+          "url": "https://www.president.go.kr/social-media/mglYvBz8",
+          "source": "대한민국 청와대",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "아동수당·부모급여 신청 안 해도 준다…법적 근거 마련",
+          "url": "https://www.yna.co.kr/view/AKR20261001168600530",
+          "source": "연합뉴스",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "동아일보": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-06T07:22:00+09:00",
+      "lastSeen": "2026-10-06T07:22:00+09:00",
+      "news": [
+        {
+          "title": "두 종류의 ‘3만원’과 ‘1000만원’",
+          "url": "https://v.daum.net/v/20261005180820324",
+          "source": "Daum",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "지폐·동전 모아 피자값 지불 손님…돈 안 받은 배달 기사 사연",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261005143150zLr",
+          "source": "연합뉴스TV",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "판자촌 배달 갔더니 지퍼백에 동전 가득…동봉 메모 ‘열�� 넘게 셌어요!’",
+          "url": "https://www.donga.com/news/Society/article/all/20261004/134783737/2",
+          "source": "동아일보",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "아파트": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-06T07:22:00+09:00",
+      "lastSeen": "2026-10-06T07:22:00+09:00",
+      "news": [
+        {
+          "title": "\"집 사기는 싫었는데\"…서울서 아파트 산 사람들, 세제개편안에 중저가 몰렸다[부동산AtoZ]",
+          "url": "https://v.daum.net/v/20261005162031813",
+          "source": "Daum",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "팔라는 비싼 집은 안 팔리고 싼 집만 사람 몰려 가격 오르네 [지금뉴스]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8677969",
+          "source": "KBS 뉴스",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "'정책대출 마지노선'…서울 6억 이하 아파트 거래 15% 늘었다",
+          "url": "https://www.news1.kr/realestate/general/6310518",
+          "source": "뉴스1",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "닥터x: 하얀 마피아의 시대": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-06T07:22:00+09:00",
+      "lastSeen": "2026-10-06T07:22:00+09:00",
+      "news": [
+        {
+          "title": "김지원의 파격 변신…‘닥터X’ 천재 외과의가 병원 권력에 칼을 겨눈다.",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=843844",
+          "source": "제민일보",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "SBS '낭만닥터' 뛰어넘나…시청률 20% 메가히트→작정하고 승부수 던진 韓 드라마 ('닥터X')",
+          "url": "https://v.daum.net/v/20261005100211545",
+          "source": "Daum",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "김지원, ‘눈물의 여왕’ 벗고 천재 의사 된다…‘닥터 X’ 안방 복귀",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/05/HEYTKNZXMY2TIYRUGJSTOM3CGM/",
+          "source": "조선일보",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "나는 solo": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-06T07:22:00+09:00",
+      "lastSeen": "2026-10-06T07:22:00+09:00",
+      "news": [
+        {
+          "title": "'나솔' 33기 영식, 영자와 완전히 정리했다…첫인상→1순위 지켰던 마음 ('촌장')",
+          "url": "https://v.daum.net/v/20261005212255017",
+          "source": "Daum",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "[연재] 엑스포츠뉴스 '★해시태그'|황정음, 초췌한 민낯 다 드러내더니…\"결혼 전으로 시간 돌리고파\" 쿨한 고백 [★해시태그]",
+          "url": "https://m.news.zum.com/photo/58248214/108112356?cm=news_edit&r=1&thumb=1",
+          "source": "ZUM 뉴스",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "'식탐' 지적받은 '나는 솔로' 33기 영수 \"부족한 모습…개선하도록 노력\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6309937",
+          "source": "뉴스1",
+          "date": "2026-10-05"
+        }
+      ]
     }
   },
   "sections": {
