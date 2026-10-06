@@ -260,6 +260,266 @@
           "date": "2026-10-06"
         }
       ]
+    },
+    "진주남강유등축제": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T06:08:00+09:00",
+      "lastSeen": "2026-10-07T06:08:00+09:00",
+      "news": [
+        {
+          "title": "가을밤 물들이는 7만개 빛…진주 '남강유등축제'",
+          "url": "https://v.daum.net/v/20261006161501464",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "진주시, 10월 축제맞아 ‘식중독 예방 캠페인’ 실시",
+          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160294035022707",
+          "source": "시민일보",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "“쉼과 힐링”…가을 축제 풍성",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8677792",
+          "source": "KBS 뉴스",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "england vs czechia": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-07T06:08:00+09:00",
+      "lastSeen": "2026-10-07T06:08:00+09:00",
+      "news": [
+        {
+          "title": "England vs Czech Republic LIVE: Nations League score, team news, commentary, updates & stats",
+          "url": "https://www.bbc.com/sport/football/live/cm0qxqyp35jyt",
+          "source": "BBC",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "What is Arnold's situation? Kane and Bellingham lead England's line-up against the Czech Republic",
+          "url": "https://www.livescore.com/en/news/football/more/what-is-arnolds-situation-kane-and-bellingham-lead-englands-line-up-against-the-czech-republic-goal/",
+          "source": "LiveScore",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "Pickford in goal as England take on Czechia at Wembley",
+          "url": "https://www.toffeeweb.com/pickford-in-goal-as-england-take-on-czechia-at-wembley/",
+          "source": "ToffeeWeb",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "강훈식": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-07T06:08:00+09:00",
+      "lastSeen": "2026-10-07T06:08:00+09:00",
+      "news": [
+        {
+          "title": "[정치 인사이드] 청와대 비서실장 인선 3대 조건…‘3선·원외·관리형’ - 조선비즈",
+          "url": "https://biz.chosun.com/policy/politics/2026/10/06/HOIF7PZKR5CS5P75V73N7NQ4B4/",
+          "source": "Chosunbiz",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "[여적]대통령비서실장론",
+          "url": "https://www.khan.co.kr/article/202610041817001",
+          "source": "경향신문",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "靑 비서실장 ‘무명 김민기’ 낙점...왜?",
+          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160275843916023",
+          "source": "시민일보",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "퇴직": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-07T06:08:00+09:00",
+      "lastSeen": "2026-10-07T06:08:00+09:00",
+      "news": [
+        {
+          "title": "‘9000피 불장’에 퇴직연금 DC전환, 급락장에 10% 눈물의 손실",
+          "url": "https://v.daum.net/v/QxG3p1NdhS",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "증시 고점서 DB→DC 전환 15만명…투자 나선 일부는 두 달 만에 -10%",
+          "url": "https://www.viva100.com/article/20261005500215",
+          "source": "브릿지경제",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "“상승장 놓칠라” 퇴직연금 DC 갈아탔는데…하락장에 ‘10%대 손실’",
+          "url": "https://www.kyeonggi.com/article/20261005580013",
+          "source": "경기일보",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "이진숙": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-07T06:08:00+09:00",
+      "lastSeen": "2026-10-07T06:08:00+09:00",
+      "news": [
+        {
+          "title": "과방위 국감 시작부터 여야 신경전...휴머노이드도 등장",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610061250292978",
+          "source": "YTN",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "과방위 국감 공방…與 \"이진숙 배제해야\"·野 \"한준호 KBS 외압\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261006114926YHT",
+          "source": "연합뉴스TV",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "국감 첫날 AI·안보·대미투자 쟁점화…여야 곳곳서 공방",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=795526",
+          "source": "일간투데이",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "한화에어로스페이스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-07T06:08:00+09:00",
+      "lastSeen": "2026-10-07T06:08:00+09:00",
+      "news": [
+        {
+          "title": "[단독] K방산 핵심 경쟁력 ‘빠른 납기’ 차질 현실로",
+          "url": "https://www.segye.com/newsView/20261006515634",
+          "source": "세계일보",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "“납품 지연은 정부 탓” 한화에어로 주장 또 기각…법원 “회사 책임”",
+          "url": "https://v.daum.net/v/20261006151612373",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "'폭발' 한화에어로 \"납품지연 정부 탓\"…대전고법은 \"회사 책임\"",
+          "url": "https://www.yna.co.kr/view/AKR20261006117200063",
+          "source": "연합뉴스",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "croatia vs spain": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T06:08:00+09:00",
+      "lastSeen": "2026-10-07T06:08:00+09:00",
+      "news": [
+        {
+          "title": "Substitute Merino scores twice as Spain win in Croatia",
+          "url": "https://www.bbc.com/sport/football/live/cm9w4w2vn711t",
+          "source": "BBC",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "De la Fuente keeps Lamine plans under wraps, minutes cap set at 270",
+          "url": "https://onefootball.com/en/news/de-la-fuente-keeps-lamine-plans-under-wraps-minutes-cap-set-at-270-43567179",
+          "source": "OneFootball",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "Croatia lose to Spain in Split",
+          "url": "https://www.croatiaweek.com/croatia-lose-to-spain-in-split/",
+          "source": "Croatia Week",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "김예건": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T06:08:00+09:00",
+      "lastSeen": "2026-10-07T06:08:00+09:00",
+      "news": [
+        {
+          "title": "'김은중호' 올림픽 축구대표팀, 호주 원정 평가전 1승 1무",
+          "url": "https://v.daum.net/v/20261006153453358",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "[톱플레이] '유럽 진출' 김예건 '김은중호'에서 원더골",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6856137_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "축구: 올림픽 대표팀, 호주 원정에서 첫 승리",
+          "url": "https://www.olympics.com/ko/news/football-olympic-national-team-friendly-series-australia-october-2026",
+          "source": "Olympics",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "신인감독 김연경": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T06:08:00+09:00",
+      "lastSeen": "2026-10-07T06:08:00+09:00",
+      "news": [
+        {
+          "title": "김연경, '프로 제8구단' 창단 도전…승관·양효진 지원군 합류 ('신인감독 김연경2')",
+          "url": "https://v.daum.net/v/20261006092754368",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "‘배구황제’ 김연경, 경력감독으로 컴백…프로 8구단 창단 이룰까(‘신인감독2’)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/06/MYZTAOLEGMYGKOBYGJSTQYRYMI/",
+          "source": "조선일보",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "‘신인감독’ 김연경, ‘경력감독’으로 귀환 *신인감독 김연경2)",
+          "url": "https://sports.khan.co.kr/article/202610061756003",
+          "source": "스포츠경향",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "엘니뇨": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-07T06:08:00+09:00",
+      "lastSeen": "2026-10-07T06:08:00+09:00",
+      "news": [
+        {
+          "title": "역대 최강 엘니뇨 온다…“다음 달부터 많은 비”",
+          "url": "https://v.daum.net/v/20261006212812067",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "[신문은 선생님] [재미있는 과학] 적도 태평양의 수온 변화, 왜 전 세계에 영향 끼칠까?",
+          "url": "https://www.chosun.com/national/nie/2026/09/29/MKL3OLKUP5H5VLT4QGE4ATCW3Y/",
+          "source": "조선일보",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "LA 시, 엘니뇨로 인한 피해 대비 나서…주민 안전 확보 관건",
+          "url": "https://radiokorea.com/news/article.php?uid=505908",
+          "source": "라디오코리아",
+          "date": "2026-10-06"
+        }
+      ]
     }
   },
   "sections": {
@@ -1415,6 +1675,60 @@
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvTkQ1OW9ibzVPWl83MHZGek9LOEs2elBvR2tLaG1OeXhoalp5ay1WLXgyNlg3aVczUTdLakQ0ZTJiU2d0OUVUYTQ5U1pyX2RZZ1dMdQ?oc=5",
         "source": "엑스포츠뉴스",
         "date": "2026-10-04"
+      },
+      {
+        "title": "제주삼다수와 함께한 e스포츠 대표팀…아시안게임서 금 2개 포함 메달 5개",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BR25DX3FPUmx1bGNINnk1UUs0VkhuTWJjWTE4d1p5ZllyY2RGMC1CQzF3RklsRmlrRWx2cmdSNUp3QlQtS2cxVWgwSl9sNVJ2d2FMN2JSRmFLVzNGWm9UQ0RNTU9jMHdjZDhKaA?oc=5",
+        "source": "뉴스탭",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "국방부 \"예술체육요원 포함 보충역 감축·폐지 궁극적 추진\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pTndaZVpvd0I1dGp3QVVNZ2o3eW9TSXcwTldxYk92elg4T250V2lEQ2w4NHZWRjVfcEVLUXg2a0tKcHplX0pKODhjLXFIMFhGTS1YbDZucHphR03SAWBBVV95cUxOSWJablJmQjcwTm9TRHBvSTEwdFRVVnM3M2hzQ0hJbktsS2NVVzNNc3RwRjBxaDZYNXFSQ0FFbzlZMXREbW5rQmtFUjhPcjdFZDVnYlRMLVBBTWpfWVBiYXo?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "LG, 8연패 끊고 KIA와 ‘0경기 차’…최원준·레이예스 201안타, 김도영 43호포",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rMVl6LVpLZVF6d0NOVmJ2TzVteHdCZkd5S2o4LXVZZTUzS3FDaXJXUW8xeG1XVE1Sbk9wZXA2X25lcnhqNTkxdll3UHFSNVc5QXUtVmY5aVcxY05yZGVMSDU4bmQxRGtlczVZajdB?oc=5",
+        "source": "알파경제",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "[2026 아시안게임]강원이 키운 다섯 태극전사, 아시아 정상에 서다",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zLXJ4MDAzSFRhLUdxWS1CY0IyeUlZeVhjRmFjVW05NVZ3QzFJRHlsTE4zUkVXQkNVcTBwclRHc2VOUjJpQXBudXBvZWhsejlmb1BYSHRSemY2OHM?oc=5",
+        "source": "강원일보",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "‘한화 키즈’ 민주홍, 꿈꾸던 한화 마운드 향해 첫발",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUX3dWalh3WmlQbldCVUVfUnlpaDVEdmk3cjBjQ1lpLVhsMnlncE9xTnpLb09iUWRZYUpGclpreTZRZ2NDTjJBaS1DdkJLMjQ?oc=5",
+        "source": "Daum",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "정연욱 의원, 전북 올림픽 ’부실 의혹’ 제기…전북도 “왜곡·폄훼, 법적 대응 검토“",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BNW1ydXVwT0VKbnV1bE5MVWh6aEhSMXo1V3M4ekliaERFTjQ3V2Z0WS04bnE3dkdGSkhmaU5mODQ4dGlySWVuMC10emt2YncwbGNfbm1MQWtOOF9rYlg5SU1ETURyZUk?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "96년생 동갑내기 의기투합…황인범 \"진짜 뭔가 보여주자고 했다\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiZTRTN1FiTkhxX3kyZGNrWTlkRkcxWURBT2dXblhXMDZRY1JxeUFVTXJNQ011TXBzWkZZT1lVNzJYbjd2LUhRTzFVTEJHbDRhV21lZ0FuUkFqLTTSAWBBVV95cUxQTXdQMmpqUmFRT3ZObENIRjk1UmJXXzdqdFZ0bUtkVENYQjdQS1R6Z3FaSnhqMTBlWTRVZ0hLRFBtd01fSEo0b1lraWROaFMwSi1XY2tDYnZRZVl1V25SNm4?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "메이저리그 만년 꼴찌 화이트삭스의 반전 드라마",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXejFIYkVpVy1PNlZnTVpqRkt6anV5NXFieGE0XzRnR29FdEYzTlgybUxZajMxbkVnTGYxTGNzVzU2bWRHV1VxYlpPS2ZEYnRDTzJGUkpPVHl0UFE?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "프랑스, 벨기에 4-1 완파·UNL 선두…지단 부임 후 무패",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrMFYxMUZmdWN6eUItaDFzTlprb2VnUnBsbkY5X19QSlJ2V18zVzk4R2dibVJXS29TOHhRcVNWanZzWi1nQ245ZmtUU0JrZDdISnNGMXZaM2hya3pBd2c4OWJvYzU1cXc?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-10-06"
       }
     ]
   }
