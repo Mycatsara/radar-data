@@ -113,10 +113,10 @@
       ]
     },
     "전원주": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-10-06T00:40:00+09:00",
-      "lastSeen": "2026-10-06T00:40:00+09:00",
+      "lastSeen": "2026-10-06T18:17:00+09:00",
       "news": [
         {
           "title": "전원주, 청주 유흥업소서 포착..남성팬과 춤까지 '반전 생활'",
@@ -135,6 +135,18 @@
           "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/10/05/20261005500006",
           "source": "서울신문",
           "date": "2026-10-05"
+        },
+        {
+          "title": "'자산 40억' 전원주, 자식에 절반 증여…\"다 주면 효도 못 받아\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/06/2026100614502975896",
+          "source": "머니투데이",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "명절 밥상에서 시작되는 상속 분쟁[알쏭달쏭 상속]",
+          "url": "https://v.daum.net/v/WHqqwe5Tj9?f=p",
+          "source": "Daum",
+          "date": "2026-10-06"
         }
       ]
     },
@@ -740,6 +752,240 @@
           "url": "https://www.yna.co.kr/view/AKR20261005056300007",
           "source": "연합뉴스",
           "date": "2026-10-05"
+        }
+      ]
+    },
+    "코스피": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-10-06T18:17:00+09:00",
+      "lastSeen": "2026-10-06T18:17:00+09:00",
+      "news": [
+        {
+          "title": "삼성전자 잠정 실적 발표 앞두고 외인 '이탈'⋯코스피 1.6% 밀려 '6890선'",
+          "url": "https://v.daum.net/v/20261006162211808",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "질주하는 소부장·바이오·2차전지, 거래대금도 회복…애물단지 벗나",
+          "url": "https://www.sedaily.com/article/20098710",
+          "source": "서울경제",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "코스피 다시 7,000선 아래로…코스닥은 3% 가까이 상승",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8678689",
+          "source": "KBS 뉴스",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "사기": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-06T18:17:00+09:00",
+      "lastSeen": "2026-10-06T18:17:00+09:00",
+      "news": [
+        {
+          "title": "전세사기 피해자, 정부가 '보증금 3분의 1' 보장‥다음 달부터 시행",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6856067_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "전세사기 피해자 ‘보증금 최소보장제’ 11월 13일 시행",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03670326645610296",
+          "source": "마켓인",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "“전세사기 피해액 1/3까지 정부가 보장”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8678611",
+          "source": "KBS 뉴스",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "이서진": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-06T18:17:00+09:00",
+      "lastSeen": "2026-10-06T18:17:00+09:00",
+      "news": [
+        {
+          "title": "\"돈이 다야\" 주 40개 스케줄·섭외만 하루 100통…이서진, 인생 역전한 걸그룹에 조언 ('비서진')",
+          "url": "https://v.daum.net/v/20261005163113011",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "이서진 \"돈 많으면 행복, 주식하지 마\"...리센느에 현실 조언 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/03/2026100307271239559",
+          "source": "머니투데이",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "“돈이 다 일까용?” 원이×메이, 이서진의 현실적인 조언에 당황♨ (ft. 소확행)",
+          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC481933942?div=entersectionmain_clip",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "흑상어": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-06T18:17:00+09:00",
+      "lastSeen": "2026-10-06T18:17:00+09:00",
+      "news": [
+        {
+          "title": "부산 '부캉이' 정체는 멸종위기 흑상어…\"몸길이 3ｍ 암컷\"",
+          "url": "https://www.yna.co.kr/view/AKR20261006141700051",
+          "source": "연합뉴스",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "‘부캉이’ 무태상어 아니었다…3m 암컷 ‘흑상어’ 확인…“수온 하락 전 외해 귀환 더 시급한 이유”",
+          "url": "https://www.munhwa.com/article/11621711",
+          "source": "문화일보",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "’부캉이’ 정체는 흑상어 암컷…“체장 3m 최종 확인“",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610061531398pn",
+          "source": "연합뉴스TV",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "위원장": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-06T18:17:00+09:00",
+      "lastSeen": "2026-10-06T18:17:00+09:00",
+      "news": [
+        {
+          "title": "경찰, 삼성전자 노조위원장 '장인 회사 계약 논란' 수사 착수",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6855993_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "최승호 삼성 초기업노조 위원장 \"성과급 합의, 노사 자율로 도출\"",
+          "url": "https://v.daum.net/v/20261006174213614",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "최승호 “파업 전제로 교섭 안 해…조합원 80% 동의로 가결”",
+          "url": "https://www.etoday.co.kr/news/view/2632977",
+          "source": "이투데이",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "엑스포츠뉴스": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-06T18:17:00+09:00",
+      "lastSeen": "2026-10-06T18:17:00+09:00",
+      "news": [
+        {
+          "title": "8세 日 아이돌 연습생, 무대 선 지 5일 만에…'독감 합병증' 사망 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/05/2026100510044671636",
+          "source": "머니투데이",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "\"독감 합병증이 이렇게 무섭나\"…日 8세 아이돌, 급성 심근염으로 사망",
+          "url": "https://m.news.nate.com/view/20261004n03337?sect=ent&list=rank&cate=interest",
+          "source": "네이트",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "'8세' 日 연습생, 마지막 무대 닷새 만 사망…\"인생의 3분의 1 바쳤는데\" [엑's 해외이슈]",
+          "url": "https://v.daum.net/v/20261005011658410?f=p",
+          "source": "Daum",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "비상사태": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-06T18:17:00+09:00",
+      "lastSeen": "2026-10-06T18:17:00+09:00",
+      "news": [
+        {
+          "title": "'백신 거부'가 불러온 보건 재앙…美 뉴욕주, 홍역 비상사태",
+          "url": "https://v.daum.net/v/20261006093605841",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "30년 만에 최악의 유행…美 3900명 확진에 비상사태 선포",
+          "url": "https://www.hankyung.com/article/2026100641597",
+          "source": "한국경제",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "미국 홍역 확산 지속…뉴욕주, 지난해 유행 후 첫 비상사태",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8678206",
+          "source": "KBS 뉴스",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "재산세": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-06T18:17:00+09:00",
+      "lastSeen": "2026-10-06T18:17:00+09:00",
+      "news": [
+        {
+          "title": "집값 계속 뛰면 서울 외곽도 재산세 폭탄 … 2030년 노도강 연 57만원 더 낸다",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/05/2026100500023.html",
+          "source": "뉴데일리",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "'세금 폭탄' 곧 터진다...'섬뜩한' 전망",
+          "url": "https://magazine.hankyung.com/business/article/202610053459b",
+          "source": "한경매거진&북",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "\"집값 상승세 지속시 2030년 서울 주요단지 재산세 54%↑\"",
+          "url": "https://v.daum.net/v/KZzlQUDg5A",
+          "source": "Daum",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "주식": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-10-06T18:17:00+09:00",
+      "lastSeen": "2026-10-06T18:17:00+09:00",
+      "news": [
+        {
+          "title": "나이 들면 채권 매수?…주식 더 담은 美 70대",
+          "url": "https://www.hankyung.com/article/2026100663271",
+          "source": "한국경제",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "토큰화 주식 보유자 3개월 만에 10배…420만명 돌파 By EBN",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2117165",
+          "source": "Investing.com 한국어",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "미국 국채부터 주식까지 싹 쓸어 담았다…RWA 시장 폭발에 금융권 '비상'",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491216",
+          "source": "핀포인트뉴스",
+          "date": "2026-10-06"
         }
       ]
     }
