@@ -501,6 +501,247 @@
           "date": "2026-10-05"
         }
       ]
+    },
+    "성현주": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-06T11:26:00+09:00",
+      "lastSeen": "2026-10-06T11:26:00+09:00",
+      "news": [
+        {
+          "title": "성현주, 8살 아들상 비보..\"천일간 의식 無→마지막 눈 직접 감겨줘\" 눈물[짠한형]",
+          "url": "https://v.daum.net/v/20261005195211851",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "성현주, 먼저 떠나보낸 8살 아들에 눈물…\"동기들 덕분에 버텼다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/05/2026100520480092991",
+          "source": "머니투데이",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "故박지선 떠난 후 또..\"KBS 22기. 코로나때 장례식, 발인 곁 지켰다\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/06/MZRTCNDBMRSWEMJZGFQWEYLFG4/",
+          "source": "조선일보",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "우리은행": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-06T11:26:00+09:00",
+      "lastSeen": "2026-10-06T11:26:00+09:00",
+      "news": [
+        {
+          "title": "우리은행 런던트레이딩센터, 현지 기업과 첫 파생상품 거래",
+          "url": "https://www.yna.co.kr/view/AKR20261004021100002",
+          "source": "연합뉴스",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "우리은행 런던트레이딩센터, 현지 기업과 첫 파생상품 거래",
+          "url": "https://www.newsis.com/view/NISX20261003_0003813610",
+          "source": "뉴시스",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "��리은행 런던서 현지 기업과 첫 파생상품 거래, 국내 은행 최초 자체 운용",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448608",
+          "source": "비즈니스포스트",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "하나은행": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-06T11:26:00+09:00",
+      "lastSeen": "2026-10-06T11:26:00+09:00",
+      "news": [
+        {
+          "title": "서울 달빛야장 소상공인에 687억 특별보증",
+          "url": "https://www.donga.com/news/Society/article/all/20261005/134789320/2",
+          "source": "동아일보",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "네이버페이, 하나은행·서울신보와 맞손…골목상권 금융지원",
+          "url": "https://v.daum.net/v/pxJAkau5j4",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "중랑구, 소상공��� 특별신용보증 총 412억 지원",
+          "url": "https://mbiz.heraldcorp.com/article/10893520",
+          "source": "헤럴드경제",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "클로드": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-10-06T11:26:00+09:00",
+      "lastSeen": "2026-10-06T11:26:00+09:00",
+      "news": [
+        {
+          "title": "클로드 이어 챗GPT도 텍스트 워터마크 적용…EU지역 우선 적용",
+          "url": "https://v.daum.net/v/20261006050146626",
+          "source": "Daum",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "오픈AI도 AI 글에 ’워터마크’…EU서 우선 적용",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610060547337Xk",
+          "source": "연합뉴스TV",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "AI로 옷 벗기면 불법…EU, ‘누디파이’ 12월부터 철퇴",
+          "url": "https://zdnet.co.kr/view/?no=20261002190003",
+          "source": "지디넷코리아",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "조세": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-06T11:26:00+09:00",
+      "lastSeen": "2026-10-06T11:26:00+09:00",
+      "news": []
+    },
+    "엔화": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-06T11:26:00+09:00",
+      "lastSeen": "2026-10-06T11:26:00+09:00",
+      "news": [
+        {
+          "title": "토스뱅크 엔화 환전 사고, '오류냐 아니냐'…금융당국 법리 검토 - 머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/10/04/2026092915563875663",
+          "source": "머니투데이",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "토스뱅크 ′반값 엔화′ 7개월 만에 다시 쟁점…금융위, 거래취소 적법성 따진다",
+          "url": "https://sateconomy.co.kr/news/view/1065553600110233",
+          "source": "토요경제",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "[인뱅 보안 시험대]③ 케이뱅크, 망분리 완화 '선제 대응'…IT 자산·취약점 관리 강화",
+          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=192655",
+          "source": "위키리크스한국",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "1박 2일": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-06T11:26:00+09:00",
+      "lastSeen": "2026-10-06T11:26:00+09:00",
+      "news": [
+        {
+          "title": "'1박2일' 문세윤 거짓말 논란 일파만파..KBS 출연 정지·하차 요구 빗발 '웃음'",
+          "url": "https://v.daum.net/v/WhgPNn3GTN",
+          "source": "Daum",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "'1박2일' 신입 이기택, 합류 100일 소감…\"많이 편해졌다\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6310259",
+          "source": "뉴스1",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "문세윤 “딱복 살래요?” 한 마디에 일파만파 (1박 2일)",
+          "url": "https://sports.khan.co.kr/article/202610060159003",
+          "source": "스포츠경향",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "이자": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-06T11:26:00+09:00",
+      "lastSeen": "2026-10-06T11:26:00+09:00",
+      "news": [
+        {
+          "title": "은행보다 1~2%P 높다…‘5% 이자’ 증권사 특판 러시",
+          "url": "https://v.daum.net/v/F9DQIau5vx",
+          "source": "Daum",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "예금 닮았지만 보호는 없다···발행어음, 뭐가 다를까",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026100210550755774",
+          "source": "뉴스웨이",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "이익잉여금 2.7조인데…메리츠증권, 4년 만에 자본준비금 감액",
+          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53265",
+          "source": "코리아리포트",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "송강": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-06T11:26:00+09:00",
+      "lastSeen": "2026-10-06T11:26:00+09:00",
+      "news": [
+        {
+          "title": "송강 옆에서 '쩍벌'한 태국 배우…\"미안해, 다음엔 내 다리 쳐도 돼\"",
+          "url": "https://v.daum.net/v/20261006022611075",
+          "source": "Daum",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "\"내 다리 때려\"...송강, '쩍벌' 태국 배우 공개 사과 받아 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/06/2026100606490869831",
+          "source": "머니투데이",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "송강 배려 심에 미소 지었던 순간, 태국 배우 테이 타완의 뒤늦은 반응",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3713502",
+          "source": "국제뉴스",
+          "date": "2026-10-05"
+        }
+      ]
+    },
+    "유승민": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-06T11:26:00+09:00",
+      "lastSeen": "2026-10-06T11:26:00+09:00",
+      "news": [
+        {
+          "title": "\"BTS도 군대갔는데\" 53년 만에 'AG 병역특례' 없어지나…여야 간만에 '한목소리'",
+          "url": "https://v.daum.net/v/20261006073945926",
+          "source": "Daum",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "축구 국대가 쏘아올린 파장…\"BTS도 갔다\" 대수술 하나",
+          "url": "https://news.jtbc.co.kr/article/NB12321437",
+          "source": "JTBC",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "[아시안게임] 병역 망발로 물 흐린 후배들…이강인·손흥민은 달랐다",
+          "url": "https://www.yna.co.kr/view/AKR20261005056300007",
+          "source": "연합뉴스",
+          "date": "2026-10-05"
+        }
+      ]
     }
   },
   "sections": {
