@@ -780,6 +780,266 @@
           "date": "2026-10-06"
         }
       ]
+    },
+    "장 이머우": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-07T16:03:00+09:00",
+      "lastSeen": "2026-10-07T16:03:00+09:00",
+      "news": [
+        {
+          "title": "中 영화 거장, '암살자(들)' 논란에…\"사실에 기반하지 않는 창작도 있어\"",
+          "url": "https://v.daum.net/v/20261007110313936",
+          "source": "Daum",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "거장 장이머우, ‘암살자(들)’ 논란에 “창작은 창작…진실에 기반 않을 수도”",
+          "url": "https://www.hani.co.kr/arti/culture/culture_general/1281285.html",
+          "source": "한겨레",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "인사말 하는 정��리 감독",
+          "url": "https://mobile.newsis.com/photo/NISI20261007_0021478846",
+          "source": "뉴시스",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "고독 사": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-07T16:03:00+09:00",
+      "lastSeen": "2026-10-07T16:03:00+09:00",
+      "news": [
+        {
+          "title": "[보도설명자료][10.6.화 동아일보] 고독사 위험군 11만명...관리할 인력은 태부족 관련",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148973083",
+          "source": "정책브리핑",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "고독사 62.7%가 중장년…40~64세 사망자 84.6% 남성",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6312936",
+          "source": "뉴스1",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "[단독]고독사 위험군 11만명… 관리할 인력은 태부족",
+          "url": "https://www.donga.com/news/Society/article/all/20261006/134789547/2?gid=134790512&srev=1&regdate=20261006",
+          "source": "동아일보",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "윤석열": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-07T16:03:00+09:00",
+      "lastSeen": "2026-10-07T16:03:00+09:00",
+      "news": [
+        {
+          "title": "김건희 이어 윤석열도 무죄…‘명태균 여론조사’ 1심 징역 2년 뒤집혀",
+          "url": "https://v.daum.net/v/20261007145012507",
+          "source": "Daum",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "윤석열, ‘명태균 여론조사’ 2심 무죄…명태균 \"형사보상 청구해야제\"",
+          "url": "https://news.jtbc.co.kr/article/NB12321771",
+          "source": "JTBC",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "'명태균 여론조사' 무죄에 윤 전 대통령 '미소'…2심서 뒤집힌 이유는? - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/07/2026100711342358676",
+          "source": "머니투데이",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "이라크": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-07T16:03:00+09:00",
+      "lastSeen": "2026-10-07T16:03:00+09:00",
+      "news": [
+        {
+          "title": "“한국에 돈 갚을게, 대신 6개월 후에”…‘수천억 미지급’ 이라크, 빚잔치 끝낼 수 있나 [핫이슈]",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261006601019",
+          "source": "나우뉴스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "[단독] 이라크 투자위원장 “한화 비스야마 미수금 돌려주겠다\" 그런데 6년에 나눠서? By The Guru",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2116884",
+          "source": "Investing.com 한국어",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "돈줄 막힌 이라크···한화 ‘공사중단 압박’·현대건설 ‘우회 수주’",
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=712593",
+          "source": "뉴스프리존",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "정기선": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T16:03:00+09:00",
+      "lastSeen": "2026-10-07T16:03:00+09:00",
+      "news": [
+        {
+          "title": "HD현대, 2026년도 사장단 인사 단행...조선사업 성장과 안전 강화에 방점",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373169",
+          "source": "전기신문",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "정기선 '퓨처빌더' 속도 낸다…HD현대, AI 전력·SMR 전진배치",
+          "url": "https://v.daum.net/v/20261007153006115",
+          "source": "Daum",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "정기선 회장 취임 1년, 사장단 인사… 이상균 HD현대중공업 부회장에 조선사업 총괄 맡겼다",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/07/CT5POD7G7ZBRRK4ZFJTFMFD5V4/",
+          "source": "조선일보",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "박충권": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T16:03:00+09:00",
+      "lastSeen": "2026-10-07T16:03:00+09:00",
+      "news": [
+        {
+          "title": "‘탈북민 북송’ 질의에 정청래·정동영 ‘피식’…박충권 “이게 웃기냐”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261007/134800560/2",
+          "source": "동아일보",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "[2026 국감] \"웃을 일이냐\" \"상식 안 맞아\"…'북송 회유' 제보에 외통위 설전",
+          "url": "https://v.daum.net/v/20261007122102410",
+          "source": "Daum",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "통일부, '탈북민 북송 회유설'에 \"사실무근…재판 통해 사실 밝혀질 것\"",
+          "url": "https://www.newsis.com/view/NISX20261007_0003817534",
+          "source": "뉴시스",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "하 현승": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-07T16:03:00+09:00",
+      "lastSeen": "2026-10-07T16:03:00+09:00",
+      "news": [
+        {
+          "title": "한기주 10억 넘었다…키움 하현승, KBO 역대 최고 16억원에 계약",
+          "url": "https://www.yna.co.kr/view/AKR20261007089100007",
+          "source": "연합뉴스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "‘이도류’ 하현승, 프로야구 신인 최고 계약금 16억 ‘쾅’",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/07/WF73YS7HRBFB3P2XFONFV3MP6Q/",
+          "source": "조선일보",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "‘부산고 오타니’ 하현승, ‘40억 준다’는 뉴욕 양키스 거절 이유 (유퀴즈)",
+          "url": "https://sports.donga.com/ent/article/all/20261007/134799895/1",
+          "source": "스포츠동아",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "여의도순복음교회": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T16:03:00+09:00",
+      "lastSeen": "2026-10-07T16:03:00+09:00",
+      "news": [
+        {
+          "title": "여의도순복음교회 \"성도 85만명 이름·생년월일 등 유출 의심\"",
+          "url": "https://www.yna.co.kr/view/AKR20261007050700005",
+          "source": "연합뉴스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "대형교회들, 보안 비상…교인정보 보호 '빨간불'",
+          "url": "https://www.newsis.com/view/NISX20261007_0003817550",
+          "source": "뉴시스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "국내 대형교회 2곳 해킹 당했다...33만건 교인 헌금 정보 등 유출",
+          "url": "https://zdnet.co.kr/view/?no=20261006215537",
+          "source": "지디넷코리아",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "권혁": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-07T16:03:00+09:00",
+      "lastSeen": "2026-10-07T16:03:00+09:00",
+      "news": [
+        {
+          "title": "‘선박왕’ 권혁은 누구? 성공신화와 4000억원 체납의 명암",
+          "url": "https://v.daum.net/v/20261007154430002",
+          "source": "Daum",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "'선박왕' 권혁 회장, 15년 만에 '체납액' 4천억 원 완납하기로",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6856293_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "개인 체납 1위 ‘선박왕’ 권혁, 15년 밀린 세금 3938억원 완납하기로···8000억 체납 정리 수순",
+          "url": "https://www.khan.co.kr/article/202610071200001",
+          "source": "경향신문",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "박진영": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-07T16:03:00+09:00",
+      "lastSeen": "2026-10-07T16:03:00+09:00",
+      "news": [
+        {
+          "title": "'국감 출석' 박진영 \"양심에 따라 사실 그대로 말할 것\" [현장영상+]",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610071434242587",
+          "source": "YTN",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "박진영, 4대 기획사 특혜 의혹에 “몇백억 손해 감수하고 함께 하는 것”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261007/134802090/2",
+          "source": "동아일보",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "선서문 제출 위해 이동하는 박진영 위원장",
+          "url": "https://www.newsis.com/view/NISI20261007_0021480173",
+          "source": "뉴시스",
+          "date": "2026-10-07"
+        }
+      ]
     }
   },
   "sections": {
