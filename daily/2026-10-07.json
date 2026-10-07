@@ -520,6 +520,266 @@
           "date": "2026-10-06"
         }
       ]
+    },
+    "김혜자": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-07T09:56:00+09:00",
+      "lastSeen": "2026-10-07T09:56:00+09:00",
+      "news": [
+        {
+          "title": "85세 김혜자, 부축·기침...걱정스러운 레드카펫 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/07/2026100708112250424",
+          "source": "머니투데이",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "제네시스, 부산영화제 10년째 후원…의전차량 100대 제공",
+          "url": "https://v.daum.net/v/20261007084744571",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "'A-리스트' 오른 부국제 개막...'암살자(들)' 진통도",
+          "url": "https://www.ytn.co.kr/_ln/0106_202610062307335778",
+          "source": "YTN",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "논쟁": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-07T09:56:00+09:00",
+      "lastSeen": "2026-10-07T09:56:00+09:00",
+      "news": [
+        {
+          "title": "안철수 \"李대통령, '아시안게임 金 군면제' 폐지 결단해야\"",
+          "url": "https://v.daum.net/v/20261007083959318",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "최근 5년 병역특례 선수 10명 중 8명은 아시안게임 금메달",
+          "url": "https://www.news1.kr/sports/general-sport/6312401",
+          "source": "뉴스1",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "\"군대 안 갑니다\" 진짜 사라질 판…국방부까지 칼 뺐다",
+          "url": "https://news.jtbc.co.kr/article/NB12321621",
+          "source": "JTBC",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "부산은행": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T09:56:00+09:00",
+      "lastSeen": "2026-10-07T09:56:00+09:00",
+      "news": [
+        {
+          "title": "BNK부산은행, 신보와 지역 문화콘텐츠기업에 100억원 보증 지원",
+          "url": "https://v.daum.net/v/20261006150314659",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "부산은행, 신보와 ‘K-콘텐츠 생산적 금융지원’ 업무협약",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261006.99099001418",
+          "source": "국제신문",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "부산은행, 신용보증기금과 협업해 'K-콘텐츠 제작기업' 대상 금융지원 확대",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448721",
+          "source": "비즈니스포스트",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "키움증권": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-07T09:56:00+09:00",
+      "lastSeen": "2026-10-07T09:56:00+09:00",
+      "news": [
+        {
+          "title": "키움증권, 연말 절세 시즌 맞이 중개형 ISA 이벤트 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/07/2026100709054862495",
+          "source": "머니투데이",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "키움증권, 연말 맞이 '중개형 ISA 혜자 이벤트 시즌3'…최대 500만원 지급",
+          "url": "https://www.newsis.com/view/NISX20261007_0003816762",
+          "source": "뉴시스",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "키움증권, 연말 절세·투자 동시에..중개형 ISA 혜택 확대",
+          "url": "https://kpenews.com/View.aspx?No=4254310",
+          "source": "한국정경신문",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "백종원": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-07T09:56:00+09:00",
+      "lastSeen": "2026-10-07T09:56:00+09:00",
+      "news": [
+        {
+          "title": "\"입만 열면 말실수\" 논란 자초 스타, 2위 백종원·3위 전현무…1위는?",
+          "url": "https://v.daum.net/v/20261007053150951",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "박위, 백종원·전현무 제치고 '말실수로 논란 자초한 스타' 1위 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/10/06/ME3DSOLBGBSDQMTGMM3GKMJXGE/",
+          "source": "Chosunbiz",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "한소희·뉴진스 민지 아니다… 입만 열면 '논란' 자초하는 스타 1��� 정체",
+          "url": "https://www.wikitree.co.kr/articles/1164441",
+          "source": "위키트리",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "롤 패치 노트": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-07T09:56:00+09:00",
+      "lastSeen": "2026-10-07T09:56:00+09:00",
+      "news": [
+        {
+          "title": "리그 오브 레전드 26.20 패치 노트",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-20-notes/",
+          "source": "League of Legends",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "젠지·한화생명·T1·DK 출격… LCK, 롤드컵 5연속 우승 사수 나선다",
+          "url": "https://v.daum.net/v/20261006113944006",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "'아시안게임 2연패' 한국 LoL, 월드 챔피언십 5년 연속 우승 도전",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/06/GQ2DAMRQMZSDKZRWGBRDMY3BME/",
+          "source": "조선일보",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "코리아 드라마 어워즈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T09:56:00+09:00",
+      "lastSeen": "2026-10-07T09:56:00+09:00",
+      "news": [
+        {
+          "title": "'사랑이 온다' 류승수·박유나, 부녀에서 MC로…하도권과 '코리아드라마어워즈' 이끈다",
+          "url": "https://v.daum.net/v/20261006174315662",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "류승수·박유나·하도권 '제17회 코리아드라마어워즈' MC 출격",
+          "url": "https://www.etnews.com/20261006000271",
+          "source": "전자신문",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "류승수·박유나·하도권 '제17회 KDA' 새 얼굴 됐다..MC 출격 [공식]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/06/GI2WEMRYGVTDGNRVMEZWIODGGQ/",
+          "source": "조선일보",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "슬로우뉴스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T09:56:00+09:00",
+      "lastSeen": "2026-10-07T09:56:00+09:00",
+      "news": [
+        {
+          "title": "국감 나온 조희대‥원고 꺼내 '간섭·위헌' 작심 발언",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6856180_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "김준일 \"조희대, 틀린 말은 아니지만 옳은 말도 아냐\"[뉴스연구소]",
+          "url": "https://v.daum.net/v/20261007092102935",
+          "source": "Daum",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "\"제2 윤석열\" 공세에 \"모욕적\"… 조희대, 준비한 원고 꺼내 6분간 반박",
+          "url": "https://www.chosun.com/politics/assembly/2026/10/07/A65ZHJM4QFA7ZPFCOAZXT7YR7Y/",
+          "source": "조선일보",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "연차": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-07T09:56:00+09:00",
+      "lastSeen": "2026-10-07T09:56:00+09:00",
+      "news": [
+        {
+          "title": "유니포스트, '1시간 단위 연차 시대의 HR 리스크와 대응 전략' e북 발간…노무 리스크 분석·업종별 해결 사례 수록",
+          "url": "https://www.etnews.com/20261007000017",
+          "source": "전자신문",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "'오늘 연차 쓸게요'…휴가 당일 아침 통보해도 될까 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/06/2026100612582836509",
+          "source": "머니투데이",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "[사업주가 반드시 알아야 할 인사노무상식⑨] 연차유급휴가 사용촉진제도와 관련된 사업주 의무사항 안내",
+          "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=204006",
+          "source": "아웃소싱타임스",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    "소방": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T09:56:00+09:00",
+      "lastSeen": "2026-10-07T09:56:00+09:00",
+      "news": [
+        {
+          "title": "인천해양박물관서 전기차 화재 대응훈련…관람객도 직접 대피",
+          "url": "https://biz.heraldcorp.com/article/10894906",
+          "source": "헤럴드경제",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "국립인천해양박물관,전기차 화재 대비 민·관 합동 소방훈련 실시",
+          "url": "https://www.kitvnews.co.kr/news/article.html?no=1672623",
+          "source": "한국미디어뉴스",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "국립인천해양박물관, 전기차 화재 대응 훈련…관람객 대피까지 실전 점검",
+          "url": "https://livesnews.com/mobile/article.html?no=64751",
+          "source": "livesnews.com",
+          "date": "2026-10-06"
+        }
+      ]
     }
   },
   "sections": {
