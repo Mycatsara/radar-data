@@ -1040,6 +1040,266 @@
           "date": "2026-10-07"
         }
       ]
+    },
+    "한겨레": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T23:40:00+09:00",
+      "lastSeen": "2026-10-07T23:40:00+09:00",
+      "news": [
+        {
+          "title": "진중권 “李대통령 ‘폭풍 SNS’, 갈등 봉합커녕 상처만 덧내”",
+          "url": "https://v.daum.net/v/YpRIgpEoFK",
+          "source": "Daum",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "윤호중, 李 ‘좌아하게’ 글에…“야당엔 ‘우아하게’ 썼을 것”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261006/134795354/1",
+          "source": "동아일보",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "이재명 대통령 SNS와 청와대, ‘소통’의 한계?",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337557",
+          "source": "미디어오늘",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "김지원": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-07T23:40:00+09:00",
+      "lastSeen": "2026-10-07T23:40:00+09:00",
+      "news": [
+        {
+          "title": "\"나를 잊으면 어쩌지?\"…김지원, 2년 공백기 불안 고백 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/07/2026100711083262054",
+          "source": "머니투데이",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "‘유퀴즈’ 김지원, 데뷔 첫 단독 예능…“잊혀지면 어쩌지?” 공백기 불안감 고백",
+          "url": "https://www.viva100.com/article/20261007500908",
+          "source": "브릿지경제",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "'유퀴즈' 김지원 \"재벌 3세 역 좋았지만\"…'눈물의 여왕' 비화 공개",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6313451",
+          "source": "뉴스1",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "정용진": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T23:40:00+09:00",
+      "lastSeen": "2026-10-07T23:40:00+09:00",
+      "news": [
+        {
+          "title": "정용진 회장 투자에 허덕인 이마트, 살 만해지니 또 미국에 뭉칫돈?",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/07/2026100780122.html",
+          "source": "인베스트조선",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "신세계, 워너브라더스 인수에 1조4000억 투자…콘텐츠 사업 키운다",
+          "url": "https://dbr.donga.com/kfocus/view/article_no/3658",
+          "source": "동아비즈니스리뷰",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "파라마운트 스카이댄스, WB 디스커버리 인수 합병… '공룡 미디어 그룹' 탄생",
+          "url": "https://v.daum.net/v/20261007113115862",
+          "source": "Daum",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "투자": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-07T23:40:00+09:00",
+      "lastSeen": "2026-10-07T23:40:00+09:00",
+      "news": [
+        {
+          "title": "트럼프, 韓 관세 인하 대가로 1500억弗 조선업 투자 받아내",
+          "url": "https://v.daum.net/v/FWX3uBOcag",
+          "source": "Daum",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "대미투자의 성패, 실행에 달렸다 - 오피니언 | 뉴스",
+          "url": "https://www.korea.kr/news/cultureColumnView.do?newsId=148973031",
+          "source": "정책브리핑",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "[속보]'명태균 게이트' 윤석열 2심서 '무죄'",
+          "url": "https://www.nocutnews.co.kr/news/6588209",
+          "source": "노컷뉴스",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "경기도지사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T23:40:00+09:00",
+      "lastSeen": "2026-10-07T23:40:00+09:00",
+      "news": [
+        {
+          "title": "추미애 \"시·군과 상하관계 아냐\"…고금리발 구조적 위기 경고도 - 머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/10/07/2026100715363911966",
+          "source": "머니투데이",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "[노트북] The buck stops here",
+          "url": "https://www.kyeongin.com/article/1772175",
+          "source": "경인일보",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "벼랑 끝 경기도 추경…도의회 '400억' vs 집행부 '89억' 팽팽",
+          "url": "https://www.yna.co.kr/view/AKR20261007180800061",
+          "source": "연합뉴스",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "폐기물": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-07T23:40:00+09:00",
+      "lastSeen": "2026-10-07T23:40:00+09:00",
+      "news": [
+        {
+          "title": "KGC 부여공장, 건기식업계 첫 '폐기물 매립 제로' 최고등급",
+          "url": "https://v.daum.net/v/20261007082839987",
+          "source": "Daum",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "\"홍삼박은 사료로, 슬러지는 퇴비로\" KGC 부여공장, 폐기물 매립 제로",
+          "url": "https://www.newsis.com/view/NISX20261007_0003816636",
+          "source": "뉴시스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "KGC 부여공장, 폐기물 매립 제로 '플래티넘' 획득",
+          "url": "https://www.etnews.com/20261007000044",
+          "source": "전자신문",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "기사": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-07T23:40:00+09:00",
+      "lastSeen": "2026-10-07T23:40:00+09:00",
+      "news": [
+        {
+          "title": "\"열 번 넘게 셌어요\" 배달지 문앞에 놓인 동전 지퍼백…메모 한 줄 읽고 기사가 한 행동 [따뜻했슈]",
+          "url": "https://v.daum.net/v/PYIHJbIkAC",
+          "source": "Daum",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "지폐·동전 모아 피자값 지불 손님…돈 안 받은 배달 기사 사연",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261005143150zLr",
+          "source": "연합뉴스TV",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "판자촌 배달 갔더니…동전 가득 담긴 지퍼백에 '10번 넘게 ��어요' 쪽지가",
+          "url": "https://news.nate.com/view/20261004n14016",
+          "source": "네이트",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "추성훈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T23:40:00+09:00",
+      "lastSeen": "2026-10-07T23:40:00+09:00",
+      "news": [
+        {
+          "title": "[2회 예고] 충격의 보양식ㄷㄷ 예능 적응하려면 먹어야 한다| #상남자의여행법 | 10월 13일 (화) SBS Plus",
+          "url": "https://programs.sbs.co.kr/plus/realmantrip/clip/90295/22000637917",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "‘상남자의 여행법 in 대만’ 추성훈-김종국-지코, 첫방부터 삼형제 케미 폭발",
+          "url": "https://star.ytn.co.kr/_sn/0117_202610071441355495",
+          "source": "YTN star",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "은퇴전 앞둔 추성훈 “'상남자의 여행법', 운동 배려해줘”",
+          "url": "https://v.daum.net/v/20261006111606672",
+          "source": "Daum",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "나 혼자 산다": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-07T23:40:00+09:00",
+      "lastSeen": "2026-10-07T23:40:00+09:00",
+      "news": [
+        {
+          "title": "'나혼산' 연출 논란 김민 \"집 빌려준 형·누나에게 미안, 더 긴말 필요 없어\"",
+          "url": "https://www.news1.kr/life-culture/general-cultural/6312197",
+          "source": "뉴스1",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "'나혼산' 김민 발전기 연출설…한전 직원 \"계량기 안 보여\"",
+          "url": "https://www.newsis.com/view/NISX20261007_0003816760",
+          "source": "뉴시스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "‘나혼산’ 김민 조작설에 배우 박원빈 “예능은 그냥 예능으로” 일침",
+          "url": "https://v.daum.net/v/20261007130843089",
+          "source": "Daum",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "신탁": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-07T23:40:00+09:00",
+      "lastSeen": "2026-10-07T23:40:00+09:00",
+      "news": [
+        {
+          "title": "한창산업 자사주 신탁 15억원 조기 해지",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=391686",
+          "source": "비건뉴스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "우양에이치씨, 30억원 규모 자기주식취득 신탁계약 해지",
+          "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=705550",
+          "source": "디지털투데이",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "한창산업, 15억원 규모 자기주식 신탁계약 해지 결정",
+          "url": "https://www.datatooza.com/article/20261007110944546352ef31c583_80",
+          "source": "데이터투자",
+          "date": "2026-10-07"
+        }
+      ]
     }
   },
   "sections": {
