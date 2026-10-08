@@ -260,6 +260,266 @@
           "date": "2026-10-07"
         }
       ]
+    },
+    "트로트": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-08T09:22:00+09:00",
+      "lastSeen": "2026-10-08T09:22:00+09:00",
+      "news": [
+        {
+          "title": "성리·김수찬·빈예서, ‘트롯챔피언’ 10월 챔피언 겨룬다",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16241341",
+          "source": "TopStarNews",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "‘트롯챔피언’ 김수찬·빈예서·성리, 1위 대결",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610080096",
+          "source": "www.bntnews.co.kr",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "김수찬·빈예서·성리, ‘트롯챔피언’ 10월 왕좌 두고 맞대결",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=771886",
+          "source": "싱글리스트",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "삼성전자 실적": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-08T09:22:00+09:00",
+      "lastSeen": "2026-10-08T09:22:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 삼성전자 3분기 영업이익 107조4천억 원‥4분기 연속 신기록",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6856509_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "'전세계 1등' 삼성전자, 100조대 영업익 '전무후무 새역사' 썼다 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/08/2026100808014073614",
+          "source": "머니투데이",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "\"판매가격 상승이 환율 역풍 상쇄\"…삼성전자 어닝서프라이즈 비결 심층분석",
+          "url": "https://www.hankyung.com/article/202610089896i",
+          "source": "한국경제",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "한글날": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-08T09:22:00+09:00",
+      "lastSeen": "2026-10-08T09:22:00+09:00",
+      "news": [
+        {
+          "title": "한글날, 세종대왕 발자취 따라가 볼까? 광화문·서촌 일대 6곳(ft. 참여행사)",
+          "url": "https://mediahub.seoul.go.kr/archives/2019571",
+          "source": "서울특별시",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "29CM, 한글날 100주년 맞아 '한글문화상품' 선보인다",
+          "url": "https://www.newsis.com/view/NISX20261008_0003818408",
+          "source": "뉴시스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "'우리말' 관련 서적 판매량 11% 증가",
+          "url": "https://v.daum.net/v/20261007151842298",
+          "source": "Daum",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "임윤찬": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-08T09:22:00+09:00",
+      "lastSeen": "2026-10-08T09:22:00+09:00",
+      "news": [
+        {
+          "title": "임윤찬, 영국 그라모폰 어워즈 수상 불발",
+          "url": "https://www.yna.co.kr/view/AKR20261008004700085",
+          "source": "연합뉴스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "임윤찬, ’클래식계 오스카’ 그라모폰 어워즈 수상 불발",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261008064958Tei",
+          "source": "연합뉴스TV",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "임윤찬, 英 그라모폰 2년 만의 탈환 불발…'카네기홀 바흐' 분전 : 문화",
+          "url": "https://news.jkn.co.kr/post/1011362",
+          "source": "재경일보",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "에페": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-08T09:22:00+09:00",
+      "lastSeen": "2026-10-08T09:22:00+09:00",
+      "news": [
+        {
+          "title": "돌아온 신약, 끝내 살아남았다… 한미약품 에페가 견딘 침묵의 시간",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79739",
+          "source": "히트뉴스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "식약처, 한미약품 ‘GLP-1’ 비만치료제 허가…국내 첫 비만 신약",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8680635",
+          "source": "KBS 뉴스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "\"한 달 20만원에 맞는다\"…'한국판 위고비' 나온다 '들썩'",
+          "url": "https://www.hankyung.com/article/2026100794021",
+          "source": "한국경제",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "성심당": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-08T09:22:00+09:00",
+      "lastSeen": "2026-10-08T09:22:00+09:00",
+      "news": [
+        {
+          "title": "[빅데이터로본다] 제과제빵 전문점 2026년 10월 브랜드평판... 1위 성심당, 2위 뚜레쥬르, 3위 던킨도너츠",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=795750",
+          "source": "일간투데이",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "성심당, 제과제빵 브랜드평판 1위…뚜레쥬르·던킨도너츠 제쳤다",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493524",
+          "source": "핀포인트뉴스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "성심당, 제과제빵 전문점 브랜드평판 2026년 10월...1위",
+          "url": "https://www.beyondpost.co.kr/view.php?ud=20261008082303359946a9e4dd7f_30",
+          "source": "비욘드포스트",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "전북경찰청": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-08T09:22:00+09:00",
+      "lastSeen": "2026-10-08T09:22:00+09:00",
+      "news": [
+        {
+          "title": "금융권 해킹에 보이스피싱 우려 커지는데…'무과실 배상책임제' 도입은 언제?",
+          "url": "https://www.newsis.com/view/NISX20261007_0003817799",
+          "source": "뉴시스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "전주시의회·완산경찰서, 민생범죄 예방 '맞손'…안전한 전주 조성",
+          "url": "https://www.newspim.com/news/view/20261007000907",
+          "source": "뉴스핌",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "연쇄 해킹 충격 지나고 ‘맞춤형 피싱’ 닥친다…‘직접 송금’ 땐 보상도 불분명",
+          "url": "https://www.koreadaily.com/article/20261007005556910",
+          "source": "미주중앙일보",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "조두순": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-08T09:22:00+09:00",
+      "lastSeen": "2026-10-08T09:22:00+09:00",
+      "news": [
+        {
+          "title": "조두순, \"내 뇌에 전파\" 전자장치 부숴…보호관찰소 엿새만에 알아",
+          "url": "https://www.yna.co.kr/view/AKR20261007184500004",
+          "source": "연합뉴스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "조두순, \"내 뇌에 전파가\" 전자장치 파손...법무부 6일간 '깜깜' [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610080816112519",
+          "source": "YTN",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "“내 뇌에 전파 쏜다”며 감시장치 부순 조두순, 보호관찰소는 6일 간 몰랐다",
+          "url": "https://www.munhwa.com/article/11622045",
+          "source": "문화일보",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "버크셔 해서웨이": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-08T09:22:00+09:00",
+      "lastSeen": "2026-10-08T09:22:00+09:00",
+      "news": [
+        {
+          "title": "버핏의 '비밀 포트폴리오', 대형AI주 팔고 '이것' 투자했다",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=06228726645610624&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "버크셔, 주택건설업체 레나 주식 추가매수…주가 3%↑",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438012",
+          "source": "연합인포맥스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "Berkshire Hathaway, Lennar 지분 1억 9,260만 달러 추가 매입",
+          "url": "https://kr.investing.com/news/insider-trading-news/article-93CH-2116892",
+          "source": "Investing.com 한국어",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "베이비뉴스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-08T09:22:00+09:00",
+      "lastSeen": "2026-10-08T09:22:00+09:00",
+      "news": [
+        {
+          "title": "[시] 달",
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=154970",
+          "source": "베이비뉴스",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "이혼 후 자녀 양육 분담하면…엄마 취업률 88%로 높아져",
+          "url": "https://v.daum.net/v/20261007115653144",
+          "source": "Daum",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "선진, 셰프와 손잡고 돼지고기 앞다리살 나들이 레시피 소개",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610061704516388204ead0791_12",
+          "source": "로이슈",
+          "date": "2026-10-07"
+        }
+      ]
     }
   },
   "sections": {
@@ -1403,6 +1663,72 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yQjZ4ZEFac18ta1UxSjB6LWU2czFOZEJFUWxqRjFhbFpJcE9OOTNOaTRkNk9HRXJIb2hKU2ZZQTVnTWt4YzJta00td0VzSkxCUmZrN1ZsN1DSAVRBVV95cUxQbTB0dW1FNkE4dEVfUVVoMG1ab1R0cXNjWVJNUENnZWhzN1laSlJ6aFhVdTZYb1FQay1HTjZHOEpKWHpFcTlOZmF2am9vWjRTU0FoMzc?oc=5",
         "source": "세계일보",
         "date": "2026-10-06"
+      },
+      {
+        "title": "축구대표팀 모레노 감독, 4연전에서 숙제 확인",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91al93VDVkNWVkN2FFbXQ1UmxxdE1Jak5GQ3V6cEsxSFRkNWg5N1F6akhZZDVOaklTTEpGMjBHWVFIdURlNmtkSkdXQ21KcDM4emx1UVdvU1V1SzA?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "임찬규, 다승왕 예약...최원준, 최다 안타 신기록",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zdHlHTDJiZE9KdzlSU0tpWmpOUlZmb2NqTnRqYWwxeENJYXVmQUtJTTZQV2JyV1hXbVlaX29ROGJYMV9qTllfY2xEX2JMc3VxWXd4M085Uy13dmpSX3c?oc=5",
+        "source": "YTN",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "맞수 메시 은퇴에...호날두 \"영원히 남을 역사 만들어\" 찬사",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqN1FZLWdHeXU5emcxb1pGUzBPd2FoSERjbWlraUpkWkQ4N3FLczB6V09TR1d0UkNVRUJJMkdXQ1l6b1lRa0NsZ0ppTVNyblJTQkJpQjdaYmk5QQ?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "‘보드 없인 못 산다’ 떼쓰던 강준이 “AG 금메달 넘어 LA올림픽도 자신”",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRU19YTmhDdzlUQUhsbVoxUFhrWEdURVo0b2RUZHhVanRLUDdFLWVKeUtwdGtnbGtQR3cyWDJXWHJwcmZtZjI0dVltYnlfVGpqRUhvOS15MG5mVmFWRzBLMHVXVTRkUWhNZndoaXVscExnVnUx0gFmQVVfeXFMT1AweF9tdHRvWVVUZDRnam5WMUJPUEt4TVpvUHlEM29wa1BmSW1Gd2dLbFhhVDM4OVpvaEF5eWpJZmJuWEZaVHc2RTRicGVDRVMtUGFvMWg4Z3NLR0k4OU5DVEpGY1VB?oc=5",
+        "source": "동아일보",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "\"죄송합니다. 유감입니다\" 日조직위, '이민성호 4연패' 태극기 게양 지연 불상사 공식 사과서한 보냈다[오피셜]",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVDdoVldlbTZoUkdxeXh6d1lLQjZqY1hYUlBDZThvQUJ3ODNOQVo2U3lxRTBPQTYxdmYwak9XYTRZNHJtaXgyWG1nRUh6Tk1TbFRPVzI2akYwelZfbzNDNWVrQmxGdmdGVUM4eFNvX29Bdk9IWFFxdmx4LVdkYnlxbnNJMA?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "내년 LPGA투어는 33개 대회에 총상금 약 2000억원",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5RkoxTEF6WkxhZ1RYVU9aRHFoMmVzM1NXSWd1WVRuUGdidzJiVllzR1p2SGVoRTkxNXhIZmxZOVZGZExEWWRLcHRsUGdZQ2Q3SjVkczg0WV9kREFNa3Ezcjc1Rnp6ZG45RE9VSUNMOUE2bjQ?oc=5",
+        "source": "서울신문",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "AG 농구는 金, 배구는 '노메달'…\"V리그만의 재미 보여드릴 것\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJdU8xS3JyLVhxZEpPamtReWVWbVNqR2N4SWJjcTV1VmhsSVVwQjl1M3Fnei1qSW9xTjFIOU5oX1dkN185bEd4UlJWbTBGMUVucnBWV3dmOFhuLVnSAWBBVV95cUxOd2FYUUJDYXlHZkRGOHJ0UlltaUs3dWxCdi1xdEZHdkVfMEppLUNjcU5KR3FNX0FCcUxGZXhheTE3WmR0VExLd0pEdEZYYXZCVE1jNnYyQ1E5dUE0US02TzE?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "[공식 발표] 와일드카드 1차전 14일 개최 확정! KBO, 2026 포스트시즌 일정&규칙",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tRWtxcERteUdGd1A2bGhUYUxUZTViUzJfQ09od0xQM2xWVXNocy1RYXBodTZabEpVS3U3R2lyMHBWWm5ONWw3TUEtZ2M4ZW5HT3FmdEVWcEgtVk1EVkh0Zl9pUktYZw?oc=5",
+        "source": "마이데일리",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "[프로농구] 킹 29점 KCC, 가스공사 103-98 제압…가스공사 3연패",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NMUp0Vi10NzBoMEhSM01teGg1djI0Ni1yZDN6NU1jWTU5WFVuTUthSHZ0Q2VOSDd3RkpXUEs1U1ZESGdmQU5RWTNRYlBSUzJkNkJyMkpSOU5PaU9P?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "'장애인체전 다관왕' 제주 연고 선수 아시아 정상 '도전'",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00M1hoTzRiY0dBYUdMYkRmVl9kZThKOGJiaUN2dUtzWElkSHBzWVJWSHhlVXJwOU13MENwS3pFQkNUR29RREtiNGFIRFMzWjBaRWhGRUhhYkg0SFB4c1NRN25lN1pfY3BC?oc=5",
+        "source": "한라일보",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "[기업] SKT, 아시안게임 후원 선수 초청...\"메달 20개 합작\"",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04QUt3WklyNVdSUUNoOVE5Y3ZZVXl4cEU0Q01lbnhPR2xBMzZFYUIyZ0xxSjdpSFZMM3k3V3l5bE9ZaTRIYXVMRUpCcVJERC1uWUJvVm16VjhtRlFkTHc?oc=5",
+        "source": "YTN",
+        "date": "2026-10-07"
       }
     ]
   }
