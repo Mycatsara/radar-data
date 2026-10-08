@@ -520,6 +520,266 @@
           "date": "2026-10-07"
         }
       ]
+    },
+    "육아": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-08T15:30:00+09:00",
+      "lastSeen": "2026-10-08T15:30:00+09:00",
+      "news": [
+        {
+          "title": "빅마마 이혜정, 45세 딸 임신에 눈물…손녀 육아 부탁엔 “자기 자식은 자기가 키워야”",
+          "url": "https://www.donga.com/news/Culture/article/all/20261008/134807192/2",
+          "source": "동아일보",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "이혜정, 45살 딸 임신에 황혼 육아 거절 “자기 자식은 알아서”",
+          "url": "https://www.mk.co.kr/news/hot-issues/12171298",
+          "source": "매일경제",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "이혜정, 45��� 딸 임신에 “며느리 출산 땐 긴장 안했는데‥” 눈물, 황혼육아는 거절(빅마마)",
+          "url": "https://www5.newsen.com/news_view.php?uid=202610080930201910",
+          "source": "뉴스엔",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    "김영옥": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-08T15:30:00+09:00",
+      "lastSeen": "2026-10-08T15:30:00+09:00",
+      "news": [
+        {
+          "title": "김영옥, 며느리 제사 음식 준비 만류 “고급 인력인데…”",
+          "url": "https://www.mk.co.kr/news/hot-issues/12171125",
+          "source": "매일경제",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "반효정, 20년 인연 매니저가 전한 미담 \"그만둔 뒤에도 개인번호 줘\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6313734",
+          "source": "뉴스1",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "김영옥 “며느리는 고급 인력”… 85세 할머니에게 배운 ‘집안일 대물림 안 하기’",
+          "url": "https://www.sportsseoul.com/news/read/1640160",
+          "source": "스포츠서울",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    "중국": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-08T15:30:00+09:00",
+      "lastSeen": "2026-10-08T15:30:00+09:00",
+      "news": [
+        {
+          "title": "금융권 해커 단서 포착‥\"中 광둥성 26세 추정\"",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6856559_36967.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "\"은행서 훔친 데이터, 어디다 팔지?\"…해커, AI에 판매처까지 물었다",
+          "url": "https://www.news1.kr/it-science/security-hacking/6314504",
+          "source": "뉴스1",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "[은행이 뚫린다] “해킹 툴 아닌 AI 도구”... ‘아르텍스’가 한글판으로 공개된 이유는?",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146220",
+          "source": "보안뉴스",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    "도쿄도": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-08T15:30:00+09:00",
+      "lastSeen": "2026-10-08T15:30:00+09:00",
+      "news": [
+        {
+          "title": "도쿄도 밀어낸 ‘여행하기 좋은 세계 최고 대도시’ 1위 정체는 서울···“서로 다른 매력 누릴 수 있는 곳”",
+          "url": "https://www.khan.co.kr/article/202610080923001",
+          "source": "경향신문",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "서울, 도쿄 제치고 ‘세계 최고 대도시’ 첫 1위…미 여행전문지 독자들 선정",
+          "url": "https://www.hani.co.kr/arti/area/capital/1281450.html",
+          "source": "한겨레",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "도쿄 독주 끝낸 '이 도시'…세계 여행객들이 꼽은 서울의 매력",
+          "url": "https://www.asiae.co.kr/article/2026100814094276868",
+          "source": "아시아경제",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    "압구정동": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-08T15:30:00+09:00",
+      "lastSeen": "2026-10-08T15:30:00+09:00",
+      "news": [
+        {
+          "title": "[단독]압구정 같은 평형 40억 낮은 매물도 … 강남 흔드는 ‘절세 급매’",
+          "url": "https://www.mk.co.kr/news/realestate/12171350",
+          "source": "매일경제",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "압구정 '신현대12차' 59평, 12.5억 하락한 100억원 거래 [일일 하락가]",
+          "url": "https://www.fntimes.com/html/view.php?ud=202610080933351417b372994c95_18",
+          "source": "한국금융신문",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "'2조원 등기 오류' 푼 압구정3구역, 현대건설 재건축 훈풍 타나",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/06/2026100600809.html",
+          "source": "땅집고",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    "1기 신도시": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-08T15:30:00+09:00",
+      "lastSeen": "2026-10-08T15:30:00+09:00",
+      "news": [
+        {
+          "title": "1기 신도시 중동 정비사업 가시화…부천시, 5개 마을 특별정비 궤도 - 머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/10/07/2026100710283512891",
+          "source": "머니투데이",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "부천 중동 1기 신도시 5개 마을 재정비 본격화…1만7천105세대 추진",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363738684",
+          "source": "중부일보",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "부천시, 중동 1기 신도시 5개 마을 특별정비계획 주민공람",
+          "url": "https://www.asiae.co.kr/article/2026100809013245211",
+          "source": "아시아경제",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    "t.o.p": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-08T15:30:00+09:00",
+      "lastSeen": "2026-10-08T15:30:00+09:00",
+      "news": [
+        {
+          "title": "Trump backs away from top aides who reportedly advised pro-Russia government",
+          "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-advisers-republika-srpska",
+          "source": "The Guardian",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "Trump rebukes political advisers for taking other work during midterms",
+          "url": "https://www.washingtonpost.com/politics/2026/10/07/trump-rebukes-advisers-chris-lacivita-james-blair-taking-other-work/",
+          "source": "The Washington Post",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "Trump considers ‘terminating’ campaign advisers after Balkans trip",
+          "url": "https://www.ft.com/content/ea58254a-947e-4e87-86d2-95ffbd8a1c9d?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    "피싱": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-08T15:30:00+09:00",
+      "lastSeen": "2026-10-08T15:30:00+09:00",
+      "news": [
+        {
+          "title": "이억원 \"보이스피싱 무과실배상 도입 고민…금융·통신사 책임 강화\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438370",
+          "source": "연합인포맥스",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "은행만 보이스피싱 배상책임?..이억원 \"금융-통신사 강한 책임 갖도록 설��� 고민\" - 머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/10/08/2026100814301692520",
+          "source": "머니투데이",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "금융권 해킹에 보이스피싱 우려 커지는데…'무과실 배상책임제' 도입은 언제?",
+          "url": "https://www.newsis.com/view/NISX20261007_0003817799",
+          "source": "뉴시스",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    "김선영": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-08T15:30:00+09:00",
+      "lastSeen": "2026-10-08T15:30:00+09:00",
+      "news": [
+        {
+          "title": "배우 김선영, 지난 4일 부친상…슬픔 속 장례 엄수",
+          "url": "https://sports.khan.co.kr/article/202610071601013",
+          "source": "스포츠경향",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "김선영, 뒤늦게 전해진 부친상 비보…슬픔 속 장례 마무리",
+          "url": "https://www.koreadaily.com/article/20261006234223559",
+          "source": "미주중앙일보",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "[공식] 김선영, 부친상…\"지난 4일 별세, 장례 잘 치렀다\"",
+          "url": "https://v.daum.net/v/20261007140957925",
+          "source": "Daum",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    "미국 중간선거": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-08T15:30:00+09:00",
+      "lastSeen": "2026-10-08T15:30:00+09:00",
+      "news": [
+        {
+          "title": "공화당 해결사로, 민주당 구원투수로… ‘두 앙숙’ 다시 맞붙었다",
+          "url": "https://www.chosun.com/international/international_general/2026/10/08/NBYDSFO5JZALZACZQ5QDZCQSRQ/",
+          "source": "조선일보",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "선거 시스템 부패 주장하더니...트럼프가 '우편투표'까지 꺼낸 이유 [자막뉴스]",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202610081508041467&s_mcd=0134",
+          "source": "YTN",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "'부정선거 주장' 트럼프, 중간선거 국제 감시단은 거부",
+          "url": "https://www.newsis.com/view/NISX20261008_0003818219",
+          "source": "뉴시스",
+          "date": "2026-10-08"
+        }
+      ]
     }
   },
   "sections": {
