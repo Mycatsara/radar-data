@@ -482,6 +482,266 @@
           "date": "2026-10-08"
         }
       ]
+    },
+    "티빙": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-09T16:12:00+09:00",
+      "lastSeen": "2026-10-09T16:12:00+09:00",
+      "news": [
+        {
+          "title": "[활로 뚫는 티빙] TV광고 위축에 패키지 전략 차용…그룹 인프라 든든한 뒷배",
+          "url": "https://dealsite.co.kr/articles/170294",
+          "source": "딜사이트",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "[이번주 뭐보지] 신인감독 김연경2·F1 등 예능&스포츠 공개",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3438937",
+          "source": "천지일보",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "티빙, 황금연휴 취향별 볼거리 강화…드라마��스포츠·예능 한데 묶었다",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16242268",
+          "source": "TopStarNews",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "tving": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-09T16:12:00+09:00",
+      "lastSeen": "2026-10-09T16:12:00+09:00",
+      "news": [
+        {
+          "title": "[Hot Figure in the National Assembly Audit] Kyeongtae Cho, Six-Term Veteran... Demonstrates the Textbook of Policy Questioning",
+          "url": "https://www.asiae.co.kr/en/article/2026100709581440464",
+          "source": "아시아경제",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "South Korea grills firms over massive data leaks, mulls LG Uplus penalty waiver - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-it/2026/10/06/HQZXYFKHXNCP7O5GQEEQWA3IPA/",
+          "source": "Chosunbiz",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "Deputy Prime Minister and Minister of Science and ICT Bae Kyounghun said he will demand exemption fr..",
+          "url": "https://www.mk.co.kr/en/it/12169634",
+          "source": "매일경제",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "수원 kt 대 고양 소노": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-09T16:12:00+09:00",
+      "lastSeen": "2026-10-09T16:12:00+09:00",
+      "news": [
+        {
+          "title": "문경은 KT 감독 \"배스 수비 부담 덜어주려 했다, 그런데 선수가 직접...\" [수원 현장] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/09/2026100912264462193",
+          "source": "머니투데이",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "2경기는 아직 '공포탄'이었다. KT 강성욱의 '성장통'. 문경은 감독의 예리한 조언 \"메인 볼 핸들러. 3점 안되면 다른 대안 고민\", 그 의미는?",
+          "url": "https://www.chosun.com/sports/basketball/2026/10/07/G43WKOJRGU4WMZRSMEYTEZJRMQ/",
+          "source": "조선일보",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "[현장인터뷰] 이틀동안 잠 못 이룬 KT 문경은 감독의 결단. \"고민 끝 얼리 오펜스 선택\" 그의 선택은 왜 적중했나",
+          "url": "https://www.sportschosun.com/basketball/2026-10-06/202610060100044020002839",
+          "source": "스포츠조선",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "서울경제": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-09T16:12:00+09:00",
+      "lastSeen": "2026-10-09T16:12:00+09:00",
+      "news": [
+        {
+          "title": "[보도설명자료] 「공소·중수·경찰청장은 국무회의 참석 않는 게 옳다」(10.7., 동아일보 등) 보도 관련",
+          "url": "https://www.korea.kr/news/actuallyView.do?newsId=148973169&pWise=sub&pWiseMain=F1",
+          "source": "정책브리핑",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "[보도설명자료][10.8.목 중앙일보] 9000가구 사라졌다..'단수 위험인구 90% 증발 미스터리' 관련",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148973203",
+          "source": "정책브리핑",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "[보도설명자료][10.7.수 서울경제]저소득층 더 준다더니···517만명 기초연금 '한겨울 삭감' 관련",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148973173",
+          "source": "정책브리핑",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "정우성": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-09T16:12:00+09:00",
+      "lastSeen": "2026-10-09T16:12:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 정우성, 아티스트컴퍼니 이사직 중도 사임···이정재 동행 끝",
+          "url": "https://sports.khan.co.kr/article/202610091036003",
+          "source": "스포츠경향",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "임기 5개월 남았는데…정우성, 아티스트컴퍼니 사내이사 중도 사임",
+          "url": "https://www.newsis.com/view/NISX20261009_0003820186",
+          "source": "뉴시스",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "정우성, '절친' 이정재 최대주주 아티스트컴퍼니 사내이사 중도 사임…무슨 일?",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6315224",
+          "source": "뉴스1",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "수원fc 대 화성": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-09T16:12:00+09:00",
+      "lastSeen": "2026-10-09T16:12:00+09:00",
+      "news": [
+        {
+          "title": "수원FC, 한글날 홈경기서 화성FC와 승격 경쟁 맞대결…",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=796035",
+          "source": "일간투데이",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "수원FC· 화성FC, 휴식기 끝난 첫 대결 승자는...수원은 안산 상대로 선두 굳히기",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363738737",
+          "source": "중부일보",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "[K리그2 프리뷰]지켜야 산다, 제쳐야 산다...2위만이 살길! 순위 사수-탈환 전쟁, 수원FC-화성 본격 충돌→서울E-김포 격돌",
+          "url": "https://www.sportschosun.com/football/2026-10-08/202610080100057390003677",
+          "source": "스포츠조선",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "고독사": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-09T16:12:00+09:00",
+      "lastSeen": "2026-10-09T16:12:00+09:00",
+      "news": [
+        {
+          "title": "인천시, 고독사 사후 대응서 사회적 고립 예방으로 전환",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037029",
+          "source": "기호일보",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "인천시, 사회적 고립 예방체계 자문회의 개최",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3716927",
+          "source": "국제뉴스",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "인천시, '고독사·고립' 선제 대응… 광역 차원 사회적 고립 예방체계 구축 나선다",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3206174&type=&mobile=",
+          "source": "아시아뉴스통신",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "한국항공우주산업": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-09T16:12:00+09:00",
+      "lastSeen": "2026-10-09T16:12:00+09:00",
+      "news": [
+        {
+          "title": "KAI, 모로코 에어쇼 참가…FA-50 앞세워 아프리카 공략",
+          "url": "https://www.yna.co.kr/view/AKR20261008069400003",
+          "source": "연합뉴스",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "KAI 모로코 마라케시 에어쇼 참가, 경공격기 'FA-50' 아프리카 세일즈",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448907",
+          "source": "비즈니스포스트",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "KAI, 모로코 에어쇼 첫 참가…아프리카 수출 기회 모색",
+          "url": "https://zdnet.co.kr/view/?no=20261008110816",
+          "source": "지디넷코리아",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "lg 대 롯데": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-10-09T16:12:00+09:00",
+      "lastSeen": "2026-10-09T16:12:00+09:00",
+      "news": [
+        {
+          "title": "'까딱하면 WC행' 승차 없는 4위 LG, 당장 내일(10일) 선발도 모른다... 염경엽도 한숨 \"1안부터 3안까지 고민 중\" [부산 현장] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/09/2026100910535067406",
+          "source": "머니투데이",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "3위 싸움하는데, 선발이 없다니…염경엽의 머리가 복잡하다, 10일 롯데전은 누구? “톨허스트 4일 휴식도 고민” [오!쎈 부산] - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/10/09/MJSTIZDGGJTGINJWHAZDOYZRHA/",
+          "source": "Chosunbiz",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "[AI프리뷰] 9일 부산 롯데-LG전, 카라스코 어깨에 달린 LG의 3위 탈환",
+          "url": "https://www.newspim.com/news/view/20261009000012",
+          "source": "뉴스핌",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "k리그1": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-09T16:12:00+09:00",
+      "lastSeen": "2026-10-09T16:12:00+09:00",
+      "news": [
+        {
+          "title": "A매치 휴식기 끝낸 K리그…서울 자력 우승까지 '승점 10'[��목! 이종목]",
+          "url": "https://www.newsis.com/view/NISX20261008_0003819968",
+          "source": "뉴시스",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "'승리하면 2위 보인다' 전북, 대전 상대 2년 무패 이어갈까...'전역 복귀' 전병관·이수빈 합류 속 반등 도전",
+          "url": "https://www.chosun.com/sports/football/2026/10/09/HE2TIMBRGBRGGMLGHBTGIZBYGE/",
+          "source": "조선일보",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "A매치 휴식기 끝내고 돌아온 K리그1, 정규리그 이제 3경기…대전하나-전북 4위권 격돌, 서울의 우승 카운트다운에 제주가 제동 걸까?",
+          "url": "https://sports.donga.com/sports/article/all/20261007/134801513/1",
+          "source": "스포츠동아",
+          "date": "2026-10-09"
+        }
+      ]
     }
   },
   "sections": {
