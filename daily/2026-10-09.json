@@ -742,6 +742,235 @@
           "date": "2026-10-09"
         }
       ]
+    },
+    "부유세": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-09T23:32:00+09:00",
+      "lastSeen": "2026-10-09T23:32:00+09:00",
+      "news": [
+        {
+          "title": "헝가리 내년부터 부유세 도입…41억원 넘는 자산에 1% 세금",
+          "url": "https://www.yna.co.kr/view/AKR20261009049800109",
+          "source": "연합뉴스",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "부자들 벌써부터 ‘벌벌’...41억 초과 자산에 1% 세금 매기겠단 이 나라",
+          "url": "https://www.mk.co.kr/news/world/12172476",
+          "source": "매일경제",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "헝가리, 내년부터 41억원 초과 자산에 부유세 1% 부과",
+          "url": "https://www.imaeil.com/page/view/2026100917512636770",
+          "source": "매일신문",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "sri lanka vs pakistan": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-09T23:32:00+09:00",
+      "lastSeen": "2026-10-09T23:32:00+09:00",
+      "news": [
+        {
+          "title": "Experimental Pakistan host transitional Sri Lanka in rare home T20Is this season",
+          "url": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-1st-t20i-1550708/match-preview",
+          "source": "Cricinfo",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "Young guns begin WC 2028 journey against Sri Lanka today",
+          "url": "https://www.thenews.pk/print/1441794-young-guns-begin-wc-2028-journey-against-sri-lanka-today",
+          "source": "The News Pakistan",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "Farhan hopes Pakistan's new combination takes off in Sri Lanka T20Is",
+          "url": "https://www.france24.com/en/live-news/20261008-farhan-hopes-pakistan-s-new-combination-takes-off-in-sri-lanka-t20is",
+          "source": "France 24",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "sbs": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-09T23:32:00+09:00",
+      "lastSeen": "2026-10-09T23:32:00+09:00",
+      "news": [
+        {
+          "title": "Preview of SBS 8 News (October 9)",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008790685",
+          "source": "news.sbs.co.kr",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "패션": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-09T23:32:00+09:00",
+      "lastSeen": "2026-10-09T23:32:00+09:00",
+      "news": [
+        {
+          "title": "'부잣집 딸'처럼 입는다더니…2030 女 난리 난 패션",
+          "url": "https://www.hankyung.com/article/2026100928931",
+          "source": "한국경제",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "부자보다 ‘부잣집 딸’… ‘현백 코어’를 아시나요",
+          "url": "https://www.chosun.com/economy/money/2026/10/08/VSXHU5OHXRFZDB6UKEZAIFFRHI/",
+          "source": "조선일보",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "김고은의 ‘부잣집 딸 룩’, 블라우스는 10만 원대였습니다",
+          "url": "https://www.cosmopolitan.co.kr/article/1910934",
+          "source": "www.cosmopolitan.co.kr",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "주차": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-09T23:32:00+09:00",
+      "lastSeen": "2026-10-09T23:32:00+09:00",
+      "news": [
+        {
+          "title": "주차장 빈자리 AI가 찾아준다…파킹고, 주차 관제 솔루션 선봬",
+          "url": "https://kidd.co.kr/news/247669",
+          "source": "산업일보",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "에이치티비욘드, 아파트 생활 플랫폼 ‘바이비’ AI 관리자앱 출시… 새 미션도 첫 공개",
+          "url": "https://www.ceoeconomy.com/news/articleView.html?idxno=21098",
+          "source": "CEO경제신문",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "부평구, 22개 동 주차환경 전수 점검…정책 기반 마련",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=717916",
+          "source": "뉴스타운",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "양향자": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-09T23:32:00+09:00",
+      "lastSeen": "2026-10-09T23:32:00+09:00",
+      "news": [
+        {
+          "title": "국힘 ‘비당권파’ 양향자 지역위원장 낙선…‘장동혁발’ 당원직선제 영향?",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1281692.html",
+          "source": "한겨레",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "국힘 경기 용인갑 조직위원장에 윤재복…경선서 양향자 제쳐",
+          "url": "https://www.yna.co.kr/view/AKR20261008205100001",
+          "source": "연합뉴스",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "국힘, 사고당협 정비 막바지…'당원 직선제'로 총선 조직재건 시동",
+          "url": "https://www.news1.kr/politics/assembly/6315060",
+          "source": "뉴스1",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "김가영": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-09T23:32:00+09:00",
+      "lastSeen": "2026-10-09T23:32:00+09:00",
+      "news": [
+        {
+          "title": "“실수연발에 불운까지 겹쳤다” 김가영, 히다 오리에에게 0-3 완패 4강 진출 실패[크라운해태LPBA]",
+          "url": "https://mkbn.mk.co.kr/news/sports/12172488",
+          "source": "mkbn.mk.co.kr",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "'4년 만의 4강' 히다, 김가영에 3-0 완승 ‘천적 극복’…정수빈도 박정현 완파",
+          "url": "https://www.thebilliards.kr/news/articleView.html?idxno=32129",
+          "source": "빌리어즈",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "'10대 당구 소녀, 또 이변' 16살 최연소 이승희, 챔피언 출신 강호 넘어 첫 16강",
+          "url": "https://www.nocutnews.co.kr/news/6588663",
+          "source": "노컷뉴스",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "지스타": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-09T23:32:00+09:00",
+      "lastSeen": "2026-10-09T23:32:00+09:00",
+      "news": [
+        {
+          "title": "‘전기차는 게임기다’…현대차·BMW가 게임쇼로 간 까닭은",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373196",
+          "source": "전기신문",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "[지스타 2026] 대형사 빈자리, 글로벌 대작·인디가 채운다…11월 19일 부산서 개막",
+          "url": "https://www.issueon.co.kr/news/articleView.html?idxno=14017",
+          "source": "ISSUE ON (이슈온)",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "[박준규의 이슈언박싱] 대형사 빠진 자리 중국 퍼블리셔가 채운다…지스타에 무슨 일이",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=128940",
+          "source": "펜앤마이크",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    "김시아": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-09T23:32:00+09:00",
+      "lastSeen": "2026-10-09T23:32:00+09:00",
+      "news": []
+    },
+    "필즈상": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-09T23:32:00+09:00",
+      "lastSeen": "2026-10-09T23:32:00+09:00",
+      "news": [
+        {
+          "title": "수학 난제 풀이 쏟아낸 AI... 필즈상 수상자 \"깊은 좌절\"",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/09/DSB2IGMUX5AYTOVJR63O5DQQVY/",
+          "source": "조선일보",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "\"평생을 바친 천재들은 뭐가되나\"…3시간 만에 쏟아진 논문 722편 '충격과 공포'[과학을읽다]",
+          "url": "https://view.asiae.co.kr/article/2026100817122755968",
+          "source": "아시아경제",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "머리 싸매던 난제 단번에 풀었다…오픈AI 발표에 수학계 '동공지진' [지금이뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0545_202610081120012490",
+          "source": "YTN",
+          "date": "2026-10-09"
+        }
+      ]
     }
   },
   "sections": {
