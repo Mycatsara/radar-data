@@ -742,6 +742,241 @@
           "date": "2026-10-10"
         }
       ]
+    },
+    "환경일보": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-10T21:54:00+09:00",
+      "lastSeen": "2026-10-10T21:54:00+09:00",
+      "news": []
+    },
+    "상장지수 펀드": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-10T21:54:00+09:00",
+      "lastSeen": "2026-10-10T21:54:00+09:00",
+      "news": [
+        {
+          "title": "\"제2의 엔비디아 놓칠라\"…상장 전인데 개미들 벌써 '들썩' [이수의 ETF줌인]",
+          "url": "https://www.hankyung.com/article/2026100813616",
+          "source": "한국경제",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "'반도체 밸류체인 투자' 등 ETF 4종 13일 신규 상장",
+          "url": "https://stock.mk.co.kr/news/view/1171865",
+          "source": "매일경제 마켓",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "신한운용 'SOL 글로벌DRAM반도체플러스 ETF' 하반기 신규 상장 반도체 ETF 중 개인 순매수 1위",
+          "url": "https://www.etoday.co.kr/news/view/2633886",
+          "source": "이투데이",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "여자 축구": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-10T21:54:00+09:00",
+      "lastSeen": "2026-10-10T21:54:00+09:00",
+      "news": [
+        {
+          "title": "2026년 여자 축구 전국 선수권 대회의 2차전이 시작됩니다.",
+          "url": "https://www.vietnam.vn/ko/khai-dien-giai-doan-hai-giai-bong-da-nu-vo-dich-quoc-gia-2026",
+          "source": "Vietnam.vn",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "2026년 여자 축구 국가대표팀 11라운드 순위",
+          "url": "https://www.vietnam.vn/ko/bang-xep-hang-vong-11-giai-bong-da-nu-vdqg-2026",
+          "source": "Vietnam.vn",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "호치민시 FC I이 탄 KSVN을 꺾고 전국 선수권 대회 선두 자리를 지켰습니다.",
+          "url": "https://www.vietnam.vn/ko/clb-tp-hcm-i-danh-bai-than-ksvn-tiep-tuc-dung-dau-giai-vo-dich-quoc-gia",
+          "source": "Vietnam.vn",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "첼시": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-10T21:54:00+09:00",
+      "lastSeen": "2026-10-10T21:54:00+09:00",
+      "news": [
+        {
+          "title": "[오피셜] '맨시티 떠난 건 신의 한 수'...알론소 아래 부활한 팔머, 첼시와 2034년까지 장기 동행! \"재계약 당연했어\"",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696138",
+          "source": "인터풋볼",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "첼시 FC, GAC와 새로운 글로벌 파트너십 발표",
+          "url": "https://www.newsis.com/view/ALSX20261010_0000007802",
+          "source": "뉴시스",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "첼시, 4년 전 바르셀로나에 뺏겼던 ‘만능 수비수’ 다시 노린다...이적료는 최소 ‘750억’",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99074",
+          "source": "포포투",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "노웅래": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-10T21:54:00+09:00",
+      "lastSeen": "2026-10-10T21:54:00+09:00",
+      "news": [
+        {
+          "title": "‘정치자금 수수’ 무죄 노웅래, “전과 16범” 발언에 명예훼손 벌금형 확정",
+          "url": "https://www.donga.com/news/Society/article/all/20261010/134817862/2",
+          "source": "동아일보",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "'뇌물수수 무죄' 노웅래, \"전과 16범\" 발언 명예훼손 벌금형 확정",
+          "url": "https://www.news1.kr/society/court-prosecution/6315656",
+          "source": "뉴스1",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "'정치자금 수수' 무죄 노웅래 前의원, '명예훼손' 벌금형 확정",
+          "url": "https://www.newsis.com/view/NISX20261010_0003820626",
+          "source": "뉴시스",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "사미자": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-10T21:54:00+09:00",
+      "lastSeen": "2026-10-10T21:54:00+09:00",
+      "news": [
+        {
+          "title": "사미자, 진짜 며느리 눈치도 안 보나..윤유선에 또 며느리 욕심 \"서운해 하지 않나\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-09/202610090100061860003974",
+          "source": "스포츠조선",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "사미자 “이 새X는 지금” 진짜 며느리 두고, 욕심 나는 윤유선에 며느리 플러팅ing(오미자)",
+          "url": "https://www.newsen.com/news_view.php?uid=202610101006442110&code=100100",
+          "source": "뉴스엔",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "위조": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-10T21:54:00+09:00",
+      "lastSeen": "2026-10-10T21:54:00+09:00",
+      "news": [
+        {
+          "title": "컬러 프린터로 5만원권 위조지폐 20장 제작한 20대…항소심도 실형",
+          "url": "https://www.donga.com/news/Society/article/all/20261010/134817751/2",
+          "source": "동아일보",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "집에서 5만원권 위조해 편의점서 사용…20대 항소심도 징역 2년",
+          "url": "https://www.kyeonggi.com/article/20261010580035",
+          "source": "경기일보",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "‘컬러프린터로 5만원권 위조’ 20대, 항소 기각… 원심 징역 2년 유지",
+          "url": "https://www.kyeongin.com/article/1772248",
+          "source": "경인일보",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "arsenal đấu với leeds": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-10T21:54:00+09:00",
+      "lastSeen": "2026-10-10T21:54:00+09:00",
+      "news": [
+        {
+          "title": "Trực tiếp bóng đá Arsenal - Leeds United: Ăn miếng trả miếng (Ngoại hạng Anh)",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-arsenal-leeds-united-phao-thu-coi-chung-ngoai-hang-anh-c48a1801490.html",
+          "source": "Tin tức 24h",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Arsenal – Leeds, thuốc thử cho chiều sâu lực lượng của HLV Arteta",
+          "url": "https://www.sggp.org.vn/arsenal-leeds-thuoc-thu-cho-chieu-sau-luc-luong-cua-hlv-arteta-post875882.html",
+          "source": "BÁO SÀI GÒN GIẢI PHÓNG",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Declan Rice báo tin vui cho Arsenal, Kai Havertz bỏ ngỏ khả năng",
+          "url": "https://bongda24h.vn/bong-da-anh/declan-rice-bao-tin-vui-cho-arsenal-kai-havertz-bo-ngo-kha-nang-ra-san-172-461838.html",
+          "source": "Bongda24h",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "อาร์เซนอล พบ ลีดส์": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-10T21:54:00+09:00",
+      "lastSeen": "2026-10-10T21:54:00+09:00",
+      "news": [
+        {
+          "title": "เดอ แซร์บี และ \"เกมสุดท้าย\" ของเขา ขณะที่ท็อตแนมพบกับแมนเชสเตอร์ ยูไนเต็ด",
+          "url": "https://www.vietnam.vn/th/de-zerbi-va-tran-dau-cuoi-cung-khi-tottenham-gap-man-united",
+          "source": "Vietnam.vn",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "ผีจะหลอนหรือไก่จะจิก! วิเคราะห์บอล แมนยู พบ สเปอร์ส ฟุตบอลพรีเมียร์ลีก 2026/27 นัดที่ 6 | Soccersuck",
+          "url": "https://today.line.me/th/v3/article/1DPZqW2",
+          "source": "LINE TODAY",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "ลิ้งค์ดูสดวันนี้ 'แมนยู พบ สเปอร์ส' ดูบอลสด พรีเมียร์ลีก อังกฤษ",
+          "url": "https://www.bangkokbiznews.com/news/sport/1255839",
+          "source": "bangkokbiznews",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "pl": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-10T21:54:00+09:00",
+      "lastSeen": "2026-10-10T21:54:00+09:00",
+      "news": [
+        {
+          "title": "UE chce ciąć budżet. Polska ma szansę obronić miliardy na rolnictwo i regiony",
+          "url": "https://newsmaxpolska.pl/gospodarka/aktualnosci/74795/irlandia-proponuje-ciecie-budzetu-ue-co-to-oznacza-dla-polski/news",
+          "source": "Newsmax Polska",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Polskie Radio: są cięcia w budżecie UE, ale nie dla Polski",
+          "url": "https://polskieradio24.pl/swiat/polskie-radio-sa-ciecia-w-budzecie-ue-ale-nie-dla-polski",
+          "source": "Polskie Radio 24",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Limit 100 tys. euro i \"wspólny worek\". Nowa WPR wisi na budżecie UE. Kolejne decyzje w sobotę",
+          "url": "https://wiescirolnicze.pl/polityka-rolna/limit-100-tys-euro-i-wspolny-worek-nowa-wpr-wisi-na-budzecie-ue-kolejne-decyzje-w-sobote,34446/",
+          "source": "Wieści Rolnicze",
+          "date": "2026-10-10"
+        }
+      ]
     }
   },
   "sections": {
