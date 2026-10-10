@@ -2,10 +2,10 @@
   "date": "2026-10-11",
   "keywords": {
     "แมนยู พบ สเปอร์ส": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-10-11T02:41:00+09:00",
-      "lastSeen": "2026-10-11T02:41:00+09:00",
+      "lastSeen": "2026-10-11T06:19:00+09:00",
       "news": [
         {
           "title": "เดอ แซร์บี และ \"เกมสุดท้าย\" ของเขา ขณะที่ท็อตแนมพบกับแมนเชสเตอร์ ยูไนเต็ด",
@@ -24,14 +24,26 @@
           "url": "https://www.bangkokbiznews.com/news/sport/1255839",
           "source": "bangkokbiznews",
           "date": "2026-10-10"
+        },
+        {
+          "title": "แมนยู ช็อกโดน สเปอร์ส ที่เหลือ 10 คนไล่เจ๊าศึกพรีเมียร์ลีก - บาเลบา ประเดิมสนาม | Khaosod",
+          "url": "https://today.line.me/th/v3/article/x2ovkqq",
+          "source": "LINE TODAY",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "ปีศาจแดงนำก่อน แต่ทำได้แค่เจ๊า สเปอร์ ที่เหลือ 10 คน 1-1",
+          "url": "https://www.matichon.co.th/sport/footballinter/footballinterengland/news_5927755",
+          "source": "Matichon Online",
+          "date": "2026-10-10"
         }
       ]
     },
     "man utd đấu với tottenham": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-10-11T02:41:00+09:00",
-      "lastSeen": "2026-10-11T02:41:00+09:00",
+      "lastSeen": "2026-10-11T06:19:00+09:00",
       "news": [
         {
           "title": "Trực tiếp bóng đá MU - Tottenham: \"Quỷ đỏ\" vất vả chống đỡ (Ngoại hạng Anh)",
@@ -50,14 +62,26 @@
           "url": "https://www.vietnam.vn/he/nhan-dinh-manchester-united-vs-tottenham-diem-nong-cuoc-dua-top-dau",
           "source": "Vietnam.vn",
           "date": "2026-10-10"
+        },
+        {
+          "title": "Video bóng đá MU - Tottenham: \"Quỷ đỏ\" đánh rơi lợi thế vàng (Ngoại hạng Anh)",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-mu-tottenham-so-tai-khong-khoan-nhuong-ngoai-hang-anh-c48a1801713.html",
+          "source": "Tin tức 24h",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "HLV Carrick nói thẳng lý do MU không thắng nổi 10 người của Spurs",
+          "url": "https://thethao247.vn/175391-hlv-carrick-noi-thang-ly-do-mu-khong-thang-noi-10-nguoi-cua-spurs-c2-d439658.html",
+          "source": "Thể Thao 247",
+          "date": "2026-10-10"
         }
       ]
     },
     "논술": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-10-11T02:41:00+09:00",
-      "lastSeen": "2026-10-11T02:41:00+09:00",
+      "lastSeen": "2026-10-11T06:19:00+09:00",
       "news": [
         {
           "title": "논술 시험 마치고 대학교 나서는 수험생들",
@@ -80,10 +104,10 @@
       ]
     },
     "man utd vs spurs": {
-      "count": 1,
-      "maxTraffic": 500,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-10-11T02:41:00+09:00",
-      "lastSeen": "2026-10-11T02:41:00+09:00",
+      "lastSeen": "2026-10-11T06:19:00+09:00",
       "news": [
         {
           "title": "Premier League predictions & Jones Knows' best bets: Liverpool vs Manchester City, Manchester United vs Tottenham and more",
@@ -101,6 +125,18 @@
           "title": "Licensable picture: UK: Premier League: Manchester United v Tottenham Hotspur",
           "url": "https://www.reutersconnect.com/item/uk-premier-league-manchester-united-v-tottenham-hotspur/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDA5OUM3UUg",
           "source": "Reuters Connect",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Manchester United vs Tottenham Hotspur: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cmpwgrrx0nqpt",
+          "source": "BBC",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Ten-man Spurs rescue draw at Man Utd, Arsenal survive Leeds scare",
+          "url": "https://www.arabnews.com/football/ten-man-spurs-rescue-draw-at-man-utd-arsenal-survive-leeds-scare-3005660",
+          "source": "Arab News",
           "date": "2026-10-10"
         }
       ]
@@ -257,6 +293,162 @@
           "title": "[포토] 올 시즌 끝으로 철거공사 예정인 잠실야구장",
           "url": "https://www.newdaily.co.kr/site/data/html/2026/10/07/2026100700270.html",
           "source": "뉴��일리",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "이언주": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-11T06:19:00+09:00",
+      "lastSeen": "2026-10-11T06:19:00+09:00",
+      "news": [
+        {
+          "title": "이언주 MBC 신임 보도국장, “특정 정파 위한 뉴스라는 오해에서 벗어날 것”",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337643",
+          "source": "미디어오늘",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "여성 보도국장, AI 조직 통합… MBC 사장 첫 행보",
+          "url": "https://m.journalist.or.kr/m/m_article.html?no=61806",
+          "source": "기자협회",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "이언주 MBC 보도국장 임명동의 통과",
+          "url": "https://v.daum.net/v/20261005170948921",
+          "source": "Daum",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "민도희": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-11T06:19:00+09:00",
+      "lastSeen": "2026-10-11T06:19:00+09:00",
+      "news": [
+        {
+          "title": "'응사' 민도희, 결국 한국 떠난다",
+          "url": "https://www.newsis.com/view/NISX20261010_0003820669",
+          "source": "뉴시스",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "민도희, 캐나다로 떠난다…카페 알바 이어 새로운 도전",
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=617523",
+          "source": "메디컬투데이",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "‘응답하라’ 女배우, 생계 위해 ‘알바’→캐나다로 떠난다…”무섭고 떨려” [MHN:픽]",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1576633",
+          "source": "MHN스포츠",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "real madrid vs villarreal": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-11T06:19:00+09:00",
+      "lastSeen": "2026-10-11T06:19:00+09:00",
+      "news": [
+        {
+          "title": "LaLiga: I won’t even put you on the bench – Mourinho warns Real Madrid players",
+          "url": "https://dailypost.ng/2026/10/10/laliga-i-wont-even-put-you-on-the-bench-mourinho-warns-real-madrid-players/",
+          "source": "Daily Post Nigeria",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Why Vinicius looks a shadow of himself for Real Madrid and Brazil",
+          "url": "https://onefootball.com/en/news/why-vinicius-looks-a-shadow-of-himself-for-real-madrid-and-brazil-43588838",
+          "source": "OneFootball",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Vinícius Júnior benched as Real Madrid take on Villarreal",
+          "url": "https://www.espn.com/soccer/story/_/id/50149213/vinicius-junior-benched-real-madrid-take-villarreal",
+          "source": "ESPN",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "psg": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-11T06:19:00+09:00",
+      "lastSeen": "2026-10-11T06:19:00+09:00",
+      "news": [
+        {
+          "title": "La banderole piquante du CUP face au Mans",
+          "url": "https://www.footmercato.net/a6038339106207642373-la-banderole-piquante-du-cup-face-au-mans",
+          "source": "Foot Mercato",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "« Un jeune fort sur sa ligne avec une grande envergure » : qui est Arthur Bar, jeune gardien inconnu appelé avec les pros du PSG pour affronter Le Mans en Ligue 1 ?",
+          "url": "https://www.live-mercato.com/article/186846-un-jeune-fort-sur-sa-ligne-avec-une-grande-envergure-qui-est-arthur-bar-jeune-gardien-inconnu-appele-avec-les-pros-du-psg-pour-affronter-le-mans-en-ligue-1",
+          "source": "www.live-mercato.com",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Le PSG, « c'est des assassins » - Ligue 1 - J6 - PSG-Le Mans (3-1)",
+          "url": "https://www.sofoot.com/breves/le-psg-cest-des-assassins-applaudit-le-defenseur-du-mans-samuel-yohou",
+          "source": "SO FOOT.com",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "레알 마드리드 대 비야레알": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-11T06:19:00+09:00",
+      "lastSeen": "2026-10-11T06:19:00+09:00",
+      "news": [
+        {
+          "title": "[오피셜]\"충격!\" 韓 에이스 '이강인 때리기' 논란→'가장 놀라운 회복세'…'세 달 OUT 예상' 페데리코 발베르데, 복귀 뒤 출전 준비",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/10/HE4WIZRTMJTDOMRQGNSTSOLEG4/",
+          "source": "조선일보",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "이강인 '살인 태클'에 쓰러졌던 ���베르데 깜짝 복귀, AT 마드리드 \"축하한다\" 조롱 대응 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/10/2026101010253225985",
+          "source": "머니투데이",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "\"이강인 퇴장!\" 사진까지 들고나온 무리뉴, '3급 염좌'였는데 17일 만에 복귀...ATM \"전 세계 의료계가 틀렸다니 축하합니다\" 조롱",
+          "url": "https://www.osen.co.kr/article/G1112890730",
+          "source": "OSEN",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "la liga": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-11T06:19:00+09:00",
+      "lastSeen": "2026-10-11T06:19:00+09:00",
+      "news": [
+        {
+          "title": "Licensable picture: LaLiga - FC Barcelona v Getafe",
+          "url": "https://www.reutersconnect.com/item/laliga-fc-barcelona-v-getafe/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQUExRUxUVEQ",
+          "source": "Reuters Connect",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Post game reaction: Hansi Flick and Anthony Gordon",
+          "url": "https://www.fcbarcelona.com/en/barca-play/videos/4590269",
+          "source": "FC Barcelona",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Barca extend perfect streak, Atletico scrape late win",
+          "url": "https://www.afp.com/en/barca-extend-perfect-streak-atletico-scrape-late-win",
+          "source": "AFP.com",
           "date": "2026-10-10"
         }
       ]
@@ -1415,6 +1607,60 @@
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZExyUVIxWUJPUW8xeVk1dmt2TEF4RkkyejVpRlpreVBRbGVxWThaaHh3NXYwMzJLVnA4U2FydjNvNzM5T0FQZWJ0WkhwcjVjUGd5VHpZUVVLU3Voa2poLXVEMXNXaGx2VnFJbE0wQUZhMk95dlh1bDg1Y2Vhb0RybUtuRTc?oc=5",
         "source": "스포츠조선",
         "date": "2026-10-09"
+      },
+      {
+        "title": "한화이글스 김경문 감독·손혁 단장 동반 퇴진",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xQkdfdDh3UDlhbjdkSktUb2g1VWVUdTJaQWh0Vk1MUkFaUHh5UHluWkFIQlIxWV92Ynp2UUFIVUUtYXZRMTFpeGJqaGE4UUdSbXVkMU5sQzA2Vmo2cDFzM182aVE4Zw?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "'이강인 교체 33분' 아틀레티코, 방패로 팼다! '10명' 알라베스에 2-1 진땀승...'로메로 데뷔골' 폭발→라리가 2위 도약",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPem5tNmtjajE3MkhSNFEzQnB6TlhrcHBlcThlWjRrOGJlQnhXdS1pbU9Tdl9JQ0hpbVNNMnY2aWo4OV9PekFlQzk4c2RBdnp1U0pLSW5FVzAxTTRFTEtDeUY5U0tqWWFPZzdYcWhFSEc2Vkh4WWdYdGdnSVU2YkpKc2R2RFlmVDhQeE9r?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "'BTS도 군대 갔는데 축구선수는 왜?' 英도 금메달 '군 면제' 논란, 집중조명...\"자랑했다가 역풍→새로운 손흥민·이강인 될지도 불확실\"",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02a29zQ2ZYRXVJYkxRV2lBczRibWhZWUU5YndIUXhfRVAydDJCdi15dTAtT3c1bWx1ZEZGc21HM05veXZCdC13Z2FUTURwLWlBTm5RdQ?oc=5",
+        "source": "OSEN",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "용인의용·서부의용소방대 연합회, 국가대표 친선경기 현장서 시민 안전 봉사",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wbFdQcS1xVkZ0LVlHU21ZUEM2LWlEUDh6VmpJSFpfc0k4bFZpaVZ0bERsY0tYaVQ5VEFXRDRQX3VtQWNGYXpqWUoyQkhhcm9oSkFxb3ZoVHN0TWM0d2RZMF84Y9IBZ0FVX3lxTE8xdU9RRE9oNXlSLS1FV2ZlcFAzMW84UGFUVUUxTDdzRjM3Q3BZRzVPQnNZX0FxdnNQUEVFZThrQ2VNN1hqR0ZQS1g4dFFFWjF5alc0Z1ZHNHI4ZlZYcFFxS0w4blhfWmM?oc=5",
+        "source": "국민기자뉴스",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "[박신자컵] '강이슬 더비' 우리은행, KB 65-63 제압…3년 만의 결승 진출",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02VFczVTRlOUtuenhQanBJVVJrVzUwdFRQLVJ6b2dsVW5xc1Q5TzRPLXh6dkpQb3JIRkoydUNrakxxUVhJTmxMTzNzMDh0TWVwZW1vMnhJQm0tZw?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "“이거 연기 아니었어?”…프로레슬링 경기 중 나온 ‘금지기술’에 심판 사망 충격",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZnhtWncyXzJLVExxV3JDTTZ2UWprQzlZNGdacGtJb2c4S3MxcHZLLTJtMFlhZGlwdFBzUHhzeWZWNm5LcDBJLXM3UllNVXJf?oc=5",
+        "source": "문화일보",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "웃음기 싹 사라진 이범호 감독, 직접 마운드 올라 강한 메시지...김도영 역전포부터 홈런 4방 폭발, KIA 준PO 직행까지 1승[광주 현장]",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON1dZcVVWb0pzRFY3elZhRUM0QUFZQ2ZmbElRMk5KV2hGWVAyVnlkZC1URzRYeEZqVkxMQ0piSE9rQmdDZWtrNnExWDlvb3h3c2cyaEd2Y2dmOHBEZmQwQTI3c0NZRzZKcV9uNHUzOU00cUwxamNSMjItb0VCZTFLXzJwTQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "'3연패 도전' 김효주, 선두와 6타 차 3R 공동 13위... 日 야마시타 1위 도약 [LET 아람코 코리아 챔피언십] - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxM21KblNIbHFxSVpuSjk1M1JjdTFQMWFlMlZKa05OWElPSW84Z3FiYTJ4MlJOS3VfNjd3b244MHV4ZFJtSmpHRUhlbk40eEp3X3JsTEJ4ZzVQNDBZcHA3SHFtbEE0LUVUUUZF0gFwQVVfeXFMTVRDenRDRjFTMW1Zb1dlYTR6eWwxNEtzZnZhT3NKRTRFSlNZTmZnbnI2N3RtNGVNQUtJRHN2MkhlWUw4LXQ4Ymt3S1BwSUw5djRGUElIOWM3ZWxmbkZSME01bU9GMkRTakhIRVZfbVlocg?oc=5",
+        "source": "머니투데이",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "롯데 레이예스, 205번째 안타…최원준 제치고 단독 선두",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84SldKOFBzcEwtVjJhNDVDYUwtMmpJb1pEVlFmckw5ZDhkXzk1aXV4V3dtUDdDc0VHV3pIUzdJejRqand4dEhNRVI3Qkg5RXdsamdVVlcwQzNHVzjSAWBBVV95cUxOdWhyWUt6cEFNc0lzcERPOEZsdV8xTXZuVTR3cVptTThCdU5weUZHRk1aQlZZVW55T19TcHhNaTFlRlBublUxbzkybWNlVG1UT3NoS2VDZkowQjNUOGZtNUw?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-10"
       }
     ]
   }
