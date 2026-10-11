@@ -254,6 +254,247 @@
           "date": "2026-10-11"
         }
       ]
+    },
+    "제민일보": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-12T07:18:00+09:00",
+      "lastSeen": "2026-10-12T07:18:00+09:00",
+      "news": []
+    },
+    "thời tiết": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-12T07:18:00+09:00",
+      "lastSeen": "2026-10-12T07:18:00+09:00",
+      "news": [
+        {
+          "title": "Dự báo thời tiết đêm nay và ngày mai 12/10/2026: Mưa giảm tại Trung Bộ, Nam Bộ có mưa rào chiều tối",
+          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-12102026-mua-thu-hep-dan-tai-trung-bo-nam-bo-co-mua-rao-ve-chieu-toi-post994480.html",
+          "source": "Báo Nhân Dân điện tử",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Dự báo thời tiết đêm 11 và ngày 12/10",
+          "url": "https://baolaocai.vn/du-bao-thoi-tiet-dem-11-va-ngay-1210-post911686.html",
+          "source": "Báo Lào Cai điện tử",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Dự báo thời tiết ngày mai 12.10: Áp thấp nhiệt đới gây mưa lớn trên biển",
+          "url": "https://laodong.vn/du-lich/cong-dong/du-bao-thoi-tiet-ngay-mai-1210-ap-thap-nhiet-doi-gay-mua-lon-tren-bien-1781441.html",
+          "source": "Laodong.vn",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "สภาพอากาศ": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-12T07:18:00+09:00",
+      "lastSeen": "2026-10-12T07:18:00+09:00",
+      "news": [
+        {
+          "title": "สภาพอากาศวันนี้ -17 ต.ค.กรมอุตุฯเตือน ร่องมรสุมพาดผ่าน ใต้ฝนหนักบางแห่ง",
+          "url": "https://www.thansettakij.com/general-news/671161",
+          "source": "Thansettakij",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "ปริมาณน้ำในเขื่อน ล่าสุด ภาพรวม 82% รับมือมวลอากาศเย็นระลอกใหม่",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1255925",
+          "source": "bangkokbiznews",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "เปิดรายชื่อจังหวัด พิกัดเสี่ยงเจอฝนตกหนัก คืนนี้-พรุ่งนี้ | มุมข่าว",
+          "url": "https://today.line.me/th/v3/article/kEpLBow",
+          "source": "LINE TODAY",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "天气": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-12T07:18:00+09:00",
+      "lastSeen": "2026-10-12T07:18:00+09:00",
+      "news": [
+        {
+          "title": "Extreme Weather Is Everywhere Now—How to Prepare Your Home",
+          "url": "https://www.wsj.com/tech/ai/extreme-weather-is-everywhere-nowhow-to-prepare-your-home-f5abcc52",
+          "source": "WSJ",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "A Climate Expert’s Guide to Disaster-Proofing Your Next Home",
+          "url": "https://www.wsj.com/science/environment/disaster-proofing-your-home-e74215d3",
+          "source": "WSJ",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Experts Warn of Super El Niño",
+          "url": "https://www.jw.org/en/library/series/more-topics/experts-warn-of-super-el-nino/",
+          "source": "JW.ORG",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "삼성전자": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-12T07:18:00+09:00",
+      "lastSeen": "2026-10-12T07:18:00+09:00",
+      "news": [
+        {
+          "title": "“삼성전자마저 판다”...외국인 삼전 지분, 금융위기 수준인 46%로 ‘뚝’",
+          "url": "https://www.chosun.com/economy/money/2026/10/11/4UYRSGIPOFEHNAYH72PIS7OLNI/",
+          "source": "조선일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "삼성전자 역대급 실적에도 코스피 '흔들'…반등의 열쇠는?",
+          "url": "https://news.mtn.co.kr/news-detail/2026101121093775298",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "'코리아 할인'에 삼성전자 주식 던졌다…외인 지분율 금융위기 이후 최저 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/11/2026101117184437883",
+          "source": "머니투데이",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "기상청": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-12T07:18:00+09:00",
+      "lastSeen": "2026-10-12T07:18:00+09:00",
+      "news": [
+        {
+          "title": "파주 7㎜·동두천 2㎜…빗나간 강수예보, 기상청장 “체계 바꾸는 방법 고민”",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1333811",
+          "source": "인천일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "김위상 “기상청 여름 강수예보 적중률 10년 내 최저…정확도 높일 대책 마련해야”",
+          "url": "https://www.etnews.com/20261008000035",
+          "source": "전자신문",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "거제 폭우 때 경남 방재기상지원관 '0명'…3년째 제자리",
+          "url": "https://www.news1.kr/economy/env-policy/6314567",
+          "source": "뉴스1",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "오늘날씨": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-12T07:18:00+09:00",
+      "lastSeen": "2026-10-12T07:18:00+09:00",
+      "news": [
+        {
+          "title": "13일 전국 가을비… 그친 뒤 아침 기온 ‘뚝’",
+          "url": "https://www.chosun.com/national/transport-environment/2026/10/11/PYWGNHCFENBLJMJDZUXGKIZXMM/",
+          "source": "조선일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "“출근길 우산 챙기세요”…전국 곳곳 소나기·낮 최고 29도 [날씨]",
+          "url": "https://www.kyeonggi.com/article/20261011580280",
+          "source": "경기일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "10월 중순인데 ’30도 늦더위’…오늘도 고온현상",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261012053429H1Y",
+          "source": "연합뉴스TV",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "부산날씨": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-12T07:18:00+09:00",
+      "lastSeen": "2026-10-12T07:18:00+09:00",
+      "news": [
+        {
+          "title": "부산·울산·경남 구름 많고 서부내륙 소나기…낮 최고 25∼28도",
+          "url": "https://www.yna.co.kr/view/AKR20261011004900057?section=society/all",
+          "source": "연합뉴스",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "[오늘의 날씨] 부산·경남(12일, 월)…아침 선선·낮 29도, 큰 일교차",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6316082",
+          "source": "뉴스1",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "경남 내일 곳곳에 비…예상 강수량 5~20㎜",
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8682387",
+          "source": "KBS 뉴스",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "인천광역시": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-12T07:18:00+09:00",
+      "lastSeen": "2026-10-12T07:18:00+09:00",
+      "news": [
+        {
+          "title": "인천시, 시민의 날 맞아 ‘인천하늘수’ 수질 안전 체험 캠페인 진행",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=718156",
+          "source": "뉴스타운",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "[민선 9기 출범 100일 ] 서해 바람으로 주민 이익… ‘에너지 고속도로’ 연다",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037172",
+          "source": "기호일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "제62회 인천시민의 날 기념…박찬대 “인천 제값 찾겠다” 선언",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1333798",
+          "source": "인천일보",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "김민재": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-12T07:18:00+09:00",
+      "lastSeen": "2026-10-12T07:18:00+09:00",
+      "news": [
+        {
+          "title": "‘96 라인’ 3인방, 진짜 원하는 게 무엇인가? 대표팀 은퇴로 원하는 바를 흥정했다면 큰 오산이다…‘태극마크’는 결코 흥정, 거래의 대상이 될 수 없다",
+          "url": "https://www.segye.com/newsView/20261009502745",
+          "source": "세계일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "\"은퇴 안 하냐?\" 김민재·황인범, 소속팀 SNS까지 비난 폭탄...'96라인 은퇴설' 후폭풍 어쩌나, 댓글 막아도 소용없다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/12/202610120113772325O",
+          "source": "머니투데이",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "[이원홍의 스포트라이트]철없는 언행, 자중지란… 혼돈의 한국 축구",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261011/134822048/2",
+          "source": "동아일보",
+          "date": "2026-10-11"
+        }
+      ]
     }
   },
   "sections": {
@@ -1379,6 +1620,72 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44eUQ3V2FzUm5JNS1OSUFkUHo5eWxrYnNkakZkVFVmZTAxODhoUGNBUDRpQTlzazdJNG5BY016YS1ncjVDRmduLTVxNHp1T3VhaUphaUh4Ty1wbHc?oc=5",
         "source": "일간스포츠",
         "date": "2026-10-10"
+      },
+      {
+        "title": "[프로야구] KIA 양현종·LG 임찬규, 준PO 직행 걸린 12일 정규시즌 최종전 선발 맞대결",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OWERsLUU0cm91cVpDOFBENDNyR0IwMGpkbTVHT2tkSlRQOTE2dTBhZVhsRWxpek9MYklXaHp4SVlDOS1yRGQ4V0hrQ3k1RkNyTkFVcFc4dnpmUUZx?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "일본 후지쯔, 박신자컵 3년 연속 우승...우리은행 준우승",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxdTlNSElGbGpVSkRyQVd6akt3anhWbHktRFJsY0RYWWhYdk5RR3pBcmZNOXNQREdsSDJ3d01LeVRpQ0w1M3FHNGp5OHpqMHBaclVfeTBMX0x2MmYzdWc?oc=5",
+        "source": "YTN",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "이수근, 농구 대표팀 비주얼 변화에 '깜짝'…\"과거와 달라\"",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43MVNmc1dyVnZZcEZQY25NcU1UUm1waDJxNnFBOEoyMzdpbkVhWnl0RlktWGVGMHhSMTFJMFlhbjIyQTZWcjZhSHFHeW9OVjVQbGRLaExUWjA0WUl6WVB1aDFicnh3ZXUxZ244Y2h3?oc=5",
+        "source": "알파경제",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "'역대급 시즌' FC서울, 다음주에 우승 가능하다! 10년 만의 K리그1 제패 눈앞...울산 충격패로 매직 넘버 '4'→조기 우승 보인다",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdGRXdllMQ1VPb0Q4b25WV2wyTHlVWHVxMDVHZU0yU3J3aHBxajA3eFdfWFFDdzI1emhVLTF0MzE1ZzFWV3ZjR2N2UFVWR0Y2Yk56ZldEUGVaVHJJTE16UXlvZDVVVFc4RW1TMkwxemZNNUpwME5Pd3JjR1RycE9RTFRaVQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "유현조, HJ중공업·동부건설 ��피언십 정상…“미국 무대 도전 계획”",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VUFAzSTFFMXhZOGhUZkRvNDF0NUdwM0dWb0lUOXZ4Z2J4clRkYnVGNGY0V01rYVowcTR0dXpzZ3RMaS15d3VUVzdNRGtZdl9vQVA0OGpXUDBmLW5VLXA2bm5n?oc=5",
+        "source": "한겨레",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "이대한, KPGA 어메이징크리 오픈 초대 챔프...23개월 만에 정상",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oaVNYZzRaYUl2cFQ4YlJ3UEQyVi1nY2NnZnVZMUR0aVF5b1pEcGw3OXU3X0dPU2hxVGRvcTVhcDVYclhyTmlBdUpWT2RZQlc5MWlxSGd5SV8tcXh4QXc?oc=5",
+        "source": "YTN",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "[라리가] '발목 부상 우려' 이강인, 복귀전서 33분 활약…AT마드리드 4연승 질주",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ic1JJMDZXV2VBbmdEd2IzWExGTTJ0R25OYWhMVlNTSHVTZnBJTjd6aVFWcUxPRmN2SUFUSXppWGwtYnBfMGZQQ1Z6UTgtWTdyaG91TkJvUnNkN292?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "\"한국에 졌어도 기분 좋았어\" 여전히 자신만만한 우즈벡 칸나바로 감독, \"이제 아시안컵 준비한다\"",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81RVhYOXBiTFVjYnA1UnNLQWZwV29DcFNqWHFPQ2ZwY08xQlVhZ0VZa2k0ZDM3OTNnWTJwOUdFYmVWajF4b3FqYy1pS2Y3ekxsMnZuWUNaZFRXcTI2MS0tcVRuRmVtNlFjMVlLVndrazE?oc=5",
+        "source": "포포투",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "임성재, PGA투어 3개 대회 연속 톱10",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uUGNDU18yS1BFUFpraEdsR1BTaS15UXRHTE9fQnJ1aG5PQzhhYXFMZnZXamN3YmE3TXZ1cFNmTXFPZldnalgyb1lrQ0FQS2tySmtGUkRxUHItZw?oc=5",
+        "source": "한국경제",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "'손흥민 풀타임' LAFC, 10명 뛴 밴쿠버와 1대 1 무승부",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZ2MtYmVLOEtUaDl4MlUzYnhPd0hBTlpLSXg1c2JoTlZjSWx0OTJjcFlEQnZRY25SOEJIM2FHcXp4VThKTlpMS2k2T0xOQW1PckZ4U0RRRzhicF9TTHc?oc=5",
+        "source": "YTN",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "'207안타' 얼마나 괴물이면, '볼넷 분노' 최원준 결국 혼났다…레이예스 3년 연속 타이틀 방어 눈앞이다",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fdVUzc0diWnFlWFpaODZLb0VuQkhTb19fOXpfMFROSDB5Yy1Lbk9lSUpxR21TMnBaMjlDLTU1d1V3UWlpTmsxc1M0UlRrM2lhelJ1TXJERDBjTHNoTV9sdlNuSEgwTTB3RTZfdXl4d3BYcXh5RVBWSDNwQTJ1dw?oc=5",
+        "source": "스포츠조선",
+        "date": "2026-10-11"
       }
     ]
   }
