@@ -693,6 +693,266 @@
           "date": "2026-10-10"
         }
       ]
+    },
+    "호랑이": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-11T15:13:00+09:00",
+      "lastSeen": "2026-10-11T15:13:00+09:00",
+      "news": [
+        {
+          "title": "英 동물원 호랑이 우리에 뛰어든 남성, 호랑이 공격받아 사망",
+          "url": "https://www.donga.com/news/Inter/article/all/20261011/134820037/1",
+          "source": "동아일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "영국 동물원서 호랑이 우리에 들어갔다가 물려 숨져",
+          "url": "https://www.yna.co.kr/view/AKR20261011020500009",
+          "source": "연합뉴스",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "英동물원서 시베리아호랑이 우리 들어간 남성, 공격받아 숨져",
+          "url": "https://www.news1.kr/world/europe/6315926",
+          "source": "뉴스1",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "윤호중": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-11T15:13:00+09:00",
+      "lastSeen": "2026-10-11T15:13:00+09:00",
+      "news": [
+        {
+          "title": "행안장관 \"임은정 광주중수청장 감찰 지시…중수청 정치기관 착각\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261011140945pZJ",
+          "source": "연합뉴스TV",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "[속보]‘중수청 1호 감찰 대상’ 임은정 “사명감 갖고 잘 대처…검찰서도 징계취소 승소”",
+          "url": "https://www.khan.co.kr/article/202610111449001",
+          "source": "경향신문",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "윤호중 행안장관 \"임은정 광주중수청장 감찰 착수할 것\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6857061_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "안양 정관장 대 창원 lg": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-11T15:13:00+09:00",
+      "lastSeen": "2026-10-11T15:13:00+09:00",
+      "news": [
+        {
+          "title": "[포토] 박지훈, 양준석 가볍게 처리 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/11/2026101114151213264",
+          "source": "머니투데이",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "[포토] 아반도-양홍석 '리바운드 쟁탈전' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/11/2026101114172728689",
+          "source": "머니투데이",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "‘3점슛 성공률 12%’ 유도훈 감독 “찬스에서 머뭇거려…더 자신감 가져야”",
+          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065605654654984",
+          "source": "점프볼",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "k리그2": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-11T15:13:00+09:00",
+      "lastSeen": "2026-10-11T15:13:00+09:00",
+      "news": [
+        {
+          "title": "'드디어 끝났다'…천안시티FC 경남에 신승, 무승행진 14경기서 종지부",
+          "url": "https://www.newsis.com/view/NISX20261010_0003820652",
+          "source": "뉴시스",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "K리그2 천안, 경남 1-0 제압…14경기·5개월 만에 승리",
+          "url": "https://www.news1.kr/sports/soccer/6315671",
+          "source": "뉴스1",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "'경남은 걸을수록 축구를 잘한다?' 배성재 감독의 열띤 축구 강의 [케터뷰]",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=215719",
+          "source": "풋볼리스트",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "수원삼성": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-11T15:13:00+09:00",
+      "lastSeen": "2026-10-11T15:13:00+09:00",
+      "news": [
+        {
+          "title": "'1위 굳히기' 나서는 수원, 안산전 베스트11 공개...루이스-페신 투톱 가동+'전역' 김주찬 '대기'[현장 라인업]",
+          "url": "https://www.chosun.com/sports/football/2026/10/11/HE3TSN3DMI3DQOJWMI4TGYZRHA/",
+          "source": "조선일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "이정효 수원 감독 \"김주찬, 생각보다 어려서 놀랐다...준홍이한테는 킥 자제하자고 농담했다\"",
+          "url": "https://www.sportschosun.com/football/2026-10-11/202610110100067790004399",
+          "source": "스포츠조선",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "[if.preview] ‘4연승’ 이정효의 수원, 안산에 설욕하고 우승에 더 가까이 갈까?",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99100",
+          "source": "포포투",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "지폐": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-11T15:13:00+09:00",
+      "lastSeen": "2026-10-11T15:13:00+09:00",
+      "news": [
+        {
+          "title": "컬러 프린터로 5만원권 위조지폐 20장 제작한 20대…항소심도 실형",
+          "url": "https://www.donga.com/news/Society/article/all/20261010/134817751/2",
+          "source": "동아일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "휴대폰으로 찍고 A4 용지에 뽑았다…어르신들 일하는 편의점서 사용한 20대 결국",
+          "url": "https://www.sedaily.com/article/20100030",
+          "source": "서울경제",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "집에서 5만원권 위조해 편의점서 사용…20대 항소심도 징역 2년",
+          "url": "https://www.kyeonggi.com/article/20261010580035",
+          "source": "경기일보",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "can vs nep": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-11T15:13:00+09:00",
+      "lastSeen": "2026-10-11T15:13:00+09:00",
+      "news": [
+        {
+          "title": "Match Predictions: ICC CWC League 2 2026 - Match 133 - Nepal vs Canada and Match 134 - USA vs UAE - October 11th",
+          "url": "https://www.cricketworld.com/match-predictions-icc-cwc-league-2-2026-match-133-nepal-vs-canada-and-match-134-usa-vs-uae-october-11th/113743.htm",
+          "source": "Cricket World",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Nepal to take on Canada in League 2 cricket",
+          "url": "https://english.onlinekhabar.com/nepal-to-take-on-canada.html",
+          "source": "OnlineKhabar English News",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Nepal’s Last Chance in the World Cup League 2 Campaign",
+          "url": "https://ekantipur.com/sports/2026/10/10/en/last-chance-for-nepal-16-54.html",
+          "source": "Ekantipur",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "씨름": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-11T15:13:00+09:00",
+      "lastSeen": "2026-10-11T15:13:00+09:00",
+      "news": [
+        {
+          "title": "씨름선수 딸 이현지, 19세에 유도 세계 제패…\"내 능력 믿었다\"",
+          "url": "https://www.yna.co.kr/view/AKR20261011000900007",
+          "source": "연합뉴스",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "유도 AG '銀' 8일 만에 생애 첫 세계선수권 '金'…제주출신 이현지 '쾌거'",
+          "url": "https://www.news1.kr/local/jeju/6315934",
+          "source": "뉴스1",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "이현지, 유도 세계선수권 여자 최중량급 우승",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/11/LXIOWCYQINFH3MU67JUDYYPUPI/",
+          "source": "조선일보",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "손흥민": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-10-11T15:13:00+09:00",
+      "lastSeen": "2026-10-11T15:13:00+09:00",
+      "news": [
+        {
+          "title": "손흥민이 퇴장 끌어냈지만…LAFC, 10명이 뛴 밴쿠버와 1-1 비겨",
+          "url": "https://www.yna.co.kr/view/AKR20261011026800007",
+          "source": "연합뉴스",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "'리더십 상처' 손흥민, 소속팀에서 명예 회복할까?",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610101330441600",
+          "source": "YTN",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "‘손흥민 7호골, 일본 골키퍼가 막았다!’ 한 골이나 마찬가지였던 손흥민 완벽한 슈팅, 슈퍼세이브에 막혔다…LAFC 0-1 뒤지고 전반종료",
+          "url": "https://www.osen.co.kr/article/G1112891121",
+          "source": "OSEN",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "김밥": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-11T15:13:00+09:00",
+      "lastSeen": "2026-10-11T15:13:00+09:00",
+      "news": [
+        {
+          "title": "CU, 김천김밥축제 경연 우승작 '중화식 고추잡채 김밥' 출시",
+          "url": "https://www.yna.co.kr/view/AKR20261011012400030",
+          "source": "연합뉴스",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "김밥에 10만 원 썼는데 안 아깝다…역대급 호평으로 전국 1위 오��� ‘축제’",
+          "url": "https://www.sedaily.com/article/20100020",
+          "source": "서울경제",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "“김밥을 영어로 하면 바비킴?”…2년 만에 전국 1위 오른 김천김밥축제 [제철축제]",
+          "url": "https://www.mk.co.kr/news/culture/12172723",
+          "source": "매일경제",
+          "date": "2026-10-11"
+        }
+      ]
     }
   },
   "sections": {
