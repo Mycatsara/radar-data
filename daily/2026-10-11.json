@@ -452,6 +452,247 @@
           "date": "2026-10-10"
         }
       ]
+    },
+    "서장훈의 이웃집 백만장자": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-11T09:21:00+09:00",
+      "lastSeen": "2026-10-11T09:21:00+09:00",
+      "news": [
+        {
+          "title": "최옥영 부부 “12억 5천만 원 조각상까지 팔아” (이웃집 백만장자)",
+          "url": "https://sports.khan.co.kr/article/202610090312003",
+          "source": "스포츠경향",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "최옥영, 15만 6천 평 산을 작품으로…\"직원보다 관람객 적어 힘들었다\" ('이웃집 백만장자')",
+          "url": "https://m.news.nate.com/view/20261007n04916?mid=e02",
+          "source": "네이트",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "서장훈 “저의 쓸쓸함 표현했다” 쓰레기로 그림 그린 날, 숨은 미술 DNA",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16241292",
+          "source": "TopStarNews",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "월스트리트 저널": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-11T09:21:00+09:00",
+      "lastSeen": "2026-10-11T09:21:00+09:00",
+      "news": [
+        {
+          "title": "For Walmart, Replacing Humans With Robots Is a Multibillion-Dollar Struggle",
+          "url": "https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2",
+          "source": "WSJ",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Walmart’s multibillion-dollar push to replace workers with robots hits snags on dog food, cardboard boxes: report",
+          "url": "https://nypost.com/2026/10/09/business/walmarts-multibillion-dollar-push-to-replace-workers-with-robots-hits-snags-on-dog-food-cardboard-boxes-report/",
+          "source": "New York Post",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Walmart Running Into Trouble as Its Super-Expensive Robots Can't Handle the Realities of Warehouse Work",
+          "url": "https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse",
+          "source": "Futurism",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "원자력": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-11T09:21:00+09:00",
+      "lastSeen": "2026-10-11T09:21:00+09:00",
+      "news": [
+        {
+          "title": "원전 르네상스 왔는데…“일할 사람이 없다” 전문인력 부족에 발목",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373217",
+          "source": "전기신문",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "캐나다와 갈등하는 미국…한국은 틈 비집고 원전 진출 돌파구",
+          "url": "https://www.yna.co.kr/view/AKR20261010033600003",
+          "source": "연합뉴스",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "'1200억달러' 한미 원전 프로젝트…2028년 승부수, K-원전 美시장 공략",
+          "url": "https://www.news1.kr/economy/trend/6314872",
+          "source": "뉴스1",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "사관학교": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-11T09:21:00+09:00",
+      "lastSeen": "2026-10-11T09:21:00+09:00",
+      "news": [
+        {
+          "title": "[기고]北 MDL 지뢰도발로 안보가 매우 위중한데, 사관학교 통폐합이 그리도 급한가?",
+          "url": "https://www.munhwa.com/article/11622518",
+          "source": "문화일보",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "'졸속통합 끝내 후폭풍' 2027사관학교 경쟁률 '함흥차사'..'정권이 무력화한 4년예고제'",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=630902",
+          "source": "베리타스알파",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "\"'합동성 강화' 국방부, 합동군사대 예산 26% 감액\"",
+          "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1539553",
+          "source": "OBS경인TV",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "mls": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-11T09:21:00+09:00",
+      "lastSeen": "2026-10-11T09:21:00+09:00",
+      "news": [
+        {
+          "title": "Breaking News, World News and Video from Al Jazeera",
+          "url": "https://www.aljazeera.com/sitemap.xml%3Fyyyy=2026/page/28217?dd=26&mm=02%3Fgb%3Dtrue%3Fgb%3Dtrue%3Fgb%3Dtrue",
+          "source": "Al Jazeera",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Inter Miami vs D.C. United line-ups confirmed for MLS Matchday 29",
+          "url": "https://onefootball.com/en/news/inter-miami-vs-dc-united-line-ups-confirmed-for-mls-matchday-29-43592431",
+          "source": "OneFootball",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Fresh off final game with Argentina, Messi leads Miami vs. D.C. United",
+          "url": "https://www.thenewstribune.com/sports/soccer/article317565841.html",
+          "source": "Tacoma News Tribune",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "fc barcelona vs getafe cf standings": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-11T09:21:00+09:00",
+      "lastSeen": "2026-10-11T09:21:00+09:00",
+      "news": [
+        {
+          "title": "Barcelona 3-0 Getafe: Anthony Gordon scores first Barca goal as Catalan club equal best start to La Liga season",
+          "url": "https://www.bbc.com/sport/football/live/cm87zxxd55r3t",
+          "source": "BBC",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "FC Augsburg vs Bayern Munich: Correct Score",
+          "url": "https://www.coinbase.com/predictions/event/KXBUNDESLIGASCORE-26OCT10FCABMU",
+          "source": "Coinbase",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "The best team in the world? Barça have won 9 out of 9",
+          "url": "https://onefootball.com/en/news/the-best-team-in-the-world-barca-have-won-9-out-of-9-43591195",
+          "source": "OneFootball",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "hd현대": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-11T09:21:00+09:00",
+      "lastSeen": "2026-10-11T09:21:00+09:00",
+      "news": [
+        {
+          "title": "HD현대마린솔루션, 글로벌 엔진 MRO '골텐스' 3315억원에 인수",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/08/2026100880198.html",
+          "source": "인베스트조선",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "HD현대마린솔루션, 美 엔진정비업체 인수",
+          "url": "https://www.donga.com/news/Economy/article/all/20261008/134812556/2",
+          "source": "동아일보",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "HD현대, 글로벌 선박엔진 MRO社 '골텐스' 3315억에 인수(상보)",
+          "url": "https://www.news1.kr/industry/general-industry/6314680",
+          "source": "뉴스1",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "김사랑": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-11T09:21:00+09:00",
+      "lastSeen": "2026-10-11T09:21:00+09:00",
+      "news": []
+    },
+    "lafc": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-11T09:21:00+09:00",
+      "lastSeen": "2026-10-11T09:21:00+09:00",
+      "news": [
+        {
+          "title": "Son Heung-min faces Müller as LAFC seeks rebound against Vancouver - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/10/GOZ47BGCG5CEDP4P4O73LJRH7A/",
+          "source": "Chosunbiz",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "LAFC vs Vancouver Whitecaps FC Predictions, Bet Builder Tips, Lineups, Odds",
+          "url": "https://www.whoscored.com/articles/6cJrCBdM_0SGLa0gs9CW7A/show/cng111-20261010-lafc-vs-vancouver-whitecaps-fc-prediction-1791657756",
+          "source": "WhoScored.com",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Where To Watch | LAFC vs. Vancouver Whitecaps - 2026 MLS Season",
+          "url": "https://www.lafc.com/news/where-to-watch-lafc-vs-vancouver-whitecaps-2026-mls-season-october-10",
+          "source": "Los Angeles Football Club",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    "manchester united f.c. vs tottenham standings": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-11T09:21:00+09:00",
+      "lastSeen": "2026-10-11T09:21:00+09:00",
+      "news": [
+        {
+          "title": "Manchester United: Another failure to beat 10 men increases pressure on boss Carrick",
+          "url": "https://www.bbc.com/sport/football/articles/c62e9g09e781o",
+          "source": "BBC",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Late Solanke Equalizer Forces Manchester United, Tottenham Draw",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/11/CXIEBRPGENBWVFYWTEC2NSVFWA/",
+          "source": "조선일보",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Solanke strikes late as 10-man Spurs salvage point at Manchester United",
+          "url": "https://www.theguardian.com/football/2026/oct/10/manchester-united-tottenham-premier-league-match-report",
+          "source": "The Guardian",
+          "date": "2026-10-10"
+        }
+      ]
     }
   },
   "sections": {
