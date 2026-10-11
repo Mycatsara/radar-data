@@ -953,6 +953,247 @@
           "date": "2026-10-11"
         }
       ]
+    },
+    "weather tomorrow": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-11T22:18:00+09:00",
+      "lastSeen": "2026-10-11T22:18:00+09:00",
+      "news": [
+        {
+          "title": "Updated Weather Forecasts for Giants, Steelers, NFL Games Impacted by Hurricane Isaias Remnants",
+          "url": "https://bleacherreport.com/articles/25508639-updated-weather-forecasts-giants-steelers-nfl-games-impacted-hurricane-isaias-remnants",
+          "source": "Bleacher Report",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Jets vs Browns Game Day Forecast",
+          "url": "https://www.ganggreennation.com/new-york-jets-game-information/97421/jets-vs-browns-game-day-forecast",
+          "source": "Gang Green Nation",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "NFL Week 5 Weather Conditions (Fantasy Football)",
+          "url": "https://www.thefantasyfootballers.com/analysis/nfl-week-5-weather-conditions-fantasy-football-6/",
+          "source": "Fantasy Footballers Podcast",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "이선민": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-11T22:18:00+09:00",
+      "lastSeen": "2026-10-11T22:18:00+09:00",
+      "news": [
+        {
+          "title": "에드워드 리 VS 샘킴 첫 맞대결… 이선민 맞춤 요리 승자는?",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3718024",
+          "source": "국제뉴스",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "'냉부' 이선민 냉장고 공개→8년 묵은 식재료에 '경악'",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/520869",
+          "source": "iMBC 연���",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "이선민, 리센느 원이 키웠다?..600만 조회수에 “나한테 밥 사야” 너스레 (‘냉부해’)",
+          "url": "https://www.osen.co.kr/article/G1112891371",
+          "source": "OSEN",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "한국마사회": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-11T22:18:00+09:00",
+      "lastSeen": "2026-10-11T22:18:00+09:00",
+      "news": [
+        {
+          "title": "한국마사회, 부패방지·준법경영 국제인증 4년 연속 획득",
+          "url": "https://www.kyeonggi.com/article/20261011580064",
+          "source": "경기일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "한국마사회, ISO 부패방지·규범준수 통합인증 4년 연속 유지",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610101553096941f4ab64559d_12",
+          "source": "로이슈",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "한국마사회, 부패방지·규범준수 국제표준 인증 4년 연속 유지",
+          "url": "https://m.ekn.kr/view.php?key=20261010023054414",
+          "source": "에너지경제신문",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "배추": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-11T22:18:00+09:00",
+      "lastSeen": "2026-10-11T22:18:00+09:00",
+      "news": [
+        {
+          "title": "농관원, 김장철 앞두고 배추·무 등 농산물 안전성 집중조사",
+          "url": "https://www.yna.co.kr/view/AKR20261009025200030",
+          "source": "연합뉴스",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "농관원, 김장철 앞두고 배추·무 등 잔류농약 집중 검사…부적합 출하 차단",
+          "url": "https://www.kyeonggi.com/article/20261011580085",
+          "source": "경기일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "김장철 다가온다…11월 30일까지 배추·무 등 잔류농약 조사",
+          "url": "https://www.news1.kr/economy/agri-food/6315643",
+          "source": "뉴스1",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "손웅정": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-11T22:18:00+09:00",
+      "lastSeen": "2026-10-11T22:18:00+09:00",
+      "news": [
+        {
+          "title": "손흥민 父 손웅정, 신인 아이돌 직접 훈련…이 조합은 무슨 일?",
+          "url": "https://sports.donga.com/ent/article/all/20261011/134818518/1",
+          "source": "스포츠동아",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "손흥민 父 손웅정 감독, WAYF BOYS(웨이프 보이즈)에 전한 ‘월드클래스’의 조건은?",
+          "url": "https://sports.khan.co.kr/article/202610111159003",
+          "source": "스포츠경향",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "웨이프 보이즈, 손웅정 감독과 케미 \"월클 비결은 기본과 꾸준함\"",
+          "url": "https://m.enter.etoday.co.kr/view/news_view.php?varAtcId=303521",
+          "source": "비즈엔터",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "아동 학대": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-11T22:18:00+09:00",
+      "lastSeen": "2026-10-11T22:18:00+09:00",
+      "news": [
+        {
+          "title": "초등학생에 “공부 못한다” 수차례 말한 교사, 벌금형 확정",
+          "url": "https://www.joongang.co.kr/article/25468642",
+          "source": "중앙일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "9살 여아에 공부 못한다며 또래 앞에서 “바보냐”…교사 ‘아동학대’ 유죄",
+          "url": "https://www.munhwa.com/article/11622640",
+          "source": "문화일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "\"공부 왜 그렇게 못해\"…교실서 9살 몰아세운 담임 결국",
+          "url": "https://www.hankyung.com/article/2026101139127",
+          "source": "한국경제",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "놀면뭐하니 서울가요제": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-11T22:18:00+09:00",
+      "lastSeen": "2026-10-11T22:18:00+09:00",
+      "news": [
+        {
+          "title": "'놀면 뭐하니?', 유PD와 하작가 깜짝 놀라게 할 전설 등장 예고 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/10/2026101016007247021",
+          "source": "머니투데이",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "유재석, 무명 시절 호프집 알바…\"개그맨 입사 후 일 잘 안 풀려\"",
+          "url": "https://www.chosun.com/entertainments/2026/10/11/KJ46DFPPGZHEBPCHTYZ2FS3Y44/",
+          "source": "조선일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "'놀뭐?' '95 서울가요제, 반응 터졌다…土 예능 시청률 트리플 크라운 달성",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/520888",
+          "source": "iMBC 연예",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "주가": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-10-11T22:18:00+09:00",
+      "lastSeen": "2026-10-11T22:18:00+09:00",
+      "news": [
+        {
+          "title": "삼성전자, 100조 벌고도 주가는 4.7% ↓…증권가 \"최고 63만원\"",
+          "url": "https://www.segye.com/newsView/20261010507308",
+          "source": "세계일보",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "'코리아 할인'에 삼성전자 주식 던졌다…외인 지분율 금융위기 이후 최저 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/11/2026101117184437883",
+          "source": "머니투데이",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "삼성전자 영업이익 107조 실적에도 증시 '찬바람'",
+          "url": "http://incheonilbo.com/news/articleView.html?idxno=1333821",
+          "source": "인천일보",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "김포시": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-11T22:18:00+09:00",
+      "lastSeen": "2026-10-11T22:18:00+09:00",
+      "news": []
+    },
+    "오만 만": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-11T22:18:00+09:00",
+      "lastSeen": "2026-10-11T22:18:00+09:00",
+      "news": [
+        {
+          "title": "미군, 오만만서 대이란 해상봉쇄 돌파 시도 상선 타격",
+          "url": "https://www.yna.co.kr/view/AKR20261011029100009",
+          "source": "연합뉴스",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "미군, 오만만서 對이란 해상 봉쇄 돌파 시도 상선 공격 - 조선비즈",
+          "url": "https://biz.chosun.com/international/international_general/2026/10/11/47ERJ7BCGRG4NBJWG4CWASZWEI/",
+          "source": "Chosunbiz",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "美 \"오만만서 이란 해상봉쇄 돌파하려던 화물선 타격해 무력화\"",
+          "url": "https://www.news1.kr/world/middleeast-africa/6315978",
+          "source": "뉴스1",
+          "date": "2026-10-11"
+        }
+      ]
     }
   },
   "sections": {
