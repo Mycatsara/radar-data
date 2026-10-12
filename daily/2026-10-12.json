@@ -736,6 +736,266 @@
       "firstSeen": "2026-10-12T10:35:00+09:00",
       "lastSeen": "2026-10-12T10:35:00+09:00",
       "news": []
+    },
+    "한미약품": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-12T17:49:00+09:00",
+      "lastSeen": "2026-10-12T17:49:00+09:00",
+      "news": [
+        {
+          "title": "위고비·마운자로 양강 깨질까…국산 비만약 '에페' 출격",
+          "url": "https://www.yna.co.kr/view/AKR20261008145000017",
+          "source": "연합뉴스",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "위고비, 건강보험 적용 추진…비만약 가격 경쟁 격화",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008793631&plink=ORI&cooper=RSS",
+          "source": "news.sbs.co.kr",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "\"3상 성공에도 쉴 �� 없었다\"…한미 '에페' 개발팀의 3년",
+          "url": "https://www.dailypharm.com/user/news/343275",
+          "source": "데일리팜",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    "사우디아라비아": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-12T17:49:00+09:00",
+      "lastSeen": "2026-10-12T17:49:00+09:00",
+      "news": [
+        {
+          "title": "후퇴하는 정부군에 무차별 총격…후티 ‘교전 영상’ 공개 [지금뉴스]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8683107",
+          "source": "KBS 뉴스",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "'13명 사망' 하루 만에‥사우디 공항 또 피격",
+          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6857313_36981.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "약점만 골라 패��� 후티...\"미국도 당혹스러운 상황\" [Y녹취록]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202610121625133525",
+          "source": "YTN",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    "테일러 프리츠": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-12T17:49:00+09:00",
+      "lastSeen": "2026-10-12T17:49:00+09:00",
+      "news": [
+        {
+          "title": "Altmaier escapes Rune, sets Shelton showdown in Shanghai",
+          "url": "https://www.atptour.com/en/news/rune-altmaier-shanghai-2026-wednesday",
+          "source": "ATP Tour",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "Shanghai R1 previews and predictions: Rune vs. Altmaier, Fery vs. Cilic",
+          "url": "https://tenngrand.com/shanghai-tennis-previews-picks-predictions-rune-vs-altmaier-fery-cilic/",
+          "source": "The Grandstand",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "October 8, 2026: Marcos Giron vs Sebastian Baez Round of 128 match Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/marcos-giron-vs-sebastian-baez-round-of-128-match-oct-08-2026/",
+          "source": "Robinhood",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    "서울레이스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-12T17:49:00+09:00",
+      "lastSeen": "2026-10-12T17:49:00+09:00",
+      "news": [
+        {
+          "title": "[단독] ‘서울 달리기’ 마라톤대회서 참가자 의식 잃고 쓰러져 병원행",
+          "url": "https://www.koreadaily.com/article/20261010203530251",
+          "source": "미주중앙일보",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "“런 저니” 48개국에서 달려왔다",
+          "url": "https://www.donga.com/news/Sports/article/all/20261012/134822171/2",
+          "source": "동아일보",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "가을 '서울레이스' 함께 달린 연보라색 푸마[현장]",
+          "url": "https://www.newsis.com/view/NISX20261011_0003820975",
+          "source": "뉴시스",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    "젠지": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-12T17:49:00+09:00",
+      "lastSeen": "2026-10-12T17:49:00+09:00",
+      "news": [
+        {
+          "title": "라이엇게임즈, 2026 월즈 주제곡 공개…'페이커' 참석 상영회 마무리",
+          "url": "https://zdnet.co.kr/view/?no=20261012153651",
+          "source": "지디넷코리아",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "LCK 5연패의 관건은…‘2026 롤드컵’ 16일 스타트",
+          "url": "https://sports.khan.co.kr/article/202610121350003",
+          "source": "스포츠경향",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "“5년 연속 우승 도전”…롤드컵 16일 개막",
+          "url": "https://sports.donga.com/sports/article/all/20261012/134825454/1",
+          "source": "스포츠동아",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    "박스오피스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-12T17:49:00+09:00",
+      "lastSeen": "2026-10-12T17:49:00+09:00",
+      "news": [
+        {
+          "title": "[박스오피스] '치이카와' 접점 끝 연휴 1위…'암살자(들)'은 300만",
+          "url": "https://www.yna.co.kr/view/AKR20261012042600005",
+          "source": "연합뉴스",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "영화 보고 입덕했는데 굿즈는 ‘텅텅’…치이카와 품절 대란 [트렌디깅]",
+          "url": "https://www.donga.com/news/Economy/article/all/20261012/134826920/2",
+          "source": "동아일보",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "日 애니 ‘극장판 치이카와:인어 섬의 비밀’, 한글날 연휴 박스오피스 1위…‘암살자(들)’, 근소한 차로 2위",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8682966",
+          "source": "KBS 뉴스",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    "탄도 미사일": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-12T17:49:00+09:00",
+      "lastSeen": "2026-10-12T17:49:00+09:00",
+      "news": [
+        {
+          "title": "합참 \"북한, 평양서 탄도미사일 수 발 발사…일부 900km 이상 비행\"",
+          "url": "https://news.jtbc.co.kr/article/NB12322500",
+          "source": "JTBC",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "中외교부, '北 탄도미사일 발사'에 또 논평 거부",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6857319_36925.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "[속보] 청와대, 북 탄도미사일에 긴급안보상황점검회의 개최...\"즉각 중단해야\"",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202610121047053636_005.html",
+          "source": "YTN",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    "체포": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-12T17:49:00+09:00",
+      "lastSeen": "2026-10-12T17:49:00+09:00",
+      "news": [
+        {
+          "title": "제주 길거리서 40대 여성 흉기 살해한 60대 남성 체포··· “과거 스토킹 신고 이력”",
+          "url": "https://www.khan.co.kr/article/202610121008001",
+          "source": "경향신문",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "제주 길거리 피살 40대 여성, 교제폭력 피해자였다…스마트워치 차고도 참변",
+          "url": "https://www.hani.co.kr/arti/area/jeju/1281945.html",
+          "source": "한겨레",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "경찰 신변보호 소용 없었다…40대女, 길거리서 前연인에 피살",
+          "url": "https://www.donga.com/news/Society/article/all/20261012/134826581/1",
+          "source": "동아일보",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    "조선 인민군": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-10-12T17:49:00+09:00",
+      "lastSeen": "2026-10-12T17:49:00+09:00",
+      "news": [
+        {
+          "title": "수도권서 백주대낮 北 인민군 추모제 … 6·25 남침을 '자주권 수호'로",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/12/2026101200146.html",
+          "source": "뉴데일리",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "파주 인민군 묘역서 추모제…”국군에 총구 겨눈 이들을 추모하나\" 비판 쏟아져",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=129303",
+          "source": "펜앤마이크",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "미군철수투쟁본부, 북한군 묘역서 추모제…정치적 메시지 논란",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=214508",
+          "source": "SR타임스",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    "한국전력기술": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-12T17:49:00+09:00",
+      "lastSeen": "2026-10-12T17:49:00+09:00",
+      "news": [
+        {
+          "title": "(K-원전의 그늘)①(단독)루마니아서 '한전기술 팀장' 사망…내부 문건엔 \"구조적 문제\"",
+          "url": "https://www.newstomato.com/readnews.aspx?no=1316185",
+          "source": "뉴스토마토",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "(K-원전의 그늘)②(단독)한수원 직원도 비극…'관리'는 없었다",
+          "url": "https://www.newstomato.com/ReadNews.aspx?no=1316193",
+          "source": "뉴스토마토",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "(K-원전의 그늘)③(단독)숨진 '한전기술 팀장' 유족 \"사람을 갈아 넣어야 했다\"",
+          "url": "https://www.newstomato.com/ReadNews.aspx?no=1316201",
+          "source": "뉴스토마토",
+          "date": "2026-10-12"
+        }
+      ]
     }
   },
   "sections": {
