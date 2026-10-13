@@ -501,6 +501,266 @@
           "date": "2026-10-12"
         }
       ]
+    },
+    "렉서스 es": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-13T17:12:00+09:00",
+      "lastSeen": "2026-10-13T17:12:00+09:00",
+      "news": [
+        {
+          "title": "렉서스, 전기 세단 시장 도전…8년 만 ‘올 뉴 ES’",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/13/T32BQBCY45AZZMW5OXFIBEECL4/",
+          "source": "조선일보",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "ES 350h AWD 하이브리드 국내 공식 출시",
+          "url": "https://www.newsis.com/view/NISI20261013_0021486343",
+          "source": "뉴시스",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "렉서스코리아, 8년만에 ES 완전변경 출시…전기차 라인업 ��가",
+          "url": "https://www.yna.co.kr/view/AKR20261013083100003",
+          "source": "연합뉴스",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    "김태형": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-10-13T17:12:00+09:00",
+      "lastSeen": "2026-10-13T17:12:00+09:00",
+      "news": [
+        {
+          "title": "프로야구 롯데 레이예스, 시즌 211안타 신기록‥3년 연속 리그 '최다 안타'",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6857397_36946.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "'3년 600안타' 누구도 보지 못한 숫자…'세계 1위' 안타왕, 이런 선수가 재계약 논란 있었다니",
+          "url": "https://www.osen.co.kr/article/G1112891974",
+          "source": "OSEN",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "레이예스·두��� 팬들 '진정한 리스펙트'... 박수와 인사로 감동 나눴다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/13/2026101310284198768",
+          "source": "머니투데이",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    "전민재": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-13T17:12:00+09:00",
+      "lastSeen": "2026-10-13T17:12:00+09:00",
+      "news": [
+        {
+          "title": "'Worried About Lotte Until the Moment of Departure' Return to Former Team After 14 Years → Retires Without Fulfilling Dream of Fall Baseball: \"It Wasn't Something I Could Change Alone... But I Believe in the Younger Players\"",
+          "url": "https://www.starnewskorea.com/en/sports/2026/10/10/2026100910534522096",
+          "source": "스타뉴스",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "Jeon Min-jae Delivers During Retirement Ceremonies, Hits Ninth Homer",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/10/4TAMI7752JAQTEBXJYUE7D3PWM/",
+          "source": "조선일보",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "[Photo] Retired Kim Min-sung bids farewell to LG Twins' Austin - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/10/09/6X4JCU636BD6JAMYAMDSVRPZGE/",
+          "source": "Chosunbiz",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    "저비용 항공사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-13T17:12:00+09:00",
+      "lastSeen": "2026-10-13T17:12:00+09:00",
+      "news": [
+        {
+          "title": "LCC, 새 먹거리 '고수익 화물노선' 띄운다",
+          "url": "https://www.hankyung.com/article/2026101269621",
+          "source": "한국경제",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "'양강 구도' LCC 지각변동…통합 진에어 1위 '정조준'",
+          "url": "https://www.asiatime.co.kr/article/20261012500249",
+          "source": "아시아타임즈",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "[기로 선 K-항공] 밑 빠진 LCC 물 붓기 언제까지…한진도 非한진도 생존 시험대",
+          "url": "https://www.ajunews.com/view/20261007155556341",
+          "source": "아주경제",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    "이승엽": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-13T17:12:00+09:00",
+      "lastSeen": "2026-10-13T17:12:00+09:00",
+      "news": [
+        {
+          "title": "“지금까지 수고했다, 옷 벗어라” 이승엽 지도자 경력 다시 위기 맞나…‘2G 2득점→업셋 탈락’ 홈팬들 야유→경질 여론 폭발",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553604561",
+          "source": "스포탈코리아",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "이럴수가! 日야구는 모두 와일드카드 업셋 나왔다→가을야구 막 오르는 KBO는 어떨까 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/13/2026101300092162491",
+          "source": "머니투데이",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "‘업셋 명가’ 두산발 태풍 포스트시즌 정조준...일본도 양대 리그 모두 퍼스트스테이지 업셋으로 발칵",
+          "url": "https://m.seoul.co.kr/news/sport/baseball/2026/10/13/20261013500113?cp=seoul",
+          "source": "서울신문",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    "대한민국 해군": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-13T17:12:00+09:00",
+      "lastSeen": "2026-10-13T17:12:00+09:00",
+      "news": [
+        {
+          "title": "해군 함정 ‘대구함’ 함장·장병들, 8년 만에 대구 찾았다",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086749",
+          "source": "경북일보",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "대구시-해군 대구함 자매결�� 잇는다… 안보·문화 교류 확대",
+          "url": "https://www.dkilbo.com/news/articleView.html?idxno=556733",
+          "source": "대경일보",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "추경호 대구광역시장, 대구함 함장 및 장병과 접견",
+          "url": "https://www.sisakoreanews.kr/120465",
+          "source": "https://www.sisakoreanews.kr/",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    "cj제일제당": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-13T17:12:00+09:00",
+      "lastSeen": "2026-10-13T17:12:00+09:00",
+      "news": [
+        {
+          "title": "CJ제일제당 전분당 사업부 매각, 본입찰 이달 21일로 연기",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/13/2026101380027.html",
+          "source": "인베스트조선",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "CJ제일제당 전분당 매각 본입찰 일주일 연기",
+          "url": "https://www.smedaily.co.kr/news/articleView.html?idxno=364540",
+          "source": "중소기업신문",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "이인영 \"음식점위생등급제 시행 10년, 참여율은 4.5%로 저조\"",
+          "url": "https://www.yna.co.kr/view/AKR20261012143300001",
+          "source": "연합뉴스",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    "인천송도소방서": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-13T17:12:00+09:00",
+      "lastSeen": "2026-10-13T17:12:00+09:00",
+      "news": [
+        {
+          "title": "송도소방서 물탱크차 운전 김소연·현지은·설아영, 6000ℓ 물 싣고 화재 현장 누비는 '3인방'",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1333825",
+          "source": "인천일보",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "인천 옹진군, 송도소방서와 ‘2026년 재난현장 구급대응훈련’ 열어",
+          "url": "https://www.kyeonggi.com/article/20261011580162",
+          "source": "경기일보",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "선박 화재서 산불로… 복합재난 대응훈련",
+          "url": "https://www.cctimes.kr/news/articleView.html?idxno=931090",
+          "source": "충청타임즈",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    "유지 원": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-13T17:12:00+09:00",
+      "lastSeen": "2026-10-13T17:12:00+09:00",
+      "news": [
+        {
+          "title": "'서울 달리기' 마라톤대회 참가했던 20대 여성 사망",
+          "url": "https://www.yna.co.kr/view/AKR20261012173400004",
+          "source": "연합뉴스",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "‘서울레이��’ 쓰러진 20대女 카이스트 대학원생 유지원 씨였다",
+          "url": "https://www.munhwa.com/article/11623027",
+          "source": "문화일보",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "결승선 500m 앞두고 쓰러진 20대 러너…KAIST 대학원생이었다",
+          "url": "https://www.mk.co.kr/news/hot-issues/12174258",
+          "source": "매일경제",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    "한국장학재단": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-13T17:12:00+09:00",
+      "lastSeen": "2026-10-13T17:12:00+09:00",
+      "news": [
+        {
+          "title": "2026년 수영구 일자리박람회 성료",
+          "url": "https://www.yna.co.kr/view/RPR20261012007600353",
+          "source": "연합뉴스",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "부산 사상구, 청년과 지역 우수기업 잇는 ‘기업 탐방’ 2회차 운영",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261013.99099003615",
+          "source": "국제신문",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "고용노동부 부산북부지청, 15일 ‘바로면접 바로채용 2026년 사상구 일자리 박람회’",
+          "url": "https://www.lawissue.co.kr/view.php?ud=2026101315144621739a8c8bf58f_12",
+          "source": "로이슈",
+          "date": "2026-10-13"
+        }
+      ]
     }
   },
   "sections": {
