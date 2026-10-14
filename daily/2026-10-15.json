@@ -260,6 +260,266 @@
           "date": "2026-10-14"
         }
       ]
+    },
+    "psg": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-15T05:04:00+09:00",
+      "lastSeen": "2026-10-15T05:04:00+09:00",
+      "news": [
+        {
+          "title": "Dias est impatient d’affronter le PSG dans un match « énorme »",
+          "url": "https://fr.mancity.com/news/mens/dias-impatient-d-affronter-le-psg-63927494",
+          "source": "Manchester City FC",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "++【Live Streaming】TV!!】 Manchester City vs Les Parisiens UEFA Champions League Football Live Streaming free",
+          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5bmVwcHkuZ2l0aHViLmlvL2JhYnUvbGl2ZXNvY2NlcnR2LnhtbCIvPjwva3JwYW5vPg==&id=video-manchester-city-vs-les-parisiens-on-366",
+          "source": "Universidad de Córdoba (UCO)",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Riolo pulvérise Luis Enrique après sa sortie sur Man City !",
+          "url": "https://www.football365.fr/riolo-pulverise-luis-enrique-apres-sa-sortie-sur-man-city-10321116.html",
+          "source": "Football365",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "레알마드리드": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-15T05:04:00+09:00",
+      "lastSeen": "2026-10-15T05:04:00+09:00",
+      "news": [
+        {
+          "title": "무리뉴의 이강인 죽이기, 레알 또 이강인 박제…작심발언 터졌다 \"가장 조용해야 할 사람들이 오히려 불평한다\"",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013044",
+          "source": "SPOTV NEWS",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "“내 머리채 잡아도 퇴장시켜라” 비니시우스 퇴장에 쿠쿠레야 격분…벨링엄도 “이건 더 이상 축구가 아니야”",
+          "url": "https://sports.khan.co.kr/article/202610131101003",
+          "source": "스포츠경향",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "비니시우스, 성형 시술 함께 받았던 인플루언서 여친과 약혼 4주 만에 결별…퇴장 징계 하루 뒤 이중고 '날벼락'",
+          "url": "https://www.xportsnews.com/article/2207178",
+          "source": "엑스포츠뉴스",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "로마 대 레알 마드리드": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-15T05:04:00+09:00",
+      "lastSeen": "2026-10-15T05:04:00+09:00",
+      "news": [
+        {
+          "title": "AS 로마 vs 레알 마드리드 경기 예측, 10월 15일 오전 2시: 울버햄튼은 설욕하기 어려울 것으로 예상됩니다.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-as-roma-vs-real-madrid-02h00-ngay-15-10-bay-soi-kho-doi-no",
+          "source": "Vietnam.vn",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "챔피언스 리그 로마 대 레알 마드리드 경기 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-roma-vs-real-madrid-tai-champions-league-1782881.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "경기 프리뷰: AS 로마 vs 레알 마드리드, 10월 15일 새벽 2시: 무리뉴 감독의 복귀전.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-as-roma-vs-real-madrid-2h00-ngay-15-10-ngay-ve-cua-mourinho",
+          "source": "Vietnam.vn",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "조선민주주의인민공화국": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-15T05:04:00+09:00",
+      "lastSeen": "2026-10-15T05:04:00+09:00",
+      "news": [
+        {
+          "title": "2.5톤 탄두 달고 900㎞ 비행…北 “중대변화 예고, 커다란 성과”",
+          "url": "https://www.sedaily.com/article/20101119",
+          "source": "서울경제",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "북 \"전술탄도미사일 시험\"...'신형무기 총망라' 박물관 개관",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610131907461757",
+          "source": "YTN",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "[12뉴스] 오늘의 주요뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008797090",
+          "source": "SBS 뉴스",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "sk그룹": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-15T05:04:00+09:00",
+      "lastSeen": "2026-10-15T05:04:00+09:00",
+      "news": [
+        {
+          "title": "SK·삼성물산·현대건설·두산, 웨스팅하우스 지분 인수 검토",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373424",
+          "source": "전기신문",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "삼성·SK·두산 등 '팀코리아' 웨스팅하우스 지분 인수 합심 - 머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/10/15/2026101419552097683",
+          "source": "머니투데이",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "[단독] 한전과 '팀코리아' 띄운 韓기업들 …\"美원전이 새 먹거리\"",
+          "url": "https://www.mk.co.kr/news/economy/12176015",
+          "source": "매일경제",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "lask vs liverpool": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-15T05:04:00+09:00",
+      "lastSeen": "2026-10-15T05:04:00+09:00",
+      "news": [
+        {
+          "title": "Preview: LASK Linz vs Liverpool - prediction, team news, lineups",
+          "url": "https://www.sportsmole.co.uk/football/lask-linz/champions-league/preview/lask-vs-liverpool-prediction-team-news-lineups_606769.html",
+          "source": "Sports Mole",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "LASK Linz vs Liverpool: Lineups, Prediction, Odds & Bet Builder Tip",
+          "url": "https://www.whoscored.com/articles/l3uzIgbkj0aL1mQ6lJNXJw/show/cng111-20261014-lask-linz-vs-liverpool-prediction-1791968232",
+          "source": "WhoScored.com",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Liverpool's Alexander Isak, Cody Gakpo, Dominik Szoboszlai to miss Champions League clash with LASK",
+          "url": "https://www.espn.co.uk/football/story/_/id/50173447/liverpool-alexander-isak-cody-gakpo-dominik-szoboszlai-miss-champions-league-clash-lask",
+          "source": "ESPN",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "리버풀": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-15T05:04:00+09:00",
+      "lastSeen": "2026-10-15T05:04:00+09:00",
+      "news": [
+        {
+          "title": "역시 ‘큰 ’선수는 달랐다···제라드 “우승 소급 메달? 관심없다···���시티가 누린, 우리가 빼앗긴 추억은 어떡하나”",
+          "url": "https://www.khan.co.kr/article/202610140846001",
+          "source": "경향신문",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "'충격, 안필드 소요 사태' 맨체스터 시티에 0-3 충격패→관중과 경찰 충돌→10명 체포, 경찰 얼굴 부상..'완패한 리버풀의 어두운 그림자",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/13/MRSGIZTGMJSTQZBVMI4TMNDCGE/",
+          "source": "조선일보",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "“맨시티, 프리미어리그 재정 규정 위반 징계 피하길 바란다” PSG 엔리케 감독 깜짝 발언",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013160",
+          "source": "SPOTV NEWS",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "lask": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-15T05:04:00+09:00",
+      "lastSeen": "2026-10-15T05:04:00+09:00",
+      "news": [
+        {
+          "title": "Liverpool set Champions League record with first-half display at LASK",
+          "url": "https://www.liverpoolfc.com/news/liverpool-set-champions-league-record-with-first-half-display-at-lask",
+          "source": "Liverpool FC",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Bradley Barcola, it’s done!",
+          "url": "https://frenchfootballweekly.com/2026/10/14/bradley-barcola-its-done-2/",
+          "source": "French Football Weekly",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "(Video) Rio Ngumoha produced something truly special in lead-up to Barcola’s first Liverpool goal",
+          "url": "https://onefootball.com/en/news/video-rio-ngumoha-produced-something-truly-special-in-lead-up-to-barcolas-first-liverpool-goal-43611990",
+          "source": "OneFootball",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "멜론": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-15T05:04:00+09:00",
+      "lastSeen": "2026-10-15T05:04:00+09:00",
+      "news": [
+        {
+          "title": "\"아이찡 부모, 직원 월급 안 줘\"…이수만 걸그룹 데뷔 하루 만에 '시끌' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/14/2026101418181195915",
+          "source": "머니투데이",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "'2000년 보아'의 귀환?…A2O 라이트 아이찡, 세대 잇는 이수만 안목 [N이슈]",
+          "url": "https://www.news1.kr/entertain/music/6319325",
+          "source": "뉴스1",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "이수만, 유영진과 돌아왔다…24명 아이돌로 K팝 흔들까",
+          "url": "https://www.hani.co.kr/arti/culture/music/1282132.html",
+          "source": "한겨레",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "west indies vs india": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-15T05:04:00+09:00",
+      "lastSeen": "2026-10-15T05:04:00+09:00",
+      "news": [
+        {
+          "title": "Ball by Ball Commentary & Live Score - IND vs WI, 4th T20I",
+          "url": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-4th-t20i-1529233/ball-by-ball-commentary",
+          "source": "Cricinfo",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Jewel Andrew Sparks West Indies Powerplay Surge Against India in Hyderabad",
+          "url": "https://cristinaiglesias.com/newsday/jewel-andrew-sparks-west-indies-powerplay-surge-against-india-in-hyderabad",
+          "source": "cristinaiglesias.com",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Shai Hope breaks Gayle's record, joins Kohli in elite list as West Indies stun India",
+          "url": "https://gulfnews.com/sport/cricket/shai-hope-breaks-gayles-record-joins-kohli-in-elite-list-as-west-indies-stun-india-1.500710886",
+          "source": "Gulf News",
+          "date": "2026-10-14"
+        }
+      ]
     }
   },
   "sections": {
@@ -1415,6 +1675,60 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTmFXNVVweTl2aldXcFphaTVlMDYxOE5xak1KOTV0Qk1NZ05zZXpXeW9PSTBaOXEzQkFyWWk2d2VIWWVEUndlVzh0a2V1NWxZWDVDV3AyX1ZkMDU5cnR0NnNEYzhiaHlCVWtqWE9xTnlKSTk1b1Q3c1NEb3l0UHAxUWVxUQ?oc=5",
         "source": "조선일보",
         "date": "2026-10-13"
+      },
+      {
+        "title": "유광점퍼의 계절이 왔다… 오스틴 한 방, LG 준PO 행",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPanVoYzY0VFU4blk0TlhyZWgyeTM1aWtIb1RTQW5IRlBHWnV6eUFBTVp6VEduN2dsTzNpZzlvUkd6UjdSODFhekFYU25NSHQyZG5icnpuNXZic3VsYm0tdEFtY0lSNzdXaVdXX2RIU2NjR2FvYklfZUR0dE9YelpMU01HWQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "KIA, 준플레이오프서 LG 또 만난다…17일 1차전",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50SmxYNzRsc1k5d0U1UVU1aFBJWlpjX0JCSzR6UVhkT2lHVUcwN0JST2J0QlJoNFdVSWJYOHBtaUxzVmFqU1dvRmlRczJObjMyWWlERmZQX20yRmNjc0R3UWl3?oc=5",
+        "source": "KBC광주방송",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "'또 부상, 또또 부상 날벼락'...신민재 햄스트링 터졌다→시즌 아웃...오지환 이어 LG 내야 초비상",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS3FGMUFDZDQzZGQ1Q0NSek81UkQ3NlpSLXpFMEJDNUNuNkJtcVFlUUVHbEdmanpmV1VIQUM4NEtRVGtTdUprNElvWHhDRDlKVzJrNkxkRkQ2emlOOXRFSTdPZktUcEllOUYtX1ZDOEdlLTR4cW5YWHVxMFAxSUlKTG9sVQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "후티 공격으로 사우디 스포츠 국제행사 ‘연기’",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YQm1DTlkxalVuQ2dfSzZjNlhWY2d5YUhSZXJkaFZ3VjhDbE1VQXpxVHJtdXkxZUdwV0k2anBBUVdEUFZzcEo4MnFTQ1FHWnptX2U2NUVoSlhjck0?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "'종합 6위 목표' 아이치·나고야 장애인AG 한국 선수단 출국",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HOFEwcWNIcGVzVDlObldsbXBJZlBuSjlqSURkMkhWTG5oZldfaVdRRDFrd2VQNDJoRDZFRFFCd0NONHR1STgtcmFJSjNURWlSY1hJNGNPVHZQR1HSAWBBVV95cUxPS1lrTDdOWXNfRGE1dWxzcVRmdTF1R0t4V3Zla0w0RmJPYkI4TFJXai1sQzljcmJ1Y1RhbURraW0xQUh0OVpETFplajBRYjJMZENGR3VHQmc3WHU0azlIMEg?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "이승엽, 일본프로야구 요미우리 타격 코치 퇴임",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04V244Q1dDUWgyTUN0MmxuVEdsaVpkRGstVGFfdmJoaS1VTFE2WjZzTm9fb2JkOGJiVHQ5QnBHLXVoc2dicTVCbnZJY1pxZnd5UFFfWVBSM01kY09BU0E?oc=5",
+        "source": "YTN",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "배드민턴: 안세영·김원호-서승재 듀오, 나란히 16강 진출! 다음 상대는? – 덴마크오픈 2026",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1lpNElLTW1BUzVBOWFoTEFxUXJvd082c2pnV1NFa0lPalZKTXdSWjFLTmxFa1FZV1lyeXBhZHdFSy1HVjdqOXJzZDJFbmRHaFNINGtkbmNJNkdyS1dKWWxTazJ3cHNUXzNJWmdSVC1fZk5fWGh0ME4tV0VPU2VSMDJJOG5pcWRyRGNBR2cya1VfRkRlLW9fUVdtUEVJNllRR0cxbUxGcERhTVNha1BZ?oc=5",
+        "source": "Olympic Channel",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "LG유플러스, 마지막 가을야구 앞두고 통신망 점검",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HN21rZUZzaUVjMXZjazUzeW96UTBGOUt5cmttMTYtYUlfYnN5ZktzMUJ3LVc2TTZQd3g0ODhHSEpSdEdiSl9jSlh4ZElpTkY1TnZWTi1QOC1xX29oNEszUzMyRFU?oc=5",
+        "source": "매일일보",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "[IS 이슈] 류지현 떠난 야구대표팀, APBC 사령탑은 누구?…내부 발탁이냐, 외부 수혈이냐",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04OWZ5Vy1odWxzU0xoSDBoODNKX256YXU4enJiRzRnckFEaDhlclFwa2Ryc2ZvZWZXMVBGaEdQbE1TS3ZaSG9HV3JHS1p5a2t6akdVSkJDMWk1c3M?oc=5",
+        "source": "일간스포츠",
+        "date": "2026-10-14"
       }
     ]
   }
