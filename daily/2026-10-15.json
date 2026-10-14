@@ -520,6 +520,247 @@
           "date": "2026-10-14"
         }
       ]
+    },
+    "로봇": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-15T08:22:00+09:00",
+      "lastSeen": "2026-10-15T08:22:00+09:00",
+      "news": [
+        {
+          "title": "롯데하이마트, 로봇청소기 할인전…신제품 체험 기회도",
+          "url": "https://www.etnews.com/20261014000386",
+          "source": "전자신문",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "\"신상 청소기 체험 후 구매\" 롯데하이마트, 가을 이사철 수요 공략",
+          "url": "https://www.newsis.com/view/NISX20261014_0003826284",
+          "source": "뉴시스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "롯데하이마트, 청소기 할인전…최대 20만원 캐시백 혜택",
+          "url": "https://view.asiae.co.kr/article/2026101416303059582",
+          "source": "아시아경제",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "klasemen as roma vs real madrid": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-15T08:22:00+09:00",
+      "lastSeen": "2026-10-15T08:22:00+09:00",
+      "news": []
+    },
+    "송전선": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-15T08:22:00+09:00",
+      "lastSeen": "2026-10-15T08:22:00+09:00",
+      "news": [
+        {
+          "title": "이상식 “소방 인건비 94%를 경기도가 부담…수도권 규제 풀어야”",
+          "url": "https://www.kyeonggi.com/article/20261013580466",
+          "source": "경기일보",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "가스터빈 공급 차질에…용인팹 LNG발전소 준공 18개월 지연",
+          "url": "https://www.sedaily.com/article/20101643",
+          "source": "서울경제",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "용인 '트리니티 팹' 주목…\"호남도 반도체 테스트 팹 필요\"",
+          "url": "https://www.newsis.com/view/NISX20261013_0003823931",
+          "source": "뉴시스",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "코어위브": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-15T08:22:00+09:00",
+      "lastSeen": "2026-10-15T08:22:00+09:00",
+      "news": [
+        {
+          "title": "[뉴욕증시] AI 테마 뒤흔든 코어위브 쇼크…나스닥 1.88%↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439287",
+          "source": "연합인포맥스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "AI 인프라주, 금리 상승 우려에 하락",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2127245",
+          "source": "Investing.com 한국어",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "네오클라우드 선두주자 코어위브, 두 자릿수 폭락…'버블 풋옵션'",
+          "url": "https://www.fnnews.com/news/202610150409569013",
+          "source": "파이낸셜뉴스",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "날씨": {
+      "count": 1,
+      "maxTraffic": 100000,
+      "firstSeen": "2026-10-15T08:22:00+09:00",
+      "lastSeen": "2026-10-15T08:22:00+09:00",
+      "news": [
+        {
+          "title": "[날씨] 기온 '롤러코스터', 일교차 극심...오후에 중북부 비 조금",
+          "url": "https://www.ytn.co.kr/_ln/0108_202610150649477826",
+          "source": "YTN",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "아침 최저 3도 ‘쌀쌀한 출근길’… 수도권·강원 곳에 따라 비",
+          "url": "https://www.hani.co.kr/arti/society/environment/1282471.html",
+          "source": "한겨레",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "아침에 쌀쌀, 일부 내륙 서리…일교차 15도 안팎",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8686124",
+          "source": "KBS 뉴스",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "그린란드": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-15T08:22:00+09:00",
+      "lastSeen": "2026-10-15T08:22:00+09:00",
+      "news": [
+        {
+          "title": "트럼프, 그린란드 석유탐사도 일방발표했나…그린란드 반박(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261014162551009",
+          "source": "연합뉴스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "트럼프 “그린란드 석유·가스·광물 탐사 곧 시작”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8685615",
+          "source": "KBS 뉴스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "마음 급한 트럼프 \"그린란드 석유 탐사\" 일방적 발표 vs 그린란드는 반박",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610150229241915",
+          "source": "YTN",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "셀트리온": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-15T08:22:00+09:00",
+      "lastSeen": "2026-10-15T08:22:00+09:00",
+      "news": [
+        {
+          "title": "셀트리온, 짐펜트라 류마티스 관절염 국내 3상 승인",
+          "url": "https://pharm.edaily.co.kr/News/Read?newsId=05047926645612920",
+          "source": "팜이데일리",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "[HIT 알공] 셀트리온, '짐펜트라' 류마티스 관절염 3상 IND 승인",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79899",
+          "source": "히트뉴스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "셀트리온, CT-P13 SC(짐펜트라) 한국 임상 3상 시험계획 승인 공시",
+          "url": "https://www.ceoeconomy.com/news/articleView.html?idxno=21752",
+          "source": "CEO경제신문",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "weather": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-15T08:22:00+09:00",
+      "lastSeen": "2026-10-15T08:22:00+09:00",
+      "news": [
+        {
+          "title": "Gorgeous weather for the rest of the work week as we see 70s and sunshine consistently in the Columbia Basin",
+          "url": "https://www.nbcrightnow.com/weather/gorgeous-weather-for-the-rest-of-the-work-week-as-we-see-70s-and-sunshine/article_008d2de0-4b73-4c15-a92e-80afbb3d5cd3.html",
+          "source": "Nonstop Local News",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Warming trend thanks to high pressure",
+          "url": "https://localnews8.com/weather/local-forecast/2026/10/14/warming-trend-thanks-to-high-pressure/",
+          "source": "Local News 8",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Warmer start to a warmer Wednesday",
+          "url": "https://www.kxly.com/news/local-news/warmer-start-to-a-warmer-wednesday/article_6b3bde08-1c94-47ca-8003-07e7f057181c.html",
+          "source": "KXLY.com",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "天气": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-15T08:22:00+09:00",
+      "lastSeen": "2026-10-15T08:22:00+09:00",
+      "news": [
+        {
+          "title": "Advancing subseasonal forecasting with machine learning",
+          "url": "https://www.nature.com/articles/s41586-026-11126-x",
+          "source": "Nature",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "6-week weather forecast? New model could make it possible.",
+          "url": "https://www.popsci.com/environment/reliable-six-week-weather-forecast/",
+          "source": "Popular Science",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+          "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+          "source": "The Verge",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "as roma vs real madrid standings": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-15T08:22:00+09:00",
+      "lastSeen": "2026-10-15T08:22:00+09:00",
+      "news": [
+        {
+          "title": "Roma 3-4 Real Madrid: Los Blancos win after stunning late fightback",
+          "url": "https://www.bbc.com/sport/football/live/cmwyqp5q1lypt",
+          "source": "BBC",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Real Madrid Beats Roma 4-3 in Stunning Comeback with 3 Goals in Final 8 Minutes of Champions League",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008798387",
+          "source": "news.sbs.co.kr",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Mourinho brings memories and more controversy back to Rome in Champions League visit",
+          "url": "https://apnews.com/article/mourinho-roma-real-madrid-champions-league-787b2a3acad0b14ba14fb5b7f2e65fca",
+          "source": "AP News",
+          "date": "2026-10-14"
+        }
+      ]
     }
   },
   "sections": {
