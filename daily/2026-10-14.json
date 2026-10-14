@@ -1040,6 +1040,260 @@
           "date": "2026-10-14"
         }
       ]
+    },
+    "두산 엘지": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-14T20:26:00+09:00",
+      "lastSeen": "2026-10-14T20:26:00+09:00",
+      "news": [
+        {
+          "title": "LGU+, 잠실야구장 마지막 가을야구 앞두고 통신망 점검",
+          "url": "https://www.yna.co.kr/view/AKR20261014034700017",
+          "source": "연합뉴스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "[엠빅뉴스] 부축받으며 마운드 오른 김인식 감독..그 옆을 지킨 제자 김태형",
+          "url": "https://imnews.imbc.com/original/mbig/6857567_29041.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "\"82년생 잠실구장, 고마웠어\"…44년 추억에 쏟아진 작별 인사",
+          "url": "https://www.newsis.com/view/NISX20261013_0003824258",
+          "source": "뉴시스",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "한국전력공사": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-14T20:26:00+09:00",
+      "lastSeen": "2026-10-14T20:26:00+09:00",
+      "news": [
+        {
+          "title": "한전, 고졸 입사직원 2명 차장 특별승진…\"능력·성과 중심\"",
+          "url": "https://www.yna.co.kr/view/AKR20261014146200003",
+          "source": "연합뉴스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "\"9년 이상 걸리는 차장 승진인데\"…한전, '고졸' 입사자 파격 승진",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03906486645612920",
+          "source": "마켓인",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "한전, 고졸 입사직원 2명 차장 특별승진…\"성과 중심 인사 문화 정착\"",
+          "url": "https://www.newsis.com/view/NISX20261014_0003825602",
+          "source": "뉴시스",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "대구 한국가스공사 대 수원 kt": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-14T20:26:00+09:00",
+      "lastSeen": "2026-10-14T20:26:00+09:00",
+      "news": [
+        {
+          "title": "Proto Betting 122: KT's Winning Streak vs Korea Gas Corporation's Comeback",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/14/JBJD7QKTGZEC5DQC6Q6G2N546A/",
+          "source": "조선일보",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "A major battle that will shake the game of professional basketball is coming up. Suwon KT, which i..",
+          "url": "https://www.mk.co.kr/en/sports/12175725",
+          "source": "매일경제",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "이선빈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-14T20:26:00+09:00",
+      "lastSeen": "2026-10-14T20:26:00+09:00",
+      "news": [
+        {
+          "title": "'9년 열애' 이광수♥이선빈 목격담 또 떴다..\"둘이 있으면 진짜 예뻐\" 연예인 증언 ('거장항준')",
+          "url": "https://www.osen.co.kr/article/G1112892369",
+          "source": "OSEN",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "\"장항준도 하는데\"…유재명,'거장항준' 앞에서 영화감독 꿈 고백",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008794608",
+          "source": "SBS 뉴스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "이선빈, 깜짝 고백 \"고등학생 때 데뷔하려고 천안에서 서울로 가출\" (거장항준) - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/10/14/G4YTIMJRMY3GEZBYMEYTKODCGA/",
+          "source": "Chosunbiz",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "슈퍼마켓": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-14T20:26:00+09:00",
+      "lastSeen": "2026-10-14T20:26:00+09:00",
+      "news": [
+        {
+          "title": "[르포] 에펠탑 옆 '슈퍼마켓 냉동고'가 텅 비었다…'냉장고 해킹' 덮친 佛파리 가보니",
+          "url": "https://www.newsis.com/view/NISX20261014_0003824864",
+          "source": "뉴시스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "佛 냉장설비 해킹, 국내도 안전지대 아니다…원격제어 보안 주의보",
+          "url": "https://www.etnews.com/20261014000472",
+          "source": "전자신문",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "[다시보기] 10월 14일 (수) 오후 사이언스 투데이",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610141602326988",
+          "source": "YTN 사이언스",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "tving": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-14T20:26:00+09:00",
+      "lastSeen": "2026-10-14T20:26:00+09:00",
+      "news": [
+        {
+          "title": "TVING appoints Kook Tae-ho as CISO to strengthen information security",
+          "url": "https://www.digitaltoday.co.kr/en/view/114649/tving-appoints-kook-tae-ho-as-ciso-to-strengthen-information-security",
+          "source": "디지털투데이",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Lee Jun-hyuk defends looks amid backlash over Ordinary Jackpot visuals - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/14/HYTQ7HWPEBAORPB4OVLCF4UCSU/",
+          "source": "Chosunbiz",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Winning the Lottery’s Top Prize Finally Brought Work and Colleagues into Focus",
+          "url": "https://www.mk.co.kr/en/culture/12175879",
+          "source": "매일경제",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "티빙": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-14T20:26:00+09:00",
+      "lastSeen": "2026-10-14T20:26:00+09:00",
+      "news": [
+        {
+          "title": "티빙, 정보보호 책임자에 국태호 CISO 선임",
+          "url": "https://stock.mk.co.kr/news/view/1174524",
+          "source": "매일경제 마켓",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "정보유출 겪은 티빙, 20년 경력 보안 전문가 CISO 선임",
+          "url": "https://www.news1.kr/it-science/cc-newmedia/6320229",
+          "source": "뉴스1",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "티빙, 정보보호 책임자에 국태호 CISO 선임",
+          "url": "https://biz.heraldcorp.com/article/10902837",
+          "source": "헤럴드경제",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "채무": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-14T20:26:00+09:00",
+      "lastSeen": "2026-10-14T20:26:00+09:00",
+      "news": [
+        {
+          "title": "60대 이상 개인워크아웃 신청자, 절반 감면받아도 7년 넘게 갚아야",
+          "url": "https://www.chosun.com/economy/economy_general/2026/10/14/A76NYXYR7BETVPCFCF73DDGD6Q/",
+          "source": "조선일보",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "신복위, 고령층 채무 장기상환 논란에 \"월 상환 부담 고려\"",
+          "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=44451",
+          "source": "S저널",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "중앙일보, 사채권자 채무재조정도 출자전환·금리삭감 없이 진행... 순탄할 듯 - 조선비즈",
+          "url": "https://biz.chosun.com/stock/market_trend/2026/10/14/UXL2I3WBNBBOFP74UF7IH36DXE/",
+          "source": "Chosunbiz",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "acl two": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-14T20:26:00+09:00",
+      "lastSeen": "2026-10-14T20:26:00+09:00",
+      "news": [
+        {
+          "title": "'Rotation for K League' FC Seoul Suffers Heavy Defeat in Away Match Against Melbourne in ACL2",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008797996",
+          "source": "news.sbs.co.kr",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "May stars as Victory bounces back",
+          "url": "https://www.news24.com.au/latest/new-recruit-guillermo-may-stars-as-melbourne-victory-defeat-fc-seoul-30/news-story/485e9f372af649f9fc780e12cfeb8f11",
+          "source": "News24",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "ACL TWO TALK: Victory’s Savarese and Duncan look ahead to MD2",
+          "url": "https://melbournevictory.com.au/news/acl-two-talk-victorys-savarese-and-duncan-look-ahead-to-md2/",
+          "source": "Melbourne Victory Football Club",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "두산 대 lg": {
+      "count": 1,
+      "maxTraffic": 50000,
+      "firstSeen": "2026-10-14T20:26:00+09:00",
+      "lastSeen": "2026-10-14T20:26:00+09:00",
+      "news": [
+        {
+          "title": "김원형 두산 감독 \"곽빈, 잘 던질 것…잭로그·최민석 대기\"",
+          "url": "https://www.yna.co.kr/view/AKR20261014164200007",
+          "source": "연합뉴스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "LG 오스틴, 두산 특급 에이스 곽빈 상대 1회 선제 투런포[WC]",
+          "url": "https://www.newsis.com/view/NISX20261014_0003826310",
+          "source": "뉴시스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "'반갑다 가을야구' 와일드카드 1차전 열기 '후끈'",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610141732583024",
+          "source": "YTN",
+          "date": "2026-10-14"
+        }
+      ]
     }
   },
   "sections": {
