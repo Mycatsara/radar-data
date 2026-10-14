@@ -780,6 +780,266 @@
           "date": "2026-10-13"
         }
       ]
+    },
+    "죽음": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-14T14:55:00+09:00",
+      "lastSeen": "2026-10-14T14:55:00+09:00",
+      "news": [
+        {
+          "title": "결승선 5백미터 앞 쓰러진 '카이스트 러너'‥SNS 추모 이어져",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6857700_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "황영조 ’러닝 경고’…“기록·SNS 욕심 보다 몸 상태 체크“",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261014094806hWb",
+          "source": "연합뉴스TV",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "\"포기할 줄 아는 사��이 잘 뛰는 사람\"...잇따른 마라톤 사고에 황영조 '일침' [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610140833599838_005.html",
+          "source": "YTN",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "asml": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-14T14:55:00+09:00",
+      "lastSeen": "2026-10-14T14:55:00+09:00",
+      "news": [
+        {
+          "title": "Nieuwe orders en winstmarges staan centraal bij de kwartaalcijfers van ASML",
+          "url": "https://businessam.be/nieuwe-orders-en-winstmarges-staan-centraal-bij-de-kwartaalcijfers-van-asml/",
+          "source": "Business AM",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Beleggersagenda van woensdag 14 oktober: Veldhoven rapporteert",
+          "url": "https://www.tijd.be/markten-live/nieuws/algemeen/beleggersagenda-van-woensdag-14-oktober-veldhoven-rapporteert/10695353.html",
+          "source": "De Tijd",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "LIVE | Focus op cijfers van chipreus ASML; Japanse beurs maakt vaart",
+          "url": "https://www.telegraaf.nl/financieel/live-focus-op-cijfers-van-chipreus-asml-japanse-beurs-maakt-vaart/163030493.html",
+          "source": "De Telegraaf",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "수영장": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-14T14:55:00+09:00",
+      "lastSeen": "2026-10-14T14:55:00+09:00",
+      "news": [
+        {
+          "title": "펜션 수영장서 16개월 영아 심정지…헬기 긴급 이송",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8685123",
+          "source": "KBS 뉴스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "제주 펜션 수영장서 16개월 여아 물에 빠져 심정지…헬기 긴급 이송 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/14/2026101413275370613",
+          "source": "머니투데이",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "서귀포 펜션 풀장에 빠진 생후 16개월 영아 '심정지'",
+          "url": "https://www.news1.kr/local/jeju/6319104",
+          "source": "뉴스1",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "차정원": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-14T14:55:00+09:00",
+      "lastSeen": "2026-10-14T14:55:00+09:00",
+      "news": [
+        {
+          "title": "[단독]하정우·차정원, 12월13일 결혼…6년 사랑 결실",
+          "url": "https://www.munhwa.com/article/11623455",
+          "source": "문화일보",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "톱배우 하정우, 11세 연하 차정원과 12월 13일 결혼…장기 연애 결실",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6319692",
+          "source": "뉴스1",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "하정우·차정원, 12월 13일 백년가약…11살 나이 차 넘은 6년 사랑",
+          "url": "https://www.kyeonggi.com/article/20261014580203",
+          "source": "경기일보",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "ksoi 한국 사회 여론 연구소": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-10-14T14:55:00+09:00",
+      "lastSeen": "2026-10-14T14:55:00+09:00",
+      "news": [
+        {
+          "title": "[속보]대통령지지 34.9% 최저…전연령대 ‘부정’ 과반-KSOI",
+          "url": "https://www.munhwa.com/article/11623391",
+          "source": "문화일보",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "최민희 “민주당 지지율 처참…조희대 탄핵 검토해야”",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=56120",
+          "source": "주간조선",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "[수요일 아침-홍형식] 선택의 기로에 선 이재명 대통령",
+          "url": "https://www.imaeil.com/page/view/2026101311572126374",
+          "source": "매일신문",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "동아일보 오늘의 운세": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-14T14:55:00+09:00",
+      "lastSeen": "2026-10-14T14:55:00+09:00",
+      "news": [
+        {
+          "title": "[오늘의 운세/10월 14일]",
+          "url": "https://www.donga.com/news/Culture/article/all/20261014/134836623/2",
+          "source": "동아일보",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "[오늘의 운세] 2026년 10월 14일 띠별 운세",
+          "url": "https://www.ytn.co.kr/_ln/0121_202610140000000001",
+          "source": "YTN",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "[오늘의 운세] 10월 14일 수요일 (음력 9월 4일) 띠별 운세",
+          "url": "https://www.kyeonggi.com/article/20261012580322",
+          "source": "경기일보",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "황인범": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-14T14:55:00+09:00",
+      "lastSeen": "2026-10-14T14:55:00+09:00",
+      "news": [
+        {
+          "title": "은퇴설에 눈물까지 흘린 황인범, '꿈의 무대'서 시즌 첫 승 정조준",
+          "url": "https://www.newsis.com/view/NISX20261013_0003824332",
+          "source": "뉴시스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "황인범, 베티스 원정 명단 포함⋯포르투 UCL 첫 승 도전",
+          "url": "https://www.etoday.co.kr/news/view/2635588?trc=right_categori_news",
+          "source": "이투데이",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "이강인이 불화 주도?‥'사실 무근 법적 대응할 것'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6857706_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "건강": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-14T14:55:00+09:00",
+      "lastSeen": "2026-10-14T14:55:00+09:00",
+      "news": [
+        {
+          "title": "시흥시, 자살예방·정신건강 기념행사 개최…상실과 회복 의미 나눠",
+          "url": "https://www.kyeonggi.com/article/20261014580014",
+          "source": "경기일보",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "합천군, 지역사회 정신건강증진사업 성과 인정",
+          "url": "https://www.newsis.com/view/NISX20261014_0003825634",
+          "source": "뉴시스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "강서구정신건강복지센터, 보건복지부장관 표창·서울시장상 '2관왕' 달성 쾌거",
+          "url": "https://www.yna.co.kr/view/RPR20261013001100353",
+          "source": "연합뉴스",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "일본": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-14T14:55:00+09:00",
+      "lastSeen": "2026-10-14T14:55:00+09:00",
+      "news": [
+        {
+          "title": "성남시, 일본 도쿄 홈케어·재활박람회서 428억 원 수출 상담",
+          "url": "https://www.yna.co.kr/view/RPR20261014001200353",
+          "source": "연합뉴스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "성남 고령친화기업 10곳, 일본 박람회서 428억 수출 상담",
+          "url": "https://www.newsis.com/view/NISX20261014_0003825047",
+          "source": "뉴시스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "[지역정책] 성남시, 관내 기업 수출 지원…시민 차량 점검 18일 진행",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261014010003535",
+          "source": "중도일보",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "한국경영자총협회": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-14T14:55:00+09:00",
+      "lastSeen": "2026-10-14T14:55:00+09:00",
+      "news": [
+        {
+          "title": "노동위 거친 기업 40％ \"사용자성 판정, 법·지침에 안 맞아\"",
+          "url": "https://www.yna.co.kr/view/AKR20261014094300003",
+          "source": "연합뉴스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "경총 \"노동위 원청 사용자성 판정, 법·지침에 맞다는 기업 27%\"",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/14/JLNAHNS2QFDDTJDSHIM5RXMVTU/",
+          "source": "조선일보",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "김영훈 노동장관 “노란봉투법 시행 후 ‘교섭 쓰나미·파업 폭증’ 없어”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8684494",
+          "source": "KBS 뉴스",
+          "date": "2026-10-14"
+        }
+      ]
     }
   },
   "sections": {
