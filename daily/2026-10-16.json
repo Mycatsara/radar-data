@@ -260,6 +260,266 @@
           "date": "2026-10-15"
         }
       ]
+    },
+    "시청률": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-16T06:04:00+09:00",
+      "lastSeen": "2026-10-16T06:04:00+09:00",
+      "news": [
+        {
+          "title": "[스경X이슈] 잘 나가던 ‘닥터X’, 암초 만났다…현직 의사, 방송심의 요청",
+          "url": "https://sports.khan.co.kr/article/202610151605003",
+          "source": "스포츠경향",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "김지원, 제대로 터졌다…'닥터X' 국내 넘어 글로벌까지 접수",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/15/MJSGEMJSHA3TIYLCGMZTKNJQMU/",
+          "source": "조선일보",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "“너��� 진짜 후져” 의사 까는 의사…‘닥터X’ 시청률 14.9% 터졌다",
+          "url": "https://www.koreadaily.com/article/20261014233247493",
+          "source": "미주중앙일보",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "임은정": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-16T06:04:00+09:00",
+      "lastSeen": "2026-10-16T06:04:00+09:00",
+      "news": [
+        {
+          "title": "임은정은 중수청장의 자격을 말했을 뿐이다 [아침햇발]",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1282572.html",
+          "source": "한겨레",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "‘김지용 명예훼손 혐의’ 임은정 고발 사건, 서울중수청 반부패부 배당",
+          "url": "https://www.khan.co.kr/article/202610141952001",
+          "source": "경향신문",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "“검찰 관행, ���습하지 않을 것”…임은정엔 조직 기강 강조",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8686136",
+          "source": "KBS 뉴스",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "서영교": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-16T06:04:00+09:00",
+      "lastSeen": "2026-10-16T06:04:00+09:00",
+      "news": [
+        {
+          "title": "국민의힘 “이재명 변호인과 가족, 요직에…낯 뜨거운 보은 인사”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8686729",
+          "source": "KBS 뉴스",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "장유식 변호사, 권익위 비상임위원 임명…서영교 의원 배우자",
+          "url": "https://www.newsis.com/view/NISX20261015_0003827100",
+          "source": "뉴시스",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "대장동 라인-서영교 남편 요직으로 … 野, 李 대통령 인사 두고 총공세",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/15/2026101500314.html",
+          "source": "뉴데일리",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "집": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-16T06:04:00+09:00",
+      "lastSeen": "2026-10-16T06:04:00+09:00",
+      "news": [
+        {
+          "title": "\"은퇴 후 가려던 집, 팔자\" 5.6억→3억대로...지방 집 잇단 '손절' - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/14/2026101314511398329",
+          "source": "머니투데이",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "경기 아파트값 양극화…‘동탄 반값’ 평택지제역 일대 눈길",
+          "url": "https://www.donga.com/news/Economy/article/all/20261015/134851308/1",
+          "source": "동아일보",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "9개월 만에 1억 넘게 올랐다…자고 나면 집값 오르는 ‘이 동네’ 환호성",
+          "url": "https://www.sedaily.com/article/20101730",
+          "source": "서울경제",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "유럽": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-16T06:04:00+09:00",
+      "lastSeen": "2026-10-16T06:04:00+09:00",
+      "news": [
+        {
+          "title": "“젤렌스키의 트럼프 날선 비판에 유럽 지도자들 ‘수위조절’ 요구”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8687145",
+          "source": "KBS 뉴스",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "젤렌스키 트럼프 비판에 유럽 당혹…\"자제 당부\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261016020044cZv",
+          "source": "연합뉴스TV",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "미와 ���등 빚는 젤렌스키 만난 영 총리…“우크라이나와 오랫동안 함께”",
+          "url": "https://www.khan.co.kr/article/202610141654001",
+          "source": "경향신문",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "호펜하임 대 베식타시": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-16T06:04:00+09:00",
+      "lastSeen": "2026-10-16T06:04:00+09:00",
+      "news": [
+        {
+          "title": "Licensable picture: Berlin-Brandenburg State Laboratory Presents Annual Report",
+          "url": "https://www.reutersconnect.com/item/berlin-brandenburg-state-laboratory-presents-annual-report/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjEwMTVYOTlYOTY0NjU3",
+          "source": "Reuters Connect",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Licensable picture: Ulrike Strauch and Adis Ahmetovic",
+          "url": "https://www.reutersconnect.com/item/ulrike-strauch-and-adis-ahmetovic/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjEwMTVYOTlYOTY0NjQy",
+          "source": "Reuters Connect",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Bundestag",
+          "url": "https://www.reutersconnect.com/item/bundestag/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjEwMTVYOTlYOTU4OTky",
+          "source": "Reuters Connect",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "자동차 산업": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-16T06:04:00+09:00",
+      "lastSeen": "2026-10-16T06:04:00+09:00",
+      "news": [
+        {
+          "title": "중국 손잡는 유럽車…뒤집힌 자동차 기술 주도권",
+          "url": "https://zdnet.co.kr/view/?no=20261015181024",
+          "source": "지디넷코리아",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "[정구민의 테크읽기] '파리모터쇼'로 보는 중국의 공세, 유럽의 위기와 우리의 과제",
+          "url": "https://www.etnews.com/20261015000153",
+          "source": "전자신문",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "[2026 파리모터쇼] 시트로엥 2CV, 38년 만에 전기차로 부활 '2200만원 목표'",
+          "url": "https://mauto.danawa.com/news/?Tab=N1&Work=detail&no=6070222",
+          "source": "다나와 자동차",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "진양곤": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-16T06:04:00+09:00",
+      "lastSeen": "2026-10-16T06:04:00+09:00",
+      "news": [
+        {
+          "title": "진양곤 HLB 의장 “리픽투 美 시장 빅파마 협력도 열어둬”",
+          "url": "https://pharm.edaily.co.kr/News/Read?newsId=05202086645613248",
+          "source": "팜이데일리",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "HLB 신약 리픽투 美약가 경쟁사 대비 20% 프리미엄 기대 [현장+]",
+          "url": "https://v.daum.net/v/Pd0fjoFY3N",
+          "source": "Daum",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "HLB 간암藥, 허가 불발에 경쟁구도 변화···美시장 입지 부담",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424309",
+          "source": "시사저널e",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "로키": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-16T06:04:00+09:00",
+      "lastSeen": "2026-10-16T06:04:00+09:00",
+      "news": [
+        {
+          "title": "Tom Hiddleston on Tenzing, Avengers: Doomsday's Loki and Why Fatherhood Is His \"Most Important Role\"",
+          "url": "https://www.esquire.com/uk/culture/film/a74102691/tom-hiddleston-interview-2026/",
+          "source": "Esquire",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Tom Hiddleston Says Fatherhood Is the ‘Most Important Role’ He’ll Ever Play",
+          "url": "https://people.com/tom-hiddleston-says-fatherhood-has-completely-changed-his-life-12172570",
+          "source": "People.com",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Hiddleston: Thor villain role was a real Marvel | Irish Daily Star - newspaper",
+          "url": "https://www.magzter.com/stories/newspaper/Irish-Daily-Star/HIDDLESTON-THOR-VILLAIN-ROLE-WAS-A-REAL-MARVEL",
+          "source": "Magzter",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "롤": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-16T06:04:00+09:00",
+      "lastSeen": "2026-10-16T06:04:00+09:00",
+      "news": [
+        {
+          "title": "[개발 인사이드] LoL 클래식",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/dev/dev-league-classic/",
+          "source": "League of Legends",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "라이엇, ‘LoL 클래식’ 내년 1월 종료… “이벤트 모드 전환 검토”",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172077",
+          "source": "IT조선",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "'LoL 클래식', 내년 1월부터 시간제 큐로 전환",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322111",
+          "source": "인벤",
+          "date": "2026-10-15"
+        }
+      ]
     }
   },
   "sections": {
@@ -1414,6 +1674,36 @@
         "title": "포항 바다서 키운 꿈, 아시안게임 e스포츠 김건우 ‘금’·조민혁 ‘동’으로 빛나다",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ca0QxQnBIY05NWGtNTm1vOUVreGxpWVhZZTZuNURaMmw1TzBiRXVpSTZaMXQtLWtlNWpJR2ltY0ZXS0V4MmI4bHB1Um5VVjIzSjRTbTJpUERtQQ?oc=5",
         "source": "경북매일",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "이강철도 숨죽이고 지켜봤다! 1점차 '진검승부' 펼친 두산-LG 와카전 지켜본 속내 \"두산 마운드 진짜 좋던데…\" [수원현장]",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSUlWT28xc1VVZm16ZGlKTUw2YkpUbHFVMGtwYWk0R1NJTEgtQ05hNEptZFBqeHFwUlg0dEt1eDZPdFNobVBpQ3RPdG9RTGM0Um5vWFl6VkRWcC1BeE1oU3prejdaZ3RtVUIyU3Z6REdQU0NYUThzTWM5S2Z5U2YxemFrYw?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "[프로배구] '빅토리아 38점' IBK기업은행, 정관장 3-1 꺾고 컵대회 준결승행",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NVFBDcVdDdWJqcnRsVnI4R2FWbThFdU44aXFkZ016TjMtM2dwR0ZrUnFsWDREbTZrZGFpUmZaVmhSZUI1LVhnUkRJMl9hZmRfZGNwNnpqWjlTbzFT?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "‘칸터 42점 폭발’ 프로농구 삼성, LG 꺾고 파죽의 개막 4연승",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqZ015WWhfWnh6ZlE3UjdPTmowRk5nam5pSHFNdnFYbHlHMG9ZTlFwRzlUSkZLdUduM1VfNEtoQ0ZuSEI5SWJBck1FcWtaR3hRX2h4Vk5IVXVoYnVpZDE3TmM4NFJGYTRWclFvZFBUQ2pBSDdL0gFmQVVfeXFMUFZkWTNnWWNhZkY3T3pFOHd1WnNoTUtHR0hRS2U0LXg1Ul8wQl96b1ZRblVKVG9IM2JrekVhcGs0TjN3YTZ0UVgzcjJST0VCSnFncTRBSXVVclcxSk5OM0dIcXJHcEFR?oc=5",
+        "source": "동아일보",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "의협 \"마라톤 안전관리 강화해야…의료진·AED 확보 필요\"",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HMzNURFFqQVNJd2xkcjhVbkRXM0VHT0VTdW1Nc1JPOUNDWlJsdjJnMm9WUDRzSFptdGR5c1A5RVpqeTIzQTNzMkctODFIR1dhV3h0RDJMRTl4aHp1ZFdCTk9vWQ?oc=5",
+        "source": "보건신문",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "LG 신민재, 광주 함께 간다…“왼쪽 햄스트링 큰 이상 없어”",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EU2loWGpkSldBZlRISXVCTTZXRWpaMDJ5a1pEQlljd3l0UWVrRlBxVVZDQWhxM0IwOVl6U2dDSndzQ0kxekpQbTNfZmxCQWxVNjJyOUNOWjh6S00?oc=5",
+        "source": "KBS 뉴스",
         "date": "2026-10-15"
       }
     ]
