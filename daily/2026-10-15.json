@@ -761,6 +761,266 @@
           "date": "2026-10-14"
         }
       ]
+    },
+    "카드뉴스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-15T10:41:00+09:00",
+      "lastSeen": "2026-10-15T10:41:00+09:00",
+      "news": [
+        {
+          "title": "[카드뉴스] 비흡연자도 폐암 CT 검진 받아야 할까",
+          "url": "http://news.lghellovision.net/news/articleView.html?idxno=558394",
+          "source": "LG헬로비전",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "[의학칼럼]암 사망률 1위 폐암, 조기에 발견하려면",
+          "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=647033",
+          "source": "경남일보",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "의사들은 폐암 위험을 예방하기 위해 폐 결절을 ���기에 발견하는 것이 중요하다고 강조합니다.",
+          "url": "https://www.vietnam.vn/ko/bac-si-luu-y-cach-phat-hien-som-not-phoi-phong-nguy-co-ung-thu-phoi",
+          "source": "Vietnam.vn",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "어디가": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-15T10:41:00+09:00",
+      "lastSeen": "2026-10-15T10:41:00+09:00",
+      "news": [
+        {
+          "title": "김민석 “강훈식 서울시장 후보? 가능성·미래 열려 있다…역량 검증된 전국적 인물”",
+          "url": "https://www.khan.co.kr/article/202610150906001",
+          "source": "경향신문",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "국힘 “국정 위기에 ‘세무 관료’ 출신 비서실장 임명, 납득할 수 없어”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261015/134845643/2",
+          "source": "동아일보",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "'이재명 변호인' 9명에 '처남·매형'까지 요직 … '대장동 파티의 장(場)' 된 李 정권 인사",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/14/2026101400338.html",
+          "source": "뉴데일리",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "kospi": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-15T10:41:00+09:00",
+      "lastSeen": "2026-10-15T10:41:00+09:00",
+      "news": [
+        {
+          "title": "US inflation and AI doubts slam Korea stocks as KOSPI, KOSDAQ trigger sell-sidecars - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-finance/2026/10/15/QNBHG66UFJF6VKKYYSBSLPIAVY/",
+          "source": "Chosunbiz",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "[Photo] Samsung Electronics, SK hynix Extend Their Slump",
+          "url": "https://www.asiae.co.kr/en/article/2026101509372353085",
+          "source": "아시아경제",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Foreign investors sell for second straight day; retail investors cautious amid tough battle over the 6,000-point mark",
+          "url": "https://www.mt.co.kr/en/stock/2026/10/14/2026101410445541218",
+          "source": "머니투데이",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "토스증권": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-15T10:41:00+09:00",
+      "lastSeen": "2026-10-15T10:41:00+09:00",
+      "news": [
+        {
+          "title": "[게시판] 토스증권, 앱에 '시장' 탭 신설…AI시황 요약 제공",
+          "url": "https://www.yna.co.kr/view/AKR20261014049900008",
+          "source": "연합뉴스",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "\"고객 마음을 훔쳐라\"…온·오프 넘나드는 증권가 MTS '전면전'",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439168",
+          "source": "연합인포맥스",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "한국투자증권, AI 음성으로 듣는 '들려주는 리서치' 출시 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/14/2026101409271832080",
+          "source": "머니투데이",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "독도": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-15T10:41:00+09:00",
+      "lastSeen": "2026-10-15T10:41:00+09:00",
+      "news": [
+        {
+          "title": "[게시판] iM뱅크, '독도의 날' 기념 굿즈 증정 이벤트",
+          "url": "https://www.yna.co.kr/view/AKR20261014124200053",
+          "source": "연합뉴스",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "126년 전 대한제국이 영토로 명시한 독도… ‘독도의 날’ 문화행사 풍성",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3440419",
+          "source": "천지일보",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "iM뱅크, 독도의 날 SNS 이벤트…댓글·좋아요 참여 35명에 선물",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05464486645612920",
+          "source": "마켓인",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    "솔비": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-15T10:41:00+09:00",
+      "lastSeen": "2026-10-15T10:41:00+09:00",
+      "news": [
+        {
+          "title": "[단독] '20년 전 처음 봤던' 솔비♥이규한, 내년 결혼…부부되기까지(종합)",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6320537",
+          "source": "뉴스1",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "솔비·이규한, 열애설도 없이 내년 결혼(종합)",
+          "url": "https://www.newsis.com/view/NISX20261015_0003826606",
+          "source": "뉴시스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "[공식] 솔비♥이규한, 내년 4월 결혼…양가 상견례 마쳤다",
+          "url": "https://sports.donga.com/ent/article/all/20261015/134844869/1",
+          "source": "스포츠동아",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "하이닉스 주가": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-15T10:41:00+09:00",
+      "lastSeen": "2026-10-15T10:41:00+09:00",
+      "news": [
+        {
+          "title": "\"ASML 호실적에도 시간외 하락\" 삼전·닉스 반등 실패[핫스탁](종합)",
+          "url": "https://www.newsis.com/view/NISX20261014_0003826039",
+          "source": "뉴시스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "하이닉스 ADR-본주 괴리율 48%…락업 풀려도 안 좁혀진 이유",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04496886645612920",
+          "source": "마켓인",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "하이닉스 10% 넘게 급락, 144만원 붕괴…삼전도 23만원 깨졌다",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=56114",
+          "source": "주간조선",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "삼전 주가": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-15T10:41:00+09:00",
+      "lastSeen": "2026-10-15T10:41:00+09:00",
+      "news": [
+        {
+          "title": "中 CXMT 반도체 신기술, 왜 삼전닉스 주가 흔들었나",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/15/GRNF3J5OMJBXZIZYY4EULIRA6E/",
+          "source": "조선일보",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "[특징주] 삼성전자·SK하이닉스, 장 초반 7∼8% 하락세",
+          "url": "https://www.yna.co.kr/view/AKR20261015045300008",
+          "source": "연합뉴스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "삼성전자, 차세대 '4F² VCT D램' 개발 재확인…CXMT 메모리 추격 대응",
+          "url": "https://zdnet.co.kr/view/?no=20261014162447",
+          "source": "지디넷코리아",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "리그 오브 레전드": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-15T10:41:00+09:00",
+      "lastSeen": "2026-10-15T10:41:00+09:00",
+      "news": [
+        {
+          "title": "라이엇게임즈, 2026 LCK 시청 지표 발표…평균 분당 시청자 수 70만 돌파",
+          "url": "https://zdnet.co.kr/view/?no=20261014175541",
+          "source": "지디넷코리아",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "LCK, 프랜차이즈 6년 만에 시청자 두 배…AMA 첫 70만 돌파",
+          "url": "https://www.sedaily.com/article/20101587",
+          "source": "서울경제",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "[클릭! e 게임]LCK, 평균 분당 시청자 71만 명 돌파",
+          "url": "https://www.munhwa.com/article/11623491",
+          "source": "문화일보",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "하이닉스": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-15T10:41:00+09:00",
+      "lastSeen": "2026-10-15T10:41:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 코스피, 장중 5%대 급락…매도 사이드카 발동",
+          "url": "https://news.jtbc.co.kr/article/NB12323081",
+          "source": "JTBC",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "'AI가 돈 될까' 의심에 美물가 상승까지…코스피 7% 폭락 '검은 목요일'",
+          "url": "https://core.asiae.co.kr/article/2026101510250630918",
+          "source": "아시아경제",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "美 물가 충격에 코어위브發 신용 리스크까지… 코스피 5700선 붕괴·반도체 투매",
+          "url": "https://www.hankyung.com/article/202610153116i",
+          "source": "한국경제",
+          "date": "2026-10-14"
+        }
+      ]
     }
   },
   "sections": {
