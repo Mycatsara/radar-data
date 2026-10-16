@@ -1021,6 +1021,260 @@
           "date": "2026-10-16"
         }
       ]
+    },
+    "이재용": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-16T17:50:00+09:00",
+      "lastSeen": "2026-10-16T17:50:00+09:00",
+      "news": [
+        {
+          "title": "이재용, 중동 파견 직원들에게 300만~500만원 상품권 \"책임감에 감사\"",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/16/IZ4BB5TQ25CEXNSPHKMUGJVK64/",
+          "source": "조선일보",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "[기업] 이재용 회장, 중동 파견 임직원에 격려 선물",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610161701484594",
+          "source": "YTN",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "“여러분의 헌신에 감사”…삼��� 이재용, 7개월 만에 또 ‘통 큰 선물’",
+          "url": "https://www.mk.co.kr/news/business/12177808",
+          "source": "매일경제",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "005930": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-16T17:50:00+09:00",
+      "lastSeen": "2026-10-16T17:50:00+09:00",
+      "news": [
+        {
+          "title": "'Be hungry like Samsung': Vedanta's Anil Agarwal shares S. Korean firm's growth story as it projects $80 bn in Q3 profit",
+          "url": "https://www.livemint.com/companies/be-hungry-like-samsung-vedantas-anil-agarwal-shares-s-korean-firms-growth-story-as-it-projects-80-bn-in-q3-profit-11791866541220.html",
+          "source": "Livemint",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Samsung's Forecast Is Firm, but the Market Is Rewriting the Rules",
+          "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/samsung-s-forecast-is-firm-but-the-market-is-rewriting-the-rules/70334653",
+          "source": "ad-hoc-news.de",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "The Shovel Sellers Are Winning",
+          "url": "https://hackernoon.com/the-shovel-sellers-are-winning",
+          "source": "HackerNoon",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "현숙": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-16T17:50:00+09:00",
+      "lastSeen": "2026-10-16T17:50:00+09:00",
+      "news": [
+        {
+          "title": "현숙 \"母 돌아가신 뒤 보니 이불 밑에 3800만원이…\"",
+          "url": "https://www.newsis.com/view/NISX20261016_0003828771",
+          "source": "뉴시스",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "이계인, 44㎏ 감량했던 김신영에 \"살 빠진 건 안 어울린다\"",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/10/16/DHBBBU2YU5AHHKABFHPICWUCJA/",
+          "source": "조선일보",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "현숙 “돌아가신 母 이불 밑에서 3800만원 발견”…전액 기부 (아는 형님)",
+          "url": "https://sports.donga.com/ent/article/all/20261016/134853404/1",
+          "source": "스포츠동아",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "매일노동뉴스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-16T17:50:00+09:00",
+      "lastSeen": "2026-10-16T17:50:00+09:00",
+      "news": [
+        {
+          "title": "정년연장 \"연내 처리\" 속도 내지만…청년 채용·임금 개편 '난제'",
+          "url": "https://www.news1.kr/economy/employment-labor/6320252",
+          "source": "뉴스1",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "'메가특구' 사회적대화 4차 실무회의…한국노총 정책 제안",
+          "url": "https://www.newsis.com/view/NISX20261014_0003826319",
+          "source": "뉴시스",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "김영훈 노동장관 \"산재 감소에 매진…작은 사업장 지원 강화\"",
+          "url": "https://news.mtn.co.kr/article/2026101311255734839",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "하프마라톤": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-16T17:50:00+09:00",
+      "lastSeen": "2026-10-16T17:50:00+09:00",
+      "news": [
+        {
+          "title": "'故유지원 애도런' 인증샷 뭇매…\"그 부모가 울면서 그만하라잖아\"",
+          "url": "https://www.news1.kr/society/general-society/6321963",
+          "source": "뉴스1",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "결승선 500m 앞두고 멈춘 질주…'카이스트 러너' 유지원씨 추모 물결",
+          "url": "https://www.newsis.com/view/NISX20261013_0003824623",
+          "source": "뉴시스",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "마라톤 참가자 사망에…의협 \"정부, 대회 안전관리 강화해야\"",
+          "url": "https://www.yna.co.kr/view/AKR20261015138000530",
+          "source": "연합뉴스",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "성남도시개발공사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-16T17:50:00+09:00",
+      "lastSeen": "2026-10-16T17:50:00+09:00",
+      "news": [
+        {
+          "title": "성남도시개발공사, 대장동 김만배 아내에게 22억 ‘사해행위 취소 소송’",
+          "url": "https://www.chosun.com/national/court_law/2026/10/16/NEGYQVURYBHDXCYLWAV5CA7LQA/",
+          "source": "조선일보",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "성남도시개발공사, ‘김만배 아내 22억’ 환수 소송...토지 가압류 신청",
+          "url": "https://www.kyeonggi.com/article/20261016580008",
+          "source": "경기일보",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "‘대장동’ 김만배, 아내에 22억 은닉 의혹…성남도개공, 환수 소송",
+          "url": "https://www.donga.com/news/Society/article/all/20261016/134854952/1",
+          "source": "동아일보",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "워뇨띠": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-16T17:50:00+09:00",
+      "lastSeen": "2026-10-16T17:50:00+09:00",
+      "news": [
+        {
+          "title": "'줄었어도 최소 천억' 코인 트레이더 워뇨띠, 주식 투자 개시글 화제",
+          "url": "https://www.smarttoday.co.kr/ko-kr/articles/112810",
+          "source": "스마트투데이",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "워뇨띠, 국내 주식 투자 공개 \"약 60억원→200억원까지 늘릴 계획\"",
+          "url": "https://economybloc.com/article/119136/",
+          "source": "이코노미블록",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "비궁": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-16T17:50:00+09:00",
+      "lastSeen": "2026-10-16T17:50:00+09:00",
+      "news": [
+        {
+          "title": "LIG D&A, 美 파이어호크와 미군용 ‘비궁’ 로켓 추진체 개발 협력…“미군 조달 시장 공략↑”",
+          "url": "https://www.donga.com/news/K-TECH%2BGlobal%2BLeaders/article/all/20261014/134843592/1",
+          "source": "동아일보",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "LIG, 안두릴·레이시온 이어 파이어호크와 맞손…美 방산 협력 확대",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=352095",
+          "source": "녹색경제신문",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "“방공망 통째로 판다”…LIG D&A, K-방산 새 수출 공식 쓴다",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261015010004774",
+          "source": "아시아투데이",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "노동자": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-16T17:50:00+09:00",
+      "lastSeen": "2026-10-16T17:50:00+09:00",
+      "news": [
+        {
+          "title": "청년 노동자들 고충 해소… 성동구, 무료 법률서비스",
+          "url": "https://www.munhwa.com/article/11623997",
+          "source": "문화일보",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "성동구, 청년 노동자 임금체불·부당해고 등 무료 법률 상담",
+          "url": "https://www.news1.kr/local/moi/6322255",
+          "source": "뉴스1",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "성동구, 청년 노동권 보호 강화…무료 법률상담·맞춤형 교육 지원",
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=315862",
+          "source": "www.ppss.kr",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "제임스 네일": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-16T17:50:00+09:00",
+      "lastSeen": "2026-10-16T17:50:00+09:00",
+      "news": [
+        {
+          "title": "KIA 네일 vs LG 톨허스트, 70.6% 확률 놓고 준PO 1차전 대결",
+          "url": "https://www.yna.co.kr/view/AKR20261016052300007",
+          "source": "연합뉴스",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "준플레이오프 1·2차전 시구자에 데이식스 원필·배우 김의성[준PO]",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829434",
+          "source": "뉴시스",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "'10년 만에 가을야구 격돌!' LG 톨허스트-KIA 네일, 준PO 1차전 출격...호남선시리즈 기대만발 [준PO]",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/16/MY3WGYRSMI3TOMBUGMZGGOLEHE/",
+          "source": "조선일보",
+          "date": "2026-10-16"
+        }
+      ]
     }
   },
   "sections": {
