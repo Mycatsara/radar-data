@@ -404,6 +404,266 @@
           "date": "2026-10-16"
         }
       ]
+    },
+    "백악관 대변인": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-17T08:19:00+09:00",
+      "lastSeen": "2026-10-17T08:19:00+09:00",
+      "news": [
+        {
+          "title": "백악관 대변인, 나흘 만에 초스피드 경질… ‘역대 최단명’ 기록",
+          "url": "https://www.chosun.com/international/us/2026/10/17/OKJUVSODUNHXXIUC5CEG65LXQM/",
+          "source": "조선일보",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "백악관 대변인 나흘 만에 경질...허위경력·자질 논란에 하차",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610170624313196",
+          "source": "YTN",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "‘변호사’라더니 ��험도 불합격…트럼프의 입, 거짓말 논란에 나흘 만에 경질",
+          "url": "https://www.munhwa.com/article/11624138",
+          "source": "문화일보",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "베트남 축구 국가대표팀": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-17T08:19:00+09:00",
+      "lastSeen": "2026-10-17T08:19:00+09:00",
+      "news": [
+        {
+          "title": "올라하 만 득은 베트남 국가대표팀에서 뛸 자격이 충분하며, 김 감독의 부름만 기다리고 있습니다.",
+          "url": "https://www.vietnam.vn/ko/olaha-manh-duc-da-hoan-toan-du-dieu-kien-khoac-ao-doi-tuyen-viet-nam-chi-cho-thay-kim-goi",
+          "source": "Vietnam.vn",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "태국 언론은 베트남의 새로운 귀화 선수에 대해 우려를 표명했다.",
+          "url": "https://www.vietnam.vn/ko/truyen-thong-thai-lan-lo-ngai-cau-thu-nhap-tich-moi-cua-tuyen-viet-nam",
+          "source": "Vietnam.vn",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "박항서·김상식, 베트남 축구 우승 신화 뒤엔...베트남 축협 숨은 역할 재조명",
+          "url": "https://www.ajunews.com/view/20261016090958978",
+          "source": "아주경제",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "러시아": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-17T08:19:00+09:00",
+      "lastSeen": "2026-10-17T08:19:00+09:00",
+      "news": [
+        {
+          "title": "러 매체 \"韓 9월 러시아산 LNG 수입, 2021년 11월 이후 최대\"",
+          "url": "https://www.yna.co.kr/view/AKR20261016171100108",
+          "source": "연합뉴스",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "\"한국, 9월 러시아산 LNG 수입량 약 5년 만에 최대\"",
+          "url": "https://view.asiae.co.kr/article/2026101620560700026",
+          "source": "아시아경제",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "러 매체 “한국, 9월 러시아산 LNG 수입 약 5년 만에 최대”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8687796",
+          "source": "KBS 뉴스",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "홍윤화": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-17T08:19:00+09:00",
+      "lastSeen": "2026-10-17T08:19:00+09:00",
+      "news": [
+        {
+          "title": "린, '슬로우 조깅' 유행 탑승 완료",
+          "url": "https://www.newsis.com/view/NISX20261016_0003828734",
+          "source": "뉴시스",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "홍윤화, 40kg 감량 후 영양 불균형…\"병원서 덤프트럭에 경차 기름 넣지 말라고\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6322844",
+          "source": "뉴스1",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "'김민기♥' 홍윤화, 극단적 40kg 감량했더니..심한 부작용 왔다 \"병원서 경고\"(미우새)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/16/G42TGMJZGJRTCYRXMYYTEZTDME/",
+          "source": "조선일보",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "심형탁": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-17T08:19:00+09:00",
+      "lastSeen": "2026-10-17T08:19:00+09:00",
+      "news": [
+        {
+          "title": "심형탁♥사야, 훌쩍 큰 ‘19개월 子’ 하루에 깜짝..“꿈만 같아” (형탁사야의하루) - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/16/MEYDENJVGYZDENZWMY2TQMLFME/",
+          "source": "Chosunbiz",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "‘사야♥’ 심형탁과 아들 하루, 인기 치솟더니 결국 日홍보대사 됐다",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-10/202610100100063720004103",
+          "source": "스포츠조선",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "‘슈돌’ 사랑둥이 하루·심형탁 부자, 日 홍보대사 됐다 “잠 덜 깬 모습도 심쿵”",
+          "url": "https://sports.khan.co.kr/article/202610101708003",
+          "source": "스포츠경향",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "관광객": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-17T08:19:00+09:00",
+      "lastSeen": "2026-10-17T08:19:00+09:00",
+      "news": [
+        {
+          "title": "함안 낙화놀이에 일본 관광객 1,500명, 역대 최대 유치",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=718780",
+          "source": "뉴스타운",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "[로컬의 재발견] 액운 쫓던 불꽃이 'K-콘텐츠'로…세계 홀린 함안낙화놀이",
+          "url": "https://stock.mk.co.kr/news/view/1176166",
+          "source": "매일경제 마켓",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "가을 밤 추억",
+          "url": "https://www.yna.co.kr/view/PYH20261015217700052",
+          "source": "연합뉴스",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "kia 타이거즈": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-17T08:19:00+09:00",
+      "lastSeen": "2026-10-17T08:19:00+09:00",
+      "news": [
+        {
+          "title": "KIA 한숨, 19억 투자 어디로 사라졌나… 가을에도 나타나지 않았다, 이범호 테트리스 성공하나",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013542",
+          "source": "SPOTV NEWS",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "'와 KIA 유일' 이 선수도 엔트리에 승선했다…\"제 역할 해내는 모습 상상하고 있죠\"",
+          "url": "https://www.xportsnews.com/article/2208315",
+          "source": "www.xportsnews.com",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "'탈락' 이변은 없었다, KIA 우타 거포 경쟁 구도 지각변동 예고…1R 특급 유망주 판 흔든다",
+          "url": "https://www.sportschosun.com/baseball/2026-10-15/202610150100098910006393",
+          "source": "스포츠조선",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "류필립": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-17T08:19:00+09:00",
+      "lastSeen": "2026-10-17T08:19:00+09:00",
+      "news": [
+        {
+          "title": "'17세 연상 아내' 미나 두고 미국 간 류필립…\"살려주세요\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/16/2026101618580681293",
+          "source": "머니투데이",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "'미나♥' 류��립, 17살 연상 아내 떠나 美서 알바 중..\"울렁증 생겨\"[핫피플]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/16/GBQWKZJRMM2GMMRXMZRGGYRZGA/",
+          "source": "조선일보",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "류필립, '17살 연상♥' 미나와 별거 심경 \"불안정한 미래…아내에게 미안\"",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013497",
+          "source": "SPOTV NEWS",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "장인화": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-17T08:19:00+09:00",
+      "lastSeen": "2026-10-17T08:19:00+09:00",
+      "news": [
+        {
+          "title": "글로벌 ‘철강 심장’에 미래를 심다…장인화와 포스코의 ‘꿈’",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261014010004480",
+          "source": "아시아투데이",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "주말 그린피만 48만원 초호화 골프장 가진 포스코의 결단?",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/06/2026100602624.html",
+          "source": "땅집고",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "포스코그룹, 비핵심 자산 매각 속도…미래 투자 확대",
+          "url": "https://www.sentv.co.kr/article/view/sentv202610160153",
+          "source": "서울경제TV",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "ionq": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-17T08:19:00+09:00",
+      "lastSeen": "2026-10-17T08:19:00+09:00",
+      "news": [
+        {
+          "title": "IonQ Is Following Nvidia's Playbook. Why the Stock Could Be a Buy After a 60% Dip.",
+          "url": "https://www.fool.com/investing/2026/10/15/ionq-is-following-nvidias-playbook-why-the-stock-c/",
+          "source": "The Motley Fool",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Prediction: IonQ Will Cross $100 Per Share in 2027 (It's Less Than $40 Per Share Now)",
+          "url": "https://www.aol.com/articles/prediction-ionq-cross-100-per-224500000.html",
+          "source": "AOL.com",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Investors Who Can Hold IonQ for a Year Should Know What to Do",
+          "url": "https://247wallst.com/investing/2026/10/15/investors-who-can-hold-ionq-for-a-year-should-know-what-to-do/",
+          "source": "24/7 Wall St.",
+          "date": "2026-10-16"
+        }
+      ]
     }
   },
   "sections": {
