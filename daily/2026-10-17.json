@@ -2,10 +2,10 @@
   "date": "2026-10-17",
   "keywords": {
     "유실물": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 1000,
       "firstSeen": "2026-10-17T02:51:00+09:00",
-      "lastSeen": "2026-10-17T02:51:00+09:00",
+      "lastSeen": "2026-10-17T05:40:00+09:00",
       "news": [
         {
           "title": "서울 지하철 유실물 1위는 '지갑'…6년간 접수된 현금만 30억원",
@@ -28,10 +28,10 @@
       ]
     },
     "지예은": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-10-17T02:51:00+09:00",
-      "lastSeen": "2026-10-17T02:51:00+09:00",
+      "lastSeen": "2026-10-17T05:40:00+09:00",
       "news": [
         {
           "title": "[선공개] “정신 차려” 이서진×김광규, ‘my스타’ 지석진×지예은의 총체적 난국 노래방 리허설에 당황♨",
@@ -50,14 +50,26 @@
           "url": "https://www.news1.kr/entertain/broadcast-tv/6322922",
           "source": "뉴스1",
           "date": "2026-10-16"
+        },
+        {
+          "title": "‘my스타’ 지예은, 이서진의 노련한 케어 덕분에 첫 사인 무사히 완료★",
+          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC482525656",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "'12월 결혼' 지예은, '결혼 훈수' 55세 미혼 이서진에 돌직구",
+          "url": "https://www.newsis.com/view/NISX20261017_0003829816",
+          "source": "뉴시스",
+          "date": "2026-10-16"
         }
       ]
     },
     "최예나": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-10-17T02:51:00+09:00",
-      "lastSeen": "2026-10-17T02:51:00+09:00",
+      "lastSeen": "2026-10-17T05:40:00+09:00",
       "news": []
     },
     "대만": {
@@ -219,6 +231,176 @@
           "title": "셀트리온, 세계알레르기학회 참가…‘옴리클로’ 경쟁력 알린다",
           "url": "https://www.etoday.co.kr/news/view/2635037",
           "source": "이투데이",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "나스닥": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-17T05:40:00+09:00",
+      "lastSeen": "2026-10-17T05:40:00+09:00",
+      "news": [
+        {
+          "title": "[뉴욕증시-1보] 기술주 본격 하강 국면 진입하나…나스닥 2.1%↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439724",
+          "source": "연합인포맥스",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "SPDR S&P 500 ETF Trust, AI·반도체주 매도세에 하락",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2130244",
+          "source": "Investing.com 한국어",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "국채금리 하락 반등했던 주가, 보합권 소폭 강세",
+          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6858539_36981.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "삼성": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-17T05:40:00+09:00",
+      "lastSeen": "2026-10-17T05:40:00+09:00",
+      "news": [
+        {
+          "title": "삼성·LG 제품, 미국 타임 선정 '최고의 발명품'(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261016023851017",
+          "source": "연합뉴스",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "삼성 '갤S26 울트라' 등 3개 제품, 美 타임 '올해 최고의 발명품' 선정",
+          "url": "https://www.etnews.com/20261016000203",
+          "source": "전자신문",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "LG전자 무선 월페이퍼 TV, 美 타임 ’2026 최고의 발명품' 선정 - 조선비즈",
+          "url": "https://biz.chosun.com/it-science/ict/2026/10/16/OM7PDTG4NFCJFAYKDGBROH4WMY/",
+          "source": "Chosunbiz",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "이효리": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-17T05:40:00+09:00",
+      "lastSeen": "2026-10-17T05:40:00+09:00",
+      "news": [
+        {
+          "title": "이효리, 이상순 닮아가네…곱슬머리에 선글라스 셀카",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829561",
+          "source": "뉴시스",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "'핑클 컴백' 이효리, 꾸밈없는 민낯 공개..더 사랑스러워",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/17/MY3WEMRTGJSWMY3EMIYGIMJQGM/",
+          "source": "조선일보",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "이효리, 이상순 닮아가는 근황…민낯에 선글라스 '털털' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/16/2026101622323480229",
+          "source": "머니투데이",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "lcp": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-17T05:40:00+09:00",
+      "lastSeen": "2026-10-17T05:40:00+09:00",
+      "news": [
+        {
+          "title": "MVK Gury: \"I'll show Tatu who's the real Ronaldo\"",
+          "url": "https://www.sheepesports.com/en/articles/mvk-gury-i-ll-show-tatu-who-s-the-real-ronaldo-worlds-2026/en",
+          "source": "Sheep Esports",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "박준금": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-17T05:40:00+09:00",
+      "lastSeen": "2026-10-17T05:40:00+09:00",
+      "news": [
+        {
+          "title": "술 따르라는 PD 뺨 때렸다?…박준금, '출연 정지' 루머 해명 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/15/2026101508530773927",
+          "source": "머니투데이",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "'60대 제니' 박준금, 몸무게 43kg·허리 23인치 공개…“한국 사이즈로 33” - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/15/GY3DCZDDMI2GMMBZG4ZTKYZSMQ/",
+          "source": "Chosunbiz",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "'65세' 박준금, 미니스커트 뽐낸 각선미…20대인 줄 착각 부른 미모·몸매 [N샷]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6320802",
+          "source": "뉴스1",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "뱀": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-17T05:40:00+09:00",
+      "lastSeen": "2026-10-17T05:40:00+09:00",
+      "news": [
+        {
+          "title": "“큰 뱀 있어요”…인천 천마산 등산로서 외래종 비단뱀 포획",
+          "url": "https://www.donga.com/news/Society/article/all/20261016/134856098/1",
+          "source": "동아일보",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "인천 서해구 천마산서 대형 외래종 뱀 발견… 서해소방서가 포획",
+          "url": "http://www.fpn119.co.kr/258024",
+          "source": "FPN-소방방재신문",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "\"큰 뱀 있어요\"…인천 천마산 등산로서 외래종 비단뱀 포획",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829544",
+          "source": "뉴시스",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    "l g 에너지 솔루션": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-17T05:40:00+09:00",
+      "lastSeen": "2026-10-17T05:40:00+09:00",
+      "news": [
+        {
+          "title": "LG엔솔, 이모 전 사장 고발 “오너家 분쟁 개입 변호사법 위반”",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227857",
+          "source": "법률신문",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "LGD·엔솔, 불성실공시법인 지정 예고…횡령·배임 지연 공시",
+          "url": "https://zdnet.co.kr/view/?no=20261016185325",
+          "source": "지디넷코리아",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "LG디스플레이·LG에너지솔루션, 전 임원 배임 혐의 늦장 공시 논란",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1415540",
+          "source": "데일리한국",
           "date": "2026-10-16"
         }
       ]
@@ -1383,6 +1565,54 @@
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ca0QxQnBIY05NWGtNTm1vOUVreGxpWVhZZTZuNURaMmw1TzBiRXVpSTZaMXQtLWtlNWpJR2ltY0ZXS0V4MmI4bHB1Um5VVjIzSjRTbTJpUERtQQ?oc=5",
         "source": "경북매일",
         "date": "2026-10-15"
+      },
+      {
+        "title": "한화 류지현 감독 취임…“자부심 갖고 ‘최강 한화’ 외치도록”",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qdm40MlljaTVMWWRGdEdCaV9NdHAwcG1zSm8zTjB0dGJfTDVRcy02UXdBQmpUUW1YMC1uOVptNEtUa1BvREI5SThRRkJabmlvb2x2SC12NTJGclU?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "[프로배구] 양효진·자스티스 떠나고 조던은 부진...현대건설, 무너진 공수 균형",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VcllUTURyYTV4S2dXV3J3V3BlTlJYb1dwaDFBMC1kYXloR2l4Y1FwaTdIQ3Bwd1dENmZSNGkxYjNDNzRJMGZPeVRHb25TQS1DSF82MmVIM3dVTnd0?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "프로야구 준PO 1,2차전 시구자에 데이식스 원필·배우 김의성",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sUktnZC1Ra2dsWkh0ZGFOazNxNl93a2dPb0w2TXp1Wkk5dDlaWHk4T2lIOEVJM0x5bXBxMWt5OC1NVXFlUi1rWjlORFpoYXY4SndQQldpQ24zaUU?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "배드민턴 안세영, 40분 만에 세계 12위 완파…덴마크 오픈 8강행",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41ajVwQUhkbmJ2aThXMG41RmR5NEdzb1JrVWgxaUtSdDFDenNpcWFIQWstSmNVOEhBU2MzRVRYbnlHTUx5RGRfMG5OYW1URDN3YjA3dXg3dmV6TWVTWFFYcWVxX3F3bmdLUUl4enJvekg5c21Y0gFmQVVfeXFMTzZxWThRY1RXSlFpSlZGUmhCeUNpNFo5YjBhTTJqX3pPdDhkTVZSWGMwM3BraWJjcDFyZ19ZTk5ZdHMyRm9mMkZ6bmNrVXY1OEgxS3c4X2prZUJFbnNMMFBRcXA2cDd3?oc=5",
+        "source": "동아일보",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "[전국체전] 'AG 2관왕' 오상욱, 남자 사브르 개인전 금메달",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1dVNIcV9yaEhaSFpnbksteTBRUXZWUGVPREotbkNINm5wQ2k4Nm9DNXE4SVNRZm01YWxGSzhPbHBWVG9ZMVl6b1RxamkyVXd6N19LdURNclM3SWFS?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "“손흥민은 부적격한 캡틴” 중국 매체, 어처구니없는 주장...손흥민 리더십 정면으로 비판…김민재-황희찬-황인범과 내부갈등설 조명",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kZkVFVGhwdzFuU2FPZ3c2M1E1YXNxaDU4cVY2S3pYLUZkRFdfRjFYZHFXR095dHloUVpIY3RSSlRIRjBuLVF4U01SMEtGT0pJdzdDRw?oc=5",
+        "source": "OSEN",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "시즌 첫 3연승…중상위권 굳히기",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBXzBTNUdMNUVHSy1teVdGUXFKSTg2RGNMSl9WenpqenEzZGFwRE5OdEdTYVhROE5zbGlYbWtlSDNVd3dwTXg1RFV5Zy00T2o5bklNSWdoTDAyNnRNN0xqTHNGVGVhZw?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "SSG, '평균자책점 1.44' 아빌라와 최대 2년 재계약 합의…2027시즌 우승 정조준 [오피셜]",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oMG9OR2dIODFZZjdkb3RQeC1IV2E5eFpHWmE1RTlSSV8yblVmbXVBSVIwWG1XVlhBcC1ZLUh0WVlpTlpRelVzTHFpMHBMMm5lVjBDSHRYX1BBUkk?oc=5",
+        "source": "일간스포츠",
+        "date": "2026-10-16"
       }
     ]
   }
