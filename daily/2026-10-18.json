@@ -2,10 +2,10 @@
   "date": "2026-10-18",
   "keywords": {
     "psg": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-10-18T02:27:00+09:00",
-      "lastSeen": "2026-10-18T02:27:00+09:00",
+      "lastSeen": "2026-10-18T04:39:00+09:00",
       "news": [
         {
           "title": "Le résumé : City 2-4 PSG",
@@ -24,14 +24,20 @@
           "url": "https://fr.uefa.com/uefachampionsleague/video/02aa-21d545ace1f6-4d2cec4853d8-1000--le-sauvetage-sur-sa-ligne-de-nuno-mendes-pour-le-paris-s/",
           "source": "UEFA.com",
           "date": "2026-10-17"
+        },
+        {
+          "title": "Luis Enrique prend la défense de City concernant les infractions financières et se fait allumer : « Dès qu’il parle d’autre chose, il est catastrophique",
+          "url": "https://www.circusdaily.com/fr/ligue-des-champions/luis-enrique-prend-la-defense-de-city-concernant-les-infractions-financieres-et-12953",
+          "source": "Circus Daily",
+          "date": "2026-10-17"
         }
       ]
     },
     "맨시티": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 500,
       "firstSeen": "2026-10-18T02:27:00+09:00",
-      "lastSeen": "2026-10-18T02:27:00+09:00",
+      "lastSeen": "2026-10-18T04:39:00+09:00",
       "news": [
         {
           "title": "‘오히려 좋아’ 맨시티 ‘유죄 판결’ 긍정 포인트 있나, 마레스카 감독 “소음이 구단과 팬들을 하나로 뭉치게 했...",
@@ -50,14 +56,26 @@
           "url": "https://www.xportsnews.com/article/2208305",
           "source": "엑스포츠뉴스",
           "date": "2026-10-17"
+        },
+        {
+          "title": "마레스카, 기록적인 출발에 기쁨 드러내",
+          "url": "https://kr.mancity.com/news/mens/maresca-ipswich-postmatch-written-presser-63927854",
+          "source": "Manchester City FC",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "시티, 입스위치 꺾고 마레스카 프리미어리그 역사 새로 쓰다",
+          "url": "https://kr.mancity.com/news/mens/man-city-ipswich-premier-league-match-report-october-2026-63927854",
+          "source": "Manchester City FC",
+          "date": "2026-10-17"
         }
       ]
     },
     "betis vs barcelona": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 1000,
       "firstSeen": "2026-10-18T02:27:00+09:00",
-      "lastSeen": "2026-10-18T02:27:00+09:00",
+      "lastSeen": "2026-10-18T04:39:00+09:00",
       "news": [
         {
           "title": "¿Cómo ver el partido Betis vs Barcelona en TV y streaming?",
@@ -76,14 +94,26 @@
           "url": "https://www.abc.es/deportes/futbol/barca-busca-sabado-mantener-racha-triunfos-ante-20261017130100-nt.html",
           "source": "ABC",
           "date": "2026-10-17"
+        },
+        {
+          "title": "«Carta de presentación para el Balón de Oro»: Lamine Yamal hace enloquecer a Hansi Flick con un gol increíble para el FC Barcelona",
+          "url": "https://es-us.noticias.yahoo.com/deportes/carta-presentaci%C3%B3n-bal%C3%B3n-oro-lamine-153610164.html",
+          "source": "Yahoo",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Así fue el cabezazo de Valentín Gómez para el 1-1 vs Barca",
+          "url": "https://www.365scores.com/es/news/asi-fue-el-cabezazo-de-valentin-gomez/",
+          "source": "365Scores",
+          "date": "2026-10-17"
         }
       ]
     },
     "이재성": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 200,
       "firstSeen": "2026-10-18T02:27:00+09:00",
-      "lastSeen": "2026-10-18T02:27:00+09:00",
+      "lastSeen": "2026-10-18T04:39:00+09:00",
       "news": [
         {
           "title": "이재성-황희찬, 대표팀 은퇴 소동 이후 첫 맞대결…'이재성 선발 출전' 마인츠, '황희찬 교체 투입' 샬케에 승리",
@@ -257,6 +287,162 @@
           "title": "Prawie połowa badanych Polaków jest za przywróceniem obowiązkowego poboru, młodzi są przeciw",
           "url": "https://www.donald.pl/artykuly/CQ76GKv8/prawie-polowa-badanych-polakow-jest-za-przywroceniem-obowiazkowego-poboru-mlodzi-sa-przeciw",
           "source": "Donald.pl",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "라민 야말": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-18T04:39:00+09:00",
+      "lastSeen": "2026-10-18T04:39:00+09:00",
+      "news": [
+        {
+          "title": "한시 플릭 감독은 바르셀로나가 단 한 번도 승리를 놓치는 것을 원하지 않는다.",
+          "url": "https://www.vietnam.vn/ko/hansi-flick-khong-muon-barcelona-danh-roi-bat-ky-chien-thang-nao",
+          "source": "Vietnam.vn",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "[오늘, 이 장면] ‘라보나 드리블’ 본 적 있나요? 야말이라 가능한…",
+          "url": "https://news.jtbc.co.kr/article/NB12323035",
+          "source": "JTBC",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "'와' 2007년생 발롱도르 2위, 인격도 월클이네!…마스코트 키즈에 재킷 벗어 선물→그라운드선 환상 2도움 \"경기 MVP\"",
+          "url": "https://www.xportsnews.com/article/2207402",
+          "source": "www.xportsnews.com",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "김정은": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-18T04:39:00+09:00",
+      "lastSeen": "2026-10-18T04:39:00+09:00",
+      "news": [
+        {
+          "title": "[클로즈업 북한] 살 쪄도 빠져도 관심…‘김정은 체중’에 담긴 의미는",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688133",
+          "source": "KBS 뉴스",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "[지평선] 초고도비만 김정은",
+          "url": "https://www.hankookilbo.com/news/article/A2026100614120004281",
+          "source": "한국일보",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "[알립니다] NK경제는 김정은 총비서 몸무게 기사를 쓰지 않습니다",
+          "url": "https://www.nkeconomy.com/news/articleView.html?idxno=17284",
+          "source": "NK경제",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "la liga": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-18T04:39:00+09:00",
+      "lastSeen": "2026-10-18T04:39:00+09:00",
+      "news": [
+        {
+          "title": "Youssouf Fofana reaches ‘firm decision’ on joining Man Utd in January",
+          "url": "https://www.football365.com/news/youssouf-fofana-manchester-united-sevilla-ac-milan-2027-january-transfer-decision-made",
+          "source": "Football365",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Youssouf Fofana reacts after Man Utd put ‘pressure’ to sign him",
+          "url": "https://www.teamtalk.com/manchester-united/youssouf-fofana-man-utd-sevilla-ac-milan-2927-january-transfer-decision-reached",
+          "source": "TEAMtalk",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "PREVIEW | Getafe CF vs Rayo Vallecano: team news, lineups, predictions (La Liga 19/10)",
+          "url": "https://sports.yahoo.com/articles/preview-getafe-cf-vs-rayo-191000840.html",
+          "source": "Yahoo Sports",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "바이에른 뮌헨": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-18T04:39:00+09:00",
+      "lastSeen": "2026-10-18T04:39:00+09:00",
+      "news": [
+        {
+          "title": "축구 국가대표 수비수 김민재, 'EPL 챔피언' 아스널 이적설",
+          "url": "https://www.newsis.com/view/NISX20261017_0003829958",
+          "source": "뉴시스",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "'국가대표 은퇴설'로 비판 받는 김민재, 프리미어리그 입성할까…아스날, 긴급 영입 추진한다 - 조선비즈",
+          "url": "https://biz.chosun.com/sports/football/2026/10/17/GE2TKMBTMUYTAYRXMFRWKYTCGI/",
+          "source": "Chosunbiz",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "‘공식 입장’ 밝혔다! 김민재, 아스널 이적 가능성···바이에른 단장 “지금 선수단에 만족, 1월에 별다른 조치...",
+          "url": "https://sports.khan.co.kr/article/202610171932003",
+          "source": "스포츠경향",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "분데스리가": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-18T04:39:00+09:00",
+      "lastSeen": "2026-10-18T04:39:00+09:00",
+      "news": [
+        {
+          "title": "분데스리가 2위 에네르기, 코트부스서 뉘른베르크와 맞대결",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724612",
+          "source": "국제뉴스",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "이재성-황희찬, 대표팀 은퇴 소동 이후 첫 맞대결…'이재성 선발 출전' 마인츠, '황희찬 교체 투입' 샬케에 승리",
+          "url": "https://www.mydaily.co.kr/page/view/2026101800373651193",
+          "source": "마이데일리",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "‘이재성 VS 황희찬 정면대결’ 코리안 더비 발발! 마인츠 승리로 이재성 판정승",
+          "url": "http://www.footballist.co.kr/news/articleView.html?idxno=215913",
+          "source": "풋볼리스트",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "laliga": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-18T04:39:00+09:00",
+      "lastSeen": "2026-10-18T04:39:00+09:00",
+      "news": [
+        {
+          "title": "Former Barcelona director backs Deco's work but warns of Real Betis' star-studded squad: 'A team to beat right now'",
+          "url": "https://barcauniversal.com/former-barcelona-director-backs-decos-work-but-warns-of-real-betis-star-studded-squad-a-team-to-beat-right-now/",
+          "source": "Barca Universal",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Lamine Yamal is undoubtedly leading the new era of Spanish football ✨",
+          "url": "https://sports.yahoo.com/articles/lamine-yamal-undoubtedly-leading-era-170300403.html",
+          "source": "Yahoo Sports",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Betis v Barça: Abde and Betis put Barcelona's perfect start to the test · SNA",
+          "url": "https://sportnewsafrica.com/en/news/betis-v-barca-abde-and-betis-put-barcelonas-perfect-start-to-the-test/",
+          "source": "Sport News Africa",
           "date": "2026-10-17"
         }
       ]
@@ -1391,6 +1577,84 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yZkNGYnJOam8zaDRTdndYX29DQTlFb3JFc2xycVFPcDVDX2JwU1JFYWVUcGVOM1hlV2tBMWYtNTd5eUVvQ0wyLUtoQWE2VEhzV3U0VHo0emNZSnptMDljZi1GUHY0dw?oc=5",
         "source": "마이데일리",
         "date": "2026-10-16"
+      },
+      {
+        "title": "LG 임찬규, 장모상에도 내일 준플레이오프 2차전 선발",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55VjQyQVFwTFhMMzIwd3hacXptUy04aVdmMnZvS3lrLTNTRFRhZEF0TVRkWDA2U09PSTN4Q0VwOVdqb3lURW1SekxZMXRpY0tVMVc3N0pPWVBxSXRwZERYUV9oSWZjMklGYkE?oc=5",
+        "source": "SBS 뉴스",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "[준PO] 'PO 진출 확률 70.6%' 잡은 KIA...이범호 감독 \"질 수 있는 확률 적지 않아\" 경계",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsVlJ0REl2bWdqT2JlTTRKQW5USUdkNDRXWU5FbTZOeWpleV9IWW5NWEJGbDA2d1IwVy1taVRPYWRCRVJLeE9YR3hmY0lpcDRsTWx4LXdOVXpoaHh3?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "실바 앞세운 GS칼텍스, 흥국생명 꺾고 여자배구 컵대회 결승행",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kTnR3UGlwYml0b2JsakRmNVEweExNUFNtUVFYNU9BZktwWUFRRzlfa3BlTzlSNmYwR2NDLWZzdVdxeWRpaGN5VXJjU00ySGIzOEpjd3Y2ZXVRVlHSAWBBVV95cUxNbDZLdHRGWUMzWmRIc3lqX0U0T2Z2V0lORnZiMVNaYXRsTThGelhub0tzR0I2Znhxb2hUSUI4dERKTkEyQXBLVVh5WUhfQmJYSGVNaERxc2pLMmF2b1lMYnQ?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "유도 허미미, 아시안게임 이어 전국체전도 '금빛 업어치기'",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01SVlwX2Vnb1RMY3BoU0tQMUkxaVRrbFdtVExMUi1vU256Q3RHV1lCQWxmTHJfakFhMmdaNTNfT19hUFFXeTlqd1RHX0lHa25NaXI3MUZ0UVo0Y1diMllJN19zY21vMGgt?oc=5",
+        "source": "대경일보",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "[축구] 울산, 부천에 2-1 역전승… 연패 탈출하고 파이널A 확정",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KX1pLV1dqcXBZWHUzdlAwQjJuYVZNQWozelJ3MUU3aHh5bEs4YngwY2Y3RFJ5Y0ptV1RKb2VTelFhUVVNZXBsVS1zQ3JwV216RzJSZ1VMckMtX1liQ1dScUg2MmNEdFhTV0E?oc=5",
+        "source": "천지일보",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "[준PO] '가을야구에 비 내리면?' KBO, 우천 세칙 발표…노게임·강우콜드 없다",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oWDR1WTA1dmJDQ1FtWDUxUVE3WGVHWmZfdTZYUVNOM0FWNHpwTUItakIyZ1lkaVU4OFV5Mm9wS05LTGgyd3VZY1Y0OGFmellOd0p2dl9vVDktbC0y?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "최혜진·양희영, LPGA ��하이 대회 3R서 나란히 1·2위(종합)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sdl9VbFZsWk9VSjdYWkpqMk42UkFXclZZNHdGOFYxSjVueGdiTmlKVGdaZTdYbXpTeWN2TnBoTVNZNmpmeGNncm4tQ0lQMW5KclBPdmhCYVNvZknSAWBBVV95cUxQeGhDN1B4TzBTRjJBQjlaYlFCOWtabnhpMlEtNWJtbkJTSVI5VnZIYUtIZVFMODVhZE5OSmJmblhVMHlfLWRjUnZzZVlBQ05zb2xVY0x2cWZqNjJIc3VIU1E?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "AFC, 아시안컵 주목할 선수에 '한국 주장' 손흥민",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TRnlHb2VfTllVYmlGX3VhZnZqZFZqX1hORUc3RVE0c0xXSDNleXZqTGt1Wng5OFNVcnI0a0x0TmNqNGh4dEpMYnUtUzM4M3Z4VnRtM2dSWUFaWkE1MWxMazI5YlZkNEY5eUE?oc=5",
+        "source": "SBS 뉴스",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "3연승 폭발한 한국가스공사···승률 5할과 함께 공동 3위 등극",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjM2xoVDFfTTRzaXdiTEJLdlotZmM3Rm1BZVNiOWY2ZGxSUnd2NFVaWF9GT2c2VXpfdGFwYWdKdDBIUV9DbmhIenlZeVM?oc=5",
+        "source": "대구MBC",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "[MLB] '44년 만의 WS 진출' MIL, 같은 연고지 NBA팀 홈 개막전 평일 낮으로 변경",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JTTVyTUFCaTB6aEpGeEY1azhCQmtaSnFJdDRMRzhaWWtKQ3g4QnBKc0RYZG12bEVRdHJ6WnhSdEJwZmtkT180d2tfZXJZX25aWUd3Y1l3Nzk1Q25q?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "[위클리 건강] 마라톤, 완주보다 중요한 건 몸의 '경고 신호'",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iYUViVmRocVRLcHdnUmZtLURZQ1ZZU25nQVBHT0dtcEhRTjFpaDEwVmdaeklpVmNNeW9TZ21QLU9oa3RfTXhteWlNZXJMVkRuRzF2dFdCaE5waHPSAWBBVV95cUxQMjRsWFZVUzJMcFlRYVNBa1BRMm5JV1BtTThqRUJCbkRXLXF5VjFJVlp0S0hWQ1Y2Qkt2WGRlVjVCdTlESmhxLXlPeklXcUJFbmlXM2tBejQwSnZoNlVWcmk?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "[인터뷰] 시즌22까지 이어온 ASL \"사명감으로 이어온 스타1 e스포츠\"",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wS3F0UjJhWUF1QXh4Q3ZVcmtfYzN4cVljMUh3Z3g4ZGRXSVk5TXVGQXFMdEdkdTBSZmdLU2paVHBXMEpLeXFzeGo5RlZlZ2FoZ3dqOGo0UnZfQUlVRmc?oc=5",
+        "source": "인벤",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "[르포] \"전국 최고 그란폰도\"…자전거 싣고 강원도서 경남 통영까지 달려왔다",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX2MzTUNQb2p4NERZVmpfS3EwaXN6bUtFcnNiSWJLcXZJVnBHVTRjUDVxenhXc25nQjQxcTJIMGFCOEhuM21iS3N6b2hTQTd2RTZXcmZnT2FvTkxFUVN0cFd6TWZnQ3FnY1FxYWNBWC13WXBCQkQwV2o3QTkySnpQWDU4QmRVelVVSEE?oc=5",
+        "source": "Chosunbiz",
+        "date": "2026-10-17"
       }
     ]
   }
