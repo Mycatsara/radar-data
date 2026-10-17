@@ -446,6 +446,247 @@
           "date": "2026-10-17"
         }
       ]
+    },
+    "한국경제": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-18T07:01:00+09:00",
+      "lastSeen": "2026-10-18T07:01:00+09:00",
+      "news": [
+        {
+          "title": "전쟁은 얼마나 오래 주식시장을 지배하는가 [조윤남의 사이클투자]",
+          "url": "https://www.hankyung.com/article/202610126778i",
+          "source": "한국경제",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "미 증시, 이란 협상 결렬 버티기...호르무즈 전운에도 선물 '반등'",
+          "url": "https://www.coinreaders.com/262738",
+          "source": "코인리더스",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "한국 잠재성장률 '대반전'…40년 만에 연��� 반등 전망",
+          "url": "https://www.yna.co.kr/view/AKR20261017019100002",
+          "source": "연합뉴스",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "ufc": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-18T07:01:00+09:00",
+      "lastSeen": "2026-10-18T07:01:00+09:00",
+      "news": []
+    },
+    "real betis vs fc barcelona standings": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-18T07:01:00+09:00",
+      "lastSeen": "2026-10-18T07:01:00+09:00",
+      "news": [
+        {
+          "title": "'Best in the world' Yamal propels Barcelona to record-equaling LaLiga start",
+          "url": "https://www.espn.com/soccer/story/_/id/50203285/lamine-yamal-barcelona-laliga-start-record-real-betis",
+          "source": "ESPN",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Real Betis 2-5 Barcelona - Lamine Yamal and Rodri score as Barca continue winning run",
+          "url": "https://www.bbc.com/sport/football/live/ck5ynp68evpvt",
+          "source": "BBC",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "European football: Barcelona thrash Real Betis to maintain 100% record",
+          "url": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
+          "source": "The Guardian",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "편의점": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-18T07:01:00+09:00",
+      "lastSeen": "2026-10-18T07:01:00+09:00",
+      "news": [
+        {
+          "title": "아이스크림 냉동고가 안방?…3시간 드러누운 취객에 편의점 ‘발칵’",
+          "url": "https://www.donga.com/news/Society/article/all/20261017/134858642/1",
+          "source": "동아일보",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "아이스크림 냉동고서 3시간 '쿨쿨'…무인매장 민폐 취객",
+          "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/17/2026101790125.html",
+          "source": "TV조선뉴스",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "물건 사러 온 손님들 오가는데... 무인 편의점 ‘냉동고’에 3시간 누워 버틴 취객",
+          "url": "https://www.insight.co.kr/news/578119",
+          "source": "인사이트",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "wnba finals": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-18T07:01:00+09:00",
+      "lastSeen": "2026-10-18T07:01:00+09:00",
+      "news": [
+        {
+          "title": "Angel Reese rocks Barbie x Reebok collab for WNBA Finals debut",
+          "url": "https://sports.yahoo.com/articles/angel-reese-rocks-barbie-x-195611459.html",
+          "source": "Yahoo Sports",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Angel Reese drives fans wild with behind-the-scenes look at collaboration ahead of WNBA Finals",
+          "url": "https://www.marca.com/en/basketball/wnba/atlanta-dream/2026/10/17/angel-reese-drives-fans-wild-with-behind-the-scenes-look-at-collaboration-ahead-of-wnba-finals.html",
+          "source": "MARCA",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Your Next Brand Collaboration Needs A Better Reason For Existing Than ‘Publicity’",
+          "url": "https://www.inc.com/emily-cody/brand-collaborations-angel-reese-jcrew/91415699",
+          "source": "Inc.com",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "태풍": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-18T07:01:00+09:00",
+      "lastSeen": "2026-10-18T07:01:00+09:00",
+      "news": [
+        {
+          "title": "30호 태풍 ’참피’ 북상 중…“경로 유동적“",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261016045146uca",
+          "source": "연합뉴스TV",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "30호 태풍 ‘참피’ 세력 키우며 북상… 오키나와 남쪽 향한다",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3440926",
+          "source": "천지일보",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "13년 만의 30호 태풍에 '물난리 악몽' 日 초긴장…\"4등급까지 세진다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/16/2026101618215428944",
+          "source": "머니투데이",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "파운드리": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-18T07:01:00+09:00",
+      "lastSeen": "2026-10-18T07:01:00+09:00",
+      "news": [
+        {
+          "title": "TSMC2나노 돌풍에 파운드리 요동… 삼성 ‘추격’, SK ‘수혜’",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610171414437887fbbec65dfb_1",
+          "source": "글로벌이코노믹",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "D.A. Davidson, 호실적에 TSMC 매수 의견 재확인",
+          "url": "https://kr.investing.com/news/analyst-ratings/article-93CH-2130159",
+          "source": "Investing.com 한국어",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "외인 매도폭탄에도 굳센 대만, 한국 구원투수는 자충수만…",
+          "url": "https://www.chosun.com/economy/economy_general/2026/10/16/TENMCIK46RDKZCZLT53HJC7SGM/",
+          "source": "조선일보",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "김민재": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-18T07:01:00+09:00",
+      "lastSeen": "2026-10-18T07:01:00+09:00",
+      "news": [
+        {
+          "title": "축구 국가대표 수비수 김민재, 'EPL 챔피언' 아스널 이적설",
+          "url": "https://www.newsis.com/view/NISX20261017_0003829958",
+          "source": "뉴시스",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "‘새 움직임!’ 토트넘, 韓 축구 21호 프리미어리거 탄생 가능성 재점화 “로메로 대체자로 겨울에 KIM 영입 ...",
+          "url": "https://sports.khan.co.kr/article/202610180606003",
+          "source": "스포츠경향",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "'국가대표 수비수' 김민재, 獨 바이에른 뮌헨→英 아스널 이적설",
+          "url": "https://www.newspim.com/news/view/20261017000083",
+          "source": "뉴스핌",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "손아섭": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-18T07:01:00+09:00",
+      "lastSeen": "2026-10-18T07:01:00+09:00",
+      "news": [
+        {
+          "title": "‘FA 1억→트레이드’ 지난해 KS 뛰었던 2655안타 베테랑, 가을야구 대타 기회도 없이 벤치에서 끝나다",
+          "url": "https://www.osen.co.kr/article/G1112893089",
+          "source": "OSEN",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "'2번의 대타 모두 외면' FA 1억 '찬밥' 대우 → 트레이드 감수했는데…2번째 KS는 없었다. 빛바랜 2655안타, 허망하게 끝난 손아섭의 가을야구 [SC피플]",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/15/MFSDONLBGAYDEOJYGY3GGNZTMY/",
+          "source": "조선일보",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "'한화→두산' 대형 트레이드 주인공, 깜짝 WC 합류→그러나 대타 기회도 없었다…'내년 39세' 현역 은퇴 기로 설까",
+          "url": "https://www.xportsnews.com/article/2207936",
+          "source": "엑스포츠뉴스",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "엄경철": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-18T07:01:00+09:00",
+      "lastSeen": "2026-10-18T07:01:00+09:00",
+      "news": [
+        {
+          "title": "KBS 사장 후보 김영삼·엄경철·이태현 압축…20일 최종 면접",
+          "url": "https://www.yna.co.kr/view/AKR20261017045700005",
+          "source": "연합뉴스",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "KBS 사장 후보 추천위 열려…국민 200명이 후보 5명 평가",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688199",
+          "source": "KBS 뉴스",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "법원 문턱 넘고 국감도 미풍…KBS '신임 사장' 인선 속도",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829702",
+          "source": "뉴시스",
+          "date": "2026-10-17"
+        }
+      ]
     }
   },
   "sections": {
