@@ -905,6 +905,266 @@
           "date": "2026-10-16"
         }
       ]
+    },
+    "티빙": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-17T15:00:00+09:00",
+      "lastSeen": "2026-10-17T15:00:00+09:00",
+      "news": [
+        {
+          "title": "[디깅노트] 반복된 질타, 세 번 사과한 티빙…국감은 무엇을 남겼나",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=675813",
+          "source": "블로터",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "티빙, 3954만 계정 유출 뒤 ‘보상판촉’ 논란…과징금 감경·보안투자 공백 도마",
+          "url": "https://www.lawissue.co.kr/view.php?ud=2026101417103019979817d053b9_12",
+          "source": "로이슈",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "국감서 드러난 티빙의 '성장통'…보안 부실에 보상 논란까지 [엔터그알]",
+          "url": "https://news.mtn.co.kr/article/2026100719191677522",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "야구중계": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-17T15:00:00+09:00",
+      "lastSeen": "2026-10-17T15:00:00+09:00",
+      "news": [
+        {
+          "title": "'아빠, 저 여자는 왜 벗고 있어?' MLB 중계 중 선정 광고 논란…다저스 외야수 \"제발 없애달라\"",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/16/GRTGMNDGMFSGKNZZGQ2WKODEMI/",
+          "source": "조선일보",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "시드니 스위니 광고 논란, 스포츠·연예계 비판 쏟아져 [DA할리우드]",
+          "url": "https://sports.donga.com/ent/article/all/20261016/134853210/1",
+          "source": "스포츠동아",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "온 가족이 보는 야구 중계에 '반나체 여성' 광고 노출…선수 분노 \"광고 없애라\"",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829229",
+          "source": "뉴시스",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "싸이카": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-17T15:00:00+09:00",
+      "lastSeen": "2026-10-17T15:00:00+09:00",
+      "news": [
+        {
+          "title": "“살려야 한다. 23㎞를 20분에”…중상 소방관 태운 구급차 앞에 싸이카가 달렸다",
+          "url": "https://www.munhwa.com/article/11624160",
+          "source": "문화일보",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "[영상]\"당신을 위하여\"…다친 소방관 위해 '23km 싸이카 질주'[뉴스럽다]",
+          "url": "https://www.nocutnews.co.kr/news/6592586",
+          "source": "노컷뉴스",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "[와글와글] 시민 구하는 \"당신을 위하여\" 경찰 특급 호송 작전",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6858348_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "tving": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-17T15:00:00+09:00",
+      "lastSeen": "2026-10-17T15:00:00+09:00",
+      "news": [
+        {
+          "title": "Winning the Lottery’s Top Prize Finally Brought Work and Colleagues into Focus",
+          "url": "https://www.mk.co.kr/en/culture/12175879",
+          "source": "매일경제",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "\"I've never made a fortune off my face\"... Lee Jun-hyuk has already hit the jackpot, 'Lotto 1st Prize' [★FULL Interview]",
+          "url": "https://www.starnewskorea.com/en/star/2026/10/17/2026101617115725402",
+          "source": "스타뉴스",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Lotto Win Doesn't Reverse Life, Office Drama Shows Work's Value",
+          "url": "https://www.chosun.com/english/national-en/2026/10/10/HHTQTEPASRG4DHV7PCZTRCNRYE/",
+          "source": "조선일보",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "아주대 소아 응급실": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-17T15:00:00+09:00",
+      "lastSeen": "2026-10-17T15:00:00+09:00",
+      "news": [
+        {
+          "title": "의료계, 경찰에 ’소아응급실 압수수색’ 사과 요구",
+          "url": "https://www.yonhapnewstv.co.kr/news/myh20261016062249iz7",
+          "source": "연합뉴스TV",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "\"진료 중단, 의료진 범죄자 취급\" 소아응급센터장이 전한 그날",
+          "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=166773",
+          "source": "의협신문",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "피켓든 김택우 대한의사협회장",
+          "url": "https://www.newsis.com/view/NISI20261015_0002263869",
+          "source": "뉴시스",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "lg 대 kia": {
+      "count": 1,
+      "maxTraffic": 50000,
+      "firstSeen": "2026-10-17T15:00:00+09:00",
+      "lastSeen": "2026-10-17T15:00:00+09:00",
+      "news": [
+        {
+          "title": "이범호 KIA 감독 \"1∼5번 상위 타순 활약에 승패 달려\"",
+          "url": "https://www.yna.co.kr/view/AKR20261017024900007",
+          "source": "연합뉴스",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "야구 팬들로 북적이는 KIA팀스토어",
+          "url": "https://mobile.newsis.com/photo/NISI20261017_0021492386",
+          "source": "뉴시스",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "'한 달째 무안타, 터질 때까지 간다'...홍창기 톱타자, 무릎 부상 오지환 전격 복귀, 희망과 불안의 LG 라인업 터질까",
+          "url": "https://www.osen.co.kr/article/G1112893963",
+          "source": "OSEN",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "mlb": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-17T15:00:00+09:00",
+      "lastSeen": "2026-10-17T15:00:00+09:00",
+      "news": [
+        {
+          "title": "Game 4 of MLB American League Championship Series Postponed Due to Rain",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008802059",
+          "source": "news.sbs.co.kr",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Cleveland pauses ALCS as rain delays Game 4, tightens schedule - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/17/G3NSDDOG2JE5PDMSDJSLYDIYBM/",
+          "source": "Chosunbiz",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Rays-Guardians ALCS Game 4 lineups, FAQ (Sat., 8 ET, TBS/HBO Max)",
+          "url": "https://www.mlb.com/news/when-is-rays-vs-guardians-alcs-game-4-date-time-and-lineups",
+          "source": "MLB.com",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "오마이뉴스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-17T15:00:00+09:00",
+      "lastSeen": "2026-10-17T15:00:00+09:00",
+      "news": [
+        {
+          "title": "이화영 재심 쟁점 된 국정원 문건... 수원고법원장 \"고도의 개연성 있어야\"",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275995",
+          "source": "OhmyNews",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "野 \"이화영 재심 청구는 형집행정지 노림수\"…국감서 질타",
+          "url": "https://www.yna.co.kr/view/AKR20261016149100061",
+          "source": "연합뉴스",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "이화영 재심 청구 추진에…수원고등법원장 “유죄 유지할 수 없는 개연성 있어야”",
+          "url": "https://www.khan.co.kr/article/202610161829001",
+          "source": "경향신문",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "최정훈": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-17T15:00:00+09:00",
+      "lastSeen": "2026-10-17T15:00:00+09:00",
+      "news": [
+        {
+          "title": "한지민 협박범, 연인 최정훈 스토커였다",
+          "url": "https://www.donga.com/news/Society/article/all/20261017/134858658/1",
+          "source": "동아일보",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "\"영화 훼방 놓겠다\"…배우 한지민 협박한 30대 벌금 600만원",
+          "url": "https://www.yna.co.kr/view/AKR20261016114800004",
+          "source": "연합뉴스",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "‘벌금형’ 한지민 협박범, 남친 ♥최정훈 스토커였다 '충격'..“동일인 맞아” [Oh!쎈 이슈] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GY3TSMRXGM4TQOBUGQ2WMNRWGA/",
+          "source": "Chosunbiz",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    "최광야구": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-17T15:00:00+09:00",
+      "lastSeen": "2026-10-17T15:00:00+09:00",
+      "news": [
+        {
+          "title": "SSG ‘최광야구’ 티켓 오픈 당일 매진…결과만큼이나 눈길 사로잡은 팬 중심의 ‘과정’",
+          "url": "https://sports.donga.com/sports/article/all/20261016/134854190/1",
+          "source": "스포츠동아",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "어딜 가 으쓱이들아, 최정 vs 김광현 보러 와야지! SSG, 17일 스페셜 매치 ‘최광야구 1429’ 개최",
+          "url": "https://www.sportsseoul.com/news/read/1640661",
+          "source": "스포츠서울",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "'으쓱이 사랑' SSG, 이벤트 매치에 이렇게나 진심이다…드래프트 생중계부터 반다나 선물, 시상식, 불꽃놀이까지 - 조선비즈",
+          "url": "https://biz.chosun.com/sports/baseball/2026/10/13/GEYWENTFMU3WGNRZME3WINDGME/",
+          "source": "Chosunbiz",
+          "date": "2026-10-17"
+        }
+      ]
     }
   },
   "sections": {
