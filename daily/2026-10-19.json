@@ -2,10 +2,10 @@
   "date": "2026-10-19",
   "keywords": {
     "구성환": {
-      "count": 1,
-      "maxTraffic": 1000,
+      "count": 2,
+      "maxTraffic": 2000,
       "firstSeen": "2026-10-19T01:48:00+09:00",
-      "lastSeen": "2026-10-19T01:48:00+09:00",
+      "lastSeen": "2026-10-19T04:17:00+09:00",
       "news": [
         {
           "title": "'나혼산' 또 시끌...구성환 번지점프, 뭐가 문제였나 - 머니투데이",
@@ -28,10 +28,10 @@
       ]
     },
     "nottm forest vs arsenal": {
-      "count": 1,
-      "maxTraffic": 200,
+      "count": 2,
+      "maxTraffic": 500,
       "firstSeen": "2026-10-19T01:48:00+09:00",
-      "lastSeen": "2026-10-19T01:48:00+09:00",
+      "lastSeen": "2026-10-19T04:17:00+09:00",
       "news": [
         {
           "title": "Nottingham Forest vs Arsenal: Premier League preview, team news, stats & head-to-head",
@@ -49,6 +49,18 @@
           "title": "Nottingham Forest vs Arsenal Confirmed Lineups",
           "url": "https://www.whoscored.com/news/QqovyMqouE-oxDpgDl9qLQ/show/cng112-20261018-nottingham-forest-vs-arsenal-confirmed-lineup-1792333621",
           "source": "WhoScored.com",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "EPL: Madueke Strikes Late as Arsenal Beat Forest to Go Back Up to Second",
+          "url": "https://www.dawan.africa/news/epl-madueke-strikes-late-as-arsenal-beat-forest-to-go-back-up-to-second",
+          "source": "Dawan Africa",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Premier League LIVE: Arsenal beat Forest after Man Utd & Leeds draw, Brighton and Bournemouth win",
+          "url": "https://www.bbc.com/sport/football/live/cq62j1yn44jxt",
+          "source": "BBC",
           "date": "2026-10-18"
         }
       ]
@@ -80,10 +92,10 @@
       ]
     },
     "pl": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 100,
       "firstSeen": "2026-10-19T01:48:00+09:00",
-      "lastSeen": "2026-10-19T01:48:00+09:00",
+      "lastSeen": "2026-10-19T04:17:00+09:00",
       "news": [
         {
           "title": "Klucz do pokoju na Wschodzie leży w Pekinie? Argumenty za chińskim scenariuszem",
@@ -102,14 +114,26 @@
           "url": "https://dorzeczy.pl/opinie/958189/golonka-swieta-wojna-zachodu.html",
           "source": "Do Rzeczy",
           "date": "2026-10-18"
+        },
+        {
+          "title": "Tylko u nas! Prezes PSE: Polska potrzebuje energetycznego SAFE",
+          "url": "https://www.gospodarkamorska.pl/tylko-u-nas-prezes-polskich-sieci-elektroenergetycznych-polska-potrzebuje-energetycznego-safe-95764",
+          "source": "GospodarkaMorska.pl",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Koniec ery biernego odbiorcy energii - cyfryzacja nauczy nas zarządzać własnym zużycieme, by klienci",
+          "url": "https://www.trojmiasto.pl/tv/Koniec-ery-biernego-odbiorcy-energii-cyfryzacja-nauczy-nas-zarzadzac-wlasnym-zuzycieme-by-klienci-18-10-2026-video-111695.html",
+          "source": "Trojmiasto.pl",
+          "date": "2026-10-18"
         }
       ]
     },
     "신세계백화점 강남점": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 2000,
       "firstSeen": "2026-10-19T01:48:00+09:00",
-      "lastSeen": "2026-10-19T01:48:00+09:00",
+      "lastSeen": "2026-10-19T04:17:00+09:00",
       "news": [
         {
           "title": "강풍에 뜯겨 날아간 아파트 지붕…도로를 막은 쓰러진 나무",
@@ -128,14 +152,20 @@
           "url": "https://news.jtbc.co.kr/article/NB12323581",
           "source": "JTBC",
           "date": "2026-10-18"
+        },
+        {
+          "title": "신세계백화점 강남점 출차 지연…\"5시간째 제자리, 지옥 같아\"",
+          "url": "https://www.yna.co.kr/view/AKR20261018060200004",
+          "source": "연합뉴스",
+          "date": "2026-10-18"
         }
       ]
     },
     "노팅엄 포레스트 대 아스널": {
-      "count": 1,
+      "count": 2,
       "maxTraffic": 5000,
       "firstSeen": "2026-10-19T01:48:00+09:00",
-      "lastSeen": "2026-10-19T01:48:00+09:00",
+      "lastSeen": "2026-10-19T04:17:00+09:00",
       "news": [
         {
           "title": "실시간 축구 경기: 노팅엄 포레스트 vs 아스널: 프리미어 리그 7라운드",
@@ -154,14 +184,26 @@
           "url": "https://www.vietnam.vn/ko/nhan-dinh-nottingham-forest-vs-arsenal-ban-linh-san-khach-duoc-thu-lua",
           "source": "Vietnam.vn",
           "date": "2026-10-18"
+        },
+        {
+          "title": "[pl.review] 아스널, 노팅엄 상대 1-0 승리...마두에케 행운의 굴절 결승골→리그 2연승+2위 도약",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99481",
+          "source": "포포투",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "[PL REVIEW] ‘유효슈팅 단 1개로 승점 3점 챙겼다!’…아스널, 노팅엄 상대로 졸전 끝 1-0 진땀승→마두에케 교체 투입 결승골",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696662",
+          "source": "인터풋볼",
+          "date": "2026-10-18"
         }
       ]
     },
     "사업": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-10-19T01:48:00+09:00",
-      "lastSeen": "2026-10-19T01:48:00+09:00",
+      "lastSeen": "2026-10-19T04:17:00+09:00",
       "news": [
         {
           "title": "중국산 부품 빼려 대만 찾는 미국 드론업체들…한국 기업 대응 비상",
@@ -180,14 +222,26 @@
           "url": "https://www.dronejournal.net/news/articleView.html?idxno=754",
           "source": "드론저널",
           "date": "2026-10-18"
+        },
+        {
+          "title": "청양 농업용수 공급체계 ‘대전환’…472억원 투입, 논에서 다양한 작물 재배 기반 구축",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=352334",
+          "source": "녹색경제신문",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "청양 청남지구 논 범용화 용수 공급사업 시행계획 승인",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261017010004538",
+          "source": "중도일보",
+          "date": "2026-10-18"
         }
       ]
     },
     "박위": {
-      "count": 1,
-      "maxTraffic": 2000,
+      "count": 2,
+      "maxTraffic": 5000,
       "firstSeen": "2026-10-19T01:48:00+09:00",
-      "lastSeen": "2026-10-19T01:48:00+09:00",
+      "lastSeen": "2026-10-19T04:17:00+09:00",
       "news": [
         {
           "title": "최강희까지...\"박위 부친, 여배우들과 부녀처럼\" 재조명 - 머니투데이",
@@ -257,6 +311,84 @@
           "title": "[포토] 변준형 벼락돌파에 숀롱 속수무책 - 머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/10/18/2026101817493982828",
           "source": "머니투데이",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    "김건희": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-19T04:17:00+09:00",
+      "lastSeen": "2026-10-19T04:17:00+09:00",
+      "news": [
+        {
+          "title": "[단독] '김건희 황제조사' 검사, 조서엔 이름도 없었다‥수사팀과는 '3천 번' 연락",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6858789_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "‘김건희 황제조사’ 검사, 인사 뒤에도 수사팀과 3300여건 대화·수사 관여",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1282934.html",
+          "source": "한겨레",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "김민구 검사, 인사 뒤에도 김건희 수사 3301건 관여 : 사회",
+          "url": "https://news.jkn.co.kr/post/1031943",
+          "source": "재경일보",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    "빗썸": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-19T04:17:00+09:00",
+      "lastSeen": "2026-10-19T04:17:00+09:00",
+      "news": [
+        {
+          "title": "“또 욕받이 되겠네”…정보유출 사태에 멍드는 콜센터 상담사들",
+          "url": "https://www.koreadaily.com/article/20261017140035515",
+          "source": "미주중앙일보",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "[전성인의 난세직필] (55) 금융권 해킹 배상 호미로 막을 걸 가래로 막지 마라",
+          "url": "https://weekly.khan.co.kr/article/202610161404011",
+          "source": "주간경향",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "가상자산거래소 빗썸, 개인정보 유출 악용한 2차 사기 예방 캠페인 진행",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449584",
+          "source": "비즈니스포스트",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    "ngoại hạng anh": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-19T04:17:00+09:00",
+      "lastSeen": "2026-10-19T04:17:00+09:00",
+      "news": [
+        {
+          "title": "Kết quả bóng đá Nottingham Forest - Arsenal: Thế trận giằng co (Ngoại hạng Anh)",
+          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-nottingham-forest-arsenal-the-tran-giang-co-ngoai-hang-anh-c48a1803798.html",
+          "source": "Tin tức 24h",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Arsenal thắng sít sao nhờ phút lóe sáng của Madueke",
+          "url": "https://www.vietnam.vn/nl/arsenal-thang-sit-sao-nho-phut-loe-sang-cua-madueke",
+          "source": "Vietnam.vn",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Mikel Arteta: 'Arsenal đã thua liền 2 mùa trước, thắng là tốt lắm rồi!'",
+          "url": "https://thethao247.vn/461-mikel-arteta-arsenal-da-thua-lien-2-mua-truoc-thang-la-tot-lam-roi-c2-d440889.html",
+          "source": "Thể Thao 247",
           "date": "2026-10-18"
         }
       ]
@@ -1379,6 +1511,90 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yZkNGYnJOam8zaDRTdndYX29DQTlFb3JFc2xycVFPcDVDX2JwU1JFYWVUcGVOM1hlV2tBMWYtNTd5eUVvQ0wyLUtoQWE2VEhzV3U0VHo0emNZSnptMDljZi1GUHY0dw?oc=5",
         "source": "마이데일리",
         "date": "2026-10-16"
+      },
+      {
+        "title": "[프로배구] 실바 혼자 싸우던 GS는 없다…타나차·권민지가 완성한 우승 삼각편대",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50SW5HMTFkaUhHUE93N09wT1hCR29YNy0xSE1WQW5VSERqakZWM3VsTGc5X1lyNHdtMVJFRGhXOTNTN1ZtYm0yLXhhV2tzdjkzOW9OdGlpSzBfZHRu?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "[전국체전] 금메달 2개도 아쉬운 김영범 \"자유형 50ｍ 아시아기록 노렸는데\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91U3NUMlVhV1duNlVRT0lEaW5TUDBLLWJhRHdzMkw2UXVZNjlpRDc3TlJNZXBVU2hKQUxEbUJ1eE5qY0txMVJpZy1aOFNTQ0JudXdFaEY5UHE3M0XSAWBBVV95cUxPTmZMTFJUUVVXb0VlTEp3NU4xMnVnMlIycUdOdDk2NlVmclo4dXlhNEY1Q2tocnFXMUJMSXJscmlTQmlWYmdxOVliU2N5WExRbTBIQkdlWU9YOUpLSnRlR1Q?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "'5경기 만에 승리라니' 티아고 멀티골→김영빈 헤더골 폭발! 전북 현대, 제주SK 3-2 힘겹게 격파",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWFCS3BDdFVIQ3VUZUM5U3h6VDFmVGFES3NhR2NqMi1NZk0tWW4tOS15dUNsR2N4d0l5aldTOWxIOElwUnhJQks3bnZLMEtOVmZ1SUJsVnNFMlV4cjMtNFFKRlRselJvc19DOW1STmdxcjB4dU9BbGRVdEtnUHRLQUZDUQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "‘2연패’ 염경엽 감독 “1회 대량 실점 아쉬워, 불펜은 잘했다”",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vaS1pVG5UTndLU3V5eHhFalFfNWtnMFFzU2RtUW1qX3kyZ0JHd1BBRmNidUxReDZ1ZGdyU3NuTVlKQkxaYkY2bGFmYjZXWEVqYy1UOFVaX1lTLUh2eGZucEhVci1xeUU1a1JiR01oWlItNmNt0gFmQVVfeXFMTzN5NU5qSl9BeThfc19Bb191WjlUaHRteDFFLUZmM2tHVzRycFFSZGw2bDdiV2xxVmNJcjU4OTlsa25iMURzSnlLRk10TjYyQnRGNFgwNnBkWDNrc3pkdlV2aEptNlZn?oc=5",
+        "source": "동아일보",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "[스경x인터뷰] 마음만은 함께 던지는 고우석의 LG 응원 “우리 못했다지만 가을야구 중, 다 같이 이겨나가자”",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQmFWTC11T3NwMmRoZjhiNHI2OVZnSlh5QzVQeHVRWVVQNThnYmtpSTMwcS0xb0xTR21kV0JoUjkzUG9VUWd1S2I4c0NNOFhUWU5HcmQ3TDJEU2RMMGfSAWNBVV95cUxON0UxT2FtSmdPeHNFUlVNN2tjYV91MUdobXZIamZ4OU1sX2V2c2NYSmszX1RYbE4wWHNHbmlmb3dpQVZjM21ZUC1KdnJ6alhNeUk4ZFV1a0RwN3FUb08tbUVpaEU?oc=5",
+        "source": "스포츠경향",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "김도영 홈런 두 방…KIA 가을야구 ‘첫승’",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KN3N2a1IyUl9pZlZYOWpnWW5XX1RSYmtUZDQyQVRnTGlKOUNGd2FlaUJESHF5Zm5IMjZoTmlCbTlfdnJsV3I2Vl9tb214SmNDZXVYUWtjeTBfRE1MWWNLd2QzZ0ItZw?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "최혜진, 뷰익 LPGA 상하이 준우승...인뤄닝 1타차 역전 우승",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFbmJkeU5hSmVzYlhsNDFUbjJiaFk0WVdXdlluMlJvVV93WlUxZUc3cnluak9wMXZ3WTRpU1c0RnVGNzQ0dzZHejFOdkNwTGtzQWZuWVlodkI1QXBObXc?oc=5",
+        "source": "YTN",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "[프로농구] '지각 개막' 서울SK, '3점슛 폭발' 고양 소노에 패배...현대모비스는 KT 제압",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SQThyNEZ3VTFCYjNjRzRGUVlfTFpzRWk0a1Z5UWNqdnEtRnBzNkRJTWtoTy1wWmdIR1ozc3lPYnBpTkhoeHVUTnlGcVBIZTdNd2ZObG5SRi1UQzJk?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "탬파베이, 클리블랜드 꺾고 ALCS 2승2패…아란다 3안타 활약",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VVDFiM3BqSEg5Snh0OTcxVDM2ZW1HSWhDZ1F6NUV5WG1oSmNybkhHRzg0OXFweklzZGpXNENVeWI5dUs5NEdOemhYU1oxQjFmYS14a0FCNmwyWmF1WXJGSDJJYWhIa3c?oc=5",
+        "source": "한겨레",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "경북, 전국체전 합기도·육상 금빛 질주…이틀째 종합득점 선두",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tQ1RNY0ZneUxrUmJSVHUxSUk2MFViUmdLaU5laGJTaHZKVHJKN1RMQ05xYmpqZ1hIeUJ3ZThMZkxLeE9JMDJRbVVaX05ObDlvenFMaUMxeWpiZVVIaXplQllkMUdUNjVZWDBOU083SQ?oc=5",
+        "source": "경북일보",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "FC서울, K리그1 우승 매직넘버 ‘3’…강원 잡으면 10년만에 정상",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WTHdYa2liTU40Tkt3amt0YUJ1RlVCaGJBcHlWNEZNcGZuV1dkVk9KSjQ3alVSbG1tLWRSUHBZbERLT0pvcjNPS09IYzNHb25mNGFKS3Byb0I4by12NzNkbmd6V3B6dnduWmJ0anpCV0JqZndt0gFmQVVfeXFMT1VNaHJwN2tMLU1fVmd1ZVFrRHlmR01hTGZOMHpOOWF0WHNXcUdBTlZlQWRPc2EyZ1AyNWo5bUc0YjFMTlN4YmlrSS1yb0hDdk5SOHUtN3lwSEtnc29jRG5JYldLYmRR?oc=5",
+        "source": "동아���보",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "HD현대重, '동구 해피데이 페스타' 개최… 지역 상생·ESG 경영 실천",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhT1Rkc2dWbU9LV0d6Ty1tVjRrckxnZFdmX0hvdjZpS2V5T1d2T1hJUTdncl9jWWtNTEN3WHljcVRpVkJyc201Rl9nWGFySmotZ1BqOExHalNBbjhWQmpqcHpjZ2dyMi11aVdINjg5THBqQQ?oc=5",
+        "source": "인더스트리뉴스",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "울산웨일즈, KBO 가을리그 무패 행진",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5SG9aNGFCajNZYlFYYkNTeHZJYnNkdGFXTVlUMGhuN3NwUnY4SmprS3o4S3J4U2g4ZExXNy1MM3l2UzhBdHFhM2k5ODNyVHotcUZrX1FzMUhEdkd0S1NIZ1V3R0VuQQ?oc=5",
+        "source": "울산제일일보",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "[사진]1타점 적시 2루타 날리는 나성범",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwa0k2ZWF4OUFNSHhpMFFHSDlyT25uUGpRZVFzYlZ0QUJIRTNxNmNRTTh2dnRzand5MjJSWTYzRWlRRktocm1WRVJMQ3BOOXNJU0VXOQ?oc=5",
+        "source": "OSEN",
+        "date": "2026-10-18"
       }
     ]
   }
