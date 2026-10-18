@@ -392,6 +392,266 @@
           "date": "2026-10-18"
         }
       ]
+    },
+    "후티": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-19T06:42:00+09:00",
+      "lastSeen": "2026-10-19T06:42:00+09:00",
+      "news": [
+        {
+          "title": "UAE·이집트도 가세…‘반후티’로 뭉치는 걸프국",
+          "url": "https://www.khan.co.kr/article/202610182107005",
+          "source": "경향신문",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "이집트, ’후티 공세’ 사우디에 “군사 지원“",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261019055755kPk",
+          "source": "연합뉴스TV",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "UAE, 후티 공세 막으려 예멘 재개입…사우디와 갈등 완화 신호",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802771",
+          "source": "SBS 뉴스",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    "기사": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-19T06:42:00+09:00",
+      "lastSeen": "2026-10-19T06:42:00+09:00",
+      "news": [
+        {
+          "title": "까마귀처럼 앉은 '부천 전깃줄'…욕하고 조롱하더니 결국",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=56278",
+          "source": "주간조선",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "부천시, 막장 유튜버 강력 대응 1년…기행 방송 감소",
+          "url": "https://www.yna.co.kr/view/AKR20261015128100065",
+          "source": "연합뉴스",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "행인에게 욕설하고 기괴한 춤…\"까마귀 같다\" 단속했더니",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801989",
+          "source": "SBS 뉴스",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    "류필립": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-19T06:42:00+09:00",
+      "lastSeen": "2026-10-19T06:42:00+09:00",
+      "news": [
+        {
+          "title": "'17세 연상 아내' 미나 두고 미국 간 류필립…\"살려주세요\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/16/2026101618580681293",
+          "source": "머니투데이",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "류필립, 17살 연상 아내 미나 떠나 돌연 미국행, 취업까지 “캐셔로 일해”(필미커플)",
+          "url": "https://m.newsen.com/news_view.php?uid=202610161354571910",
+          "source": "뉴스엔",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "류필립♥미나, 17살 차이 극복했는데 따로 사�� 이유..\"아가들 있어서\"[Oh!쎈 이슈] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GZSDMYRWGZRGGZDFGRRGCN3CGY/",
+          "source": "Chosunbiz",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    "hd현대중공업": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-19T06:42:00+09:00",
+      "lastSeen": "2026-10-19T06:42:00+09:00",
+      "news": [
+        {
+          "title": "'임단협 교섭 난항' HD현대중 노조 전 조합원 파업 닷새로 확대",
+          "url": "https://www.yna.co.kr/view/AKR20261018049500057",
+          "source": "연합뉴스",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "HD현대중공업 노조, 19~23일 부분파업 확대···지부장 25m 고공농성",
+          "url": "https://www.khan.co.kr/article/202610181859001",
+          "source": "경향신문",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "합의안 부결에 노조도 이견…통합 첫해 ‘진통’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8687335",
+          "source": "KBS 뉴스",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    "현대제철": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-19T06:42:00+09:00",
+      "lastSeen": "2026-10-19T06:42:00+09:00",
+      "news": [
+        {
+          "title": "현대제철 당진공장 끼임 사고 노동자 숨져",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688465",
+          "source": "KBS 뉴스",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "현대제철 당진공장서 40대 근로자 기계에 끼여 숨져",
+          "url": "https://www.donga.com/news/Society/article/all/20261018/134860623/1",
+          "source": "동아일보",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "현대제철 당진공장서 또 노동자 사망…\"안전관리 도마 위\"",
+          "url": "https://cc.newdaily.co.kr/site/data/html/2026/10/18/2026101800102.html",
+          "source": "뉴데일리 충청세종",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    "la liga": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-19T06:42:00+09:00",
+      "lastSeen": "2026-10-19T06:42:00+09:00",
+      "news": [
+        {
+          "title": "Licensable picture: Real Madrid v Sevilla FC - La Liga",
+          "url": "https://www.reutersconnect.com/item/real-madrid-v-sevilla-fc-la-liga/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwM04yOFo4",
+          "source": "Reuters Connect",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Licensable picture: Real Madrid v Sevilla FC - La Liga",
+          "url": "https://www.reutersconnect.com/item/real-madrid-v-sevilla-fc-la-liga/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwM04yOEVK",
+          "source": "Reuters Connect",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Licensable picture: Runners take part in Tokyo Half Marathon in Japan",
+          "url": "https://www.reutersconnect.com/item/runners-take-part-in-tokyo-half-marathon-in-japan/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwM04yMzdO",
+          "source": "Reuters Connect",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    "도란": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-19T06:42:00+09:00",
+      "lastSeen": "2026-10-19T06:42:00+09:00",
+      "news": [
+        {
+          "title": "[사진]T1 페이커 '롤드컵 우승하고 올게요'",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/18/MI2WCYRSGA2GGY3FMQ3TQNJWHA/",
+          "source": "조선일보",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "“챔프 풀 늘리고, 과감히 결정해야”…‘기인’ 김기인의 월즈 오답 노트",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000023553&code=61162012",
+          "source": "국민일보",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "[테크스냅] 네이버 치지직, 2026 LoL 월드 챔피언십 생중계",
+          "url": "https://www.yna.co.kr/view/AKR20261016054000017",
+          "source": "연합뉴스",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    "북한이탈주민": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-19T06:42:00+09:00",
+      "lastSeen": "2026-10-19T06:42:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 尹 취임 전후 날린 대북풍선에 탈북민 131명 개인정보 실렸다",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000023534",
+          "source": "국민일보",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "'북향민 개인정보' 대북풍선 담아 날린 단체에 과태료 720만원",
+          "url": "https://www.yna.co.kr/view/AKR20261018057100530",
+          "source": "연합뉴스",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "탈북민 개인정보 대북 풍선에 실려 날린 비영리단체에 과태료 720만원",
+          "url": "https://www.ajunews.com/view/20261018211756283",
+          "source": "아주경제",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    "박지원": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-19T06:42:00+09:00",
+      "lastSeen": "2026-10-19T06:42:00+09:00",
+      "news": [
+        {
+          "title": "진중권 “민주당의 한동훈 딸 의혹, 배고픈 개가 빈그릇 핥는 것”",
+          "url": "https://www.munhwa.com/article/11624201",
+          "source": "문화일보",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "민주 \"한동훈 딸 '부모찬스' 표창장 의혹 밝혀야\" 재수사 촉구",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6858752_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "박용진 \"한동훈, 내 딸 건들면 싹 다 갈아엎는다?...이 양반 갈수록 입 험해져, '깡패 검사' 본색 나와\"[KBC 뉴스메이커]",
+          "url": "https://news.ikbc.co.kr/article/view/kbc202610180008",
+          "source": "KBC광주방송",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    "극초음속 활공체": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-19T06:42:00+09:00",
+      "lastSeen": "2026-10-19T06:42:00+09:00",
+      "news": [
+        {
+          "title": "한국에 “창피하다 할 정도의 억지”라는 북한···“극초음속 비행 그을음 어떤 기술로도 못 막아” 재반박",
+          "url": "https://www.khan.co.kr/article/202610162210001",
+          "source": "경향신문",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "북한이 우리 무기 분석?...이례적인 공개 평가의 속내 [Y녹취록]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202610181427529041",
+          "source": "YTN",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "北, 韓 ‘HGV 고도화’에 “우리 군사력 강화 명분”",
+          "url": "https://www.segye.com/newsView/20261016520250",
+          "source": "세계일보",
+          "date": "2026-10-18"
+        }
+      ]
     }
   },
   "sections": {
@@ -1594,6 +1854,12 @@
         "title": "[사진]1타점 적시 2루타 날리는 나성범",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwa0k2ZWF4OUFNSHhpMFFHSDlyT25uUGpRZVFzYlZ0QUJIRTNxNmNRTTh2dnRzand5MjJSWTYzRWlRRktocm1WRVJMQ3BOOXNJU0VXOQ?oc=5",
         "source": "OSEN",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "[준PO 포커스] KIA '완벽한 원투펀치' 네일·올러 앞세워 2연승...가을야구 반란 꿈꾼다",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1UVlJeXk2dS1NUDEzTm93MGRfTUJlUThLcHNhRVFDWHMybTI1bllnaWh4bHFYTW90dFhEZlRucGZpTmRFV2lxemRFR052Vlp0US0tdm5KOTZ2NUlu?oc=5",
+        "source": "뉴스핌",
         "date": "2026-10-18"
       }
     ]
