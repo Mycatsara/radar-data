@@ -241,6 +241,266 @@
           "date": "2026-10-19"
         }
       ]
+    },
+    "spurs vs coventry": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-20T06:40:00+09:00",
+      "lastSeen": "2026-10-20T06:40:00+09:00",
+      "news": [
+        {
+          "title": "Spurs vs Coventry LIVE: Premier League score, team news, commentary & updates",
+          "url": "https://www.bbc.com/sport/football/live/cq99z1401xljt",
+          "source": "BBC",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Tottenham v Coventry: Premier League – live",
+          "url": "https://www.theguardian.com/football/live/2026/oct/19/tottenham-v-coventry-premier-league-live",
+          "source": "The Guardian",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Licensable picture: UK: Premier League: Tottenham Hotspur v Coventry City",
+          "url": "https://www.reutersconnect.com/item/uk-premier-league-tottenham-hotspur-v-coventry-city/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBLTUlZQkE",
+          "source": "Reuters Connect",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "당구": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-20T06:40:00+09:00",
+      "lastSeen": "2026-10-20T06:40:00+09:00",
+      "news": [
+        {
+          "title": "PBA 2차 투어 우승 후 내리막…스롱, 128강전서 조기 탈락",
+          "url": "https://www.yna.co.kr/view/AKR20261019018900007",
+          "source": "연합뉴스",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "“26이닝 중 18이닝서 공타” 스롱피아비, 128강 첫판서 오수민에 역전패 ‘탈락’[NH농협카드LPBA]",
+          "url": "https://mkbn.mk.co.kr/news/sports/12179118",
+          "source": "mkbn.mk.co.kr",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "[LPBA] '통산 10승' 스롱, 5차 투어 128강 탈락…김가영은 64강 진출",
+          "url": "https://www.newspim.com/news/view/20261019000184",
+          "source": "뉴스핌",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "삼전닉스": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-20T06:40:00+09:00",
+      "lastSeen": "2026-10-20T06:40:00+09:00",
+      "news": [
+        {
+          "title": "5700피 회복, 반등 신호?…\"매수 버튼서 손 떼시오\" 안심 말라는 이유 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/19/2026101916075372592",
+          "source": "머니투데이",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "속보 코스피, 1% 대 소폭 상승 전환해 5,768.01로 마감",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202610191539555583&s_mcd=0102",
+          "source": "YTN",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "급락장에 4거래일 연속 500억원 이상 주식 강제청산",
+          "url": "https://www.yna.co.kr/view/AKR20261019137900008",
+          "source": "연합뉴스",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "김장": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-20T06:40:00+09:00",
+      "lastSeen": "2026-10-20T06:40:00+09:00",
+      "news": [
+        {
+          "title": "'절임배추·양념세트로 간편하게'…임실 김장페스티벌 예약 접수",
+          "url": "https://www.yna.co.kr/view/AKR20261019072600055",
+          "source": "연합뉴스",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "김장과 축제의 만남…내달 13~15일 '임실 아삭아삭 김장페스티벌'",
+          "url": "https://www.newsis.com/view/NISX20261019_0003832311",
+          "source": "뉴시스",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "임실군 '아삭아삭 김장페스티벌' 내달 13일까지 사전 예약",
+          "url": "https://www.news1.kr/local/jeonbuk/6324362",
+          "source": "뉴스1",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "추신수": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-20T06:40:00+09:00",
+      "lastSeen": "2026-10-20T06:40:00+09:00",
+      "news": [
+        {
+          "title": "[스포츠 영상] 추신수, 클리블랜드 승리 기원 시구‥결과는 탬파베이 승!",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859128_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "'와' 韓 야구 레전드가 ML 가을야구 시구자 나서다니! 美도 인정한 추신수, ALCS 5차전 출격... 14년 지나도 클리블랜드가 기억했다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/19/2026101908122917605",
+          "source": "머니투데이",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "ALCS 5차전 승리 자축하는 탬파베이 내야수들",
+          "url": "https://www.newsis.com/view/NISI20261019_0002266846",
+          "source": "뉴시스",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "예멘 후티 반군의 사우디 공항 공습과 아랍 동맹국의 군사 협력 최신 뉴스 알려줘": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-20T06:40:00+09:00",
+      "lastSeen": "2026-10-20T06:40:00+09:00",
+      "news": [
+        {
+          "title": "후티 공격에 정부군 50여 명 사망…“사우디 6곳 공습”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8689676",
+          "source": "KBS 뉴스",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "후티, 예멘 군기지 공습 50여 명 사망...사우디 '사막의 다보스' 연기",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610200537452527",
+          "source": "YTN",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "이집트 의회, '사우디 군사 지원' 승인 논의 내주로 연기",
+          "url": "https://www.yna.co.kr/view/AKR20261019182100079",
+          "source": "연합뉴스",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "토트넘": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-20T06:40:00+09:00",
+      "lastSeen": "2026-10-20T06:40:00+09:00",
+      "news": [
+        {
+          "title": "프리미어 리그 토트넘 대 코번트리 시티 경기 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-tottenham-vs-coventry-city-tai-premier-league-1785520.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "[PL REVIEW] 손흥민 절친들이 빛났다!...‘매디슨 선제골→벤 데이비스 쐐기골’ 토트넘, 램파드의 코벤트리 3-1 격파→PL 첫 승+최하위 탈출",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696741",
+          "source": "인터풋볼",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "10월 19일 유럽 축구 경기 일정: 토트넘, 첫 승을 기다리다.",
+          "url": "https://www.vietnam.vn/ko/lich-thi-dau-bong-da-chau-au-ngay-19-10-tottenham-cho-chien-thang-dau-tien",
+          "source": "Vietnam.vn",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "김현지": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-20T06:40:00+09:00",
+      "lastSeen": "2026-10-20T06:40:00+09:00",
+      "news": [
+        {
+          "title": "[보도설명자료] 「[단독] 김현지 배우자 세무법인서 '조세심판관'도 배출, 李 캠프 출신도」(10.19., 중앙일보) 보도 관련",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148973803",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "“김현지 남편 세무법인서 금융지주 계열사 줄줄이 사외이사…조세심판관도”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261019/134867684/1",
+          "source": "동아일보",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "野, 금감원 국감서 靑 김현지 정조준 \"배우자 사업 이권에도 개입\" - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/10/19/2026101911113198574",
+          "source": "머니투데이",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "기부": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-20T06:40:00+09:00",
+      "lastSeen": "2026-10-20T06:40:00+09:00",
+      "news": [
+        {
+          "title": "롯데멤버스, 계열사·지자체 손잡고 고향사랑기부 활성화",
+          "url": "https://www.news1.kr/industry/distribution/6324995",
+          "source": "뉴스1",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "롯데멤버스, 고향사랑기부 혜택 확대…10만원 기부하면 계열사 쿠폰 증정",
+          "url": "https://www.etoday.co.kr/news/view/2637585?trc=main_list_news",
+          "source": "이투데이",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "롯데멤버스, 계열사·지자체와 '고향사랑기부' 활성화",
+          "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1426809",
+          "source": "연합뉴스 한민족센터",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "비보르 대 미트윌란": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-20T06:40:00+09:00",
+      "lastSeen": "2026-10-20T06:40:00+09:00",
+      "news": [
+        {
+          "title": "Viborg vs FC Midtjylland Prediction, Betting Tips, Lineups & Odds | 19 Oct 2026",
+          "url": "https://www.sportsgambler.com/betting-tips/football/viborg-vs-fc-midtjylland-prediction-lineups-odds-2026-10-19/",
+          "source": "Sportsgambler",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Midtjylland draw level with Copenhagen atop Danish Superliga",
+          "url": "https://www.tribalfootball.com/article/midtjylland-draw-level-with-copenhagen-atop-danish-superliga-594a8019-4431-4dc2-a053-c0e065988ba5",
+          "source": "TribalFootball",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Viborg vs Midtjylland: Danish Superligaen stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/ck4g1rdl2gm8t",
+          "source": "BBC",
+          "date": "2026-10-19"
+        }
+      ]
     }
   },
   "sections": {
@@ -1341,6 +1601,60 @@
         "title": "[롤드컵] 본선 마지막 한자리의 주인은 카르민코프...최종전서 MVK 격파",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wZWRma1pxRlVCaUpVRWFDcTdndUN0eFNOWXByc196cDBtS2N6VFRlTlFzYVhGUHNJeEdRWXNLSGFVa2hZM2VoMlk0ckNDeXhrZGNIRmlVLVU3MWdkTEE?oc=5",
         "source": "인벤",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "프로야구 두산, 신임 단장에 정재훈 운영팀장 선임",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNMmtxRWZmblA0VHZGLUp6UFhZc3dETmFiYm5sT1BOTk5WQ1pObTZKODZXeThsS3k4cWVwTDgzUWlxOXJNdFR3R1pXclZVNDd3bks5YUFNeUtTVjhCZzVFMFJ1cDZjYWs?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "최원호 전 한화 감독, 한국 야구대표팀 이끈다",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXgwYk1JT01nWjh4Q1hWeUxrYmNyU0F4Xy1fOEdMVHRtd3k1eFhNRW5hN2dKT0ZTaXo5eDd6S1Y5enpXWkRmanFhTDlZbVV1T1RaSWMyM0JKZnRDaHhCRmJ6dTFSenRJd3NWTEdvOVN4YjZycDhNMm04QXNoMnRrWHRR?oc=5",
+        "source": "아시아경제",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "'전역모 논란' 박승수, 17분 출전에도 병역 특례…동료 2명은 '0분'",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wWU9DWThKX2d4eXNuQWZVWXlaaDdpeDlfcnlWaV9aUzRSQXVZVFpyck55NC1yRTRHSURaYktFcDE3ZjZYTk5ON1NtNW9ETXdQRC02dEdyUG9naWc?oc=5",
+        "source": "경기일보",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "꿈의 3000안타 1순위였는데…'롯데→NC→한화→두산' 저니맨 신세 된 안타기계, 경력 이어갈 팀 있을까",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ2k0cV9NUnRzdzd3ZlhfQ3FtMUlCV3ctcFhmQkhIWE90ZkRGN2t1eHgzNkVKSmxKYWtVQVlKMEg5TVFnMEt5OEtrVVhhR1BialBFWFlvb0xERTNGSnJKdXl0amVvTGtSRzlhMldVV05uRUJfNXctQUdIRldoNmN2aFdqTQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "MLB 레전드도 지적한 다저스 패인… LA 다저스 4연패와 스미스 책임론 확산",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPWHdrQmFHMEowZUZxWEp1ZTgtVU5DdzU5NW1iV21hcl9kRk9mT0w3aDJLalZUVTFFNHpMRmJKRVBkaXBFek5xVmRtc1B1cjhlLU1XUGhVcXBjZk1PSm15aUlHUVlmUQ?oc=5",
+        "source": "FT스포츠",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "KT, 이강철 감독과 3년 34억 연장 계약",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56TThBdnlJeFNWYlRYWHhzZUcwY20yUG82VXFKTWNTS1Fwcm1MMWpGbUY3YURvT3FzSjFacm94NWZDc19ObF9zQ2lyRGZCSGMtVHBPWGFFbENuUUFiZ3pJVGl1bHk3T0F1YktGS3BPUV9ZVDhm0gFmQVVfeXFMTUg2M29ZTnhTWXQ2MmJGOGZjQ3VrWTNjcmwtRzFBQ0RGVzU5ZU4zYVlaTXRGcVBZdVFQM3ZiU0s2dElhaVhLY01kQ3V0VlNYSVhTLWpvZWdGUnJoa3ZWNm16bjhyQ0N3?oc=5",
+        "source": "동아일보",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "18세 AG 금메달리스트 강준이, 스케이트보드 세계선수권 준우승",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmVVUwUmRNcVE3N3pQU1VPdzBLYWc2ODlTWUlubmJNc0xkS1JscjhxZHhTR29SY1VuUjVNNU9JbVJITXdEaG1xV0JXRm0yZlBXcWhFVm1QOVVMMU0?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "FC서울, 조기 우승 시나리오 불발",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWmFsMVMzR0ZzeHRxZXhzWHJGWGt2MTNCWkZydFlBcU9yX0FSTFA0RF9mUXg1b3lGc1JYQk5PY1JxZmNDd0k2NndBY1pFMkpaQ3hLQngyLWF6dHl0OV83UUpxMDVISXF6NzZKcEJsbDNLV2ZCcWxWMnpnUjJITFdBaFdRNA?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "\"구자욱·최형우 최적 조합 찾아라\"…��성 라이온즈, 가을야구 묘수 고민",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13RU5XYUVsai0xWGUtY3NDcmRnMlZOc3RPcFpNLW1lcVlkMDIxdTgyaU5nSW9hNmFjdXpiRmNRb180U0MzNDRGQmtBWW03MUl1MG1neTJEbk5FV3JlRXlkSFB3?oc=5",
+        "source": "매일신문",
         "date": "2026-10-18"
       }
     ]
