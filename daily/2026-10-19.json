@@ -893,6 +893,209 @@
           "date": "2026-10-18"
         }
       ]
+    },
+    "수류탄": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-19T13:27:00+09:00",
+      "lastSeen": "2026-10-19T13:27:00+09:00",
+      "news": [
+        {
+          "title": "중고 행사 ’득템 상자’ 열었더니…2차 대전 수류탄 ’우르르’",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610151418469Yr",
+          "source": "연합뉴스TV",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "\"이게 왜 여기서 나와?\"…중고거래 상자에 수류탄 6개, 폭발물 처리반 출동 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/19/2026101910303211646",
+          "source": "머니투데이",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "\"중고 물품 샀는데 수류탄이 우르르\"…80년 묵은 폭발물이었다",
+          "url": "https://www.hankyung.com/article/202610199560H",
+          "source": "한국경제",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "전영현": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-19T13:27:00+09:00",
+      "lastSeen": "2026-10-19T13:27:00+09:00",
+      "news": [
+        {
+          "title": "최창원 SK수펙스 의장 유임 가닥…SK그룹 이달 중 정기 사장단 인사",
+          "url": "https://www.donga.com/news/Economy/article/all/20261018/134863051/1",
+          "source": "동아일보",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "[단독] 비핵심 덜어낸 SK그룹 'AI중심 성장' 가속",
+          "url": "https://www.mk.co.kr/news/business/12179034",
+          "source": "매일경제",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "[출근길 브리핑-10월 19일] 주요 그룹 사장단 인사시즌·KAI 경영권 갈등 '법리·행정 검증' 국면으로·佛 전국서 시위 격화·트럼프 대러제제 유예에 십자포화·與野 주말 내내 '약점 물어뜯기'",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=856811",
+          "source": "뉴스웍스",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "정예인": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-19T13:27:00+09:00",
+      "lastSeen": "2026-10-19T13:27:00+09:00",
+      "news": []
+    },
+    "정재훈": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-19T13:27:00+09:00",
+      "lastSeen": "2026-10-19T13:27:00+09:00",
+      "news": [
+        {
+          "title": "프로야구 두산, 신임 단장으로 정재훈 운영팀장 선임",
+          "url": "https://www.yna.co.kr/view/AKR20261019076000007",
+          "source": "연합뉴스",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "두산 ‘김태룡 시대’ 16년 만에 끝…새 단장에 81년생 정재훈",
+          "url": "https://www.donga.com/news/Sports/article/all/20261019/134865790/1",
+          "source": "동아일보",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "두산, 16년 최장수 김태룡 단장 물러나고 신임 단장에 정재훈 운영팀장 선임...시스템 전반 혁신 예고",
+          "url": "https://www.seoul.co.kr/news/sport/2026/10/19/20261019500111",
+          "source": "서울신문",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "황현희": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-19T13:27:00+09:00",
+      "lastSeen": "2026-10-19T13:27:00+09:00",
+      "news": [
+        {
+          "title": "\"목에 칼 들어와도 안 해\" 주식 경고한 황현희, 그의 전망은",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02322246645614560&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "“목에 칼이 들어와도 지금 투자 안해” 3개월 전 황현희 말 재조명",
+          "url": "https://www.munhwa.com/article/11624418",
+          "source": "문화일보",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "황현희 \"목에 칼 들어와도 안 해\" 7월 경고…폭락장에 다시 주목",
+          "url": "https://www.newsis.com/view/NISX20261019_0003830885",
+          "source": "뉴시스",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "kda": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-19T13:27:00+09:00",
+      "lastSeen": "2026-10-19T13:27:00+09:00",
+      "news": [
+        {
+          "title": "K/DA Returns After 6 Years, Unveils New Song 'FIRESTARTER'",
+          "url": "https://www.invenglobal.com/articles/27340/kda-returns-after-6-years-unveils-new-song-firestarter",
+          "source": "Inven Global",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Costco's Exclusive 'KPop Demon Hunters' Trading Card Set Includes 11 Rarity Levels & A Character-Inspired Frame",
+          "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-costco-exclusive-trading-cards-shop-1236360008/",
+          "source": "Billboard",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "K/DA drops FIRESTARTER, new artists join i-dle members for tracks",
+          "url": "https://esports.gg/news/league-of-legends/kda-firestarter-mv/",
+          "source": "Esports.gg",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "에버랜드": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-19T13:27:00+09:00",
+      "lastSeen": "2026-10-19T13:27:00+09:00",
+      "news": []
+    },
+    "띠별 운세": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-19T13:27:00+09:00",
+      "lastSeen": "2026-10-19T13:27:00+09:00",
+      "news": [
+        {
+          "title": "[오늘의 운세] 2026년 10월 19일 띠별 운세",
+          "url": "https://www.ytn.co.kr/_ln/0121_202610190000000001",
+          "source": "YTN",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "오늘의 운세 10월 19일(음력 9월 9일)",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=844762",
+          "source": "제민일보",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "[부산일보 오늘의 운세]10월 20일(음 9월 10일)",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026101909345064456",
+          "source": "부산일보",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "가석방": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-19T13:27:00+09:00",
+      "lastSeen": "2026-10-19T13:27:00+09:00",
+      "news": [
+        {
+          "title": "올해 형집행률 60% 미만 가석방자 급증…교도소 좁다는 이유로",
+          "url": "https://www.yna.co.kr/view/AKR20261017037000004",
+          "source": "연합뉴스",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "형기 60%도 안 채웠는데 ‘들썩이는 감옥 문’…교도소 좁아서 가석방 3.7배 폭증",
+          "url": "https://www.kyeonggi.com/article/20261018580001",
+          "source": "경기일보",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "[법조브리핑] 교도소 과밀에 가석방 수형자 급증… “국민에 재범 위험 떠넘겨” 外",
+          "url": "https://m.segye.com/view/20261018516772",
+          "source": "세계일보",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    "심영순": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-19T13:27:00+09:00",
+      "lastSeen": "2026-10-19T13:27:00+09:00",
+      "news": []
     }
   },
   "sections": {
