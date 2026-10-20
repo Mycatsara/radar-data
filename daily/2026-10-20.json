@@ -761,6 +761,266 @@
           "date": "2026-10-19"
         }
       ]
+    },
+    "슈퍼태풍": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-20T14:52:00+09:00",
+      "lastSeen": "2026-10-20T14:52:00+09:00",
+      "news": [
+        {
+          "title": "'슈퍼태풍 참피' 한·일 사이로? 美 JTWC 예측 경로 보니",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859272_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "태풍 ‘참피’에 제주 비바람…21일부터 기온 ‘뚝’",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=844801",
+          "source": "제민일보",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "30호 '참피', 초강력 태풍 발달...��이완으로",
+          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202610191100363149",
+          "source": "YTN 사이언스",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "김정은 속보": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-20T14:52:00+09:00",
+      "lastSeen": "2026-10-20T14:52:00+09:00",
+      "news": [
+        {
+          "title": "속보 트럼프, 다음달 김정은과 회담 여부에 \"모르겠다\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610200457253889",
+          "source": "YTN",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "트럼프 “11월 김정은과의 만남? 잘 모르겠다”",
+          "url": "https://www.khan.co.kr/article/202610200733001",
+          "source": "경향신문",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "정동영 \"북미 회담 가시권\"이라는데…트럼프는 \"모르겠���\"",
+          "url": "https://www.chosun.com/international/international_general/2026/10/20/GXJC4QLS4NBWPJEPBSK7AOWAFY/",
+          "source": "조선일보",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "cnn": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-20T14:52:00+09:00",
+      "lastSeen": "2026-10-20T14:52:00+09:00",
+      "news": [
+        {
+          "title": "Christiane Amanpour announces she will leave CNN next June",
+          "url": "https://www.cnn.com/2026/10/19/media/christiane-amanpour-leaving-cnn-june-2027",
+          "source": "CNN",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Legendary War Correspondent Christine Amanpour Departs CNN After 43 Years",
+          "url": "https://www.chosun.com/english/world-en/2026/10/20/DGDFOQ6BHVBSXLDCAFAFFH2XXM/",
+          "source": "조선일보",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "CNN Veteran Christiane Amanpour to Depart After 43 Years, Sparking Speculation Over Timing",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008805887",
+          "source": "news.sbs.co.kr",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "혼인": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-20T14:52:00+09:00",
+      "lastSeen": "2026-10-20T14:52:00+09:00",
+      "news": [
+        {
+          "title": "10기 옥순과 돌싱글즈 유현철, 10월24일 결혼식 한다",
+          "url": "https://www.newsis.com/view/NISX20261020_0003832513",
+          "source": "뉴시스",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "‘돌싱글즈’ 유현철♥‘나는솔로’ 김슬기, 혼인신고 3년 만에 결혼식",
+          "url": "https://www.mk.co.kr/news/hot-issues/12180290",
+          "source": "매일경제",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "'돌싱' 유현철♥ 김슬기 \"드디어 결혼합니다\" [전문]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/19/GNTDQNZQGM3DANJYMUYGEMRVGU/",
+          "source": "조선일보",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "역삼동 화재": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-20T14:52:00+09:00",
+      "lastSeen": "2026-10-20T14:52:00+09:00",
+      "news": [
+        {
+          "title": "서울 역삼동 빌딩서 불…30대 여성 1명 심정지",
+          "url": "https://news.jtbc.co.kr/article/NB12323874",
+          "source": "JTBC",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "[속보] 경찰 “역삼동 빌딩 연쇄 화재, 방화 혐의 수사 중”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690183",
+          "source": "KBS 뉴스",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "[속보] 서울 역삼동 상가 건물에서 큰불…대응 1단계 발령",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261020133149wyi",
+          "source": "연합뉴스TV",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "황산공원": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-20T14:52:00+09:00",
+      "lastSeen": "2026-10-20T14:52:00+09:00",
+      "news": [
+        {
+          "title": "경남 청년들 양산에 모인다, 황산공원서 청년축제 공동 개최",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719062",
+          "source": "뉴스타운",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "[양산소식]경남 청년페스타·청년축제 동시 개최 등",
+          "url": "https://www.newsis.com/view/NISX20261020_0003833329",
+          "source": "뉴시스",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "양산 황산공원에 가울축제 잇따라 열린다",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026101908234797626",
+          "source": "부산일보",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "kim jong un dead": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-20T14:52:00+09:00",
+      "lastSeen": "2026-10-20T14:52:00+09:00",
+      "news": [
+        {
+          "title": "Kim Jong Un appears at clothing expo after latest internet rumors on death",
+          "url": "https://www.nknews.org/?p=980990",
+          "source": "NK News",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "N. Korea's Kim tours light industry expo, touts regional policy achievements",
+          "url": "https://en.yna.co.kr/view/AEN20261020002200315",
+          "source": "Yonhap News Agency",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Kim Jong-un touts local industry gains at apparel, footwear expo in North Korea - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-policy/2026/10/20/EJDAV3GL5VA43BNGQVM5APT3RY/",
+          "source": "Chosunbiz",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "아리 셀": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-20T14:52:00+09:00",
+      "lastSeen": "2026-10-20T14:52:00+09:00",
+      "news": [
+        {
+          "title": "아리셀 대표 ‘징역 15년→4년 감형’ 확정…\"23명 죽었는데\" 유족 눈물",
+          "url": "https://news.jtbc.co.kr/article/NB12323841",
+          "source": "JTBC",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "[뉴스브리핑] 오늘의 주요뉴스…'23명 사망' 아리셀 대표 징역 4년 확정",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806187",
+          "source": "SBS 뉴스",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "23명 숨진 '아리셀 참사' 박순관 대표 징역 4년 확정",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859246_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "하이닉스": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-20T14:52:00+09:00",
+      "lastSeen": "2026-10-20T14:52:00+09:00",
+      "news": [
+        {
+          "title": "반도체 소부장기업에 2조 원 지원…상생 무역금융 출범",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973781&pWise=main&pWiseMain=L2",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "정부·SK하이닉스, 반도체 협력사에 2조원 보증 지원",
+          "url": "https://www.yna.co.kr/view/AKR20261019072200003",
+          "source": "연합뉴스",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "간담회 발언하는 김정관 장관",
+          "url": "https://www.news1.kr/photos/8167657",
+          "source": "뉴스1",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "맨체스터 시티 fc": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-20T14:52:00+09:00",
+      "lastSeen": "2026-10-20T14:52:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 결국 전례없는 중징계 ‘오피셜’ 공식발표 나오나…英 매체 “유죄 판결받은 맨체스터 시티, 승점 대폭 삭감→2부 강등 불가피”",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%89%E1%85%A9%E1%86%A8%E1%84%87%E1%85%A9-%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AE%E1%86%A8-%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%85%E1%85%A8%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%BC%E1%84%80%E1%85%A8-%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AF-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD-%E1%84%82%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%82%E1%85%A1--%E8%8B%B1-%E1%84%86%E1%85%A2%E1%84%8E%E1%85%A6-%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%AC-%E1%84%91%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A7%E1%86%AF%E1%84%87%E1%85%A1%E1%86%AE%E1%84%8B%E1%85%B3%E1%86%AB-%E1%84%86%E1%85%A2%E1%86%AB%E1%84%8E%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-%E1%84%89%E1%85%B5%E1%84%90%E1%85%B5-%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%B7-%E1%84%83%E1%85%A2%E1%84%91%E1%85%A9%E1%86%A8-%E1%84%89%E1%85%A1%E1%86%A8%E1%84%80%E1%85%A1%E1%86%B7%E2%86%922%E1%84%87%E1%85%AE-%E1%84%80%E1%85%A1%E1%86%BC%E1%84%83%E1%85%B3%E1%86%BC-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A1%E1%84%91%E1%85%B5/blte0de5a912f2c838d",
+          "source": "Goal.com",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "'재정 규정 위반' 맨시티 팬들, EPL에 집단 야유…바나나 응원도 등장",
+          "url": "https://www.news1.kr/sports/overseas-soccer/6323518",
+          "source": "뉴스1",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "이럴 수가! 맨체스터 시티 초유의 '충격 강등' 대위기, '역대급 승점 삭감' 다가온다...PL의 분노? 항소 결과 전에 '선제 징계' 가능",
+          "url": "https://mydaily.co.kr/page/view/2026102007472135599",
+          "source": "마이데일리",
+          "date": "2026-10-20"
+        }
+      ]
     }
   },
   "sections": {
