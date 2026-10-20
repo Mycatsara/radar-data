@@ -520,6 +520,247 @@
           "date": "2026-10-20"
         }
       ]
+    },
+    "임영웅": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-21T08:00:00+09:00",
+      "lastSeen": "2026-10-21T08:00:00+09:00",
+      "news": [
+        {
+          "title": "임영웅, 빌보드 코리아에 무려 13곡 진입…‘사랑은 늘 도망가’ 19위",
+          "url": "https://sports.donga.com/ent/article/all/20261021/134879461/1",
+          "source": "스포츠동아",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "임영웅, 빌보드 코리아 ‘글로벌 K-송즈’ 10곡 차트인",
+          "url": "https://sports.khan.co.kr/article/202610210731003",
+          "source": "스포츠경향",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "임영웅, 290주 연속 아이돌차트 1���... 나머지 순위는?",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1188114",
+          "source": "금강일보",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "klasemen psg vs fc barcelona": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-21T08:00:00+09:00",
+      "lastSeen": "2026-10-21T08:00:00+09:00",
+      "news": []
+    },
+    "thứ hạng của psg gặp barcelona": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-21T08:00:00+09:00",
+      "lastSeen": "2026-10-21T08:00:00+09:00",
+      "news": [
+        {
+          "title": "Video bóng đá PSG - Barcelona: Đỉnh cao châu Âu, 6 bàn ngoạn mục (Cúp C1)",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-psg-barcelona-dinh-cao-chau-au-cup-c1-c48a1804361.html",
+          "source": "Tin tức 24h",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "שידור חי פריז סן ז'רמן נגד ברצלונה: הרכבים פותחים",
+          "url": "https://www.vietnam.vn/he/truc-tieptruc-tiep-paris-saint-germain-vs-barcelona-doi-hinh-xuat-phat",
+          "source": "Vietnam.vn",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Cách để ngăn chặn Lamine Yamal",
+          "url": "https://laodong.vn/bong-da-quoc-te/cach-de-ngan-chan-lamine-yamal-1786422.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "天気": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-21T08:00:00+09:00",
+      "lastSeen": "2026-10-21T08:00:00+09:00",
+      "news": [
+        {
+          "title": "台風30号 本州付近に来週接近恐れ",
+          "url": "https://news.yahoo.co.jp/pickup/6599518",
+          "source": "Yahoo!ニュース",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "明日21日は北日本で警報級大雨・暴風おそれ 東京など真夏日か 台風30号は沖縄へ(気象予報士 石榑 亜紀子)",
+          "url": "https://tenki.jp/forecaster/gureweather/2026/10/20/41026.html",
+          "source": "tenki.jp",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "【10月21日 きょうの天気】 日本海側で雷雨や激しい雨のおそれ 太平洋側は過去最も遅い真夏日も 北海道は夜から風が強まり次第に山で雪に",
+          "url": "https://newsdig.tbs.co.jp/articles/-/3026366",
+          "source": "TBS NEWS DIG",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "thời tiết": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-21T08:00:00+09:00",
+      "lastSeen": "2026-10-21T08:00:00+09:00",
+      "news": [
+        {
+          "title": "Dự báo thời tiết 10 ngày tới từ đêm 20.10 đến 30.10 trên cả nước",
+          "url": "https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-tu-dem-2010-den-3010-tren-ca-nuoc-1785187.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Không khí lạnh ảnh hưởng, miền Bắc và miền Trung giảm nhiệt nhẹ",
+          "url": "https://dantri.com.vn/thoi-tiet/khong-khi-lanh-anh-huong-mien-bac-va-mien-trung-giam-nhiet-nhe-20261020184002494.htm",
+          "source": "Báo Dân trí",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Bắc Bộ nắng nóng trước khi đón không khí lạnh, Trung Bộ và Nam Bộ có nơi mưa to",
+          "url": "https://vnmha.mae.gov.vn/bac-bo-nang-nong-truoc-khi-don-khong-khi-lanh-trung-bo-va-nam-bo-co-noi-mua-to-18974.htm",
+          "source": "Cục Khí tượng Thủy văn",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "후티": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-21T08:00:00+09:00",
+      "lastSeen": "2026-10-21T08:00:00+09:00",
+      "news": [
+        {
+          "title": "후티, 예멘·사우디 잇따라 공격… 정부군 훈련소서 53명 사망, 리야드 공항 폐쇄",
+          "url": "https://www.chosun.com/international/international_general/2026/10/20/SHPUFFWYHNAVNIBNFMLDVGIBJI/",
+          "source": "조선일보",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "‘이란 대리 세력’ 넘어선 후티…중동분쟁 ‘태풍의 눈’으로",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1283362.html",
+          "source": "한겨레",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "중동 무력 충돌 격화…울산, 투자유치단 파견 연기",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH2026102105361540b",
+          "source": "연합뉴스TV",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "สภาพอากาศ": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-21T08:00:00+09:00",
+      "lastSeen": "2026-10-21T08:00:00+09:00",
+      "news": [
+        {
+          "title": "สภาพอากาศวันนี้ -26 ต.ค.ภาคกลาง-กทม. ตะวันออก ใต้ ลมกระโชกแรง ระวังฝนตกหนัก",
+          "url": "https://www.thansettakij.com/general-news/671875",
+          "source": "thansettakij",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "เฝ้าระวังน้ำท่วมขัง น้ำท่วมฉับพลัน น้ำป่าไหลหลาก และน้ำล้นตลิ่ง ช่วงวันที่ 23 – 26 ตุลาคม 2569",
+          "url": "https://www.thailandplus.tv/archives/1065357",
+          "source": "thailandplus",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "สทนช. เร่งคลี่คลายน้ำท่วมขัง ปรับแผนระบายน้ำเขื่อน เกาะติดฝนหนักภาคใต้",
+          "url": "https://www.matichon.co.th/economy/news_5941332",
+          "source": "Matichon Online",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "погода": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-21T08:00:00+09:00",
+      "lastSeen": "2026-10-21T08:00:00+09:00",
+      "news": [
+        {
+          "title": "На Израиль надвигается осенний хамсин: какая погода ожидается до конца недели",
+          "url": "https://www.vesty.co.il/main/article/bybszkr2fl",
+          "source": "Vesty.co.il",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Осень меняет планы — какой будет погода на этой неделе",
+          "url": "https://cursorinfo.co.il/israel-news/osen-menyaet-plany-kakoj-budet-pogoda-na-etoj-nedele/",
+          "source": "Cursorinfo",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Прогноз погоды в Израиле, 20.10.2026 Newsru.co.il",
+          "url": "https://www.newsru.co.il/israel/20oct2026/pogoda.html",
+          "source": "NEWSru.co.il",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "박홍근": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-21T08:00:00+09:00",
+      "lastSeen": "2026-10-21T08:00:00+09:00",
+      "news": [
+        {
+          "title": "이 대통령, \"모든 위협으로부터 국민 일상 지키는 데 국정 역량 집중\"",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973945",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "박홍근 “생중계 국무회의, 오늘도 열띤 토론”…李 “너무 잘하고 계셔”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261020/134878320/2",
+          "source": "동아일보",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "\"안전시설 전면 재점검\"‥주택은 '공급 전격전' 강조",
+          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6859353_36981.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    "다우 존스 산업평균지수": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-21T08:00:00+09:00",
+      "lastSeen": "2026-10-21T08:00:00+09:00",
+      "news": [
+        {
+          "title": "뉴욕증시, 실적 호조·유가 하락에 투자심리 개선…다우 1%↑",
+          "url": "https://www.yna.co.kr/view/AKR20261021006700072",
+          "source": "연합뉴스",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "증시 반등했지만…'한국 AI 30% 폭락'에 숨죽인 빅테크[뉴욕마감] - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/21/2026102106475697966",
+          "source": "머니투데이",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "기술주 반등에 나스닥 1%↑···필라델피아 반도체 9거래일 만에 상승 마감",
+          "url": "https://www.khan.co.kr/article/202610200723001",
+          "source": "경향신문",
+          "date": "2026-10-20"
+        }
+      ]
     }
   },
   "sections": {
