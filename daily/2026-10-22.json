@@ -254,6 +254,266 @@
           "date": "2026-10-21"
         }
       ]
+    },
+    "챔피언스리그": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-22T06:53:00+09:00",
+      "lastSeen": "2026-10-22T06:53:00+09:00",
+      "news": [
+        {
+          "title": "황인범 32분 포르투, 에인트호번에 0-1 패배",
+          "url": "https://mobile.newsis.com/photo/NISI20261021_0002269240",
+          "source": "뉴시스",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "‘챔스 3경기 연속 교체 출전’ 황인범, 32분 소화…포르투는 PSV에 홈에서 패하며 3연패",
+          "url": "https://sports.khan.co.kr/article/202610210837003",
+          "source": "스포츠경향",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "황인범, PSV전 UCL 첫 선발 도전⋯포르투 2연패 탈출할까",
+          "url": "https://www.etoday.co.kr/news/view/2637795",
+          "source": "이투데이",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "여자 축구": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-22T06:53:00+09:00",
+      "lastSeen": "2026-10-22T06:53:00+09:00",
+      "news": [
+        {
+          "title": "‘AG 동메달’ 한국 여자축구, FIFA 랭킹 17위…40개월 만에 최고",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8691296",
+          "source": "KBS 뉴스",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "AG 동메달 성과…여자축구, FIFA 랭킹 17위",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261022044836Yvu",
+          "source": "연합뉴스TV",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "[오피셜] '중국 제치고 아시아 4위 등극' 韓 여자축구, 3년 4개월 만에 피파랭킹 최고 순위 '17위' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/21/2026102109502569413",
+          "source": "머니투데이",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "방탄소년단": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-22T06:53:00+09:00",
+      "lastSeen": "2026-10-22T06:53:00+09:00",
+      "news": [
+        {
+          "title": "BTS 뷔, 바지 엉덩이 부분에 뭐 묻었나…\"원래 이런 것, 충분히 오해할만해\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6326798",
+          "source": "뉴스1",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "꽃보다 태형~♥ 방탄소년단 뷔, 칠레 포도밭 '달콤 휴식'",
+          "url": "https://www.starnewskorea.com/music/2026/10/21/2026102107153836246",
+          "source": "스타뉴스",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "\"AI도 이런 ���굴은 못만들것\"방탄소년단 뷔 칠레 공연 팬캠에 잡힌 비현실적 미모 [K-EYES]",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553624524",
+          "source": "스포탈코리아",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "bayern đấu với arsenal": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-22T06:53:00+09:00",
+      "lastSeen": "2026-10-22T06:53:00+09:00",
+      "news": [
+        {
+          "title": "Nhận định Bayern München vs Arsenal: Màn so tài của hai đội vào phom",
+          "url": "https://www.vietnam.vn/nhan-dinh-bayern-munchen-vs-arsenal-man-so-tai-cua-hai-doi-vao-phom",
+          "source": "Vietnam.vn",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "Trực tiếp Bayern München vs Arsenal: Bayern München gỡ hòa 1-1",
+          "url": "https://baolamdong.vn/truc-tiep-bayern-munchen-vs-arsenal-bayern-munchen-go-hoa-1-1-470500.html",
+          "source": "Báo Lâm Đồng",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "Raya thần tượng Neuer, cảnh báo thách thức cực lớn từ Bayern",
+          "url": "https://bongda24h.vn/bong-da-chau-au/david-raya-than-tuong-neuer-canh-bao-thach-thuc-cuc-lon-tu-bayern-munich-184-462798.html",
+          "source": "Bongda24h",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "madrid vs leipzig": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-22T06:53:00+09:00",
+      "lastSeen": "2026-10-22T06:53:00+09:00",
+      "news": [
+        {
+          "title": "Real Madrid vs. RB Leipzig kostenlos auf SRF 2 Schweiz streamen – Champions League 2026/27",
+          "url": "https://cybernews.com/de/online-schauen/real-madrid-vs-rb-leipzig-kostenlos-auf-srf-21-10-2026/",
+          "source": "Cybernews",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "Perfekte Bilanz in der Champions League",
+          "url": "https://www.realmadrid.com/de-DE/news/fussball/erste-mannshaft/berichte/cronica-real-madrid-leipzig-j3-champions-21-10-2026",
+          "source": "Real Madrid CF | Web Oficial",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "RB geht bei Real leer aus - Traumtor von Diomande",
+          "url": "https://www.mdr.de/sport/fussball_pokal/pokale-international/champions-league-real-madrid-rb-leipzig,spielbericht-real-rbl-100.html",
+          "source": "MDR.de",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "이다해": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-22T06:53:00+09:00",
+      "lastSeen": "2026-10-22T06:53:00+09:00",
+      "news": [
+        {
+          "title": "이다해, 상하이 50억 집 공개…\"무옵션에 월세 600만원\"",
+          "url": "https://www.newsis.com/view/NISX20261021_0003835821",
+          "source": "뉴시스",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "‘11월 딸 출산’ 이다해, 불러온 배 위에 손 살포시… 장영란·심진화와 상하이 회동",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/10/21/GM4GEMLCHAZTAMLFMZRGKYZVGA/",
+          "source": "조선일보",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "'세븐♥' 이다해, 임신 9개월 안 믿기는 작은 배…\"중국 검색어 1위\" - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/entertainment/2026/10/22/2026102205365572649",
+          "source": "머니투데이",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "손태진": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-22T06:53:00+09:00",
+      "lastSeen": "2026-10-22T06:53:00+09:00",
+      "news": [
+        {
+          "title": "손태진, 견심까지 사로잡았다..오늘(21일) '개와 늑대의 시간2' 스페셜 MC 출격 - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/GZTDGODDGI2WGNBXGJTDEZBZHA/",
+          "source": "Chosunbiz",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "손태진, 오늘 ‘개늑시2’ 스페셜 MC 2번째 출격",
+          "url": "https://sports.khan.co.kr/article/202610211741003",
+          "source": "스포츠경향",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "손태진, '개와 늑대의 시간2' 스페셜 MC…음악방송·라디오·예능까지 접수",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014505",
+          "source": "SPOTV NEWS",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "노동조합": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-22T06:53:00+09:00",
+      "lastSeen": "2026-10-22T06:53:00+09:00",
+      "news": [
+        {
+          "title": "네이버 노조, 사옥 로비 집회서 통합교섭 촉구",
+          "url": "https://www.yna.co.kr/view/AKR20261021086900017",
+          "source": "연합뉴스",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "네이버 노사, 계열사 통합교섭 놓고 대립…본사 로비 집회",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021142246m1K",
+          "source": "연합뉴스TV",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "네이버 노사, 통합교섭 놓고 갈등…내일 노동위 판단 '촉각'",
+          "url": "https://www.newsis.com/view/NISX20261021_0003835260",
+          "source": "뉴시스",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "이마트": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-22T06:53:00+09:00",
+      "lastSeen": "2026-10-22T06:53:00+09:00",
+      "news": [
+        {
+          "title": "이마트24, 자체 브랜드 '옐로우' 커피·생수 1천200만개 판매",
+          "url": "https://www.yna.co.kr/view/AKR20261021023100030",
+          "source": "연합뉴스",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "이마트24, PB 론칭 1주년 ‘리뉴얼’…상품 150종으로 확대",
+          "url": "https://www.sedaily.com/article/20104218",
+          "source": "서울경제",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "[똑똑한유통] 이마트24, 신세계라이브쇼핑, 우아한형제들, 쿠팡풀필먼트서비스",
+          "url": "https://m.ekn.kr/view.php?key=20261021026059379",
+          "source": "에너지경제신문",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "메타 주가": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-22T06:53:00+09:00",
+      "lastSeen": "2026-10-22T06:53:00+09:00",
+      "news": [
+        {
+          "title": "메타, 3분기 매출 26% 오른 646억 달러…주당순이익 기대치 미달",
+          "url": "https://www.yna.co.kr/view/AKR20261022007500091",
+          "source": "연합뉴스",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "장 마감 후 주요 종목 동향: META, IBM, TSLA, LRCX, KLAC, AMAT, CSX, KMI, LVS",
+          "url": "https://kr.investing.com/news/stock-market-news/article-432SI-2135990",
+          "source": "Investing.com 한국어",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "美 빅테크 실적 발표 앞둔 코스피, 장초반 강세 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/21/2026102109142881392",
+          "source": "머니투데이",
+          "date": "2026-10-21"
+        }
+      ]
     }
   },
   "sections": {
@@ -1379,6 +1639,66 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTFl6ZGJXX0d2YXI1cVdzQ3d0MzB1VXdaT0lFclZIQjN6b2dTajNxOG8zYWNybG9WVXdUUklJWl9wUFRQWHIzOElqVDJrQUxBT1FKNE0wSHVYTlFPbmRIWGpQeUtVcHhkQ0syWl9reDhFSUdaQ3RfM2x5dWNkQVVjb2V0SQ?oc=5",
         "source": "조선일보",
         "date": "2026-10-20"
+      },
+      {
+        "title": "가을야구 홈런 6방 때린 삼총사… 호랑이 군단, 사자 심장 노린다",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OaGVaRVVnbXJIZGtZZkw1a0FfOXNmbllTOEVDU1ItREFMam16YTdCZG0xLUltODlOdVZDbWlNREdPWTI1QnBPNEZKQjB4V3BvcUJianpmdFZ4NFg5NXVkcXc1RUNpTW9KODBGdWVEUU5qMGZKcHVZTQ?oc=5",
+        "source": "서울신문",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "'전례 없던 치욕' 손흥민 왕따 논란, 이토록 심각했다니 \"이름도 안 불러... '7번', '그분'이라 한다\" 믿기지 않는 '충격 실태' - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlMUN1ci1WRW1SblR1TktZZjFjOGp5Ni1KTFI3TEFZUmRZOFIxRGkxNnZDcjlrYUZNQVROeFR2cWE4b0tDa0dIcjBPT2tRVWpKLVZ6b0FEUXNNLXRydVdIc3BVamVOQ0t3TGfSAW9BVV95cUxOc1NZanlBeWFDb3lUbUFaNUxmWU9LaWdQVU9hVTdoNjlaSlI0Q3pmMGN0Y3E2TWNUR3Bqc2haR3dIUVlscWdYRmViR1ZrOGtVd2tKTTJNUlJibENFWEY5VmpGQlZLSnNTYW1paElnaW8?oc=5",
+        "source": "머니투데이",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "[포토뉴스] 국회 문체위 국정감사에서 업무보고하는 하형주 국민체육진흥공단 이사장",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xaDJxcDBSMWZhd2ZmY1NTSmdyM2RVclFtQ2h3VjJmMVBDV3VtX1BDUFpqSFA5OTJwbHVVLUdOOC1NN0JNTXpuclhzUmNFOTgwcG9KNjF0RWZlOV9GYVE?oc=5",
+        "source": "뉴스투데이",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "\"악당 다저스가 없잖아\" MLB 초비상, 월드시리즈 폭망? 이 무슨 김빠진 소리인가…흥행 실패 너무 걱정할 것 없다 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VTmJ0c3VrRGpVZnRtS3pWUGUwX095OGFzOVNScG9KWC1CV0diUVJjOG8wMnozRmxwbVc0TW5ic2RQRzdtOURrVWVxNnBsbEFPX29GTGZMLU9KaWtRZ1FkMGRSOXFJcU9xQkHSAW9BVV95cUxOaS1Xa01FdjZ6d0NFcnZldFBVeFY1NGtHYVNIMm1qUVBlbVdlTFl4cUVpdXpMR1RjNGxwRURYSnVST1pzUTVLbVlLVFNKYndOaTJJTUtYZURuTzZhbUt0cmdkd0l3bFNQeVJ3S3EwT2s?oc=5",
+        "source": "머니투데이",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "‘철의 여인’ 이도연, 4번째 장애인 아시안게임 금 획득",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZSWpBVDliNEFJU3A4YllVZ3otSTR2Yk9JeDEtalJfeVFvYVk1OXdsQk8tcEVad3J5dnVfMDZ1Ni1vYjRHOV9PbW94bGxZRVlN?oc=5",
+        "source": "문화일보",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "경기도, 전국체전 5연패 사실상 달성...유도 26연승",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55ek9YSk1uRWpLU1RfOEJKc3Rjcm0tWHJqR1ZWQ0FfSGlHRUstTVZuQWwtWUcyYVFUcElENEo2Tl9iLVZZbGk0ZlZyQU5qUS1Zclg3TjUtdXRVYzdHaVd3OURnN3RNZnA4QWdPLXlR?oc=5",
+        "source": "중부일보",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "[2026AG] '2024 파리 패럴림픽 펜싱 銀' 권효경, 대회 개인전 첫 메달",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54dmRVX3BzVGxlcnpzckFfOXd4MXdVS0EtbEZtb1c4SG15YzhYVDJIS0p2d2RfcWRDSnFyNzI3SVVKcFlEb0ZWYWhJaUJJNEY4akJEc1ZycmwyUQ?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "‘AG 동메달’ 한국 여자축구 FIFA 랭킹 17위 ‘2계단 상승’",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MYjNBckxoYmllSWx6M3hEZmZISkJBb3UySmhYelNoOXFMMWFYYkFhMkc0WXZWTGZHTXkzWGJ0ZUx6SGotLTdjcWd5WVJIaThtWnE5UldpX2xEZVk?oc=5",
+        "source": "경기일보",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "KOVO 남자 신인드래프트 오는 28일 개최",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56bWx0UXFaUjJRdDhEYi1EN09EMDh3ZDkzLTcydGhtMDIxbG13MEFrQzdmbng0LS01Ykl1blFEYmdqdXpDcmczbnFLX1dKY2FLWklFRHU2ZEZBbHU2bmg3VlotSTNNSU9hb3c?oc=5",
+        "source": "SBS 뉴스",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "김연아는 살쪄서 임신설, 고현정은 '뼈말라' 건강이상설[Oh!쎈 이슈]",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ0tHS0Q4RmVsaFFraGtPSkUyZTc0YUVJNkhxUU5QNHBMTFJfbzJjdE1kV29JU1ZiYzNCSGl3aE1CNWEtVVNOV2FiLW9ITndTUl9XWG9zemtTVXVYRVg2a2paYXNMSjZtZC1Udm9SRWhtZUJEZU1TWUMxdlg5bjZGMXZtdEV3dVZ6LVVNYXJmQQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-21"
       }
     ]
   }
