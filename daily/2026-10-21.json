@@ -761,6 +761,247 @@
           "date": "2026-10-20"
         }
       ]
+    },
+    "태풍 참피": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-10-21T10:51:00+09:00",
+      "lastSeen": "2026-10-21T10:51:00+09:00",
+      "news": [
+        {
+          "title": "'슈퍼태풍 참피' 한·일 사이로? 美 JTWC 예측 경로 보니",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859272_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "[속보] 제30호 태풍 ‘참피’ 더 강해지며 제주 온다…하루 만에 경로 바꿔",
+          "url": "https://www.kyeonggi.com/article/20261021580062",
+          "source": "경기일보",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "\"초강력 태풍 참피, 주말 ��주 강타?\".. 대만 기상청 예보 주목",
+          "url": "https://www.jibs.co.kr/news/articles/articlesDetail/66741?feed=na",
+          "source": "JIBS제주방송",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "주간조선": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-21T10:51:00+09:00",
+      "lastSeen": "2026-10-21T10:51:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 경찰, '흉기난동' 최충락 사이코패스 검사...\"자료 분석 중\"",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610210846004839_005.html",
+          "source": "YTN",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "“보상금도 피해자 위해”…흉기난동범에 맞섰던 23세 청년의 따뜻한 결심",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=56386",
+          "source": "주간조선",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "10대 피해자 의식 없어…인천 흉기난동 가해자 엄벌 서명에 1만5천명 참여",
+          "url": "https://www.mk.co.kr/news/society/12181103",
+          "source": "매일경제",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "카드뉴스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-21T10:51:00+09:00",
+      "lastSeen": "2026-10-21T10:51:00+09:00",
+      "news": [
+        {
+          "title": "[카드뉴스] 내 옆집 안녕하신가요? -행동편",
+          "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50792",
+          "source": "1코노미뉴스",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "중기부, 'EU 포장재 규제' 대응 간담회…수출 中企 애로 수렴",
+          "url": "https://www.yna.co.kr/view/AKR20261020032200030",
+          "source": "연합뉴스",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "EU 포장재 규제(PPWR) 대응, 중소기업 애로 듣는다",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=452492",
+          "source": "서울Pn",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "100일의 거짓말": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-21T10:51:00+09:00",
+      "lastSeen": "2026-10-21T10:51:00+09:00",
+      "news": [
+        {
+          "title": "김유정과 박진영의 영화같은 순간",
+          "url": "https://www.elle.co.kr/article/1911658",
+          "source": "엘르 코리아 │ ELLE KOREA",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "‘닥터X’·‘100일의 거짓말’…‘스드作’ 안방 ‘쌍끌이’",
+          "url": "https://www.munhwa.com/article/11624781",
+          "source": "문화일보",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "김지원·김유정 앞세웠더니 터졌다…웃음꽃 핀 '이 회사' [엔터X스탁]",
+          "url": "https://www.hankyung.com/article/202610203588H",
+          "source": "한국경제",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "박진만": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-21T10:51:00+09:00",
+      "lastSeen": "2026-10-21T10:51:00+09:00",
+      "news": [
+        {
+          "title": "2년 전 KS서 만났던 삼성 vs KIA, 가을야구 리턴매치…'너 잘 만났다'[PO]",
+          "url": "https://www.newsis.com/view/NISX20261020_0003834097",
+          "source": "뉴시스",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "박진만 삼성 감독 \"김도영은 스타…우리는 대처할 능력 갖췄다\"",
+          "url": "https://www.yna.co.kr/view/AKR20261020179900007",
+          "source": "연합뉴스",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "LG는 셧아웃, 삼성은 이 선수 어떻게 막나, 유일한 약점은 전 동료 하나 뿐...통산 37홀드 잠수함은 이미 방출",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/21/G5RGKZBWMUZDSYRYGE4TIODCHA/",
+          "source": "조선일보",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "제이비어 브런슨": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-21T10:51:00+09:00",
+      "lastSeen": "2026-10-21T10:51:00+09:00",
+      "news": [
+        {
+          "title": "\"전작권 조기 전환 땐… 李엔 정치적 승리, 한미동맹은 약화 위험\"",
+          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/10/21/QOOB3LLJP5CGJMIV6XX4R7H4FQ/",
+          "source": "조선일보",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "한병도 \"브런슨 발언에 국민 공분…발언에 신중 기해달라\"",
+          "url": "https://www.yna.co.kr/view/AKR20261021039600001",
+          "source": "연합뉴스",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "[칼럼]4성 장군의 가벼운 입에 한반도 안보 맡길 수 있나",
+          "url": "https://www.nocutnews.co.kr/news/6594316",
+          "source": "노컷뉴스",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "엘리스그룹": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-21T10:51:00+09:00",
+      "lastSeen": "2026-10-21T10:51:00+09:00",
+      "news": [
+        {
+          "title": "'韓엘리스 폭락' 외신 집중조명…\"참담한 데뷔, AI투자 우려 증폭\"",
+          "url": "https://www.yna.co.kr/view/AKR20261021003200072",
+          "source": "연합뉴스",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "[뉴욕증시] \"탄광의 카나리아\" AI 거품론 공포탄은 한국 기업?",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610210639070810",
+          "source": "YTN",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "따상은 커녕 공모가 붕괴...코스닥 대어 '엘리���' 혹독한 신고식",
+          "url": "https://news.bizwatch.co.kr/article/market/2026/10/20/0017",
+          "source": "비즈워치",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "육군사관학교": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-21T10:51:00+09:00",
+      "lastSeen": "2026-10-21T10:51:00+09:00",
+      "news": []
+    },
+    "제너럴 모터스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-21T10:51:00+09:00",
+      "lastSeen": "2026-10-21T10:51:00+09:00",
+      "news": [
+        {
+          "title": "GM beats on Q3 results, tightens profit outlook, unveils new $20 billion buyback",
+          "url": "https://finance.yahoo.com/markets/stocks/article/gm-beats-on-q3-results-tightens-profit-outlook-unveils-new-20-billion-buyback-134307573.html",
+          "source": "Yahoo Finance",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "GM shares sink as automaker signals rising cost pressures",
+          "url": "https://www.reuters.com/business/autos-transportation/gms-core-profit-rises-22-strength-pickup-truck-business-2026-10-20/",
+          "source": "Reuters",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+          "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+          "source": "CNBC",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    "아들": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-10-21T10:51:00+09:00",
+      "lastSeen": "2026-10-21T10:51:00+09:00",
+      "news": [
+        {
+          "title": "\"엄마 걱정할까 봐\"…새벽에 사라진 중3 아들이 남긴 카톡",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020133453owB",
+          "source": "연합뉴스TV",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "5살 아들의 “아빠 도망가!”···민속촌 귀신 체험이 선물한 평생의 감동",
+          "url": "https://www.khan.co.kr/article/202610191854001",
+          "source": "경향신문",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "[피플&포커스] “우리 아이 좀 혼내주세요” 민속촌 귀신들의 ‘참교육’",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3441214",
+          "source": "천지일보",
+          "date": "2026-10-20"
+        }
+      ]
     }
   },
   "sections": {
