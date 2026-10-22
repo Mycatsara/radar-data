@@ -996,6 +996,266 @@
           "date": "2026-10-22"
         }
       ]
+    },
+    "대형주": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-22T19:28:00+09:00",
+      "lastSeen": "2026-10-22T19:28:00+09:00",
+      "news": [
+        {
+          "title": "\"내년은 삼전닉스보다 소부장…'대형주 7·소부장 3' 담아라\"",
+          "url": "https://www.hankyung.com/article/202610228673i",
+          "source": "한국경제",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "\"그래도 대세는 AI\"…엔비디아·반도체 집중 투자 ETF[머니똑똑] - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/21/2026101916264741354",
+          "source": "머니투데이",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "“자금 얼어붙었다”…연이은 AI ETF 출시에도 투자자는 ‘관망’",
+          "url": "https://www.dt.co.kr/article/12090645",
+          "source": "www.dt.co.kr",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "eng vs sl": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-22T19:28:00+09:00",
+      "lastSeen": "2026-10-22T19:28:00+09:00",
+      "news": [
+        {
+          "title": "England vs Sri Lanka, ODI tri-series LIVE! Latest cricket scores, updates and video as Harry Brook's side chase victory",
+          "url": "https://www.skysports.com/cricket/live-blog/13602136/england-vs-sri-lanka-odi-tri-series-live-latest-cricket-scores-updates-and-video-as-harry-brooks-side-chase-victory",
+          "source": "Sky Sports",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "Wheat flour prices increased",
+          "url": "https://www.newswire.lk/2026/10/21/wheat-flour-prices-increased/",
+          "source": "Newswire",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "SL vs ENG Tri-Series: Kusal Mendis Wins Toss And Opts To Bowl First In 3rd ODI At Rawalpindi Cricket Stadium",
+          "url": "https://www.sportscapemagazine.com/blog/sl-vs-eng-tri-series-kusal-mendis-wins-toss-and-opts-to-bowl-first-in-3rd-odi-at-rawalpindi-cricket-stadium",
+          "source": "Sportscape Magazine",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "안성훈": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-10-22T19:28:00+09:00",
+      "lastSeen": "2026-10-22T19:28:00+09:00",
+      "news": [
+        {
+          "title": "안성훈, ‘미스터트롯2’ 상금 5억으로 부모님 집 마련…“카드도 못 써”",
+          "url": "https://sports.donga.com/ent/article/all/20261021/134881885/1",
+          "source": "스포츠동아",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "'미스터트롯2 진' 안성훈, 가슴 아픈 가정사 고백..\"父 사업 실패 빚 10억\" ('편스토랑') - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/MJRTAZJXMUZDEYJRME4TONBRMU/",
+          "source": "Chosunbiz",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "안성훈 \"중학생 때 아버지 사업 실패…빚 10억\" 눈물 고백 - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/entertainment/2026/10/22/2026102213472795098",
+          "source": "머니투데이",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "빈곤": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-22T19:28:00+09:00",
+      "lastSeen": "2026-10-22T19:28:00+09:00",
+      "news": [
+        {
+          "title": "LF 킨, '옥스팜 트레일워커' 동참…임직원 320㎞ 걷고 기부",
+          "url": "https://www.newsis.com/view/NISX20261022_0003836008",
+          "source": "뉴시스",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "[체험기] 옥스팜 트레일워커 서울, 함께라면 20km 완보도 웃음꽃과 함께",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449709",
+          "source": "비즈니스포스트",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "LF 킨, 세계 빈곤 문제 행사에 파트너사로 참여",
+          "url": "https://www.fnnews.com/news/202610220923044703",
+          "source": "파이낸셜뉴스",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "철도": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-22T19:28:00+09:00",
+      "lastSeen": "2026-10-22T19:28:00+09:00",
+      "news": [
+        {
+          "title": "“노인 무임수송 연령 높여도 서울지하철 2034년이면 완전자본잠식”",
+          "url": "https://www.khan.co.kr/article/202610221337001",
+          "source": "경향신문",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "“65살 이상 지하철 무료 승차, 의료비 절감 등 연 6506억원 편익”",
+          "url": "https://www.hani.co.kr/arti/area/area_general/1283716.html",
+          "source": "한겨레",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "인천도시철도 무임수송 손실 4년 새 2.2배…전국 노사 공동 대응",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038548",
+          "source": "기호일보",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "kt wiz": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-22T19:28:00+09:00",
+      "lastSeen": "2026-10-22T19:28:00+09:00",
+      "news": [
+        {
+          "title": "Veteran pitcher Choi Dong-hwan released by KT after failed comeback attempt - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/22/YPQPZXXFOBDKFASR5TMH5F7JEQ/",
+          "source": "Chosunbiz",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "[Official] Long-haired pitcher who spent '16 years with LG' ultimately fails to rebound... Right-hander who traveled the entire country from 'Gwangju��Seoul→Jeju→Daejeon→Incheon→Suwon' also departs! KT, ahead of Korea Series, notifies 10 players of non-",
+          "url": "https://www.starnewskorea.com/en/sports/2026/10/22/2026102210544998782",
+          "source": "스타뉴스",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "KT Wiz Completes Roster Reorganization Ahead of Korean Series",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/22/YZC3XRECCRC5RGC5HI7JBUIOKM/",
+          "source": "조선일보",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "김한솔": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-22T19:28:00+09:00",
+      "lastSeen": "2026-10-22T19:28:00+09:00",
+      "news": [
+        {
+          "title": "북한 매체 홈페이지 '먹통'...'김정은 사망설'과 관계 있나? [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610220831313775",
+          "source": "YTN",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "김정은 사망설, 김한솔 후계설, 미군 투입설까지···도대체 무슨 일이",
+          "url": "https://weekly.khan.co.kr/article/202610221824001",
+          "source": "주간경향",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "‘김정은 사망설’에 北 인터넷 ‘대규모 접속장애’까지…무슨 일?",
+          "url": "https://www.kyeonggi.com/article/20261022580169",
+          "source": "경기일보",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "lg 트윈스": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-22T19:28:00+09:00",
+      "lastSeen": "2026-10-22T19:28:00+09:00",
+      "news": [
+        {
+          "title": "프로야구 LG, 김윤식·양우진 등 투수 4명 日 넥스트 베이스 파견",
+          "url": "https://www.newsis.com/view/NISX20261022_0003837136",
+          "source": "뉴시스",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "LG 양우진·조원태 등 젊은 투수들, 日 '넥스트 베이스'서 단기 연수",
+          "url": "https://www.news1.kr/sports/baseball/6328778",
+          "source": "뉴스1",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "[프로야구] '준PO 탈락' LG, 김윤식·조원태·이상영·양우진 日 파견…최상덕 코치 동행",
+          "url": "https://www.newspim.com/news/view/20261022001368",
+          "source": "뉴스핌",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "코브라": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-22T19:28:00+09:00",
+      "lastSeen": "2026-10-22T19:28:00+09:00",
+      "news": [
+        {
+          "title": "기르던 코브라에 물린 중학생 ‘헬기 이송’해 구조…경찰, 불법 매매 수사",
+          "url": "https://www.hani.co.kr/arti/area/chungcheong/1283663.html",
+          "source": "한겨레",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "뱀 거래하려다 물린 중학생‥119 신고했다가 경찰 조사",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859993_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "코브라 거래하려다 물린 중학생, 119 신고했다가 경찰 적발",
+          "url": "https://www.yna.co.kr/view/AKR20261022127800064",
+          "source": "연합뉴스",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "신세계그룹": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-22T19:28:00+09:00",
+      "lastSeen": "2026-10-22T19:28:00+09:00",
+      "news": [
+        {
+          "title": "국세청, 일감 몰아주기 의혹 신세계면세점 특별 세무조사 착수",
+          "url": "https://newstapa.org/article/4rXmE",
+          "source": "뉴스타파",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "국세청, 신세계인터내셔날·신세계디에프 특별세무조사 착수",
+          "url": "https://www.yna.co.kr/view/AKR20261022158300030",
+          "source": "연합뉴스",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "국세청, 신세계 계열사 세무조사…‘특혜 거래 의혹’ 여행사도 조사",
+          "url": "https://www.khan.co.kr/article/202610221705001",
+          "source": "경향신문",
+          "date": "2026-10-22"
+        }
+      ]
     }
   },
   "sections": {
