@@ -494,6 +494,266 @@
           "date": "2026-10-22"
         }
       ]
+    },
+    "주우재": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-23T08:02:00+09:00",
+      "lastSeen": "2026-10-23T08:02:00+09:00",
+      "news": [
+        {
+          "title": "[한끗 차이]성시경처럼 날렵해졌는데, 내 옆엔 주우재가 없네…‘패알못’ 탈출 6가지 공식",
+          "url": "https://www.khan.co.kr/article/202610230700005",
+          "source": "경향신문",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "주우재, 3년간 간직한 100만원 수표…유재석 또 미담?",
+          "url": "https://www.newsis.com/view/NISX20261022_0003836024",
+          "source": "뉴시스",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "유재석 미담 또 나왔다..곽범 \"놀뭐 끝나고 먼저 연락와..내 번호 물어봤다\"(뭔데뭔데) - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/GQYWEMBXGYZGGOBUGEYDAMRYHE/",
+          "source": "Chosunbiz",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "조선소": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-23T08:02:00+09:00",
+      "lastSeen": "2026-10-23T08:02:00+09:00",
+      "news": [
+        {
+          "title": "[단독] HD현대, 美 키윗과 합작법인 세운다… '마스가 1호 펀드' 수혜 유력",
+          "url": "https://www.hankyung.com/article/202610229024i",
+          "source": "한국경제",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "HD현대, 미국 건설사와 합작법인 추진…선박 블록 야드 구축",
+          "url": "https://www.yna.co.kr/view/AKR20261022187600003",
+          "source": "연합뉴스",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "HD현대, 美 조선소 인수 대신 직접 건립에 무게… 현지 기업과 합작법인 추진",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/22/AARH6D6C3NGV3MNLHVFYXM2XOM/",
+          "source": "조선일보",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "weather": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-23T08:02:00+09:00",
+      "lastSeen": "2026-10-23T08:02:00+09:00",
+      "news": [
+        {
+          "title": "Wonderful weather continues through the weekend",
+          "url": "https://www.kcrg.com/2026/10/22/wonderful-weather-continues-through-weekend/",
+          "source": "KCRG",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "Mild October Temperatures; A Few More Clouds This Weekend",
+          "url": "https://www.kwqc.com/2026/10/22/mild-october-temperatures-sunshine-pleasant-weather/",
+          "source": "KWQC",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "Staying warm and dry for a while longer",
+          "url": "https://www.kyoutv.com/2026/10/21/staying-warm-dry-while-longer/",
+          "source": "KYOU-TV",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "погода": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-23T08:02:00+09:00",
+      "lastSeen": "2026-10-23T08:02:00+09:00",
+      "news": [
+        {
+          "title": "«Последний день этого великолепного периода». Когда погода в Петербурге начнет портиться",
+          "url": "https://www.fontanka.ru/2026/10/22/76717836/",
+          "source": "ФОНТАНКА.ру",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "Синоптик Ильин: один из выходных в Петербурге испортят дожди",
+          "url": "https://ura.news/news/1053138180",
+          "source": "URA.RU",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "Александр Колесов рассказал, сколько ещё продержится тепло в Петербурге",
+          "url": "https://pogoda.mail.ru/news/72819038/",
+          "source": "Погода Mail",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "skhy": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-23T08:02:00+09:00",
+      "lastSeen": "2026-10-23T08:02:00+09:00",
+      "news": [
+        {
+          "title": "Apple vs. SK hynix: Which Tech Stock Is a Better Buy in 2026?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-vs-sk-hynix-tech-165302345.html",
+          "source": "Yahoo Finance",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "Apple (NASDAQ: AAPL) Vs. SK Hynix (OTC: SKHY): Stability Meets AI Growth In A Critical 2026 Tech Stock Showdown",
+          "url": "https://www.foreignpolicyjournal.com/2026/10/21/apple-nasdaq-aapl-vs-sk-hynix-otc-skhy-stability-meets-ai-growth-in-a-critical-2026-tech-stock-showdown/",
+          "source": "Foreign Policy Journal",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "Apple vs. SK hynix: Which Tech Stock Is a Better Buy in 2026?",
+          "url": "https://www.fool.com/coverage/better-buy/2026/10/21/apple-vs-sk-hynix-which-tech-stock-is-a-better-buy-in-2026/",
+          "source": "The Motley Fool",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "김가영": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-23T08:02:00+09:00",
+      "lastSeen": "2026-10-23T08:02:00+09:00",
+      "news": [
+        {
+          "title": "‘퍼펙트큐’ 김가영은 한지은 꺾고 ‘원조퀸’ 임정숙은 정수빈에 0:2→3:2 대역전승 8강행[NH농협카드LPBA]",
+          "url": "https://mkbn.mk.co.kr/news/sports/12183564",
+          "source": "mkbn.mk.co.kr",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "'0-12서 대역전 드라마' 조재호, 승부치기 끝에 PBA 64강행",
+          "url": "https://www.yna.co.kr/view/AKR20261022060000007",
+          "source": "연합뉴스",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "'당구 美女 스타, 무섭네' 정수빈, 데뷔 첫 우승 기세로 애버리지 2점 맹타",
+          "url": "https://www.nocutnews.co.kr/news/6593983",
+          "source": "노컷뉴스",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "로스앤젤레스 다저스": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-23T08:02:00+09:00",
+      "lastSeen": "2026-10-23T08:02:00+09:00",
+      "news": [
+        {
+          "title": "MLB 다저스 오타니, 수술 안 하고 2027년 투타 겸업 준비",
+          "url": "https://www.yna.co.kr/view/AKR20261022138800007",
+          "source": "연합뉴스",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "\"오타니 수술 필요없다!\" LAD 사장 나서서 '수술설' 전면 부인...오타니 투타겸업 재확인, \"신중히 접��한다\"",
+          "url": "https://www.osen.co.kr/article/G1112896538",
+          "source": "OSEN",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "\"오타니 수술 없다\" 4번째 다치고도 또! 못말리는 이도류 고집, '운명의 2027년' 다저스 명운도 달렸다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/22/2026102207145469323",
+          "source": "머니투데이",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "중앙그룹": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-23T08:02:00+09:00",
+      "lastSeen": "2026-10-23T08:02:00+09:00",
+      "news": [
+        {
+          "title": "[단독] ‘골프 중계 강자’ JTBC골프도 매물로… 중앙그룹 쪼개 팔기 가속 - 조선비즈",
+          "url": "https://biz.chosun.com/stock/market_trend/2026/10/22/J5POP66CTZA6DM4UCYN7ES55MY/",
+          "source": "Chosunbiz",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "중앙그룹, JTBC골프 매물로…계열사 매각 ‘박차’",
+          "url": "https://www.sisajournal.com/news/articleView.html?idxno=391363",
+          "source": "시사저널",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "한숨 돌린 중앙일보 채권투자자들…조기상환 가능성도",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/21/2026102180110.html",
+          "source": "인베스트조선",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "vix": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-23T08:02:00+09:00",
+      "lastSeen": "2026-10-23T08:02:00+09:00",
+      "news": [
+        {
+          "title": "Wall Street’s Fear Gauge Flashes Red as Stocks Tumble, Oil Surges, and Tech Reels",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-101626/card/wall-street-s-fear-gauge-flashes-red-as-stocks-tumble-oil-surges-and-tech-reels-fixHy5gPLAzio74MriHe",
+          "source": "Barron's",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "Buy the Madman!",
+          "url": "https://www.macrobusiness.com.au/2026/10/buy-the-madman/",
+          "source": "MacroBusiness",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+          "url": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+          "source": "CNBC",
+          "date": "2026-10-22"
+        }
+      ]
+    },
+    "สภาพอากาศ": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-23T08:02:00+09:00",
+      "lastSeen": "2026-10-23T08:02:00+09:00",
+      "news": [
+        {
+          "title": "วิกฤต! น้ำในเขื่อนพุ่ง 83% จ่อล้นตลิ่ง กทม. - ภาคใต้ ระวังฝนตกหนัก",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1257559",
+          "source": "bangkokbiznews",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "อัปเดตประกาศกรมอุตุฯ ฉ.12 | 22 ตุลาคม 2569 เวลา 17.00 น. 📌 เปลี่ยนแปลงจากฉบับก่อน 🟠 22 ต.ค. ลดพื้นที่เตือนฝนหนัก 4 จังหวัด ได้แก่ สระแก้ว กระบี่ ตรัง และสตูล ส่วนวันที่ 23–25 ต.ค. พื้นที่เตือนยังคงเดิม พื้นที่ที่คาดว่าจะได้รับผลกระทบรายวัน 📅 22 ตุลาคม 2569 🟠 ฝนหนัก ภาคตะวันอ",
+          "url": "https://www.facebook.com/tmd.go.th/posts/%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%B8%E0%B8%AF-%E0%B8%8912-22-%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B2%E0%B8%84%E0%B8%A1-2569-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1700-%E0%B8%99-%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99-22-%E0%B8%95%E0%B8%84/1586837996821663/",
+          "source": "Facebook",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "กรมอุตุนิยมวิทยา ประกาศฉบ���บ 11 เตือนฝนหนัก 22-25 ต.ค. 2569",
+          "url": "https://readthecloud.co/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2/",
+          "source": "คลาวด์ปัง",
+          "date": "2026-10-22"
+        }
+      ]
     }
   },
   "sections": {
@@ -1679,6 +1939,30 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zeGF6am5NY042a0huTGkyYXh6ODNoeUFXRUtfZHU3cjFYcC1WZWVnMm4xb2V4Y2c0c09STDR6T3hGLXZWT2c2UzdCMWJPajVPQy00MUd4OG4?oc=5",
         "source": "국민일보",
         "date": "2026-10-21"
+      },
+      {
+        "title": "[프로축구] 야고·클리말라·무고사…K리그1 득점왕 뜨거운 3파전",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1adWpDc0tETERpRFQ2VVpuNC14TXltMVdva2I0T2FWX2NGcHpPMHhaYXNURUhsNFVEcGJicGtJWEtLSHRMdlgwTUptVjJEQ0RTYmFfbGx4NThwblI2?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\"용돈 좀 보내줘\" 문진희 前 위원장, 협회 조사도 중단됐다...왜? \"본인이 강력하게 부인해서\" 이용수 직무대행 황당 해명",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUXZ6Q3BLQXc0VEFmT1VZdzVMdEN3QV93UzlnNkhZak54RUd1VUxRQWU4ZElnZ0dTQmVqYVN3cTRJTWxXVkFaclhxajF2UjlDdHgzbXA4N3NmdUZqWmRhQ0Q4OHpKQUJRRDZyRnZFVUNKWEFQNXJwX2VQa3VlZVVsY1BLVQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "“손흥민을 7번이라 부른다?” 국감장에 오른 ‘태극전사’ 불화설",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04Mk1vOXQ4QlVxMkFOcWNpWi1lUGZEaXIyUlNYbWpYTDZFUGdxU3owWTVBQ1FweE8yWGNiMkRSR0VFSGdkQ0JFa2drelp2MUVVNkRXZTRNUUNvTEk?oc=5",
+        "source": "경기일보",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "김시우, 제네시스 챔피언십 첫날 3위…임성재 33위 [KPGA·DP월드투어]",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kalU1c0liVGdFell4cmFwWWRrT0RUWHNpSDRicmowUlJkSDZaLThDVEVWNkQ1aEc5VE5RWFJzTUlfQ1ZoTlF2ZTU1VklVLW9xMEVzQk9RcVRXT0ZKamxTSlRRUmNQYjJmOUtfOXkweDROUTZUQ29Ia9IBfEFVX3lxTE1CWjZmYlZvc29ielJXbU9neUpfdUJCV28wZ2JacXZoMzdHRk9tVW5KS240VE40ZlMxaVVlc3oydDdDSlYzRy05b3dGaDl3TEFiQWFLMEI4aDZhUWtWcnAtNm5JanRCR1RGSXN2bTV5blhtNF9zYlNSZGJPbE0?oc=5",
+        "source": "골프한국",
+        "date": "2026-10-22"
       }
     ]
   }
