@@ -754,6 +754,254 @@
           "date": "2026-10-22"
         }
       ]
+    },
+    "기업은행": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-23T10:46:00+09:00",
+      "lastSeen": "2026-10-23T10:46:00+09:00",
+      "news": [
+        {
+          "title": "공룡 뼈부터 ‘언니’까지…스타들은 별걸 다 모은다",
+          "url": "https://sports.donga.com/ent/article/all/20261023/134886187/1",
+          "source": "스포츠동아",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "IBK기업은행, 포켓몬 6종 담은 비대면 신용카드 출시",
+          "url": "https://www.newspim.com/news/view/20261023000378",
+          "source": "뉴스핌",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "해시드·샤드랩, TCG 카드쇼 '컬렉터블 콘' 개최…이틀간 4000명 방문",
+          "url": "https://www.hankyung.com/article/202610228376B",
+          "source": "한국경제",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "김세영": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-23T10:46:00+09:00",
+      "lastSeen": "2026-10-23T10:46:00+09:00",
+      "news": [
+        {
+          "title": "유해란, LPGA 3승 정조준…BMW 대회 첫날 공동 3위",
+          "url": "https://www.yna.co.kr/view/AKR20261022161000007",
+          "source": "연합뉴스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "세계스타, 땅끝마을로 총출동…“바닷 바람이 변수!”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8691823",
+          "source": "KBS 뉴스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "김민선·김민주, ‘초속 13m’ 해남강풍 뚫고 ‘KLPGA 매운맛’",
+          "url": "https://www.sedaily.com/article/20104956",
+          "source": "서울경제",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "신지애": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-23T10:46:00+09:00",
+      "lastSeen": "2026-10-23T10:46:00+09:00",
+      "news": [
+        {
+          "title": "Golf Legend Shin Ji-ai Advises Rookie Kim Min-sol: 'Keep Pushing'",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/23/35CXHAP6CBBGZE4LJJDEKX6LIM/",
+          "source": "조선일보",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "네이버": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-10-23T10:46:00+09:00",
+      "lastSeen": "2026-10-23T10:46:00+09:00",
+      "news": [
+        {
+          "title": "네이버, 대학·입시 검색 강화…모집요강·경쟁률 한눈에",
+          "url": "https://www.yna.co.kr/view/AKR20261023048400017",
+          "source": "연합뉴스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "\"1지망 학과 경쟁률은?\"…네이버, 대학 200곳 정보 한눈에",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838024",
+          "source": "뉴시스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "\"모집 요강 한눈에\"…네이버, 수능 앞두고 입시 검색 강화",
+          "url": "https://news.mtn.co.kr/article/2026102309371352207",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "독도": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-23T10:46:00+09:00",
+      "lastSeen": "2026-10-23T10:46:00+09:00",
+      "news": [
+        {
+          "title": "울릉도에 '독도교육원' 짓는다…현장 체험형 독도교육 거점 조성",
+          "url": "https://www.nocutnews.co.kr/news/6595522",
+          "source": "노컷뉴스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "세종국제고, 대동여지도 통해 세종을 보다",
+          "url": "http://www.dtnews24.com/news/articleView.html?idxno=816369",
+          "source": "디트NEWS24",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "경북교육청정보센터, 독도 해양교실 운영…\"우리땅 지킨다\"",
+          "url": "https://www.newsis.com/view/NISX20261022_0003837029",
+          "source": "뉴시스",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "하나은행": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-23T10:46:00+09:00",
+      "lastSeen": "2026-10-23T10:46:00+09:00",
+      "news": [
+        {
+          "title": "하나은행, 신보와 사회적기업에 200억원 규모 보증 지원",
+          "url": "https://www.yna.co.kr/view/AKR20261022064500002",
+          "source": "연합뉴스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "하나은행, 신용보증기금과 200억원 규모 사회연대경제 금융지원",
+          "url": "https://www.etnews.com/20261022000313",
+          "source": "전자신문",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "신보 \"성장단계별로 스타트업 지원\"…첫 보증부터 투자유치까지 사다리 잇는다",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=352816",
+          "source": "녹색경제신문",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "국민은행": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-23T10:46:00+09:00",
+      "lastSeen": "2026-10-23T10:46:00+09:00",
+      "news": [
+        {
+          "title": "KB국민은행, 중국서도 'KB스타뱅킹'으로 QR 결제",
+          "url": "https://www.newsis.com/view/NISX20261022_0003837263",
+          "source": "뉴시스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "KB국민은행, 중국서도 'KB스타뱅킹'으로 간편 결제",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=798667",
+          "source": "일간투데이",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "KB국민은행, KB스타뱅킹 중국 QR결제 출시",
+          "url": "https://www.etnews.com/20261022000297",
+          "source": "전자신문",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "카드뉴스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-23T10:46:00+09:00",
+      "lastSeen": "2026-10-23T10:46:00+09:00",
+      "news": [
+        {
+          "title": "인구전략위원회, 국민으로부터 인구관련 정책 아이디어를 직접 듣는 첫 토론회 개최",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=452593",
+          "source": "서울Pn",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "“李, ‘정상 가족’ 변경? 헌법 위 군림 오만한 이념적 실험” : 사���",
+          "url": "https://www.christiantoday.co.kr/news/378052",
+          "source": "크리스천투데이",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "\"지원금만 준다고 아이 낳나\"…산부인과의사회, 분만 대책 빠진 인구전략 비판",
+          "url": "https://m.medigatenews.com/news/2474470594",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "76ers vs cavaliers": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-23T10:46:00+09:00",
+      "lastSeen": "2026-10-23T10:46:00+09:00",
+      "news": [
+        {
+          "title": "Cleveland Cavaliers vs. Philadelphia 76ers Live NBA Updates, Scores and Highlights",
+          "url": "https://bleacherreport.com/liveblogs/25519170-cleveland-cavaliers-vs-philadelphia-76ers-live-nba-updates-scores-and-highlights",
+          "source": "Bleacher Report",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Cavs vs 76ers LIVE Updates, Last quarter begins (90-82)",
+          "url": "https://www.vavel.com/en-us/nba/2026/10/22/1276353-cavaliers-vs-76ers-live-score-nba.html",
+          "source": "VAVEL.com",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "!+[Here's Way To Watch]\" Philadelphia 76ers 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ",
+          "url": "https://www.hrr.mlit.go.jp/chokoku/hatizyuuri/progress/pannellum/pannellum.htm?config=/%5C/mayab93.github.io%2Fmayabi%2Fespn%2Fvideo%2Fconfig.jason?way-to-watch-philadelphia-76ers-%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%95-825",
+          "source": "北陸地方整備局",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "디티에스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-23T10:46:00+09:00",
+      "lastSeen": "2026-10-23T10:46:00+09:00",
+      "news": [
+        {
+          "title": "[특징주] 디티에스, 코스닥 상장 첫날 장초반 '따블'",
+          "url": "https://www.yna.co.kr/view/AKR20261023040100008",
+          "source": "연합뉴스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "‘중복상장 예외 2호’ 디티에스, 미국發 삭풍에도 상장 첫날 ‘따블’[이런국장 저런주식]",
+          "url": "https://www.sedaily.com/article/20105189",
+          "source": "서울경제",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "산업용 열교환기 기업 디티에스, 코스닥 상장 첫날 장중 주가 공모가보다 2배 올라",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450108",
+          "source": "비즈니스포스트",
+          "date": "2026-10-23"
+        }
+      ]
     }
   },
   "sections": {
