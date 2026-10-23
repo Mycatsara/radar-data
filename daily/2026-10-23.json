@@ -1262,6 +1262,241 @@
           "date": "2026-10-23"
         }
       ]
+    },
+    "thời tiết ngày mai": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-23T21:46:00+09:00",
+      "lastSeen": "2026-10-23T21:46:00+09:00",
+      "news": [
+        {
+          "title": "Dự báo thời tiết ngày mai 24.10: Mưa dông tiếp tục xuất hiện tại nhiều nơi",
+          "url": "https://laodong.vn/du-lich/cong-dong/du-bao-thoi-tiet-ngay-mai-2410-mua-dong-tiep-tuc-xuat-hien-tai-nhieu-noi-1788188.html",
+          "source": "Laodong.vn",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Dự báo thời tiết đêm 23/10, ngày 24/10/2026",
+          "url": "https://baoquangninh.vn/du-bao-thoi-tiet-dem-2310-ngay-24102026-post3424866.html",
+          "source": "Báo Quảng Ninh điện tử",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Thời tiết đêm 22 ngày 23-10: Bắc Bộ sáng sớm có sương mù; Trung Bộ và Nam Bộ mưa rào đến mưa to",
+          "url": "https://tuoitre.vn/video/thoi-tiet-dem-22-ngay-23-10-bac-bo-sang-som-co-suong-mu-trung-bo-va-nam-bo-mua-rao-den-mua-to-203757.htm",
+          "source": "Tuổi Trẻ",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "이세돌": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-23T21:46:00+09:00",
+      "lastSeen": "2026-10-23T21:46:00+09:00",
+      "news": [
+        {
+          "title": "‘알파고 10주년’ 사회초년생 된 이세돌…“인간의 따뜻함 전하길”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8692470",
+          "source": "KBS 뉴스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "'알파고와 대국' 이세돌, AI로 대체 힘든 직업 찾았다",
+          "url": "https://www.newsis.com/view/NISX20261023_0003839041",
+          "source": "뉴시스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "이세돌, 맥주 판매·요구르트 배달 도전…‘백수 이세돌’ 오늘 첫방",
+          "url": "https://sports.donga.com/ent/article/all/20261023/134896632/1",
+          "source": "스포츠동아",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "xsmb": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-23T21:46:00+09:00",
+      "lastSeen": "2026-10-23T21:46:00+09:00",
+      "news": [
+        {
+          "title": "Phân tích thống kê XSMB Thứ 7 Ngày 24/10/2026 - Chốt Số Vàng May Mắn",
+          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-7-ngay-24102026-chot-so-vang-may-man-p7321",
+          "source": "homeup.vn",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Kết quả xổ số miền Bắc hôm nay ngày 23/10/2026: XSMB thứ Sáu hàng tuần.",
+          "url": "https://vietnamnet.vn/ket-qua-xo-so-mien-bac-hom-nay-ngay-23-10-2026-xsmb-thu-sau-hang-tuan-2567253.html",
+          "source": "Báo VietNamNet",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Xổ số trực tiếp miền Bắc và miền Trung hôm nay",
+          "url": "https://hbcg.vn/video/X%E1%BB%95-s%E1%BB%91-tr%E1%BB%B1c-ti%E1%BA%BFp-mi%E1%BB%81n-B%E1%BA%AFc-v%C3%A0-mi%E1%BB%81n-Trung-h%C3%B4m-nay",
+          "source": "HOA BINH CONSTRUCTION GROUP",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "ateez drip": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-23T21:46:00+09:00",
+      "lastSeen": "2026-10-23T21:46:00+09:00",
+      "news": [
+        {
+          "title": "Song Review: ATEEZ – Drip",
+          "url": "https://thebiaslist.com/2026/10/22/song-review-ateez-drip/",
+          "source": "https://thebiaslist.com/",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "ATEEZ turn up the confidence on swagger-filled ‘Drip’ music video — watch",
+          "url": "https://www.bandwagon.asia/articles/ateez-turn-up-the-confidence-on-drip-ahead-of-upcoming-golden-hour-part-6-ep-watch",
+          "source": "Bandwagon",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "ATEEZ Unveils 'Drip' MV Ahead of Mini Album 15",
+          "url": "https://www.pap-magazine.com/en/article/ateez-drip-music-video-mini-album-15-pre-release",
+          "source": "PAP Magazine",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "차은우": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-23T21:46:00+09:00",
+      "lastSeen": "2026-10-23T21:46:00+09:00",
+      "news": [
+        {
+          "title": "\"붕어빵 구워야죠\"...광명 붕은우, 방송 출연 쿨하게 거절 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/23/2026102316440313762",
+          "source": "머니투데이",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "\"차은우 닮은 붕어빵 사장\"…손님 폭주에 문 닫았다 영업 재개",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261019160136dk7",
+          "source": "연합뉴스TV",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "\"광명 붕어빵 청년입니다\"…'붕은우' SNS 개설 하루 만에 '좋아요' 1만개 넘어서",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838383",
+          "source": "뉴시스",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "카를로스 카라스코": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-23T21:46:00+09:00",
+      "lastSeen": "2026-10-23T21:46:00+09:00",
+      "news": [
+        {
+          "title": "KIA는 김도영 잃고 8등했다 → 만신창이 LG의 4등은 기적 아닌가. 디펜딩챔피언의 착시현상",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/23/MUZTAOLEMEZTCMJTGIZDSZJRHA/",
+          "source": "조선일보",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "[엠빅뉴스] 9K쇼! 펼친 케이쇼! 준PO3 MVP의 미친 피��",
+          "url": "https://imnews.imbc.com/original/mbig/6859633_29041.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "어쩌면 ‘키맨’일지 모를 이름···이의리의 ‘달빛 소나타’ 첫 악장은 슬라이더?",
+          "url": "https://sports.khan.co.kr/article/202610220855003",
+          "source": "스포츠경향",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "데일리nk": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-23T21:46:00+09:00",
+      "lastSeen": "2026-10-23T21:46:00+09:00",
+      "news": [
+        {
+          "title": "北, 지뢰 폭발 사건 명분으로 소년근위대 훈련·사상교육 강화",
+          "url": "https://www.dailynk.com/20261023-5/",
+          "source": "데일리NK",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "아들 입대 막으려 학교까지 찾아간 홀어머니…도대체 무슨 사연?",
+          "url": "https://www.dailynk.com/20261023-4/",
+          "source": "데일리NK",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "청년문화예술패스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-23T21:46:00+09:00",
+      "lastSeen": "2026-10-23T21:46:00+09:00",
+      "news": []
+    },
+    "배종옥": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-23T21:46:00+09:00",
+      "lastSeen": "2026-10-23T21:46:00+09:00",
+      "news": [
+        {
+          "title": "’30년차' 싱글맘 배종옥, 딸 결혼 뒤늦게 알려졌다",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/10/22/GJTGMMTEMMZWIOLFGUZDQYJVGI/",
+          "source": "조선일보",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "'이혼' 배종옥, 30여년 홀로 키운 딸 시집 보냈다 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/22/2026102221421923705",
+          "source": "머니투데이",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "배종옥, 장모 됐다…30여년 홀로 키운 딸 시집 보내",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6328602",
+          "source": "뉴스1",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "고양시": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-23T21:46:00+09:00",
+      "lastSeen": "2026-10-23T21:46:00+09:00",
+      "news": [
+        {
+          "title": "'표고가 뭐길래'...고양시 표고 조례 개정 두고 '시끌'",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3729909",
+          "source": "국제뉴스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "[패트롤] 고양시의회-남양주시의회-안산시의회-의정부시의회",
+          "url": "https://m.ekn.kr/view.php?key=20261018024037628",
+          "source": "에너지경제신문",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "고양특례시의회 고덕희 의원, ‘법정동별 표고 규제 삭제’ 조례 개정안 원안가결",
+          "url": "https://nuriilbo.com/news/article.html?no=924646",
+          "source": "누리일보",
+          "date": "2026-10-23"
+        }
+      ]
     }
   },
   "sections": {
