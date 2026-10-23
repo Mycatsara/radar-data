@@ -260,6 +260,228 @@
           "date": "2026-10-23"
         }
       ]
+    },
+    "ai": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-24T06:09:00+09:00",
+      "lastSeen": "2026-10-24T06:09:00+09:00",
+      "news": [
+        {
+          "title": "The biggest-ever internet security threat has been known for 22 years. AI made it a crisis in 2 days",
+          "url": "https://www.cnn.com/2026/10/23/tech/ai-cybersecurity-php2shell-explained",
+          "source": "CNN",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+          "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+          "source": "The Guardian",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
+          "url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+          "source": "CNBC",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "승리": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-24T06:09:00+09:00",
+      "lastSeen": "2026-10-24T06:09:00+09:00",
+      "news": [
+        {
+          "title": "'소주병 위협 피소' 빅뱅 출신 승리 \"허위 사실로 합의 못 해\"",
+          "url": "https://www.newsis.com/view/NISX20261023_0003839266",
+          "source": "뉴시스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "빅뱅 출신 승리, 특수폭행 혐의 부인…\"소주병 휘두른 적 없어\"",
+          "url": "https://www.yna.co.kr/view/AKR20261023184900005",
+          "source": "연합뉴스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "[전문] ‘소주병 피소’ 승리 측 “고소인 합의 제안, 정식 수사 통해 밝힐 것”",
+          "url": "https://sports.khan.co.kr/article/202610232030003",
+          "source": "스포츠경향",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "슈투트가르트 대 묀헨글라트바흐": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-24T06:09:00+09:00",
+      "lastSeen": "2026-10-24T06:09:00+09:00",
+      "news": [
+        {
+          "title": "German Bundesliga LIVE: Stuttgart v Borussia M'gladbach - watch, text coverage, scores, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/ck1wv842335et",
+          "source": "BBC",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "🤯 Gladbach are alive! Crisis-hit Stuttgart fall apart yet again",
+          "url": "https://sports.yahoo.com/articles/gladbach-alive-crisis-hit-stuttgart-195100651.html",
+          "source": "Yahoo Sports",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "!Herems Got the ways to watch Monchengladbach vs VfB Stuttgart 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 24 October 2026",
+          "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3ZlbXBpcmVzLmdpdGh1Yi5pby9UZXJhL2h0cy54bWwiLz48L2tycGFubz4=&id=to-watch-monchengladbach-vs-vfb-stuttgart-cbs-sports-achtk",
+          "source": "小豆島町",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "입스위치 대 노팅엄 포레스트": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-24T06:09:00+09:00",
+      "lastSeen": "2026-10-24T06:09:00+09:00",
+      "news": [
+        {
+          "title": "Ipswich vs. Nottm Forest (Oct 23, 2026) Team Stats",
+          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879253",
+          "source": "ESPN",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Kraken 5-3 Mammoth (Oct 22, 2026) Game Recap",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892562",
+          "source": "ESPN",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Pistons' Jalen Duren: Tallies 14 points vs. Toronto",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/pistons-jalen-duren-tallies-14-points-vs-toronto/",
+          "source": "CBS Sports",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "al": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-24T06:09:00+09:00",
+      "lastSeen": "2026-10-24T06:09:00+09:00",
+      "news": [
+        {
+          "title": "Tuberville boots reporter from Mobile campaign event",
+          "url": "https://www.lagniappemobile.com/news/mobileal/tuberville-boots-reporter-from-mobile-campaign-event/article_74a2f3f9-2ad7-4db5-b846-7546cd9d1b97.html",
+          "source": "Lagniappe Daily",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "MAGA Senator Loses It Over Embarrassing Question",
+          "url": "https://www.yahoo.com/news/politics/articles/maga-senator-loses-over-embarrassing-131746754.html",
+          "source": "Yahoo",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Tuberville has journalist who questioned him kicked out of Alabama campaign rally",
+          "url": "https://www.al.com/politics/2026/10/tuberville-has-journalist-who-questioned-him-kicked-out-of-alabama-campaign-rally.html",
+          "source": "AL.com",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "월즈 2026": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-24T06:09:00+09:00",
+      "lastSeen": "2026-10-24T06:09:00+09:00",
+      "news": []
+    },
+    "tes": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-24T06:09:00+09:00",
+      "lastSeen": "2026-10-24T06:09:00+09:00",
+      "news": [
+        {
+          "title": "\"Business as usual\": The mindset of Hanwha Life Esports' 'Gumayusi' Lee Min-hyeong",
+          "url": "https://www.invenglobal.com/articles/27641/business-as-usual-the-mindset-of-hanwha-life-esports-gumayusi-lee-min-hyeong",
+          "source": "Inven Global",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "An Overwhelming Gap in Power... Hanwha Life Defeats TES in 23 Minutes",
+          "url": "https://www.invenglobal.com/articles/27640/an-overwhelming-gap-in-power-hanwha-life-defeats-tes-in-23-minutes",
+          "source": "Inven Global",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "What to know for Week 7: Start Stroud, one WR to trade for and one to trade away",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/50250199/fantasy-football-start-sit-decisions-week-7",
+          "source": "ESPN",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "페이커": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-24T06:09:00+09:00",
+      "lastSeen": "2026-10-24T06:09:00+09:00",
+      "news": [
+        {
+          "title": "'페이커' 기념우표 구매 기다리는 시민들",
+          "url": "https://www.yna.co.kr/view/PYH20261023012900013",
+          "source": "연합뉴스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "'507개 한정' 페이커 굿즈에 밤샘 행렬",
+          "url": "https://www.news1.kr/photos/8175092",
+          "source": "뉴스1",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "'페이커' 이상혁 기념우표 발행 첫날 오픈런",
+          "url": "https://zdnet.co.kr/view/?no=20261023123832",
+          "source": "지디넷코리아",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "로보택시": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-24T06:09:00+09:00",
+      "lastSeen": "2026-10-24T06:09:00+09:00",
+      "news": [
+        {
+          "title": "2028년 광주서 로보택시 상용화…자율주행 서비스 사업자 도입",
+          "url": "https://www.yna.co.kr/view/AKR20261023096800003",
+          "source": "연합뉴스",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "자율주행 실증·이동로봇 상용화 지원…창업기업 행정서류 절반으로 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/23/2026102209391866012",
+          "source": "머니투데이",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "\"로보택시 유상 이용 2028년 목표…택시업계 참여 모델 논의\"[일문일답]",
+          "url": "https://www.news1.kr/realestate/general/6328934",
+          "source": "뉴스1",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    "t1": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-24T06:09:00+09:00",
+      "lastSeen": "2026-10-24T06:09:00+09:00",
+      "news": []
     }
   },
   "sections": {
@@ -847,6 +1069,24 @@
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnb1ZTVjdNdFVQWTNIeHVsaC1SeU5Hbnl3Rk0xdnNWSkJBSjZqM0dUUVhUTTdtOUR1a09valk1OGZDSXdMd3FxOHVyQkRqLUpLZnEtNnN3dGt3ejQ1RU9fVHAtWFlGM2pDckZJaFJiZFNNQQ?oc=5",
         "source": "한겨레",
         "date": "2026-10-22"
+      },
+      {
+        "title": "[단독] LG, 현대차 '로봇 사업 수장' 전격 영입…피지컬 AI 인재 쟁탈전",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pTWdGQzM4WlBjYThzYS13ZGt0N29VLThlLTVYbUs1VmdRdW9oRjJoX2Fxa3Y3c1lSNXJ1djVnSW4yV01MMDJOV1FCLXNVLWpRVzhoUjl0RGF4Zw?oc=5",
+        "source": "한국경제",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "AI 에이전트도 '빨리빨리'...한국, 오픈AI '닷츠' 이용 세계 3위",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BRm8zeWtMbmRiWVE2Tk1tV0dsRXUtWXFsX0NLYUUwN3RZR2NZX1Q2SHpwYmozWjBfbFZhWndTUmJGNlhBeE1YTTRlX2RQcGpKakZpbmZPeEdYTVdnT205eVU1N1FOSENVMFE?oc=5",
+        "source": "AI타임스",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "넥슨 '아주르 프로밀리아', 11월 26일 정식 출시",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwYVlKLTNmTnNIV19jRWtNRXF1VHN0MzN6d1F0RTBGZ2liNnliQ3ZCbjNQWmh3dW4tZjIyMzUtTm9rUnhSdG1mZlJpSDlMdWJlUzRfUzRCcnFpVGNJa3c?oc=5",
+        "source": "인벤",
+        "date": "2026-10-23"
       }
     ],
     "ENTERTAINMENT": [
@@ -1349,6 +1589,60 @@
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWbUVwWmZuZTBFcV95MGhNdzE4dWNxR3lkM1gwNkNBdVh2bjZYb04wTk5weldqdVlIcVhNVS1ZSy1Nc3hySjJqQnQwQ1A1ZkliV3p1V010SHBJX3ZQdVE?oc=5",
         "source": "인벤",
         "date": "2026-10-22"
+      },
+      {
+        "title": "[프로야구] 한화, 김광삼 투수코치·진종길 코치 영입...류지현호 체제 정비",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lMW5fWlFjRlo5X2hoTlcwZzk3VktRQ2VrbWRMWWp2LXVxTUNXR2dBVDJxTnQwOEZ4WEJ3UEJ2V1hKaVNpRXp1MlJxWkxTbmtGWl9CODhBRXpER0Vl?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "'7번'으로 불리는 손흥민, 주장 계속 맡을까?",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50UlU3eWJfSVh2RWJHOXRNVjBoU1p4eW5rMEhoMFNaOTN5Ylg0aXd2a3VKOFA1TU5qYXBlak4tWjA0LVN1c1NqS1Y3NjJRQkRPLVR6a2tDZWFJeVBkUHc?oc=5",
+        "source": "YTN",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "인천유나이티드, 10월 24일 제주전 ‘인천국제공항공사 브랜드데이’ 개최",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jbFUtejE0YlVaaWpEVVdzOUNFVU1BM2lWUDFqMEZpVWtOV3VzMWFWUmdQT1lkUmNoMkh5YWdMZHllYkU4bVNfZnpYQzF5YnpwUEppOEV0dGI2UmVlNmZHX3RWYkdjdW9pV3c?oc=5",
+        "source": "경기도민일보 미디어",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "병역 특례 제도, 국민 눈높이에서 다시 보자",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45YXVkTHAwTERMWFRvRFRPZVVZR3RwNUtPekJBZFRRZFpRSG11bG1xVFBhOU5yWGxtOFdUZHJSRXBIcTVnSEZTbnRTNGNfQ0pORS1CM2hDWHB3R29zOVNnZFJQSEo0QQ?oc=5",
+        "source": "엠뉴스",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "이승엽과 작별 요미우리, 새 감독은 또 순혈…‘전설’ 마쓰이 히데키 선임",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMVlaNDE5Q0NmZHRoWGE3am5LZUR2bFJ2QnhUSmJNRGZkNXNqSl8wZ194M3d4Rk1JZmpRTGpJWkwxWDB5aWhLLTBDOWU3emwzTjBqMG1kcnNDcmJFeGRyZ3FqUjQzNEVDNVd3eHc2bmpKTzhoSVZKLUFRUnN0OUhzZlVCX1ZfUkdxTkNrbw?oc=5",
+        "source": "서울신문",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "신상훈·김시우, 이틀째 제네시스 챔피언십 선두권 유지",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rLU43dkx3dFpPNHhHMXdiM25MSlpxUXRMRkp3d2hxUl81d1B2YnV3OFNwek5qalRNVkY2ZFB2RHphcFl0bXdzbmVrd01yUXpT?oc=5",
+        "source": "문화일보",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "‘아이치·나고야 아시안패러게임’ 탁구 김기태, 서양희와 일군 값진 은메달",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wZHpEUmw2X0VZa0ZXTGFTQkJpTjNjRzZFVVBxOC1qb3NOZnM5V0ZhRGo3THRVSUEzLWw3YjR5Q0MyaENTa0U0T0YtZU4zejRCcFY3ZG5ldkk4YWZKZ3VXYVRHNnJaVUhUVFh4blZn0gFyQVVfeXFMTUZ4OTRrcWg5ejczNVZPOUtQemFmWXRZWnhmUTFvVFpzRWVqYUUzVW1fOWhWTkcxOGptY3JCQ25MdHZsd0FWRDMxVHpWMkg1TTQ5UDN1eEJ2R05wdlFvQjBmcm05ZjMwYWZ3ZTVjQjNlRUJ3?oc=5",
+        "source": "에이블뉴스",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "밀워키 에이스 vs ���파베이 베테랑…MLB 월드시리즈 1차전 선발 대결",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16elNqQmZCd2xpQm8tNEJGS055SUFDS2pLYXZKVUc3TW1JS2JXOGk3M0NLLVEwZ1psVHdVVnFnOXRHUTg4OUw4NFJzd3kzTnRBOFZwTG4temtOT1JYX2ZkSWVHYmpqdUE?oc=5",
+        "source": "한겨레",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "\"은퇴 의사 없다\" KIA 우승까지 함께 했는데 방출 칼바람…이들의 운명은?",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWmVmbFBYVzJHbjBSNlFLR3lzSF9qZ3VtLWpfdVFwRnFrWEM4Y1p6UGZzSmRGc2VSS2FOTHlWcnpkX1d3aGNEamFLdXhKd2hLQm9nd3VBQmtwalFWWjdxTklBWFIwWEdkZ3FqZ1VURVlDVFE5N1VjeGY2eXBNVHk3a2JYUQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-23"
       }
     ]
   }
