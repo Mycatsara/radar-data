@@ -996,6 +996,266 @@
           "date": "2026-10-24"
         }
       ]
+    },
+    "kia 대 삼성": {
+      "count": 1,
+      "maxTraffic": 100000,
+      "firstSeen": "2026-10-25T14:07:00+09:00",
+      "lastSeen": "2026-10-25T14:07:00+09:00",
+      "news": [
+        {
+          "title": "태풍 ‘참피’에 프로야구 플레이오프 1차전 취소…26일 재개",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694496",
+          "source": "KBS 뉴스",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "[포토] 최형우 '제가 떠나도 잘하네요 KIA' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/25/2026102513010010274",
+          "source": "머니투데이",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "프로야구 플레이오프 1차전 페덱 vs 네일 선��� 투수 빅뱅",
+          "url": "https://www.yna.co.kr/view/AKR20261023123700007",
+          "source": "연합뉴스",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "사고": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-25T14:07:00+09:00",
+      "lastSeen": "2026-10-25T14:07:00+09:00",
+      "news": [
+        {
+          "title": "인천서 노루 잡으려다 밭일하던 할아버지 쏜 60대 남성 조사",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6860424_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "노루 잡으려다 밭일 80대 노인에 발포…엽총 사고로 1명 부상",
+          "url": "https://www.munhwa.com/article/11626023",
+          "source": "문화일보",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "‘유해 야생 동물’ 고라니 잡으려다 밭일 하던 주민 다치게 한 60대 엽사…과실치상 혐의로 조사",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334954",
+          "source": "인천일보",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "땅집고": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-25T14:07:00+09:00",
+      "lastSeen": "2026-10-25T14:07:00+09:00",
+      "news": [
+        {
+          "title": "\"목에 칼 들어와도 안 사\" 다주택자 개그맨, 3개월 뒤 '코스피' 보니",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/23/2026102301872.html",
+          "source": "땅집고",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "“목에 칼이 들어와도 지금 투자 안해” 3개월 전 황현희 말 재조명",
+          "url": "https://www.munhwa.com/article/11624418",
+          "source": "문화일보",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "\"목에 칼 들어와도 지금 주식 안 산다\"…황현희 3개월 전 경고 섬뜩",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6324667",
+          "source": "뉴스1",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "대나무": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-25T14:07:00+09:00",
+      "lastSeen": "2026-10-25T14:07:00+09:00",
+      "news": [
+        {
+          "title": "“대나무 푹 끓였더니 석유가 나왔다!”…이게 말이 된다고?",
+          "url": "https://www.khan.co.kr/article/202610250900011",
+          "source": "경향신문",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "“이제 한국도 산유국되나요?”…대나무 끓였더니 석유가 나왔다는데",
+          "url": "https://www.mk.co.kr/news/it/12184980",
+          "source": "매일경제",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "대나무 연료는 배출량을 26��까지 줄일 수 있습니다.",
+          "url": "https://www.vietnam.vn/ko/nhien-lieu-tu-tre-co-the-giam-phat-thai-26-lan",
+          "source": "Vietnam.vn",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "kbo": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-25T14:07:00+09:00",
+      "lastSeen": "2026-10-25T14:07:00+09:00",
+      "news": [
+        {
+          "title": "Samsung Lions turn to Lee Seung-min as closer after Kim Jae-yoon injury",
+          "url": "https://www.koreajoongangdaily.com/sports/samsung-lions-turn-to-lee-seungmin-as-closer-after-kim-jaeyoon-injury/12936627",
+          "source": "Korea JoongAng Daily",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Kim Jae-yoon injury sidelines closer despite 35-save season - CHOSUNBIZ",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/25/FABU2LDEJJGCJK3MVTSC34C4YM/",
+          "source": "Chosunbiz",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Lions reliever eager for shot at revenge in KBO postseason",
+          "url": "https://en.yna.co.kr/view/AEN20261025003200315",
+          "source": "Yonhap News Agency",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "이세돌": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-25T14:07:00+09:00",
+      "lastSeen": "2026-10-25T14:07:00+09:00",
+      "news": [
+        {
+          "title": "이세돌, 20kg 맥주통 메고 야구장 누벼",
+          "url": "https://www.segye.com/newsView/20261024501646",
+          "source": "세계일보",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "[잇슈 컬처] 알파고 이긴 이세돌 취업 도전…KBS2 ‘백수 이세돌’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693181",
+          "source": "KBS 뉴스",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "'알파고와 대국' 이세돌, AI로 대체 힘��� 직업 찾았다",
+          "url": "https://www.newsis.com/view/NISX20261023_0003839041",
+          "source": "뉴시스",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "저수지": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-25T14:07:00+09:00",
+      "lastSeen": "2026-10-25T14:07:00+09:00",
+      "news": [
+        {
+          "title": "[속보]심야 저수지 낚시터서 초등학생 물에 빠져 숨져",
+          "url": "https://www.munhwa.com/article/11625965",
+          "source": "문화일보",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "안성 낚시터서 초등생 물에 빠져 숨져…수색 3시간여 만에 발견",
+          "url": "https://www.donga.com/news/Society/article/all/20261025/134902043/1",
+          "source": "동아일보",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "가족과 저수지 낚시터 놀러왔다가 그만···초등생, 안성서 물에 빠�� 숨져",
+          "url": "https://www.khan.co.kr/article/202610250850001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+          "source": "경향신문",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "즉석밥": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-25T14:07:00+09:00",
+      "lastSeen": "2026-10-25T14:07:00+09:00",
+      "news": [
+        {
+          "title": "[산업X파일] \"밥은 직접 해야\" 통념 깬 서른살 햇반, 미국인 식탁도 바꿀까",
+          "url": "https://www.chosun.com/economy/market_trend/2026/10/25/OOLGODML2ZBDLCBKYPE3DCZELQ/",
+          "source": "조선일보",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "“반도체 공정 수준 무균화 기술”…보존료 없이도 9개월간 신선한 햇반의 비밀",
+          "url": "https://www.donga.com/news/Economy/article/all/20261024/134901381/2",
+          "source": "동아일보",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "\"연 2.8억개 뚝딱, 반도체 공장 같네\" CJ표 '햇반' 9개월 유통기한 비결 - 머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/10/25/2026102210020814370",
+          "source": "머니투데이",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "김연경": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-25T14:07:00+09:00",
+      "lastSeen": "2026-10-25T14:07:00+09:00",
+      "news": [
+        {
+          "title": "김연경 “감독 다시 안 한다”…첫경기 만에 시즌3 거부 의사('신인감독 김연경')",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015177",
+          "source": "SPOTV NEWS",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "황연주 터졌다... 김연경, 한일전 뼈아픈 패배 딛고 ‘소름 돋는 용병술’",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/GQ2GCYTFGIYDEYRWMY2GGYJUGA/",
+          "source": "조선일보",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "감독 다신 안 해?! '신인감독 김연경2', 폭탄 발언에 '술렁'",
+          "url": "https://www.etnews.com/20261025000027",
+          "source": "전자신문",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "삼성 엑시노스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-25T14:07:00+09:00",
+      "lastSeen": "2026-10-25T14:07:00+09:00",
+      "news": [
+        {
+          "title": "삼성 ‘엑시노스 2700’, 내부 시험서 퀄컴 최신 AP 앞서…멀티코어 성능 약 20% 우위 - 조선비즈",
+          "url": "https://biz.chosun.com/it-science/ict/2026/10/25/LYNO7ACPWRECDA5UDZRHHMLA6E/",
+          "source": "Chosunbiz",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "삼성 '엑시노스 2700', 성능 시험서 퀄컴 최신칩 앞서",
+          "url": "https://www.yna.co.kr/view/AKR20261023080600003",
+          "source": "연합뉴스",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "엑시노스 2700, 차세대 스냅드래곤 앞섰다…갤럭시 탑재 확대 기대",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313863",
+          "source": "스트레이트뉴스",
+          "date": "2026-10-25"
+        }
+      ]
     }
   },
   "sections": {
