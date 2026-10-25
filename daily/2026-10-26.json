@@ -482,6 +482,266 @@
       "firstSeen": "2026-10-26T05:33:00+09:00",
       "lastSeen": "2026-10-26T05:33:00+09:00",
       "news": []
+    },
+    "스토킹": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-26T08:04:00+09:00",
+      "lastSeen": "2026-10-26T08:04:00+09:00",
+      "news": [
+        {
+          "title": "‘스토킹 신고’ 여성 또 숨져…40대 남성 검거",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694566",
+          "source": "KBS 뉴스",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "'고위험'이라더니‥경찰 관리 풀린 뒤 참변",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6860641_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "전 연인 살해 후 해외 도주 시도…18시간 만에 강릉서 체포",
+          "url": "https://news.jtbc.co.kr/article/NB12324738",
+          "source": "JTBC",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "天気": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-26T08:04:00+09:00",
+      "lastSeen": "2026-10-26T08:04:00+09:00",
+      "news": [
+        {
+          "title": "【速報】台風30号は温帯低気圧に変わりました 九州から関東は27日にかけ大雨警戒（tenki.jp）",
+          "url": "https://news.yahoo.co.jp/articles/9e61f932b737d65282fe31c50dda3feccb57f334",
+          "source": "Yahoo!ニュース",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "台風30号は温帯低気圧に 西～東日本で大雨のおそれ",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261024de64932",
+          "source": "NHKニュース",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "2026/10/26 全国の天気予報 朝 ～西日本の太平���側は大雨に警戒～",
+          "url": "https://www.chiba-tv.com/plus/detail/2026102157422",
+          "source": "千葉テレビ放送株式会社",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "lyon": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-26T08:04:00+09:00",
+      "lastSeen": "2026-10-26T08:04:00+09:00",
+      "news": [
+        {
+          "title": "Lorenzo Musetti, vainqueur de l'ATP 250 de Lyon après une belle semaine : « L'esprit de combat a été la clef »",
+          "url": "https://www.lequipe.fr/Tennis/Actualites/Lorenzo-musetti-vainqueur-de-l-atp-250-de-lyon-apres-une-belle-semaine-l-esprit-de-combat-a-ete-la-clef/1738545",
+          "source": "L'Équipe",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Musetti – Fritz : heure, chaîne TV et analyse de la finale ATP 250 de Lyon",
+          "url": "https://www.universtennis.com/2026/10/24/atp-250-lyon-musetti-fritz-une-finale-de-haut-niveau-pour-la-premiere-du-tournoi/",
+          "source": "Univers Tennis",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Tennis : à Lyon, Musetti brise enfin sa malédiction",
+          "url": "https://pensebet.com/tennis-musetti-titre-atp-lyon-fritz/",
+          "source": "PenseBet",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "บาร์ซา พบ เรอัลมาดริด": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-26T08:04:00+09:00",
+      "lastSeen": "2026-10-26T08:04:00+09:00",
+      "news": [
+        {
+          "title": "[สตรมความคมชดสง (HD)] บารเซโลนา พบ เรอล มาดรด",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9ib2thLyIvPjwva3JwYW5vPg==&id=video-hd-newtv-03",
+          "source": "FC東京オフィシャルホームページ",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! บาร์เซโลน่า vs เรอัล มาดริด Barcelona vs Real Madrid ถ่ายทอดสด 25 ตุลาคม 2569",
+          "url": "https://fabrykanorblina.pl/wp-content/uploads/spacer/index.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-vs-barcelona-vs-real-madrid-lie-en-hijrkgv",
+          "source": "Fabryka Norblina",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "[ชมฟร] การแขงขนระหวาง บารเซโลนา พบ เรอล มาดรด",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9ib2thLyIvPjwva3JwYW5vPg==&id=video-%E0%B8%8A%E0%B8%A1%E0%B8%9F%E0%B8%A3-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%82%E0%B8%87%E0%B8%82%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%87-%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8B%E0%B9%82%E0%B8%A5%E0%B8%99%E0%B8%B2-%E0%B8%9E%E0%B8%9A-%E0%B9%80%E0%B8%A3%E0%B8%AD%E0%B8%A5-%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%A3%E0%B8%94-newtv",
+          "source": "FC東京オフィシャルホームページ",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "天气": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-26T08:04:00+09:00",
+      "lastSeen": "2026-10-26T08:04:00+09:00",
+      "news": [
+        {
+          "title": "US south-west braces for more storms after enduring days of rain and flooding",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
+          "source": "The Guardian",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "More flooding possible in Four Corners region after days of heavy rain",
+          "url": "https://www.nbcnews.com/weather/storms/flooding-possible-four-corners-region-days-heavy-rain-rcna605577",
+          "source": "NBC News",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Flash-flood threat continues in the Southwest, but outlook is improving",
+          "url": "https://abcnews.com/US/flash-flood-threat-continues-southwest-midwest-outlook-improving/story?id=137550606",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "이시영": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-26T08:04:00+09:00",
+      "lastSeen": "2026-10-26T08:04:00+09:00",
+      "news": [
+        {
+          "title": "이시영, 수영복 입고 수유…\"제일 중요한 일과\"",
+          "url": "https://www.newsis.com/view/NISX20261025_0003840220",
+          "source": "뉴시스",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "‘이혼’ 이시영, 전 남편 동의없이 임신한 둘째 딸 럭셔리 돌잔치…행복한 세 식구[핫피플] - 조선비즈",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/26/MQ2WKZTBG43DIY3DMY2TAZDBGA/",
+          "source": "Chosunbiz",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "이시영, 수영복 입고 딸 분유 수유…품에 안고 엄마 미소 [N샷]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6331182",
+          "source": "뉴스1",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "lcs": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-26T08:04:00+09:00",
+      "lastSeen": "2026-10-26T08:04:00+09:00",
+      "news": [
+        {
+          "title": "BB to run alternative to SWIFT for local LCs",
+          "url": "https://www.newagebd.net/post/banking/319567/bb-to-run-alternative-to-swift-for-local-lcs",
+          "source": "New Age BD",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "KC Canna on LEC teams’ chances: \"Reaching the semifinals or beyond is a realistic possibility\"",
+          "url": "https://www.sheepesports.com/en/articles/kc-canna-reaching-the-semifinals-or-beyond-is-a-realistic-possibility/en",
+          "source": "Sheep Esports",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "TL Josedeodo On The Struggles Vs BLG: \"We Never Forced The Situations.\"",
+          "url": "https://www.hotspawn.com/league-of-legends/news/tl-josedeodo-worlds-2026-interview",
+          "source": "Hotspawn",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "barca": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-26T08:04:00+09:00",
+      "lastSeen": "2026-10-26T08:04:00+09:00",
+      "news": [
+        {
+          "title": "Partita di calcio in diretta: Barcellona 0-0 Real Madrid: Occhio per occhio (Primo tempo)",
+          "url": "https://www.vietnam.vn/it/truc-tiep-bong-da-barca-0-0-real-madrid-an-mieng-tra-mieng-h1",
+          "source": "Vietnam.vn",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "📸 Comiche al Clásico! Il Barça regala il vantaggio a Ginocchio-lian Mbappé",
+          "url": "https://onefootball.com/it/notizie/comiche-al-clasico-il-barca-regala-il-vantaggio-a-ginocchio-lian-mbappe-43671935",
+          "source": "OneFootball",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "E' la notte di Mbappé, un Clasico da Pallone d'Oro: stende il Barcellona, fa 100 con il Real Madrid e \"batte\" Benzema e Cristiano Ronaldo",
+          "url": "https://www.calciomercato.com/liste/e-la-notte-di-mbappe-un-clasico-da-pallone-d-oro-stende-il-barcellona-fa-100-con-il-real-madrid-e-batte-benzema-e-cristiano-ronaldo/bltdb9af1935e4d108c",
+          "source": "Calciomercato",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "이다해": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-26T08:04:00+09:00",
+      "lastSeen": "2026-10-26T08:04:00+09:00",
+      "news": [
+        {
+          "title": "이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\"",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839708",
+          "source": "뉴시스",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "이다해, 성형 의혹…\"中 스태프와 작업한 새로운 내 모습\" 직접 해명",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6330864",
+          "source": "뉴스1",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "\"나에게도 낯선 모습\"…이다해, 성형설 직접 해명 나선 속사정 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102421295420245",
+          "source": "머니투데이",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "손지창": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-26T08:04:00+09:00",
+      "lastSeen": "2026-10-26T08:04:00+09:00",
+      "news": [
+        {
+          "title": "손지창, 26년째 이벤트 회사 운영…\"최대 연 매출 60억\"",
+          "url": "https://www.newsis.com/view/NISX20261025_0003840218",
+          "source": "뉴시스",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "\"연 매출 60억\" 손지창, 배우 활동 뜸하더니...26년째 이벤트 회사 운영",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-25/202610250100157940010284",
+          "source": "스포츠조선",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "손지창, 26년째 이벤트 회사 운영…“최대 연 매출 60억”",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261026/134906634/1",
+          "source": "동아일보",
+          "date": "2026-10-25"
+        }
+      ]
     }
   },
   "sections": {
@@ -1600,6 +1860,66 @@
         "title": "이원성 경기도체육회장 \"2027년 화성 전국체전 6연패 도전\"",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zWjRheDdhYWJPcVY4NkhGdzRZZllzVjBfX3ZiV1lWNFpaVFNkdjdVUTM5UVdQa1NDa2xpblJXajhCcGxMWDRFLW4wRmEtZjU4a21abWRmQ2lWUkV4LVpuUEhoOVRfYlViT1JKXzE0bko?oc=5",
         "source": "산경일보",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "2년전 희비 가른 ‘가을비’…올해 달빛시리즈는 과연?",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5RVRfaG9jY01KUFlIUllhLUhVZmJwNXpUU09IRUd1NVQwZlNPYWw4ZDI2NDJleXNtckVRRTNtTm9RWWpMTEZBdzFxVjlacXpIOWpJRWh4M0dIeGlob0ZzM2lDdkU2Zw?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "이래서 롯데 단장 면접 봤나…이택근 과거 발언 화제, \"롯데 매년 하위권 왜? 부담 느끼는 선수들 많기 때문\"",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSEtZeE5Jall1Q2tVeWxFZTNkSFphVEt5alZDaXdia0NqeEkzMWcxeTIyMjRDMHdTTUNzWFRyZm5WaDNHUFhaSVFkOFpBQUctQ0hfbnNubHJnbWdPaERYd2FTcXo2RGtLdTdwWk5fVTdmX3VoY0ZCek9lZTRoSHJaS2pCMA?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "성남FC, 선두 수원삼성과 격돌…홈에서 설욕전 : 스포츠",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45cjZvUnJJS2JqQThrenFBT1Q2bDZkbWlVX2pidkJwdlNTMEdqV3FGcnRadjhrX2tSYkdRRTBNS21MOTlzQmF5QTNfWQ?oc=5",
+        "source": "재경일보",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "서울의 우승 주역은 외국인 클리말라-바베츠-야잔-로스…코어라인 지탱한 이들 덕분에 V7-10년 만의 정상탈환 성공!",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53em9BYm9vSXh4UXZJanVIQk56c1h5WGFKSWdwWVlBS2g5bVJJSkR0a1FGZ0poR0h4QmgyZktXbUN2RW15WDE0WEFVVmxXSTExUXVoYTh0aTZyRzd4RHJGbjJLdGZvMkxjeV9XQ3lOVEFLZw?oc=5",
+        "source": "스포츠동아",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "‘케트진스키 25득점’ 대한항공, KOVO컵 2연패 달성",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDTDZjT1FoN3MwbHB6YzU3ZF8yZnhQWDBQLWUwc0N6SjdiR1l0SUx4V25EaWFqdDdFY21hcGExeEdkTWhrQTEyaFBabWdZYlJlVkk0WnViS2pkSU9EaWJRQUZHWG1GTVVxdVR0Zg?oc=5",
+        "source": "경상일보",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "밀워키, MLB 월드시리즈 2연승…‘창단 첫 우승까지 2승’",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDTkhxbW1fa2dhLUp3eHVrYl9MV2hlSXZCT2J6eHBkaC1OUmNaMl85WVA5eWg5LUJleldfZVRuSEFMY1lGYkNTUnNNc2h3eWtUM0FjZUNQZ25kVzA?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "차준환 공백, 서민규가 메웠다…피겨 시니어GP 데뷔전서 동메달",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzVm5IQ1BjcWJWeF9ObHpVTjhvUUJEYjktSUhGS1pDSTJLQWpSZ1g5RUhydW1NUnJWVzk0R1c2MXFncjRzVmJlSTY3ZE9WSzEyRmlseV9FQ1kxaEt5UGpTS3hQRzdLdw?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "쇼트트랙 최민정, 대표팀 은퇴 시즌 맞나…1,000ｍ 金·계주 銀(종합)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KWF90Y0NuS1ZxaW8ydXc0a05zdU1QSHJzelBPVVVSa2g3LTdoY1V5b3cwdzhTREV2YzI2ZklpOFA3Y09Tc29KZGI5QUtyU0FUVHFsMmw0NDJsUW_SAWBBVV95cUxNNTBNa3ExZUNpcWxOY29odnl2Mm9iSTN6alRKQks3MllGRUFINXpLZzZINXFaam5QVWtpbXNTay1yODRzU3d0bUNZV3c3cmNoM1pFamhmRWZ0elRDZHgtekU?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "[제네시스 챔피언십] FR. 우승자 유토 카츠라가와, T4 김시우, 신상훈 인터뷰",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OZU55NUE0WURXTklpM05rYW5JVmE2R0Y4bFY0YVp6Y3haNTB2eDBrNlJkR0VHSV9BUXg2X2J6NENYTzY2b3FvYlJqWDhoYVByakVvQWVXYjBwZU85?oc=5",
+        "source": "누리일보",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "'첫 승 도전' 김보미 vs '통산 6승' 임정숙, LPBA 결승서 격돌",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSXhxc2RLb2lpRUVyZ3ZpdEJZQ0FLOXN5Vmg0MlpCUHdQbUJHNDRERXdpOGQ5MnRnM2JuSEdyV2xGOWRaVEkxLUVZbjU4T3RkZ2dDMVhfTW4wOVnSAWBBVV95cUxOMm5WOFU0dkpEOXZkQmh3ZGVJelFFOXlYZTdobUwwNGl3X29ZZDhfaFBtSldOTlo0ZUtkTXlDRnctNGloYmh3YjZjZlBXWl83MGozeXZtRk9ITklrTUdVNkI?oc=5",
+        "source": "연합뉴스",
         "date": "2026-10-25"
       }
     ]
