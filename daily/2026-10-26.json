@@ -1002,6 +1002,247 @@
           "date": "2026-10-25"
         }
       ]
+    },
+    "리디아고": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-26T16:32:00+09:00",
+      "lastSeen": "2026-10-26T16:32:00+09:00",
+      "news": [
+        {
+          "title": "靑, '김혜경 여사 골프' 보도에 \"'따옴표 보도'는 언론 책임 방기\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6860734_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "주진우 “김혜경, 황제 골프레슨”…靑 “허위 사실 보도에 책임 묻겠다”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261026/134910317/1",
+          "source": "동아일보",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "“김혜경 여사, 태릉CC서 프로골퍼에 ‘황제레슨’”",
+          "url": "https://www.munhwa.com/article/11626283",
+          "source": "문화일보",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "미래에셋생명": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-26T16:32:00+09:00",
+      "lastSeen": "2026-10-26T16:32:00+09:00",
+      "news": [
+        {
+          "title": "미래에셋생명서도 정보 유출 확인…보험사 중 첫 해킹 사고",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695247",
+          "source": "KBS 뉴스",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "미래에셋생명, 사이버 공격으로 고객정보 유출…대상·항목 파악 중",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353026",
+          "source": "녹색경제신문",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "미래에셋생명, ��인정보 유출 발생…보험사 첫 해킹 사고",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441148",
+          "source": "연합인포맥스",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "이창호": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-26T16:32:00+09:00",
+      "lastSeen": "2026-10-26T16:32:00+09:00",
+      "news": [
+        {
+          "title": "‘돌부처’ 이창호, 세계 바둑 첫 2000승",
+          "url": "https://www.chosun.com/national/people/2026/10/26/IZQ3T4KME5EWJLSPBTBYWDWS2M/",
+          "source": "조선일보",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "`돌부처` 이창호 9단, 2000번의 승리 거머쥐다",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0500&key=20261026.99099007523",
+          "source": "국제신문",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "이창호 9단, 프로기�� 최초 통산 2,000승 달성…입단 40년 2개월 만의 금자탑",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434851",
+          "source": "데일리스포츠한국",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "대전광역시": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-26T16:32:00+09:00",
+      "lastSeen": "2026-10-26T16:32:00+09:00",
+      "news": []
+    },
+    "코리아 오픈": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-26T16:32:00+09:00",
+      "lastSeen": "2026-10-26T16:32:00+09:00",
+      "news": [
+        {
+          "title": "안세영, 시즌 10번째 우승…프랑스오픈 3연패",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694712",
+          "source": "KBS 뉴스",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "\"안세영, 남녀·단복식 통틀어 가장 압도적!\" 신두 믿었던 印 언론도 결국 인정..\"누구도 못 꺾는 무적의 여왕, 위대함 잠재울 수 없었다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/26/202610261407772889O",
+          "source": "머니투데이",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "승률 98.5%, ‘50연승’ 안세영···‘전설’ 기록 머지않았다 [플랫]",
+          "url": "https://www.khan.co.kr/article/202610261051001",
+          "source": "경향신문",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "임영웅 아임 히어로 더 스타디움": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-26T16:32:00+09:00",
+      "lastSeen": "2026-10-26T16:32:00+09:00",
+      "news": [
+        {
+          "title": "임영웅 콘서트 실황 영화 내달 개봉…고양 스타디움 공연 담아",
+          "url": "https://www.yna.co.kr/view/AKR20261026040800005",
+          "source": "연합뉴스",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "‘누적 관객 100만’ 쓴 임영웅, 대기록의 감동 스크린으로 이어진다",
+          "url": "https://www.viva100.com/article/20261026500486",
+          "source": "브릿지경제",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "임영웅 '아임 히어로 더 스타디움 2', 11월 18일 CGV 단독 개봉",
+          "url": "https://www.newspim.com/news/view/20261026000662",
+          "source": "뉴스핌",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "왕옌청": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-26T16:32:00+09:00",
+      "lastSeen": "2026-10-26T16:32:00+09:00",
+      "news": [
+        {
+          "title": "\"왕옌청, 확실히 다르더라\" 류지현 감독도 첫눈에 알아봤다…상대편에서 식구로, 11승 아시아쿼터 잔류에 '미소' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/26/202610261450774002O",
+          "source": "머니투데이",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "왕옌청 붙잡은 한화 협상력, 페라자 앞에서도 통할까…‘대안’조차 밝히지 않는 이유",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1622478",
+          "source": "MHN스포츠",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "'무려' 한화 승리 ¼ 책임졌는데 '왜' 왕옌청 몸값 고작 30만 달러인가, 내년 아시아쿼터 수준 높일 수 있나 [류선규의 비즈볼] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/22/2026101811073891063",
+          "source": "머니투데이",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "코스트코 평택점": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-26T16:32:00+09:00",
+      "lastSeen": "2026-10-26T16:32:00+09:00",
+      "news": [
+        {
+          "title": "교통개선대책 미완료 속 ‘평택 코스트코’ 불법 영업 논란",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261025010008377",
+          "source": "아시아투데이",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "평택 '코스트코'의 영업, 불법or합법 논란",
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=746843",
+          "source": "폴리뉴스 Polinews",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "'코스트코 평택점' 교통대책 미완료 논란",
+          "url": "https://www.hankukdaily.co.kr/news/articleView.html?idxno=12419",
+          "source": "데일리경기신문",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "나솔": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-26T16:32:00+09:00",
+      "lastSeen": "2026-10-26T16:32:00+09:00",
+      "news": [
+        {
+          "title": "'나솔' 31기 변호사 상철, 결혼한다…'순자 왕따 기수'서 나온 첫 경사",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015294",
+          "source": "SPOTV NEWS",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "'나는 솔로' 31기, 상철 결혼 앞두고 단체 모임…옥순·영숙 등 불참에 불화설 재조명",
+          "url": "https://www.segyenewsagency.com/news/articleView.html?idxno=643370",
+          "source": "세계뉴스통신",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "왕따 논란 ‘나솔’ 31기, 상철 결혼에 총출동…순자·영숙·옥순은 불참 [MK★이슈]",
+          "url": "https://www.mk.co.kr/news/entertain/12185799",
+          "source": "매일경제",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "경매": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-26T16:32:00+09:00",
+      "lastSeen": "2026-10-26T16:32:00+09:00",
+      "news": [
+        {
+          "title": "감정가 8억, 11억에 낙찰… 15억 이하 수도권 아파트 경매 ‘후끈’",
+          "url": "https://www.donga.com/news/Economy/article/all/20261025/134905031/2",
+          "source": "동아일보",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "서울 아파트 경매 낙찰률 21% 그쳤는데…낙찰가율은 10주 만에 최고[코주부]",
+          "url": "https://www.sedaily.com/article/20105897",
+          "source": "서울경제",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "\"수도권 중저가 아파트 괜찮은데?\"…관심 폭발",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814185",
+          "source": "SBS 뉴스",
+          "date": "2026-10-26"
+        }
+      ]
     }
   },
   "sections": {
