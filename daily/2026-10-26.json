@@ -1243,6 +1243,266 @@
           "date": "2026-10-26"
         }
       ]
+    },
+    "이태원 참사": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-26T23:56:00+09:00",
+      "lastSeen": "2026-10-26T23:56:00+09:00",
+      "news": [
+        {
+          "title": "[이태원 참사 4주기] 이태원 참사 '미공개 파일'... 실패한 국가의 초상",
+          "url": "https://newstapa.org/article/RqjHb",
+          "source": "뉴스타파",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "보랏빛으로 물든 서울광장",
+          "url": "https://www.newspim.com/news/view/20261024000106",
+          "source": "뉴스핌",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "[이태원참사 4주기]더딘 책임자 처벌, 끝나지 않은 조사···진상규명 어디까��� 왔나",
+          "url": "https://www.khan.co.kr/article/202610260600071",
+          "source": "경향신문",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "dazn": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-26T23:56:00+09:00",
+      "lastSeen": "2026-10-26T23:56:00+09:00",
+      "news": [
+        {
+          "title": "Devin Haney inks multifight deal with DAZN, wants 'biggest challenges'",
+          "url": "https://www.espn.com/boxing/story/_/id/50260336/haney-inks-multifight-deal-dazn-wants-biggest-challenges",
+          "source": "ESPN",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Devin Haney rejects Dana White’s Zuffa Boxing to sign bumper deal with DAZN",
+          "url": "https://talksport.com/boxing/4662570/devin-haney-dana-white-zuffa-boxing-dazn/",
+          "source": "talkSPORT",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Sources: Haney, Paro agree to welterweight title unification",
+          "url": "https://www.ringmagazine.com/news/sources-haney-paro-agree-to-welterweight-title-unification-XHwslKzof7wLNMDmDEIGc",
+          "source": "The Ring",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "군인": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-26T23:56:00+09:00",
+      "lastSeen": "2026-10-26T23:56:00+09:00",
+      "news": [
+        {
+          "title": "단독 국방부, '지뢰부상' 전상 입증 책임 덜어준다...법안 마련 착수",
+          "url": "https://www.ytn.co.kr/_ln/0101_202610240451066761",
+          "source": "YTN",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "[국감] 질의에 답하는 이주은 퍼플하트 사무국장",
+          "url": "https://www.news1.kr/photos/8179465",
+          "source": "뉴스1",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "이언주 의원, 지뢰피해 군인 보상 강화 3법 발��",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799326",
+          "source": "일간투데이",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "기소": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-26T23:56:00+09:00",
+      "lastSeen": "2026-10-26T23:56:00+09:00",
+      "news": [
+        {
+          "title": "국힘 \"조희대 탄핵 시도하면 장외투쟁으로 맞서 싸울것\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6860827_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "[투나잇이슈] 오세훈 2심 무죄 판결에…與 \"조희대 탄핵이 답\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261026224547hZ8",
+          "source": "연합뉴스TV",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "與, 27일 의원총회 열기로…정국 인식·내년도 예산안 등 논의",
+          "url": "https://www.donga.com/news/Politics/article/all/20261026/134908803/1",
+          "source": "동아일보",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "이세돌": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-26T23:56:00+09:00",
+      "lastSeen": "2026-10-26T23:56:00+09:00",
+      "news": [
+        {
+          "title": "이세돌, 20kg 맥주통 메고 야구장 누벼",
+          "url": "https://www.segye.com/newsView/20261024501646",
+          "source": "세계일보",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "[리뷰M] '백수 이세돌', 바둑돌 대신 맥주컵으로 놓은 신의 한 수★★★☆",
+          "url": "https://enews.imbc.com/M/Detail/522492",
+          "source": "iMBC 연예",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "[백수 이세돌] 출입문 비밀번호 잊은 선배 당황 순간에 이세��� 따뜻한 격려 “인간적인 모습 좋았다”",
+          "url": "https://kstar.kbs.co.kr/list_view.html?idx=413055",
+          "source": "KBS연예",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "여행경보": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-26T23:56:00+09:00",
+      "lastSeen": "2026-10-26T23:56:00+09:00",
+      "news": [
+        {
+          "title": "\"혼자 가지 마세요\"... 여행경보 국가 한국인 피해 폭증 [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202610260801346735",
+          "source": "YTN",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "“해외여행 전 확인하세요”…한국인 사건·사고 48% 급증",
+          "url": "https://www.mk.co.kr/news/society/12185331",
+          "source": "매일경제",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "‘진짜 위험하네’ 한국인 납치·감금 급증…���행경보발령 10개국 ‘비상’",
+          "url": "https://www.kyeonggi.com/article/20261026580073",
+          "source": "경기일보",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "jyp 엔터테인먼트": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-26T23:56:00+09:00",
+      "lastSeen": "2026-10-26T23:56:00+09:00",
+      "news": [
+        {
+          "title": "단독 일본계 자본, JYP 공개매수 예고...JYP \"제안 받은 바 없어\"",
+          "url": "https://www.ytn.co.kr/_ln/0106_202610262330210425",
+          "source": "YTN",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "JYP엔터테인먼트, 日 투자그룹 지분 인수설 일축…\"제안받은 바 없다\"",
+          "url": "https://www.newsis.com/view/NISX20261026_0003841955",
+          "source": "뉴시스",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "일본계 투자사 \"JYP 지분 25��50% 인수추진\"…JYP \"제안 無\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026223007zyZ",
+          "source": "연합뉴스TV",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "ballon d'or": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-26T23:56:00+09:00",
+      "lastSeen": "2026-10-26T23:56:00+09:00",
+      "news": [
+        {
+          "title": "Kane Frontrunner for Ballon d’Or After 25-Year Gap",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/26/4A57MTEGGZD6DBQTRXN4WCUAGA/",
+          "source": "조선일보",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Ballon d'Or predictions: Will Lamine Yamal, Harry Kane, Kylian Mbappe or Lionel Messi win?",
+          "url": "https://www.bbc.com/sport/football/articles/cqjdmn0ndxjxo",
+          "source": "BBC",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Where to watch the 2026 Ballon d'Or ceremony: TV broadcast partners, live streams | Ballon d’Or",
+          "url": "https://www.uefa.com/ballondor/news/02aa-21e300b43166-1cde2af6c1f4-1000--where-to-watch-the-2026-ballon-d-or-ceremony-tv-broadcast-p/",
+          "source": "UEFA.com",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "persija jakarta vs persik": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-26T23:56:00+09:00",
+      "lastSeen": "2026-10-26T23:56:00+09:00",
+      "news": [
+        {
+          "title": "Persija vs Persik Kediri Final Score 3-1: Rizky Ridho Leads Macan Kemayoran Comeback",
+          "url": "https://aktualita.co/en/sports/persija-vs-persik-kediri-final-score-3-1-rizky-ridho-leads-macan-kemayoran-comeback-ivan-mamut-scores-final-goal",
+          "source": "Aktualita.co",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Live Streaming Link for Persija Jakarta vs Persik Kediri Tonight, October 26, 2026: Indosiar and Vidio Broadcast Schedule",
+          "url": "https://aktualita.co/en/sports/live-streaming-link-for-persija-jakarta-vs-persik-kediri-tonight-october-26-2026-indosiar-and-vidio-broadcast-schedule",
+          "source": "Aktualita.co",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Persija Jakarta vs Persik Kediri Live Score Today, October 26, 2026: Latest Score, Lineups, and Match Updates",
+          "url": "https://aktualita.co/en/sports/persija-jakarta-vs-persik-kediri-live-score-today-october-26-2026-latest-score-lineups-and-match-updates",
+          "source": "Aktualita.co",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "ai 버블": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-26T23:56:00+09:00",
+      "lastSeen": "2026-10-26T23:56:00+09:00",
+      "news": [
+        {
+          "title": "“내년 AI버블 꺼지면 삼전닉스 직격” … 한은이 내놓은 최악 시나리오",
+          "url": "https://www.mk.co.kr/news/business/12185966",
+          "source": "매일경제",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "\"AI 붐 붕괴 시 증시 20조달러·채권 2천억달러 손실\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441082",
+          "source": "연합인포맥스",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "\"AI 거품·고금리 여파…11월 이후 신용 리스크 본격화 우려\"",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838939",
+          "source": "뉴시스",
+          "date": "2026-10-26"
+        }
+      ]
     }
   },
   "sections": {
