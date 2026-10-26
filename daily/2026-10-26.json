@@ -742,6 +742,266 @@
           "date": "2026-10-25"
         }
       ]
+    },
+    "엘에이 fc 대 la 갤럭시": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-10-26T10:30:00+09:00",
+      "lastSeen": "2026-10-26T10:30:00+09:00",
+      "news": [
+        {
+          "title": "LAFC vs. LA Galaxy: Preview, How to Watch It on TV, & Predicted Lineups",
+          "url": "https://sports.yahoo.com/articles/lafc-vs-la-galaxy-preview-200002238.html",
+          "source": "Yahoo Sports",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Los Angeles vs LA Galaxy: Major League Soccer stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c8p3gxe34edqt",
+          "source": "BBC",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Can Son Heung-min seal playoff spot in Los Angeles FC, Derby with local rivals?LAFC will play LA Gal..",
+          "url": "https://www.mk.co.kr/en/sports/12185320",
+          "source": "매일경제",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "국민은행": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-26T10:30:00+09:00",
+      "lastSeen": "2026-10-26T10:30:00+09:00",
+      "news": [
+        {
+          "title": "[MD포커스] 中 투자자·동포·결제망까지…중국 접점 넓히는 국민·신한·하나은행",
+          "url": "https://mydaily.co.kr/page/view/2026102311200667395",
+          "source": "마이데일리",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "中 국가 결제망 직결…KB스타뱅킹으로 현지 QR 결제",
+          "url": "https://www.e-focus.co.kr/news/articleView.html?idxno=3003126",
+          "source": "이포커스",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "[금융 ���시판] KB국민은행 중국 QR결제 확대·…신한·하나·우리·농협은행은",
+          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210119",
+          "source": "라이센스뉴스",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "빅테크": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-26T10:30:00+09:00",
+      "lastSeen": "2026-10-26T10:30:00+09:00",
+      "news": [
+        {
+          "title": "금리 '슈퍼위크' 시작…美·EU·日 금리 동결 전망",
+          "url": "https://view.asiae.co.kr/article/2026102607433987612",
+          "source": "아시아경제",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "[FOMC 폴] 10월 '매파적 동결' 관측…12월 인상 가능성",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441060",
+          "source": "연합인포맥스",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "유가 116달러에 FOMC·빅테크 실적까지…월가 '운명의 한 주'",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01554726645616528",
+          "source": "마켓인",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "트럭": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-26T10:30:00+09:00",
+      "lastSeen": "2026-10-26T10:30:00+09:00",
+      "news": [
+        {
+          "title": "중부내륙고속도로서 추돌뒤 화재…20대 남녀 사망",
+          "url": "https://www.donga.com/news/Society/article/all/20261026/134906509/1",
+          "source": "동아일보",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "[속보]중부내륙고속도로서 트럭-승합차 추돌…20대 남녀 사망",
+          "url": "https://www.munhwa.com/article/11626114",
+          "source": "문화일보",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "경기 양평나들목서 승합차가 14톤 화물차 들이받아..2명 숨져",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6860631_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "lula": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-26T10:30:00+09:00",
+      "lastSeen": "2026-10-26T10:30:00+09:00",
+      "news": [
+        {
+          "title": "TSE declara Lula matematicamente eleito presidente do Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cmj47lgljwj0o",
+          "source": "BBC",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "O que a Folha pensa: Lula ganha nova chance de corrigir seu governo",
+          "url": "https://www1.folha.uol.com.br/opiniao/2026/10/lula-ganha-nova-chance-de-corrigir-seu-governo.shtml",
+          "source": "Folha de S.Paulo",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Lula comemora reeleição ao lado de Janja e aliados",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-comemora-reeleicao-ao-lado-de-janja-e-aliados/",
+          "source": "Poder360",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "brazil election": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-26T10:30:00+09:00",
+      "lastSeen": "2026-10-26T10:30:00+09:00",
+      "news": [
+        {
+          "title": "Kim visits China ahead of possible Trump summit",
+          "url": "https://www.donga.com/en/article/all/20261026/6432964/1",
+          "source": "동아일보",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "[Breaking] Brazil Election Commission: \"Lula Elected\"... Wins Fourth Term",
+          "url": "https://www.asiae.co.kr/en/article/2026102609200284186",
+          "source": "아시아경제",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "NK leader meets Chinese FM",
+          "url": "https://en.yna.co.kr/view/PYH20261025028900320?section=image/nk",
+          "source": "Yonhap News Agency",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "부산은행": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-26T10:30:00+09:00",
+      "lastSeen": "2026-10-26T10:30:00+09:00",
+      "news": [
+        {
+          "title": "BNK부산은행 창립 59주년 기념식",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=2100&key=20261025.99099007109",
+          "source": "국제신문",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "BNK부산은행, 창립 59주년 맞아 지역금융 경쟁력 키운다",
+          "url": "https://www.fnnews.com/news/202610251938436531",
+          "source": "파이낸셜뉴스",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "부산은행 창립 59주년…\"해양·산업금융 ���쟁력 강화\"",
+          "url": "https://www.yna.co.kr/view/AKR20261023065700051",
+          "source": "연합뉴스",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    "네이버": {
+      "count": 1,
+      "maxTraffic": 50000,
+      "firstSeen": "2026-10-26T10:30:00+09:00",
+      "lastSeen": "2026-10-26T10:30:00+09:00",
+      "news": [
+        {
+          "title": "인스파이어 아레나, 12월부터 '네이버 아레나'로 바뀐다",
+          "url": "https://www.yna.co.kr/view/AKR20261026029100017",
+          "source": "연합뉴스",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "'인스파이어 아레나'→'네이버 아레나 앳 인스파이어' 명명권 계약 - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/10/26/2026102608095071676",
+          "source": "머니투데이",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "인스파이어 아레��, 12월부터 ‘네이버 아레나’로⋯네이버 결제·AR 기술 접목",
+          "url": "https://www.viva100.com/article/20261026500098",
+          "source": "브릿지경제",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "조선일보": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-26T10:30:00+09:00",
+      "lastSeen": "2026-10-26T10:30:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 한미 관계, 민간까지 삐걱… 4명 중 1명 비자 거부 당해",
+          "url": "https://www.chosun.com/politics/politics_general/2026/10/26/VHVX3YKCFZGNFLNLOTOQPIUILQ/",
+          "source": "조선일보",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "[천지일보 여론조사] 국민 58.7% “한미관계·안보 악영향 우려”… 43.6% “매우 우려”",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3441958",
+          "source": "천지일보",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "이낙연 “이재명 정부 이런 동맹파열 처음…美 정청래 비자 허용→거부 등 보라”",
+          "url": "https://www.dt.co.kr/article/12089689",
+          "source": "www.dt.co.kr",
+          "date": "2026-10-25"
+        }
+      ]
+    },
+    "다음": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-10-26T10:30:00+09:00",
+      "lastSeen": "2026-10-26T10:30:00+09:00",
+      "news": [
+        {
+          "title": "“삼전닉스 다음은 여기” ‘시총 3위’ 후보 나왔다…증권사가 뽑은 내년 주도주 4곳",
+          "url": "https://www.sedaily.com/article/20105750",
+          "source": "서울경제",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "하나證 \"삼전닉스, 내년 1분기까지 코스피 반등 주도할 것\"",
+          "url": "https://www.news1.kr/finance/general-stock/6331383",
+          "source": "뉴스1",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "\"삼전닉스 다음은 여기\"…내년 '시총 3위' 쟁탈전 막 올랐다",
+          "url": "https://www.hankyung.com/article/2026102529037",
+          "source": "한국경제",
+          "date": "2026-10-25"
+        }
+      ]
     }
   },
   "sections": {
@@ -1920,6 +2180,36 @@
         "title": "'첫 승 도전' 김보미 vs '통산 6승' 임정숙, LPBA 결승서 격돌",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSXhxc2RLb2lpRUVyZ3ZpdEJZQ0FLOXN5Vmg0MlpCUHdQbUJHNDRERXdpOGQ5MnRnM2JuSEdyV2xGOWRaVEkxLUVZbjU4T3RkZ2dDMVhfTW4wOVnSAWBBVV95cUxOMm5WOFU0dkpEOXZkQmh3ZGVJelFFOXlYZTdobUwwNGl3X29ZZDhfaFBtSldOTlo0ZUtkTXlDRnctNGloYmh3YjZjZlBXWl83MGozeXZtRk9ITklrTUdVNkI?oc=5",
         "source": "연합뉴스",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "[PO] 삼성 박진만 감독이 밝힌 최형우 선발 제외 이유…\"단기전은 수비가 중요\"",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJMW9TVDVYdEZOQU04RXpQYTNtX3JvT3BmeGV3M040RVp0UFI2ZExvN095REw3bnhxdVFLbVdoUjJiLXNoM2M1b2Zwc19Jc3NEYnNOdGVKNjdBeFBy?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "안세영, 또 이겼다…승률 98%로 획득한 10번째 우승",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wUVRVR3hzUEVfTUdjR0J3S3JDc3dlVmJEdHh6dGNEVDJ3YlJVaTB5NkkzekJ1bER4ZElCMjJSMTl1RXdCbXZFZDg5R2t5QlhmdmgzR1lxQmRUQQ?oc=5",
+        "source": "한국경제",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "‘가을비 변수’ 삼성 대 KIA PO 1차전 오늘 개최",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03UmNjakprUjdRZE5kTmRwY2lYYktpVzdvN0lDejNnS3R2MEgzOFBjTVdyNTZnMjJtd2hlS2d3WlA1TG41eG1Zd0J0TFg0ekhJZlM3cG04WWRyODg?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "‘우승팀의 고민’ FC서울 MVP 후보 놓고 김진수-정승원 집안싸움…38라운드까지 지켜봐야 하지만 ‘주장의 리더십’이냐, ‘공격의 핵심’이냐",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DeG00X1JEYUVmeEFEVEFuWEFvMnlPY0xYYkZvWFBacnhKcmdMQU93S2FiLXFPUFRId0V6MVJ2RlJoZVdGR0RXTzJnXzAwQXBWREtDQTRBcVliV1RFaElNSlpkaFVybTk4QVNkVE96S0N2Zw?oc=5",
+        "source": "스포츠동아",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "김시우·신상훈, 제네시스 챔피언십 공동 4위 마감… 우승은 日 가쓰라가와 유토",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hOGZlZkZlYzk2NFp1NkY4SVVUN3NDOWhJaHRtU0xjWWtpSlJEVFk5UGg2Wnk1Y3lCTjFaV2ZoTFNGV2tyTXhQQzZJaGR3MVpjelU3X2Z4dEt1aEQtaGd1a1JvUjY0UGhjejFJbGtONA?oc=5",
+        "source": "레저신문",
         "date": "2026-10-25"
       }
     ]
