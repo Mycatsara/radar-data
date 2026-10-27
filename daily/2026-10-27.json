@@ -755,6 +755,266 @@
           "date": "2026-10-27"
         }
       ]
+    },
+    "서울 sk 대 부산 kcc": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-27T19:48:00+09:00",
+      "lastSeen": "2026-10-27T19:48:00+09:00",
+      "news": [
+        {
+          "title": "전희철 SK 감독 “KCC는 공격 고점 높은 팀…해법은 리바운드와 속도”",
+          "url": "https://sports.khan.co.kr/article/202610271902013",
+          "source": "스포츠경향",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "프로농구 오늘(27일) 경기 일정…서울 SK VS 부산 KCC, 중계 채널→현재 순위?",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16258820",
+          "source": "톱스타뉴스",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "‘충격 5연패’ KCC, 허훈은 ‘커리어 하이’ 기세→허웅이 살아야 팀이 산다 [SS시선집중]",
+          "url": "https://www.sportsseoul.com/news/read/1643930",
+          "source": "스포츠서울",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "야구 중계": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-27T19:48:00+09:00",
+      "lastSeen": "2026-10-27T19:48:00+09:00",
+      "news": [
+        {
+          "title": "‘욕망의 덫’ 전혜원, 설정환·주새벽 약혼에 “진심으로 축하”…결국 완벽한 이별",
+          "url": "https://www.wikitree.co.kr/articles/1168959",
+          "source": "위키트리",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "장서희, 전혜원 돕는 장세현에 경고…\"적당히 까불어 분질러 놓기 전에\"",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=774965",
+          "source": "싱글리스트",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "“남편 죽은 날 다 기억 나” 박소연, 유태웅 은폐 시도 폭로…’욕망의 덫’ 최고 긴장감",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1603324",
+          "source": "MHN스포츠",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "김지찬": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-27T19:48:00+09:00",
+      "lastSeen": "2026-10-27T19:48:00+09:00",
+      "news": [
+        {
+          "title": "KIA 박재현 \"대구 오면 잘 풀려…주자 깔아주는 게 내 임무\"",
+          "url": "https://www.yna.co.kr/view/AKR20261026152800007",
+          "source": "연합뉴스",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "[포토] 박재현 '필 소 굿' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/27/2026102719274358246",
+          "source": "머니투데이",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "수비 실책으로 호된 준PO 신고식 치렀던 KIA 박재현, PO에선 호수비로 승리 쐐기",
+          "url": "https://www.donga.com/news/Sports/article/all/20261026/134913259/1",
+          "source": "동아일보",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "오승환": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-27T19:48:00+09:00",
+      "lastSeen": "2026-10-27T19:48:00+09:00",
+      "news": [
+        {
+          "title": "'돌부처'에서 '아들 바보'로…아들 안고 인터뷰 한 오승환",
+          "url": "https://www.yna.co.kr/view/AKR20261027179100007",
+          "source": "연합뉴스",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "'보여주세요' 끝판대장 승리 세리머니",
+          "url": "https://www.news1.kr/photos/8182345",
+          "source": "뉴스1",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "“시구 말고 9회에 올라와야 하는 거 아냐?” 끝판대장 돌아오자 팬들 술렁…후배들 위해 지갑까지 열었다 [PO2] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/27/202610271910771655O",
+          "source": "머니투데이",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "리그 오브 레전드 월드 챔피언십": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-27T19:48:00+09:00",
+      "lastSeen": "2026-10-27T19:48:00+09:00",
+      "news": [
+        {
+          "title": "페이커 뛰어넘은 새 ‘어시스트 킹’ 탄생··· ‘케리아’ 류민석, 1022개로 롤드컵 통산 최다",
+          "url": "https://www.khan.co.kr/article/202610271216001",
+          "source": "경향신문",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "DK 신인 '커리어'의 무서운 성장",
+          "url": "https://www.etoday.co.kr/news/view/2640746",
+          "source": "이투데이",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "[롤드컵] T1, 4연패 향한 8강 눈앞…한화생명은 G2와 벼랑 끝 승부",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/27/MU3DAYZRGY4WENJVHFRTCNBZMI/",
+          "source": "조선일보",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "후라도": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-27T19:48:00+09:00",
+      "lastSeen": "2026-10-27T19:48:00+09:00",
+      "news": [
+        {
+          "title": "이범호 KIA 감독 \"최형우 선발 출전 예상…우리는 나쁘지 않아\"",
+          "url": "https://www.yna.co.kr/view/AKR20261027166100007",
+          "source": "연합뉴스",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "[사진] 김도영, 중견수 앞 안타",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/27/MQZDIYLDHEZDOMLDGA3WKMBYGY/",
+          "source": "Chosunbiz",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "중심 타선이 승부 갈랐다...2차전 후라도 vs 올러 맞대결",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610271711462487",
+          "source": "YTN",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "그랜드 테프트 오토 v": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-27T19:48:00+09:00",
+      "lastSeen": "2026-10-27T19:48:00+09:00",
+      "news": [
+        {
+          "title": "GTA 6 Will Feature Lots Of Small Details Like Red Dead’s Dynamic Horse Testicle Physics",
+          "url": "https://www.gamespot.com/articles/gta-6-will-feature-lots-of-small-details-like-red-deads-dynamic-horse-testicle-physics/",
+          "source": "GameSpot",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "'There's No One Person That Has This Whole Thing in Their Head' — GTA 6 Devs Had Freedom to Add Cool Features Just Like RDR2's Horse Balls",
+          "url": "https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls",
+          "source": "IGN",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "GTA 6 Weapon System: Weapon Limits, Gunplay Changes, and Confirmed Weapons",
+          "url": "https://www.mmoexp.com/News/gta-6-weapon-system-weapon-limits-gunplay-changes-and-confirmed-weapons.html",
+          "source": "MMOEXP",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "박현주": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-10-27T19:48:00+09:00",
+      "lastSeen": "2026-10-27T19:48:00+09:00",
+      "news": [
+        {
+          "title": "박현주 \"삼전닉스 없으면 엔비디아도 스톱\"…'반도체 고점론' 직격",
+          "url": "https://www.hankyung.com/article/202610278372i",
+          "source": "한국경제",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "미래에셋, 이번주 日증권사 인수 발표",
+          "url": "https://stock.mk.co.kr/news/view/1182205",
+          "source": "매일경제 마켓",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "박현주 미래에셋회장, 일본 증권회사 M&A 예고…29일 발표(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261027154951008?section=economy/finance",
+          "source": "연합뉴스",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "연차": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-27T19:48:00+09:00",
+      "lastSeen": "2026-10-27T19:48:00+09:00",
+      "news": [
+        {
+          "title": "\"5인미만 사업장 부당해고 구제 제외는 위헌\" 헌법소원",
+          "url": "https://www.yna.co.kr/view/AKR20261027064900004",
+          "source": "연합뉴스",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "\"5인 미만 사업장 노동자도 근로기준법 보호해야\"…헌법소원",
+          "url": "https://www.newsis.com/view/NISX20261027_0003843208",
+          "source": "뉴시스",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "[단독] 5인 미만 사업장에 ‘연차’ 생기면…산업재해 905명 감소 추정",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1284265.html",
+          "source": "한겨레",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "대전 대 비셀 고베": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-27T19:48:00+09:00",
+      "lastSeen": "2026-10-27T19:48:00+09:00",
+      "news": [
+        {
+          "title": "'일본 킬러' 황선홍 감독, 'K리그 킬러' 고베까지 잡을 수 있을까",
+          "url": "https://www.chosun.com/sports/football/2026/10/26/G5RGINTDGBQWGZRSGU4GEMBRGQ/",
+          "source": "조선일보",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "대전하나시티즌, 안방서 고베 상대 ACLE 무패 행진 도전",
+          "url": "https://www.dtnews24.com/news/articleView.html?idxno=816446",
+          "source": "디트NEWS24",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "“더 간절한 팀이 이기는 게 축구” 日 고베 막아설 대전의 방패 안톤···“최근 극적인 승리들이 팀에 자신감 더해줘” [MK대전]",
+          "url": "https://www.mk.co.kr/news/sports/12186863",
+          "source": "매일경제",
+          "date": "2026-10-27"
+        }
+      ]
     }
   },
   "sections": {
