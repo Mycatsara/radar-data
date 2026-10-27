@@ -514,6 +514,247 @@
           "date": "2026-10-26"
         }
       ]
+    },
+    "yaxel lendeborg": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-27T14:24:00+09:00",
+      "lastSeen": "2026-10-27T14:24:00+09:00",
+      "news": [
+        {
+          "title": "Flawless Stephen Curry finally gives Warriors a win after Dubs’ ugly start to season",
+          "url": "https://nypost.com/2026/10/27/sports/flawless-stephen-curry-finally-gives-warriors-first-win/",
+          "source": "New York Post",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "What we learned as Yaxel Lendeborg dominates vs. Nuggets in Warriors' first win",
+          "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/yaxel-lendeborg-steph-curry-denver-nuggets/1974756/?partner=yahoo",
+          "source": "NBC Sports Bay Area & California",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "Steph Curry revs up for perfect night, watches as Warriors finish rout in Denver for first win",
+          "url": "https://www.sfchronicle.com/sports/warriors/article/steph-curry-s-perfect-shooting-night-leads-22495852.php",
+          "source": "San Francisco Chronicle",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "nuggets vs warriors": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-27T14:24:00+09:00",
+      "lastSeen": "2026-10-27T14:24:00+09:00",
+      "news": [
+        {
+          "title": "Predict.fun Market Gives Warriors 30% Chance to Beat Nuggets",
+          "url": "https://www.tokenpost.com/news/investing/41513",
+          "source": "www.tokenpost.com",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "How to watch Warriors vs Nuggets: NBA, live stream, TV channel",
+          "url": "https://www.thebiglead.com/how-to-watch-warriors-vs-nuggets-nba-live-stream-tv-channel/",
+          "source": "The Big Lead",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "Warriors vs. Nuggets injury report: Steph Curry and Draymond Green return",
+          "url": "https://sports.yahoo.com/articles/warriors-vs-nuggets-injury-report-010838755.html",
+          "source": "Yahoo Sports",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "아시아나": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-27T14:24:00+09:00",
+      "lastSeen": "2026-10-27T14:24:00+09:00",
+      "news": [
+        {
+          "title": "대한항공·아시아나항공, 청소년 진로교육·안전체험 지원",
+          "url": "https://www.yna.co.kr/view/AKR20261027033300003",
+          "source": "연합뉴스",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "대한항공·아시아나항공, 청소년 대상 항공 진로 특강 3회 실시",
+          "url": "https://www.viva100.com/article/20261027500149",
+          "source": "브릿지경제",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "대한항공-아시아나항공,교육기부·안전체험 지원으로 미래세대 꿈 응원",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038961",
+          "source": "기호일보",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "강남대로": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-27T14:24:00+09:00",
+      "lastSeen": "2026-10-27T14:24:00+09:00",
+      "news": [
+        {
+          "title": "출근길 강남대로 ’만취녀 소동’…경찰이 사지 잡아 끌어내",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027092323Yne",
+          "source": "연합뉴스TV",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "\"위험한 이별, 울면서 차선 하나 점령\"…강남대로 한복판 여성 끌려 나왔다[영상]",
+          "url": "https://www.news1.kr/society/general-society/6331934",
+          "source": "뉴스1",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "출근길 강남대로에서 만취한 채 '엉엉' 활보한 여성 [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610270635014207",
+          "source": "YTN",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "양산시": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-27T14:24:00+09:00",
+      "lastSeen": "2026-10-27T14:24:00+09:00",
+      "news": []
+    },
+    "hd현대중공업": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-27T14:24:00+09:00",
+      "lastSeen": "2026-10-27T14:24:00+09:00",
+      "news": [
+        {
+          "title": "HD현대중공업 임단협 마무리될까···노조 2차 잠정합의안 찬반 투표 돌입",
+          "url": "https://www.khan.co.kr/article/202610271015001",
+          "source": "경향신문",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "中 세계 선박 수주 76% 싹쓸이…K-조선은 파업 몸살",
+          "url": "https://www.sedaily.com/article/20106070",
+          "source": "서울경제",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "K조선 노사협상 희비…HD현대重 막바지, 한화오션 난항",
+          "url": "https://www.fnnews.com/news/202610251145114569",
+          "source": "파이낸셜뉴스",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "자산": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-27T14:24:00+09:00",
+      "lastSeen": "2026-10-27T14:24:00+09:00",
+      "news": [
+        {
+          "title": "(보도설명) 디지털자산시장거래소 등 디지털자산업자에 대한 교육세 과세 여부는 전혀 검토된 바 없습니다.",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148974323",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "민주당, ‘가상자산 과세 유예 연장 여부’ 최종 의견 조율... \"우려 잘안다 오늘 최종 의견 정부전달\"",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610271211293948b3279dfb36_12",
+          "source": "로이슈",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "‘소득 있는 곳에 과세’ 실종…신뢰 잃는 조세정책",
+          "url": "https://www.khan.co.kr/article/202610262200015",
+          "source": "경향신문",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "교도관": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-27T14:24:00+09:00",
+      "lastSeen": "2026-10-27T14:24:00+09:00",
+      "news": [
+        {
+          "title": "수형자가 유유히 교도소 정문 걸어나갔다? 천안서 '황당' 해프닝",
+          "url": "https://www.yna.co.kr/view/AKR20261027046700063",
+          "source": "연합뉴스",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "\"안 잡네?\" 교도소 밖으로 걸어 나간 수형��…교도관 2명 '경고' - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/27/2026102710460544121",
+          "source": "머니투데이",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "교도소 밖으로 제지없이 걸어 나온 수형자? 천안 교도소서 무슨 일이…",
+          "url": "https://www.kyeonggi.com/article/20261027580061",
+          "source": "경기일보",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "양서류": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-27T14:24:00+09:00",
+      "lastSeen": "2026-10-27T14:24:00+09:00",
+      "news": [
+        {
+          "title": "[사이테크+] 바다에서만 산 양서류 있었다…\"뼈 갑옷으로 염분 장벽 극복\"",
+          "url": "https://www.yna.co.kr/view/AKR20261025051500017",
+          "source": "연합뉴스",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "개구���는 못사는 바다… 2억3700만년 전 ‘갑옷 입은 양서류’ 살았다",
+          "url": "https://www.chosun.com/economy/science/2026/10/27/X3I4JRQTBJBBHJBXHJJ3RDXGBQ/",
+          "source": "조선일보",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "2억3700만년 전 바닷속 몸길이 70cm '갑옷개구리' 살았을까",
+          "url": "https://www.dongascience.com/ko/news/80542",
+          "source": "DongA Science",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "이상순": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-27T14:24:00+09:00",
+      "lastSeen": "2026-10-27T14:24:00+09:00",
+      "news": [
+        {
+          "title": "이효리, 이상순과 함께 반신욕 즐겨... \"얼마나 좋은데\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102705363812075",
+          "source": "머니투데이",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "'돌싱' 서장훈, 보디빌더女에 고백..\"어깨 넓은 여자가 이상형\"",
+          "url": "http://www.osen.co.kr/article/G1112898731",
+          "source": "OSEN",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "남편 이상순 아팠던 이효리 \"남편 없으면 다 의미 없다\"",
+          "url": "https://www.newsis.com/view/NISX20261027_0003842028",
+          "source": "뉴시스",
+          "date": "2026-10-27"
+        }
+      ]
     }
   },
   "sections": {
@@ -1663,6 +1904,66 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QUXk0QkpuUW1RTS1aRTdnMnE3TDlCUjBfUF9KanN0MmFmMW5PaTVJaDcyOWQ5WFJ6NmhmcnpuU0lNTGo3Sl9RbUZHTTRFWTZ0RGpGSjJMV18xSzA?oc=5",
         "source": "경기일보",
         "date": "2026-10-26"
+      },
+      {
+        "title": "홈런 빼고 다 해준 김도영…KIA, 기선 제압",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MTmo0cjV0OGpYWHNoWnNZbk9hN3NoeXRQbUhRRXdpMGFjOFh2ODAxOGFibkZ3TmNnWnFxU213dmZtdVoyRHE3VVFzM1pXeEcxVTlTbE5JUGJSQdIBX0FVX3lxTE13dlFMWnlxMWJwOWYyVmtpcFo1WWlOc2VlbmVLOElfNGctMU56SmF5NVM0cHYwdE9idXl6X2hnT3o0MnR2VXFXMFdHejBnME9qV3J0T2FSanh2RE5mOFNz?oc=5",
+        "source": "경향신문",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "'한 시즌' 73골 몰아친 해리 케인, 생애 첫 발롱도르 수상",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01RWpOeGM4bjROWTlKTlJsUXBEZVNuNmhMQmprLVlQYlZobFk1b2ptVlc5SkU2TjFoeVYtYnc5bzlqVFNXQVV6bXFCNEZXdDJnVmdfNUxTWHQ3MmN2SlVSb0I3SEhOSkhubVhVbEE4U0cyZXZ3RFHSAXZBVV95cUxQOGhzNXZobEJjX1YwTW0xa1BocWt0eTA3cHNzWjkxV3A5WkZIVEZ5ekFYVWNCeEFCc1JSV3JmSHo0UU83YlRVbmtMeDFQLXBEY2hFZWV4bEE0VUd3bUlCNEk3aDNHZVNxTlJpdWJJRnVzeHZ1UHBn?oc=5",
+        "source": "MBC 뉴스",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "“웃돈 줬는데 환불도 안돼”... ‘가을 야구’ 우천 취소에 우는 암표 구매자들",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHZqRW1PQzQtV1RyWmYtTWgwd0YxR2pFdENrT1NwWmhMTURWMlZHUjFUVWx1NnVYYlBZLTJ4X3FwRjZ3VkFUTC10eDAzYlJkSDRPd2lTZXJjUXg0Mm5vVVd2aHVJNHZ2MTVTYVRLTFVna0llVDcxWUhOX3p4Qk9Iakt1UkFXWkJNbXZCRGFrMDk?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "50연승·승률 98.5％ 안세영 “우승의 기쁨 즐길 겨를이 없다”",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54eWpkNTBuMVVNOFFYMEE1UzlMaGthSjNBMUlvdU1DbjI4aXdPdlVIdU8tMGpxbGVELVlmRzlabWppckFqT0hSc3N4ZjBDRXdib0d1dmJObXlFYzdrX0x4dS1uU0ZZQQ?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "BS그룹, 2년 연속 LPGA 대회 성공 개최…파인비치 명문 코스 위상 재확인",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DR2ZGbXlXQUhTdHB3ZnVlNTAzT19BVzhxU2xhMzZFTW94R1RUM1JQdlpYcVZ5N2w5LVZyOGdXbDZmTlFzTUlYVGtqaXY3SG93TnF6eWtESy1iUHkxMnVKNmdxN0dkeFZzMDVJcW55c1BsSXZXUlE?oc=5",
+        "source": "인포스탁데일리",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "밀워키, WS 3차전서 탬파베이 10-1 대파…창단 첫 우승까지 1승",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5U1JlaXhUWEl4NjJOaU03X2RZaHI2OGN5SE9WZmtIdjdudGZTUXNlM2QxX0RKNHR0OFVlYVBKRTkyQ0VaNjNIVzU2TGppb29Ea19sSjJqNVI3YnBXYURsQ1FjM292RG5LTXRhZ3BRN01hZmNr?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "골 취소된 손흥민에 \"니하오\" 인종차별 논란",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tajhGN2FxN1dpR0hiVlExUEJ0eDluckJUdE9vbEJTaXp5X0NSWkc4UVVkOU10RHFTNC1BMW5CV2ptN0Y3N1lmTVJob2toS3YzSVhXOVdBaG5kTDE4dWc?oc=5",
+        "source": "YTN",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "장수군장애인체육회, 황인춘 탁구선수 남자복식 '동메달' 획득",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12SlRsVnk1Mzg2S3dOU1pPS3kxc1NmOFpQaC0yNlo4ZFYyMUExX0RzOWtDMjFCZDlNbDBWM0ZWTGxMY1Z0US1BTzFxbEU2NGFrT1JXMHFNNWRYbG9DTi1KSklhVVI0cDkyVTJ0c1lB0gFwQVVfeXFMUEJwa0o3WGFCa2VkOWZCVkc4UzQ1Z21IUXl5TTI4X0J4c2VuLWJFbm9PWE5qNHMySmFRcUFkOWxhdUZ5SVBYTHJUcDZCRWh1ZXBNMUpVV0pJQ1RIXzJIaXhvYVRHSHdzZV9UVFJBQXMtMw?oc=5",
+        "source": "전라일보",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "‘수소도시 완주’ 레전드리그 1위… 이창호 2,000승 삼례문화예���촌서 11라운드 1경기 개최 선두 올라",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWTFhOM2hDSkgwTi1XTkRWSGp3WVhOWmpfTm9VOWU5Ujh2d3ZYTnFVS2dsUzkzWlA3Mk12RUxLU1RlUFBDR0RDbGJpVkJDcUZmanJZc0dlTFBmY192V0pKdUNHSWZxTzFVSkE?oc=5",
+        "source": "전북제일신문",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "대한항공 독주에 막힌 현대캐피탈… 아성 무너뜨릴 열쇠는 새 얼굴 ‘장추안’",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBULTBLTTJ1UHJOR0hQZHdQdi14SUNBeU93MklLdkp3VndybXlEOVFQQVZhTUtVcFVKaHBHYzJ6RGlMeHN1dlExaGd3MXk5QTdvZFBMZDhLenBmNjY1U0ZlQjdB?oc=5",
+        "source": "스포츠월드",
+        "date": "2026-10-27"
       }
     ]
   }
