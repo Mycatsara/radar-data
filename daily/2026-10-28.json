@@ -28,10 +28,10 @@
       ]
     },
     "리그컵": {
-      "count": 1,
-      "maxTraffic": 100,
+      "count": 2,
+      "maxTraffic": 200,
       "firstSeen": "2026-10-28T01:15:00+09:00",
-      "lastSeen": "2026-10-28T01:15:00+09:00",
+      "lastSeen": "2026-10-28T05:50:00+09:00",
       "news": [
         {
           "title": "카라바오컵 본머스 대 아스톤 빌라 축구 예측",
@@ -48,6 +48,18 @@
         {
           "title": "플리트우드 타운 vs 아스널 예측: 승리 시 다음 라운드 진출",
           "url": "https://www.vietnam.vn/ko/nhan-dinh-fleetwood-town-vs-arsenal-thang-de-di-tiep",
+          "source": "Vietnam.vn",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "플리트우드 타운 vs 아스널 생중계: 경기가 진행 중입니다",
+          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-fleetwood-town-vs-arsenal-tran-dau-dang-dien-ra",
+          "source": "Vietnam.vn",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "경기 프리뷰: 플리트우드 타운 vs 아스널, 10월 28일 오전 3시: 아스널이 쉽게 무너지지 않을 것으로 예상됩니다.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-fleetwood-town-vs-arsenal-3h00-ngay-28-10-ve-kho-thoat-khoi-tay-phao",
           "source": "Vietnam.vn",
           "date": "2026-10-27"
         }
@@ -257,6 +269,240 @@
           "title": "임시완, 천년의 이상형 만났나? 각종 사고 막아낸 '백마 탄 여기사' 설인아 의심('유죄인간')",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/27/GYZWIYJQGM4DMN3BMQZTIZTBGU/",
           "source": "조선일보",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "서장훈의 이웃집 백만장자": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-28T05:50:00+09:00",
+      "lastSeen": "2026-10-28T05:50:00+09:00",
+      "news": [
+        {
+          "title": "“집을 쇼핑하고, 택배처럼 배송받는다?!” 한 달 매출 150억·기업 가치 2400억···모듈러 주택 CEO 박...",
+          "url": "https://sports.khan.co.kr/article/202610280421003",
+          "source": "스포츠경향",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "서장훈, 100평 럭셔리 주택 쇼핑? “새로운 세상”(‘이웃집 백만장자’)",
+          "url": "https://www.mk.co.kr/news/hot-issues/12187453",
+          "source": "매일경제",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "`월 매출 150억` 박정진, 공개 구혼…\"61평 펜트하우스 혼자 산다\" [이웃집 백만장자]",
+          "url": "https://mydaily.co.kr/page/view/2026102716022660325",
+          "source": "마이데일리",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "반도체": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-28T05:50:00+09:00",
+      "lastSeen": "2026-10-28T05:50:00+09:00",
+      "news": [
+        {
+          "title": "올해 3분기 GDP 1% '깜짝 성장'...민간소비는 하락세",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610280057491386",
+          "source": "YTN",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "실질소득 49년만에 최대폭 늘었는데, 소비자는 지갑 더 닫아",
+          "url": "https://www.donga.com/news/Economy/article/all/20261028/134921066/2",
+          "source": "동아일보",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "[기자메모]성장률 예측 또 실패…한은 어떻게 믿나",
+          "url": "https://www.khan.co.kr/article/202610272057005",
+          "source": "경향신문",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "소넨호프 대 아우크스부르크": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-28T05:50:00+09:00",
+      "lastSeen": "2026-10-28T05:50:00+09:00",
+      "news": [
+        {
+          "title": "Confirmed DFB-Pokal lineups: SG Sonnenhof Großaspach vs. FC Augsburg",
+          "url": "https://sports.yahoo.com/articles/confirmed-dfb-pokal-lineups-sg-161000460.html",
+          "source": "Yahoo Sports",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "Baum: \"We'll give it everything we’ve got\"",
+          "url": "https://www.fcaugsburg.de/en/article/baum-we-ll-give-it-everything-we-ve-got-23613",
+          "source": "FC Augsburg",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "Sonnenhof Großaspach vs Augsburg prediction: teams form analysis, possible lineups on October 27, 2026",
+          "url": "https://ratingbet.com/predictions/sonnenhof-groaspach-vs-augsburg-prediction-teams-form-analysis-possible-lineups-on-october-27-2026/",
+          "source": "RatingBet",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "s": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-28T05:50:00+09:00",
+      "lastSeen": "2026-10-28T05:50:00+09:00",
+      "news": [
+        {
+          "title": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
+          "url": "https://www.wsj.com/finance/investing/anthropics-adjusted-profit-exposes-wall-streets-earnings-game-40cbcef1",
+          "source": "WSJ",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "Why Anthropic's IPO contrasts the 'cult of Elon Musk' at SpaceX and Tesla",
+          "url": "https://finance.yahoo.com/markets/stocks/article/why-anthropics-ipo-contrasts-the-cult-of-elon-musk-at-spacex-and-tesla-192424554.html",
+          "source": "Yahoo Finance",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "Don’t expect supersize profits from Anthropic soon",
+          "url": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon",
+          "source": "The Economist",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "fomc": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-28T05:50:00+09:00",
+      "lastSeen": "2026-10-28T05:50:00+09:00",
+      "news": [
+        {
+          "title": "米国の中間選挙を控えているうえ、 FOMC金利引き上げの負担 ETFだけで1兆ウォンの純流出",
+          "url": "https://www.mk.co.kr/jp/stock/12187460",
+          "source": "매일경제",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "Bitcoin現物ETF、週間で資金純流入 相場は8万ドル台に低迷",
+          "url": "https://www.digitaltoday.co.kr/jp/view/119238/bitcoin-spot-etfs-return-to-weekly-net-inflows-price-weak-in-80000s",
+          "source": "디지털투데이",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "円ステーブルコインGYENが終幕へ、コインベースがUSDCに自動転換",
+          "url": "https://crypto-times.jp/news-gmo-gyen-stablecoin-redemption/",
+          "source": "CRYPTO TIMES",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "홈런": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-28T05:50:00+09:00",
+      "lastSeen": "2026-10-28T05:50:00+09:00",
+      "news": [
+        {
+          "title": "최형우 가을야구 최고령 홈런... 삼성, 플레이오프 2차전서 웃었다",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/27/XOYWIEZGCFAP3AXGMS6BTZKBWM/",
+          "source": "조선일보",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "[PO 포커스] 1차전은 KIA, 2차전은 삼성…하루 만에 뒤바뀐 중심타선의 희비",
+          "url": "https://www.newspim.com/news/view/20261027001520",
+          "source": "뉴스핌",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "디아즈·최형우 홈런...삼성, 2차전 승리",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610280429084889",
+          "source": "YTN",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "청송군": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-28T05:50:00+09:00",
+      "lastSeen": "2026-10-28T05:50:00+09:00",
+      "news": [
+        {
+          "title": "청송황금사과 맛보세요…서울 주요 거점서 판매 행사",
+          "url": "https://www.yna.co.kr/view/AKR20261027126900053",
+          "source": "연합뉴스",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "청송군, ‘청송황금사과’ 서울 직판으로 수도권 판로 확대",
+          "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/27/2026102700394.html",
+          "source": "뉴데일리 대구경북",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "민원 챙기던 군의원, 주민과의 약속 위해 운동화 끈 조였다",
+          "url": "https://www.imaeil.com/page/view/2026102613210805694",
+          "source": "매일신문",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "크랙": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-28T05:50:00+09:00",
+      "lastSeen": "2026-10-28T05:50:00+09:00",
+      "news": [
+        {
+          "title": "“330만 원짜리가 이 모양?”…돈값 못하는 아이폰 듀오 굴욕 [이코노픽]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695320",
+          "source": "KBS 뉴스",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "'애플 잘 안 접혀?' 광고 재소환‥\"우리 건 달라\" 날선 신경전",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6861036_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "“접었더니 화면 쩍” 아이폰 듀오 파손 확산에···‘결함’ 인정한 애플, 무상교체 밝혔지만 재고 부족",
+          "url": "https://www.khan.co.kr/article/202610271351001",
+          "source": "경향신문",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    "pba 팀리그": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-28T05:50:00+09:00",
+      "lastSeen": "2026-10-28T05:50:00+09:00",
+      "news": [
+        {
+          "title": "PBA 팀리그 ‘전통강호’ 웰컴저축은행, T.응우옌 강유진 ‘추가 선발’",
+          "url": "https://mkbn.mk.co.kr/news/sports/12187610",
+          "source": "mkbn.mk.co.kr",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "PBA 팀리그 웰컴저축은행, T.응우옌·강유진 추가 영입",
+          "url": "https://www.yna.co.kr/view/AKR20261027150800007",
+          "source": "연합뉴스",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "PBA 팀리그 웰컴저축은행, T.응우옌-강유진 '추가 선발'",
+          "url": "https://www.news1.kr/sports/general-sport/6333294",
+          "source": "뉴스1",
           "date": "2026-10-27"
         }
       ]
@@ -847,6 +1093,24 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nc1ROaDZiTTJuR19CdG5GekVhd2Y2NlVfNDItUUdOVV9pYi13RzlKWk5OYmNmVTZhLVl2U05Kb2dxaGpmQ2JHbjVSaVdSdmZUWUNTVmlR?oc=5",
         "source": "지디넷코리아",
         "date": "2026-10-26"
+      },
+      {
+        "title": "[비즈톡톡] 삼성 스마트폰 사업의 고민… 갤럭시A 줄이면 점유율 걱정, S27 출시 당길 수 없는데",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYmVWYXg2M3I0NHh5LXJjNnR3Y2pBRVJzZVlnZ0txLWFBdXRieHJfX1NWLW16WVZuSWthcXZoZWt6cEstLTF1bnVwMlltS0dQTjVGODJja25IbGx4bEoxWkRXbmU1Nmk5ZFpMdVRhT1dMSHNpSWkxZVBzbk94RVI1OW930gGWAUFVX3lxTE5lRi1rLTh3Q0pxOVcyR09semk4Q0FFR2Zvb3RoSlhBR1FOR2ZJQ0Roc3BJY0ktTjV3MVdLSXBDS1BNc2tXM0lISGRqOEVQcjkxZUYtLTRLcWMzOFdHOWlxNnF1WXQxUmYycUxGZlZ4eE9VQ29KN3BBQjdibG8wdTZHWGtncTQ1LW9jSHNpZ2RCLXhVZUJnQQ?oc=5",
+        "source": "Chosunbiz",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "전기차 100만대 시대, 고칠 곳은 없어… “배터리 수리에만 23일”",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZdmhsVFJpVm9qZ2xYNmRhTnkxcmYzQlQzLXAzZG54T3hmMHJKWWRpd0FFOTdLNUZwV0kzeE91clhQcm14cWhkSXNtQnRIdEVndDVFcjVjR1MwcHY0Wm5LQ0dSVm0yNG5vNWtJS3QxYjUyRkZMQ3fSAWZBVV95cUxNYTF3S3RocmRtVmI1a05fU0VMQWF4ZlBWVlB5MjZNR0t3eDJIdGJPb0lKMHduWnQxazF1YWpWWW1QZmlkb3RNNy1BVFV2NXlxdFRCUzNyRWt2MjNwcjhicjNRNDBvd3c?oc=5",
+        "source": "동아일보",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "이재용, 취임 4주년에 로봇 사업 핵심 거점 찾았다",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0hvMG9uak5RT1FhUEVhMUxaOGM2UzB0dkh6dmI3bkZLWDdBUjQxVE9jRHNtQm9Vd1lHd2lsdzRxQXdOWi1KNFBYRWxOMHFJcFBGWFVTMzZFaEJnS3RUZUV6R0xPY0pScXNHODZmY193VUVqbk9VSkZHNndDYkRiRWFVMjdJb3Uyel9kS2liQQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-27"
       }
     ],
     "ENTERTAINMENT": [
@@ -1343,6 +1607,90 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1ZZU1JWSnhQVW1qenN6Vk15b3FqTGFRdjVjWGdNSDRpM2tuT0lFYm9TTS1rYmwyaEFKNmNlZDY0S2pCdWt1WVdFMlg0SDExVm9Fd0VUcHF5aTlscUVtLS1YRWlBUUs5SUhhWWpwVy10azdWX2VwWnZZV0dsN3ZoN1lOWDFNSVhhWjkw?oc=5",
         "source": "조선일보",
         "date": "2026-10-25"
+      },
+      {
+        "title": "[스타inPO] 수비 못한다 누가 그랬나…삼성 최형우, 홈런·타점·보살 원맨쇼",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wbXpnZ05JZDBNc1NsRWN5ZEx4Rm1ZUzVMYWtpVm1MekhPOUZnemxvTUFGNm5aUmxGd0h6Q29zSXVlaExfbkZ1dllYX0NyTnNUcm5zNnpFRFMwUQ?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "[승장패장] 박진만 “원태인 마무리는 예정된 투입…3차전도 불펜 대기”",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91YnN3RkR0MXIyVnBsZ19UX2k4MC03anVkejFMUTUxY3dVNm9nbEluc296MGt2dDZUWGdLYVZaeVpLNmJIUjFpZWFHX19EdmV4aHg3aTBSb3FNS0drVmRTY1JwMHJsdTA?oc=5",
+        "source": "한겨레",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "박진만 감독의 간단명료 정리 \"이의리 무너뜨려야 우리가 이긴다\" [PO2 현장]",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTEtqRk45YVQxSzhOa2dsa0pKS3NhR0paWGNYakdoSHBTb2ZyYlA3OWh2azllWjlvcXV5RTd3VVo0cFFkcjV5OExITEgta0FuM19BMDU1UWM0bTZWUTBKYWYwazV4eGdSSm1GQkFtcEdzRDhEYkJNdXR6WEJrSmU1bTc2OA?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "손흥민 지키지 못할 약속했나...日 축구 전설 목 빠지게 기다린다, \"한식 사준다 했는데 아직도 안 데려가 줘\"",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fWndramRoRUpHQWJWZDhSNGFpTjB3ekQ1d2MwOVllWVpNRzJleTliZ2VMdkt4NTVick5DRDVNQzVURUptWXNiV1NvVjNHOUNHUE8wN0JLY0ZDME1FYTZvaWJIdnRZSnVWMUl0Rm5KQ3Q?oc=5",
+        "source": "포포투",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "[프로농구] '강이슬 영입' 우리은행, 새 시즌 우승 후보 1순위...대항마는 KB·BNK",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yU1B5aUNmbTRraTBIYmoySFpDbXRjMm96Rzd2RWxEYl9PNmxSSUgtZGF4ME0yR21sQ2cyYkFDdkpDZ1pRbDRndTRSbjV6aHlZVVRnaG9kZThxMTZG?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "핸드볼 H리그 남자부 6개 구단 출사표…새 시즌 화두는 '속도'",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HNHREN19rSV9vdVFqZ3kwUVdXbzU3ak5uTm5NN3pKRVBCZ1FMYkNobURBeFFaNXJFSk9OeHpUajNxMng0TDZubHoxUFdjSkhYc3J5QjUxRnh4R21BcURWQVNWY0xJdW11Rnc?oc=5",
+        "source": "SBS 뉴스",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "MLB 밀워키, 탬파베이에 파죽의 3연승...첫 월드시리즈 우승까지 1승",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5MU52WHd5MXBIUE0zaGphVlQzQXhvOTIxM1NxaWpYWDRzXzBqVHpIY0duOFJyMWFuZWRxekVVcU5LYTcxaUxMZnh4Rm4yZGFCR2RyTXNpd212anV6N3c?oc=5",
+        "source": "YTN",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "'시즌 10승+50연승' 미친 질주의 안세영, 정작 한국에서는 못 뛰나…부상으로 코리아오픈 출전 고심",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORmdudDlwNlh1VElpMldfTjNOYUdSMlVZYmlpRmdVMllxMElKdnNuRHBEWXNJRnNrdTJOdl9iMDhOWFNyZWU1d0RtV1hhM2I0UFprbWxoNDNQUnFmWTVaZHJNeTlzY1FjazBNNjE4V1NFaTA1Q0xBRmJFVDI5WUtYM0pzMldvczBZVTJ3?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "아시안컵 67년 만의 정상 도전 일정 발표…‘안전’은 숙제",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mOFNwM3BVWndvX3ZKS3U0aW92MlVWV2RUTGNVQnZna0JMWklEUGg2S2U2UURrZk1XNXBYdHZLSWxUQV83NDFLZlJkMlAyRXJPVHk2eUx1cTcyaEE?oc=5",
+        "source": "강원일보",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "음��페, 마오쩌둥 '독재자' 발언에 中 발칵, 멍뉴 등 대기업들 전면 광고 해지",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uRFktU1ZDNHRTdjZsb1VwSXdya1ZWbzIxQ0xscVhERGo3UHo2cUpFcFJYTlVUdEZvampuVGZCWjVNZVRvMHdtOWZhbFlMMktrcG9INFdMalcwYTdp?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "‘K리그1행 티켓 잡아라’…K리그2 승격 PO 일정 확정",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KYVIzclE2d0FjUkR4TjVUS2xrNmI1QlBDNFBNMUhSZGIzd2oyRGQ3NTlZR2o4akdkT0o5RVpvZ2RReGVuSnNwS2Y0WVdaOS1RZkN6U2RiTHplck84ZEF0OGRn?oc=5",
+        "source": "경기신문",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "손흥민에게 \"니하오\" 외치는 관중 영상 공개…인종차별 논란",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VQ25KSVFZc2lMbHVCTjdvZVVoUzc3VHl6QmlXY1NzSGpCN2ZlMDJ6QjIxOWl5NzQ2Zmg4Wi1pZFI3VmRiU3RvQjhoM1EwSjNObEtENFZhajVaR0nSAWBBVV95cUxQS1dyQzltcnJKRWhJdzgwTExkbHR2NDVfV1Vxb3JScVk5cjM2d3lCcTB0dDhjVzZQMTU2Q1VYWmxCTjh3SmtsQ2NIWnJVSGVlRlhiQmVqRXQwWlNHV3pfS0Y?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "'17분 뛰고 전역모 착용' 논란의 신성 박승수, '후루룩 짭짭 라면 세리머니' 시전…뉴캐슬 U-21 경기서 환상골 폭발, 구단 \"아릅답다\" 찬사",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxWHE1RmlZcE9xRmlXRWY2X0ZHeHk2OHYyTVh3SVZpVHEwWDltdDRDOXRoNWstNmZBbHQ4N21TNDhOUkpKbXBHbW55SlZBcWU3cDRVd1gwT1ZyclpSV193QVpzbDNlajB3YnRRZC1FcG1PRFpYRTVfSlZOMkNmQQ?oc=5",
+        "source": "스포츠조선",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "“다음 경기 지면 의미 없다”···무리뉴 감독, 13년 만에 바르샤 꺾고도 ‘방심은 없다’",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qUGNJQXcxNFBvWFhGWVhuZHhPSmRmdTBTT21JWlZQSXh3YUFTbU56Y0hXNUJzRGNjWVdZSG5kWkp2c1I5RnNsSWJFZzFISXhybVZfd2RLNWk0Z9IBX0FVX3lxTE14OG12dEdXSEtMcVd4YXRQNHF1QjUtOW5OTzdaUXdqbmZIekhUZVJLdFlJdFFvbmZ0NHFHWWhfSGc0NGlERWt1Z0g3Z3gyQnFLbzdpWGVoUE5NdHZHSnlj?oc=5",
+        "source": "경향신문",
+        "date": "2026-10-26"
       }
     ]
   }
