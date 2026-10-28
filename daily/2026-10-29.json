@@ -241,6 +241,266 @@
           "date": "2026-10-28"
         }
       ]
+    },
+    "天気": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-29T08:07:00+09:00",
+      "lastSeen": "2026-10-29T08:07:00+09:00",
+      "news": [
+        {
+          "title": "【長崎市】10/29 最高22℃、夜は雨、くもりがちになる予想【朝版】",
+          "url": "https://news.yahoo.co.jp/articles/2bebe46e0aacc153aa29022cfe5ca3fe1503ce0a",
+          "source": "Yahoo!ニュース",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "【天気】県内9地点「最低気温を更新」29日朝はさらに気温が下がるところも《長崎》（2026年10月28日掲載）｜NIB NEWS NNN",
+          "url": "https://news.ntv.co.jp/n/nib/category/weather/ni09bda294395c42f3baa37fa490908a0e",
+          "source": "日テレNEWS NNN",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "長崎県で今シーズン一番の冷え込み 五島市では冬の訪れ告げる「だるま太陽」",
+          "url": "https://newsdig.tbs.co.jp/articles/-/3043526",
+          "source": "TBS NEWS DIG",
+          "date": "2026-10-28"
+        }
+      ]
+    },
+    "스페이스x": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-29T08:07:00+09:00",
+      "lastSeen": "2026-10-29T08:07:00+09:00",
+      "news": [
+        {
+          "title": "'고래' 스페이스X-테슬라 합병 추진에 부담 커진 '새우' 미래에셋",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/27/2026102780135.html",
+          "source": "인베스트조선",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "테슬라·스페이스X 합병 시동...특위는 온통 '머스크 측근' 논란",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610281008569765",
+          "source": "YTN",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "캐시 우드 : 테슬라의 미래를 먼저 본 투자자가, 격변의 시대를 읽는 법",
+          "url": "https://longblack.co/note/2158",
+          "source": "롱블랙 LongBlack",
+          "date": "2026-10-28"
+        }
+      ]
+    },
+    "날씨": {
+      "count": 1,
+      "maxTraffic": 200000,
+      "firstSeen": "2026-10-29T08:07:00+09:00",
+      "lastSeen": "2026-10-29T08:07:00+09:00",
+      "news": [
+        {
+          "title": "[출근길 YTN 날씨 10/29] 오늘도 초겨울 추위...흐리고 오후부터 중북부 비",
+          "url": "https://www.ytn.co.kr/_ln/0108_202610290733215107",
+          "source": "YTN",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "전북 흐리고 밤부터 비…낮 기온 11∼15도",
+          "url": "https://www.yna.co.kr/view/AKR20261029017200055",
+          "source": "���합뉴스",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "[포토] 때이른 한파",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335376",
+          "source": "인천일보",
+          "date": "2026-10-28"
+        }
+      ]
+    },
+    "1박 2일": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-29T08:07:00+09:00",
+      "lastSeen": "2026-10-29T08:07:00+09:00",
+      "news": [
+        {
+          "title": "“대리비로 치면 13억원”…이수근, ‘1박 2일’ 촬영하며 차 5번 바꿨다",
+          "url": "https://www.segye.com/newsView/20261028505382",
+          "source": "세계일보",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "이승기, 딸과의 일상 공개 \"오늘 아침에도 딸 데리고…\"",
+          "url": "https://mobile.newsis.com/view.html?ar_id=NISX20261028_0003844102",
+          "source": "뉴시스",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "국민 남동생이었는데... 이승기, 처가 논란 의식했나 \"요새 인기 없어 보이는데\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/28/GVRTENTGGE2WCZRVHE3DSZJZGQ/",
+          "source": "조선일보",
+          "date": "2026-10-28"
+        }
+      ]
+    },
+    "김정화": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-29T08:07:00+09:00",
+      "lastSeen": "2026-10-29T08:07:00+09:00",
+      "news": [
+        {
+          "title": "김정화 “100호점·1000호점 생기길”…배우에서 카페 사업가로 변신",
+          "url": "https://www.donga.com/news/Culture/article/all/20261028/134926440/2",
+          "source": "동아일보",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "김정화, '뇌종양' ♥유은성 건강 언급..\"수술하면 더 위험, 유지 중\" ('찐 여배우들')",
+          "url": "https://www.osen.co.kr/article/G1112900080",
+          "source": "OSEN",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "\"수술하면 위험\"..김정화, '뇌종양 투병' 유은성♥ 상태 전했다",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-28/202610280100183140012387",
+          "source": "스포츠조선",
+          "date": "2026-10-28"
+        }
+      ]
+    },
+    "สภาพอากาศ": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-29T08:07:00+09:00",
+      "lastSeen": "2026-10-29T08:07:00+09:00",
+      "news": [
+        {
+          "title": "สภาพอากาศวันที่ 30 ต.ค.-3พ.ย.ไทยตอนบนฝนฟ้าคะนอง ใต้ฝนลดลง",
+          "url": "https://www.thansettakij.com/general-news/672454",
+          "source": "Thansettakij",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "เปิดรายชื่อจังหวัด ฝนถล่มตกหนัก คืนนี้-พรุ่งนี้ | มุมข่าว",
+          "url": "https://today.line.me/th/v3/article/Vxpj21l",
+          "source": "LINE TODAY",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "สรุปสถานการณ์น้ำในเขื่อนใหญ่ทั่วไทย ระดับน้ำวิกฤตจับตาใกล้ชิด",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1258345",
+          "source": "bangkokbiznews",
+          "date": "2026-10-28"
+        }
+      ]
+    },
+    "weather": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-29T08:07:00+09:00",
+      "lastSeen": "2026-10-29T08:07:00+09:00",
+      "news": [
+        {
+          "title": "First Alert Weather: Why Middle Tennessee won’t see freeze warnings until April",
+          "url": "https://www.wsmv.com/2026/10/28/first-alert-weather-why-middle-tennessee-wont-see-freeze-warnings-until-april/",
+          "source": "WSMV",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "First Alert Weather: “Cloud Season” is coming. Here’s why it happens",
+          "url": "https://www.13abc.com/2026/10/28/first-alert-weather-cloud-season-is-coming-heres-why-it-happens/",
+          "source": "WTVG",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "Very warm Thursday",
+          "url": "https://www.wwnytv.com/2026/10/28/very-warm-thursday/",
+          "source": "WWNY",
+          "date": "2026-10-28"
+        }
+      ]
+    },
+    "기생충": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-29T08:07:00+09:00",
+      "lastSeen": "2026-10-29T08:07:00+09:00",
+      "news": [
+        {
+          "title": "눈 이물감·충혈에 병원 갔더니…양쪽 눈에 기생충 11마리 ’꿈틀’",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610281419530Y3",
+          "source": "연합뉴스TV",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "'니가 왜 거기서 나와?' 양쪽 눈서 기생충 11��리 발견된 70대",
+          "url": "https://www.dailian.co.kr/news/view/1707365/%EB%8B%88%EA%B0%80-%EC%99%9C-%EA%B1%B0%EA%B8%B0%EC%84%9C-%EB%82%98%EC%99%80-%EC%96%91%EC%AA%BD-%EB%88%88%EC%84%9C-%EA%B8%B0%EC%83%9D-2026",
+          "source": "데일리안",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "“눈이 자꾸 따갑더니”…70대 눈에서 나온 ‘11마리’ 정체",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=06707606645617512&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-10-28"
+        }
+      ]
+    },
+    "liverpool đấu với chelsea": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-29T08:07:00+09:00",
+      "lastSeen": "2026-10-29T08:07:00+09:00",
+      "news": [
+        {
+          "title": "Kết quả bóng đá Liverpool - Chelsea: Dấu ấn những quả 11m (League Cup)",
+          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-liverpool-chelsea-dau-an-nhung-qua-11m-league-cup-c48a1806538.html",
+          "source": "Tin tức 24h",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "Alonso ca ngợi Florian Wirtz: Cậu ấy đã giúp tôi rất nhiều",
+          "url": "https://bongda24h.vn/bong-da-anh/alonso-ca-ngoi-florian-wirtz-cau-ay-da-giup-toi-rat-nhieu-172-463383.html",
+          "source": "Bongda24h",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "Liverpool – Chelsea: Cuộc chiến không khoan nhượng tại Anfield",
+          "url": "https://twaslnews1.twaslnews.com/6726803/",
+          "source": "شبكة تواصل الإخبارية",
+          "date": "2026-10-28"
+        }
+      ]
+    },
+    "bayern vs magdeburg": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-29T08:07:00+09:00",
+      "lastSeen": "2026-10-29T08:07:00+09:00",
+      "news": [
+        {
+          "title": "DFB-Pokal: Ein Abend der guten Bayern-Nachrichten",
+          "url": "https://www.bild.de/sport/fussball/dfb-pokal-ein-abend-der-guten-bayern-nachrichten-6ae2483a21fd087fed7ede3b",
+          "source": "BILD",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "‍~!$\"LIVE~IM\"!! Nürnberg gegen Bayer Leverkusen heute im TV und LIVE STREAM.",
+          "url": "https://vantage-dc.com/virtual-tour-montreal-data-center/?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vcGFraGlwb2suZ2l0aHViLmlvL3NyLmVkdS94b2QueG1sIi8+PC9rcnBhbm8+&id=video-nurnberg-gegen-bayer-leverkusen-heute-match-lie-xmcgtuq",
+          "source": "Vantage Data Centers",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "FCM-Linksverteidiger Nollenberger: \"Was für eine Maschinerie. Die hören nicht auf\"",
+          "url": "https://www.mdr.de/sport/sport-im-osten/video-fcb-fcm-nollenberger-100.html",
+          "source": "MDR.de",
+          "date": "2026-10-28"
+        }
+      ]
     }
   },
   "sections": {
@@ -840,6 +1100,12 @@
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qTEMyek9mR2M0ZXBKeXBfOUpvNVdrWm10SEVsYjlYdDlfOEdoNDRwWHdEY2dHMjkyb3lfd1htbkhnOE9qUTNJbWU0djVBTTV1SmxpYm5SMmkwUDJuMzhvctIBZkFVX3lxTE9XVGwzNWFMdEN1c3VGZWR0dXB3SzlyVk5Md3hCVU82bDEzdDAzeWJSTm1fYnM1U3FBQXNJSV9JdE85TFpjRWxKSkpsbTJFNHgyTlpLTUhfT1h2RkhmMUtUUkZfOFFJQQ?oc=5",
         "source": "토큰포스트",
         "date": "2026-10-28"
+      },
+      {
+        "title": "이서진이 명품 시계 차고 설거지…“모셔둘 거면 필요 없다”",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sZWROV2lTNkZrUUppaVlfaGhqbm53blRDRnlSOHBwNkIxWXZ4ejhzSm9OT2lmaGs1aEZORzBUeURzaHBldi1CVkFneUlSeWJjQllIMU1sSjjSAVRBVV95cUxNbkR4UFhZOVRUUllHVy13MDRoaURoZ3lhRl9zN2ZVeFJRVEx6QlcyejIxRXA4MC1qUG1Rc1F3NEVXaU5Jc2l0NF92WkhrV0ctQUZsbTQ?oc=5",
+        "source": "세계일보",
+        "date": "2026-10-27"
       }
     ],
     "ENTERTAINMENT": [
@@ -1366,6 +1632,72 @@
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZTXRjdVRHYVVkRDJNQUtRV2VTSkt3OERrS19aOXZycHc4ZHhXd3hLRVNVY2pZMlNka1BrNk9IMVNVeTBSU1ZDaFY1UDNweFk3eXJoM1Awc01BLTVhRlRmd1M1d3NubzU3UmNEclc1VDE?oc=5",
         "source": "SPOTV NEWS",
         "date": "2026-10-27"
+      },
+      {
+        "title": "'풀타임 소화' 황희찬, '부상 복귀' 김민재, 11월 A매치 소집될까...오늘(29일) 명단 발표",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYZVdJcm9fc1hlMHktaEpwa1JCQnZHb0dEeVl0bnFacUZLSzNzQ2gzYUxkcWh1eGd0QkRYaW80bHpQcGE2Mm5iUGFicG9Xd1Q0V1VmNQ?oc=5",
+        "source": "OSEN",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "재미교포 신인 드래프트 뚫고 V리그 첫 입성… 오드리 박 “난 100% 한국인”",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04MjA0ck1nTm5DQWNUalNsSDl0M1RlVXYyR2F0ZkFBT2N4dEFkLXdtSVkxZ3BySEE3ZWJIMFpWc3JNb1RoenNGWVR5RTI5d241dl9KUjlSUjhHazFxY1NHQURuanhnZS1BVjhUU0k0U014cHFL0gFmQVVfeXFMTlpleWJtbFpxUTIxSlhPbGJKS21pVndrbkRUYm44X2h0YzFHVVpJOEp0ajBLc3IxbENZOWNEN1p2VDV4QTlYZ1hBUXRFN29CUVlyZGpaRVJxelpuRHRGVW04a3BKMnF3?oc=5",
+        "source": "동아일보",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "음바페 ‘마오쩌둥 희화화’ 논란…중국서 잇단 손절",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14M0tqay1URVlIRzI5MHphX3pMOFlJNUdIZHFtYXRYbDhOVGpoYXk1bUx1SW9TdGlpanlFbDByM045empGWDZ3MEZTRnpXdXZDWE93SlNKRkVEMjQ?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "김성윤 자리에 박승규, 좌익수 자리엔 최형우…라인업 건드린 박진만이 옳았다",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yd21mVzR6VGd5ZGdlSXpFamRfWk1wVnMyLWRnRTFGRlBqa2pjVUFYSXphVTRLeWhRLTlaY1lqVGdNeXhKVjdPSWlWUFlhLTNUcVhqT0V1UjhBMEYxblHSAWNBVV95cUxOMW5KU19sN1lReVllekxuR0JYR01qVUdvWVZkbDRCY2VtQmVtTnZkZ1U5OG11b2NfR0FfRlB4Qk95RmYwS2hkWmVSMTVqak45NVRERHN0VFRWdXZ0Q0NHbUg0eHc?oc=5",
+        "source": "스포츠경향",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "원태인 PO 첫 승 마무리한 삼성라이온즈···PO 3차전 최원태 선발, 연승 도전",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXcnlPSGRpbW9jZ3YzZ0tZRTh0ODVmRVhvTEtWSGFtU21yRFVzZGZMY0ZBVUR5Q1FQYkgzd0JNLURtY0FjWFpZdmdEMzg?oc=5",
+        "source": "대구MBC",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "탬파베이 3연패 끝 기사회생...월드시리즈 5차전행",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xTjV3MUEtZDNob0hFRVVrOXdTWDhlYlNWaGpBa1pyd21vMDEzamlPeFNjZjVMejBTek83MUJCTS1Cd1ZFLW1ITGh0OG9vemhPSkIzcGUwWkNrejVvZkE?oc=5",
+        "source": "YTN",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "늦깎이 농구선수인 내가 신인 전체 1순위?",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzd2stUGlhT281c0x5eTFZa3FObm9tR1pfZk1pZDNuR1F4eGxzQjl4LS1mRm9fMUZwX052djVHMlNOZzJsMnV5enoxVnExaHY3Q2NIYXdKa1pWWl9vMGdVa2Vobjc2UQ?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "[W미디어데이] \"백투백가자\" vs \"L을 가져가\" 미디어데이 빛낸 선수들의 5글자 출사표",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MQVlnZEtfUjlvREpHT0ZUUDNSTVE0NS1UZE9jZWwwa3BIRnZiTERQY1IwQUhwVWRUVlI3LUZ4YXNIbUJ5WDA2SHY3VlYyVm5TZjR1WVdZTVl1OTZ2VjFMeFFJQU93YUVLZEE?oc=5",
+        "source": "루키",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "유효슈팅 하나 없었다…포항, 가시마에 0-3 완패 ‘ACLE 3연패’",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84UXd0NnF0U0N4czN4eTk3NnBhaWFteGRadVlfODdYLTN0dDA3MjEtQlRTMURuYXBMTHdFSmMwZ3dPSEFjU2JRcFEwdUdDSy1SNUdtXzF4YmFVQQ?oc=5",
+        "source": "경북매일",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "‘직접 해명!’ 손흥민에게 “니하오” 인종 차별한 LAFC 팬 억울함 토로···“스페인어로 ‘미호’라고 말했다”",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92Ull0WHZ5OVRkUk9MUGF1dU56TkVKa0hNNUNWRkU4SzU2MnBTd1NVakFyQ2htb2ItS3JsYWYwMUY5aFJYaVd3eFg5ekZ5RDRjb0FfZ2RUdHJPbEk4Z0E?oc=5",
+        "source": "스포츠경향",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "오세훈 시장, 아시안패러게임 출전 선수 격려 오찬",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE45UTNHei1YbzFTcFB6eEpmM1A3dklOVi1WWEdTUEtyaldzclBGbTRZR2Uya0w2dDRkekxMM0tGcXFaRGkyS2c?oc=5",
+        "source": "케이에스피뉴스",
+        "date": "2026-10-28"
       }
     ]
   }
