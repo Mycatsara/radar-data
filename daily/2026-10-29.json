@@ -501,6 +501,266 @@
           "date": "2026-10-28"
         }
       ]
+    },
+    "만두": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-29T11:41:00+09:00",
+      "lastSeen": "2026-10-29T11:41:00+09:00",
+      "news": [
+        {
+          "title": "닭뼈 갈아 만든 만두 속…생산업체마저 “먹지 마라”[아하중국]",
+          "url": "https://www.munhwa.com/article/11627106",
+          "source": "문화일보",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "[이 시각 핫뉴스] 중국 닭 목·뼈 갈아 소시지 생산…\"적게 먹어라\" 外",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261029054049rWF",
+          "source": "연합뉴스TV",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "'닭 목' 갈아 만든 반죽이 소���지 속으로…\"제발 적게 먹어라\" 中 업체가 뜯어말린 이유",
+          "url": "https://news.nate.com/view/20261028n38501",
+          "source": "네이트",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "커플": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-29T11:41:00+09:00",
+      "lastSeen": "2026-10-29T11:41:00+09:00",
+      "news": [
+        {
+          "title": "Couple to be charged after three children rescued from West Virginia ‘house of horrors’",
+          "url": "https://www.livenowfox.com/news/couple-charged-after-three-children-rescued-from-west-virginia-house-horrors",
+          "source": "LiveNOW from FOX",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Couple charged in disturbing child abuse case in Jackson County, W.Va., sheriff says",
+          "url": "https://abcnews4.com/news/nation-world/couple-charged-erica-clifford-gale-sayre-evans-west-virginia-jackson-county-felony-child-abuse-neglect-injury-razor-blade-child-protective-services-sheriff?teaserSource=trending",
+          "source": "WCIV",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "3 kids found living in \"House of Horrors\" faced \"disturbing mistreatment\" from West Virginia couple, officials say",
+          "url": "https://www.cbsnews.com/pittsburgh/news/child-abuse-house-of-horrors-west-virginia/",
+          "source": "CBS News",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "삼성전자 컨퍼런스콜": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-29T11:41:00+09:00",
+      "lastSeen": "2026-10-29T11:41:00+09:00",
+      "news": [
+        {
+          "title": "내일 삼성전자 컨퍼런스콜 '이것' 만큼은 꼭 주의하세요",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441768",
+          "source": "연합인포맥스",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "[속보] 삼성전자 3분기 영업이익 107조 4천 원‥현금배당 30조 원",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6861574_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "[속보] 삼성전자, 주당 4601원 배당…3분기 30조원 현금배당",
+          "url": "https://www.khan.co.kr/article/202610291020001",
+          "source": "경향신문",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "대우건설": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-29T11:41:00+09:00",
+      "lastSeen": "2026-10-29T11:41:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 27조 체코 원전 수주한 ‘팀코리아’ 갈라섰다…한수원, 시공계약 협상 결렬",
+          "url": "https://www.khan.co.kr/article/202610290957001",
+          "source": "경향신문",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "대우·두산 컨소 \"한수원이 10월초 갑자기 계약조건 변경 요구…원전 협상 재개해야\" - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102911094165944",
+          "source": "머니투데이",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "‘체코 원전 건설’ 한수원, 대우건설과의 시공협상 결렬",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/29/7VCVAU4RKZFARGGYDQ5XIIJ3SI/",
+          "source": "조선일보",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "삼성전자 ir": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-29T11:41:00+09:00",
+      "lastSeen": "2026-10-29T11:41:00+09:00",
+      "news": [
+        {
+          "title": "[오늘의 IR] 삼성전자ㆍ현대자동차ㆍ두산로보틱스 등",
+          "url": "https://www.etoday.co.kr/news/view/2641423",
+          "source": "이투데이",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "대한전선 29일 3분기 실적 공시…IR 중단기간 운영",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=394834",
+          "source": "비건뉴스",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "한화오션·삼성전기·에코프로 등…줄줄이 다가오는 실적 발표, 날짜는 언제?",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=617798",
+          "source": "CBC뉴스",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "마이리얼트립": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-29T11:41:00+09:00",
+      "lastSeen": "2026-10-29T11:41:00+09:00",
+      "news": [
+        {
+          "title": "마이리얼트립 개인정보 유출…일부 고객 여권번호까지 포함",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698412",
+          "source": "KBS 뉴스",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "여행 플랫폼 마이리얼트립, 이용자 여권번호 해킹당해",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1284754.html",
+          "source": "한겨레",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "마이리얼트립 해킹으로 개인정보 유출…여권번호·암호화된 비밀번호까지 노출",
+          "url": "https://www.dailysecu.com/news/articleView.html?idxno=209150",
+          "source": "데일리시큐",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "티앤이코리아": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-29T11:41:00+09:00",
+      "lastSeen": "2026-10-29T11:41:00+09:00",
+      "news": [
+        {
+          "title": "인텔리빅스·크리에이츠 등 코스닥 신규상장…30일 거래 개시",
+          "url": "https://www.yna.co.kr/view/AKR20261028182600008",
+          "source": "연합뉴스",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "고속터보기계 '티앤이코리아' 코스닥 상장 첫날 주가 장중 2배 '따블' 달성",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450592",
+          "source": "비즈니스포스트",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "[모닝 리포트] 티앤아이코리아, 美 SOFC 공급망 진입…내년 영업익 130%",
+          "url": "https://www.newspim.com/news/view/20261029000115",
+          "source": "뉴스핌",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "김영옥": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-29T11:41:00+09:00",
+      "lastSeen": "2026-10-29T11:41:00+09:00",
+      "news": [
+        {
+          "title": "‘88세’ 김영옥, 하루·이루네에 “나 죽을 때까지 활동해 줘, 난 잊을까 겁나”",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/28/MI3GEOJSHFTDSOJYGQZTKYLFGA/",
+          "source": "조선일보",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "김영옥, 하루·이루네에 용돈 선물 플렉스 \"내가 줄 수 있는 거 줬어\"('김영옥')",
+          "url": "http://www.osen.co.kr/article/G1112900017",
+          "source": "OSEN",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "88세 김영옥 “잊어 버릴까봐 겁나”…기억력 저하 걱정",
+          "url": "https://www.heraldk.com/article/2026102818401489260",
+          "source": "헤럴드경제 미주판",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "inter miami vs cincinnati": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-29T11:41:00+09:00",
+      "lastSeen": "2026-10-29T11:41:00+09:00",
+      "news": [
+        {
+          "title": "Lionel Messi, Inter Miami tabbed to play Cincinnati in MLS Sprint Season opener on Feb. 19",
+          "url": "https://www.bastillepost.com/global/article/6301981-lionel-messi-inter-miami-tabbed-to-play-cincinnati-in-mls-sprint-season-opener-on-feb-19",
+          "source": "巴士的報",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "Live coverage of Inter Miami vs FC Cincinnati: Inter Miami dominates possession but struggles to score, yet to find the net.",
+          "url": "https://baonghean.vn/en/truc-tiep-inter-miami-vs-fc-cincinnati-inter-miami-cam-bong-nhung-be-tac-chua-co-ban-thang-10354586.html",
+          "source": "Báo Nghệ An",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "MLS announces key 2027 'Sprint Season' matches ahead of calendar shift",
+          "url": "https://www.reuters.com/sports/soccer/mls-announces-key-2027-sprint-season-matches-ahead-calendar-shift-2026-10-29/",
+          "source": "Reuters",
+          "date": "2026-10-28"
+        }
+      ]
+    },
+    "운수": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-29T11:41:00+09:00",
+      "lastSeen": "2026-10-29T11:41:00+09:00",
+      "news": [
+        {
+          "title": "[오늘의 운세] 2026년 10월 29일 띠별 운세",
+          "url": "https://www.ytn.co.kr/_ln/0121_202610290000000001",
+          "source": "YTN",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "[오늘의 운세] 10월 29일 목요일 (음력 9월 19일) 띠별 운세",
+          "url": "https://www.kyeonggi.com/article/20261026580287",
+          "source": "경기일보",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "[오늘의 운세/10월 29일]",
+          "url": "https://www.donga.com/news/Culture/article/all/20261028/134928628/2",
+          "source": "동아일보",
+          "date": "2026-10-28"
+        }
+      ]
     }
   },
   "sections": {
@@ -1697,6 +1957,18 @@
         "title": "오세훈 시장, 아시안패러게임 출전 선수 격려 오찬",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE45UTNHei1YbzFTcFB6eEpmM1A3dklOVi1WWEdTUEtyaldzclBGbTRZR2Uya0w2dDRkekxMM0tGcXFaRGkyS2c?oc=5",
         "source": "케이에스피뉴스",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "\"품위 없는 행동!\" 韓 국가대표 황희찬 논란, 대기심을 밀쳤다...\"누구나 알고 있는 규칙\" 감독·수뇌부도 공개 비판→징계 위기",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa1lBdzduV1gzRUVWX2JfUHRRVnR6RnJXdFFENHhJd1d0TUFfTXJJSVA2ZTQ5RDJWN3ZZY3JUZmUxYVhPYWhMUFNHVVV1Y1o1cHc4cl9nQkFEbGhnUkdSbHlrQ0YwRlBEcFRNa2VVeFBhcE9ZbWwxVjJVM2J4Y2xnZ0k5Um9kQ3cyd2Fr?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "축구 국가대표 11월 소집 명단, 29일 천안서 발표…김민재·황희찬 복귀 주목 > 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5TMXh6Q1pqNjRMVjJGLXZXNzZWWmo4NGtJMWhSYWNWa2VRSk03UHllMDQwei0xT1BJQWJPMVNrYjdqM2s?oc=5",
+        "source": "천안신문",
         "date": "2026-10-28"
       }
     ]
