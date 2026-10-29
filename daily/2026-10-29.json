@@ -761,6 +761,266 @@
           "date": "2026-10-28"
         }
       ]
+    },
+    "삼성 대 kia": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-10-29T18:35:00+09:00",
+      "lastSeen": "2026-10-29T18:35:00+09:00",
+      "news": [
+        {
+          "title": "3차전이 분수령...시라카와-최원태, 맞대결",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610291709116919",
+          "source": "YTN",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "KIA전 3전 전패, 설욕 벼르는 페덱 \"이젠 사적인 감정→PO 4차전 선발 등판은 감독님 뜻대로\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102914082770382",
+          "source": "머니투데이",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "‘김영웅 대신 전병우’ 삼성, PO 3차전 선발 라인업 변화…최형우 2G 연속 좌익수 출장 [PO3]",
+          "url": "https://www.osen.co.kr/article/G1112900371",
+          "source": "OSEN",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "동굴": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-29T18:35:00+09:00",
+      "lastSeen": "2026-10-29T18:35:00+09:00",
+      "news": [
+        {
+          "title": "강원도, 11월 지질·생태명소에 삼척 대이리 동굴지대 선정",
+          "url": "https://www.yna.co.kr/view/AKR20261029063300062",
+          "source": "연합뉴스",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "늦가을의 서정…강원도 11월 명소, 삼척 대이리 동굴지대",
+          "url": "https://www.pressian.com/pages/articles/2026102912550042150",
+          "source": "프레시안",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "삼척 '대이리 동굴지대', 강원도 11월 지질·생태명소 선정",
+          "url": "https://news.tf.co.kr/read/national/2382201.htm",
+          "source": "더팩트",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "england vs sri lanka": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-29T18:35:00+09:00",
+      "lastSeen": "2026-10-29T18:35:00+09:00",
+      "news": [
+        {
+          "title": "Dead-rubber blues for England as Sri Lanka tune up for final",
+          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/england-vs-sri-lanka-6th-match-1550718/match-preview",
+          "source": "Cricinfo",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Sri Lanka v England: men’s cricket tri-series one-day international – live",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/29/sri-lanka-v-england-mens-cricket-tri-series-one-day-international-live",
+          "source": "The Guardian",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Sri Lanka vs England prediction, lineups and Gaddafi Stadium pitch report — who will win?",
+          "url": "https://sports.yahoo.com/articles/sri-lanka-vs-england-prediction-174731383.html",
+          "source": "Yahoo Sports",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "퇴직금": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-29T18:35:00+09:00",
+      "lastSeen": "2026-10-29T18:35:00+09:00",
+      "news": [
+        {
+          "title": "모든 사업장 '퇴직급여 사외적립' 의무화…2030년까지 단계 확대",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974546",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "퇴직금 체불 막는다…2030년까지 사외적립 의무화",
+          "url": "https://www.sedaily.com/article/20107956",
+          "source": "서울경제",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "퇴직연금 '위험자산 70% 상한' 완화, 국민연금 참여도 검토…'쥐꼬리 수익률' 개선될까 - 머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/10/29/2026102915341185216",
+          "source": "머니투데이",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "sk": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-29T18:35:00+09:00",
+      "lastSeen": "2026-10-29T18:35:00+09:00",
+      "news": [
+        {
+          "title": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings",
+          "url": "https://www.wsj.com/business/earnings/sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-f3a460b7",
+          "source": "WSJ",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+          "url": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
+          "source": "CNBC",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "SK hynix Announces 3Q26 Financial Results",
+          "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+          "source": "SK hynix",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "은가은": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-29T18:35:00+09:00",
+      "lastSeen": "2026-10-29T18:35:00+09:00",
+      "news": [
+        {
+          "title": "‘미스트롯’ 은가은, 스케줄 때문에 유도분만 “진통 8시간” (‘살림남’)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/29/ME2TAYJSGY4TQOBVMQ4GINRYG4/",
+          "source": "조선일보",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "은지원 \"어렸을 때 병원에서 살았다\" 고백",
+          "url": "https://www.newsis.com/view/NISX20261029_0003845638",
+          "source": "뉴시스",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "‘박현호♥’ 은가은, 딸 서원이 출산 때 진통 8시간…“유도분만에 고생”",
+          "url": "https://sports.donga.com/ent/article/all/20261029/134929591/1",
+          "source": "스포츠동아",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "009830": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-29T18:35:00+09:00",
+      "lastSeen": "2026-10-29T18:35:00+09:00",
+      "news": [
+        {
+          "title": "AJP Factbox: Hanwha Solutions swings to Q3 2026 profit",
+          "url": "https://www.ajupress.com/view/20261029145024815",
+          "source": "Aju Press",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Hanwha Systems Posts 831.6 Billion Won in Third-Quarter Revenue on Defense Growth",
+          "url": "https://www.thelec.net/news/articleView.html?idxno=14974",
+          "source": "THE ELEC, Korea Electronics Industry Media",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Hanwha Solutions returns to profit with 90.5 billion won Q3 operating profit on strong solar business",
+          "url": "https://www.mt.co.kr/en/industry/2026/10/29/2026102914054918433",
+          "source": "머니투데이",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "풍자": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-29T18:35:00+09:00",
+      "lastSeen": "2026-10-29T18:35:00+09:00",
+      "news": [
+        {
+          "title": "풍자, 37kg 감량하더니 확 달라졌다…신기루와 투샷서 물오른 미모 ‘눈길’",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/GRSDAYZSGZSWCNLGGUYWIN3CMQ/",
+          "source": "Chosunbiz",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "풍자, 37㎏ 감량하더니 확 달라진 얼굴…이목구비 또렷 [N샷]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6335338",
+          "source": "뉴스1",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "‘37kg 감량’ 풍자, 신기루 옆에서 소두 인증…얼굴이 반쪽 됐네",
+          "url": "https://sports.khan.co.kr/article/202610281601003",
+          "source": "스포츠경향",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "005930": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-10-29T18:35:00+09:00",
+      "lastSeen": "2026-10-29T18:35:00+09:00",
+      "news": [
+        {
+          "title": "Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope",
+          "source": "Bloomberg",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+          "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+          "source": "CNBC",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Samsung’s Chip Profit Drives Another Record Quarter",
+          "url": "https://www.wsj.com/business/earnings/samsung-posts-fourth-straight-quarter-of-record-earnings-1373e927",
+          "source": "WSJ",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "장신영": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-29T18:35:00+09:00",
+      "lastSeen": "2026-10-29T18:35:00+09:00",
+      "news": [
+        {
+          "title": "`강경준 용서` 장신영, 마음고생 털어냈나…레깅스 입고 뽐낸 탄탄 몸매",
+          "url": "https://mydaily.co.kr/page/view/2026102909025085632",
+          "source": "마이데일리",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "장신영, 햇살 아래 계단 산책…등산 근황 전했다",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16260690",
+          "source": "톱스타뉴스",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "‘남편 용서’ 장신영, 안개 낀 한라산 등반…활동 중단 ♥강경준도 함께 올랐나",
+          "url": "https://m.newsen.com/news_view.php?uid=202610210958300310",
+          "source": "뉴스엔",
+          "date": "2026-10-29"
+        }
+      ]
     }
   },
   "sections": {
