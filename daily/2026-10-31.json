@@ -501,6 +501,247 @@
           "date": "2026-10-30"
         }
       ]
+    },
+    "테슬라": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-31T08:38:00+09:00",
+      "lastSeen": "2026-10-31T08:38:00+09:00",
+      "news": [
+        {
+          "title": "[횡설수설/신광영]중국산 테슬라 ‘탈옥’",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261029/134936061/2",
+          "source": "동아일보",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "한의약진흥원과 테슬라 FSD…국가의 보호막은 언제까지",
+          "url": "https://www.medigatenews.com/news/1376431761",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "’테슬라 완전자율주행 환불 요구’ 차주들 패소",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030014353QoP",
+          "source": "연합뉴스TV",
+          "date": "2026-10-30"
+        }
+      ]
+    },
+    "직장폐쇄": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-31T08:38:00+09:00",
+      "lastSeen": "2026-10-31T08:38:00+09:00",
+      "news": [
+        {
+          "title": "WS 우승 기쁨도 잠시… 밀워키, 직장폐쇄 위기",
+          "url": "https://www.munhwa.com/article/11627545",
+          "source": "문화일보",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "다저스 선수 영입도 중단되나…MLB 12월 직장폐쇄 위기",
+          "url": "https://www.radiokorea.com/news/article.php?uid=508309",
+          "source": "라디오코리아",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "스몰마켓 WS 반작용? \"샐러리캡 필요해\" 더 커진 구단주들 목소리…결국 직장폐쇄 수순으로 가나",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/25/MUZWKYLDGZTDSOLGHBRDGYZYGI/",
+          "source": "조선일보",
+          "date": "2026-10-30"
+        }
+      ]
+    },
+    "증여": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-31T08:38:00+09:00",
+      "lastSeen": "2026-10-31T08:38:00+09:00",
+      "news": [
+        {
+          "title": "“내 아들 대신 네 딸에게”…수상한 증여의 반전[세금, 그 후]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01082406645618496&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "[포커스] '주가 누르기' 끝낼 수 없나‥정부안 부족하다면 어떻게?",
+          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6861681_36974.html",
+          "source": "MBC 뉴스",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "이훈기 \"주가누르기방���법, 11월 조세소위 논의…정기국회 통과 목표\" - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/10/28/2026102816283799336",
+          "source": "머니투데이",
+          "date": "2026-10-30"
+        }
+      ]
+    },
+    "포스코노동조합": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-31T08:38:00+09:00",
+      "lastSeen": "2026-10-31T08:38:00+09:00",
+      "news": [
+        {
+          "title": "포스코노사 3차 파업 앞두고 극적 타결…기본급 2.6% 인상(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261030171151053",
+          "source": "연합뉴스",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "140일 만에…포스코 노사, 기본급 2.6%↑ 임금교섭 잠정 합의",
+          "url": "https://view.asiae.co.kr/article/2026103019213680131",
+          "source": "아시아경제",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "파업 위기 넘긴 포스코…임단협 잠정 합의",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442277",
+          "source": "연합인포맥스",
+          "date": "2026-10-30"
+        }
+      ]
+    },
+    "박서진": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-31T08:38:00+09:00",
+      "lastSeen": "2026-10-31T08:38:00+09:00",
+      "news": [
+        {
+          "title": "박서진, '세월이길 장사있나' 리메이크 이유? \"빛을 봤으면…그때와 다른 느낌 들지 않을까\"",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264049",
+          "source": "톱스타뉴스",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "'집돌이' 은지원, 재혼 후 반전...이승기도 '깜짝' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102905350572744",
+          "source": "머니투데이",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "은지원, ♥9살 연하 아내와 '결혼 1주년' 캠핑카 여행..달달 신혼 근황 ('살림남')",
+          "url": "https://www.osen.co.kr/article/G1112900944",
+          "source": "OSEN",
+          "date": "2026-10-30"
+        }
+      ]
+    },
+    "이수현": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-31T08:38:00+09:00",
+      "lastSeen": "2026-10-31T08:38:00+09:00",
+      "news": [
+        {
+          "title": "이수현 “뼈말라, 나한텐 칭찬 아냐”…30kg 감량 후 불편한 심경",
+          "url": "https://sports.donga.com/ent/article/all/20261030/134938610/1",
+          "source": "스포츠동아",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "악뮤 수현, 안경 쓰고 귀여움까지 장착…30㎏ 감량 후 매일이 ‘리즈’",
+          "url": "https://www.sedaily.com/article/20107721",
+          "source": "서울경제",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "안경 쓰고 귀여움 장착...악뮤 수현, 30kg 감량 후 매일이 리즈",
+          "url": "https://www.sportsseoul.com/news/read/1645082",
+          "source": "스포츠서울",
+          "date": "2026-10-30"
+        }
+      ]
+    },
+    "김재중": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-31T08:38:00+09:00",
+      "lastSeen": "2026-10-31T08:38:00+09:00",
+      "news": [
+        {
+          "title": "김재중 中 팬미팅 돌연 취소→3주째 환불 無…소속사 결국 법적 대응",
+          "url": "https://www.mk.co.kr/news/hot-issues/12189821",
+          "source": "매일경제",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "김재중, 중국 팬미팅 취소 후 환불 지연…주최사에 법적 대응",
+          "url": "https://news.tf.co.kr/read/entertain/2382668.htm",
+          "source": "더팩트",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "김재중 中 팬미팅, 취소 3주 지났는데도 환불 아직… 소속사 \"법적 대응\"",
+          "url": "https://www.hankookilbo.com/news/article/A2026102916120003646",
+          "source": "한국일보",
+          "date": "2026-10-30"
+        }
+      ]
+    },
+    "나스닥 100": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-31T08:38:00+09:00",
+      "lastSeen": "2026-10-31T08:38:00+09:00",
+      "news": [
+        {
+          "title": "알파벳 시총 5,000억 달러 증발, 뉴욕증시 일제히 하락",
+          "url": "https://story.pay.naver.com/content/3824_2_C1",
+          "source": "네이버페이 머니스토리",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "AI가 잘될수록 손해? ‘AI의 역설’... 구글 시총 669조원 하룻밤 새 증발",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/30/2D5JN3LFSZDS7HSBWWJ4JOYYX4/",
+          "source": "조선일보",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "[속보] 뉴욕 증시, 기술주 실적 부진에 하락 출발···다우 0.27%↓ 나스닥 2.42%↓",
+          "url": "https://www.newsis.com/view/NISX20261030_0003849101",
+          "source": "뉴시스",
+          "date": "2026-10-30"
+        }
+      ]
+    },
+    "신세계백화점 강남점": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-31T08:38:00+09:00",
+      "lastSeen": "2026-10-31T08:38:00+09:00",
+      "news": []
+    },
+    "김구라": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-31T08:38:00+09:00",
+      "lastSeen": "2026-10-31T08:38:00+09:00",
+      "news": [
+        {
+          "title": "'김구라 아들' 그리, 연수입 3억·30평 아파트 마련…\"3년 내 결혼 목표\"",
+          "url": "https://www.newsis.com/view/NISX20261030_0003849082",
+          "source": "뉴시스",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "'구리 아파트 대박' 김구라 아들 그리 \"6만원에 산 주식 120만원\" 깜짝",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6337297",
+          "source": "뉴스1",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "그리, 父 김구라 믿고 투자했다가 '상장폐지'…\"주워온 자식인가 싶었다\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-30/202610300100193150013362",
+          "source": "스포츠조선",
+          "date": "2026-10-30"
+        }
+      ]
     }
   },
   "sections": {
@@ -1088,6 +1329,24 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QeVR1T2tfTlFIcU0wbzJJdEV0M3FLTWx3YWE4NVVzRXdrdFE3dkdaMWpMNmFDdUlLTEVWTFhiUmtrR2VUNi1mRE1IYUNUa2VxVVlvU3dDaWYybDdNbUlhNWJncFlDUkJJYmc?oc=5",
         "source": "AI타임스",
         "date": "2026-10-29"
+      },
+      {
+        "title": "체코 원전서 드러난 ‘선(先) 선정·후(後) 단가 협상’의 촌극… 한수원 원전 수주 관행 도마 위",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHY3LXhyRjBQTmwwdGswVjR2dDZramFBZ1BIZ01ua2ZneXNfQWRnUFNpeUZCek41M1JWUGxGdTh4MFdfUUg2NlgxMXFRNU9uck53ekJCSUc0bTBaQV9mU3lOaFRlLVZ2M0l3WXVqZlE5SmVTWkdtWTQtRHlkdi1BNFI1LTTSAZgBQVVfeXFMUE0yazF2S0RNVk1aRXVaSnpWWlhaQVZDdjU1QktULWJqcmFWNU96d2pfREZVVlFuTEc0TTJRRFpDbGtRV0JrdUJmY2wxN1pWNjhWMDNjREZQZkJsMGt4VzFobmt3X2pEMDNxSzRiWjNCSG1jam8tQW9xSWV3Z0sydFJLV2U3YUQ2OWV5czlucGJURkxfYTA0V1E?oc=5",
+        "source": "Chosunbiz",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "비트코인 1만8000달러 하락 가능성 언급…스트래티지 CEO, 78% 조정 시 자산·의무 1배",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FWGlWV2hPMTdGYnZSN3dPVV82RUdZT2d4emRmcTFsSmdGUHA1NEJfVjdoejhFVlZ0bjMycFpMN3ZBV0xvaFVIbldIdm5ONEtyYXVObGUzdVBnUTRQR0xUNdIBZkFVX3lxTFBZQ003VmE1N0hqWFh6eGczSkVlYXNtMUIwQllvQmZWOHVTbm4zTC1hd1VYcXVXMDJyRlA1TDluSW5wbUhMT3dGQ184RVBhWHAyWGJ3UTFYT0VBcWkwRUt1cnpqUS1KUQ?oc=5",
+        "source": "토큰포스트",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "루미스, 바이낸스도 클래리티 법안 ‘적용 대상’ 될 수 있다고 봐",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WQmJkenNhbzhnZDhGSjNabnp2TURHMmhHQmNGX0VpZHJ1S0Q4RG5NUHZmMk5WR2ozVmw1bjNGbnhXR1BhZWMtWHFRX0tFLU5SaGQxdjhn0gFbQVVfeXFMTl9GVkl3SFBCdklvZ2t1RDYxbU5xdXZ3a2YzSFJBdk91LXZzVGdyYTBITGNWUjM2VnUtWjdoWkdJZHJ2NnlCQk5yWFdyOUFiM3B6UWk0YzdHWTBsQQ?oc=5",
+        "source": "토큰포스트",
+        "date": "2026-10-30"
       }
     ],
     "ENTERTAINMENT": [
@@ -1679,6 +1938,18 @@
         "title": "김동현, 압구정 100억 아파트 샀는데…50억 빌려준 사람 누구? [집코노미-핫!부동산]",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05Yl8wLTdxWW56bHRrSmpOQm1wRUJZX2VobW9fZExVSUpBQ3FxdEZGbmJBLXBCVWg2Nm43ejFHeW94TEFlcmJ5azFiTDctMmZpaFJ4WkhHdVhCUQ?oc=5",
         "source": "한국경제",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "삼성 라이온즈, 실책 3개에 무너졌다…KIA에 2-4 역전패, 한국시리즈행 5차전으로",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEN0VzOGJ5X0czbU14bGNrekRGTVNqMDQzVEdidWxnV1ZHSmdGbExHYjRieXh0UGI1R2JGZldTbmNLdHJjYnk0eVhkTDRKUThMeUJ1dWNDWkpjRTRGSE9XRzh1ZjFUVGRhNThzck5hQQ?oc=5",
+        "source": "경북일보",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "[PO 포커스] '2번타자' 김도영 승부수 적중...3출루 2득점으로 KIA 역전승 견인",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TQnp6TjZ6QlFjV3VQQjNQZ2JtOHhvTFlnd3BiMGNrazAtWl8xZkZ5RnZhdHhGYTlUNTFnNjhSNTNFU0NUcGV3VnhVTlNETUZmQzVsd0F5Y0ZhZw?oc=5",
+        "source": "뉴스핌",
         "date": "2026-10-30"
       }
     ]
