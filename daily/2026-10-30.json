@@ -495,6 +495,266 @@
           "date": "2026-10-29"
         }
       ]
+    },
+    "binance": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-30T10:41:00+09:00",
+      "lastSeen": "2026-10-30T10:41:00+09:00",
+      "news": [
+        {
+          "title": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
+          "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+          "source": "CNBC",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "Rumors of Multi-Billion Dollar Hack Hit World's Largest Crypto Exchange Binance",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008822431",
+          "source": "news.sbs.co.kr",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "Binance Halts Withdrawals as Suspected Hack Spurs Crypto Selloff",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls",
+          "source": "Bloomberg.com",
+          "date": "2026-10-30"
+        }
+      ]
+    },
+    "항공대": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-30T10:41:00+09:00",
+      "lastSeen": "2026-10-30T10:41:00+09:00",
+      "news": [
+        {
+          "title": "한국항공대, 동아리 문화 한마당서 진로·취업 지원 사업 홍보 활동",
+          "url": "https://news.unn.net/news/articleView.html?idxno=599579",
+          "source": "한국대학신문",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "서해해경청 군산회전익항공대, 20년 무사고 비행 기록 달성",
+          "url": "https://www.yna.co.kr/view/AKR20261029174400054",
+          "source": "연합뉴스",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "서해해경청 군산항공대, '무사고 비행 20주년' 금자탑",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846566",
+          "source": "뉴시스",
+          "date": "2026-10-30"
+        }
+      ]
+    },
+    "보안뉴스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-30T10:41:00+09:00",
+      "lastSeen": "2026-10-30T10:41:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 미래에셋생명 유출사고, ‘웹셸’ 업로드 취약점 때문이었다",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146869",
+          "source": "보안뉴스",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "빗썸 해킹으로 고객 계좌번호·신분증 사본까지 털려(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261029169152002",
+          "source": "연합뉴스",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "빗썸, 고객정보 844건 유출...프라뱅은 자산 탈취까지",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610292322274540",
+          "source": "YTN",
+          "date": "2026-10-30"
+        }
+      ]
+    },
+    "cve-2026-98432": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-30T10:41:00+09:00",
+      "lastSeen": "2026-10-30T10:41:00+09:00",
+      "news": [
+        {
+          "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+          "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+          "source": "The Hacker News",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+          "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+          "source": "The Hacker News",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Claude AI Exploits Linux Kernel Flaw to Execute Root Commands Without User Interaction",
+          "url": "https://cybersecuritynews.com/linux-kernel-flaw-root-commands/",
+          "source": "CyberSecurityNews",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "농구": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-30T10:41:00+09:00",
+      "lastSeen": "2026-10-30T10:41:00+09:00",
+      "news": [
+        {
+          "title": "프로농구 '디펜딩 챔피언' KCC, 현대모비스에 덜미…7연패 수렁",
+          "url": "https://www.yna.co.kr/view/AKR20261029205300007",
+          "source": "연합뉴스",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "'NBA 클래스 살아있네' 베즐리 23점·12리바·10도움 '시즌 1호 트리플더블'... 8위 현대모비스도 반등할까 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103006384684479",
+          "source": "머니투데이",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "현대모비스 베즐리, 시즌 1호 '트리플더블'",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822334",
+          "source": "SBS 뉴스",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "미래에셋증권": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-30T10:41:00+09:00",
+      "lastSeen": "2026-10-30T10:41:00+09:00",
+      "news": [
+        {
+          "title": "[게시판] 미래에셋투자와연금센터, 연금투자자 절세 안내서 발간",
+          "url": "https://stock.mk.co.kr/news/view/1185354",
+          "source": "매일경제 마켓",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "\"연금투자도 절세 방법 있다\" 미래에셋투자와연금센터, 연금 세금상식 발간",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03552246645618168",
+          "source": "마켓인",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "퇴직연금 잘 받는 것도 재테크…내 노후 지켜줄 5가지 전략",
+          "url": "https://www.hankyung.com/article/202610294481i",
+          "source": "한국경제",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "이용": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-30T10:41:00+09:00",
+      "lastSeen": "2026-10-30T10:41:00+09:00",
+      "news": [
+        {
+          "title": "미니창고 다락, 월 구독 없는 단기 보관 서비스 출시",
+          "url": "https://www.hellot.net/news/article.html?no=115815",
+          "source": "헬로티",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "작은 창고에 맡긴 내 살림살이",
+          "url": "https://www.danbinews.com/news/articleView.html?idxno=34042",
+          "source": "단비뉴스",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "셀프스토리지 미니창고 다락, 하루 2500원부터 ‘단기 이용’ 서비스 출시",
+          "url": "https://www.kmkj.kr/news/articleView.html?idxno=141969",
+          "source": "국민기자뉴스",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "이예원": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-30T10:41:00+09:00",
+      "lastSeen": "2026-10-30T10:41:00+09:00",
+      "news": [
+        {
+          "title": "정소이, KLPGA 투어 에쓰오일 챔피언십 1R 단독 1위…첫 승 도전(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261029187551007",
+          "source": "연합뉴스",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "서교림 빠지니 힘 빠진 김민솔?",
+          "url": "https://sports.khan.co.kr/article/202610300100006",
+          "source": "스포츠경향",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "[핌in제주] '마지막 6개 홀 버디 5개' 정소이, S-오일 1R 선두...이예원 1타 차 2위",
+          "url": "https://www.newspim.com/news/view/20261029001374",
+          "source": "뉴스핌",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "압수수색": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-30T10:41:00+09:00",
+      "lastSeen": "2026-10-30T10:41:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 아주대병원장 \"경찰, 수차례 '죄송하다' 사과…사직서 제출 3명도 설득할 것”",
+          "url": "https://www.medigatenews.com/news/2021867961",
+          "source": "MEDI:GATE NEWS",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "\"압수수색 당시 생사 갈림길 환자 있었다\"...의료계, 경찰 규탄하며 대책 요구[현장영상+]",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610301014447221",
+          "source": "YTN",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "아주대병원 찾는 경찰 고위간부…소아응급 사태 수습될까",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015167",
+          "source": "의학신문",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "메이저 리그 사커": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-30T10:41:00+09:00",
+      "lastSeen": "2026-10-30T10:41:00+09:00",
+      "news": [
+        {
+          "title": "손흥민 위상 새삼 실감 난다…MLS 도전한 레반돕 대굴욕 “15년 만 처음으로 8경기 연속 무득점”",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100037",
+          "source": "포포투",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "'충격 평가' 손흥민+메시+레반도프스키 사실상 K리그서 뛰는 수준...헝가리-키프로스-폴란드보다 낮은 MLS",
+          "url": "https://www.sportschosun.com/football/2026-10-29/202610290100186540012693",
+          "source": "스포츠조선",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "미국 MLS에서 8경기 연속 무득점… 굴욕의 레반도프스키, 유럽 폭격하던 그 골잡이 맞아?",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313596",
+          "source": "베스트일레븐",
+          "date": "2026-10-29"
+        }
+      ]
     }
   },
   "sections": {
