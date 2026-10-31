@@ -260,6 +260,266 @@
           "date": "2026-10-31"
         }
       ]
+    },
+    "레알 베티스 대 말라가": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-01T04:52:00+09:00",
+      "lastSeen": "2026-11-01T04:52:00+09:00",
+      "news": [
+        {
+          "title": "Notre Dame 35-13 Navy (Oct 31, 2026) Box Score",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401859185",
+          "source": "ESPN",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "Blackhawks vs. Bruins (Oct 31, 2026) Live Score",
+          "url": "https://www.espn.com/nhl/game/_/gameId/401892614",
+          "source": "ESPN",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "Western Michigan 23-10 Bowling Green (Oct 31, 2026) Box Score",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866452",
+          "source": "ESPN",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "spurs vs palace": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-01T04:52:00+09:00",
+      "lastSeen": "2026-11-01T04:52:00+09:00",
+      "news": [
+        {
+          "title": "Premier League predictions & Jones Knows' best bets: Liverpool vs Arsenal, Tottenham vs Crystal Palace and much more",
+          "url": "https://www.skysports.com/football/news/13604412/premier-league-predictions-and-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more",
+          "source": "Sky Sports",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "BBC journalist singles out Crystal Palace star who has badly let Pierre Sage down after Tottenham display",
+          "url": "https://www.livescore.com/en/news/football/premier-league/bbc-journalist-singles-out-crystal-palace-star-who-has-badly-let-pierre-sage-down-after-tottenham-display-caughtoffside/",
+          "source": "LiveScore",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "+\"livestream\"]prime] Minnesota vs Indiana Live free streams 31 October 2026",
+          "url": "https://www.laorotava.es/turismo/museos/?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vcGl4aXJlZWwuY29tL3ZodC91ay54bWwiLz48L2tycGFubz4=&id=video-minnesota-vs-indiana-liv-str-football-en-tv-us17",
+          "source": "Villa de la Orotava",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "토트넘": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-01T04:52:00+09:00",
+      "lastSeen": "2026-11-01T04:52:00+09:00",
+      "news": [
+        {
+          "title": "\"韓 스타 또 기회 살렸다!\" 오현규, 투톱서도 결승골 작렬...튀르키예 매체도 반했다 \"주전 블라호비치, 더 큰 압박 느낄 거야\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/202610301444773989O",
+          "source": "머니투데이",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "손흥민 떠난 토트넘이 다시 한국인 골잡이 주목 \"잉글랜드에 완벽히 들어맞는 공격수\"…오현규, 블라호비치와 경쟁하더니 EPL도 주목",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016703",
+          "source": "SPOTV NEWS",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "‘韓 국대’ 오현규, 오는 1월 ‘프리미어리그 입성’ 토트넘 유니폼 입고 가능할까···“여름은 몰라도 겨울 이적...",
+          "url": "https://sports.khan.co.kr/article/202610301919003",
+          "source": "스포츠경향",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "바이에른 뮌헨": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-01T04:52:00+09:00",
+      "lastSeen": "2026-11-01T04:52:00+09:00",
+      "news": [
+        {
+          "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/",
+          "source": "조선일보",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "사타구니부상 '김민재, 마침내 복귀 임박!' 바이에른 벤치 돌아왔다…도르트문트전 출격 가능성",
+          "url": "https://www.osen.co.kr/article/G1112901767",
+          "source": "OSEN",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "'부상' 김민재, 라이벌 도르트문트전서 복귀할까…모레노도 주목",
+          "url": "https://www.newsis.com/view/NISX20261030_0003849010",
+          "source": "뉴시스",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "트위치": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-01T04:52:00+09:00",
+      "lastSeen": "2026-11-01T04:52:00+09:00",
+      "news": [
+        {
+          "title": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대",
+          "url": "https://www.donga.com/news/Economy/article/all/20261030/134932454/1",
+          "source": "동아일보",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "엔씨 '아이온2' 日 스팀 3주 연속 매출 1위",
+          "url": "https://news.mtn.co.kr/article/2026103016220346703",
+          "source": "MTN 머니투데이방송",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "엔씨 '아이온2', 일본서 3주 연속 판매 1위…유럽·남미서도 흥행",
+          "url": "https://www.hankyung.com/article/202610306269i",
+          "source": "한국경제",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "twitch": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-01T04:52:00+09:00",
+      "lastSeen": "2026-11-01T04:52:00+09:00",
+      "news": [
+        {
+          "title": "Twitch gains 4% to 4.51bn hours in Q3 as Kick grows 30.7%",
+          "url": "https://ppc.land/twitch-gains-4-to-4-51bn-hours-in-q3-as-kick-grows-30-7/",
+          "source": "PPC Land",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "Inside Kai Cenat's Lifestyle: Streaming Success, Luxury Purchases And Career Beyond Twitch",
+          "url": "https://sports.ndtv.com/us/us-streamers/inside-kai-cenats-lifestyle-streaming-success-luxury-purchases-and-his-career-beyond-twitch-12262568",
+          "source": "NDTV Sports",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "Kai Cenat Net Worth In 2026: Mafiathon Earnings, Brand Deals, YouTube Income, and More",
+          "url": "https://sports.ndtv.com/us/us-streamers/kai-cenat-net-worth-in-2026-mafiathon-earnings-brand-deals-youtube-income-and-more-12255178",
+          "source": "NDTV Sports",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "바이에른 대 도르트문트": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-11-01T04:52:00+09:00",
+      "lastSeen": "2026-11-01T04:52:00+09:00",
+      "news": [
+        {
+          "title": "'김민재 선발! 요나탄 타는 벤치' 콤파니의 선택은 韓 철기둥이었다...바이에른, 도르트문트와 분데스리가 1위 놓고 정면충돌",
+          "url": "https://www.osen.co.kr/article/G1112902057",
+          "source": "OSEN",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "바이에른 뮌헨 vs 보루시아 도르트문트 예측: 선두 자리를 향한 경쟁이 더욱 치열해집니다.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-bayern-munchen-vs-borussia-dortmund-cuoc-dua-ngoi-dau-nong-len",
+          "source": "Vietnam.vn",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "분데스리가 바이에른 뮌헨 대 도르트문트 생중계 링크",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bayern-munich-vs-dortmund-tai-bundesliga-1792458.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "헐 시티 대 입스위치": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-01T04:52:00+09:00",
+      "lastSeen": "2026-11-01T04:52:00+09:00",
+      "news": [
+        {
+          "title": "Hull City 2-2 Ipswich: Stunning Julio Enciso strike earns visitors point as Tigers' winless run extends to seven games",
+          "url": "https://www.skysports.com/football/news/13606108/hull-city-2-2-ipswich-stunning-julio-enciso-strike-earns-visitors-point-as-tigers-winless-run-extends-to-seven-games",
+          "source": "Sky Sports",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "Premier League: Sergej Jakirovic post match interview",
+          "url": "https://www.bbc.com/sport/football/videos/ck0e0y180z90o",
+          "source": "BBC",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "Hull 2-2 Ipswich (Oct 31, 2026) Game Analysis",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401878763",
+          "source": "ESPN",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "크리스타 파이크": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-01T04:52:00+09:00",
+      "lastSeen": "2026-11-01T04:52:00+09:00",
+      "news": [
+        {
+          "title": "'독극물 사형' 생존 美죄수 \"육체와 마음에 통증\"…재집행 거부",
+          "url": "https://www.yna.co.kr/view/AKR20261031047700009",
+          "source": "연합뉴스",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "독극물 주입에도 살아남은 美 사형수…“몸·영혼에 깊은 상처”",
+          "url": "https://www.kyeonggi.com/article/20261031580092",
+          "source": "경기일보",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "“홀로 깨어난 후 매 순간이 고통” 약물 사형실패 女",
+          "url": "https://www.munhwa.com/article/11627774",
+          "source": "문화일보",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "npl": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-01T04:52:00+09:00",
+      "lastSeen": "2026-11-01T04:52:00+09:00",
+      "news": [
+        {
+          "title": "Waterlogged TU cricket ground (photos)",
+          "url": "https://english.onlinekhabar.com/waterlogged-tu-cricket-ground.html",
+          "source": "OnlineKhabar English News",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "Match Predictions: Nepal Premier League 2026 - Lumbini Lions vs Chitwan Rhinos - Sudurpaschim Royals vs Biratnagar Kings - 31st October",
+          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-lumbini-lions-vs-chitwan-rhinos-sudurpaschim-royals-vs-biratnagar-kings-31st-october/114116.htm",
+          "source": "Cricket World",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "विराटनगर किंग्स Sets 106-Run Target for सुदूरपश्चिम रोयल्स",
+          "url": "https://english.ratopati.com/story/85272/biratnagar-kings-scored-105-runs-in-five-overs",
+          "source": "Ratopati",
+          "date": "2026-10-31"
+        }
+      ]
     }
   },
   "sections": {
@@ -823,6 +1083,30 @@
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EWDlzTi1jVm1SSTZDdy05aG54UnNJODFKMWxzZnN3RTNSM2Fuc0N4MWlWbXA2alk2eHMyaDl3NnQyMkZwWkdkbS1ScmlRcjJh?oc=5",
         "source": "문화일보",
         "date": "2026-10-29"
+      },
+      {
+        "title": "“젠슨 황 옆 분홍 원피스 여인, 중국 스파이였다”…전 세계 ‘발칵’ [잇슈#태그]",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyNklRR1lnNlRuOEdLUzJyb3ZqYWs3RHdfcFhQUlNEQlNySXVmTjNlb2gwRjY2NmhKNnFtdkFDaU4yV1RnVXNpa0RKaEZzRzNKMHVLTEZZMmFyOHc?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "“23살에 시작한 투자, 23억 날렸다”…깨달은 생존매매법은? [경제한방]",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85MkwyZmo0XzRTcGQzWW1oSmdSWjgzY21oV1VxLWRyc093OVdVM0cxbkNZOFJyQ0xpRy1NSDlaOVB0a1pnRDFQSXlxdGs4UzVxWkFRQU1DNXRhN0E?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "XRP 10월 16.1% 하락…30일 수수료 소각 1688.847122개",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Rak5CRFZ0cU5wR0FFZE5LU3F1dUthclpIQm92QVlDWVpJUWFKMVIzNU5YQl8zSlRTdWs0cTM1MDBPZDlGR2hCa0pYWnk1bmNIb0x3bUxTS0R0dzlTay1ScNIBZkFVX3lxTE80bFBrM1YwRmQ2Q2oyTmh0aHozS3VlZ2tlWXUtUzIxeWU1aFdPVEFrSnRUYnpnRnhsTHlxUUhkaTJCYVhheGJHal82Xy1UVGxRV1F0M2FwM25xWUg1TVhkd2ExM0t3UQ?oc=5",
+        "source": "토큰포스트",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "\"아래엔 푸른 구슬\"…구글 첫 우주데이터센터 AI 응답은 시 한편",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hNFhaRXNweG5IeldpZkRzZW9uUG1sdVZCV214MmxCQXZCLTlKZ2JLVWV1QjZIN0ZEUTVvV3B2SHZPOEJEdWpGcnZoTWJyWm9qNmV2ZXdLX3lvRjjSAWBBVV95cUxOUUhwYmJmV0dJa3ZlTENabTRYdndmMGFXWnY1R3hTNFRWT1p5bGt3ZDBQbVBFaEFGeHZzSDkwRWlDVzdGUnRXRFp5bi0tSk1sWXhVb3RNcFJwNEZOMlVuSUc?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-31"
       }
     ],
     "ENTERTAINMENT": [
@@ -1307,6 +1591,72 @@
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nOGVmWG1vaWJ5RGxIRGV0Wmx5VkRDeHBsUDNzM1lIaHhHUlFhTlF3aGt1OUgyWUtWRlhjb3hZcnhLN20zWkgzQ2RJQzVPazdoOS1NcQ?oc=5",
         "source": "엑스포츠뉴스",
         "date": "2026-10-29"
+      },
+      {
+        "title": "수원, 다잡았던 승격 놓쳤다! '강현묵-김주찬 연속골' 2-0→2-2, '세징야 환상 동점골' 대구와 무승부...매직넘버 1+13경기 무패",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSTVIcWU2UHowWXdBM3UwQTc3WExlVE9ENmZzVmlqR2xVRHBFek1WNG1INlF4ZFI5RHVEcmU0VHMwRk1VRUpxQjBIM0R0UTdXUTJUQnMyN1FCTjR5TG9SazZQakpaNWoteXhqbE5wcE9CZnhGRHI4VHVCM0RLMjBaenpOVQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "[PO] 삼성 후라도·KIA 올러, 5차전 한국시리즈 진출 놓고 재격돌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rLTlsRUxMMWxlS2xCdHdvWGo2NkNxTWVibVdPVHF3eVdBVVlMSGNUSklUVzZaT2dpVlQ5MDJZN0M3d0R1LTVRLWJVb1ZwSVZ6eVhFSXFXM21sbGpn?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "롯데 이동욱 감독 취임식 \"스마트한 야구로 가을야구 도전\"",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kSldvZ1d6YXR0cXB3bjhDdk9nTjRTSkNxemZmbW0xcUJlNGZxcWtJcnA5UmQwLV92RFhWYUN3WUJQR3J5Z1pZcDNfYy03OWhOdDctSWh6X2x1OEt4U1E?oc=5",
+        "source": "YTN",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "\"월드시리즈 챔피언 됐다!\" 前 한화 투수가 왜 여기에? 이런 능력자였다니…밀워키 투수들 키운 '핵심 프런트'",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tTFpreUlKaVYtOXM3OE9LUFFiVUs0TGl4WU85OVlPaThVd2tjblJYTUFHeGhDell3QkZjQ0FuYzJsT0ROWGtIUTBKblBsTFdpdVdQeg?oc=5",
+        "source": "OSEN",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "꼴찌에서 단숨에 '최강'으로…프로농구 삼성 대반전의 비결은",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VbW1ocEJWUU9zQnhPSHZOdEZlaVJsMm41OEtmSzNrbjJqUXRlUzR1YzhkMFdaRjk3b2xBWVpuak9ITHE4VTUzVENNRGphRFhNUVpGQ3pqbktGckHSAWBBVV95cUxQeWJFT3FvY3VBc3IzdDQ4UWpjZUEwMUIyRWhLZ2pKaFlqNU81Z1M5cEFQcGxxejdKY0h2NzBlbE5BNTM4M3NVODQ3SjhUWXVQLUxucEIyQTZQRjV0R2VqVzk?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "'이예원 제친' 이지현3, 에쓰오일 챔피언십 3R 선두…첫 우승 정조준 [KLPGA]",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzYWtmb1Vqc3p4MW9kczRUb0NIS1RwQndxMDZ4N2xJRDJEanM0RS1lLWpxaEhkS2p2aTEzOEU3aGVtUkJIaE9MTFAxcXp1TTZLNERlQ2lTUGJ0aGt0NGVqMGtQb3FNVUlvVkdPU2dVRzBYM3gxaFVaetIBfEFVX3lxTE1nTjk4UW43cFJqOGd3dHhXMGZicDFFdGx3enRsXzNsNmtpMXcwOGhfMl9SRnhWUkZMd2t1a1Y5cThiNUw5Qm5JVWo4Qml1RUx4WXlTWEF6NlZLV2lab2c4TDZRdXotNkJaOEpSNDhSYURKLUVfbHpXLXR3bHg?oc=5",
+        "source": "골프한국",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "[PO] 삼성 원태인·이승민 4차전 출격 대기…박진만 감독 \"몸 상태 문제없다\"",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JZkxWRkJwak9XemFscGk3TVc0c2xCRG9xelR5QXVwa2R0VWQtbFhZUFNoYWN2YWFwOVJXOEhrbFRFRGdraDNfQ0ZzZWVXYjBGa1VubkhVcXlOX3dR?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "[승장패장] 이범호 “광주서 마지막 안 되려 노력…5차전 네일 빼고 전원 대기”",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05M09LTDFvNENwQmVPbl93ajBXcEFfakh1dlVVM2hzQmRNU1JaYXdqRmxBZmpEZlIxYnBrcEN4SlZGNGo1WlNOZkh0ZkFaWlBqTTB0cG1XZjA3S21IOVhZWnJ1MDFBdFU?oc=5",
+        "source": "한겨레",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "삼성 라이온즈, 실책 3개에 무너졌다…KIA에 2-4 역전패, 한국시리즈행 5차전으로",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEN0VzOGJ5X0czbU14bGNrekRGTVNqMDQzVEdidWxnV1ZHSmdGbExHYjRieXh0UGI1R2JGZldTbmNLdHJjYnk0eVhkTDRKUThMeUJ1dWNDWkpjRTRGSE9XRzh1ZjFUVGRhNThzck5hQQ?oc=5",
+        "source": "경북일보",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "\"안세영에게 무슨 일이?\" 해외 전문가도 놀란 대변신... \"수비만 하던 선수→패배해도 공격 고집, 그 변화가 지금의 안세영 만들었다\"",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GOFJPajBpSFBIV3lfbFk0ZUtneDBudFlycll5RUkyWDg1RnVqd2N1WVNEdEFFZk9aMktTS3UtRFhscVhDX1ZlN01MMldRUnEwRWU5NG9FTklfYWRhaGJ5b0V6VnZPWFdUbk5pcnQ2OXRrZTAxRkE?oc=5",
+        "source": "스타뉴스",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "중부대 배구부, ���로 신인 드래프트서 3명 지명",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBueDVxWkZHUnVWR2JTbmhjZHBwN2FhYXR4Yl9HeU1YVmd5RkNYbzFldmlyV1lSd3JINVZHVkRKT0VheG9SZ3plYmlhazJtTmR3MVVSd1FQSjNyZWM5aG1id3k3MGJsaVNlZVpacw?oc=5",
+        "source": "충청뉴스",
+        "date": "2026-10-30"
       }
     ]
   }
