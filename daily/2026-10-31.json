@@ -742,6 +742,254 @@
           "date": "2026-10-30"
         }
       ]
+    },
+    "jtbc": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-31T13:41:00+09:00",
+      "lastSeen": "2026-10-31T13:41:00+09:00",
+      "news": [
+        {
+          "title": "Chefs discuss weight loss and similar looks in JTBC special video",
+          "url": "https://www.famtimes.co.kr/en/news/articleView.html?idxno=703790",
+          "source": "www.famtimes.co.kr",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "이지현": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-10-31T13:41:00+09:00",
+      "lastSeen": "2026-10-31T13:41:00+09:00",
+      "news": [
+        {
+          "title": "\"가족 때문에 불행\"…'싱글맘' 이지현, 11살 아들 가출 고백 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103023354313811",
+          "source": "머니투데이",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "“아빠랑 살고 싶어” 김현숙, 아들 한마디에 자책­…48세에 대학원 진학",
+          "url": "https://sports.donga.com/ent/article/all/20261030/134937445/1",
+          "source": "스포츠동아",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "'막영애' 김현숙 \"싱글맘 자격지심 생겨…아들이 아빠랑 살고 싶어 해\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6338102",
+          "source": "뉴스1",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "제주 삼다수": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-31T13:41:00+09:00",
+      "lastSeen": "2026-10-31T13:41:00+09:00",
+      "news": [
+        {
+          "title": "“삼다수인 줄 알았는데”…무라�� 생수 늘자 식별 혼선",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05162726645618168&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "라벨 뗀 제주삼다수, 한라산 새기고 페트병 무게 줄였다",
+          "url": "https://www.donga.com/news/Economy/article/all/20261030/134938632/1",
+          "source": "동아일보",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "제주삼다수 마스터스 첫 우승 장은수, 삼다수 공장 방문",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845603",
+          "source": "제민일보",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "india vs uae": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-10-31T13:41:00+09:00",
+      "lastSeen": "2026-10-31T13:41:00+09:00",
+      "news": [
+        {
+          "title": "India vs UAE, Hong Kong Sixes Highlights: UAE defeats IND by six wickets",
+          "url": "https://sportstar.thehindu.com/cricket/india-vs-uae-hong-kong-sixes-live-score-updates-highlights-commentary/article71648091.ece",
+          "source": "Sportstar",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "UAE:97/0 (4.2) | Live Cricket Score | UAE vs IND | hk sixes 2026 | Cricket Scoreboard",
+          "url": "https://sports.ndtv.com/cricket/uae-vs-ind-scorecard-live-cricket-score-hong-kong-sixes-2026-match-12-uain10312026275383",
+          "source": "NDTV Sports",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "India vs UAE Live Streaming: When And Where To Watch Hong Kong Sixes 2026 Match Live In India",
+          "url": "https://www.ndtvprofit.com/sports/india-vs-uae-live-streaming-when-and-where-to-watch-hong-kong-sixes-2026-match-live-in-india-12260007",
+          "source": "NDTV Profit",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "jtbc 마라톤": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-31T13:41:00+09:00",
+      "lastSeen": "2026-10-31T13:41:00+09:00",
+      "news": [
+        {
+          "title": "월치, 11월1일 JTBC 마라톤서 스포츠 케어 제품 체험 부스 운영",
+          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160286451854054",
+          "source": "시민일보",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "러닝에도 MBTI가 있다?…HLB라이프케어, 러닝 유형별 운동법 제안",
+          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6338001",
+          "source": "뉴스1",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "웅진식품 이온더핏, 서울 도심 마라톤서 수분 보충 음료 맡아",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610300908085387204ead0791_12",
+          "source": "로이슈",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "공휴일": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-31T13:41:00+09:00",
+      "lastSeen": "2026-10-31T13:41:00+09:00",
+      "news": [
+        {
+          "title": "노동절·제헌절 대체공휴일 첫 적용… 2027년 휴일 및 연차 활용법 총정리",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738221",
+          "source": "국제뉴스",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "2027년 10월 연휴, 연차 4일로 10일 쉰다",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=398553",
+          "source": "비건뉴스",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "2027년 공휴일 총정리, 연차 언제 쓰면 좋을까?",
+          "url": "https://www.jobplanet.co.kr/contents/news-8549",
+          "source": "잡플래닛",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "ins": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-10-31T13:41:00+09:00",
+      "lastSeen": "2026-10-31T13:41:00+09:00",
+      "news": [
+        {
+          "title": "Watch: Rafale Marine lands on INS Vikrant; Navy tests French jet in major milestone",
+          "url": "https://timesofindia.indiatimes.com/defence/news/watch-rafale-marine-lands-on-ins-vikrant-navy-tests-french-jet-in-major-milestone/articleshow/135357716.cms",
+          "source": "The Times of India",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "Video | Rafale News | Rafale Fighter Jet Touches Down On INS Vikrant In Major Milestone For Indian Navy",
+          "url": "https://www.ndtv.com/video/rafale-fighter-jet-touches-down-on-ins-vikrant-in-major-milestone-for-indian-navy-1183150",
+          "source": "NDTV",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "French Fighter Lands on Indian Carrier as Integration Begins",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/french-fighter-lands-on-indian-carrier-as-intergation-begins",
+          "source": "Bloomberg",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "르브론 제임스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-31T13:41:00+09:00",
+      "lastSeen": "2026-10-31T13:41:00+09:00",
+      "news": [
+        {
+          "title": "NBA 필라델피아, '3쿼터 0-17' 열세 딛고 극적 뒤집기…맥시 27점",
+          "url": "https://www.news1.kr/sports/basketball/6336248",
+          "source": "뉴스1",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "디펜딩 챔피언 또 꺾었다! '릅신' 르브론 20득점 9R 8AS→필라델피아, 뉴욕 제압→동부 콘퍼런스 공동 선두",
+          "url": "https://www.mydaily.co.kr/page/view/2026103112435258273",
+          "source": "마이데일리",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "'올스타 빅맨 없이도 3연승 질주' 커닝햄, \"팀이 하나로 뭉쳤다는 느낌이 있다\"",
+          "url": "https://www.basketkorea.com/news/newsview.php?ncode=1065575344343172",
+          "source": "바스켓코리아",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "이란": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-10-31T13:41:00+09:00",
+      "lastSeen": "2026-10-31T13:41:00+09:00",
+      "news": [
+        {
+          "title": "트럼프 “이란 전쟁 곧 마무리될 것”···중재국 카타르 대표단은 이란으로",
+          "url": "https://www.khan.co.kr/article/202610302232001",
+          "source": "경향신문",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "트럼프 \"이란과 대화 중…이란戰에 쓴 돈 베네수서 만회\"",
+          "url": "https://www.yna.co.kr/view/AKR20261031009400071",
+          "source": "연합뉴스",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "\"이란과 대화, 전쟁 곧 끝나\" 트럼프 장담에도 유가는 최고치",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202610311119306799_005.html",
+          "source": "YTN",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "삼성 갤럭시 폴드": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-10-31T13:41:00+09:00",
+      "lastSeen": "2026-10-31T13:41:00+09:00",
+      "news": [
+        {
+          "title": "삼성 갤럭시Z폴드9 울트라, 얼마나 달라지나",
+          "url": "https://zdnet.co.kr/view/?no=20261030193751",
+          "source": "지디넷코리아",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "삼성 폴더블폰 판 키운다…2027년 폴더블폰 라인업 대폭 확대",
+          "url": "https://kbench.com/?q=node/282907",
+          "source": "케이벤치",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "삼성은 갤럭시 Z 폴드9 라인업을 확장할 수도 있다.",
+          "url": "https://www.vietnam.vn/ko/samsung-co-the-mo-rong-dong-galaxy-z-fold9",
+          "source": "Vietnam.vn",
+          "date": "2026-10-31"
+        }
+      ]
     }
   },
   "sections": {
