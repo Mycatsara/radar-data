@@ -774,6 +774,247 @@
           "date": "2026-10-31"
         }
       ]
+    },
+    "적금": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-01T11:28:00+09:00",
+      "lastSeen": "2026-11-01T11:28:00+09:00",
+      "news": [
+        {
+          "title": "12개월 최고 연 7.00%…경남은행 '오면우대! 하면우대! 정기적금' [이주의 은행 적금금리-11월 1주]",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026103015240148661b5a221379_18",
+          "source": "금융신문",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "12개월 정기예금 최고 연 4.1%…저축은행·지방은행이 상위권, 우대조건은 꼭 확인",
+          "url": "https://www.diarypoint.com/news/articleView.html?idxno=6469",
+          "source": "https://www.diarypoint.com/",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리-11월 1주]",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026103015253891391b5a221379_18",
+          "source": "금융신문",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "lyon": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-01T11:28:00+09:00",
+      "lastSeen": "2026-11-01T11:28:00+09:00",
+      "news": [
+        {
+          "title": "Lyon OU - RC Vannes. Les tops et flops du match : Nicolàs Roger soigne sa première, une fin de match cauchemardesque",
+          "url": "https://www.ouest-france.fr/sport/rugby/rugby-club-vannes/lyon-ou-rc-vannes-les-tops-et-flops-du-match-roger-soigne-sa-premiere-une-fin-de-match-cauchemardesque-564bd64e-d53e-11f1-84f3-5611f158a658",
+          "source": "Ouest-France",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "\"On a le sentiment que nos leaders grandissent\", retient Dumortier",
+          "url": "https://www.rugbyrama.fr/2026/10/31/top-14-on-a-le-sentiment-que-nos-leaders-grandissent-ethan-dumortier-lyon-revient-sur-la-victoire-du-lou-qui-a-pris-du-temps-a-se-dessiner-13630025.php",
+          "source": "Rugbyrama",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "Matias Alemanno victime d’une commotion cérébrale lors de la défaite du RC Vannes à Lyon",
+          "url": "https://www.letelegramme.fr/sports/rugby/rc-vannes/matias-alemanno-victime-dune-commotion-cerebrale-lors-de-la-defaite-du-rc-vannes-a-lyon-7149830.php",
+          "source": "Le Télégramme",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "한화생명 e스포츠": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-01T11:28:00+09:00",
+      "lastSeen": "2026-11-01T11:28:00+09:00",
+      "news": [
+        {
+          "title": "[롤드컵] '운명의 멸망전' 첫 세트부터 대접전… 한화생명, 中 BLG에 아쉬운 1세트 덜미",
+          "url": "https://www.osen.co.kr/article/G1112902078",
+          "source": "OSEN",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "[롤드컵] ‘LCK 4팀 8강’은 끝내 없었다!…BLG, 한화생명 떨어뜨리고 8강 막차 합류!, MSI 결승 복...",
+          "url": "https://sports.khan.co.kr/article/202611010854003",
+          "source": "스포츠경향",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "[롤드컵] 추첨 운도 지독하게 없다…한화생명, 빌리빌리와 8강행 결정짓는 '단두대 매치'",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/31/GM4TKNJWMM4TGOJVMNQTENLGGA/",
+          "source": "조선일보",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "사랑 이 온다": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-01T11:28:00+09:00",
+      "lastSeen": "2026-11-01T11:28:00+09:00",
+      "news": [
+        {
+          "title": "'사랑이 온다' 안희연, 하석진에 고백…27화 예고",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610310150",
+          "source": "BNT뉴스",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "민진웅, '사랑이 온다' 단짠 매력남",
+          "url": "https://www.starnewskorea.com/broadcast-drama/2026/10/23/2026102309435214946",
+          "source": "스타뉴스",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "시청률 20% 육박 ‘닥터X’ 없는 곳에선 ‘사랑이 온다’ 시청률 1위",
+          "url": "https://m.newsen.com/news_view.php?uid=202610260900011910",
+          "source": "뉴스엔",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "골키퍼": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-01T11:28:00+09:00",
+      "lastSeen": "2026-11-01T11:28:00+09:00",
+      "news": [
+        {
+          "title": "‘한국은 AG 금메달로 병역 혜택 받는데…’ 아시아 최고 GK는 군대 간다 ‘10경기 2실점’ 기록하던 중 이란군 입대",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100108",
+          "source": "포포투",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "‘월드컵 위해 손가락 바쳤다’ 마르티네스, “손가락 정상으로 돌아오지 않을 것”",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216350",
+          "source": "풋볼리스트",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "첼시는 디부 마르티네스의 부상과 관련하여 좋은 소식을 받았습니다.",
+          "url": "https://www.vietnam.vn/ko/chelsea-don-tin-vui-tu-chan-thuong-cua-dibu-martinez",
+          "source": "Vietnam.vn",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "화재": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-01T11:28:00+09:00",
+      "lastSeen": "2026-11-01T11:28:00+09:00",
+      "news": [
+        {
+          "title": "울산소방본부, 겨울철 화재예방대책 추진…취약시설 안전관리 강화",
+          "url": "https://www.newsis.com/view/NISX20261031_0003849162",
+          "source": "뉴시스",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "불 10건 중 3건은 겨울에…노후주택 소화기 보급 등 화재안전대책",
+          "url": "https://news.tf.co.kr/read/life/2383231.htm",
+          "source": "더팩트",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "[기고] 올겨울 월동 준비 목록에 `안전`을 더하자",
+          "url": "https://www.imaeil.com/page/view/2026102216372069216",
+          "source": "매일신문",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "정전": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-01T11:28:00+09:00",
+      "lastSeen": "2026-11-01T11:28:00+09:00",
+      "news": [
+        {
+          "title": "거제서 전신주 파손…아파트 1천200여세대 한때 정전",
+          "url": "https://www.yna.co.kr/view/AKR20261031039100052",
+          "source": "연합뉴스",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "거제 공사 현장서 전신주 파손…1200세대 아파트 단지 정전",
+          "url": "https://www.donga.com/news/Society/article/all/20261031/134942831/1",
+          "source": "동아일보",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "거제 아주동 공사장서 전신주 파손…아파트 1200세대 한때 정전",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6338704",
+          "source": "뉴스1",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "자폭형 무인 항공기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-01T11:28:00+09:00",
+      "lastSeen": "2026-11-01T11:28:00+09:00",
+      "news": []
+    },
+    "이찬원": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-01T11:28:00+09:00",
+      "lastSeen": "2026-11-01T11:28:00+09:00",
+      "news": [
+        {
+          "title": "이찬원 팬클럽, 생일 맞아 청각장��인 위해 3,445만원 후원",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737647",
+          "source": "국제뉴스",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "가수 이찬원 팬클럽 ‘합심대도 Chan’s’, 경남발달장애인복지협회에 후원금 200만 원 전달",
+          "url": "https://www.idomin.com/news/articleView.html?idxno=2018268",
+          "source": "경남도민일보",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "이찬원, 29번째 생일 포스터 공개…연말 콘서트로 팬 사랑 잇는다",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264788",
+          "source": "톱스타뉴스",
+          "date": "2026-10-31"
+        }
+      ]
+    },
+    "gs건설": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-01T11:28:00+09:00",
+      "lastSeen": "2026-11-01T11:28:00+09:00",
+      "news": [
+        {
+          "title": "GS건설, 3분기 영업이익 955억 원으로 전 분기 대비 4.6%↑…주택 공급 확대에 실적 회복 기대",
+          "url": "https://www.donga.com/news/Economy/article/all/20261030/134939951/1",
+          "source": "동아일보",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "GS건설, 3Q 영업익 전년比 35.7% 감소…주택사업 부진 여파",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420363",
+          "source": "데일리한국",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "GS건설, 주택사업 기지개...갈길 먼 '매출 회복'",
+          "url": "https://v.daum.net/v/QaJ7Zi3GAf",
+          "source": "Daum",
+          "date": "2026-10-31"
+        }
+      ]
     }
   },
   "sections": {
