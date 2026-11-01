@@ -235,6 +235,247 @@
       "firstSeen": "2026-11-02T01:38:00+09:00",
       "lastSeen": "2026-11-02T01:38:00+09:00",
       "news": []
+    },
+    "유벤투스 대 나폴리": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-02T05:59:00+09:00",
+      "lastSeen": "2026-11-02T05:59:00+09:00",
+      "news": [
+        {
+          "title": "세리에 A 유벤투스 대 나폴리 경기 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-juventus-vs-napoli-tai-serie-a-1792878.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "유벤투스 대 나폴리 경기 예측, 11월 2일 오전 2시 45분: 많은 기대를 모으는 경기입니다.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-juventus-vs-napoli-02h45-ngay-2-11-dai-chien-duyen-no",
+          "source": "Vietnam.vn",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "세리에 A 제노아 대 유���투스 축구 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-genoa-vs-juventus-tai-serie-a-1790816.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "f1": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-02T05:59:00+09:00",
+      "lastSeen": "2026-11-02T05:59:00+09:00",
+      "news": [
+        {
+          "title": "~[LALIGA 2026!!] Mexico City GP 2026 En Directo Online",
+          "url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS90bnR0di54bWwiLz48L2tycGFubz4=&id=mexico-city-gp-2026-en-vivo-tv-57794-880",
+          "source": "Pierce Manufacturing",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "F1 Mexican Grand Prix LIVE RESULTS: Antonelli looks to seal world title - latest",
+          "url": "https://www.thesun.co.uk/sport/40857781/f1-mexican-grand-prix-live-results-kimi-antonelli-updates/",
+          "source": "The Sun",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "[WATCHLIVE]ＴＯＤＡＹ!] Verstappen vs Norris Mexico GP Live Free free tv! 02 November 2026",
+          "url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2NoYXRyb2xlYWd1ZWUuZ2l0aHViLmlvL211amliL2ZpbGUyNC54bWwiLz48L2tycGFubz4=&id=Verstappen-vs-Norris-Mexico-GP-tv-coverage-2592-uvBV5221",
+          "source": "Pierce Manufacturing",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "유조선": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-02T05:59:00+09:00",
+      "lastSeen": "2026-11-02T05:59:00+09:00",
+      "news": [
+        {
+          "title": "올해 선박 발주, 2007년 맞먹는 호황…2028년엔 신조선가 하락",
+          "url": "https://www.dt.co.kr/article/12092329?ref=naver",
+          "source": "www.dt.co.kr",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "K조선 ‘고부가 텃밭’ 대형 LNG선 파고드는 중국",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/27/OMJ2FL5UT5GEHKFQBT3TFGTVZY/",
+          "source": "조선일보",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "\"메탄올 꺾고 LNG 메가막스로\"… 머스크, 초대형 컨테이너선 대량 발주 임박",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026103009292591120c8c1c064d_1",
+          "source": "글로벌이코노믹",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "현대": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-02T05:59:00+09:00",
+      "lastSeen": "2026-11-02T05:59:00+09:00",
+      "news": [
+        {
+          "title": "[게시판] 현대백화점, '제41회 어린이 그림그리기 대회' 수상작 특별전",
+          "url": "https://www.yna.co.kr/view/AKR20261101014600030",
+          "source": "연합뉴스",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "현대百 '내가 만난 예술' 주제 어린이 그림대회 수상작 특별전",
+          "url": "https://www.news1.kr/industry/distribution/6338870",
+          "source": "뉴스1",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "[게시판] 현대백화점, '제41회 어린이 그림그리기 대회' 수상작 특별전",
+          "url": "https://stock.mk.co.kr/news/view/1186298",
+          "source": "매일경제 마켓",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "최수종": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-02T05:59:00+09:00",
+      "lastSeen": "2026-11-02T05:59:00+09:00",
+      "news": [
+        {
+          "title": "최수종, 하희라 선물도 거절하는 짠돌이..\"구두 2켤레 뿐, 30년째 밑창 갈아써\"(옥문아)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MRRTKOBXGM2TEYTBMI2DMZBRGA/",
+          "source": "조선일보",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "최수종 “39년째 몸무게 그대로”…20대 몸매 유지 비결",
+          "url": "https://sports.donga.com/ent/article/all/20261101/134943366/1",
+          "source": "스포츠동아",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "'옥문아' 최수종 \"구두 단 2켤레…30년 째 밑창 갈아써\"",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523124",
+          "source": "iMBC 연예",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "뱀": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-11-02T05:59:00+09:00",
+      "lastSeen": "2026-11-02T05:59:00+09:00",
+      "news": [
+        {
+          "title": "[속보]고속도로 주행 중 핸들서 뱀머리 ‘삐죽’…운전자 렌터카 몰다 ‘깜짝’ 소방 출동 소동",
+          "url": "https://www.munhwa.com/article/11627877",
+          "source": "문화일보",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "“으악, 뱀이다!”… 고속도로 달리던 차량 핸들서 뱀 머리가 '불쑥'",
+          "url": "https://www.etnews.com/20261101000097",
+          "source": "전자신문",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "고속도로 달리던 중 렌터카 핸들에서 뱀 출몰…소방 출동",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261101.99099000149",
+          "source": "국제신문",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "창신메모리테크놀로지": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-02T05:59:00+09:00",
+      "lastSeen": "2026-11-02T05:59:00+09:00",
+      "news": [
+        {
+          "title": "中CXMT \"4F²기반 6세대 D램 시제품 검증 완료…점진적 양산\"",
+          "url": "https://www.yna.co.kr/view/AKR20261101023300089",
+          "source": "연합뉴스",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "공급사 쥐어짜던 애플, 낸드값 5배 급등에 ‘발동동'",
+          "url": "https://m.joseilbo.com/news/view.htm?newsid=578491",
+          "source": "조세일보",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "\"무릎 꿇어\" 메모리 갑질하던 애플…삼전닉스 귀해져도 CEO 안오네 [IT썰] - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/11/01/2026103118035098309",
+          "source": "머니투데이",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "경상남도": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-02T05:59:00+09:00",
+      "lastSeen": "2026-11-02T05:59:00+09:00",
+      "news": []
+    },
+    "프리미어리그 순위": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-02T05:59:00+09:00",
+      "lastSeen": "2026-11-02T05:59:00+09:00",
+      "news": [
+        {
+          "title": "유럽 ​​축구 경기 일정: 리버풀 vs. 아스널, 유벤투스 vs. 나폴리",
+          "url": "https://www.vietnam.vn/ko/lich-thi-dau-bong-da-chau-au-liverpool-dai-chien-arsenal-juventus-doi-dau-napoli",
+          "source": "Vietnam.vn",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "맨시티 첫 패배·맨유 16위 추락…프리미어리그 순위는?",
+          "url": "https://m.etoday.co.kr/news/view/2639813?trc=main_list_news",
+          "source": "이투데이",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "2026/27 잉글랜드 프리미어 리그 10라운드 경기 일정",
+          "url": "https://www.vietnam.vn/ko/lich-thi-dau-vong-10-ngoai-hang-anh-2026-27",
+          "source": "Vietnam.vn",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "킬리안 음바페": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-02T05:59:00+09:00",
+      "lastSeen": "2026-11-02T05:59:00+09:00",
+      "news": [
+        {
+          "title": "[특파원 칼럼/김철중]음바페가 마주한 中 ‘소비자 민족주의’",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261101/134946791/2",
+          "source": "동아일보",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "[특파원 시선] 음바페에게 날아든 천문학적 규모의 '中청구서'",
+          "url": "https://www.yna.co.kr/view/AKR20261030161200083",
+          "source": "연합뉴스",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "\"독재자\" '낄낄' 한번에 1400억 날릴 판…음바페 사과에도 中중계 통째로 중단",
+          "url": "https://view.asiae.co.kr/article/2026103114260459751",
+          "source": "아시아경제",
+          "date": "2026-11-01"
+        }
+      ]
     }
   },
   "sections": {
@@ -792,6 +1033,30 @@
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xNUNKb2xrNm95aURmOTA3dndrRmtRSXYwZGM2RUdUYXJpUElNZVJtMGs5TlF4NVd0d3ZYVk9iRnQ1LUpaNzV3TlQwWUFBaldyUm1iVjFmcXlObEhlc0RVRtIBZkFVX3lxTE1QMWsydThfNlZIc29VbDc3SVdvYzRVeWZ4Nmlpb3dnTFZ1cGVRbUxudWFtWG1fTHE0ejhENGZORVhORDV5d1ZUS2YwTUtqMmFyUmR3UUlNUnFfRm9QV0hsX3lidHdFQQ?oc=5",
         "source": "토큰포스트",
         "date": "2026-11-01"
+      },
+      {
+        "title": "\"비트코인보다 대형 알트코인이 먼저\"…기관 매수세가 가를 다음 상승장",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3MVZwdGtjVHZTbDdxcG5vVElTY2FkOHoyQUJzemg0d0JURXVPWW02bGVqMG1aSzVHTmp0cTVmZnkwbVRrYVI4Z2lyRFFQZzZPM1A5Q3VzMnJURFRsZEtTV9IBZkFVX3lxTFA0clRNVVBzREZEQkdhNXAzZGtfLUwtSHN5SWpzSHB1VzJMY2E5OXpHUklIampZb1dvMTBDSm0wOW9vSS1aLWVoZlFzSXJfWUJJY2lCbzRwSXBJYU1QbkdPckRUaE80Zw?oc=5",
+        "source": "토큰포스트",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "49대 50, 클래리티 법안 상원 본회의 논의 절차 무산",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kTVFCOW1RUFFibi1aQ25oSnAwNUh0ZkI2ZFFEZ2t2WE1DaUxzclJZWFhXMHVZMEExRm1oeWRXWFNlNTYzNmJfNFZnVC13dTdWY196ekVB0gFbQVVfeXFMTWFqLUNrdXpmbXFvTE5UWkR1NmlQOGNwSFFwZi1aMTdkVWc1MnNlOFFFV2tRbG50MDZXWXppd0xCX21jcW85U203ZW96Y3I0VVI3SmdfYmZwM3ZqYw?oc=5",
+        "source": "토큰포스트",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "이더리움 11월 중 2300달러(약 307만원) 도달 확률 92%",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHQWhSTUJVZUlSMGlycnpmZEpjeGh3b3pVMUNfSGhFMmViWDVtVWY5d2w5VXBmTFJtSXVzR2U1dklHR3JCOVE5TXZRczV1bUIwdXU2eHBobE9uQjZJX0tfY9IBZkFVX3lxTE0tZWctM1FjdmF0VnFIbWZHenRYUWhkbVM1ZldpVURnQWtLMHgxMDJpVG5OSlpvN2NFaEctOFh3Slc5RnNpV1VEN1FWcE81b0NocVlCSmdvZ19fNGRNZmcwdWJNb2p0dw?oc=5",
+        "source": "토큰포스트",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "이재용, 日 찾아 '패키징 역량 강화' 주문",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13QmRxM3Q1MGI4eTd4Q2gyNnZnME9vZXFjWTV0emt0R0JWeXpqSGRyQUZmbDA5T0JaQ1drcXdYM0RINzJOQW5EYWJwNmp1TmoyUkZkS04tRjlSUQ?oc=5",
+        "source": "한국경제",
+        "date": "2026-11-01"
       }
     ],
     "ENTERTAINMENT": [
@@ -1264,6 +1529,66 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnphSFBxdWJvVFRrNGhIOU91b2lUWDM0d1BTeVRPRTlKZ1Z5Y05ibWxHNXk5aEFkcnhLMFFldHk3UXpwQ3lFZURVaGZsRjF4dWNrSjV4M210LTlBRnAxMEJCa1dQVWl5OHFJQnY4VEE1eTVsYlF6eEh2cU4xUWhEbU9OYW9KODNicTU1bktyVQ?oc=5",
         "source": "조선일보",
         "date": "2026-11-01"
+      },
+      {
+        "title": "기아타이거즈 가을야구는 여기까지…내년 기약",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TT2R5MEQwN0hYeGZhYUU2LUNkYUo4STd6dkFzVFZ1UmRaSjNFQTlRYTdHNHo1Z0VJQlNtLTFGaTlmR3lpTEJ4azhubkxIMDFKSG9oNVN4OGwxckRndy1paDRTYlRxUQ?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "[AI그래픽] 삼성 후라도 7이닝 1실점 QS+, PO 5차전 대구 KIA전 투구 분석",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XRkpHNWtSd0dzMnBtTUc2VFlRd0JBOVdaRTViSHVXTEt4b0FsZnlIcXVvOWV2MUV4aVpmenJSSTNZdmVxXzZLbUYyemhCS2dmTDc0LXZpQXE5QQ?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "이예원, 에쓰오일 챔피언십 역전 우승 '시즌 2승'…벌써 통산 상금 50억원 돌파 [KLPGA]",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Fb3g3VEpDdGFyelREVFZtTHJLMTktVFBNeXhUc0hGcEdNN0N5YjBvZWhhLUZzaFYwc2NGZHl2TzdwZy0wMWs1UUZDZ3ZYQlg2b0FRNzhJaTNuMDQxdldlUjBuaGZUYWtXc3N3M3dxZ3JFb3pJTHdxN9IBfEFVX3lxTE9nUjhzenMwWWhfenctcUhBOFpMN1lDTmJTaXdMS0NVVENDZmoxUW82QUQ2M1lsOWdCVmVyQ0d2YTVSalFORVhTSEhmR1RtXzRTRzU5YV9wdTA5Wl9OdGkxR3ZLbVRDNE5CY3ZDWGVnX2dTeHgtWDNMa2hfbno?oc=5",
+        "source": "골프한국",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "롯데가 실력이 없었던 게 아니라고? → 이동욱 감독의 남다른 접근법. 그렇다면 해법은 무엇인가",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMS1ralp3OGFXWmxsZlpfaWw0TEphS2pjQXd1M19JZUxTVFIybWUyODZqV0JHaWFwMENxVWZFTzhXb1lIdERrTGgwQzhnbFBBY1prem1vZmRuLWplRFg3YTNjVUV1RzN3VGNNUFBHZ04yakszU05TbjE1eGpkTWV4eWpKRQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "\"KIA는 약팀이라는 평가 받았지만…\" '슈퍼스타' 김도영의 진심, \"세계 최고의 팬들 덕분에 행복했다\"",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdW1BQ2QtR0xKVkZfOURjcEJIV0FKYnJxUUxEWHlCX1h3OXdBX1luUXNvNmlLczRYRGM5Q0IybVo3MTdZWC02ZmMyb0F6WUVJckx6RGRjRTYyS2gxV2Nma3hXUXp4TkdjTnJqTDk2RGpFaUJGdmMxWUNUdVp5azVLaFh1Zw?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "[PO 포커스] 김영웅은 결정적 실책·이재현은 공수 부진...삼성, 내야 듀오 다시 믿을까",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80ckZ3M2hwbkJpdm9ZSVFQZzBQdnZXVHFXNWtLVkNQQ1JzN3JNQ09nSGkxUDYtRlpkTWF1NFcwLU1WeTBZcVE0RXF3ZDUtYURRYVdKZlFTbTd0dkh6?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "무기력한 4번, 어수선한 1루수, '멘붕' 디아즈 이대로 괜찮을까, KS도 걱정 \"수비 자부심 큰 선수인데…\"[PO5 현장]",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNjJ4Y09xSjZXLVVaaHhsTXc0UkpTMDA0ZnB4WlpmQm1PN0hNSHFlWmJ4ODJvbmZlam15UjRSNk9ZWlBMSVYtX0puUXVYclZRa3VrUEFLYXFvUndaLUU0VEZZTDFTNHdDaU9RSG1SMEttTDNVWHJUUkkwQmdLTWFjcE5Vdw?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "엄살쟁이 최형우, MVP급 활약에도 \"이제 몸이 아프고 힘들어요\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tdkJRVmNrcXhhMjVGNDN5TzM3ZlFQYXk5d2hnTWh6bzJRT2JiTnphNmNRcG5kRk9nU3VwcGZ0YUdxMEZheV8xVFNOUXZ0NEZ1U21KbEx0UnBhLVHSAWBBVV95cUxNN0NGQ1RIYUdMRVdfeXRKRk16NFFzMWxWWmIycmlnMnVoWnNZWVp1MVJvNkRXaWhZcDc1dDNzRWtXZjg1Q1pDV0JYV05vSHFRNENRUS1ySURTQnhvYlI0dGw?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "맨유, 9경기째 무승… 38년 만의 ‘흑역사’",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtRlBqVkpJakw4bk5OcnVqOUVIYktKNzRzZnYtdURjZUZPd0ZoQmVBTFB5UUVXbmZPVkRJb0xBd0NGV0Uyck5jM0FqLVUwX3d4Y2pBZThicDjSAVRBVV95cUxPcFVMQzNKUWhmMlg3cUlDa2pHT0dxUTZhZ0M3WFpPTEIwOFBFbFVfei1HMjdERzdBcWNLbU05dlFQOFVnRG5acHZWQnV0aTZoWjNpSlQ?oc=5",
+        "source": "세계일보",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "[오피셜] NC, 김강민에게 외야 수비 총괄 맡긴다…KBO 최초 코디네이터 제도 도입",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80R1QtNWxOeG9VdjAwSWdzQnNJZUtnUEdLVi1qVDlldWVxTEQ1R01jd3ZxV1o4alRZQ2NxZ3NxdlFEY2V1M1BRVGVIbUtBdHZRWWI3OTd5ZTlITlk?oc=5",
+        "source": "일간스포츠",
+        "date": "2026-10-31"
       }
     ]
   }
