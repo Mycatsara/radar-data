@@ -736,6 +736,266 @@
           "date": "2026-11-01"
         }
       ]
+    },
+    "시체": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-11-02T16:27:00+09:00",
+      "lastSeen": "2026-11-02T16:27:00+09:00",
+      "news": [
+        {
+          "title": "아산 오폐수시설서 숨진 태아 산모 찾았지만…경찰, 사건 종결",
+          "url": "https://www.fnnews.com/news/202610311121179989",
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "아산 오폐수장서 발견된 태아 시신...“낳은 줄도 몰랐다”",
+          "url": "https://www.kyeonggi.com/article/20261031580007",
+          "source": "경기일보",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "오수처리장 '20㎝ 태아' 시신...범죄 아니다? 혐의점 없어 '종결' - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/31/2026103022515618610",
+          "source": "머니투데이",
+          "date": "2026-11-02"
+        }
+      ]
+    },
+    "제트기": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-02T16:27:00+09:00",
+      "lastSeen": "2026-11-02T16:27:00+09:00",
+      "news": [
+        {
+          "title": "제트기, 플로리다 주택가 도로 추락…탑승자 9명 전원 사망 [현장영상]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8701183",
+          "source": "KBS 뉴스",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "\"급강하 중, 지상에 추락할 것 같다\"…탑승자 9명 전원 사망",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008826699&plink=RSSLINK&cooper=GSTAND",
+          "source": "news.sbs.co.kr",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "美 플로리다주 제트기 추락 사고…탑승자 전원 사망",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611020948124Mt",
+          "source": "연합뉴스TV",
+          "date": "2026-11-02"
+        }
+      ]
+    },
+    "김도영": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-02T16:27:00+09:00",
+      "lastSeen": "2026-11-02T16:27:00+09:00",
+      "news": [
+        {
+          "title": "2년 반짝한 선수가 200억 받고 갔다...'충격 계약' 307억 사나이, 미국 못 갈 이유 없다",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/02/GA3DQNDFG43TMOJUHAYTKNRZGA/",
+          "source": "조선일보",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "MLB닷컴 \"노시환, 빅리그서 통할 장타력\"…수비는 보완 과제",
+          "url": "https://www.yna.co.kr/view/AKR20261102071500007",
+          "source": "연합뉴스",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "“김도영 메츠-양키스-다저스-보스턴-에인절스 딱이야” 韓슈퍼스타 관심 폭발! 벌써 ML이 ��목한다 “미국 와도 20~25홈런 칠 것” - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/02/202611020903772157O",
+          "source": "머니투데이",
+          "date": "2026-11-02"
+        }
+      ]
+    },
+    "황사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-02T16:27:00+09:00",
+      "lastSeen": "2026-11-02T16:27:00+09:00",
+      "news": [
+        {
+          "title": "서울에 6년 만의 '11월 황사'‥내일 밤 추가 유입",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862510_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "내일 아침 기온 5~8도 ‘뚝’…일부 지역 0도까지",
+          "url": "https://www.khan.co.kr/article/202611021559001",
+          "source": "경향신문",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "올해는 좀 잠잠하나 했는데...서해안·제주에 '올 가을 첫 황사' [자막뉴��]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611021136094260",
+          "source": "YTN",
+          "date": "2026-11-02"
+        }
+      ]
+    },
+    "암표": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-02T16:27:00+09:00",
+      "lastSeen": "2026-11-02T16:27:00+09:00",
+      "news": [
+        {
+          "title": "프로야구 한국시리즈 입장권 '110배' 부풀려 판매‥매크로 암표상 검거",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862448_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "“8만원 티켓 900만원으로”…한국시리즈 티켓 등 22억원 되팔이한 일당 체포",
+          "url": "https://www.kyeonggi.com/article/20261102580191",
+          "source": "경기일보",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "한국시리즈 매진은 순식간, 암표는 200만 원 [현민석의 페어플레이]",
+          "url": "https://www.hankyung.com/article/202611029590i",
+          "source": "한국경제",
+          "date": "2026-11-02"
+        }
+      ]
+    },
+    "선박": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-02T16:27:00+09:00",
+      "lastSeen": "2026-11-02T16:27:00+09:00",
+      "news": [
+        {
+          "title": "트럼프, 알래스카 또 거론…\"한중일行 선박 위한 가스관 있다\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261102023651071",
+          "source": "연합뉴스",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "중간선거 유세서 알래스카 LNG 꺼낸 트럼프… “한·중·일로 운송”",
+          "url": "https://biz.chosun.com/international/international_general/2026/11/02/IUEWJL5B3BDO3EQHQBU5F2KZ3U/",
+          "source": "Chosunbiz",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "트럼프 \"죽었던 알래스카 되살렸다\"…韓·日·中에 가스 수출 추진",
+          "url": "https://www.newsis.com/view/NISX20261102_0003851029",
+          "source": "뉴시스",
+          "date": "2026-11-02"
+        }
+      ]
+    },
+    "방은희": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-02T16:27:00+09:00",
+      "lastSeen": "2026-11-02T16:27:00+09:00",
+      "news": [
+        {
+          "title": "\"1년간 엄마 피했는데…\" 방은희, 모친 고독사 이틀 만에 발견 '오열' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/02/2026110207363741441",
+          "source": "머니투데이",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "“母 고독사, 특수 업체 유품 정리” 고백 방은희, 가슴치고 오열하며 후회 “미안해”(운명네컷)",
+          "url": "https://www.newsen.com/news_view.php?uid=202611020822076710&code=100100",
+          "source": "뉴스엔",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "방은희, 母 고독사 이틀만에 발견→특수청소업체 연락..\"옆에 못 있어 미안\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-02/202611020100008590000463",
+          "source": "스포츠조선",
+          "date": "2026-11-02"
+        }
+      ]
+    },
+    "랜섬웨어": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-02T16:27:00+09:00",
+      "lastSeen": "2026-11-02T16:27:00+09:00",
+      "news": [
+        {
+          "title": "1년 30곳 뚫은 독학 해커… AI 쓰니 40일 만에 60곳 해킹",
+          "url": "https://www.donga.com/news/Society/article/all/20261101/134946639/2",
+          "source": "동아일보",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "해킹 리스크 키운 오픈AI·앤트로픽 역설…보안 시장서 기회 모색",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442525",
+          "source": "연합인포맥스",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "[이슈칼럼] AI가 정찰을 끝낼 때, 방어자는 아직 자산을 세고 있다",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146928",
+          "source": "보안뉴스",
+          "date": "2026-11-02"
+        }
+      ]
+    },
+    "협박": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-02T16:27:00+09:00",
+      "lastSeen": "2026-11-02T16:27:00+09:00",
+      "news": [
+        {
+          "title": "“신세경에 염산 테러” 두달간 450회 협박·모욕글…징역 8개월에 법정구속",
+          "url": "https://www.donga.com/news/Society/article/all/20261102/134950358/2",
+          "source": "동아일보",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "신세경에 과격·엽기적 협박한 악플러…징역 8개월에 법정 구속",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=56798",
+          "source": "주간조선",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "배우 신세경 괴롭힌 악플러, 2심서 징역 8개월 법정구속",
+          "url": "https://www.yna.co.kr/view/AKR20261102117700005",
+          "source": "연합뉴스",
+          "date": "2026-11-02"
+        }
+      ]
+    },
+    "배추": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-02T16:27:00+09:00",
+      "lastSeen": "2026-11-02T16:27:00+09:00",
+      "news": [
+        {
+          "title": "김장철 앞두고 배추 등 원산지 속이면 7년 이하 징역",
+          "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261102.99099000396&kid=",
+          "source": "국제신문",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "농관원, 김장철 배추김치 원산지 표시 집중 단속",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261102143154Knf",
+          "source": "연합뉴스TV",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "농관원, 김장철 배추김치·양념류 원산지 표시 집중 단속",
+          "url": "https://www.yna.co.kr/view/AKR20261102058800030",
+          "source": "연합뉴스",
+          "date": "2026-11-02"
+        }
+      ]
     }
   },
   "sections": {
