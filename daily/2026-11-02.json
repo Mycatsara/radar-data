@@ -476,6 +476,266 @@
           "date": "2026-11-01"
         }
       ]
+    },
+    "뉴잉글랜드 대 인터 마이애미": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-02T09:34:00+09:00",
+      "lastSeen": "2026-11-02T09:34:00+09:00",
+      "news": [
+        {
+          "title": "Why was Lionel Messi not banned for his fifth MLS yellow card? A unique rule helped him",
+          "url": "https://www.nytimes.com/athletic/7739395/2026/10/30/lionel-messi-mls-good-behavior-rule-yellow-card-suspension/",
+          "source": "The New York Times",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "Messi eligible for crunch Miami game with Revs despite yellow card haul",
+          "url": "https://www.espn.com/soccer/story/_/id/50320683/messi-eligible-miami-game-revs-yellow-card",
+          "source": "ESPN",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "A strange rule prevents Messi from being suspended despite receiving 5 yellow cards",
+          "url": "https://www.goal.com/en/news/a-strange-rule-prevents-messi-from-being-suspended-despite-receiving-5-bookings/blt396044555e94ccc3",
+          "source": "Goal.com",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "원태인": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-02T09:34:00+09:00",
+      "lastSeen": "2026-11-02T09:34:00+09:00",
+      "news": [
+        {
+          "title": "원태인, 이제 한국시리즈다",
+          "url": "https://www.newsis.com/view/NISI20261101_0021513735",
+          "source": "뉴시스",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "\"혼자만 안 웃더라\" 삼성, KS 1차전 선발 최원태 내정→원태인 선발 복귀 여부 '변수' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/02/2026110202000026266",
+          "source": "머니투데이",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "[사진]기쁨 나누는 원태인과 구자욱",
+          "url": "https://www.osen.co.kr/article/G1112902324",
+          "source": "OSEN",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "영감의 샘터": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-02T09:34:00+09:00",
+      "lastSeen": "2026-11-02T09:34:00+09:00",
+      "news": [
+        {
+          "title": "\"월세 지원에 주 4일 근무까지\"…이찬혁이 만든 기획사 파격 복지",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01859766645641456&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "'악뮤' 이찬혁-수현 남매, 북악산 뷰 3층집 공개 \"동거는 계속할 듯\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/01/2026110107275391684",
+          "source": "머니투데이",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "‘주4일+월세 지원’ 꿈의 직장인데..‘소속사 대표’ 악뮤 “성 겹치면 입사 불가” ('전참시')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MRTDCNJTGE2GCODEHFSDQMLEMI/",
+          "source": "조선일보",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "레이더": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-02T09:34:00+09:00",
+      "lastSeen": "2026-11-02T09:34:00+09:00",
+      "news": [
+        {
+          "title": "이란, 미군의 ‘눈’부터 노렸다… 5억 달러 사드 레이더 파괴",
+          "url": "https://www.chosun.com/international/international_general/2026/11/02/VJQY3ANA6JDUZO7PXL7454SDOY/",
+          "source": "조선일보",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "“미군기지 26곳 이란 공격에 수십억불 피해…레이더 우선표적”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700672",
+          "source": "KBS 뉴스",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "\"이란, 美와 전쟁서 중동 美기지 26곳 타격…수십억 달러 피해\"",
+          "url": "https://www.news1.kr/world/usa-canada/6339032",
+          "source": "뉴스1",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "키미 안토넬리": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-02T09:34:00+09:00",
+      "lastSeen": "2026-11-02T09:34:00+09:00",
+      "news": [
+        {
+          "title": "‘천재 드라이버’ 안토넬리, 역대 최연소 F1 챔피언 우뚝···만 20세에 정상, 페텔 기록 3년 앞당겨",
+          "url": "https://sports.khan.co.kr/article/202611020825003",
+          "source": "스포츠경향",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "키미 안토넬리, 메르세데스 F1 W16과 멕시코시티 그랑프리서 포즈",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738646",
+          "source": "국제뉴스",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "키미 안토넬리, 미국 그랑프리 우승으로 월드 챔피언십 장악력 강화",
+          "url": "https://hypebeast.kr/2026/10/f1-kimi-antonelli-tightens-grip-world-championship-following-united-states-grand-prix-triumph",
+          "source": "Hypebeast.KR",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "aapl": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-02T09:34:00+09:00",
+      "lastSeen": "2026-11-02T09:34:00+09:00",
+      "news": [
+        {
+          "title": "Apple Diverges From Magnificent 7 as Options Point to Jump to $355 After Earnings",
+          "url": "https://www.benzinga.com/markets/equities/26/11/62766171/apple-stock-diverges-from-magnificent-7-as-options-point-to-a-jump-to-355-after-earnings",
+          "source": "Benzinga",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "What analysts expect from Apple's Q4 2026 results on November 2",
+          "url": "https://appleinsider.com/articles/26/11/01/what-to-expect-from-apples-q4-2026-results-on-november-2",
+          "source": "AppleInsider",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "Apple’s new earnings era begins at a critical time for Big Tech",
+          "url": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e",
+          "source": "MarketWatch",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "2027년 afc 아시안컵": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-02T09:34:00+09:00",
+      "lastSeen": "2026-11-02T09:34:00+09:00",
+      "news": [
+        {
+          "title": "'한국 축구 초대형 변수' 손흥민 라스트댄스 어쩌나...'64년만의 우승 도전' 2027 아시안컵, 끝내 연기 가능성 높다",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016931",
+          "source": "SPOTV NEWS",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "사우디 아시안컵 1년 연기 가능성…손흥민 '라스트 댄스' 변수",
+          "url": "https://www.newspim.com/news/view/20261102000017",
+          "source": "뉴스핌",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "'캡틴 손흥민 왕따설' 대한민국, 오히려 좋아?...카타르 매체 \"아시안컵 1년 전격 연기\"",
+          "url": "https://www.sportschosun.com/football/2026-11-01/202611010100006850000352",
+          "source": "스포츠조선",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "홍지선": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-02T09:34:00+09:00",
+      "lastSeen": "2026-11-02T09:34:00+09:00",
+      "news": [
+        {
+          "title": "“김포가 주택공급 호구냐”…3만7천 호 신규택지 발표에 SNS 민심 ‘부글부글’",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363741088",
+          "source": "중부일보",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "7.7만 가구 신규택지 '자족도시' 내걸었지만…일자리 계획 '빈칸'",
+          "url": "https://www.news1.kr/realestate/general/6338541",
+          "source": "뉴스1",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "“그린벨트 왕창 풀어 집짓는다는데”…실수요자 반기는데, 왜 시끄럽지?",
+          "url": "https://www.mk.co.kr/news/realestate/12192560",
+          "source": "매일경제",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "인베스팅닷컴": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-02T09:34:00+09:00",
+      "lastSeen": "2026-11-02T09:34:00+09:00",
+      "news": [
+        {
+          "title": "[특파원 리포트] 판자촌이 된 파리에서",
+          "url": "https://www.chosun.com/opinion/correspondent_column/2026/11/01/YQ7YPXQWYFD3ZB7OQIDXF7UWDY/",
+          "source": "조선일보",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "프랑스 국채 매도세가 전 세계 정부에 보내는 경고",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2152359",
+          "source": "Investing.com 한국어",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "佛 신용전망 안정→부정…유럽 전역 '핼러윈 시위' 불길",
+          "url": "https://www.hankyung.com/article/2026110185351",
+          "source": "한국경제",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    "중대범죄수사청": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-02T09:34:00+09:00",
+      "lastSeen": "2026-11-02T09:34:00+09:00",
+      "news": [
+        {
+          "title": "[개정 형소법 한달]추미애는 보내고, 한동훈은 묵히고···중수청은 왜 한 달째 사건 뒤적이나",
+          "url": "https://www.khan.co.kr/article/202611020600121",
+          "source": "경향신문",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "대혼란 없었지만… 중수청, 종이 수사기록 ‘배달’하고 구속 5건",
+          "url": "https://www.donga.com/news/Society/article/all/20261102/134946918/2",
+          "source": "동아일보",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "출범 1개월 부산중수청, 구속수사·송치 사건 아직 없어",
+          "url": "https://www.yna.co.kr/view/AKR20261030113300051",
+          "source": "연합뉴스",
+          "date": "2026-11-01"
+        }
+      ]
     }
   },
   "sections": {
@@ -1057,6 +1317,30 @@
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13QmRxM3Q1MGI4eTd4Q2gyNnZnME9vZXFjWTV0emt0R0JWeXpqSGRyQUZmbDA5T0JaQ1drcXdYM0RINzJOQW5EYWJwNmp1TmoyUkZkS04tRjlSUQ?oc=5",
         "source": "한국경제",
         "date": "2026-11-01"
+      },
+      {
+        "title": "마트서 QR코드 찍더니 '400억 잭팟'…중국의 무서운 실험 [차이나 워치]",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VdnNNTnNiaUl3ZGotSmlhbnd6THYwMjVHZ2VYLWRUUEVBNkJoeTY2aFZuaXNxTnE2RWlXS0M4eFA3Qkl6d01OUG9tUU82Tm9OQjhGYVJmNTljdw?oc=5",
+        "source": "한국경제",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "미래의 키보드는 키가 달랑 13개?…샘 올트먼, 삼성에 들고 왔다",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0Zm1YaTBCcS15TGU5eFRXQUlZaFUzZm52anphNzhHUjRNMDU2TUljMUhHbXZJZ25hSWM2TEJPeExhMmpFTFlBOW1MYW1IVjZJR09KalFtMk9SOGhINUZ1b0paNC04V083MHBKMUJnNNIBZkFVX3lxTE1iUEtNdkdGZTh1MEtNV3BTeElNc3R1c3lLTEItNjVCY2JEWFhFb2c2aEhreXVkVmxCNTJrSURrRDl4Yk9hMDlBVVk0UXJYRC05bHIzSzh1RmtGV2trd0RLbzhLQVBrdw?oc=5",
+        "source": "동아일보",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "'밤샘 작업 시켰는데...일 안하고 잠든 AI'…\"인간 실수를 따라간다\" - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tSWtDNW56bjdRQ3lkUHNPa3NKb1ZjUGR4YUw1YzAxXzNaTUU2UjFNRkVuVUZObURPaDhaTm9ZRTlZcjRWU21tTU1zM0Z3NHVUaUoyZElWRGYwdEN4ZHZYRHhZY3l1LXJQamxfUNIBckFVX3lxTE1NQ2Zkcm9PM3NoTGcxbkdyTXROM2dJc3RWSHBXOFNYX3R4VU5Vd1NzSHJyZ29UT1RTbTdxdzEyMnlHTWtCNUkxTXJLRWtmRC1hSTJlcl9EaE5oMS1kSzJEelExenh6SmFCZUJsRk05VmY0Zw?oc=5",
+        "source": "머니투데이",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "미 적자 2조달러 추산…금리 1.5%포인트 상승 땐 6조달러 추가 가능성",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Ba29faEIxLVp4MkhqVERYaUVLZjBKY1dvMDhfUTFPdkpWYk9XVUdKQzdwZGpZN29xVHA5NW8yc3l2dUkyVzhFU2w2VVVYaEFmU0otUzF6Y9IBXEFVX3lxTE5hUmxiWDNGUHZObUV4WndHN1l0WlAyVzBfRVFzcVVONVAteUVPQjZ1bDNudDVBMFB5bnVDalBBdXg4N2c2cjNZVDIxaE9IUTFSQVloOVdQYjhIaE1k?oc=5",
+        "source": "토큰포스트",
+        "date": "2026-11-01"
       }
     ],
     "ENTERTAINMENT": [
@@ -1589,6 +1873,78 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80R1QtNWxOeG9VdjAwSWdzQnNJZUtnUEdLVi1qVDlldWVxTEQ1R01jd3ZxV1o4alRZQ2NxZ3NxdlFEY2V1M1BRVGVIbUtBdHZRWWI3OTd5ZTlITlk?oc=5",
         "source": "일간스포츠",
         "date": "2026-10-31"
+      },
+      {
+        "title": "‘김지찬 치고 달리고, 후라도 틀어막고’ 삼성, 한국시리즈 진출",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43am9La0pOdm1OWXA5N3BsbXA4QlNvTzI2NnpqUWNFMTc5NnJZRjB0OHFMd1BhNUg2dGpsM09laHFjUFJ5ZmJqZkZURGFHU1RLOEpOREVzQXFKaUE?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "[PO 포커스] KIA, KS행 좌절...가을야구서 드러난 최형우·박찬호 이적 공백",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GUXFaVjRqaHdkMkhnZmhKVmlhYTVvNDI1Z001WWdtTWdZcUh2aUNqVUxneHdmYXpoNnptRDRxTENFREh5a0pkdWo3MnZLRXotZ1h5bWo1TVR6QmFR?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "초인인가, 슈퍼스타 야구는 끝나지 않았다...WBC→정규리그→AG→가을야구에 APBC까지 출전 \"열심히 준비하겠다\"",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYWZEbWluTlBxZnNQSXdfM1c3YUJ1Q25JRTdiaTVXVHhzYmpRXzV0QXg1S3pxRlRDazJIa3BNWVRjQmxZZHMxYjZ1WUtHQXIwTi1HVms3eWc0Ry1aSG5NZzU2UXpmZGN4b3FYSXh4ZGNMbHk5M1hBc1gzd0F1ZEswLWNxOA?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "배용준·이예원, 남녀 프로골프 우승… 연장 혈투·강풍 뚫고 정상",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRNTNYS2dIeHp4ZGhYYlhDN1dJWHJuczJZZml2MlZ5aDZEcnllSDQ3TmNwU1hRa3hkaWtFUEZTM1ZlVGlmS1dPazV3N0ROTG1QMUhoQTBxQjBZWXdXRkJ1NHZzbGRydGZJ?oc=5",
+        "source": "녹색경제신문",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "롯데 이택근 신임 단장 “데이터 기반 육성으로 강팀 만들겠다”",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41NzFqcDdXeUNiMExpbWtHQ3RYdVFTTHljZnNNdmZCU3dFWkg3TXhBODR2Wk1za0N6cFZlZUp4b0ZmYTZXWnE0WTFKU2ZLbWVnQUZQbmZNMzA2bUVtaHRvMjFzMGNtTjlTNnVIME9GbXlvNnFz?oc=5",
+        "source": "부산일보",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "[프로농구] SK, '9연승' 삼성 90-76 완파…연승 기록 저지",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wMUE0MlNZYmUwMjEySlFaSC1acEd2S251UUQ2dnNFZDJTY3RVQmY1VkswcHAtdUhOaENraE12NFAzS05Gd1A0TzJKaGxEbUVKR3IyTlhCMTUxOXlL?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "'호키·왕빈 57득점 합작' 대전 삼성화재, V리그 첫 경기 승",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hTnVpelo3Q0JXcWt3eWZDcjlxQ3pETXRqYkdLUUo4T2ItOFBwSWhmLVEwN0NpdGJlZUZkQ0hQWlp2bkhnVDZmNHNVenBudGc?oc=5",
+        "source": "대전MBC",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "’에릭 멀티골’ 프로축구 울산, 강원에 2-1 역전승…2위 사수",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MLUZ3VVYtbEVlNWFrckllUjZqUnB3b1hyYnVNZWo0X0h1eUI2cVZwRF9iNzBoMGZzZkJobkhRTG8wT0xsTExVeTh3QU9nSUpUcU14VVM0c3BrZk0zMlhrNC04aTlURHc?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "김주형, 2개월 만에 복귀전 공동 6위…'노백 5타 차 우승'",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiWVhtYlNYTmppa3lWc29NaG1rb2puQVpnSWdHWVRwcDZ6WThLT3htZ2JtS0YtVDI0N2p3aUVHbU9sY0VacWc1dS1nbTdfT1E2UkFGdDQwYmhIX3hIVjE4RA?oc=5",
+        "source": "아시아경제",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "강등 위기 맨유, 경질 위기 캐릭 … \"오명은 없다\"",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMcEZLWWROanhDV0ZtMk9uOVpjVmlPOXN2OTVwMnFTSVh2N0tGOFlVMkRydGNLMmxRYWlmcTVoOXVPNWVfeWk2UENuR255dG44N2JrSHlOZUVhRGhUZTJLbFhEc2g4Z0h5QUVlazdSajNkc1Z0SnZ6SjVRRdIBgAFBVV95cUxNWGZGQTA4RjBVdVlWdm9uV1ZYUVZ4RmlMZlY1Mm03VklaQ3NoN3pwc3FIMWJKbGRCTDFVcG1wbkdwYzdZMXJHVldFcjlXODB5cTRpUzlkSzFxNzhWaHVJUHFIdnJRcjVyTWZtbkhtVEozX1NYdG9ucUhPaWJOV0xBXw?oc=5",
+        "source": "뉴데일리",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "대한항공, 현대캐피탈 완파하며 산뜻한 출발…케트진스키 19점 맹활약",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kRkdsVUwtcHk1SEhlNkVqVVVwZ0txNnhfdy1hMG9kM05pOGl6UXNjV2VmdnE4cy03Ri1tVW0wWjloc2NBQ0xDTmw5U2VQdEczRGlKMEhIb2kxQV9GaWVmMVhBcjY5OHJqMGh6bnYtRQ?oc=5",
+        "source": "기호일보",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "1년 만에 반등 성공한 KIA, 한국시리즈 우승 향해 다시 뛴다",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKaUxiWTV4bG1UUmVrb0FKSlF1X0RZLWhwV1MwcE43Tjg5NDhJQkgwb2phTnZVZlZ2cXJxWkR2Vnprb3BSQ2FqRG9TQjVHV3NwOWVfN3RtYm13WEHSAWBBVV95cUxNVERvbDFpVXFzcDYtY0pxZ1B4NVRWV0VMR3M5LUtkOW9HLW1KeGplSDJWM3kxWkJiaTUwNG01Ym44SElHUk9VZnNoOG9keHVaRXB3Mkp6U1J5eHZkMV9TQjI?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-01"
       }
     ]
   }
