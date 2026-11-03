@@ -724,6 +724,266 @@
           "date": "2026-11-03"
         }
       ]
+    },
+    "midterm elections 2026": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-03T23:54:00+09:00",
+      "lastSeen": "2026-11-03T23:54:00+09:00",
+      "news": [
+        {
+          "title": "Midterm elections live: America heads to the polls to decide control of Congress for Trump’s final two years",
+          "url": "https://www.cnn.com/2026/11/03/politics/live-news/midterm-election-congress",
+          "source": "CNN",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "Polling Stations Busy From Early Morning... Trump Faces 'Day of Destiny'",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008829128",
+          "source": "SBS 뉴스",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "US midterms set to reshape Congress, test Trump and 2028 race",
+          "url": "https://biz.chosun.com/en/en-international/2026/11/03/VTW5C6TOFFET7K55OK63UDG3CE/",
+          "source": "Chosunbiz",
+          "date": "2026-11-03"
+        }
+      ]
+    },
+    "한국항공우주산업": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-03T23:54:00+09:00",
+      "lastSeen": "2026-11-03T23:54:00+09:00",
+      "news": [
+        {
+          "title": "KAI 노조 1천300명 상경투쟁…\"한화 인수 저지·독립경영 보장\"",
+          "url": "https://www.yna.co.kr/view/AKR20261103155700052",
+          "source": "연합뉴스",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "[데스크의 눈] ‘KAI 민영화’ 논란, 뭣이 중헌디",
+          "url": "https://www.segye.com/newsView/20261103517116",
+          "source": "세계일보",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "[르포] “방산 핵심부문 대기업이 집어삼킨다”…KAI 노조원들의 절박한 상경투쟁",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353759",
+          "source": "녹색경제신문",
+          "date": "2026-11-03"
+        }
+      ]
+    },
+    "small business": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-03T23:54:00+09:00",
+      "lastSeen": "2026-11-03T23:54:00+09:00",
+      "news": [
+        {
+          "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race",
+          "source": "The Guardian",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "Gusto Small Business Jobs and Pay Report: Small Businesses Add 38,000 Jobs in October, Marking Ninth Straight Month of Growth",
+          "url": "https://www.morningstar.com/news/pr-newswire/20261103sf87282/gusto-small-business-jobs-and-pay-report-small-businesses-add-38000-jobs-in-october-marking-ninth-straight-month-of-growth",
+          "source": "Morningstar",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "U.S. Small Business Employment Trends Hold Steady in October",
+          "url": "https://www.globenewswire.com/news-release/2026/11/03/3394226/0/en/u-s-small-business-employment-trends-hold-steady-in-october.html",
+          "source": "GlobeNewswire",
+          "date": "2026-11-03"
+        }
+      ]
+    },
+    "폰지 사기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-03T23:54:00+09:00",
+      "lastSeen": "2026-11-03T23:54:00+09:00",
+      "news": [
+        {
+          "title": "‘부동산 전문가’ 믿었는데…125억 가로챈 스타 강사",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702992",
+          "source": "KBS 뉴스",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "'125억 원 투자사기' 유명 부동산 강사 구속 송치",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862761_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "“미리 얘기하면 원금 회수” 수강생 꼬드긴 부동산 유튜버",
+          "url": "https://www.kyeongin.com/article/1774046",
+          "source": "경인일보",
+          "date": "2026-11-03"
+        }
+      ]
+    },
+    "이재현": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-03T23:54:00+09:00",
+      "lastSeen": "2026-11-03T23:54:00+09:00",
+      "news": [
+        {
+          "title": "추가 실점위기, 역투하는 김정운",
+          "url": "https://mobile.newsis.com/photo/NISI20261103_0021517759",
+          "source": "뉴시스",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "[포토] 포효하는 KT 마무리 박영현, 해냈다",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/03/HBTDQMJRGE4DOY3GG5TGEOBRMY/",
+          "source": "조선일보",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "[포토] 임기영 '막으면 디비진다' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110320411848267",
+          "source": "머니투데이",
+          "date": "2026-11-03"
+        }
+      ]
+    },
+    "사토시": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-03T23:54:00+09:00",
+      "lastSeen": "2026-11-03T23:54:00+09:00",
+      "news": [
+        {
+          "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+          "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+          "source": "CoinDesk",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "One Paper, Infinite Markets: MEXC Marks 18 Years of the Bitcoin Whitepaper by Looking Beyond Bitcoin",
+          "url": "https://www.globenewswire.com/news-release/2026/11/02/3392929/0/en/one-paper-infinite-markets-mexc-marks-18-years-of-the-bitcoin-whitepaper-by-looking-beyond-bitcoin.html",
+          "source": "GlobeNewswire",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "Bitcoin White Paper Turns 18 With Payment Verification Still at Its Core",
+          "url": "https://www.tradingview.com/news/newsbtc:eb129e82e094b:0-bitcoin-white-paper-turns-18-with-payment-verification-still-at-its-core/",
+          "source": "TradingView",
+          "date": "2026-11-03"
+        }
+      ]
+    },
+    "kbo": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-03T23:54:00+09:00",
+      "lastSeen": "2026-11-03T23:54:00+09:00",
+      "news": [
+        {
+          "title": "KT Coach Park Kyung-soo Prioritizes Defense Over Ceremonial Pitch",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/03/GIKN26YI3NHPLFXDH5IWWRZ5OM/",
+          "source": "조선일보",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "KT Manager Lee Kang-chul: \"Batters are in good rhythm... hope Daniel holds his own,\" \"Just pitch like you did in the regular season\"",
+          "url": "https://news.jkn.co.kr/editions/english/post/1068004",
+          "source": "재경일보",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "[Photo] Hilliard drives in run after 2-RBI double",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/03/HTNB7L75GRA6ZFTMDG3ZRX6JUM/",
+          "source": "Chosunbiz",
+          "date": "2026-11-03"
+        }
+      ]
+    },
+    "내장산ic": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-03T23:54:00+09:00",
+      "lastSeen": "2026-11-03T23:54:00+09:00",
+      "news": [
+        {
+          "title": "전북 도공, 호남고속道 내장산 IC~정읍IC 차로 부분통제",
+          "url": "https://www.newsis.com/view/NISX20261103_0003852421",
+          "source": "뉴시스",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "호남고속도로 4~5일 '내장산IC~정읍IC 천안방향' 일부 통제",
+          "url": "https://www.news1.kr/local/jeonbuk/6340941",
+          "source": "뉴스1",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "호남고속도로 내장산~정읍IC 천안 방향, 4~5일 부분 통제",
+          "url": "https://jb.nocutnews.co.kr/news/6601085",
+          "source": "전북노컷",
+          "date": "2026-11-03"
+        }
+      ]
+    },
+    "양도소득세": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-03T23:54:00+09:00",
+      "lastSeen": "2026-11-03T23:54:00+09:00",
+      "news": [
+        {
+          "title": "국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘",
+          "url": "https://www.yna.co.kr/view/AKR20261103075200002",
+          "source": "연합뉴스",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "국세청, 해외 주식 등 주식 양도소득세에서 기본공제 누락된 4687명에 21억원 환급 완료",
+          "url": "https://www.chosun.com/economy/economy_general/2026/11/03/GVDE3FMCNNGCFJPIJGZL3NSWAM/",
+          "source": "조선일보",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "“주식 양도세 납세자 확인 필수”... 기본공제 누락 4600여명에 환급",
+          "url": "https://www.munhwa.com/article/11628518",
+          "source": "문화일보",
+          "date": "2026-11-03"
+        }
+      ]
+    },
+    "하희라": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-03T23:54:00+09:00",
+      "lastSeen": "2026-11-03T23:54:00+09:00",
+      "news": [
+        {
+          "title": "최수종, ♥하희라에 지극정성 이유 있었다 \"4번 유산하고도 아이들 케어\" 애틋(옥문아)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/02/GEZTQOLCMIYGKOJWMRTDANRUGU/",
+          "source": "조선일보",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "최수종, 2000년생 딸 언급 \"대학생인데 통금이 9시\"",
+          "url": "https://www.newsis.com/view/NISX20261103_0003853551",
+          "source": "뉴시스",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "최수종 \"39년 전과 몸무게 똑같아\"…동안 관리법 공개",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6341964",
+          "source": "뉴스1",
+          "date": "2026-11-03"
+        }
+      ]
     }
   },
   "sections": {
