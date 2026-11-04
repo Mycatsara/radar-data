@@ -520,6 +520,266 @@
           "date": "2026-11-03"
         }
       ]
+    },
+    "개": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-04T16:52:00+09:00",
+      "lastSeen": "2026-11-04T16:52:00+09:00",
+      "news": [
+        {
+          "title": "홍콩 H지수 ELS 조치안 관련 상정 일정 및 최종 과징금 규모는 전혀 결정된 바 없습니다. - 머니투데이 11월 3일자 기사에 대한 설명",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148974902",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "홍콩ELS 불완전판매 은행·증권사에 과징금 3,700억 원 확정",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8703790",
+          "source": "KBS 뉴스",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "[포토] ‘수소 에너지의 미래’",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3445938",
+          "source": "천지일보",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "전투기": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-04T16:52:00+09:00",
+      "lastSeen": "2026-11-04T16:52:00+09:00",
+      "news": [
+        {
+          "title": "여객기 7대에 '폭탄 협박'‥공항 폐쇄·전투기 출격",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6862995_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "AI 해킹공격…냉장고로 시작, 항공기 테러로 확산하나",
+          "url": "https://www.seoul.co.kr/news/international/2026/11/04/20261104500246",
+          "source": "서울신문",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "유럽 하늘길 불안…여객기 7대 폭파 위협 신고",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8703234",
+          "source": "KBS 뉴스",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "해병대 제 2 사단": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-04T16:52:00+09:00",
+      "lastSeen": "2026-11-04T16:52:00+09:00",
+      "news": [
+        {
+          "title": "CU 軍 간식차 응원전 1위는? 정동원 복무하는 해병2사단...팬심 ‘총동원’",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/04/5YYOKT7OYFBLHE3MUUNAOSRHC4/",
+          "source": "조선일보",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "하나은행·하나카드·CU, 국민 응원 모아 군 장병 간식 지원",
+          "url": "https://www.viva100.com/article/20261104500527",
+          "source": "브릿지경제",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "CU '우리 부대 응원전' 1위는 제2해병사단…정동원 팬덤도 한몫",
+          "url": "https://www.yna.co.kr/view/AKR20261104031400030",
+          "source": "연합뉴스",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "veto": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-04T16:52:00+09:00",
+      "lastSeen": "2026-11-04T16:52:00+09:00",
+      "news": [
+        {
+          "title": "Trump says he is prepared to use \"tremendous powers\" if Democrats take control",
+          "url": "https://www.cbsnews.com/news/trump-midterm-election-2026-interview/",
+          "source": "CBS News",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "President Trump surprised at midterm outcome, points out he has the power of veto",
+          "url": "https://www.foxnews.com/video/6407887154112",
+          "source": "Fox News",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "Nervous White House plans for life after midterms defeat",
+          "url": "https://www.telegraph.co.uk/us/politics/2026/11/02/white-house-ready-battle-as-trump-facing-midterms-defeat/",
+          "source": "The Telegraph",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "홍석천": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-04T16:52:00+09:00",
+      "lastSeen": "2026-11-04T16:52:00+09:00",
+      "news": [
+        {
+          "title": "\"그냥 게이랑 놀아\"…홍석천, '일라이 이혼' 지연수에 조언 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/03/2026110305355620873",
+          "source": "머니투데이",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "“그냥 게이랑 놀아” 홍석천, ‘일라이와 이혼’ 지연수에 연애 금지령",
+          "url": "https://sports.donga.com/ent/article/all/20261102/134954154/1",
+          "source": "스포츠동아",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "지연수, 썸남 누구였길래..홍석천이 질투까지 “내가 특별히 예뻐한 애”(연수롭다)",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/02/HEYTMMBTGI4WKOJVHAYTINZRGE/",
+          "source": "Chosunbiz",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "가덕도신공항": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-04T16:52:00+09:00",
+      "lastSeen": "2026-11-04T16:52:00+09:00",
+      "news": [
+        {
+          "title": "가덕도공항, 6200억 공사비 매듭…대우건설 컨소, 착공 ‘카운트다운’",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031009404680338",
+          "source": "대한경제",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "\"가덕도신공항 올해 예산집행률 고작 0.03%…정상화 시급\"",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261104.99099001194",
+          "source": "국제신문",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "“신공항·LCC·도시철도 비상”… 김재운 시의원, 시정 무기력 질타",
+          "url": "https://sports.donga.com/region/article/all/20261104/134962585/1",
+          "source": "스포츠동아",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "약국": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-04T16:52:00+09:00",
+      "lastSeen": "2026-11-04T16:52:00+09:00",
+      "news": [
+        {
+          "title": "올리브영 넘어 약국으로…1세대 K뷰티 토니모리, 판매처 다변화",
+          "url": "https://www.hankyung.com/article/202611044564g",
+          "source": "한국경제",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "에이치피오 \"주닥, 佛 파리 K-뷰티 플래그십 허브 'mmm' 입점\"",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850172",
+          "source": "뉴시스",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "토니모리, 무신사 뷰티 ‘온누리약국 홍대점’ 입점",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=778957",
+          "source": "싱글리스트",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "헤지펀드": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-04T16:52:00+09:00",
+      "lastSeen": "2026-11-04T16:52:00+09:00",
+      "news": [
+        {
+          "title": "美 대형 헤지펀드의 '대폭락' 경고…\"주식 시장 망가졌다\"",
+          "url": "https://www.hankyung.com/article/202611045349i",
+          "source": "한국경제",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "빌 애크먼 \"주식시장 망가졌다…레버리지 투기 거래에 주가 급등락\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442832",
+          "source": "연합인포맥스",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "\"대공황 직전 광란과 비슷\"…헤지펀드 운용사의 섬뜩한 경고 [지금이뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0545_202611041020013501",
+          "source": "YTN",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "윤석열": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-04T16:52:00+09:00",
+      "lastSeen": "2026-11-04T16:52:00+09:00",
+      "news": [
+        {
+          "title": "윤석열 선거법 2심도 당선 무효형…확정시 국힘 397억 반환",
+          "url": "https://news.jtbc.co.kr/article/NB12326412",
+          "source": "JTBC",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "윤석열 '선거법 위반' 2심도 유죄, 이유는?…국민의힘 397억 반환 위기 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/04/2026110414514745849",
+          "source": "머니투데이",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "[속보] 2심 재판부 \"변호사 소개·건진법사 발언, 중요 정보‥허위사실 공표로 선거인 선택 침해\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6863151_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "비상식량": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-04T16:52:00+09:00",
+      "lastSeen": "2026-11-04T16:52:00+09:00",
+      "news": [
+        {
+          "title": "“전쟁 나면 어떡해”…400만원 들여 생존용품 쟁이는 사람들",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=56846",
+          "source": "주간조선",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "“진짜 전쟁 나나?”…욕조에 물 받고 생존가방 준비에 400만원 써",
+          "url": "https://www.kyeonggi.com/article/20261104580395",
+          "source": "경기일보",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "생수·라면부터 방독면까지…400만원 ‘재난가방’ 챙기는 사람들, 왜?",
+          "url": "https://www.mk.co.kr/news/society/12196253",
+          "source": "매일경제",
+          "date": "2026-11-04"
+        }
+      ]
     }
   },
   "sections": {
@@ -1645,6 +1905,90 @@
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NUnYzODA2LVNBMVNaa0ppNFhaQmtackVIaXJlWWc1ZVVNTjFUM2dlTHJ3Slhkc004YkJKMXVCaEVhZ1RsdmdiN3lnaWY2bGRtUVNjdDh0dWRLUFVUT0pFaWVxMnNlVW8?oc=5",
         "source": "연합뉴스TV",
         "date": "2026-11-02"
+      },
+      {
+        "title": "“고영표 믿는다, 페덱은 지켜본다”…이강철 KT 감독, KS 2연승 정조준",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xbkJyNWJOZUtOV2tVcnJxTllIclZ2enlOYmhtbUwtNkt6Q200eU1jd0tBX2gwVUktOEFHQzJsOFRjcUd2OV9Fa0pjZ25tenVEWXJncnNjUGZjdG8?oc=5",
+        "source": "경기일보",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "그동안 훈련량이 많았던 건 인정, 마무리 캠프 떠나는 롯데는 ‘수비 강화’ 이름부터 내세웠다",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UTlZZaTV5V2ZLbHhOX1J5aFRlcFNTbzBEckxZSUFxRTZLYkM2YkxwLWlCSjQtSms5ektRQkhBd0JEYjZIaEtteWUyU2k4LVRKb0FZUGRSSDdqZkdNNFHSAWNBVV95cUxOOFhseE1MaElCTmZVb0p6RExlcWhNTzkyNVJpLXctQXdGcnM2bEhEVG16Zmp1UDdudHd6b3JMcXVjMkFMVnA3NDNLbVprS2YtTnJycFZBcDFrTTV6UFdDY1pvM0E?oc=5",
+        "source": "스포츠경향",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "삼성 라이온즈, 구자욱 투런포에도 KT와의 한국시리즈 첫 경기서 7-8 석패...",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pTmh6dDVRcmFVNC11Y1pLSzN3UHplb1lVX1ppVmRFZ21ON2o5ejM5ZExRV0pwUUNEZ3BlODBHLTJOd0FZc2xtamFWcUpOcE9xT01VelNCYVlBTDVZVktLUFhsZFJLMXdXdVNJ?oc=5",
+        "source": "영남일보",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "‘코리안 더비’ 김민재의 뮌헨, 이강인의 아틀레티코에 2대 0 완승",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMMVV4Y3UwdTl2SVBGcVQ1bnR3bVhUdWxjMloyNFFISGprUzhSNTNBdGpxeEUwNHQwS2wyNUhqSEViZFJYY3Rib3pxbmhub3A1RktmNlVRRGZTU2M?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "아시안컵 11개월 연기 여파...모리야스 일본 감독, 올해 끝으로 퇴임",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pTFZZTWo5bnF2anNrWFdkWTh4UGp0YkxEeklueDNMMFBnOElXSUlfMzBpY0g5aWlPS2d4cmUtQnRuRUxJYURhUEU5Q1dTRzhYMGNIal9hME1wRV9v?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "뉴욕 마라톤에서 횡문근융해증으로 20대 여성 숨져",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZDJnTnJIaVhZYUctWEZSZTF0S3pmSkJwbXNsT1dzZGZtZFZEZlJHQUVwODg5ck41X1ByOW1sVWtVN25zZ0s5X0NrUnBqNHdkQWpwcGh3VDJUMnF4dkZveHJaRlVwYUxzdi10RVVyWWlnSktLYWlqY05Wc2ZlZ3BsUUhac1E2YkhSX3diMg?oc=5",
+        "source": "YTN 사이언스",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "스페인 2부 축구 선수, 골키퍼와 충돌 후 심정지로 사망",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDc0Uy15WWFqWUNrcFpEaTZsb2RIcWxGUlJYaVY0VlJEaG4yanlaV2tjbGVhcDAxSV9CU2VmSkNVVV94QndLMk9ZU3IyY0ljUFNzc2tBQWZ1aE1uOXdYSEQwLWR1UHhTUmNrOFBFVDc1YnlUU2RzNnZ3UXpubFdYUFNnM3dseTVDempn?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "화성특례시의회, IBK 알토스 홈 개막전 시구",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iYldCUnkxd0RUZ29MRmR0dmVUdHJiV2J4MjBEcWV6elNhLTZWcE96S3pDS2Y5eWtZMFh3eVV2clI4amZ2amxka0JUVElCQXZybWs0ODRwZFNvSkwyN25KYzhPS3VSZFlKS0VpNU1wRlI?oc=5",
+        "source": "인천일보",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "배드민턴: 안세영, 날반토바 꺾고 16강 진출 - 코리아오픈 2026",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN1ZQZUlKLUFUb1UzVXh2dmtBaTNBOGlGaHkxTzE1RVZsTTFyRHpBYUpiMzBRdy1rTTl4YW9JVzRfbnJOWUFVb0xFeVNObzVPMGdaQzR0b3BSMEhoS0gzTXVZYU9KM1hUTVNDTDh4aG0ycm51NzJ1TEdhMy1XY0tUU3lIZnZKcm8xRGRneWJwSHo0UQ?oc=5",
+        "source": "Olympic Channel",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "프로농구 신인 드래프트 순위 추첨식 9일 개최",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vaG5GdjZUX3U2N0s3cWdrWlA0aEw4TFY0N2pZTjBoX0RpNVZ4WUFkMGhVTkdwQkZfT1hFbnpOMW85c1J4bFh0R0lUa3NfV1RSTmJFOUtSZVE5eEnSAWBBVV95cUxOQ1lhZmI3R2ViR0g4amROVEM1aGhiSHlkNTdrNDdmazM1TTFuV285S0FraEs5OWNqNVkwd004bnYzNXl3RlI5ZERJYk5xVGc3N0hIZ0M5aXJ3MXpBMkRMRnk?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "부산 KCC, 고양 소노 105대 102로 제압 꼴찌 탈출",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5na0o5WmVCOTRyR29ieVU1akZjdVBhUU0tcXp6T3ZWSWZ1bjlodHdLbzVkemhnLS1FbEhVeHBmYXVmRmFRUE4yem9OMElad05RZ2w4LVR5TEtyYnFiWWxVdU9qT2JBTTBLV3fSAW5BVV95cUxQZExZSTUzdWZNd1doRTZmVFNEb0tpV2x1R2hoZXNJT2tRd3Itb2tqYUJhTUlaVWRUX25KT3dkZEE1eElTcm9TMnhmOGctUUktRWFjSlZ6TVlWeEh1LXh4YXA2em5HR2Z1MjNHNnFDUQ?oc=5",
+        "source": "중부매일",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "크라운해태, 4연승 달리며 PBA 팀리그 선두 수성",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PcjhQSnRMNC1Yb1dJNUMyTUNhRlZOSDFKd0phUWNhMklkeVNIbERlYkFmcHdvbmQxVGNVWEhYVzBVa0F1UHZ2b1ZrUmZnU1V5aWdPMkQtRHZ6ZmdDSGlEU28wb21zZExHSXc?oc=5",
+        "source": "SBS 뉴스",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "고 최동원, 야구 선수 첫 한국 스포츠 영웅 선정",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2aWxGRE5zLW05NklnZGRmaVRGRk9yVWhuVGlGVE1vdW42eEIzSUxhcXU4alV4ZE9GWVp5Q0tzRnRmYXVqbXk0dW84eU44aVhkX3NxejNLY3dxRHp1Zmc?oc=5",
+        "source": "YTN",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "[축구] 박항서 감독의 태국 도전 4개월…심판 판정 논란에 팬심도 등 돌려",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YWUVzZmtmZ1dXeElDZjQ5R25TTmsxSkpFTDBGTWFQdmRKMHh3T2JseWJDLWY3RVJvLTFVZkZZdUpPTHFjR1ZfTnRrcEpTY0lRaWNJTW85UTlFU182ODVNWjFBd3Y5RVp5NHNRU0RIbWc?oc=5",
+        "source": "굿모닝베트남미디어",
+        "date": "2026-11-04"
       }
     ]
   }
