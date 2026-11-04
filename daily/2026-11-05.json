@@ -260,6 +260,266 @@
           "date": "2026-11-04"
         }
       ]
+    },
+    "보디빌딩": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-05T07:04:00+09:00",
+      "lastSeen": "2026-11-05T07:04:00+09:00",
+      "news": [
+        {
+          "title": "제주 박선연, 한국 여자 피지크 최초 세계 정상",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=846152",
+          "source": "제민일보",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "김민준 ‘세계최고 보디빌더’",
+          "url": "https://www.donga.com/news/Sports/article/all/20261105/134968751/2",
+          "source": "동아일보",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "김민준, 세계보디빌딩선수권 남자 보디빌딩 역대 최초 '오버롤'",
+          "url": "https://www.yna.co.kr/view/AKR20261104146300007",
+          "source": "연합뉴스",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "고지용": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-05T07:04:00+09:00",
+      "lastSeen": "2026-11-05T07:04:00+09:00",
+      "news": [
+        {
+          "title": "‘고지용 젝스키스 합류 반대’ 성명에 공연 주최사 “공식 합류 아니다”",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/04/VTCEP47OQFFYVGJ6DVGVXVNCOE/",
+          "source": "Chosunbiz",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "고지용, 이번엔 '쉿' 사진에 '셧업' 노래…왜?",
+          "url": "https://www.newsis.com/view/NISX20261104_0003853798",
+          "source": "뉴시스",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "고지용, 젝스키스 공식 합류 아니다..\"90만원 티켓 논란 사실과 달라\" [공식입장]",
+          "url": "https://www.koreadaily.com/article/20261103155826754",
+          "source": "미주중앙일보",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "자동차": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-05T07:04:00+09:00",
+      "lastSeen": "2026-11-05T07:04:00+09:00",
+      "news": [
+        {
+          "title": "中에 따라잡힌 韓 전기차 수출경쟁력…2030년 2.2조원 잠식 우려",
+          "url": "https://www.etnews.com/20261104000211",
+          "source": "전자신문",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "中 전기차에 안방 내줄라…정부는 '세제', 현대차는 'AS' 총력전",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000254",
+          "source": "IT조선",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "[인터뷰] 이언주 의원 \"제조 일자리, 중국에 눈 뜨고 뺏기고 있다\"...’한국판 IRA’ 서둘러야\" By EBN",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2157641",
+          "source": "Investing.com 한국어",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "비트코인": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-05T07:04:00+09:00",
+      "lastSeen": "2026-11-05T07:04:00+09:00",
+      "news": [
+        {
+          "title": "130년된 수학 법칙…2033년 비트코인 예측",
+          "url": "https://kr.beincrypto.com/bitcoin-power-law-price-prediction-2033/",
+          "source": "BeInCrypto",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "비트코인 10년 뒤 10배 전망…1,000달러가 1만 달러로",
+          "url": "https://www.coinreaders.com/267586",
+          "source": "코인리더스",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "비트와이즈 CIO \"비트코인(BTC), 가격 부진에도 올해 강한 성장세\"",
+          "url": "https://bloomingbit.io/feed/news/123147",
+          "source": "블루밍비트",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "근육": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-05T07:04:00+09:00",
+      "lastSeen": "2026-11-05T07:04:00+09:00",
+      "news": [
+        {
+          "title": "뱃살 빼면서 근육은 지킨다…평균 72세 노인에게 효과 본 운동법",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=56739",
+          "source": "주간조선",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "디앤디파마텍, DD01 연내 기술수출 총력…살 빼고 근육 지키는 신약 공개",
+          "url": "https://pharm.edaily.co.kr/News/Read?newsId=05248006645642112",
+          "source": "팜이데일리",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "[현장+] 이슬기 디앤디파마텍 대표 \"향후 10년, 임상 결과로 입증할 것\"",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353750",
+          "source": "녹색경제신문",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "slavia praha vs arsenal": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-05T07:04:00+09:00",
+      "lastSeen": "2026-11-05T07:04:00+09:00",
+      "news": [
+        {
+          "title": "Slavia - Arsenal | FOTBAL ONLINE: Sešívaní v LM proti gigantovi",
+          "url": "https://www.sport.cz/clanek/fotbal-liga-mistru-2026-2027-slavia-praha-arsenal-online-5569779",
+          "source": "Sport.cz",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "Trpišovský versus Arteta: Roční plat 30 proti 750 milionům",
+          "url": "https://isport.blesk.cz/clanek/fotbal-evropske-pohary-liga-mistru/481729/trpisovsky-vs-arteta-ctvrte-dejstvi-brutalni-rozdil-v-platu-ale-stejna-posedlost-detaily.html",
+          "source": "iSport.cz",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "Brankářské dilema ve Slavii: Trpišovskému se vrací Markovič, Domchak zaujal",
+          "url": "https://www.ruik.cz/brankarske-dilema-ve-slavii-trpisovskemu-se-vraci-markovic-domchak-zaujal/",
+          "source": "Ruik",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "이한범": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-05T07:04:00+09:00",
+      "lastSeen": "2026-11-05T07:04:00+09:00",
+      "news": [
+        {
+          "title": "‘3경기 연속 결장’ 이한범, 벨기에 진출 후 첫 위기 직면…주전 경쟁서 밀려나",
+          "url": "https://sports.khan.co.kr/article/202611021105003",
+          "source": "스포츠경향",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "'韓 국가대표' 이한범, \"맨시티·첼시·아스널·바르셀로나\" 이적 실현시키나? 절호의 기회 왔다!...\"스카우터 방문 전망\"",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553672801",
+          "source": "스포탈코리아",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "'韓 축구 초대형 악재'...'제2의 철기둥' ��한범 커리어 '최대 위기', 몸값 130억인데 벤치 전락하나? \"주전 경쟁에서 밀렸다\"",
+          "url": "https://mydaily.co.kr/page/view/2026110218191254208",
+          "source": "마이데일리",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "탁구": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-05T07:04:00+09:00",
+      "lastSeen": "2026-11-05T07:04:00+09:00",
+      "news": [
+        {
+          "title": "탁구공에 담은 낭성·미원의 첫 만남…제1회 어울림 친선대회 열려",
+          "url": "https://www.cj-ilbo.com/news/articleView.html?idxno=1186474",
+          "source": "청주일보",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "충주 농촌마을 교류 물꼬…탁구로 화합·상생 다진다",
+          "url": "https://www.inews365.com/news/article.html?no=940882",
+          "source": "충북일보",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "충주 산척·노은 주민들, 탁구로 첫 교류…2027년 참여지역 확대",
+          "url": "https://www.dominilbo.com/news/articleView.html?idxno=281536",
+          "source": "충청도민일보",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "기상청": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-05T07:04:00+09:00",
+      "lastSeen": "2026-11-05T07:04:00+09:00",
+      "news": [
+        {
+          "title": "충북 대체로 흐리고 낮부터 비…낮 최고 13∼15도",
+          "url": "https://www.yna.co.kr/view/AKR20261105010900064",
+          "source": "연합뉴스",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "대전·세종·충남 흐리고 비…낮 최고 14∼17도",
+          "url": "https://www.yna.co.kr/view/AKR20261105009700063",
+          "source": "연합뉴스",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "[날씨] 대전·세종·충남 내일 새벽부터 비…모레 낮부터 찬바람",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8704040",
+          "source": "KBS 뉴스",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "xrp 레저": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-05T07:04:00+09:00",
+      "lastSeen": "2026-11-05T07:04:00+09:00",
+      "news": [
+        {
+          "title": "\"XRP 20달러 부양하라\"…리플 경영진에 전달된 공개 서한 파장",
+          "url": "https://www.g-enews.com/article/Securities/2026/11/202611021108046010e250e8e188_1",
+          "source": "글로벌이코노믹",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "XRP vs 이더리움(ETH), 5년 뒤 투자 성과 승자는?",
+          "url": "https://www.coinreaders.com/267250",
+          "source": "코인리더스",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "부진한 10월 보낸 XRP…11월 반등 낙관하기 어려운 이유",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712152",
+          "source": "디지털투데이",
+          "date": "2026-11-04"
+        }
+      ]
     }
   },
   "sections": {
@@ -1415,6 +1675,60 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtWTkxT2l5Y3ktd3JCYnctbzIxSmtXSWZOYWk3RElZaE9VZmY1eXBmMkJIMWdDN2dkUV9TY2hlWWdGNVZ0V0tIc29ENUg5Y2dxNjNfUkVHdU3SAVRBVV95cUxPUGtZUnl2NXBINmJhc20tVkVMdkZKVWJ1TEQxRF9CcG1lN3lMLWprcW5STzFzMXdmUG54RWQ4aktuTndzTU42YmQyUWlTQ3dzN3JFa0Y?oc=5",
         "source": "세계일보",
         "date": "2026-11-03"
+      },
+      {
+        "title": "감독에게 90도로 사과한 삼성 디아즈 \"지금까지 책임감 느껴\"(종합)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByRm9OQnhqSWpvTmw3cTlRUnJYZVV3SkhYNkRWUTlaWHBXaDlvRE45Y2xpc3czLTM1VV9QZzhBMmJmYk1CdkhkS2pndlhZUmVMd3BpdWxESFkwUzjSAWBBVV95cUxOdVZMMWRIRWp5VDlDYmhLOE43SkkybFBSa25MU0hHYXVCQ2g0MWVBZ2RoNjVuZ1VwamR2YnlBSTJtQkFuYjlsYlN3NkljM3BBZkJlay13Y3lpcmlpTVhKMEM?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "[스타inKS2] 삼성 원태인, 끝내기 위기 막은 32구...불펜 투혼 마치고 선발 복귀",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wZUw4NzZ1Yzl2bEFYNmlsUGFtT3NJekh3Mk51UnJ4eWJOS2llZWxqUVdXb042ZFp0NHNiRkhtUHhUSTVBZ2hraHBqZzE0ajdvdG50Tm5tbVpIdFli?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "“심장 내려앉는 줄…10년 늙은 기분” 155km 강속구로 1점 차 승리 지킨 배찬승, 생애 첫 PS 세이브에 포효 [KS2]",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44YnA5ejdfNmU5OTR2b2tjVDM0dlRiZm43NDhxN3lVVGw3djVSZ2tpU1Q4dFRVVFk2OVM5RkNRTDhKbnM1cERfWmU2UUFZZy1RMWpSMA?oc=5",
+        "source": "OSEN",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "후임자까지 정했는데…亞컵 연기로 일정 꼬인 日, 모리야스 감독 \"일단 눈앞의 일에 최선\"",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQnhMbXdOQkc4Yjhza3FBSHVfbTZLdDZ0YTVqYmNKNlFxY2FqTWp1cG9jSkplUTZCS1l1Tm1OdzI4VXpmdUVOY0NGNzdNVWZSYjNsRENtbjV3YXB3Q2FTaTdueXU1UlNZcGkteDVLaEJHdmVjNTBILWI4akVabEM1T3lubHpRc2ZqVXR3?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "‘신 소총여제’ 반효진, 2년 연속 세계선수권 제패…LA 올림픽 쿼터 획득",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VM0QwTnZCMEplV3FjbHNzX2lRY28xczAtQzJDN2pvS2xRM3diRHpkX1doVG15ZnE1UEh4MkVxT0dnV1R6LXNGVkxaQ1piT3NXTUVWSFl0UkVkeVE?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "‘무쇠팔’ 최동원, 야구선수 첫 한국 스포츠영웅 선정",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52QmtyY0w0Qmd2YkhCSEJrQkRIVDJ5NEg2UkVsTDNjTVhIbDBXQ0IyZFFONWd5ZVNCZUFHcVlUWllTV2NWLVZSUm1mTTdDOE5aZFROVDlGZWVxenA3VEdMUkJmY0p2Sm1DUFhoVlBkSXV1OWVF0gFmQVVfeXFMTjhRc0w5dkRwbzBaMTlPU1pOc0xCaUJIOTRzdDNNVXAwam9PQTBWYm16S3RRdnliTjBkMDBOZkRPejdBZ3FEVUp3TjF5ZzVkNUQwVGpkU3RSazdnZUJPMnFycWxmbzhR?oc=5",
+        "source": "동아일보",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "[야구] kt 소형준 vs 삼성 후라도, KS 3차전 격돌",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EVktzck9kZ1FtSFVPVHdWN3BId196Skh4LWpuMUlCX3N4dWREdXF4aXo4Y3ZsZ3MydTVLTE5lLXdINlhUbE9OMnhROUZpc1ZHaXFpdzZBbU5WeFRrLU5GdENaS1c4eVp6YUE?oc=5",
+        "source": "천지일보",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "[KS2] '5번 타순 이동' 삼성 디아즈, 한국 무대 첫 3루타로 선취점",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40dG4wQzAzXzltdE1NeGEtdWxRWmcwQ2puRXlhX1VBWnF2MTZ4S3ozdUhHanZ6WXdhWFNGNWMtd2R2dWhJbWpNbVBJN25jd252VkYzYmFaQjJjZw?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "경기 중 골키퍼와 충돌...스페인 축구선수 사망 [앵커리포트]",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NOHYxNXpWRmxGbFFUVWlTdU9tTkh2T2ZIX21qR2NhTV9vdnNJY3Zsbl9OX0t2Y0hyQnZ1dnhmNjVDdEFmWFlaN3llT3hkbjFRSlJ2N1Z4dVN2ZXZxX0E?oc=5",
+        "source": "YTN",
+        "date": "2026-11-04"
       }
     ]
   }
