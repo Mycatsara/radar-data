@@ -780,6 +780,266 @@
           "date": "2026-11-04"
         }
       ]
+    },
+    "노동조합": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-05T19:29:00+09:00",
+      "lastSeen": "2026-11-05T19:29:00+09:00",
+      "news": [
+        {
+          "title": "삼성전자 DX노조, 수원사업장 앞 집회…'공정한 보상체계' 요구",
+          "url": "https://www.yna.co.kr/view/AKR20261105168100061",
+          "source": "연합뉴스",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "삼성전자 DX노조 또 대규모 집회…노조간 집안싸움 격화",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=06812566645642768",
+          "source": "마켓인",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "삼성전자 동행노조 \"메모리價 급등 완제품이 감당…가격정책 적정했나\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443312",
+          "source": "연합인포맥스",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "라파엘 나달": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-05T19:29:00+09:00",
+      "lastSeen": "2026-11-05T19:29:00+09:00",
+      "news": [
+        {
+          "title": "‘흙신’ 나달, 레알 마드리드 구단 이사 된다…내친 김에 회장까지?",
+          "url": "https://www.donga.com/news/Sports/article/all/20261105/134971041/1",
+          "source": "동아일보",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "'테니스 스타' 나달, 레알 마드리드 이사회 합류…\"제안 수락\"",
+          "url": "https://www.yna.co.kr/view/AKR20261105066500007",
+          "source": "연합뉴스",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "'테니스 전설' 나달, 스페인 레알 마드리드 신임 이사 임명",
+          "url": "https://www.newsis.com/view/NISX20261105_0003855992",
+          "source": "뉴시스",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "유네스코": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-05T19:29:00+09:00",
+      "lastSeen": "2026-11-05T19:29:00+09:00",
+      "news": [
+        {
+          "title": "2014년 4월에 멈춘 시간·노란 리본…23만점 기록에 새긴 세월호",
+          "url": "https://www.yna.co.kr/view/AKR20261105168700005",
+          "source": "연합뉴스",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "‘잊지 않겠다’는 약속…세월호의 기억, 유네스코 기록유산이 되다",
+          "url": "https://www.khan.co.kr/article/202611051729001",
+          "source": "경향신문",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "세월호 참사 기억·옛 조리서, 세계기록유산 아태 목록 등재",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6863479_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "외국인": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-05T19:29:00+09:00",
+      "lastSeen": "2026-11-05T19:29:00+09:00",
+      "news": [
+        {
+          "title": "40개국 글로벌 청년 하나로… 대전시, ‘2026 외국인 유학생 한마음 대회’ 개최",
+          "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/05/2026110500101.html",
+          "source": "뉴데일리 충청세종",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "국적·언어 넘어선 청춘의 열정 한자리에",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109108",
+          "source": "충청매일",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "[대전소식] 2026 외국인 유학생 한마음 대회 개최 외",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1421999",
+          "source": "데일리한국",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "하이닉스": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-11-05T19:29:00+09:00",
+      "lastSeen": "2026-11-05T19:29:00+09:00",
+      "news": [
+        {
+          "title": "5300선까지 하락한 코스피...미국 반도체주·외국인 향방 주목 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/05/2026110515534966157",
+          "source": "머니투데이",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "미 '블루쓰나미' 여파에 코스피 급락...삼전 장중 20만원 선 붕괴",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611051901366192",
+          "source": "YTN",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "’美민주당 압승’에 韓증시 폭락…코스피·코스닥, 매도 사이드카",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261105152653X2E",
+          "source": "연합뉴스TV",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "fifa u-17 여자 월드컵": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-05T19:29:00+09:00",
+      "lastSeen": "2026-11-05T19:29:00+09:00",
+      "news": [
+        {
+          "title": "북한, U-17 여자 월드컵 준결승서 고배…3연패 도전 무산",
+          "url": "https://www.donga.com/news/Sports/article/all/20261105/134970487/1",
+          "source": "동아일보",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "북한, FIFA U-17 여자 월드컵 일본에 승부차기 패배…3연패 좌절",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831671",
+          "source": "SBS 뉴스",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "[축구] 북한, FIFA U-17 여자 월드컵 준결승서 일본에 패배… 3연패 좌절",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3446136",
+          "source": "천지일보",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "어벤져스 둠스데이": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-05T19:29:00+09:00",
+      "lastSeen": "2026-11-05T19:29:00+09:00",
+      "news": [
+        {
+          "title": "고조에서 세피로스까지: 어마어마한 라인업을 자랑하는 '어벤져스: 두무스데이' 일본어 더빙진",
+          "url": "https://hypebeast.kr/2026/11/marvel-avengers-doomsday-japanese-dub-cast-anime-voice-actors-toshiyuki-morikawa-doctor-doom-announcement",
+          "source": "Hypebeast.KR",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "‘어벤져스: 둠스데이’ 벌써 뜨겁다…사상 최초 ‘30억 달러’ 돌파 전망",
+          "url": "https://sports.donga.com/ent/article/all/20261102/134948407/1",
+          "source": "스포츠동아",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "[해외 캠페인] KFC, '어벤져스: 둠스데이' 메뉴 출시",
+          "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=7066",
+          "source": "캠페인 인사이트",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "장동민": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-05T19:29:00+09:00",
+      "lastSeen": "2026-11-05T19:29:00+09:00",
+      "news": [
+        {
+          "title": "넷플릭스 ‘데블스 플랜: 데드 어게인’, 역대 우승자와 전략가 총집결…10일 두뇌 서바이벌 개막",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=846241",
+          "source": "제민일보",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "정현규, 태도 논란에도 '데블스플랜3' 또 출연…\"지금도 반성 중\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/05/2026110514584552886",
+          "source": "머니투데이",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "장동민부터 홍진호·하석진까지…'데블스 플랜3', 역대급 두뇌 전쟁 예고",
+          "url": "https://www.newsis.com/view/NISX20261105_0003856283",
+          "source": "뉴시스",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "시험": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-05T19:29:00+09:00",
+      "lastSeen": "2026-11-05T19:29:00+09:00",
+      "news": [
+        {
+          "title": "서울시립대, 논술 시험에 스마트안경 쓴 수험생 2명 고소…업무방해 혐의",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261105185022VqP",
+          "source": "연합뉴스TV",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "논술시험에 AI안경… 서울시립대, 수험생 '업무방해' 고소",
+          "url": "https://view.asiae.co.kr/article/2026110518173215884",
+          "source": "아시아경제",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "이 대통령 \"수능서 스마트 안경 등 활용한 부정행위 원천 차단해야…종합대책 마련\"",
+          "url": "https://www.newsis.com/view/NISX20261105_0003856417",
+          "source": "뉴시스",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "이동국": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-05T19:29:00+09:00",
+      "lastSeen": "2026-11-05T19:29:00+09:00",
+      "news": [
+        {
+          "title": "용인, 이동국 근태 논란 반박… “업무·성과 긍정적 평가… 활동 내역과 관련 자료로 판단 필요”",
+          "url": "https://www.munhwa.com/article/11628697",
+          "source": "문화일보",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "이동국 '근무태만' 의혹에 ♥이수진 작심 발언 \"식탁서도 선수 영상\"",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/05/MMZWGYJXMIYWGZJVGUYWKMBSMI/",
+          "source": "조선일보",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "'연봉 1억 4400만원, 이동국 디렉터 근태 논란'→구단이 직접 전면 반박 \"업무 성과 긍정적, 다만...\"",
+          "url": "https://www.mt.co.kr/sports/2026/11/05/2026110513513060753",
+          "source": "머니투데이",
+          "date": "2026-11-05"
+        }
+      ]
     }
   },
   "sections": {
