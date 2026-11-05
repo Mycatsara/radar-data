@@ -520,6 +520,266 @@
           "date": "2026-11-04"
         }
       ]
+    },
+    "김대호": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-05T11:41:00+09:00",
+      "lastSeen": "2026-11-05T11:41:00+09:00",
+      "news": [
+        {
+          "title": "김대호, 9세 연상 김숙과 동거설에 입 열었다",
+          "url": "https://www.newsis.com/view/NISX20261105_0003855440",
+          "source": "뉴시스",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "김대호, 얼마나 성공하고 싶으면 “구본승 다음은 너” 김숙과 러브라인 (톡파원25시)[어제TV]",
+          "url": "https://m.newsen.com/news_view.php?uid=202611050632281710",
+          "source": "뉴스엔",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "김대호, ‘9세 연상’ 김숙과 동거설→직접 입 열었다…”열려 있다는 의미” (‘톡파원’)",
+          "url": "https://tvreport.co.kr/entertainment/article/1088458/",
+          "source": "TV리포트",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "한남더힐 아파트": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-11-05T11:41:00+09:00",
+      "lastSeen": "2026-11-05T11:41:00+09:00",
+      "news": [
+        {
+          "title": "옥주현 '한남더힐 190억' 매입과 대부업 대출…신사동 빌딩서 꼬인 '레버리지의 덫'",
+          "url": "https://www.newsis.com/view/NISX20261104_0003854597",
+          "source": "뉴시스",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "옥주현 190억 집, 경매 넘어간 건 우연이 아니다?",
+          "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=02984806645641784&Kind=257",
+          "source": "이데일리TV",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "'190억 한남더힐' 경매 넘어가자…옥주현 측 \"투���사가 상환 예정\"",
+          "url": "https://www.hankyung.com/article/202610294537H",
+          "source": "한국경제",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "레인보우로보틱스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-05T11:41:00+09:00",
+      "lastSeen": "2026-11-05T11:41:00+09:00",
+      "news": [
+        {
+          "title": "레인보우로보틱스 주가, 11월 4일 장중 334,000원 4.02% 하락",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=561086",
+          "source": "중앙이코노미뉴스",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "레인보우로보틱스 주가 하락 중",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3214701&type=&mobile=",
+          "source": "아시아뉴스통신",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "레인보우로보틱스 주가 하락 중",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3213811&type=&mobile=",
+          "source": "아시아뉴스통신",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "다문화 가정": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-05T11:41:00+09:00",
+      "lastSeen": "2026-11-05T11:41:00+09:00",
+      "news": [
+        {
+          "title": "[단독]입소 1순위라지만···서울시 어린이집에 ‘특혜 논란’ 다문화 원아는 고작 1.9%",
+          "url": "https://www.khan.co.kr/article/202611050600051",
+          "source": "경향신문",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "“자가에 차 두 대인데 중국인이라고 우선입학?”…다문화가정 혜택 논란",
+          "url": "https://www.mk.co.kr/news/society/12197522",
+          "source": "매일경제",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "미스터 달팽이(이공명)",
+          "url": "https://www.kyeongin.com/article/1774110",
+          "source": "경인일보",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "젠지 라이언": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-05T11:41:00+09:00",
+      "lastSeen": "2026-11-05T11:41:00+09:00",
+      "news": [
+        {
+          "title": "LCK 챔피언의 압도적 경기력…젠지, 라이언 꺾고 월즈 4강 진출",
+          "url": "https://www.yna.co.kr/view/AKR20261105048100017",
+          "source": "연합뉴스",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "[롤드컵] '캐니언-기인 활약' 젠지, 초반 위기 딛고 라이온 상대로 8강 기선제압",
+          "url": "https://www.osen.co.kr/article/G1112904589",
+          "source": "OSEN",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "[롤드컵] '압도적 사자 사냥' 젠지, 라이온 3-0 셧아웃 3년 연속 월즈 4강 '안착'...中 IG와 4강 격돌(종합)",
+          "url": "https://www.koreadaily.com/article/20261104170259828",
+          "source": "미주중앙일보",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "인천": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-05T11:41:00+09:00",
+      "lastSeen": "2026-11-05T11:41:00+09:00",
+      "news": [
+        {
+          "title": "[현장] 내년도 인천시 살림 ‘15조9000억원’…지속 가능한 시정에 초점",
+          "url": "http://www.incheonilbo.com/news/articleView.html?idxno=1336031",
+          "source": "인천일보",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "박찬대 “민생 지키겠다”…인천시, 내년 예산 15조9000억원 편성",
+          "url": "https://www.khan.co.kr/article/202611051025001",
+          "source": "경향신문",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "인천시, 2027년 예산안 제출…인천e음·교통·미래산업 강화",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=720887",
+          "source": "뉴스타운",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "우주발사체": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-05T11:41:00+09:00",
+      "lastSeen": "2026-11-05T11:41:00+09:00",
+      "news": [
+        {
+          "title": "순천에 들어선 우주발사체 사업장",
+          "url": "https://www.yna.co.kr/view/PYH20261104154500054",
+          "source": "연합뉴스",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "한화에어로스페이스 순천사업장 준공...남해안 우주항공산업벨트 거점 - 머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/11/05/2026110509361541643",
+          "source": "머니투데이",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "한화에어로, 순천 우주발사체 공장 준공…제주 위성센터와 우주 밸류체인 구축",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353879",
+          "source": "녹색경제신문",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "lg그룹": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-05T11:41:00+09:00",
+      "lastSeen": "2026-11-05T11:41:00+09:00",
+      "news": [
+        {
+          "title": "AI로 안전 챙긴다…LG 그룹 안전환경 콘퍼런스",
+          "url": "https://www.yna.co.kr/view/AKR20261105028200003",
+          "source": "연합뉴스",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "위험 감지하면 AI가 설비 멈춘다…LG 안전관리, '감시'에서 '제어'로",
+          "url": "https://www.etnews.com/20261105000138",
+          "source": "전자신문",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "LG, 마곡서 16개 계열사 AI 안전혁신사례 공유",
+          "url": "https://zdnet.co.kr/view/?no=20261105093209",
+          "source": "지디넷코리아",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "디트로이트 대 필라데피아": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-05T11:41:00+09:00",
+      "lastSeen": "2026-11-05T11:41:00+09:00",
+      "news": [
+        {
+          "title": "Hawks vs Wizards Game Overview, Match Player Stats, Injuries, Records - NBA Game on November 04, 2026",
+          "url": "https://www.covers.com/sport/basketball/nba/matchup/388659",
+          "source": "Covers.com",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "Sharks 3-2 Canucks (Oct 29, 2026) Game Recap",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892610",
+          "source": "ESPN",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "Sharks Insight: It All Starts With Killing Plays",
+          "url": "https://sanjosehockeynow.com/san-jose-sharks-darnell-nurse-vancouver-canucks-insight-14/",
+          "source": "San Jose Hockey Now",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    "한국대학신문": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-05T11:41:00+09:00",
+      "lastSeen": "2026-11-05T11:41:00+09:00",
+      "news": [
+        {
+          "title": "가천대, 채용연계형 설명회 운영…기업 이해부터 입사 지원까지",
+          "url": "https://view.asiae.co.kr/article/2026110507124046579",
+          "source": "아시아경제",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "가천대, 기업 설명회부터 추천 채용까지…\"취업 지원 강화\"",
+          "url": "https://www.newsis.com/view/NISX20261104_0003855063",
+          "source": "뉴시스",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "한신대 '2026 대학일자리플러스센터 통합 경진대회 시상식' 성료",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=635233",
+          "source": "베리타스알파",
+          "date": "2026-11-04"
+        }
+      ]
     }
   },
   "sections": {
