@@ -508,6 +508,260 @@
           "date": "2026-11-05"
         }
       ]
+    },
+    "엘니뇨": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-06T14:42:00+09:00",
+      "lastSeen": "2026-11-06T14:42:00+09:00",
+      "news": [
+        {
+          "title": "’역대 최강 엘니뇨’ 온다…올겨울 포근하고 눈·비 많을 듯",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106101553uEs",
+          "source": "연합뉴스TV",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "역대 최강 엘니뇨 온다…올겨울 기온·강수량↑",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374441",
+          "source": "전기신문",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "속보 기상청 \"이번 겨울 역대 가장 강한 엘니뇨 공식 확인\"",
+          "url": "https://www.ytn.co.kr/_ln/0108_202611061006321478",
+          "source": "YTN",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "안산소방서": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-06T14:42:00+09:00",
+      "lastSeen": "2026-11-06T14:42:00+09:00",
+      "news": [
+        {
+          "title": "인천소방본부, ‘우리동네 119체험관’ 운영…어린이 안전교육 강화",
+          "url": "https://www.kyeonggi.com/article/20261105580373",
+          "source": "경기일보",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "시흥소방서, 어린이·학부모와 함께하는 ‘119안전체험 한마당’ 실시",
+          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160285684174511",
+          "source": "시민일보",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "“불이 나면 어디로?”… 자석 붙이며 배우는 어린이 안전수칙",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363741421",
+          "source": "중부일보",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "나나": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-11-06T14:42:00+09:00",
+      "lastSeen": "2026-11-06T14:42:00+09:00",
+      "news": [
+        {
+          "title": "나나 “제가 도덕적 물의 일으켰나”…악플러에 일침 무슨 일?",
+          "url": "https://www.donga.com/news/Culture/article/all/20261106/134976663/2",
+          "source": "동아일보",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "\"내가 무슨 잘못했나?\"…나나, '탑과 열애' 악플에 작심 발언 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110605173851313",
+          "source": "머니투데이",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "“공개 연애, 내 사생활… 미안할 일 아냐” 나나, ♥탑과 열애 비난에 정면 반박",
+          "url": "https://sports.khan.co.kr/article/202611060214003",
+          "source": "스포츠경향",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "징역형": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-06T14:42:00+09:00",
+      "lastSeen": "2026-11-06T14:42:00+09:00",
+      "news": [
+        {
+          "title": "모르는 여중생 뺨 때린 40대 남성...1심 벌금→2심 징역형, 왜?",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611060851275372_005.html",
+          "source": "YTN",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "식당서 여중생 뺨 때린 40대…2심 “벌금형 가볍다” 징역형에 집유",
+          "url": "https://www.donga.com/news/Society/article/all/20261106/134976304/2",
+          "source": "동아일보",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "처음 본 13살 여중생 때린 40대, 항소심서 징역형 선거",
+          "url": "https://www.kyeonggi.com/article/20261106580010",
+          "source": "경기일보",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "김구라": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-06T14:42:00+09:00",
+      "lastSeen": "2026-11-06T14:42:00+09:00",
+      "news": [
+        {
+          "title": "김구라 아들 그리, 결혼한다 “군대 기다려준 여친과 준비 중”",
+          "url": "https://www.mk.co.kr/news/hot-issues/12200239",
+          "source": "매일경제",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "서인영 \"주식·코인하던 지인들, 하루아침 부자 됐다 거지행\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110609304066291",
+          "source": "머니투데이",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "‘김구라, 며느리 보겠네’…子 그리 “여친과 결혼 준비 중”",
+          "url": "https://sports.khan.co.kr/article/202611060907003",
+          "source": "스포츠경향",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "lng선": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-06T14:42:00+09:00",
+      "lastSeen": "2026-11-06T14:42:00+09:00",
+      "news": [
+        {
+          "title": "[단독]마스가 늦어져도 간다…한화, 美조선소 인력 7500명으로 확대 추진",
+          "url": "https://view.asiae.co.kr/article/2026110609134821645",
+          "source": "아시아경제",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "韓 LNG선 최대 발주처인데…美 환경 평가 강화에 업황 악화 우려↑",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443438",
+          "source": "연합인포맥스",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "\"美 민주당 승리에 LNG선 수주 우려\"…韓 조선주 영향은",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03116006645643096",
+          "source": "마켓인",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "warriors vs heat": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-06T14:42:00+09:00",
+      "lastSeen": "2026-11-06T14:42:00+09:00",
+      "news": [
+        {
+          "title": "Heat vs Warriors Prediction, Top Picks & Best Bet for Tonight's NBA Game",
+          "url": "https://www.covers.com/nba/heat-vs-warriors-prediction-picks-odds-nov-5-2026",
+          "source": "Covers.com",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "GAME THREAD: Klay Thompson returns to Golden State as Heat (3-5) face Warriors (5-3)",
+          "url": "https://hothothoops.com/2026/11/05/game-thread-klay-thompson-returns-to-golden-state-as-heat-3-5-face-warriors-5-3/",
+          "source": "Hot Hot Hoops",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "How to watch Heat vs Warriors: Live stream NBA Basketball, TV channel",
+          "url": "https://www.thebiglead.com/how-to-watch-heat-vs-warriors-live-stream-nba-basketball-tv-channel/",
+          "source": "The Big Lead",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "래미안원베일리": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-06T14:42:00+09:00",
+      "lastSeen": "2026-11-06T14:42:00+09:00",
+      "news": [
+        {
+          "title": "집 안가보고 잡던 원베일리도 14.5억 ‘뚝’, 강남 아파트 시련의 계절 왔다",
+          "url": "https://www.mk.co.kr/news/economy/12200273",
+          "source": "매일경제",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "강남 소형 아파트도 하락 거래… 가격 조정 압력 커지나",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3446553",
+          "source": "천지일보",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "강남권 조정, 외곽으로 번질까?...\"전월세난 주목해야\"",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611052305343897",
+          "source": "YTN",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "교산": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-06T14:42:00+09:00",
+      "lastSeen": "2026-11-06T14:42:00+09:00",
+      "news": [
+        {
+          "title": "위례 분담금 1256억 투입 불균형 해소…하남시, 대광위에 교통망 건의",
+          "url": "http://incheonilbo.com/news/articleView.html?idxno=1336140",
+          "source": "인천일보",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "하남교산 2029년 첫 입주…송파하남선은 2032년 이후 개통 예상",
+          "url": "https://m.ekn.kr/view.php?key=20261106023246280",
+          "source": "에너지경제신문",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "국토부 대광위원장 \"3기 신도시 입주 맞춰 교통시설 적기 구축 총력\"",
+          "url": "https://www.newsis.com/view/NISX20261105_0003856851",
+          "source": "뉴시스",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "황우석": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-06T14:42:00+09:00",
+      "lastSeen": "2026-11-06T14:42:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 황우석 박사, 지난 4월 아랍에미리트 국적 취득 대한민국 국적 상실",
+          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513473",
+          "source": "일요신문",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "대한민국 국적 상실... '황우석 박사'에 대한 뜻밖의 소식이 전해졌다",
+          "url": "https://www.wikitree.co.kr/articles/1172447",
+          "source": "위키트리",
+          "date": "2026-11-06"
+        }
+      ]
     }
   },
   "sections": {
@@ -1693,6 +1947,30 @@
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00X2o4SUdZejhZdERhamdod0t3NUk3bXEwYTk1c3htRnlQczZvUW9zR3puZGZ2cUFTaUxUVFZ1VWY4LU1tbnRRajZtRFJrUFVGemtBTg?oc=5",
         "source": "엑스포츠뉴스",
         "date": "2026-11-05"
+      },
+      {
+        "title": "안세영, 코리아오픈 8강 진출…시즌 11번째 우승 정조준",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0U09NV1Rkb3YzVzgzaTRlWXdSV08zRjVidC1LazlvT1IxRHhFZHZzc3dHaHgyamVmRHVLM3JxS3ZUNU1MQ241WFZRMW96TmdQdE9lc0wyQjdrdkxnTndlcThJR0ZsakZ3Nm92MVZB?oc=5",
+        "source": "전국매일신문",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "'멘탈 붕괴 조짐' 불펜으로 간 70억 몸값 최원태, 필승조로 쓸 수 있나",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQamRJSDRtb2U3Sk0zZmtyMlV5U1hyRmxRMDFyQ29xdW5TVDlkLVo3ZXJFTTN3cTZEYnFhSjRvaEJQcW1qSGZnZ0tjY0hGbGhsV3RMZ21lWUFEeEs1V2tmV0ZTd09Fb0NRaHE3Y3FTTjJGQTBqMThHOWZMWHl2dGJNWnlwRQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "크리스티아누 호날두, 포르투갈 국가대표 은퇴 선언",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekxHRE1MdXNKclV2U0ZOZ2RPRFBUOVh6UC1STUNjazhYZ1pqMkczc1VkMi01c3lKRURfYV91MWlkejVPcjJNdWh0T3MtUjhVUmd1b25obkRYRkVUYXdhRXJnMlZRdEhTMkI4R0ZXRGtLckxxMHRhTjZyelJLWHZKOWlESkttZHFnZk5YZjV5SFh5MHZQYVFBcnBxS0FZQ0E?oc=5",
+        "source": "Hypebeast.KR",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "강원, 쿠칭 원정서 0-2 패배⋯ACL2 조 최하위 추락",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IOXZ5UHVkeXVkTjh5SmFnQ1Z4Q2tPRDJmSTZRZVY0dDN5T0ViUUZTdnkzTHhpVVRZdHg1WEVybUl1blVUV2JsSnJESUpfclhjNjVxbw?oc=5",
+        "source": "이투데이",
+        "date": "2026-11-06"
       }
     ]
   }
