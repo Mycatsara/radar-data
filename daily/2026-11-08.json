@@ -260,6 +260,266 @@
           "date": "2026-11-07"
         }
       ]
+    },
+    "드라마": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-08T07:12:00+09:00",
+      "lastSeen": "2026-11-08T07:12:00+09:00",
+      "news": [
+        {
+          "title": "\"넷플릭스에선 대박 나는데\"…한국 드라마 업계의 비명 [김예랑의 K컬처인사이드]",
+          "url": "https://www.hankyung.com/article/202611060276H",
+          "source": "한국경제",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "드라마 업계 12개 단체 \"제작 감소로 K드라마 생태계 붕괴 위기, 국가가 지원해야\"",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/04/4V2DMJFDBBGYXAOL73AJ5T4ZU4/",
+          "source": "조선일보",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "[박동선의 머니&���터] '좋은 콘텐츠'만으론 부족하다…K-콘텐츠 산업의 새 화두",
+          "url": "https://www.nc.press/news/articleView.html?idxno=630205",
+          "source": "뉴스컬처",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "습관": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-08T07:12:00+09:00",
+      "lastSeen": "2026-11-08T07:12:00+09:00",
+      "news": [
+        {
+          "title": "“아침에 ‘이 습관’ 없으면 신장에 돌 생긴다”…美 의사 경고 나왔다 [헬시타임]",
+          "url": "https://www.sedaily.com/article/20111484",
+          "source": "서울경제",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "“콩팥에 돌 생길라”…‘이 음료’ 과다 섭취땐 신장건강 악영향",
+          "url": "https://www.nongmin.com/article/20261104500125",
+          "source": "농민신문",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "작은 돌멩이 하나가 주는 극심한 고통: 부주의한 자에게는 값비싼 교훈이다.",
+          "url": "https://www.vietnam.vn/ko/con-dau-thau-xuong-tu-vien-soi-nho-bai-hoc-dat-gia-cho-nguoi-chu-quan",
+          "source": "Vietnam.vn",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "valencia vs madrid": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-08T07:12:00+09:00",
+      "lastSeen": "2026-11-08T07:12:00+09:00",
+      "news": [
+        {
+          "title": "Real Madrid legend pokes fun at Valencia star during La Liga clash",
+          "url": "https://getfootballnewsspain.com/real-madrid-legend-pokes-fun-at-valencia-star-during-la-liga-clash/",
+          "source": "Get Spanish Football News",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "‘This is pointless, s**t’ – Valencia star explodes in half-time interview vs Real Madrid",
+          "url": "https://getfootballnewsspain.com/this-is-pointless-st-valencia-star-explodes-in-half-time-interview-vs-real-madrid/",
+          "source": "Get Spanish Football News",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "Maffeo at Valencia-Real Madrid half-time: It's shit doing this interview",
+          "url": "https://sports.yahoo.com/articles/maffeo-valencia-real-madrid-half-205700078.html",
+          "source": "Yahoo Sports",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "이창훈": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-08T07:12:00+09:00",
+      "lastSeen": "2026-11-08T07:12:00+09:00",
+      "news": [
+        {
+          "title": "\"그때 난리가 났다\"...이창훈, 송혜교와 '열애설' 입 열었다 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110715595549078",
+          "source": "머니투데이",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "이창훈 “송혜교와 열애설? ‘원조교제’ 억지에 욕하기도”",
+          "url": "https://www.munhwa.com/article/11629502",
+          "source": "문화일보",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "이창훈, 송혜교와 열애설 부인 \"\"원조교제' 표현에 쌍욕\"..이젠 \"알아서 생각해\" ('유정 그리고 주정')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/07/GBTGMMZSME2WIMRTGFRDMNDCGA/",
+          "source": "조선일보",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "젠슨 황": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-08T07:12:00+09:00",
+      "lastSeen": "2026-11-08T07:12:00+09:00",
+      "news": [
+        {
+          "title": "젠슨 황 장녀 매디슨 황, 방한 하루 앞두고 취소…\"가족 사유\"",
+          "url": "https://www.yna.co.kr/view/AKR20261107050000017",
+          "source": "연합뉴스",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "젠슨 황, 중국 스파이 의심 여성과 연인 관계였나···미 정보당국 메모에 드러난 새로운 사실",
+          "url": "https://www.khan.co.kr/article/202611071346001",
+          "source": "경향신문",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "FT “美, 젠슨 황·‘中 스파이 의혹' 여성과 연인 관계로 판단”",
+          "url": "https://www.chosun.com/international/international_general/2026/11/07/76XLX3WJCJDOLELLTYK72DO7BE/",
+          "source": "조선일보",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "잠실주공5단지 아파트": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-08T07:12:00+09:00",
+      "lastSeen": "2026-11-08T07:12:00+09:00",
+      "news": [
+        {
+          "title": "30년 기다린 잠실주공5 재건축 올스톱 위기…사업시행인가 무용지물 가능성",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/06/2026110602056.html",
+          "source": "땅집고",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "잠실5단지 재건축, 이번엔 ‘중학교 일조권’ 암초",
+          "url": "https://www.mk.co.kr/news/business/12195368",
+          "source": "매일경제",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "이성배 서울시의원, “잠실주공5단지, 교육청 뒷북 평가·자치구 부실한 인가에 또 발목”",
+          "url": "http://www.newstonight.kr/1455108",
+          "source": "m.newstonight.kr",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "valencia vs real madrid": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-08T07:12:00+09:00",
+      "lastSeen": "2026-11-08T07:12:00+09:00",
+      "news": [
+        {
+          "title": "Real Madrid threaten Valencia with a record not achieved in four decades",
+          "url": "https://www.goal.com/en/news/real-madrid-threaten-valencia-with-a-record-not-achieved-in-four-decades/blt30d4d51e6b8dbacb",
+          "source": "Goal.com",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "Valencia 0-3 Real Madrid LIVE: La Liga",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga",
+          "source": "Al Jazeera",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "Licensable video: Real Madrid's final training session before facing Valencia",
+          "url": "https://www.reutersconnect.com/item/real-madrids-final-training-session-before-facing-valencia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzU1MDIxOTEwOTc4MDAx",
+          "source": "Reuters Connect",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "농민": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-08T07:12:00+09:00",
+      "lastSeen": "2026-11-08T07:12:00+09:00",
+      "news": [
+        {
+          "title": "추미애 지사 \"농업은 식량안보이자 환경 지키는 미래 산업...투자 확대할 것\"",
+          "url": "https://www.newspim.com/news/view/20261107000127",
+          "source": "뉴스핌",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "제31회 경기도 농업인의 날 기념식‥‘농업인의 날’ 유공자·‘농어민 대상’ 수상자 표창",
+          "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202611061722326191C048&s_code=C048",
+          "source": "경기도뉴스포털",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "김미숙 경기도의회 부의장 “제31회 경기도 농업인의 날 맞아 농업인에 감사와 존경 전해”",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20261106500331",
+          "source": "서울Pn",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "삼성전기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-08T07:12:00+09:00",
+      "lastSeen": "2026-11-08T07:12:00+09:00",
+      "news": [
+        {
+          "title": "[오늘Who] 삼성전기 일본 유리기판 소재 합작사에 3200억 출자, 장덕현 2028년 유리기판 양산 '속도전'",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451396",
+          "source": "비즈니스포스트",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "삼성전기, 글라셈 출자 납입일 5일로 변경",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=401004",
+          "source": "비건뉴스",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "삼성전기, 합작법인 글라셈 주식 취득일 정정…\"기업결합신고 지연\"",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880294",
+          "source": "한스경제",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "พยากรณ์อากาศ": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-08T07:12:00+09:00",
+      "lastSeen": "2026-11-08T07:12:00+09:00",
+      "news": [
+        {
+          "title": "เช็คสภาพอากาศวันนี้ เตือนฝนตกหนักภาคใต้ ไทยตอนบนยังแปรปรวน",
+          "url": "https://today.line.me/th/v3/article/vXL87mE?referral=linetodaytopten",
+          "source": "LINE TODAY",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "📢 อัปเดตประกาศกรมอุตุนิยมวิทยา ฉ.13 | 7 พ.ย. 2569 เวลา 17.00 น. 🌩️ ไทยตอนบนอากาศยังแปรปรวน โดยเฉพาะภาคเหนือและภาคกลาง ระวังฝนฟ้าคะนอง ลมกระโชกแรง และฝนตกหนักบางแห่ง 🌧️ 7–9 พ.ย. ภาคใต้ฝนเพิ่มขึ้น มีฝนตกหนักหลายพื้นที่และฝนตกหนักมากบางแห่ง โดยเฉพา",
+          "url": "https://www.facebook.com/tmd.go.th/posts/-%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B8%8913-7-%E0%B8%9E%E0%B8%A2-2569-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1700-%E0%B8%99%EF%B8%8F-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%A7%E0%B8%99/1604637431708386/",
+          "source": "Facebook",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "อุตุฯ ประกาศฉบับที่ 13 เตือน 30 จังหวัดพื้นที่เสี่ยงสูงฝนตกหนัก",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/286679",
+          "source": "pptvhd36.com",
+          "date": "2026-11-07"
+        }
+      ]
     }
   },
   "sections": {
@@ -1373,6 +1633,102 @@
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xOHVPWWdwTkJ1eVhienhfbC10QkZhcmQ4UFRyYTlJNWsyZ2JtSXRuUkdCaGlURTRxWkt4SU9wVWxaendtdDZmaDZ2Y3pfejFzQTJvRnhEbEJYZFNDNFItTHRzU2NNYUtOSHhKcDNvV24?oc=5",
         "source": "아시아경제",
         "date": "2026-11-06"
+      },
+      {
+        "title": "1회 6득점·장찬희 씩씩투·박승규 3타점···4차전에도 웃은 삼성, 우승까지 단 1승 남았다",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LdDhNendnTWgyM3dURS1waG40bG9zYklFVWQxZWM3MU83Tl9JQ2JhdWpKNTRaWXlWUFA2TXA4SVhrUHFCYXgwMmtVLXRzRUI0RkxoOVJKTmNTd9IBX0FVX3lxTE92a1hDaWdjaWpscXc4blpUTFlSZGFzVkk3OHptRlJoTXZEdW9HbFZ1Ukp1YTI3R3BvOWtMWERYWjhwdEl4NXdpckpWVjR1OWxtYVdkR1VZSjJmU3dyX2VV?oc=5",
+        "source": "경향신문",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "\"안세영, 작년에도 충분히 강했는데...\" 1년 전 꺾었던 日 야마구치의 솔직 평가...\"모든 면에서 발전, 필승법 없다\"[현장 인터뷰]",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbWhmeVFnTEZYZzRpODRGM3pmVmlsR3ZXbHZVZGc3SzFBTHJ6YzJZMHZqU1dNRXRGR3BsU2VFRUt4QmxMdXdaSGpqOTFfYi1XMFRqN2tjdEdQcHpPbFpJNkZKajBuTF9MdGwtRDNMRG1lVGkzX3lPOFdCMU1WZWdWaEprR2drbms0aUJV0gGfAUFVX3lxTE9ma1o1emJYMlhHUlB0SGY3Rnd3RmNiRU9zQlFlX1dLQVl1MEpJbVZVWTBjaFJfVGw4MTJ2WmE1OEU5Y3VabWRJb3JIVlJNZUo0NDlONDFfN0RiMXg3RTFEQ1RNLW1VSmtYX3hlYk5iRm5sVW0xWmlKSW43eS1jV2NGNXRucHpEYWFTcWwxNDRBVUtQVnhyX3pCWlRLdmVGNA?oc=5",
+        "source": "Chosunbiz",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "[KS5] 5년 전 놓친 우승, 이번엔 내 손으로...삼성 원태인, KT 상대 운명의 설욕전",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IbW4xajBtNkhZWE5mRlgza2R1TFFYU295ZHc5RDZreGpNc055ZjlXa2ZjQkpnTHhaekI4TDBnN3FQOEdUcElZMWRXOE1oeUM0aG5FbDhKRjJnRFJG?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "MLB닷컴, FA 등급 발표…김하성, ’최하’ 5등급 분류",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50Mk1kVWlCbWhpUk02eUgwR0pVN19GU0VEdGRNT2w4OW1lZFkzT1hFVENCZkgxdzBQR1QxdWtvTnBoZkVGSmtELUdxclNjZXdwZFVZUjR3eW9LQlVEQkEySTUxN25OLWc?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "여자농구 신한은행, BNK 잡고 개막 2연승…홍유순 더블더블(종합)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNY1NrbVV1MExEM3c3cy0yd2tGZ2hfWk5zT0hjV1VuR2VxZ3hyOUxKX0hHQmVRSGxqVHZpSzd2elg2VUs0elZsdWhTdS1QLUs5R2xfUU1UMVNUV0XSAWBBVV95cUxOaV80S0lQTUNMakhFTFFELURlNVlMWGFmem1XQXF5LXcxLWZxa2xpM1F3UWh0cktoOGtBZDhpUENMNEhWYU55RE00RFZueV9leVByczlOQ2JmSVg3bXN6b3E?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "'우승 확률 88.9%' 삼성, 올가을 좌익수 구자욱은 못 보나…박진만 감독 \"최형우가 끝까지 고생해야 할 듯\" [KS4]",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM3VHcXZNUlN2d0NUQkFUNnhDMUhyZTI3Vl9zNHdCbGIwR1JVNGpSQnNDMm1kTnRMVkZuYlZKUFY1SXZVMWhmMG1FLXA2eGJDYkVUcEJMZW13Zk9hWXVyZXBTancwckRVV0xGY25IQVZOQXFsVWQwdHZGWC11TnY4dXhaNA?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "‘아라우조 트리플크라운’ 우리카드, OK저축은행 꺾고 단독 선두",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTOTMxUWpMcE5nM1lTWlFmXzNPRXoyTlJuaThVM1k4ZVB5OVdiTk5GWkJEVzlLRy12bWJfMndMQUxYVDFpTUZ3VEpFaWppSkZ2NEVGbGE0LVlKSzg?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "'첫 우승 기대' 황재민, KPGA 투어챔피언십 3R 선두 지켜…1타차 정재현·전성현과 접전",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yUGh3RElMQ29KVjNkS1RyS3VDRU9nMHVXY1ZOcWlvdkU3dEVmaF9nSHN0V1c3NDVTQ0JDTW12aEY5WExRSXE5Rk9xWGN6MFNzNDZUenQ0V19kZUZSbmtlNm9FdnVCRS10amQwRG5NSGJvVFBVTHlCT9IBfEFVX3lxTE42NnRGYkh1MHZ4ZWtfQ19EOHZ2Z2dndUh5cXl1Q2VlNUExbFZDZFNmdkE4aXlMWlJWOUtKbGNYWVZ0RFdGcS1iTFZNbE01WXNlNWlyN0RzVDNSNEpldXEycWZRUC1vd1lQcnpvellyaFdRcVdxeXhrSXlaZUM?oc=5",
+        "source": "골프한국",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "구연우, ITF 인천오픈 테니스 결승 진출...일본 사이토 제압",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nOHJoaEJuUEl4UmdzYVUwd2Rja0VGT255MktOaWtuVmpIVVZJN3A0NEF2T2hxMXVuY0UwMXZDR0Y3d0xySU9weWQ5cTV0UEgzRVVXeUlicklwWm81?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "[사진]열띤 응원 펼치는 KT 응원단",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uaXFiLTNuWWRvbjZYWXgxaXR2QzNDQ0pwN0d1RTFLVmRWYV9oZm9hWF8xR21kQkJROUUwam5XaWMzU2RBeVpuOW9GT1F1NnBDeVdz?oc=5",
+        "source": "OSEN",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "삼성, KS 4차전에 강민호 대신 ��도환 포수...KT, 최원준-허경민 복귀",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qSG1MSG5NYnhJS29velZoUEhfMVlaVktfMGx0bXM4a2lDUWlWVko0cVhReTdZTlh4V1lZNlN6UWhOVXpGT0pnTXlGMDhlLUJkaS13TmFZLUFaSDU1Wk4yS2lQeDFHSWxhaVJkLW1nSDRjMXJQZE1BaVlRdHBzUQ?oc=5",
+        "source": "이데일리",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "배드민턴 김원호-서승재, 코리아오픈 결승행…7개월 만에 4승 도전",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ScTQyMTVwdlBDRkxQVHBlRkJ0RnJzLXVYSVI5UUJMZ2p1c0laeDRLdXNEMC1Ic0pLNlhuQTVXMnh5cXlCbDBTX3lrU3NvT29nQkRHQ1hmMXZmOVdKUkN5ZzY1SHRfSHZiSXJFX3ZWRFR4MG1R0gFmQVVfeXFMTUh6V3pnREszSDZKS1VSSXRYVVpRUkRnSGVjNlBuYWt1TnI0NFJMancwRnB5dXh2bW1wTWJZWXdMbG5jLWFrTmpHV1dwX0ZEWFNUQmVWbW1keThSZ2wxUHl6b0R0UGlR?oc=5",
+        "source": "동아일보",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "보디빌딩 백재욱, 제56회 미스터 YMCA 선발대회 '대상'",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TU0d4TklvMlljTFV1eTZqU2pJXzh3dlJxVUdORWpGVW5zX2lvaUYtZ0VGRGU4c21sTjRJQnRzdC14MVc2ZmZLMEQzaTlTblkzRHROb3ZPdkRDX2PSAWBBVV95cUxPOVZPMXVrVFF6bkxnNW9mRFVOWjl6UUdUYVNyd3d4MTFlMEhhNGxRckZFVXd0MUZLT2lWVXVBckdKaUtZTnAtazNJTWRMcWdOTkZSaXRTbTdDQTVKYkFQUHA?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "손주인 코치 화났다? 아니다, 오히려 \"애들이 짠하다\"고 했다…실책 쇼 지켜본 진짜 속마음",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MbFVpTXJaS25TS0I4SjRVTFUzWWx1S2FnOVdPUmtmWWxYaVJvWW5nc0hsSlMtTkZJa3oxOU5xWThDNGRRNmh5dFVwUkRIeHR2UEJIYndKeFduQXkwelAwM3hoV05ROEJQQ1E1RHA0MjQ?oc=5",
+        "source": "SPOTV NEWS",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "208안타 최원준 부상으로 빠진 KT... 이강철 감독 \"대구니까 장타 생각\"",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTnMyUjdHVDVWOEJBN0lOazNxbU1kYlk1RER4b21WYW9VS092OV9JRDBPVFBOclcxWGhDN0h5NGZIX2s2eTIxMEZ3QmpUb3VYNnZocV9zN0l5eGVSU3pwX3NQdGdWTmZjckR5R2c3WDJCSFBiMjdzcTZwUDVEbldaMVp2QQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "'삐끼삐끼' 이주은, 대만서 연예인급 인기라더니…깜짝 근황",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUjFTSTJEYUVJaXFqeHBERllGNTUzbTh0Wnhoc1pPbnhFZ2lRX0tWSnR4Z0Z4Y1pfcVVSZE9fa08zb2ZOTlA4a2hfdkhwMmpaTlItVzdFc3g2Zw?oc=5",
+        "source": "한국경제",
+        "date": "2026-11-07"
       }
     ]
   }
