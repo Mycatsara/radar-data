@@ -444,6 +444,228 @@
           "date": "2026-11-06"
         }
       ]
+    },
+    "tving": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-07T15:25:00+09:00",
+      "lastSeen": "2026-11-07T15:25:00+09:00",
+      "news": []
+    },
+    "장진혁": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-07T15:25:00+09:00",
+      "lastSeen": "2026-11-07T15:25:00+09:00",
+      "news": [
+        {
+          "title": "kt 장진혁, 첫 KS 선발 타석서 선제포…이강철 기대에 화답",
+          "url": "https://www.yna.co.kr/view/AKR20261107033200007",
+          "source": "연합뉴스",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "[사진]안현민과 'KS 4차전 선제 솔로포 기쁨 나누는 장진혁",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/GA2TSYJYHEYTIZJYMQZTSM3BME/",
+          "source": "조선일보",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "[KS4] '2타수 2안타' 장진혁, 삼성 장찬희 상대 선제 솔로 홈런 폭발",
+          "url": "https://www.newspim.com/news/view/20261107000071",
+          "source": "뉴스핌",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "kt vs samsung": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-07T15:25:00+09:00",
+      "lastSeen": "2026-11-07T15:25:00+09:00",
+      "news": [
+        {
+          "title": "Kim Jeong-woon's Seventh-Inning Struggle Leads to KT's 8-7 Victory",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/04/YWR7HGDQ5RE2TFDT3VIV2RIVW4/",
+          "source": "조선일보",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "KT Wiz Beat Samsung 8-7 in Korean Series Opener",
+          "url": "https://en.sedaily.com/sports/2026/11/04/kt-wiz-beat-samsung-8-7-in-korean-series-opener",
+          "source": "Seoul Economic Daily",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "Wiz starter Daniel impresses in KBO postseason debut",
+          "url": "https://en.yna.co.kr/view/AEN20261103012700315",
+          "source": "Yonhap News Agency",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "허미미": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-07T15:25:00+09:00",
+      "lastSeen": "2026-11-07T15:25:00+09:00",
+      "news": [
+        {
+          "title": "한국시리즈 시구한 유도 간판 허미미 \"세계랭킹 회복에 전념\"",
+          "url": "https://www.yna.co.kr/view/AKR20261107034700007",
+          "source": "연합뉴스",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "[사진]한국시리즈 4차전 역투 펼치는 삼성 선발 장찬희",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/07/GUYGINTDMNQTANJYMJQTEOJXGE/",
+          "source": "Chosunbiz",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "‘AG 유도 금메달리스트’ 허미미, 한국시리즈 4차전 시구한다…가수 홍이삭 애국가 제창 [KS4] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/07/202611071215771021O",
+          "source": "머니투데이",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "배트맨": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-07T15:25:00+09:00",
+      "lastSeen": "2026-11-07T15:25:00+09:00",
+      "news": [
+        {
+          "title": "Absolute Batman #25 by Nick Dragotta/Jim Lee/Clay Mann Sells For $19K",
+          "url": "https://bleedingcool.com/comics/absolute-batman-25-by-nick-dragotta-jim-lee-clay-mann-sells-for-19k/",
+          "source": "Bleeding Cool News",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "The Absolute Batman #25 Clay Mann Cover Jumps From $8 To $60 In A Day",
+          "url": "https://bleedingcool.com/comics/the-absolute-batman-25-clay-mann-cover-jumps-from-8-to-60-in-a-day/",
+          "source": "Bleeding Cool News",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "Scarlett Johansson Breaks Silence on ‘The Batman Part II’ Role: “It Was Very Hard to Figure Out”",
+          "url": "https://www.yahoo.com/entertainment/articles/scarlett-johansson-breaks-silence-batman-230310752.html",
+          "source": "Yahoo",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "삼전 닉스": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-11-07T15:25:00+09:00",
+      "lastSeen": "2026-11-07T15:25:00+09:00",
+      "news": [
+        {
+          "title": "\"삼전닉스 믿고 버텼는데\"…증권가가 내놓은 뜻밖의 조언 [종목+]",
+          "url": "https://www.hankyung.com/article/2026110610246",
+          "source": "한국경제",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "주가폭락했는데 삼전닉스 LTA 믿어도 되나…마이크론 사례 보니",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443491",
+          "source": "연합인포맥스",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "“韓메모리, 1~3년치 완판됐지만 중장기 설비투자 차질 우려”",
+          "url": "https://www.donga.com/news/Economy/article/all/20261106/134982628/2",
+          "source": "동아일보",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "한국대학신문": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-07T15:25:00+09:00",
+      "lastSeen": "2026-11-07T15:25:00+09:00",
+      "news": []
+    },
+    "대치동 은마아파트": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-11-07T15:25:00+09:00",
+      "lastSeen": "2026-11-07T15:25:00+09:00",
+      "news": [
+        {
+          "title": "주택공급 발목잡는 ‘재초환’… 은마아파트 가구당 4억 내야",
+          "url": "https://www.chosun.com/economy/real_estate/2026/11/07/3FFT6HIJ7NG6JEFMGED6OS6BXA/",
+          "source": "조선일보",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "영등포 2.2억·강북 1.2억…재초환 억대 부담금에 '닥공' 발��",
+          "url": "https://www.mk.co.kr/news/realestate/12200669",
+          "source": "매일경제",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "공사비·추가 분담금·재초환까지…강남 재건축 지연 우려",
+          "url": "https://www.sedaily.com/article/20111373",
+          "source": "서울경제",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "조작 기소 의혹 특검법 통과에 따른 핵심 쟁점과 최신 뉴스 알려줘": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-07T15:25:00+09:00",
+      "lastSeen": "2026-11-07T15:25:00+09:00",
+      "news": [
+        {
+          "title": "정청래의 ‘조희대 탄핵’ 주장이 대통령 공격인 이유…김웅의 분석",
+          "url": "https://www.munhwa.com/article/11629487",
+          "source": "문화일보",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "與, '조작기소 특검 장외투쟁' 국힘에 \"본질 외면한 채 국민 호도\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6863902_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "주가 5000 붕괴-집값 오르는데 … 집권세력은 '이재명 방탄-당권 투쟁'에만 골몰",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/06/2026110600216.html",
+          "source": "뉴데일리",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    "환자": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-07T15:25:00+09:00",
+      "lastSeen": "2026-11-07T15:25:00+09:00",
+      "news": [
+        {
+          "title": "독감 입원환자 2배 이상 늘어…예방접종·신속 진료 당부",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975199&pWise=sub&pWiseSub=R6",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "초등학교 곳곳서 ���콜록콜록’…독감 다시 확산세",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706178",
+          "source": "KBS 뉴스",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "독감 2주 연속 증가세...\"예방접종 서둘러야\"",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611061102587709",
+          "source": "YTN 사이언스",
+          "date": "2026-11-07"
+        }
+      ]
     }
   },
   "sections": {
