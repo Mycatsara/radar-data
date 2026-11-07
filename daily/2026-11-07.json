@@ -222,6 +222,228 @@
           "date": "2026-11-06"
         }
       ]
+    },
+    "문화일보": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-07T09:13:00+09:00",
+      "lastSeen": "2026-11-07T09:13:00+09:00",
+      "news": []
+    },
+    "농구": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-07T09:13:00+09:00",
+      "lastSeen": "2026-11-07T09:13:00+09:00",
+      "news": [
+        {
+          "title": "아시안게임 금메달 이정현 등 농구 월드컵 아시아 예선 출전",
+          "url": "https://www.yna.co.kr/view/AKR20261106082900007",
+          "source": "연합뉴스",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "금메달 주역 8명에 허훈·안영준까지 합류! 마줄스호 월드컵 예선 최종 12인 발표... 카타르 원정 2연전 나선다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110614350616921",
+          "source": "머니투데이",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "남자농구 국가대표팀, 월드컵 아시아예선 윈도우5 최종 12인 확정",
+          "url": "https://www.basketkorea.com/news/newsview.php?ncode=1065577256567471",
+          "source": "바스켓코리아",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "아들": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-11-07T09:13:00+09:00",
+      "lastSeen": "2026-11-07T09:13:00+09:00",
+      "news": [
+        {
+          "title": "‘김구라, 며느리 보겠네’…子 그리 “여친과 결혼 준비 중”",
+          "url": "https://sports.khan.co.kr/article/202611060907003",
+          "source": "스포츠경향",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "김구라, 아들 그리 결혼설에…\"살다가도 이혼하는 판\"",
+          "url": "https://www.newsis.com/view/NISX20261106_0003858616",
+          "source": "뉴시스",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "서인영 \"주식·코인하던 지인들, 하루아침 부자 됐다 거지행\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110609304066291",
+          "source": "머니투데이",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "대한민국 농림축산식품부 장관": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-07T09:13:00+09:00",
+      "lastSeen": "2026-11-07T09:13:00+09:00",
+      "news": []
+    },
+    "테슬라 사이버트럭": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-07T09:13:00+09:00",
+      "lastSeen": "2026-11-07T09:13:00+09:00",
+      "news": [
+        {
+          "title": "테슬라, 사이버트럭 생산 중단키로…머스크 \"한 시대의 끝\"",
+          "url": "https://www.yna.co.kr/view/AKR20261107003800075",
+          "source": "연합뉴스",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "지드래곤 마음도 훔친 차였는데…테슬라 '사이버��럭' 3년 만에 단종 수순",
+          "url": "https://www.etnews.com/20261107000006",
+          "source": "전자신문",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "사이버트럭 결국 단종 수순…연 25만대 꿈꿨는데 고작 2만대",
+          "url": "https://www.kyeonggi.com/article/20261107580001",
+          "source": "경기일보",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "의약품": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-07T09:13:00+09:00",
+      "lastSeen": "2026-11-07T09:13:00+09:00",
+      "news": [
+        {
+          "title": "안국약품-셀비온, 방사성의약품 공동개발 본격화",
+          "url": "https://www.newsis.com/view/NISX20261106_0003857700",
+          "source": "뉴시스",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "안국약품, 셀비온과 방사성의약품 혁신신약 개발 본격화",
+          "url": "https://zdnet.co.kr/view/?no=20261106125345",
+          "source": "지디넷코리아",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "상상인증권 \"셀비온, 신약 허가·상업화 가능성에 주목\"",
+          "url": "https://www.jasm.co.kr/news/view/323725/%EC%83%81%EC%83%81%EC%9D%B8%EC%A6%9D%EA%B6%8C-%EC%85%80%EB%B9%84%EC%98%A8-%EC%8B%A0%EC%95%BD-%ED%97%88%EA%B0%80-%EC%83%81%EC%97%85%ED%99%94-%EA%B0%80%EB%8A%A5%EC%84%B1-%EC%A3%BC%EB%AA%A9-2026",
+          "source": "중앙신문",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "노동자": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-07T09:13:00+09:00",
+      "lastSeen": "2026-11-07T09:13:00+09:00",
+      "news": [
+        {
+          "title": "제주 노동존중사회 의원연구포럼’ 제주도 공무직 노동자들의 현장 목소리 청취",
+          "url": "https://www.timenews.co.kr/article/1741174",
+          "source": "타임뉴스",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "양경호 제주도의원, ‘제주 노동존중사회 의원연구포��� 간담회’ 참석…노동 현장 목소리 청취",
+          "url": "https://newsnjeju.com/news/articleView.html?idxno=303858",
+          "source": "뉴스N제주",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "제주도의회, 공무직 노동자 근무환경 개선 나선다…노조 현장 애로사항 청취",
+          "url": "https://www.jejunews.biz/news/articleView.html?idxno=107118",
+          "source": "제주뉴스",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "기초 연구": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-07T09:13:00+09:00",
+      "lastSeen": "2026-11-07T09:13:00+09:00",
+      "news": [
+        {
+          "title": "내년 '기초연구' 2조 9102억 투자…지역·청년 연구 지원 확대",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975126",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "2027년도 기초연구사업 2.91조 원 투자 총 과제 수 18,516개로 역대 최대 지원",
+          "url": "https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=10063428&title=2027%EB%85%84%EB%8F%84+%EA%B8%B0%EC%B4%88%EC%97%B0%EA%B5%AC%EC%82%AC%EC%97%85+2.91%EC%A1%B0+%EC%9B%90+%ED%88%AC%EC%9E%90+%EC%B4%9D+%EA%B3%BC%EC%A0%9C+%EC%88%98+18%2C516%EA%B0%9C%EB%A1%9C+%EC%97%AD%EB%8C%80+%EC%B5%9C%EB%8C%80+%EC%A7%80%EC%9B%90",
+          "source": "BRIC",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "내년부터 기초연구 성과 평가 바뀐다… 논문·특허 건수 제출 폐지",
+          "url": "https://biz.chosun.com/science-chosun/science/2026/11/05/OWXZFHF2EVD6ZHBYK3UL7VGHFY/",
+          "source": "Chosunbiz",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "아프리카": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-07T09:13:00+09:00",
+      "lastSeen": "2026-11-07T09:13:00+09:00",
+      "news": [
+        {
+          "title": "5,000km 로드트립으로 만나는, 나미비아",
+          "url": "https://mylovekbs.kbs.co.kr/index.html?source=mylovekbs&sname=mylovekbs&stype=blog&contents_id=70000000404091",
+          "source": "MyloveKBS",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "'걸어서 세계속으로' 사막과 대서양 사이 5,000km...나미비아 대자연을 달리다",
+          "url": "https://www.nc.press/news/articleView.html?idxno=630385",
+          "source": "뉴스컬처",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "[걸어서 세계 속으로] 아프리카의 보석, 나미비아",
+          "url": "http://www.queen.co.kr/news/articleView.html?idxno=465792",
+          "source": "Queen 이코노미퀸",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "박민지": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-07T09:13:00+09:00",
+      "lastSeen": "2026-11-07T09:13:00+09:00",
+      "news": [
+        {
+          "title": "귀국일 미룬 박민지·임진영·강채연, 나란히 합격권…JLPGA 프로테스트 최종일 승부",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05854806645643096&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "박민지, 'JLPGA 최종 프로테스트' 첫날 단독 2위…\"새로운 환경에서 도전 기대\"",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022539",
+          "source": "골프한국",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "\"후회하기 싫었다\"…박민지, 日서 다시 신인으로",
+          "url": "https://www.hankyung.com/article/2026110211071",
+          "source": "한국경제",
+          "date": "2026-11-06"
+        }
+      ]
     }
   },
   "sections": {
@@ -1335,6 +1557,102 @@
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XYkhPbGVlTG9ZYXNtLWIzODdxU05wWERWbDlQQ1ZLTHlqYkMtS2FUT0libkt5c3pIXzNuM1BoUUR0MnVMTTYxejdMNmoxOU5jeXRRNw?oc=5",
         "source": "엑스���츠뉴스",
         "date": "2026-11-06"
+      },
+      {
+        "title": "[KS 포커스] 가을야구 아닌 겨울야구…변수로 떠오른 갑작스러운 추위",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJNHI1WmtXa1RVQUpKWGNWaUFxSFliU2JuVTBQLWlUb2VRYXdmQUZHclBTZ1NZSml2bkdXU2kxOGV6eFJKbVVFZE9UMVRpT0VYbTNLY2k2c1hXMUF6?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "F1 최연소 챔피언 안토넬리 “올 시즌 좋은 모습으로 마무리”",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zeGhONVRSeTRYNEE4YzJLcUkxUDhqeHlfSGQ5OGNOcDRpRkp3dDhCOTlvd0hqUlJxSDNaX2JTOWQzdC1JVnljVkVBN0gzR2Zta28zM3dfTEE3UExKZmdwei1vaXRwUmxDSURIS3Nlc3dnSFHSAWZBVV95cUxOZ2RJQUNWUDVqTVI1LW5OU3A5X1djTVVHWWhGRTFlOVhkaHA1S1NQWEtYeDZIdmhlWDhKTmV2S2FNZkZKMFBNQTJ2b3ZYclZucVJqeEdTMWNDY2wyWXQycXlNQ1R0V0E?oc=5",
+        "source": "동아일보",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "'연속 샷이글+홀인원' 유현조, 신들린 경기로 시즌 3승 겨냥 [KLPGA]",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GdHJnX0dwa2lyM3l4MlZWa2tJYXZ2SEdubXVBc2V5RXJCaEN5eU1teTlGckVudkw4YlJkQ0RhdFZrOGphZUl4dzVieUZSb2Y0SGtjS0RIeXdHbTF3QlZPOGdDeV95M2ZpenhVRFNHMEcwQXBPM0dMN9IBfEFVX3lxTE9tSVhkTDFsdG9FbzRNY2thajdSdkRWSzZvRlhCWFVXMkQ4c1RONDBIN1BoVFc5dF9zZW5ESW9NV3l1ZnpDTGlnZ0pvd091VkRPMHZ1UlRSM1JiMnJYZkp5ejRkVS1JY2ZTUUdLd0RQcTRXTTdxd016cUVUZ00?oc=5",
+        "source": "골프한국",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "사우디 LIV 골프 재건 무산…BC파트너스 손 뗐다",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdUxqU0ZnTDltTWxrYzNsbjEwaWwxQlF3WWdPcnMxREVkUFB3UExwWW1WbTZMeFhqWERlM3Z2WTlkbTlKc0l5SlpBTFFQaFhOeXhhUzYyYXZiZw?oc=5",
+        "source": "한국경제",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "\"넘어가라, 넘어가라 간절히 바랐다\" KS 첫 홈런 터뜨린 박승규, 짜릿했던 그 순간 [KS3]",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY1BubVBjbDFITWwxT1VOaFVCWnVkcFF2ZEtNcktFUGhoNXdlMjV2SFh4SUdabkVJSE9ER2t6LUxTcVR0OVZ0bndZY3NScS1pVUphZU1BNHJadTNSc2JkcDVxRE5udTJfa09KQnprZkZ6QjFYbW45RWRmcURZSUJVcU9JWQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "포르투갈 제주스 감독 \"호날두 대표팀 은퇴 결정에 죄책감 없다\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40ZUtqVjB2bzJlQ1VrTUttMFZPU1QxN28yd3gwRXFvazZSMndIT3BXQjdzVUZobHFaZkpCenhPUk1SR3ZJVmxINXlKc2JWVHJzTVpLcXNLYW5LdG_SAWBBVV95cUxPV2tVWE5OWkxrbHAwM0xQaXQ5cDNhcTd0ZmxaaTJYbVpUUVZ2SDFFZnV1Mk9lQ19EWVRmRDdScEdMeFgyaXZhOWdKdGdzTl96RjZSNzVfSm5yenhkUU1wbjY?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "\"중요한 역할\" 아시안컵 연기가 바이에른엔 행운...황희찬 소속팀 샬케도 \"안도의 한숨\"",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORVdZREF0eThkTWpmbzBBWnFmdm92aVlQdm1ranFiWE1kRlRLTVM1OERtT1B1Ui01ekhnOGY5ZVpIWXA0N0FPQlRXZFVhaWhwR2l6c01xYlhkUFZDRmtabmk0OXRMeXpoRG9XS3ZGb1loQTdZT1ZkNUlrQUtrYXdhVDREVlZYRHZ6U2E4?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "[KS 포커스] 불펜데이도 두렵지 않다…기세 오른 삼성, 4차전도 해볼 만한 이유",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4cEtoYjdMU1M5azJsV2hXYjBWYmhqZ0Z1M2FtLThUUUZLdHhWZmQtS0MwVTVQUUVZcU1wcUlLYWNNaXhvaWhhZFprejQzNnc5VUJ1dGJNSWtGdw?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "대표팀 합류 김도영, APBC 우승으로 '완벽한 피날레' 노린다",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CTHh1NjZkWmRpSEpDd1dSUXBsWWc3LTVjT3YtN3lfWkxQX0dnVTF3SzgxZ3JLc21wX1Q5QnhaREVOSi1FbVl2aUpSZUVJSEIybWV4amJUcV9vSmFPYmc?oc=5",
+        "source": "YTN",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "1위팀 이런 시나리오 상상도 못했는데…1승 뒤 2연패 충격, 강철매직 깊은 한숨 “소형준 그런 투수가 아닌데” [KS3]",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Jb0JENmluUTFJRmtqVFBLX1FaNjBZbjFsblBwMkVmck9EWnluY0JLZGJlUzlVR0RYTnVnVFZmYVRNTDNLTzBoc1ExR1NoZnQyaFFOOA?oc=5",
+        "source": "OSEN",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "“4R 우승경쟁 안개속으로” 1위 휴온스부터 5위 NH농협카드까지 승점차 불과 2점[PBA팀리그]",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XR3RsSklsY2R3eUcxaUtUZkdHczcwLWc4aG9NX3NnM2x0dDRQQzZseW92aDhFektOVVduVHRFZlVzZy1YeDI2NkwwNWhvWmczckZ2ZA?oc=5",
+        "source": "mkbn.mk.co.kr",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "'마나베 감독' 기업은행, 디펜딩 챔피언 GS칼텍스 꺾고 2연승",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TbjVKblVjdU8xLUJfMUN2YU0yV01YbE9ZRFQtczhCWUlMN2JwLVpVMEtGWjUzX0pBYi1OVi13MjFwd1UtU19OLUt0dXhJM3JjQWNuWWZ5ejM1S0w1NThPWV9OMEIycktYTVE?oc=5",
+        "source": "SBS 뉴스",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "[KS3] 삼성 박진만 감독 \"원태인 5차전 선발 준비…불펜에 배찬승 있기에 가능\"",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3ZHVka19RSzJYRmJPODctVVVmVGRFVWphY0RrVUt0QVhCaGN5NzVEel9rQzk4VjItczN6QXk4cnAxaDNOaFEzaUE5eXRzUmUzTGVCbUFyRGV0MDNO?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "'최원준도 허경민도 없다' KT 3차전 선발 라인업 발표, \"대타 출전 가능, 장타력 있는 장성우가 5번\" [KS3]",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjTzZZSGN0a3ZnTEVEeFBQQ183WWV0NmJUN05DbWNxSG51YjZzdEUyMFpobHljWHhpN0dRN0JOcGg0TGNBb1VKaXBjZGtBWExsNTBkRk1WdG9aVkU?oc=5",
+        "source": "일간스포츠",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "[MLB] 전 한화 타격코치 맡았던 워싱턴 코치, 메츠행...로사도 코치와 재회",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vblVuZjYxZHB2cTdRX1lpM3hpenc0ZVdxNHhUcTZCeGFtcFRRUk1qU01oWkVYdGlPd2ZkeG8yNGNENFplY01rcm9ub3dEZ2VHVFhBV09uWnc1N1pK?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "158km 현역 빅리거 영입한 염경엽 감독 \"내가 LG서 뽑은 투수 중 가장 좋다\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZYmhfVm95bFFMVlhHaUwxZlVoc3R3VUVIa1BqakFlUjFIZE10RUpFMkY2V3kzZmQ3dVRYTUM1S1l0azhkSVZEU09SdnkzcEloa1ktTV9DZlJRN0U?oc=5",
+        "source": "일간스포츠",
+        "date": "2026-11-05"
       }
     ]
   }
