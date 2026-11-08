@@ -520,6 +520,228 @@
           "date": "2026-11-08"
         }
       ]
+    },
+    "노동법": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-09T08:55:00+09:00",
+      "lastSeen": "2026-11-09T08:55:00+09:00",
+      "news": []
+    },
+    "기영식": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-09T08:55:00+09:00",
+      "lastSeen": "2026-11-09T08:55:00+09:00",
+      "news": [
+        {
+          "title": "‘나솔사계’ 14기 광수 독주에 7기 영식·영호 질투 폭발",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435261",
+          "source": "데일리스포츠한국",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "[사계 191회 예고] 백합에게 스킨십?! 14광수의 과감한 행동에 삐진 7영식 #나솔사계 EP.191ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
+          "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000639414",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "7기 영식, 백합 좋다고 오열까지 했는데…“이러다 뺏기겠는데” (나솔사계)",
+          "url": "https://sports.donga.com/ent/article/all/20261107/134983091/1",
+          "source": "스포츠동아",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    "황유민": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-09T08:55:00+09:00",
+      "lastSeen": "2026-11-09T08:55:00+09:00",
+      "news": [
+        {
+          "title": "황유민·김효주 LPGA 토토 저팬 공동 6위…우승은 사쿠마",
+          "url": "https://www.yna.co.kr/view/AKR20261108030300007",
+          "source": "연합뉴스",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "황유민, LPGA 토토 저팬 클래식 3R 공동 3위…선두에 2타 차",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706681",
+          "source": "KBS 뉴스",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "'일본 여자골프 뒷심'…사쿠마 우승해 LPGA 투어 시즌 최다 8승",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02364886645643752&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    "수능날": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-09T08:55:00+09:00",
+      "lastSeen": "2026-11-09T08:55:00+09:00",
+      "news": [
+        {
+          "title": "“수능날, 오답노트 대신 챙겨라”…불수능 만점자의 비밀무기",
+          "url": "https://www.koreadaily.com/article/20261106130050591",
+          "source": "미주중앙일보",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "[똑똑한교육] 재능교육, 리딩앤, 하모니힐스, 웅진씽크빅, 대교 눈높이, 소노아임레디, YBN인강, 천재교과서",
+          "url": "https://m.ekn.kr/view.php?key=20261031020183718",
+          "source": "에너지경제신문",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "“공부는 재미없지만 해야 할 이유는 분명히 있어요”",
+          "url": "https://woman.donga.com/edu/article/all/12/6444559/1",
+          "source": "여성동아",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    "할증": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-09T08:55:00+09:00",
+      "lastSeen": "2026-11-09T08:55:00+09:00",
+      "news": [
+        {
+          "title": "택시 ‘요일별 할증제’ 추진… 불금·주말엔 더 비싸지나",
+          "url": "https://www.chosun.com/national/transport-environment/2026/11/09/S4OFKKJL6JCMVC6T75PFLXXBQQ/",
+          "source": "조선일보",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "택시비, 심야 이어 요일별 할증도 가능해진다…국토부 훈령 개정 추진",
+          "url": "https://www.news1.kr/realestate/general/6346045",
+          "source": "뉴스1",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "금요일 밤 택시비 더 비싸지나…'요일별 할증' 도입 추진",
+          "url": "https://www.hankyung.com/article/2026110937737",
+          "source": "한국경제",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    "의약품": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-09T08:55:00+09:00",
+      "lastSeen": "2026-11-09T08:55:00+09:00",
+      "news": [
+        {
+          "title": "소아 자료보호의약품 총 26개… 올해만 18개 품목 등재",
+          "url": "https://www.hkn24.com/news/articleView.html?idxno=351602",
+          "source": "헬스코리아뉴스",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "희귀질환 신약 5종, 건보 신속 등재 시범사업 대상 선정",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/11/07/KKD5WKHFN5EV7I56KWCFFHGCWU/",
+          "source": "Chosunbiz",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "복지부, 루게릭병 '칼소디주' 등 희귀질환약 5종 신속등재 추진",
+          "url": "https://www.newsis.com/view/NISX20261106_0003857608",
+          "source": "뉴시스",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    "t1": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-09T08:55:00+09:00",
+      "lastSeen": "2026-11-09T08:55:00+09:00",
+      "news": []
+    },
+    "lck": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-09T08:55:00+09:00",
+      "lastSeen": "2026-11-09T08:55:00+09:00",
+      "news": [
+        {
+          "title": "Gen.G Reaches Worlds Finals; Chovy Aims for First Title",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/08/FVLDQDSLPFEPPKMIHASQTVYA74/",
+          "source": "조선일보",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "Gen.G beats China's IG to reach Worlds finals for first time in nine years",
+          "url": "https://www.gamemeca.com/en/view.php?gid=1783144",
+          "source": "게임메카",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "Worlds 2026: Gen.G versus Invictus Gaming reached 2.19 million Peak Viewers",
+          "url": "https://escharts.com/news/worlds-2026-first-semifinal-viewership",
+          "source": "Esports Charts",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    "이준호": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-11-09T08:55:00+09:00",
+      "lastSeen": "2026-11-09T08:55:00+09:00",
+      "news": [
+        {
+          "title": "175억 압구정 건물주 된 이준호, 故 강수연 유산 거머쥔 배경",
+          "url": "https://www.segye.com/newsView/20261106514948",
+          "source": "세계일보",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "\"짜증내는 팬들 당황스러워\" 김재원, 선 넘은 팬들에 결국 입 열었다[Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/GEYDENJVMFSTCN3BGQ4DOOBWGI/",
+          "source": "조선일보",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "‘최종면접’, 첫 주 한국영화 박스오피스 1위…입소문 파란불",
+          "url": "https://sports.donga.com/ent/article/all/20261109/134989148/1",
+          "source": "스포츠동아",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    "젠슨 황": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-11-09T08:55:00+09:00",
+      "lastSeen": "2026-11-09T08:55:00+09:00",
+      "news": [
+        {
+          "title": "“아내에 불충실했다”…젠슨황, 첩자 의혹女와 불륜 인정",
+          "url": "https://www.munhwa.com/article/11629698",
+          "source": "문화일보",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "젠슨 황, 중국 정보기관 연루 의혹 여성과 외도 인정… 엔비디아 조사 착수",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447001",
+          "source": "천지일보",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "젠슨황, 불륜 시인…엔비디아 이사회 조사 착수",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261109064420wMt",
+          "source": "연합뉴스TV",
+          "date": "2026-11-08"
+        }
+      ]
     }
   },
   "sections": {
@@ -1675,6 +1897,60 @@
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KWUQ3NkgyUlhkZjFSSFhPRWxfS2ZLVmIzdnVKTUF3YV9MMGc4b3JiYVhzek1yc0V0bmZpTzMtQ0hmYTJEU3FZX2s2UEFFc1lqRnFoaw?oc=5",
         "source": "엑스포츠뉴스",
         "date": "2026-11-07"
+      },
+      {
+        "title": "‘정효볼’ 수원 삼성, 삼수 끝에 감격의 1부 승격!",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wcktsMzJpR29ybVE4bWo0Z0EwNDZsUmI2ek9yRWtiSWFfdTQwNDU1dG5HUU1weUk2bjMtQjlYNWpLdEdGbmw1U1d6SEJ6TjRjTGZuSTRNTlZERUFyN0xhb0xfeGRoQQ?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "이강인의 아웃프런트 패스 빛났지만… 아틀레티코 마드리드, 바르셀로나에 1-2 역전패",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zX2hNcFE1b2hKQnZnY3oyZndPWEdVWndZdXdSZlQ3ZFZ2TmFXckozR21LbERNSC02OEVhYk10XzJ5Q1NheWdwWVk0WTlCS1JO?oc=5",
+        "source": "문화일보",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "\"경악\" '넘��� 힘든 거대한 벽' 中 극찬 터졌다! '승률 98.6％' 안세영 대기록…'AN, 놀라울 정도로 완성도 높다'",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRklPdEgzZjVfSXRiQ1pLd0JuRHE0dlBXc3FGOWJKTS1MVXBCN21ia0xzYWVxcU5JQzNNX2ZmcGQwRFRGZUQta0g0MWxpazVmWVhvZjNmRGlYd2VwVkNNZjhudjdib1ZPUzZKZXhvYXVwVHVtY1gwSy12VEhlWWxxWUFudk5tUkhYWGRj?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "'괴물 신인' 김민솔, 대상·상금왕 거머쥐며 '제2의 신지애' 정조준",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42cVVHV0RmYkowOGFWVnFsYjdkcFRQdC1KeDYzRkJBRmh4a2xYa2ZyS3MzZmlQd3Z0RUNSUVRLNXMzRkt3STU1a1lXUXE4cm52VTduT3kxcmlpUQ?oc=5",
+        "source": "한국경제",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "우승 약속 지킨 구자욱·원태인 \"사장님, 좋은 계약서 기대해요\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rckJUaEREdlYyd3ZFNW9XN216VkhSY3BwSGtrSlB3TzVEYWR4QkVXQWMxUmp5RDRTWmEybFZlMjBhNkluZlBUcW9YcHFPMUtnSGRIWk9wY0FNWUHSAWBBVV95cUxPU3R2QTNteVZ0UHNTVDZBV295ZlZuTl9VTzBqMUpRR0ZPQWkyR1ltVUIwUm1zY3h5QkpudkF3UlozWHhmU3BNYjlHQnduUUw0eTB5aW8wZ21VNklndGR4Ykw?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "검지 세운 후라도, 가을 투혼 엄지척",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DRXNDang3Q3NmRmpwVzBXTUZyX2p5V0FWMTBzamlabVo5QUZnZV8tQjZndGFnN3ZlTjI4U0YwaC15ZnQ4b3hLeVI1dC0wX0Vlbjh4SVF1eVlWZmdiM0HSAWNBVV95cUxNaW53US0zVTc0RFlSb2lPRHBxaG1uMlJGNGMydXVqYW5vdDFuTmhGTEtNaXNjWGFyb2ktZGlZLXRFWURaajE0RXh0SER0QUtsZk9vWHYyZXpvaWRJbWpTM210NVU?oc=5",
+        "source": "스포츠경향",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "\"KFA 회장 선거가 인기투표냐\" '국제법' 우려 무시한 '우물 안 일방통행'…FIFA, 총회 앞두고 급제동→의사결정 기구 회부 최후 경고",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOThmNU9hR2M3aGZscktTX0ZaZEFnQXdWWEU1eW1yWE9raEd0dy1ESjJHeHFHYWZLM3VjaHF1SlZhUnlWSlhKMTJHbVlOeEN0WW9uRzJQUUNpcWMzUUQtcm9zQkRwVkFQQVN2Tl8wdURJR0hZVVBPTlkyYVdxSHJwenR0UQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "첫 우승 정재현, 가장 큰 변화는 \"의구심 벗어나, 나를 믿으면서 플레이\" [KPGA]",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QU0J1MlBybkh1dkdhZ3lMcjhvMHlMUzFNMEJKSWR0VzdEMTAweVpnSlRHZ2FvSUYzeWtCbV9KNjEtYnFpWG0xOXFNSE8wN2pYRjdrTDlWNGhfWGEzT1gzQ09BRVZGOTh1NS1MQzhYVndpUUdFaW15Uw?oc=5",
+        "source": "골프한국",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "“삼성의 우승만 생각하고 있다”…‘친정 복귀 직후 우승’ 최형우 또 하나의 우승 반지 수집",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aRE4tV0NLRlVoSDZ0a0RKYnhQQThkZzBIMkxjZXU5Ym52X2tYSWw1bm9hUTUwcXRsT0d5Q1NQOFBrUmduUDI4ZDNGZDlMZ3FMLUdHSWsybU1hcnd0aHNZUzFva05GWURVeTRyam1VdHBTZw?oc=5",
+        "source": "스포츠동아",
+        "date": "2026-11-08"
       }
     ]
   }
