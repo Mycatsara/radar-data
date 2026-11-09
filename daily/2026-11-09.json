@@ -983,6 +983,266 @@
           "date": "2026-11-09"
         }
       ]
+    },
+    "캐시워크 정답": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-09T23:13:00+09:00",
+      "lastSeen": "2026-11-09T23:13:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 캐시워크 돈버는퀴즈 정답 11월 9일",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202611090065",
+          "source": "BNT뉴스",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "종근당건강 비타콜라겐…캐시워크 돈버는퀴즈 정답 공개",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112874",
+          "source": "게임톡",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "9일 캐시워크 돈버는퀴즈 정답…코리아 그랜드 페스티벌·픽스 온풍기",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=624049",
+          "source": "CBC뉴스",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    "빅테크": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-09T23:13:00+09:00",
+      "lastSeen": "2026-11-09T23:13:00+09:00",
+      "news": [
+        {
+          "title": "NVIDIA, 리벨리온·SK텔레콤과 NVLink Fusion 기반 소버린 AI 인프라 고도화 협력 발표",
+          "url": "https://blogs.nvidia.co.kr/blog/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion/",
+          "source": "NVIDIA",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "에이전틱 AI·피지컬 AI부터 인프라까지 아우른 “엔비디아 AI 데이 서울 2026”",
+          "url": "https://www.donga.com/news/It/article/all/20261109/134995914/1",
+          "source": "동아일보",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "\"엔비디아냐 AMD냐\"...기로에 선 K-���도체",
+          "url": "https://zdnet.co.kr/view/?no=20261109180536",
+          "source": "지디넷코리아",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    "박승규": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-09T23:13:00+09:00",
+      "lastSeen": "2026-11-09T23:13:00+09:00",
+      "news": [
+        {
+          "title": "무명서 가을 스타로… 박승규 “우승 반지로 청혼할래요”",
+          "url": "https://www.munhwa.com/article/11629827",
+          "source": "문화일보",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "\"팬도 선수도 함께 쓰러질 때까지…\" 박승규의 비장한 우승 다짐 [베이스볼S]",
+          "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000639518",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "\"미친 X 되겠다\" 삼성에 대기록까지 포기하더니 또 팀만 먼저 생각하는 '영웅'이 있다 [KS] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/2026110809521745200",
+          "source": "머니투데이",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    "아시아나항공": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-09T23:13:00+09:00",
+      "lastSeen": "2026-11-09T23:13:00+09:00",
+      "news": [
+        {
+          "title": "아시아나항공 주가 170원 하락 후 장마감",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3215988&type=&mobile=",
+          "source": "아시아뉴스통신",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "[장중수급포착] 아시아나항공, 기관 6일 연속 순매수행진... 주가 +4.13%",
+          "url": "https://www.newspim.com/news/view/20261103000361",
+          "source": "뉴스핌",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "아시아나항공 주가 하락중",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3215676&type=&mobile=",
+          "source": "아시아뉴스통신",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    "변호사": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-09T23:13:00+09:00",
+      "lastSeen": "2026-11-09T23:13:00+09:00",
+      "news": [
+        {
+          "title": "대륙아주·린, ‘디앤엘(D&L)’로 새출발… 국내 6위 로펌으로",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229091",
+          "source": "법률신문",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "대륙아주·린 합병…변호사 규모 6위 로펌 'D&L' 출범",
+          "url": "https://www.yna.co.kr/view/AKR20261109139800004",
+          "source": "연합뉴스",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "법무법인 대륙아주·린 합병계약 체결…국내 6위 로펌 'D&L' 탄생 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/09/2026110916085215493",
+          "source": "머니투데이",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    "이지혜": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-09T23:13:00+09:00",
+      "lastSeen": "2026-11-09T23:13:00+09:00",
+      "news": [
+        {
+          "title": "섬뜩한 얼굴로 \"왜 말 안 들어\"…'아동학대' 논란 터졌다",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836764",
+          "source": "SBS 뉴스",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "'민속촌 귀신' 민원에...용인시, 한국민속촌 실태 조사",
+          "url": "https://www.ytn.co.kr/_ln/0115_202611091607420480",
+          "source": "YTN",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "\"훈육 아냐\"vs\"부모 동의\"…민속촌 '귀신 참교육' 아동학대 논란 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/09/2026110911484986472",
+          "source": "머니투데이",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    "해커": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-09T23:13:00+09:00",
+      "lastSeen": "2026-11-09T23:13:00+09:00",
+      "news": [
+        {
+          "title": "“배우 닮았다” 8년째 美수배 北최고해커 박진혁 다시 주목받는 이유",
+          "url": "https://www.munhwa.com/article/11629685",
+          "source": "문화일보",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "[新테크용어] 바이낸스 해커는 왜 코인 쪼갰을까…’필 체인’ 수법이란",
+          "url": "https://zdnet.co.kr/view/?no=20261109155158",
+          "source": "지디넷코리아",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "[단독] 北 해킹 장물에 개미들 ‘830억 돈잔치’… “공포장 속 황당 횡재”",
+          "url": "https://www.mk.co.kr/news/stock/12202311",
+          "source": "매일경제",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    "고양이": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-09T23:13:00+09:00",
+      "lastSeen": "2026-11-09T23:13:00+09:00",
+      "news": [
+        {
+          "title": "고양이 보호센터·천문과학관으로 변신한 폐교…활용 우수사례 7곳 선정",
+          "url": "https://www.khan.co.kr/article/202611081336001",
+          "source": "경향신문",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "전북도교육청, 폐교 활용 사례 2건 전국 우수사례 선정···교육부장관상 수상",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=354152",
+          "source": "녹색경제신문",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "방치됐던 강화 강후초 ‘천문과학관’ 탈바꿈…행안부 장관상 선정",
+          "url": "https://www.kyeonggi.com/article/20261108580065",
+          "source": "경기일보",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    "아놀드 슈워제네거": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-09T23:13:00+09:00",
+      "lastSeen": "2026-11-09T23:13:00+09:00",
+      "news": [
+        {
+          "title": "“가정부와 불륜으로 낳은 아들”…슈워제네거 혼외자, 보디빌딩 5위",
+          "url": "https://www.twig24.com/news/2026/11/09/20261109500162",
+          "source": "www.twig24.com",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "\"피는 못 속여\" 아놀드 슈왈제네거 가정부 혼외자, 父와 똑닮은 근육질 몸매[Oh!llywood]",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/09/GA4TOMTFMNSGKNJRHBQWCOJQME/",
+          "source": "조선일보",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "'터미네이터' 슈워제네거 혼외자 보디빌더 데뷔…\"父, 최고 운동 파트너\"",
+          "url": "https://view.asiae.co.kr/article/2026110917171140991",
+          "source": "아시아경제",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    "착륙": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-09T23:13:00+09:00",
+      "lastSeen": "2026-11-09T23:13:00+09:00",
+      "news": [
+        {
+          "title": "냉장고·항공·혈액은행·방송사까지 위협…유럽 일상에 번지는 불안",
+          "url": "https://www.khan.co.kr/article/202611081614001",
+          "source": "경향신문",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "잇단 테러에 시위까지…공포에 휩싸인 유럽",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611091433576tD",
+          "source": "연합뉴스TV",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "“폭발물 설치했다” 하루 새 여객기 7대 ‘발칵’…유럽 하늘 덮친 테러 공포, 무슨 일?",
+          "url": "https://www.sedaily.com/article/20111696",
+          "source": "서울경제",
+          "date": "2026-11-09"
+        }
+      ]
     }
   },
   "sections": {
