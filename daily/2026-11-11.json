@@ -260,6 +260,247 @@
           "date": "2026-11-10"
         }
       ]
+    },
+    "한남더힐 아파트": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-11T06:24:00+09:00",
+      "lastSeen": "2026-11-11T06:24:00+09:00",
+      "news": [
+        {
+          "title": "옥주현, 190억 매입 한남동 아파트 경매 이어 구청에 압류",
+          "url": "https://sports.khan.co.kr/article/202611100816003",
+          "source": "스포츠경향",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "190억 한남더힐 품은 지 반년 만에…옥주현이 마주한 300억 대출 잔혹사",
+          "url": "https://www.segye.com/newsView/20261103516607",
+          "source": "세계일보",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "“옥주현 190억 한남더힐에 근저당 237억”…집값보다 빚이 많다는 뜻일까? [DD집톡]",
+          "url": "https://www.ddaily.co.kr/page/view/2026111010481084231",
+          "source": "디지털데일리",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "타릭 스쿠발": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-11T06:24:00+09:00",
+      "lastSeen": "2026-11-11T06:24:00+09:00",
+      "news": [
+        {
+          "title": "'충격' FA 최대어 행선지 다저스가 아니라고? \"그 팀이 스쿠벌 원하면, 그는 그 팀 선수가 될 것이다\"",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/11/10/MMYTOMJVMQ3DGOJVMFTDANZSGI/",
+          "source": "조선일보",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "새 구단주 등에 업은 샌디에이고, 선발 FA 최대어 스쿠발에 관심",
+          "url": "https://www.mk.co.kr/news/sports/12204031",
+          "source": "매일경제",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "‘시카고 C 백기’ 스쿠발 쟁탈전. ‘LA 다저스 VS 뉴욕 메츠’ 진검승부",
+          "url": "https://sports.donga.com/sports/article/all/20261110/134996207/1",
+          "source": "스포츠동아",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "포스코": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-11T06:24:00+09:00",
+      "lastSeen": "2026-11-11T06:24:00+09:00",
+      "news": [
+        {
+          "title": "자원강국 향해…철 위에 ‘그린’ 포스코",
+          "url": "https://www.khan.co.kr/article/202611102040015",
+          "source": "경향신문",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "쇳물 만드는 철강의 땅, LNG·리튬 품었다… 미래영토 확장 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/11/2026111019581929184",
+          "source": "머니투데이",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "[현장] 전기로로 저탄소 쇳물 생산…전지소재·희귀가스 공급망도 지킨다",
+          "url": "https://edata.ekn.kr/article/view/ekn202611100004",
+          "source": "기후에너지데이터뱅크",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "항공모함": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-11T06:24:00+09:00",
+      "lastSeen": "2026-11-11T06:24:00+09:00",
+      "news": [
+        {
+          "title": "美 핵항모 3척, 중동 집결 초읽기...이란 24시간 융단 폭격 가능",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/20261109142139612e250e8e188_1",
+          "source": "글로벌이코노믹",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "미국 항공모함 3척이 중동에 동시에 배치될 수 있고, 독일은 패트리어트 미사일 재고가 바닥나고, 프랑스는 ASN4G를 개발하고 있다.",
+          "url": "https://www.vietnam.vn/ko/ba-tau-san-bay-my-co-the-cung-hien-dien-tai-trung-dong-duc-can-patriot-va-phap-phat-trien-asn4g",
+          "source": "Vietnam.vn",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "이란 케슘섬 극비 공습하더니…트럼프, 항모 3척 동시 출격 초강수 왜?",
+          "url": "https://m.g-enews.com/view.php?ud=20261107082338241e250e8e188_1",
+          "source": "글로벌이코노믹",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "아이폰": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-11T06:24:00+09:00",
+      "lastSeen": "2026-11-11T06:24:00+09:00",
+      "news": [
+        {
+          "title": "\"아이폰 듀오 힌지 결함, 설계 문제 아닌 불량 부품 때문\"",
+          "url": "https://zdnet.co.kr/view/?no=20261110131755",
+          "source": "지디넷코리아",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "삼성 잡겠다던 애플 폴더블폰…화면 파손에 힌지 이상까지 ‘삐걱’",
+          "url": "https://www.kyeonggi.com/article/20261108580379",
+          "source": "경기일보",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "보름만에 이렇게 싸진다고?… 아이폰 듀오 가격도 꺾였네",
+          "url": "https://view.asiae.co.kr/visual-news/article/2026111015522565682",
+          "source": "아시아경제",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "lng선": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-11T06:24:00+09:00",
+      "lastSeen": "2026-11-11T06:24:00+09:00",
+      "news": [
+        {
+          "title": "HD한국조선해양, LNG 운반선 2척 6천629억원에 수주",
+          "url": "https://www.yna.co.kr/view/AKR20261109066600003",
+          "source": "연합뉴스",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "HD현대중공업, 6629억원 규모 LNG운반선 2척 수주",
+          "url": "https://www.viva100.com/article/20261109500796",
+          "source": "브릿지경제",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "암모니아선 13척 수주 HD현대…LPG 운송 재편 속 2030년 일감 '찜'",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=756552",
+          "source": "ER 이코노믹리뷰",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "폴더블 스마트폰": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-11T06:24:00+09:00",
+      "lastSeen": "2026-11-11T06:24:00+09:00",
+      "news": [
+        {
+          "title": "LG엔솔·삼성SDI, 배터리 기술로 ‘CES 혁신상’",
+          "url": "https://www.khan.co.kr/article/202611102035015",
+          "source": "경향신문",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "원주 기업 2곳 CES 2027 혁신상…3년 연속 수상기업 배출",
+          "url": "https://www.yna.co.kr/view/AKR20261110137300062",
+          "source": "연합뉴스",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "삼성·LG, CES 2027 혁신상 대거 수상…AI·전장·배터리 기술력 뽐내(종합)",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05195526645644408",
+          "source": "마켓인",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "사관학교": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-11T06:24:00+09:00",
+      "lastSeen": "2026-11-11T06:24:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 국방부 ‘육사만 충청 이전’ 결론… 통합에 1조5000억 투입",
+          "url": "https://www.chosun.com/politics/politics_general/2026/11/11/4XG7U4GKUFFDDDPIVPW3NLSAF4/",
+          "source": "조선일보",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "사관생도 \"군 과오와 교육은 별개\"…강신철 \"대통령도 군 헌신 존중\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261111052755orT",
+          "source": "연합뉴스TV",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "‘3군 사관학교 존치’ 절충안에 여당 내 우려…안규백도 항의",
+          "url": "https://www.khan.co.kr/article/202611101745001",
+          "source": "경향신문",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "대구광역시": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-11T06:24:00+09:00",
+      "lastSeen": "2026-11-11T06:24:00+09:00",
+      "news": []
+    },
+    "브래드 갈링하우스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-11T06:24:00+09:00",
+      "lastSeen": "2026-11-11T06:24:00+09:00",
+      "news": [
+        {
+          "title": "리플 1.16달러 흔들…비트코인 ETF 4억달러 유출 직격",
+          "url": "https://www.g-enews.com/article/Securities/2026/11/202611090339561840e7e8286d56_1",
+          "source": "글로벌이코노믹",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "바이낸스 XRP 입금, 2년 만에 최고치...매도 시그널?",
+          "url": "https://www.coinreaders.com/269111",
+          "source": "코인리더스",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "리플, OCC 최종 승인에 기업 금융 전략 확대",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309887",
+          "source": "경향게임스",
+          "date": "2026-11-10"
+        }
+      ]
     }
   },
   "sections": {
@@ -768,6 +1009,72 @@
         "title": "[단독] '가민'으로 버스 탄다 “티머니 연동”",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1adW8tSjNtV0tEZ3BrZ25wSjNKWFFLb2UtLXZQZlJyT2Q4bU53SXpUTkxhOElMbUZnMkFueTEzZTNtWm1XREgzMHBPZ1BDQQ?oc=5",
         "source": "전자신문",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "'데이터센터ㆍ원전ㆍ군함 건설 안할리가'...블루웨이브에 꺾인 건 '심리'뿐",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVk9MRV95c3lydFFLUHZnTlhVbWRuckVCUjlTLTIxN284ZkVLMGd2dkN3NUVuS25Xd21XZGdoRXhZbmdGWDkxUU9WVFNjcGtMOU5Gc1R6LWMtemtqZUFJTUZab0NIRm9IdVp5Z095LXBWbHU1bEFiM0p6Qkd0dnVxaURkQQ?oc=5",
+        "source": "인베스트조선",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "발 대신 바퀴 단 아틀라스, 단번에 360도 회전 점프를?",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xS0d1d2FCTEdmVURiOGVhUVpKR01MbEJkUkhMM3N5MTIta09qX3ZxSU1TSnJXdkc4cUxpZERGcFZJbnhBaWFPSmh0Skc1cENmOUF2Ul93NU1yR3hGWmFPMzZJSXdZX0dPQy1sMVZzU2h3RVlBbV9wWEhlOE9DSlU?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "비트코인 CPI 시험대…연준 빅스텝 가능성까지 거론",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNTUZGVHBTbW5lMkUxX0Fpc2ZSbDhfZllmUFVWUlBYU09NNGdrMk1ma2V4OXRncDlpajBCOHNHNXd6V25meDhOa0prTlgtSUhGLTgxZklIbF8?oc=5",
+        "source": "블록미디어",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "앤스로픽, AI 에이전트 1000개 지휘하는 신모델 공개",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2VXQXRzR1F5Qk9VLTlKZG52MWdxXy11M05JYi1yeksxeGNxSGpqTUNGcVRVel9ySXE2dlVxanhKRkpySXd3djBDbXhOWXJ4S0dsdDdLWk5la0U2cXd4bS1WczA1cnNrTFF3RDNraUxnSVgxNXJSa29TZzVEWGd1eDIzNA?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "수상한 엔비디아…칩 공급받는 中기업, 사무실 텅 비어있었다",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TdEpnOEdPZ0VBakRGcDNZRTdCSnFXSEt4d1FGTUZWMkJKZWhIOTJVTFJYbEdyNVJ3RjZGbk1GeEJxUkRPVUgyS3Jpc0gtSmhWUEtkLWR1NnJ6M3IyWk9OaDh3dkV2UGRrVDdjakduc29BRlXSAWZBVV95cUxPZTZpYk5ockVtWDhhYVFUWEczeXk2bUhTcW5rVjVkTFBGeFRLNlNlNmpWamhYSFh1OXNBUklWTjRtRDN5R2FxS2plc01ndnE3cEpMcmVFZzhBMkdvUHU0bzM3bUZTN2c?oc=5",
+        "source": "동아일보",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "[단독] 北 해킹 장물에 개미들 ‘830억 돈잔치’… “공포장 속 황당 횡재”",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PZm1CVG5qdmQ2MGJKd3lWT3hQbXJRZi1aakxjaGpYMnFvcHN4TU84S2ZaNWZmQjM0WWxCcE5fQ0hzYmtRLTdQM1VlbS1WaWJIX2c?oc=5",
+        "source": "매일경제",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "[단독] 네이처 \"韓, 기초연구 지원 늘려야…당장 성과 없어도 장기적 가치 커\"",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM2hCSWJtMnI2aTZLcm1wRDVYTHB4OHg2Yk9qR2FPRnZaVmRkem9uUnFSV0d2SXpiQWJjUFZhX3dINXZxRTc4UnJtOGNCc2dNWHpKbUFuNERGZXhWeE1NUHYwNEpUdFRoLUVaY2JibUNwejZuX08yVUFfX3R2Rlk5YlRIbV9rbHM?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "\"AI 뜨거워질수록 돈 번다\"…삼성·LG가 찜했는데 中도 '눈독' [테크로그]",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFMnpkUkpUX2NMVmtrY2tfVC1lamRRQVJpLWxOUlV3bnMwRWZvMWFCTFVFY04wSkhZd0QySFRXY213ZjlMUjRGT192V3hiT3ZRSUZUeW9WdFR0Zw?oc=5",
+        "source": "한국경제",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "[SW키트] 깃허브, AI 코드 저장·검토 강화…\"에이전트 5000개 동시 작업\"",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hZ2tUYkVrdDhxTHdacFVPZlpaNHNzSC1wMzQ4dkMxSHVCY2Z3SEp6N09uM0xfX3NwSDBCWDlkbThNaFpQNl9ncjZSbHdNNG9lWjBsc213?oc=5",
+        "source": "지디넷코리아",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "시도 8건에 미끼 서버 최고 권한까지... 오픈SSH ‘SSHole’ 공개 9시간 안 돼 공격 포착",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03RG9fUXFBQmR0aUVobzRHTkRveXl6cC1UNldsb3huSVcyUUNsMjZuOUNKVVJTcGJQeVFpTWhNdkpNenBEcmxmRDdHR1d6MHg4eWd6Xy1OdVNsWVIxNTE0eW5NNEZPSXlJSUc0?oc=5",
+        "source": "보안뉴스",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "메모리값 폭등에 K디스플레이는 ‘3중고’...OLED 혁신으로 극복할까",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQzZ1d3QzSW5WanQ2Y3ZOTDlGZzFneHJGczRhUXhLZnhNSkFjLXZQajdSbksySG96cGR0cjdneWNBRnUzbDRrSWlRUU9lUlZ1WDRERjZFSWV6S0FLY3UzVFp1XzNkbW9ReGNfVXRGUXYyLURyUjAyMEFVX2tXM1o0eHdQOA?oc=5",
+        "source": "조선일보",
         "date": "2026-11-09"
       }
     ],
@@ -1301,6 +1608,78 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JaTQ1aW5rb0tIejU3eExxRGNKY1d2cnZzcTdQU05WWU9FcGhBdnR0UTIzSi1rYm1FTVRFMTcxWHJ3S2VkUFoxWDExZGxGNmVyWFRpWl9TMklQSzhKQTctTkRyTFhBQdIBakFVX3lxTFBCRDE1dlRBbTkxMDQzUkxqZ3c4V3dmMWVUZGh2YTlvb0JNdzBUQ3V0NVM0OWR6ZEtWTmhkeFF0NXppelQzRWxjU0R2a29zQnpjYzFsTkZHWXVtYlhRcUlxYmJiWW10bFpqNXc?oc=5",
         "source": "월간산",
         "date": "2026-11-08"
+      },
+      {
+        "title": "'우승 주역' 구자욱·원태인, 내년에도 푸른 색 유니폼?",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OOV85QmgzSjdOeDNpMlFxRmJMTXNVTm1OYnc5MEZPelBudTl6M3VJV0tXS1pEd005UjczbFZ2RnlIS3hvS1BGWWN2dC1fczc2N0FoekdlRmpiT2hzMVE?oc=5",
+        "source": "YTN",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "김민솔 3관왕·상금 16억원 등 KLPGA 신기록 쏟아져",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52bzZXQlJjX1J5eUZJaWJaN0JrMlhmM3hjVC1zbWVVbm9QV3l5ekJaRzY3ejRBVW9KR1Yybl9Td3phVG8wQUhJOHl4T2JBaFhuc2g4OG9Ka0ZycHB0bnlrMVBjRTZkNk5rT251OA?oc=5",
+        "source": "경상일보",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "내분설 겪은 축구대표팀, 카타르서 첫 훈련.. 손흥민-황희찬 대화",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1YkdFdExRZHVXR0huYWdHbVRaU1dQd1pZb2VKa3R4T3BrMTljdXFlSUt2N3p6WDd2dlg2Vy1fTkpLSTcybnBQUkdMNm4zenRDWGZqOC01cGF3UVh0aFA2dkxyTHRhdGFHem8weG51YU1ZTTl3X1HSAXZBVV95cUxPWV8xdldsU01nOVRYMi1abWlteUpsNW50a281TzRRZkp1dDZvNGRCVlNUVXdQNVNYNEgwTHpURUNRMlV1bzdkcVhVV3dsMDlhV3hWdDVXeFhvQ201ZWx5V1F2U0hxekNlaERTMkN1WDJtenpVb2Rn?oc=5",
+        "source": "MBC 뉴스",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "한국 야구, 도쿄돔서 올해 마지막 승부…한일전 11연패 끊을까",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Td05DcF9Ed3lqeVk5VXBzTUJacDlfSFpPSl93eWx3WVppUHJ5RWoydk5pdWd2dDFVMUtXbnRabWdtOXRyZlFqQUFTSTBReFEyd0g3aW91WENCdnc?oc=5",
+        "source": "강원일보",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "“내야 보험용으로 딱”…필라델피아, FA 김하성에 관심",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkFrbWlHLXFaVFJvV2lUNFJYYngycVQ5OFlVZ0NGUFVsTzl5TXFGWWNnUmhRb1lOWEhid2ZTa0Y5eEhFS1liQVhxNUV1c2RaX2N5X3RGUVM4NVZxcFVhb2RxT0pTbWJ3bWs4Tm5TZVpfQ1ZDN3gtS1JKbEZSWGNENHVwV1RMUjJlVmxjaWln?oc=5",
+        "source": "국제신문",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "‘1골 1도움’ 모재현 K리그1 35R MVP…강원FC 베스트 팀 선정",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPQ1k1LWRhWk9VUU9meF9xY2Jqbm11TzY4TXpGeVROdWRxN2xBelpUeFdMZG56ck54Uk1XM1FMQ01SY1FJZ0dHTkFNdzFpSXV0RG9xNzZ5ZnBGaktTejBDakk0ZjR4anM?oc=5",
+        "source": "강원도민일보",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "\"아버지는 복싱 국가대표\"...'55연승' 안세영의 특별한 가족사에 해외 언론도 주목",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wXy1lRXpwUWY1RWRJQUs4QmlCRGtQcVBjVGFkazhMR285RHpmYjF4MS01eGhUTEhFTjJZdUVoVEtERkwtT1VadkhLaWVvQzJLS0tmRzN6T19XNjFJUnRNZWt3?oc=5",
+        "source": "KBC광주방송",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "프로농구 소노, 꼴찌 현대모비스 잡고 5연패 탈출…이정현 26점",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxNlN0WXdFTF9zbmRZUmZYUVlMQmVDVnVVRy1vR09WeHJ1U0xjWFFkb1poMXQ3d0ZlY1kyaThwcGhRX3h1cUhUNVd0SjNnbl8tWFpISmhleHBVc1HSAWBBVV95cUxNdWlnaVlpOUdNVGNTNmZQVWZUc0Mwa3EyTFlFSkhsb3I3SWJGekd6VE9OaHYwZkFmNU9ESnU4d0tIcERyRi1FdWdnQXctN3dEbHRNTzMzX2RSdnNSZC11MkY?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "메시, 통산 최다 18회 FIFPRO 베스트11 선정…’발롱도르’ 케인은 제외",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ORVBhN2c5dzVtQ3dwWXdETXB5blJCal96dHRDQWV2cmdUMngyajFUQ3laOFYtYWk1RThHcFVfLUZWaWpTRU1HOUMzWkdaSE9kTUZ0TmxPNXMwVXlaMmxxRWNLNnlqb0E?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "‘부상에서 복귀한’ 유해란, ‘단일 대회 4승 도전’ 코르다와 격돌…신인왕 경쟁 황유민은 대반전 필요",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GQ0RCR0VKZUp0V0ozaWNSa184NmRfSmdwU25OZ0VuRHNBdmtvajE2akFqTEMxSkhmdy1pa1NlX0dqQU82T3kyV05iVGZMbWZnYzNEY0gycHJxWWhBWWfSAWNBVV95cUxPZkpTUi1fT3pIX0lkVjRsdHhKZzlBUkhzVGRkMGhuM0ttUGVaZnUtOTEzNjg4eTdJWnU4bWRQYUtLWWxpOGN5VlpGVFAtRDRINGxIS0sxU2hqdXFBcUtrUEt5bUU?oc=5",
+        "source": "스포츠경향",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "[프로배구] 선발 기회도 못 살렸다...'주장' 육서영, 기업은행에서 설 자리 잃나",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YbzQxMkR6bkNqbXNVWU5IbGV1UUJxWWNpSnVWWWlyY3lvdmtGR3JsbDVRa2FzekdqN3dGZDFPWDBfRmxVLW9RX3JYcFFvR01DWFRzOGFLSml6VmZy?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "코트 위 챔피언과 동행지속… 일동후디스, KB스타즈 영양지원 잇는다",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16WGxBQjlzSUZVWjhNTUJkR2x0cldDY0JpeXY3SlpzVHRHR01zZjBsbDBlZGxJNjU4UWdlUVJ2c3hPZWdSOU9xLU1wTXhRV1JUaWQzdElCUU11VEt4WXgtRTlvZC0ycWE1NG5oT0NwRzRWWU9KeUHSAWZBVV95cUxNVUl4YUJkcWhFbF9ha2Mwc1o0UmhDY0l0UEhJUmNmclRNME5obEhkaE5DTnVGSU1CVHB6aXNQN182NklvSFNOb0VHQ3JrR000aWxaOHRhZHoxVjRFLXNUTlppdGZ3ZUE?oc=5",
+        "source": "동아일보",
+        "date": "2026-11-10"
       }
     ]
   }
