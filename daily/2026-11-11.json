@@ -761,6 +761,247 @@
           "date": "2026-11-10"
         }
       ]
+    },
+    "ai 안경": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-11T17:08:00+09:00",
+      "lastSeen": "2026-11-11T17:08:00+09:00",
+      "news": [
+        {
+          "title": "\"AI 안경 쓰고 '신개념 컨닝'\"…수능 앞두고 '비상' 걸렸다 [정지은의 테크킥]",
+          "url": "https://www.hankyung.com/article/202611118708i",
+          "source": "한국경제",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "[참성단] 스마트 커닝과 70년 무감독 시험",
+          "url": "https://www.kyeongin.com/article/1774515",
+          "source": "경인일보",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "[단독] 대학 중간고사까지 침투한 '스마트안경'...\"제도개선 시급\"",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611101101526896",
+          "source": "YTN 사이언스",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "로제": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-11T17:08:00+09:00",
+      "lastSeen": "2026-11-11T17:08:00+09:00",
+      "news": [
+        {
+          "title": "로제 ‘아파트’ 라이브에 “중학교 장기자랑” 혹평···해외반응 ‘시끌’",
+          "url": "https://sports.khan.co.kr/article/202611111009003",
+          "source": "스포츠경향",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "로제 'APT.' 무대 어땠길래…해외선 혹평, 국내선 옹호",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863734",
+          "source": "뉴시스",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "요즘 로제는 머리를 묶다 맙니다",
+          "url": "https://www.wkorea.com/2026/11/09/%EC%9A%94%EC%A6%98-%EB%A1%9C%EC%A0%9C%EB%8A%94-%EB%A8%B8%EB%A6%AC%EB%A5%BC-%EB%AC%B6%EB%8B%A4-%EB%A7%99%EB%8B%88%EB%8B%A4/",
+          "source": "W Korea",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "지진": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-11T17:08:00+09:00",
+      "lastSeen": "2026-11-11T17:08:00+09:00",
+      "news": [
+        {
+          "title": "지진 발생 10분 만에 출근...일본 아나운서 '민낯 속보' 화제 [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611101829186378",
+          "source": "YTN",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "지진 10분 만에 맨얼굴에 안경 쓰고 속보…日 아나운서 화제",
+          "url": "https://www.koreadaily.com/article/20261108190038698",
+          "source": "미주중앙일보",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "[와글와글] 화장할 겨를도 없이 지진 속보",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6864428_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "석유": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-11T17:08:00+09:00",
+      "lastSeen": "2026-11-11T17:08:00+09:00",
+      "news": [
+        {
+          "title": "석유관리원, 제19회 한·중·일 석유기술회 개최",
+          "url": "https://www.dailian.co.kr/news/view/1713806/%EC%84%9D%EC%9C%A0%EA%B4%80%EB%A6%AC%EC%9B%90-%EC%A0%9C19%ED%9A%8C-%ED%95%9C%EC%A4%91%EC%9D%BC-%EC%84%9D%EC%9C%A0%EA%B8%B0%EC%88%A0%ED%9A%8C-2026",
+          "source": "데일리안",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "석유관리원, 한중일 석유기술회 개최…친환경 연료 협력 논의",
+          "url": "https://www.fnnews.com/news/202611111556094195",
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "한·중·일 석유기술회 제주 개막… 친환경·저탄소 연료 기술 공조 모색",
+          "url": "https://www.energykorea.co.kr/news/articleView.html?idxno=66926",
+          "source": "에너지코리아뉴스",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "흡연": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-11T17:08:00+09:00",
+      "lastSeen": "2026-11-11T17:08:00+09:00",
+      "news": [
+        {
+          "title": "[한 컷으로 보는 AI만평] 흡연은 부스에서, 연기는 시민에게",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261111010003768",
+          "source": "중도일보",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "[르포] 육교 아래 흡연부스…담배 연기 퍼지는 신탄진역 광장",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261109010002971",
+          "source": "중도일보",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "32기 영수, 흡연 고백에 뽀뽀 제안까지…가상 아내 \"안 될 것 같다\"",
+          "url": "https://www.newsis.com/view/NISX20261110_0003861719",
+          "source": "뉴시스",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "오유진": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-11T17:08:00+09:00",
+      "lastSeen": "2026-11-11T17:08:00+09:00",
+      "news": []
+    },
+    "남편": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-11-11T17:08:00+09:00",
+      "lastSeen": "2026-11-11T17:08:00+09:00",
+      "news": [
+        {
+          "title": "“밑져야 본전”..장나라, ♥6살 연하 남편에 대시 후 결혼 직감 “나 시집 가겠는데” (‘살롱드립’)",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/HFQTINJSGAZWCMTFGFQWGMZXGM/",
+          "source": "Chosunbiz",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "김혜윤, ‘스캐’ 예서가 로스쿨 갔다는 댓글에 “어떤 직업이든 잘됐네요” (‘살롱드립’)",
+          "url": "https://www.osen.co.kr/article/G1112908065",
+          "source": "OSEN",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "“나 시집 가겠는데?”…장나라, ♥6살 연하 남편과 결혼 결심한 순간",
+          "url": "https://sports.donga.com/ent/article/all/20261111/135006703/1",
+          "source": "스포츠동아",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "담배": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-11-11T17:08:00+09:00",
+      "lastSeen": "2026-11-11T17:08:00+09:00",
+      "news": [
+        {
+          "title": "\"담뱃값 4500원→8500원으로\"…2015년 이후 11년 만에 인상 주장, 이유는?",
+          "url": "https://view.asiae.co.kr/article/2026111109323627428",
+          "source": "아시아경제",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "담배 속 유해성분 검사 대상 확대",
+          "url": "https://gonggam.korea.kr/newsContentView.es?mid=a12503000000&section_id=NCCD_POLICY&news_id=0f33944c-a1a4-4d51-a935-9af421afb8ae",
+          "source": "K-공감",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "\"담뱃값 4500원→8500원으로\"…흡연자 긴장할 주장 나왔다",
+          "url": "https://news.nate.com/view/20261110n22272",
+          "source": "네이트",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "중국": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-11-11T17:08:00+09:00",
+      "lastSeen": "2026-11-11T17:08:00+09:00",
+      "news": [
+        {
+          "title": "\"남자들이 넋을 잃을 정도?\"…앨리스 황, 과거 지인 증언 나와",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611111530248xp",
+          "source": "연합뉴스TV",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "외도 인정 직격탄...젠슨 황, 이틀 만에 21조 원 날아갔다 [정치ON]",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611111637363451",
+          "source": "YTN",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "불륜 고백 후 곧장 출근한 젠슨 황…직원들은 \"충격받았다\"",
+          "url": "https://news.jtbc.co.kr/article/NB12327547",
+          "source": "JTBC",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "굴착기": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-11T17:08:00+09:00",
+      "lastSeen": "2026-11-11T17:08:00+09:00",
+      "news": [
+        {
+          "title": "“피땀 흘려 번 돈을 돌려줘” 중국 관공서 습격한 굴착기 [잇슈 SNS]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709444",
+          "source": "KBS 뉴스",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "[영상] \"돈 돌려달라\"…중국 남성, 관공서 부수며 '굴착기 난동'",
+          "url": "https://www.yna.co.kr/view/AKR20261111144600704",
+          "source": "연합뉴스",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "당국 미지급 보상금에 앙심… 中 40대 굴착기 몰고 정부 청사 돌진",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447802",
+          "source": "천지일보",
+          "date": "2026-11-11"
+        }
+      ]
     }
   },
   "sections": {
