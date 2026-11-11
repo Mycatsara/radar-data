@@ -501,6 +501,266 @@
           "date": "2026-11-10"
         }
       ]
+    },
+    "솔비": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-11T10:23:00+09:00",
+      "lastSeen": "2026-11-11T10:23:00+09:00",
+      "news": [
+        {
+          "title": "‘이규한♥’ 솔비, 내년 결혼 앞두고 열일…갤러리 개관전 초청",
+          "url": "https://sports.donga.com/ent/article/all/20261110/135002266/1",
+          "source": "스포츠동아",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "솔비, 이규한과 내년 4월 결혼 앞두고 '겹경사'..작가로 승승장구",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/MM2DAOLCMYZGKMRVGAZGKM3BGM/",
+          "source": "조선일보",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "'이규한과 내년 결혼' 솔비, 갤��리초이 개관전 참여…미술 작가 존재감",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6349218",
+          "source": "뉴스1",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "피클 ai": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-11T10:23:00+09:00",
+      "lastSeen": "2026-11-11T10:23:00+09:00",
+      "news": [
+        {
+          "title": "‘1위 돌풍’ AI 피클…주문·약속 척척, 전화 상대는 끊었다 [팩플]",
+          "url": "https://www.koreadaily.com/article/20261110014040989",
+          "source": "미주중앙일보",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "[백상논단] 경제의 판 바꾸는 AI 비서",
+          "url": "https://www.sedaily.com/article/20111524",
+          "source": "서울경제",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "쿠팡서 쇼핑하고 KTX 예매까지… 한국판 뮤즈 '피클' 써보니",
+          "url": "https://www.mk.co.kr/news/it/12201908",
+          "source": "매일경제",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    "박신영 아나운서": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-11T10:23:00+09:00",
+      "lastSeen": "2026-11-11T10:23:00+09:00",
+      "news": [
+        {
+          "title": "'과속 사망사고' 前 아나운서, 복귀 시동…\"평생 반성한다더니\" 온라인 시끌",
+          "url": "https://www.newsis.com/view/NISX20261110_0003862283",
+          "source": "뉴시스",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "박신영, 사망사고 5년 만에 입 열었다…\"평생 안 잊어\" 문신까지 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/11/2026111106141849374",
+          "source": "머니투데이",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "사망 교통사고 이후 틱톡커 변신 박신영 “버텨온 시간 억울해서라도 쉽게 무너지지 않을 ���”",
+          "url": "https://sports.khan.co.kr/article/202611100805003",
+          "source": "스포츠경향",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "트립닷컴 메가세일": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-11T10:23:00+09:00",
+      "lastSeen": "2026-11-11T10:23:00+09:00",
+      "news": [
+        {
+          "title": "제주 왕복 1100원부터…트립닷컴, 11일 오전 11시 특가전",
+          "url": "https://www.news1.kr/industry/hotel-tourism/6347319",
+          "source": "뉴스1",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "[유통레이더] 트립닷컴, 롯데월드, 놀유니버스, 번개장터, 삼양라운드스퀘어, 달바 外",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423013",
+          "source": "데일리한국",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "트립닷컴, 연중 최대 ‘11.11 세일’ 진행… 항공·호텔 최대 80% 선착순 할인",
+          "url": "http://www.cdnews.co.kr/news/articleView.html?idxno=201364",
+          "source": "통신일보",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "시내버스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-11T10:23:00+09:00",
+      "lastSeen": "2026-11-11T10:23:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 분당사거리서 시내버스가 차 10여대 추돌",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261111084505NpB",
+          "source": "연합뉴스TV",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "경기 성남 분당서 버스가 차량 16대 연쇄 추돌‥최소 34명 부상",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6864775_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "경기 성남시 분당에서 출근길 버스 등 대형 추돌사고",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611110851596668_005.html",
+          "source": "YTN",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "빼난지원금": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-11T10:23:00+09:00",
+      "lastSeen": "2026-11-11T10:23:00+09:00",
+      "news": [
+        {
+          "title": "빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/11/11/2XDK6KHU2ZHRVAUMONFNISI5SA/",
+          "source": "Chosunbiz",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "어느덧 빼빼로 데이…어른들은 모르는 ’빼난지원금’ 무슨 뜻?",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110173936oEF",
+          "source": "연합뉴스TV",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "\"빼빼로 못 받았다면 신청하세요\"…어른들은 모르는 '빼난지원금' - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/10/2026111007574324321",
+          "source": "머니투데이",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "대구교도소": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-11T10:23:00+09:00",
+      "lastSeen": "2026-11-11T10:23:00+09:00",
+      "news": [
+        {
+          "title": "'3년 방치' 옛 교도소, 문화예술 공간으로 변신",
+          "url": "https://www.ytn.co.kr/_ln/0115_202611110331000220",
+          "source": "YTN",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "‘7년 표류’ 옛 대구교도소 터 개발 본격화",
+          "url": "https://www.segye.com/newsView/20261109514586",
+          "source": "세계일보",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "옛 대구교도소 떠난 자리에 3500억 투입…달성군 문화명소 만든다",
+          "url": "https://www.koreadaily.com/article/20261109071558241",
+          "source": "미주중앙일보",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "이효정": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-11-11T10:23:00+09:00",
+      "lastSeen": "2026-11-11T10:23:00+09:00",
+      "news": [
+        {
+          "title": "\"집안에 배우만 6명\"…이효정 아들 이유진, 장동윤과 동서된다 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105460011738",
+          "source": "머니투데이",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "동상이몽2_너는 내 운명 : 이유진, ‘아버지’ 이효정과 함께 가게 홍보용 릴스 촬영",
+          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483092133",
+          "source": "programs.sbs.co.kr",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "11월 결혼 이유진♥차경은, 혼전임신 고백 “살림 이미 합쳤다”",
+          "url": "https://www.osen.co.kr/article/G1112908014",
+          "source": "OSEN",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "광주시": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-11T10:23:00+09:00",
+      "lastSeen": "2026-11-11T10:23:00+09:00",
+      "news": [
+        {
+          "title": "\"경기도교육감 개표 결과 달라져\"...특검, 압수수색",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611102211380963",
+          "source": "YTN",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "선관위 특검, '개표상황표 은닉·위조' 경기 광주시 선관위 압수수색",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6864505_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "[단독] 특검, 개표상황표 ‘인장 위조’ 정황 포착…선관위 압수수색",
+          "url": "https://news.jtbc.co.kr/article/NB12327332",
+          "source": "JTBC",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "훈련": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-11T10:23:00+09:00",
+      "lastSeen": "2026-11-11T10:23:00+09:00",
+      "news": [
+        {
+          "title": "훈련장에서 쓰러졌던 콩파니 뮌헨 감독, 3주 만에 팀 복귀",
+          "url": "https://www.yna.co.kr/view/AKR20261111012200007",
+          "source": "연합뉴스",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "[공식발표] '충격의 실신→긴급 병원 이송' 콤파니 감독, 뇌·척수 둘러싼 수막에 이상 발견...11일 만에 전해진 복귀 소식 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/202611110747778970O",
+          "source": "머니투데이",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "'김민재 소속팀' 뮌헨 콩파니 감독, 수막염으로 쓰러진 지 3주 만에 현장 복귀",
+          "url": "https://www.newspim.com/news/view/20261111000092",
+          "source": "뉴스핌",
+          "date": "2026-11-10"
+        }
+      ]
     }
   },
   "sections": {
@@ -1076,6 +1336,36 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQzZ1d3QzSW5WanQ2Y3ZOTDlGZzFneHJGczRhUXhLZnhNSkFjLXZQajdSbksySG96cGR0cjdneWNBRnUzbDRrSWlRUU9lUlZ1WDRERjZFSWV6S0FLY3UzVFp1XzNkbW9ReGNfVXRGUXYyLURyUjAyMEFVX2tXM1o0eHdQOA?oc=5",
         "source": "조선일보",
         "date": "2026-11-09"
+      },
+      {
+        "title": "앨리스 황 뒤엔 가족 간첩단?…\"10조원대 엔비디아 칩, 중국 공급 관여\"",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXZ3cXRIRmtLZnFMdlV4QUZLajBhcU5WdkpkenBoczRoMjJnbnRPcXlyN3NoZ1hTdVhkbXNLRFZza1ZNd2haRU9vRXVGUzZZdmYxOXFTWEFta0xydFBvR0N4SFZ0Q0liT0FJbWhtLVJBSTc3b3JDbURYSjk2TFZJUDVzMA?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "체코 업계 “두코바니 터빈홀ㆍBOP, 우리가 맡겠다”…시공 몫 확보 본격화",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rdS1uX0NtZHZIbWFDSVFVN0ZFbERsY3NUTWRVbkhselh5ZEpTdFUtLUVETVNJRTRRV0dhUm5qS0FqMmF4TW14OXMzV3F5Y19iSkZnZ0xTc2l0R1dhNjA2ZmJxeUViSllGQXl6elhoWEZNYm93?oc=5",
+        "source": "대한경제",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "“AI 서버용 낸드만 잘 팔린다”… 삼성전자·키옥시아·SK하이닉스 엇갈리는 셈법",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbURpbktiNFJ6RjkzNlBmN2l1MlRCaFYtczhWaDd0RHhnT3FaeFBsOFg1MzJsQjZQNk1qcEljbDlCdTF4Wk1wTDNKNTB2Q013d0xpa2xtbU40RnBwSmdwa19OTUp2Q1lGdkEwTTBDTUJKMGpsYXNlM0JUTmwyUHdyZG5B0gGWAUFVX3lxTE1MUDZjeEQ1UmZHTllDYzR5eVVxc1RlaTRUUXNCV25ySmlPNlFyaUZ3UEdyT2J3UnF2RVB1UGRyR1hoUF9ZWFB5T3VwSENTRDEzM20xcXNEZFhwb0J0SWNsSzQxY1lOUU0tdXN2Rms2cGUwTk9ndzhycDNMeWwtbklVZUFlZk9jeG1QMndFSFJVX2t2RDdQUQ?oc=5",
+        "source": "Chosunbiz",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "“연봉 2억2천 준다는데, 출퇴근이 좀”…최강스펙 인재들 美NASA 채용 ‘주목’",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwRXJ5UHFkV2tGSFA1ZU9OcmZmWFFZM18wMFVTbWJTOHRadU96MHlkcURILXk0SW5IaE5UazZFM0J4Rk9TWkF0ZG1KSldCZ3hzTUE?oc=5",
+        "source": "매일경제",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "[태평로] 이러다 ‘노키아 함정’에 빠질라",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLUNwNm5mX3dkby00b0hXMGlESzlLSG1aajFJQjE2Z1JoTG5VX2p4a1lVZXl6TmxyaHpncmFrTnZnVUZCUEFqSjhhanFqWXQxY1NLLXNOakpNSXdVNmtVemE0YTJ4NVpaV0s2azZpT0pmRmM5VmJfZy1OOXAzVEE0ZS1Eb29zck1J?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-10"
       }
     ],
     "ENTERTAINMENT": [
