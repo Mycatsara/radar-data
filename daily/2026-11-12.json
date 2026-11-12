@@ -761,6 +761,266 @@
           "date": "2026-11-12"
         }
       ]
+    },
+    "천위페이": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-12T21:20:00+09:00",
+      "lastSeen": "2026-11-12T21:20:00+09:00",
+      "news": [
+        {
+          "title": "'안세영 천적이라고 하지 마세요' 세계 36위 상대 '진땀승'→간신히 8강 진출…中 천위페이, AN과 격차 점점 벌어진다",
+          "url": "https://www.xportsnews.com/article/2218686",
+          "source": "엑스포츠뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "'71승 1패' 안세영 유일한 패배 안긴 선수인데...中 왕즈이, 이래서 '8개월 무관' 끊겠나? 세계 25위 상대 진땀승→8강 진출 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/12/202611121734779265O",
+          "source": "머��투데이",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "'내가 안세영 이겨봤어!' 그런데 16강부터 휘청휘청…'세계 3위' 中 왕즈이 일본 마스터즈 8강 진출→25위 덴마크 2-0 제압",
+          "url": "https://www.xportsnews.com/article/2218855",
+          "source": "www.xportsnews.com",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "지하철 파업": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-12T21:20:00+09:00",
+      "lastSeen": "2026-11-12T21:20:00+09:00",
+      "news": [
+        {
+          "title": "지하철·KTX에 공항까지 줄파업 예고…연말 국민들 발 묶이나",
+          "url": "https://www.kmib.co.kr/article/20261112501567",
+          "source": "국민일보",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "철도노조 “12월 10일부터 총파업”…인력 충원 등 요구",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709898",
+          "source": "KBS 뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+          "url": "https://www.yna.co.kr/view/AKR20261111111400011",
+          "source": "연합뉴스",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "조희대": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-12T21:20:00+09:00",
+      "lastSeen": "2026-11-12T21:20:00+09:00",
+      "news": [
+        {
+          "title": "[단독] \"한덕수 석방 땐 재판 차질 우려\"…이진관 재판부에 ‘의견서’",
+          "url": "https://news.jtbc.co.kr/article/NB12327837",
+          "source": "JTBC",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "법원행정처장, ‘한덕수 석방시 조희대 탄핵’ 與 주장에 “부적절”",
+          "url": "https://www.donga.com/news/Society/article/all/20261112/135017324/1",
+          "source": "동아일보",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "예결위, 내란 재판 지연·전작권 전환 등 안보 공방",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711205",
+          "source": "KBS 뉴스",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "원자력 잠수함": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-12T21:20:00+09:00",
+      "lastSeen": "2026-11-12T21:20:00+09:00",
+      "news": [
+        {
+          "title": "日, 안보 전략에 '핵추진잠수함 검토 가능' 명기 방안 부상(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261111130751073",
+          "source": "연합뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "일 ‘핵반입 금지 예외’ 검토에 피폭자들 반발…“비핵 원칙 훼손 말라”",
+          "url": "https://www.khan.co.kr/article/202611121556011",
+          "source": "경향신문",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "\"日, 안보3문서에 '집단성 강인성' 명기…우호국과 경제안보력 강화\"",
+          "url": "https://www.newsis.com/view/NISX20261112_0003865210",
+          "source": "뉴시스",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "nol": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-12T21:20:00+09:00",
+      "lastSeen": "2026-11-12T21:20:00+09:00",
+      "news": [
+        {
+          "title": "Dubai students can soon use Nol cards for online, in-store shopping across GCC",
+          "url": "https://www.khaleejtimes.com/uae/transport/dubai-nol-student-card-upgrades-50-percent-discount-online-in-store-payment",
+          "source": "Khaleej Times",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "RTA, Al Etihad Payments sign strategic agreement to launch next generation of nol–Jaywan cards",
+          "url": "https://www.wam.ae/en/article/c3347i1-rta-etihad-payments-sign-strategic-agreement",
+          "source": "www.wam.ae",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "Dubai's new nol–Jaywan card: Where you can use it, discounts and launch date",
+          "url": "https://gulfnews.com/living-in-uae/transport/dubais-new-noljaywan-card-where-you-can-use-it-discounts-and-launch-date-1.500738705",
+          "source": "Gulf News",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "백승호": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-12T21:20:00+09:00",
+      "lastSeen": "2026-11-12T21:20:00+09:00",
+      "news": [
+        {
+          "title": "'韓 초대박 경사' 터질까, 한국인 16호 프리미어리거는 백승호? '1위 질주' 버밍엄 \"꿈의 무대 EPL 복귀 예상\"",
+          "url": "https://www.sportschosun.com/football/2026-11-11/202611110100078270007276",
+          "source": "스포츠조선",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "모레노호 '호재'… 드디어 긴 부상 털고 복귀한 한국 선수",
+          "url": "https://www.wikitree.co.kr/articles/1172444",
+          "source": "위키트리",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "'韓 축구 희소식' 부상에서 돌아온 미드필더 백승호, 성공적인 복귀전...엄지성과 맞대결은 불발",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E9%9F%93-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AE-%E1%84%92%E1%85%B4%E1%84%89%E1%85%A9%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%87%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5-%E1%84%83%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%A9%E1%86%AB-%E1%84%86%E1%85%B5%E1%84%83%E1%85%B3%E1%84%91%E1%85%B5%E1%86%AF%E1%84%83%E1%85%A5-%E1%84%87%E1%85%A2%E1%86%A8%E1%84%89%E1%85%B3%E1%86%BC%E1%84%92%E1%85%A9-%E1%84%89%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB-%E1%84%87%E1%85%A9%E1%86%A8%E1%84%80%E1%85%B1%E1%84%8C%E1%85%A5%E1%86%AB--%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B5%E1%84%89%E1%85%A5%E1%86%BC%E1%84%80%E1%85%AA-%E1%84%86%E1%85%A1%E1%86%BD%E1%84%83%E1%85%A2%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%87%E1%85%A1%E1%86%AF/blt30919edc8c447f31",
+          "source": "Goal.com",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "부동산": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-12T21:20:00+09:00",
+      "lastSeen": "2026-11-12T21:20:00+09:00",
+      "news": [
+        {
+          "title": "[단독] 이 대통령, 당대표 경험 공유하며 김민석 격려",
+          "url": "https://www.khan.co.kr/article/202611121657011",
+          "source": "경향신문",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "당청 ’한목소리’에도 종부세 이견…金·鄭 ’대화중재’도 파열음",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112205932itn",
+          "source": "연합뉴스TV",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "78일 만에 여당 지도부 만찬…이 대통령 ‘당정 한마음’ 강조",
+          "url": "https://news.jtbc.co.kr/article/NB12327675",
+          "source": "JTBC",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "페드로 아빌라": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-12T21:20:00+09:00",
+      "lastSeen": "2026-11-12T21:20:00+09:00",
+      "news": [
+        {
+          "title": "SSG, MLB 출신 강속구 투수 리차드슨 100만 달러에 영입",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711079",
+          "source": "KBS 뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "[공식발표] 54억 화끈하게 질렀다! 폰세 능가 외인+ML 157km 유망주까지 품다…SSG 외국인투수 농사 끝",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/12/MU3DEYLDHA3DKZJYMU3TAZTGGI/",
+          "source": "조선일보",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "“157㎞ 강속구 보유”…SSG랜더스, 새 외국인 투수 ‘라이언 리차드슨’ 영입",
+          "url": "https://www.kyeonggi.com/article/20261112580233",
+          "source": "경기일보",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "정동영": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-12T21:20:00+09:00",
+      "lastSeen": "2026-11-12T21:20:00+09:00",
+      "news": [
+        {
+          "title": "박충권, 정동영 향해 \"북동영\" 부르자 與 \"탈충권\" 맞불",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865148_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "탈북단체 \"통일부 '북향민' 호칭, 탈북민 정체성 부정\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261112058551504",
+          "source": "연합뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "외교부 차관, 2027년도 예안산 제안설명",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3750359",
+          "source": "국제뉴스",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "나경원": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-12T21:20:00+09:00",
+      "lastSeen": "2026-11-12T21:20:00+09:00",
+      "news": [
+        {
+          "title": "나경원 \"당나라 군대냐\" 지적에 강신철 \"말씀 취소하라\" 반발",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865059_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "나경원 \"당나라 군대냐\"…국방부 장관 \"취소해달라\" 발끈 [소셜픽]",
+          "url": "https://news.jtbc.co.kr/article/NB12327681",
+          "source": "JTBC",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "예결위서 안보·조작기소 특검 공방…野 \"정치 논리 개입\" 與 \"안보 정쟁화\"(종합)",
+          "url": "https://www.newsis.com/view/NISX20261112_0003866181",
+          "source": "뉴시스",
+          "date": "2026-11-12"
+        }
+      ]
     }
   },
   "sections": {
