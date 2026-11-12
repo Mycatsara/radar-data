@@ -501,6 +501,266 @@
           "date": "2026-11-11"
         }
       ]
+    },
+    "소방": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-12T12:44:00+09:00",
+      "lastSeen": "2026-11-12T12:44:00+09:00",
+      "news": [
+        {
+          "title": "창녕군-소방서 합동훈련 실시…40여 명 참여, 화재대응 실습",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749714",
+          "source": "국제뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "함평군 보건소, 함평소방서와 함께한 합동 소방 훈련 성료",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=803063",
+          "source": "일간투데이",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "금산군의회, 소방서와 합동 소방훈련…청사 화재 상황 가정",
+          "url": "https://www.news1.kr/local/daejeon-chungnam/6348873",
+          "source": "뉴스1",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "apbc 중계": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-12T12:44:00+09:00",
+      "lastSeen": "2026-11-12T12:44:00+09:00",
+      "news": [
+        {
+          "title": "슈퍼스타 김도영, 도쿄돔을 휘저어라…12일 호주와 APBC 첫 경기",
+          "url": "https://www.yna.co.kr/view/AKR20261111095900007",
+          "source": "연합뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "선발 전환하자마자 국제대회까지…韓 우승 길목에서 중책 맡았다 \"SSG 위상 높이려면 우리가 잘해야\" [오!쎈 도쿄] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/12/202611121111771013O",
+          "source": "머니투데이",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "컴투스, '2026 아시아 프로야구 챔피언십' 한국 대표팀 공식 후원",
+          "url": "https://zdnet.co.kr/view/?no=20261111140130",
+          "source": "지디넷코리아",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "류효승": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-12T12:44:00+09:00",
+      "lastSeen": "2026-11-12T12:44:00+09:00",
+      "news": [
+        {
+          "title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710823",
+          "source": "KBS 뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "[공식발표] ‘SK→KIA→SSG’ 37살 우승 포수 전격 방출…‘고작 30살’ 거포 유망주 은퇴 선언 ‘SSG 선수단 칼바람’ - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/12/202611121010778945O",
+          "source": "머니투데이",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "프로야구 SSG, 김민식·류효승 등 5명 방출…선수단 재정비",
+          "url": "https://www.news1.kr/sports/baseball/6351552",
+          "source": "뉴스1",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "sk그룹": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-12T12:44:00+09:00",
+      "lastSeen": "2026-11-12T12:44:00+09:00",
+      "news": [
+        {
+          "title": "SK그룹, 최태원 주재 CEO 세미나 연다…AI 사업 전략 점검",
+          "url": "https://www.donga.com/news/Economy/article/all/20261111/135007966/1",
+          "source": "동아일보",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "SK그룹, 최태원 주재 CEO 세미나 시작…2박3일 간 ‘AI’ 놓고 토론",
+          "url": "https://biz.chosun.com/industry/company/2026/11/12/56NA3KFCVZF4VGFGBTNQDQ32EM/",
+          "source": "Chosunbiz",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "[리포트 브리핑]SK, '포트폴리오 및 주주환원 강화 기대' 목표가 680,000원 - NH투자증권",
+          "url": "https://www.newspim.com/news/view/20261111000965",
+          "source": "뉴스핌",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "던파": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-12T12:44:00+09:00",
+      "lastSeen": "2026-11-12T12:44:00+09:00",
+      "news": [
+        {
+          "title": "넥슨·크래프톤 1위 쟁탈전 격화…AI·신작 강화로 수익성 방어 총력",
+          "url": "https://view.asiae.co.kr/article/2026111109253701835",
+          "source": "아시아경제",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "[속보] 넥슨, 3분기 영업익 3718억원…매출 1조2312억원 By EBN",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2169714",
+          "source": "Investing.com 한국어",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "[단독] \"창립 이래 최대 위기\"…'게임 1위' 넥슨에 무슨 일이",
+          "url": "https://www.hankyung.com/article/2026111084471",
+          "source": "한국경제",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "베이비몬스터": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-12T12:44:00+09:00",
+      "lastSeen": "2026-11-12T12:44:00+09:00",
+      "news": [
+        {
+          "title": "지수·이날치·NCT·베몬, 내년 ‘코첼라’ 선다",
+          "url": "https://www.khan.co.kr/article/202611111901001",
+          "source": "경향신문",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "내년 코첼라 NCT 무대 베일 벗었다…127·드림, 동반 출격·합동 무대",
+          "url": "https://www.newsis.com/view/NISX20261112_0003864880",
+          "source": "뉴시스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "블랙핑크부터 빅뱅까지..YG가 코첼라에서 쓴 역사, 다음은 베이비몬스터 [Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/music/2026/11/12/GFSDEYRRGU3TANRSGRTGCYRVMQ/",
+          "source": "조선일보",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "이슬람 혁명 수비대": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-12T12:44:00+09:00",
+      "lastSeen": "2026-11-12T12:44:00+09:00",
+      "news": [
+        {
+          "title": "이란, ‘미사일 도시’ 공개…트럼프 “전쟁 곧 끝날 것”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710572",
+          "source": "KBS 뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "이란 안보수장 \"美 공격 시 유럽에 있는 미국 군사기지도 공격 가능\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444274",
+          "source": "연합인포맥스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "이란측 “美 ‘공격 불필요’는 기만, 곧 공습…우리가 선제공격할 수도”",
+          "url": "https://www.donga.com/news/Inter/article/all/20261112/135012496/1",
+          "source": "동아일보",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "천무 다연장로켓": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-12T12:44:00+09:00",
+      "lastSeen": "2026-11-12T12:44:00+09:00",
+      "news": [
+        {
+          "title": "한화, 美해상서 ‘천무’ 쏜다… 방산·조선 동시 확장",
+          "url": "https://www.sedaily.com/article/20112039",
+          "source": "서울경제",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "203조 투자 약속했지만 美 군함 발주는 아직…K-조선, 정책 분수령",
+          "url": "https://news.tf.co.kr/read/economy/2387591.htm",
+          "source": "더팩트",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "한화, 美상륙함 수주·태국 호위함 우선협상…글로벌 경쟁력 입증",
+          "url": "https://www.asiatime.co.kr/article/20261110500200",
+          "source": "아시아타임즈",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "제주항공": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-12T12:44:00+09:00",
+      "lastSeen": "2026-11-12T12:44:00+09:00",
+      "news": [
+        {
+          "title": "제주항공 주식 하락, 쪼그라든 제주도 자산? \"주식이 다가 아니다\"",
+          "url": "https://www.mediajeju.com/news/articleView.html?idxno=367301",
+          "source": "미디어제주",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "제주도 '제주항공 주식' 평가액 319억 증발…지분율도 25→3% 뚝",
+          "url": "https://www.news1.kr/local/jeju/6350354",
+          "source": "뉴스1",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "제주도, 제주항공 지분율 ‘뚝’…“대안 필요”",
+          "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=402222",
+          "source": "제주도민일보",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "jyp": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-12T12:44:00+09:00",
+      "lastSeen": "2026-11-12T12:44:00+09:00",
+      "news": [
+        {
+          "title": "Eugene Securities raises JYP Ent target as Stray Kids fuel Western gains",
+          "url": "https://biz.chosun.com/en/en-finance/2026/11/12/RSYHOSBQONFVNNXQJ2TGOCGSUE/",
+          "source": "Chosunbiz",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "JYP posts surprise earnings led by Stray Kids; rookie success is the next challenge",
+          "url": "https://en.fnnews.com/news/202611120722287101",
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "JYP Entertainment Jumps 18% on Stray Kids Album Sales",
+          "url": "https://en.sedaily.com/market/2026/11/12/jyp-entertainment-jumps-18-percent-on-stray-kids-album-sales",
+          "source": "Seoul Economic Daily",
+          "date": "2026-11-12"
+        }
+      ]
     }
   },
   "sections": {
@@ -1052,6 +1312,60 @@
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Xckpjd1EtQUxVM0pMZXJZSTduQ2tpTFFMV3FtdzBCV0diUE5pQm5YdXJHeFYtNzhnZ20tYkxVcEgwek5xU0RScXdpZHF4QXZIS2NhX0hwWXlhM3UtTU9yN3E0OS1jSDRDY2NJY2JyTFFpcExYSlE0UjZoZnZjT3M?oc=5",
         "source": "조선일보",
         "date": "2026-11-10"
+      },
+      {
+        "title": "젠슨 황, 엔비디아 부사장과도 외도 의혹…“이사회 해임 준비”",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tRHRGYXRCMGNWejBfSENzNXpjSUVHbWdUXzhPbTRuSlNnUHctRnJ6NFlyd2p5dF9XYW4wZnBZb21KdlhYeW5jVzc1aGhtdnphQ1RsNXZhcU5LTlQzVmE1cmtHVmJJVUk4TjJOSEpUTQ?oc=5",
+        "source": "한겨레",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "[르포] “있는 줄도 몰랐어요”… 평촌 아파트 옆 데이터센터 가보니",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGNKTnlabTdSbWY1SU5jaWp5d2FMOWdwLUx6T3gySHMwbEgybHMtanJMYXhGakFBdWVKdjhxVzItMkQzT1VPekdwVTNKb1hrclIzUHNuYU14Zy1RSUNZc3VmR3J6VTMtQW5MRGJIdGZxWVZkY2xfVlo2bWFSWFlEcG5VR2p5TmptLWfSAZ4BQVVfeXFMTjhIRWl4MzctR29DUU9FWTRQYUU0aUF3Zi1KTkZxNXJTbERFWDhXb3poLXRyZlRBdFR4NEctNkx6dGMydy1jcjJSSU1xR093cXk2NGVOREJ4SV8wTjlZR3R1cXFPZFJSb2g2SmZpTXAwRi1aQWt5cndCb19VY29qd0lqeVVuTk1uaVd4R0ZkNHozeTR6bmZSa2YwZTZ4VFE?oc=5",
+        "source": "Chosunbiz",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\"장밋빛 데이터센터? 우리에겐 고통\"",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT1ZEVU5QRDhFUFNMRGV0anlFM0NTVENHN2E4UEtYR01UcTV4bWNtZ1ppMlFXamFKNGtsMmlfbVI0M01XaDExUEVrS044bXo3NS1QYkxzb1RQbnhkWkRSZ0Z1WW5VWnB6aVNFY0hwYnlwbEttX1RBMFVWa2h3SERUdkg4V1ZBNHRwN2hRUXpXM1Y4T293eTJLdmptQXB0dw?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "‘독주’ 한국 반도체, 1986년 일본처럼?…“경제안보 리스크 자극” 우려",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GTW1lb1Z4cVVyaE5lZ1NIU3RQQTM2cWlhbWZoblZiMnc0TEdiRWhjOUhJaWJWZVpvODhOWm5FQWRJUzZHSzZNZDJjUENyTDdydTZlY2k1ZnI4ZnNlYXFRT1dqUW03YnQxMEpHZ2NpUWNNdw?oc=5",
+        "source": "한겨레",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "야외서도 잘 보이는 AR 스마트글래스 나온다…렌즈는 얇게, 화면�� 선명하게",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVlhnZnZKN3hQWHVSaVpYLUd4ZTlnbWRDNGRaVjhZWV9wZy1iU09aZTRycWw4SnlZMFhqZUJ4SDNiTUVxaW5mZnEydTJDVXliSlkzRjVzZUN3R2VZWHpERng0MUI5S3BKMklhQTJ5Q3FtSnk0SFdydDA5VlNReUMyVnFydw?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "[속보]NYT \"젠슨 황, 엔비디아 직속 부하 임원과도 불륜 의혹\"",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iQkJFUGVNMjJudDVLQ1hGbldaYjNKRElNZk1JY05RSXFZQ0Ywc1BhQzNmTjV0MWpMWjBpNXJNMUFteTd2SGdid2ZzZEl0b2QtVVRDUWZ5WktnY0YyX0FGVzB2RXnSAXhBVV95cUxOcWlqWkxDQnk5OUYwbHJlWXNQOTJnajg0Z29CZVQ5ck9oQmN3cXpDazdIc0IyTmNLU0FCN2lmZzNnWkNpYXNFajBXMjdfempmcE15TGYwMlVnVDFHZFVwVUtjc28wc21SWUplUEJBbHlaRWhGZHBlVng?oc=5",
+        "source": "뉴시스",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "휴대폰 비번, 뒤에서 엿보면 고양이 그림으로",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0xsX2tSMzU2R0tJa21kWjJyZ1BtbjNrRFZYZHRiODhyLTd4OVVsRk1XejFLQWRLdTZXUU1qUHQ4OFQxam13UWd5TlhvaEgwQkdUeDZiY1ZRTnZvMnQ4MnI4NnpCQmU3TEZHSE5Qd0tMeW45RFdOOW1qYTdfVjlIMnpiTQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "[비즈톡톡] 메모리값 급등 속 삼성의 고가폰 확대 전략… 여권형 폴더블 이어 ‘작은 울트라’ 나올까",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUlg4YXlYWEFFVjFXYUpqZ1pBekprYUc2Y2NLZFh2Q1JBbThUazBhY3hBTVRCVmZlWlV1SjFPU0pzMVhaM1poNGFDU0Z6dlAzdnFxdUhOQmJ3bGpHbDBWZjlkTklmRmJFUzlXbnh6S1lCQUludUxqcFpGX1RWTmFXczNn0gGWAUFVX3lxTFB6ejd0WV9JakZUX0VzR2xZTEVSbU1oTHNXTjVFLVZRMkZvUGw4aTBwZWJrbjh2LTBabUdtbEw4RHI4RGVybGU2ZUNJeUpwWFQybzBWUElHMXRKV2dzZ2VTaC1Sc3hHR2Y3SGpyT2VYZmE3dUU5ay1GakNPM0xGclI3N0pqRUdXYnc0NUhMeVBOVWNBYWEyZw?oc=5",
+        "source": "Chosunbiz",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "MSCI 지수서 퇴출된 스트래티지, 시간외 1.7% 하락…28억달러 매도 우려(종합)",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tVWRYSjJmMHRfMjcwRkhRWTdPQ1B4ek9yVDdGTHY5aDBvUGxTeXJRcmJoQjFOdk5xWVlrQkFEYWpuVV9LME1raGFwbGZzZTJSMmJCZFZZSDk?oc=5",
+        "source": "블록미디어",
+        "date": "2026-11-11"
       }
     ],
     "ENTERTAINMENT": [
