@@ -222,6 +222,266 @@
           "date": "2026-11-13"
         }
       ]
+    },
+    "weather": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-14T07:46:00+09:00",
+      "lastSeen": "2026-11-14T07:46:00+09:00",
+      "news": [
+        {
+          "title": "Live updates: FAA issues nationwide ground stop for all flights",
+          "url": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
+          "source": "CNN",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Flights grounded at all US airports due to air traffic control ‘communication issue’, transport secretary says – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+          "source": "The Guardian",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Breaking: US aviation administration orders grounding of all flights",
+          "url": "https://www.abc.net.au/news/2026-11-14/us-aviation-admin-orders-grounding-of-all-flights/107385702",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "天气": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-14T07:46:00+09:00",
+      "lastSeen": "2026-11-14T07:46:00+09:00",
+      "news": [
+        {
+          "title": "2026年11月14日，义安省天气预报：气温28摄氏度，早晨有雾，少量降雨。",
+          "url": "https://www.vietnam.vn/zh-cn/thoi-tiet-nghe-an-hom-nay-14-11-2026-troi-am-len-28c-sang-co-suong-mu-it-mua",
+          "source": "Vietnam.vn",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "最新天气消息｜黄色暴雨警告信号一度生效 凌晨5时30分取消",
+          "url": "https://global.hk01.com/%E5%A4%A9%E6%B0%94/60410538/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%94%E6%B6%88%E6%81%AF-%E9%BB%84%E8%89%B2%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A%E4%BF%A1%E5%8F%B7%E4%B8%80%E5%BA%A6%E7%94%9F%E6%95%88-%E5%87%8C%E6%99%A85%E6%97%B630%E5%88%86%E5%8F%96%E6%B6%88",
+          "source": "香港01",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "本港广泛地区下暴雨进行电力工作须注意安全｜即时新闻｜中港台｜on.cc东网",
+          "url": "https://hk.on.cc/hk/bkn/cnt/news/20261114/bkn-20261114040551299-1114_00822_001_cn.html",
+          "source": "on.cc東網",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "สภาพอากาศ": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-14T07:46:00+09:00",
+      "lastSeen": "2026-11-14T07:46:00+09:00",
+      "news": [
+        {
+          "title": "สภาพอากาศวันนี้ -19 พ.ย.ลมหนาวพักยก ไทยอุณหภูมิสูงขึ้น ฝนฟ้าคะนองบางแห่ง",
+          "url": "https://www.thansettakij.com/general-news/673733",
+          "source": "thansettakij",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "ชุมพรอ่วมฝนถล่มข้ามคืน น้ำท่วมถนนหลายสาย โรงพยาบาลเร่งป���องกันน้ำเข้า CT-SCAN",
+          "url": "https://www.topnews.co.th/news/1746285",
+          "source": "www.topnews.co.th",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "เตือนภาคใต้ ยังมีฝนตกหนัก 70% เสี่ยงน้ำท่วมฉับพลัน | 13 พ.ย. 69 | ข่าวเย็นไทยรัฐ",
+          "url": "https://www.thairath.co.th/video/channel/thairath_news/thairath-evening-news/1199340",
+          "source": "www.thairath.co.th",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "погода": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-14T07:46:00+09:00",
+      "lastSeen": "2026-11-14T07:46:00+09:00",
+      "news": [
+        {
+          "title": "Петербург стал другим. Фоторепортаж «Фонтанки» с улиц",
+          "url": "https://www.fontanka.ru/2026/11/13/76763284/",
+          "source": "ФОНТАНКА.ру",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "В Санкт-Петербурге выпал первый снег",
+          "url": "https://www.gismeteo.ru/news/weather/v-sankt-peterburge-vypal-pervyj-sneg-2/",
+          "source": "GISMETEO.Новости",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Ни зима, ни осень: Петербург 12 ноября накроет мокрая «каша» с Атлантики",
+          "url": "https://www.rosbalt.ru/news/2026-11-12/ni-zima-ni-osen-peterburg-12-noyabrya-nakroet-mokraya-kasha-s-atlantiki-5730216",
+          "source": "rosbalt.ru",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "天気": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-14T07:46:00+09:00",
+      "lastSeen": "2026-11-14T07:46:00+09:00",
+      "news": [
+        {
+          "title": "【冬の嵐】18日（水）「台風並み」に発達する低気圧 大雨だけでなく「暴風と高波」にも警戒【3時間ごと雨風シミュレーション19日（木）まで／ 3連休まで天気予報（23日まで）】気象庁",
+          "url": "https://newsdig.tbs.co.jp/articles/gallery/3085472",
+          "source": "TBS NEWS DIG",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "週間天気予報 明日は広く本降りの雨 来週中頃は全国的に荒天注意",
+          "url": "https://weathernews.jp/news/202611/140031/",
+          "source": "ウェザーニュース",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "【11/14朝イチ！】 秋晴れは北へ 西から雨雲",
+          "url": "https://topic.life-ranger.jp/%E6%9C%9D%E3%82%A4%E3%83%81/120649/",
+          "source": "mopita",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "김하성": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-14T07:46:00+09:00",
+      "lastSeen": "2026-11-14T07:46:00+09:00",
+      "news": [
+        {
+          "title": "한국 돌아갈 일 없다! 타율 .116 최악의 해였는데…김하성 FA 인기 폭발 \"예상보다 높은 관심, 1년 계약 모색\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/13/202611121142773551O",
+          "source": "머니투데이",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "타격 부진에 FA 인기 걱정했는데‥\"필라델피아, 김하성 영입 검토\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864665_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "'김하성 시애틀 링크' 초대박! 가성비 선택지 3인 거론→3루수 활용 가능성까지…부상 없이 타격 생산성 회복 기대",
+          "url": "https://www.sportschosun.com/baseball/2026-11-12/202611120100087870008295",
+          "source": "스포츠조선",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "중앙일보": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-14T07:46:00+09:00",
+      "lastSeen": "2026-11-14T07:46:00+09:00",
+      "news": [
+        {
+          "title": "용산구, '용산형 생활안심디자인'으로 대한민국 범죄예방대상 경찰청장 표창 수상",
+          "url": "https://www.yna.co.kr/view/RPR20261113001700353",
+          "source": "연합뉴스",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "안성 여성가구 안심특구 효과 톡톡…112신고 21.3% 감소",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867261",
+          "source": "뉴시스",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "김해외국인근로자지원센터, 범죄예방대상 국무총리표창",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721843",
+          "source": "뉴스타운",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "제네시스 gv90": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-14T07:46:00+09:00",
+      "lastSeen": "2026-11-14T07:46:00+09:00",
+      "news": [
+        {
+          "title": "제네시스 GV90 계약 시작, 1억 3,950만원부터 2억 4,710만원까지",
+          "url": "https://story.pay.naver.com/content/3927_24_C62",
+          "source": "네이버페이 머니스토리",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "\"차가 아니라 호텔방?\"…제네시스가 내놓은 2억짜리 SUV",
+          "url": "https://www.hankyung.com/article/202611110499g",
+          "source": "한국경제",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "[경제 단신] 전동화 ‘GV90’ 출시… 최고 2억3950만원 외",
+          "url": "https://www.segye.com/newsView/20261110515889",
+          "source": "세계일보",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "은행나무": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-14T07:46:00+09:00",
+      "lastSeen": "2026-11-14T07:46:00+09:00",
+      "news": [
+        {
+          "title": "100살 넘은 은행나무에 제초제‥환기미술관장 등 3명 송치",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6865440_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "'은행나무 독살' 의혹 부암동 환기미술관장 재물손괴로 송치",
+          "url": "https://www.yna.co.kr/view/AKR20261113102300004",
+          "source": "연합뉴스",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "“100년 넘은 은행나무를 이렇게까지?” 뿌리에 구멍 뚫고 제초제…유명 미술관장 송치",
+          "url": "https://www.sedaily.com/article/20113913",
+          "source": "서울경제",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "디에고 시메오네": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-14T07:46:00+09:00",
+      "lastSeen": "2026-11-14T07:46:00+09:00",
+      "news": [
+        {
+          "title": "'이강인은 60분 만에 뺐으면서...' 시메오네 감독의 단호한 한마디 \"알바레스는 교체하지 않을 거야\"... 스페인 현지서도 논란 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111108070646917",
+          "source": "머니투데이",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "\"이강인이 공만 잡으면 축구가 달라진다\"…바르샤전 패배에도 스페인 언론이 감탄한 이유",
+          "url": "https://star.fnnews.com/article/202611091910232899",
+          "source": "fn스타",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "'참담했던 일주일, 점유율 축구가 무너졌다'…'이강인 활약' 아틀레티코, UCL 토너먼트 진출·라리가 우승 경쟁 흔들",
+          "url": "https://mydaily.co.kr/page/view/2026111209391266820",
+          "source": "마이데일리",
+          "date": "2026-11-13"
+        }
+      ]
     }
   },
   "sections": {
@@ -616,6 +876,54 @@
         "title": "‘엔비디아 사단’도 줄폭락…‘충격 못 견딘’ 삼전닉스",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pTzBRZFMtZDVvREdGN2ctTnZYZkFyZ25CcmMzbGVUOHhnaGhvUW1TakNvNnFkaGl5VFZrR00xUVNjRUNhbURyclJwV2lhRmRzRUFtLQ?oc=5",
         "source": "JTBC",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "젠슨 황 “난 쓰레기 같은 놈” 무너져…“그녀들이 걱정”",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MNW5oQThoTDJkRE9VQkUyZE9pQUptS25ieE5xUGhzRHZ2V0JHeDRxbm1MZzNpekJxOS05Ty10bW5fX09jS3M5dXNtUkdEc0pTYVZYbV9NbXRaODdCS2RDNHJKcWxIb3ppc1Eza0hXV2xGZE3SAWZBVV95cUxQNnFsV1JZdk5oa3BCR0k5TFhQZVZLbzVhSi1yNGM1c19EWENaY1czeUdEbjBKU01ITURHeUhOb2FhSUtZUmhHRzBpX3hlOHJpY1R6ajNzY1B0UDZVcDRWVTdfSVZ4LVE?oc=5",
+        "source": "동아일보",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "MS 아웃룩·AI 대규모 접속 장애…\"'인프라 부하' 원인 추정\" - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sU2tzSlJRd3FsQS1fRTJvT0pabWIzLU9OcTRsMFM4OV9FaWxneFRiXzJjZUpEYjdDVzUwcHdQazBObFJIS3Jyc0RqRm5WRmpkdGdBZk4xaDV5QVhCOWdnV0xVM05qRHIy0gFuQVVfeXFMTUw4TGVDSFA4WFRmd1F3Xy1zUzAyZDZSR2dkazluWmFlcmZzbnRZdjRxTm8yODVXSlA3WGRZbU80UGlPZ3B0NDRFUGI1MXFFNnJqcEwza3FCZGpQZW8zN1NoOXc3TVpITVJuNVR2V2c?oc=5",
+        "source": "머니투데이",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBNzJHZ0lTVWlLY0RISDhSel9HZnp4ZHJlcy1icXlVQVpQdmprd1FFZDFlYUxXZWkyQmdYM0dHaVFkX1hTbHB3MmNPX0p6RHA0blE?oc=5",
+        "source": "매일경제",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "[책과 삶]이세돌 꺾고 노벨상 받은 천재도 예상 못했다···챗GPT가 뒤집은 AI 전쟁",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pamhKU3VuRmdCSTB0LWg4QnJQY0VGS3VqTUc0d2dLemxFTWlVeVNZdnhiSDl0c0wxWUVfX1pVd1NNY0Z3V3B3aVZZbWlSaG9pRHhmTlNBOHprd9IBX0FVX3lxTE9pamNCRm1QLVNja19ITGZZRDNQMi1oZ2F4ckNRN2JqOWhhSGVGazNxNUxYZVpscDZjZzBnQWsyUGJkRy1mNzUwUWFxNjlILUdjYlV1Z0VNTTJJNlpheEhr?oc=5",
+        "source": "경향신문",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "삼성 첫 스마트안경 예약판매 시작…제미나이 장착, 가격 65만~75만원",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JUExVbldETXBYWmJxOE1NTUJTWDJIOGtHNmd0RlRtdTI4ZzF0NkM5V2hSRTc1TFltQUVqWXJXT0xTaS1SeHhSRWNnamU0ZEkyUEFTRGg0TC10UdIBX0FVX3lxTE1YenpRM0NfTXE2TVhuY3NzVUtyRGZKZUgwMFZmY2xra1hDaWl0c3NKdktrX2tEdTd3LUZsWXU3T19Vcm1FdmtnUlVKMVllX3NiQkxWYlpIUHdqSVhtdEpN?oc=5",
+        "source": "경향신문",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "스페이스X, 美 텍사스·애리조나에 데이터센터 2곳 건설…740억달러 투자",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ka0dianA2Wkx4VEwyTWhYVVNfNlF6RTRFQzBzbklRNnFHNGctN0xNc3EwNlpRaVFLaDNDUDdrbjU4eThqelhrc3hnMzY2UTVhaHNIejJDN003azZEeWtMMzRJZE9YRlZ0dmZOUGNLRHU?oc=5",
+        "source": "연합인포맥스",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "레인보우로보틱스, 두 발 대신 바퀴 택했다",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81cmFxRl9IS0tmekYyak1XNW5MRWI0S1ZEdmZoT082bWFmNmItS3hfRk83Z3N2QUF2VFVaVlliSUJ2dElNWUpuejBtYkVtTmRFSHkxV3Z3?oc=5",
+        "source": "지디넷코리아",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "구글 지도 19년 만에 빗장 풀렸다 … 한국서 자동차·도보 길찾기 길 열려",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YTGc0cld0dHNObzVjYkVEU3J2Mjk1RTVjaXFBclB0QV90X3NBWTV5d2JONmtJLXNWN1FFNzRaZnUxamlTLXJQRDZSM0k0aEFvQzRKTWFzaDM2ZHZqLTJCUXBybURPQzNNVEJqOUM0SVFKaTNDWC03YS1Fa9IBgAFBVV95cUxNYzRrdXdLUnNOclI1MFYyZ3FPSG40eS1EVzV6VWpKbXIxTXg4YXB5b3MwNnJvanY5SVRPb3luTWV3V3I5TGVJeW9EbU1rX3VZUEVNTTkydkU1QTh4YS1JM1BuMVIybTVpNUdKZUpBRF9iLWNtUU8xUkZ3SVpxZFlfdw?oc=5",
+        "source": "뉴데일리 경제",
         "date": "2026-11-13"
       }
     ],
@@ -1136,6 +1444,90 @@
         "title": "[단독] ‘KT 큰 아들’ 유한준, 2군 감독 됐다…1군 타격 코치는 박경수 확정",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RX0ZXZVdxaDZUQ19oZExJZmhUVVhmeU5iTklFZ21XR1RKU3V0Z3VFZC0zcWFZUzRudzRpQ0pUYlphV2lOczhZWFlFdFBrc1NLWGdpTFVKaTBaTVl4RVHSAWNBVV95cUxOYjhJYzE2Uk5LbDlLcElJbkZQaENXbzE2VkhwcWN0bzgzSFcwek0wX281YmR6Mkh2Y0tNa0c1aFhYa2kxQ0MtWmRha2NXbmVfaS1kVjFieDk0bEJpWjdISjdLUE0?oc=5",
         "source": "스포츠경향",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "불화설 털어내고 나섰지만…한국 축구, 사우디에 21년 만의 충격패",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lOUczTGxIdjdXREtJQ3d2ZEpPanNUeDRhS0tDWGpMelhKSlROUGhLTThteU9WSlplbm9kN0E5R09WdWZhVDRWclc0MVctQlY0RHlwM09hVmgtT21VMDM0Rkx1eG45T00xZHFqOFNtTVhXOTFyY3fSAWZBVV95cUxQb0tjQXFGakQ4U1pYNUFycHhMWDdlZUxWZDJLTUlQbkNualIzRzNua042S0hRQkdfdmFtMXptNllDMzUzVHdxdlo2eWpEbVJjbVR2MUl2Q3FnV2VoSTBVN0pTdWRMdVE?oc=5",
+        "source": "동아일보",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "[APBC] '이대호 후계자' 롯데 한동희, 장타 두 방 쾅쾅...한일전 패배 속 빛난 4번타자 품격",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yNHc1SXNzLXB6WWxSMElDUVhDa3VtdW04VWZEZTYyQmkwdTJBS0pOdmNjRGhkdUM3MTdWdXdidnZZTkZvM0JfVHJtMENEZl9YOFJrREJUOElSZw?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "삼성물산 패션, 삼성라이온즈 우승 기념 할인 행사 진행",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsczMzR3B5SDRRTlZLMDZVeFhIZERmeFZSQ0pmdi1kSkZMcWQ1am8xUlcwZUdzSHZJaGRzY1Y1V29HS0QwS085YnJUSGhoVDZHWTcyUlYzVTdMTldRdkprc1F2V2s?oc=5",
+        "source": "매일일보",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "'744억' 쓰고 떠난 손혁 단장, '큰 손' 한화 FA 중견수 사올까…김호령 최지훈 홍창기 배정대 등 매물은 많다",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXNxOGE4ajFuNUh0bFgyOHFJV2JGelpTQlo2MXF3WkFwWVFyVXFiRU5ySGlxOFFZZlRnbGF4aGpRX3hGTzBUUTFRY01sV3NoNF9RNnVzYzhZSFJjNzhNcUp4aXAzWWVQQUFGeEgtTlpVRTJncDVib0UtenVhQkwyQ0xVRQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "“내 사랑은 결코 꺼지지 않아” 캐릭 감독, 맨유 팬들에게 남긴 마지막 편지···“이 구단을 이끌 수 있어 영광...",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtUE1KUHpwcndMZnAtc3Fnb0NJVzM1Rk92azhyaFVsd1ViWUZKV1p2d3RtZVQ2X3Z0c0pRb01HZFhfaGpZSC1IVUh1aGQxdDR5dEE5NDR3enMyTFlWRnfSAWNBVV95cUxOWXB6aXV1a0pKcFRzMy1pU0g4YmIzTmR1N2Z6UEhKZWc1eXNQSzN0RnNXMUtLclZMTWhkY19WTVRSUFd2WEE3bk5HV2E2TVN2THdtN1RCZlY0WDg0UDZYRDk2MUE?oc=5",
+        "source": "스포츠경향",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "韓 U-23 대표팀, 야구월드컵서 대만에 1-6 완패…슈퍼라운드 최하위 추락",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oa1I2S2dYUjl5YkR2MVpvOTVsTVpzQ05oSktxdmdNenFrVTNFMzFSd0pJNktKY210Q3F1Tk5SWXk4LWE5WFZCa2E4TzB5b3R3ZEZyNElwTl9SZw?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "中 3위 바둑기사 꺾었다! 변상일, 신진서와 함께 삼성화재배 8강행",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56Y3ZSUkRITzJQSm41WDZOYS1ub2ZTN0lheWdsR0NLOXQ1QWtnMnlEc0RDTWxuRmQ4M1QzX21tYTNXcWE2YTBhZGd6aEhmOGJ3LXZ2R3dHNE1fa0N2a2lpYW9DamJiak9xYThGcQ?oc=5",
+        "source": "서울신문",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "[영상] ‘세미 프로’ 호주에 진 한국 야구의 씁쓸한 현실",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LYTc2dVZ3d3p5SmRHNElXQ3ZKQWRraTNSa2kxQklHZDRNanRwdUhRR0JlT09VbHBnMVczRVA4QlEySFVVaTZIRFFkWVZoOThfRDlwWEZQQjh0enc?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "최혜진, LPGA 투어 디안니카 1R 9언더파 선두…첫 우승 재도전",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WcDQzc0N2WEV2UVlIcXR3MjJlaTR6bXhkYTdJLTFXVXJwcWtBREhqM0NMQnhWUHp6VVF0LU40WGptSmpEeXpZa2lIbTJmR3FocU4zQVVvNDNLNFHSAWBBVV95cUxQREpMaU1ER3FSUkJVcXgxVm4td3VUOFV5b2tyT2NHellIWGFOU0VtVnRhUnZMWWhWZ3hEaGFvYTU1RDFhcWJpM0phbWdVWXhCYUxPRlZQRWFQU3llOEd3NWc?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "“김치맨” 조롱에 항의한 박항서, 결국 징계 처분…2경기 출전정지",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sTmR3TkVsTTRadmVtQkltSFMxWTV6T29Uc1hkNHc4YXNQanZ5dmZGa1BUTmk2cjlqbXRyRmNxb3JtdnRnMVNLYk92cTMzaTJ3c0paTlZYV1FmTmJUNkHSAWNBVV95cUxQX3pWVVVZZ2hzLVNJTGZqb3phelNWYlo3bjJmU2JTRGNMeFUyYnRqeTN3TFBSVS11c05QcXY5SjJYOTVROU1KTVFqc244QjlMQVNyNFMxcUdkY0xvcWpTX0V4djA?oc=5",
+        "source": "채널A",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "‘200만弗의 사나이’ 오스틴, 외인 타자 최고액 연봉",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DajQ2M2t2bVlJRTZCLWtUVjRreVBJTzZJTUczazBXbUxjY1RBYk9FWmZGbkpkOHJDbEE1M0o2ZnJrQXdZcEtBcmV4T2RKUDlFdWRhTU9YTTV1ZzZMTXRnaXZJWVBCLXRBWHlWTEVRRU5pYUozczVleQ?oc=5",
+        "source": "서울신문",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "태권도 혼성단체전, 올림픽 메달 종목 첫선…청소년대회서 데뷔",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBERmU1NWFoVzBLNnl1LWlkZ1I5NHRuWjRkT212Wm5xWE9PNlpsLVZBZjJsQnVNTFg3c3VTd2J6R3hBeWtMNi1DMEJLbm9CdXZod1hFdV9pV1pBeFU?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "G리그 립시티 선발 출전 활약…이현중의 NBA가 시작됐다",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vRlpxZ3lzWkJndUlHNVJPYVJyeGo0SXFLR1FrMk9wMS1veWlMakIwMHRlb3EtRVR5MEwzQmhCV1MxSmlSTEVHS2czOEtFQWtpRDlqMm12ZU03ZllRb0xsWTBjMWE5QWFfY3c?oc=5",
+        "source": "한겨레",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "이탈리아, 지단의 프랑스 첫 패 안겼다…64년 만에 안방 승리",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSlNmZ2dxbUh5Vy1tZjQ4ZElWd0dKR19pZkNKeFJLTFhocHUtLVpkS0FUMkRXazNPWWFtNExXUzVhSUhYRmx6ZjE1R3lzU1BESFd4REpRMWlkN2xhQWs0cW5IbUdkNjlNOVhZdzZNYmdtU0ZxMVhYTm5SX2J5SHVVRDlYRnp3UWFMOWNN?oc=5",
+        "source": "조선일보",
         "date": "2026-11-13"
       }
     ]
