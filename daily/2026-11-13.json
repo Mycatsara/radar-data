@@ -260,6 +260,266 @@
           "date": "2026-11-12"
         }
       ]
+    },
+    "gemini 4 hydrogen": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-13T10:22:00+09:00",
+      "lastSeen": "2026-11-13T10:22:00+09:00",
+      "news": [
+        {
+          "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+          "source": "blog.google",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Gemini 4 Carbon in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot/",
+          "source": "The GitHub Blog",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Google Search Evolves Into an AI Information Assistant... New AI Model 'Hydrogen' Deployed [Global AI Briefing]",
+          "url": "https://en.fnnews.com/news/202611130802050898",
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "m365": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-13T10:22:00+09:00",
+      "lastSeen": "2026-11-13T10:22:00+09:00",
+      "news": [
+        {
+          "title": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses",
+          "url": "https://www.crn.com/news/ai/2026/microsoft-starts-limiting-copilot-chat-usage-for-users-without-paid-licenses",
+          "source": "CRN",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "Microsoft extends undisclosed usage restrictions on Copilot Chat for enterprise users",
+          "url": "https://www.computerworld.com/article/4245658/microsoft-extends-undisclosed-usage-restrictions-on-copilot-chat-for-enterprise-users.html",
+          "source": "Computerworld",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "Copilot Chat has usage caps, and Microsoft would rather you found them by hitting them",
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814",
+          "source": "The Register",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "양승조": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-13T10:22:00+09:00",
+      "lastSeen": "2026-11-13T10:22:00+09:00",
+      "news": [
+        {
+          "title": "한국수자원공사 신임 사장에 양승조 전 충남지사",
+          "url": "https://www.yna.co.kr/view/AKR20261112179200063",
+          "source": "연합뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "수자원공사 17대 사장에 양승조 전 충남지사…13일 업무 시작",
+          "url": "https://www.news1.kr/local/daejeon-chungnam/6352895",
+          "source": "뉴스1",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "수자원공사 신임 사장에 양승조 전 충남지사 13일 취임",
+          "url": "https://www.newsis.com/view/NISX20261112_0003866325",
+          "source": "뉴시스",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "김영훈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-13T10:22:00+09:00",
+      "lastSeen": "2026-11-13T10:22:00+09:00",
+      "news": [
+        {
+          "title": "노동장관, 반도체 기업 간담회…초광역특구 사회적 대화에 참고",
+          "url": "https://www.yna.co.kr/view/AKR20261112178500530",
+          "source": "연합뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "김영훈, 삼성·SK 만나 반도체 근로시간 유연화 논의…메가특구 사회적대화 연계",
+          "url": "https://biz.heraldcorp.com/article/10935546",
+          "source": "헤럴드경제",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "김영훈, '주52시간 예외' 반도체 업계 의견 청취…\"좋은 일자리서 혁신\"",
+          "url": "https://www.newsis.com/view/NISX20261113_0003866582",
+          "source": "뉴시스",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "헤그세스": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-13T10:22:00+09:00",
+      "lastSeen": "2026-11-13T10:22:00+09:00",
+      "news": [
+        {
+          "title": "헤그세스, 자기 꾸짖은 병사에 훈장 수여… \"잘했다, 상병\"",
+          "url": "https://www.chosun.com/international/us/2026/11/13/NXMEZQGXVZED5NNRARRJ42TEQ4/",
+          "source": "조선일보",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "창피 뒤 반전 시도?…국립묘지서 떠든 미 국방, 꾸짖은 병사에 훈장",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261113083333TBx",
+          "source": "연합뉴스TV",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "국립묘지에서 웃고 떠들다 혼쭐난 '국방장관' 헤그세스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865260_37004.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "맨체스터 유나이티드 fc": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-13T10:22:00+09:00",
+      "lastSeen": "2026-11-13T10:22:00+09:00",
+      "news": [
+        {
+          "title": "맨유 새 감독에 포체티노 유력",
+          "url": "https://www.khan.co.kr/article/202611122023005",
+          "source": "경향신문",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "[오피셜]'40년만의 강등권' 맨유, 6개월만에 캐릭 '전격 경질'...훈련 중 포체티노 합의→'레전드' 향한 황당 대우에 \"역겹다\", \"소송감\" 비난 쇄도 중",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/13/MQ3TCMJSGQ3GIMBVME2TKNDFMU/",
+          "source": "조선일보",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "맨유, 포체티노 감독과 '구두 합의'…캐릭 경질 초읽기",
+          "url": "https://www.yna.co.kr/view/AKR20261112012700007",
+          "source": "연합뉴스",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "두산에너빌리티": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-13T10:22:00+09:00",
+      "lastSeen": "2026-11-13T10:22:00+09:00",
+      "news": [
+        {
+          "title": "'DL이앤씨·두산 협력사' 엑스에너지 미국 SMR 건설 승인, \"실제 착공 여부는 미지수\"",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451730",
+          "source": "비즈니스포스트",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "두산에너빌리티, NuScale 원자로 계약 체결: 034020, 상승세 이어갈까?",
+          "url": "https://tradersunion.com/ko/news/stocks/show/4206554-doosan-enerbility-slides-0-21percent-today/",
+          "source": "Traders Union",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "[두산에너빌���티의 2막②] 기술에 베팅한 두산…가스터빈에서 원전까지",
+          "url": "https://theviewers.co.kr/View.aspx?No=4306659",
+          "source": "뷰어스",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "정명훈": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-13T10:22:00+09:00",
+      "lastSeen": "2026-11-13T10:22:00+09:00",
+      "news": [
+        {
+          "title": "“정명훈 공연만 날린 게 아니다” 부산이 100억과 바꾼 것",
+          "url": "https://www.joongang.co.kr/article/25477943",
+          "source": "중앙일보",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "함신익과 심포니송, 내년 베토벤 200주기 기념 공연",
+          "url": "https://www.yna.co.kr/view/AKR20261112136700005",
+          "source": "연합뉴스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "[잇슈 컬처] 정명훈·정경화 남매, 3년 6개월 만에 한 무대",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709419",
+          "source": "KBS 뉴스",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "czech republic national football team vs spain national football team standings": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-13T10:22:00+09:00",
+      "lastSeen": "2026-11-13T10:22:00+09:00",
+      "news": [
+        {
+          "title": "Czech Republic 0-2 Spain: Comfortable win extends unbeaten run to 43 games",
+          "url": "https://www.bbc.com/sport/football/live/cwg5jrzyqzdnt",
+          "source": "BBC",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "Balde, Puig Lead Spain to 2-0 Victory",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/13/RGAKJQYST5EGHFSN6ZTTKW5TV4/",
+          "source": "조선일보",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "0-2: Cucurella and Huijsen, starters in Spain's victory against the Czech Republic",
+          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/cronica-republica-checa-espana-12-11-2026",
+          "source": "Real Madrid CF | Web Oficial",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    "미세먼지": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-13T10:22:00+09:00",
+      "lastSeen": "2026-11-13T10:22:00+09:00",
+      "news": [
+        {
+          "title": "올가을 첫 스모그 유입...수능 앞두고 기온 '뚝'",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611121106023296",
+          "source": "YTN 사이언스",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "[포토뉴스]초미세먼지에 갇힌 한강",
+          "url": "https://www.khan.co.kr/article/202611122106005",
+          "source": "경향신문",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "[날씨] 한낮 온화, 큰 일교차 주의…중서부 공기 질 나쁨",
+          "url": "https://www.yna.co.kr/view/MYH20261112013400038",
+          "source": "연합뉴스",
+          "date": "2026-11-12"
+        }
+      ]
     }
   },
   "sections": {
@@ -709,6 +969,36 @@
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iQkJFUGVNMjJudDVLQ1hGbldaYjNKRElNZk1JY05RSXFZQ0Ywc1BhQzNmTjV0MWpMWjBpNXJNMUFteTd2SGdid2ZzZEl0b2QtVVRDUWZ5WktnY0YyX0FGVzB2RXnSAXhBVV95cUxOcWlqWkxDQnk5OUYwbHJlWXNQOTJnajg0Z29CZVQ5ck9oQmN3cXpDazdIc0IyTmNLU0FCN2lmZzNnWkNpYXNFajBXMjdfempmcE15TGYwMlVnVDFHZFVwVUtjc28wc21SWUplUEJBbHlaRWhGZHBlVng?oc=5",
         "source": "뉴시스",
         "date": "2026-11-11"
+      },
+      {
+        "title": "젠슨 황, 사내 불륜도 걸렸다... \"엔비디아 이사회서 해임 준비\"",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSW9IRTc3bFNXVk1aUUxpM3gxd1ppeXExd1B1dGc1Wk1vTDQtNTlNcW50OTNyQ09YdDBJVGlqRm9WUlhhdmROcVotQTktYTdpRUViclR2bFpadVNUeG5FUkFsTU1PZ1pUSW5CRHdOd2l0TlhnR3BvdzVrWUVMcXhnNkc1SQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "MS 아웃룩·AI 대규모 접속 장애…\"'인프라 부하' 원인 추정\" - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sU2tzSlJRd3FsQS1fRTJvT0pabWIzLU9OcTRsMFM4OV9FaWxneFRiXzJjZUpEYjdDVzUwcHdQazBObFJIS3Jyc0RqRm5WRmpkdGdBZk4xaDV5QVhCOWdnV0xVM05qRHIy0gFuQVVfeXFMTUw4TGVDSFA4WFRmd1F3Xy1zUzAyZDZSR2dkazluWmFlcmZzbnRZdjRxTm8yODVXSlA3WGRZbU80UGlPZ3B0NDRFUGI1MXFFNnJqcEwza3FCZGpQZW8zN1NoOXc3TVpITVJuNVR2V2c?oc=5",
+        "source": "머니투데이",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "비행기처럼 우주선 재사용? 스페이스X, 통째 회수 나선다",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2tOaDRKd0stajBnOF9uZm5ueHdxRTJZbThreTlEMml0UW5UWXc1R0J0YlpfbGRuZU9od3ZhdlBIS2xpTFBGTHZmSDlfTERCWHdodXdHVk1zbk93MjBBNDZTeEwwSEdPeTZKSUt2el9DdjIzZ0dOVkVkOUh6bkpsTkh4bw?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "서동주 \"월급 전액 비트코인 투자…3개월 만에 3배\" - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EWXVnQUlyVk1VeUlReXhjNjNDV3NEdGw4Sjl0T1dCSG1BMi1fMzBBaERNOGU2VGc4QVQxQ0JVWGJlQTVubklHREVCWlhwWlM2SUVad3Q0cVJtMF9zdDJIVlN0allyXzlRdjYxbkltVFl6TEnSAXhBVV95cUxOVm84Wloxc1R1MG5rUllhMmVWQTQzUkVBQy1uaDNjRU9fenFnNmRuZThkUWlmazE5VGxiVDA4YjNVTWVfdGR1bTZDZFJaanZhM3N2Uy1YYk44X1pKV0oxdU5INllBRHU4bnlSRnJPcGYtMUkxUGtpb3c?oc=5",
+        "source": "머니투데이",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "강아지 산책시키는 ’로봇 개’ 포착…“똥은 치우냐“ 와글",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VSzdqSk1ORzgtZUl0T0dHdGQ1a21wVTd3V2xNbkttbUIyVmxWRFRtMDRJUUxYWk94MzZsOFJFR0Rka3MtY2dsWjlYb0ZXSHU0dVQxQ1F6UmdzT1YyVjBaek00TTZ5S00?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-11-12"
       }
     ],
     "ENTERTAINMENT": [
@@ -1283,6 +1573,36 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96dTAtOElYbktrdjFxZzhYaVRTNk12clZjT2VMWWZNREctTUtkeW5ya1cxaVhoS0t6NS14eWROV0hYdEdFMDd3YmxHNWljQ1g4M041QkNXMk9FT2xUNVFfMWpVVm9tdnBkbnJ1SnJaUm9CNVJYaWfSAWZBVV95cUxNLVZSTGlING1sbjhFUTluaW84N0ZqWXA3RUtRQTFiRVVqZ2FTemM2czFob0ZESDJ6R0hlT3VFUFE2VzJkdkFxZFJsbG9XbnBmRTdzem5KZXJSTUQ3clpqT3FybHVrbmc?oc=5",
         "source": "동아일보",
         "date": "2026-11-11"
+      },
+      {
+        "title": "주장 손흥민, ‘내분설’ 이후 첫 심경 고백…“팀이 건강해지는 과정이라 생각”",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BaWt5ai05TmZ5WlRIUDZPSWZtTG1kblNuMHEzY3pUVTdyZUkxN3h5LUlGVkk4bWVzamtVM3M2b1ZBdGtEUFczaW1LZmYycUt5Qnc5OWpMVGZRSXdfTFU2UmRjQ21Pdw?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "[APBC] KBO에선 홈런왕, 태극마크 달면 침묵…김도영의 풀리지 않는 숙제",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rT0NLaFFDcklLcUpfMmxzZE5CUEtBTGRSUzFvcm5TSEZVaHFXd1pYQ2ZPUEZIWlE3SjdKMWlzUTJtell2RkFlQnpEWDRWWTdNMFZLQjhBLVJjb09m?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "’최원태와 롤러코스터’ 프로야구 삼성, 에버랜드서 ’우승 공약’ 지킨다",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43cl9fdDBfeDY4cWN5ZzRfdkItbWcwRWhyQjZxWHN0d0NqalN5bi0yMkRFeVh1eHhIVk9lZDgyZmlpYjZGRTJXQUVGeXpERk05eC0tUVZhcjNpWTRWelQzVWVOUzNsT28?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "인종차별 당한 박항서 감독, 되레 태국서 2경기 출전정지",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XT29uNnBxc0h5cmNCdlZQX3pRajFSZUVGUlFacFIxYWlDd25wVjRxYnNrR3lhMzJWeWxrbldLU3Qxcks2YkR4bEJ5Z2J6SFhDUmctQ1hzelZ2UGN5TkZVY0hzdUFJQml4NlduaA?oc=5",
+        "source": "콜뉴스24",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "[APBC] '6회 6점' 빅이닝 발판 만든 김지찬, 삼성 우승 이어 日서도 활약",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EM2lDU01JeWhaSGdMSmE3OXBueV9QbXhQTVdyekhoMnJzY09UWERSZ1BST05qVG82Y01hSXM2WUJzMTN3YmFHOUF2S2J2Y2o3MTRCZWZYaENKUQ?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-12"
       }
     ]
   }
