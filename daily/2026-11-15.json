@@ -241,6 +241,260 @@
           "date": "2026-11-14"
         }
       ]
+    },
+    "portugal vs denmark": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-15T06:10:00+09:00",
+      "lastSeen": "2026-11-15T06:10:00+09:00",
+      "news": [
+        {
+          "title": "Portugal vs Denmark Confirmed Lineups",
+          "url": "https://www.whoscored.com/news/tsmldyQ_5U-YBmPdFT2DcA/show/cng112-20261114-portugal-vs-denmark-confirmed-lineup-1794682172",
+          "source": "WhoScored.com",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "Licensable picture: UEFA Nations League - Group A4 - Portugal v Denmark",
+          "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a4-portugal-v-denmark/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUxS05GOUE",
+          "source": "Reuters Connect",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "Portugal Denmark Nations League Soccer",
+          "url": "https://www.corsicanadailysun.com/sports/national_sports/portugal-denmark-nations-league-soccer/image_38bd29bc-f6b8-50da-9532-60d19df55133.html",
+          "source": "Corsicana Daily Sun",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    "이세계아이돌": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-15T06:10:00+09:00",
+      "lastSeen": "2026-11-15T06:10:00+09:00",
+      "news": [
+        {
+          "title": "이세계아이돌, 지상파 '음악중심' 출격…실제 몸 없는 6인조 걸그룹, 멜론 7위 이어 무대까지",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16276419",
+          "source": "톱스타뉴스",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "지니뮤직, 버추얼걸그룹 이세계아이돌 마케팅 '시동'",
+          "url": "https://www.fnnews.com/news/202611100905129167",
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "이세계아이돌 미니 2집 발매…전국 15곳 팝업 진행 : 연예",
+          "url": "https://news.jkn.co.kr/post/1083484",
+          "source": "재경일보",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    "빈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-15T06:10:00+09:00",
+      "lastSeen": "2026-11-15T06:10:00+09:00",
+      "news": [
+        {
+          "title": "이준석 “내가 노무현 대통령 추천서 어떻게 받나”…전한길 추가 고소 예고",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1287327.html",
+          "source": "한겨레",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "10년 전 공개한 졸업장 또 소환…전한길의 ‘하버드 2차 공세’에 이준석 폭발",
+          "url": "https://www.seoul.co.kr/news/politics/congress/2026/11/14/20261114500025",
+          "source": "서울신문",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "전한길 “��무현 추천서로 하버드 입학”…이준석 “허위 사실 추가 고소”",
+          "url": "https://www.kyeonggi.com/article/20261114580059",
+          "source": "경기일보",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    "포르투갈 대 덴마크": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-15T06:10:00+09:00",
+      "lastSeen": "2026-11-15T06:10:00+09:00",
+      "news": [
+        {
+          "title": "네이션스 리그 포르투갈 대 덴마크 경기 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-bo-dao-nha-vs-dan-mach-tai-nations-league-1799982.ldo",
+          "source": "Laodong.vn",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "경기 프리뷰: 포르투갈 vs 덴마크, 11월 15일 오전 2시 45분: 조 1위 자리를 놓고 경쟁.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-bo-dao-nha-vs-dan-mach-2h45-ngay-15-11-can-dich-ngoi-dau",
+          "source": "Vietnam.vn",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    "lol": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-15T06:10:00+09:00",
+      "lastSeen": "2026-11-15T06:10:00+09:00",
+      "news": [
+        {
+          "title": "LoL Esports 2027 and Beyond",
+          "url": "https://lolesports.com/news/lol-esports-2027-and-beyond",
+          "source": "LoL Esports",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "Next Year's Worlds Final to Be Held in Seoul... Showdown at 'Seoul Arena'",
+          "url": "https://www.asiae.co.kr/en/article/2026111400394915464",
+          "source": "아시아경제",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "2027 LoL Worlds — First Ever Korea-Japan Co-Hosting with Seoul Arena Finale",
+          "url": "https://en.koreadaily.com/2027-lol-worlds-korea-japan-co-hosting/",
+          "source": "The Korea Daily",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    "아프리카": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-15T06:10:00+09:00",
+      "lastSeen": "2026-11-15T06:10:00+09:00",
+      "news": [
+        {
+          "title": "매출 1년 새 15배 성장… 스킨서울랩, 정주영 창업경진대회 글로벌 부문 최우수상",
+          "url": "https://www.seoultopnews.kr/news/articleView.html?idxno=100353",
+          "source": "톱뉴스",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "한·아프리카재단, ‘2026 글로벌 액셀러레이팅 in Africa’ 기후테크 성과공유회 개최",
+          "url": "https://wowtale.net/2026/11/14/268054/",
+          "source": "와우테일",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "[AI서머리] 경기창경, 2026 경기스타트업페스타 개최‧스킨서울랩, 정주영 창업경진대회 최우수상",
+          "url": "https://startuprecipe.co.kr/archives/5841370",
+          "source": "스타트업레시피",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    "twitch": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-15T06:10:00+09:00",
+      "lastSeen": "2026-11-15T06:10:00+09:00",
+      "news": [
+        {
+          "title": "Free copies of Grand Theft Auto VI for Californians? What to know about Kick sweepstakes",
+          "url": "https://ktla.com/entertainment/free-copies-of-grand-theft-auto-vi-for-californians-what-to-know-about-kick-sweepstakes/",
+          "source": "KTLA",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "Deal | 10K+ free GTA 6 Ultimate Edition game codes coming in livestream Twitch drops",
+          "url": "https://www.notebookcheck.net/10K-free-GTA-6-Ultimate-Edition-game-codes-coming-in-livestream-Twitch-drops.1449873.0.html",
+          "source": "Notebookcheck",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "Kick Takes GTA 6 Giveaway to California With Lucia Cosplayer On Special Truck",
+          "url": "https://sports.ndtv.com/us/us-streamers/kick-takes-gta-6-giveaway-to-california-with-lucia-cosplayer-on-special-truck-12326023",
+          "source": "NDTV Sports",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    "숲": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-15T06:10:00+09:00",
+      "lastSeen": "2026-11-15T06:10:00+09:00",
+      "news": [
+        {
+          "title": "\"궁궐 정원을 그대로 옮겨놨네\"… 한옥 정자와 연못 아름다운 축구장 90개 크기 수목원 명소",
+          "url": "https://www.balpumnews.com/travel/sejong-national-arboretum-4",
+          "source": "발품뉴스",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "‘함께해서 좋아’",
+          "url": "https://www.sedaily.com/article/20114313",
+          "source": "서울경제",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "[알립니다] 서울경제·산림청이 함께하는 ‘2026년 도시숲사랑 달팽이 마라톤’",
+          "url": "https://www.sedaily.com/article/20111292",
+          "source": "서울경제",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    "blg": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-15T06:10:00+09:00",
+      "lastSeen": "2026-11-15T06:10:00+09:00",
+      "news": [
+        {
+          "title": "Worlds 2026: BLG Knight vs Gen.G Chovy",
+          "url": "https://www.sheepesports.com/en/articles/worlds-2026-blg-knight-vs-gen-g-chovy/en",
+          "source": "Sheep Esports",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "Inside Barclays Center's Two-Year Pursuit of the League of Legends World Championship Final",
+          "url": "https://celebrityaccess.com/2026/11/12/inside-barclays-centers-two-year-pursuit-of-the-league-of-legends-world-championship-final/",
+          "source": "CelebrityAccess",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "League of Legends World Championship tickets cost more than $1,300",
+          "url": "https://www.usatoday.com/story/shopping/sports/tickets/2026/11/12/shop-last-minute-league-of-legends-world-championship-e-sports-tickets/92731292007/",
+          "source": "USA Today",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    "lck": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-15T06:10:00+09:00",
+      "lastSeen": "2026-11-15T06:10:00+09:00",
+      "news": [
+        {
+          "title": "Sources: Noah set to join BNK FEARX ahead of 2027 LCK Season",
+          "url": "https://www.sheepesports.com/en/articles/sources-noah-set-to-join-bnk-fearx-ahead-of-2027-lck-season/en",
+          "source": "Sheep Esports",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "Former Fnatic ADC Noah Returns to Korea to Join BNK FEARX for 2027 Season",
+          "url": "https://egamersworld.com/lol/news/38410/noah-reaches-verbal-agreement-with-bnk-fearx-for-l-F95S69FM-",
+          "source": "EGamersWorld",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "Worlds 2026: BLG Knight vs Gen.G Chovy",
+          "url": "https://www.sheepesports.com/en/articles/worlds-2026-blg-knight-vs-gen-g-chovy/en",
+          "source": "Sheep Esports",
+          "date": "2026-11-14"
+        }
+      ]
     }
   },
   "sections": {
@@ -702,6 +956,36 @@
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PMm85Y3VNUHdzREF6Z0h1ckxjR0JsbGN5c0pJaDlLRWhVU2JocndqQlZzMnUxa1AtNEZCekVicWtyX0JuVlNiQW54dEI3OGpDMWtpNU5iTEJhNGJ4d3c?oc=5",
         "source": "인벤",
         "date": "2026-11-13"
+      },
+      {
+        "title": "깐부 젠슨 황 잃었다, 위태로운 AI 동맹",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaklrNWRwQndNcG96djI1RV9GOEwzUE9yZUM3cFhZUlRvMFNQTmxFdjdfVkVGc2E5YUtWcTZqUkt2Q1poNmZ0NnlITllvZHN4empja24xc3NmMFJsNi1aQXVOVjlFNWFJZmw1cGhTbkJqMW9PdDZ4cU9CMjdXTlZFRGdibw?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "[비즈톡톡] 스피커 구멍 없앤 아이패드 미니… 스마트폰서 자취 감춘 ‘화면 진동’ 다시 꺼내",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeVB2MkIyZHpOeDk3Q3NzVGVCaWpiaXA0NGZRbHc4cFF4X2ZTN196cWtXQmxUTm1EdUFVM1c3c0JzX2w3R3RnLVljRE1wVzZvT2VLaWVHcXM3NVNjSTY1M1RyR2IxaE91OFd0QXVESDQwaHNBTjdDMWxVVzluMnZBSVBB0gGWAUFVX3lxTE9XT2NPbXVLbm0yc19UWEUxNzFsWWp3aV8zVFc1bFoxN09GbmFLRkFlaVRIMFV1TWFpaXZLdE1tMXRhNE56TTFiVlA5OHEyZUwweWdSZXJtcWZkb1p2aHZRUmJ4VFhHaU5sV0hUbThVby10RHJ3T0RTOUJ4aVZ6RWpIWW8wZXBWVmtwMmpNQ3N3aW1Ca0p6UQ?oc=5",
+        "source": "Chosunbiz",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "경찰차 추월 시도, 주차 딱지 붙이고 주행, 일방 통행로 역주행까지…이상한 이 택시의 정체는?",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5saEo0X29Qb09uVDBHMGRkTnlseVN2a1lZZVpaQUE5UFFNdExBQkxQZmU3U185bU91Sll6VmV3ZTFYWmstT3JUd2p3SnlSbFZlaldVQWZrTXNmdw?oc=5",
+        "source": "경향신문",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "서동주 \"월급 전액 비트코인 투자, 3개월 만에 3배…집 샀다\"",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NclN0VjNuX0VjQ1hKRW94ZnE5MGVTcGZYWGF6b2JxdXdaemFTd1FXc015VVpBdU54Z2d5RG14aU9sRnhOdFUtUm81b1hyQmNta09ZMDBoVVZVdw?oc=5",
+        "source": "한국경제",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "‘초판 500부 시대’의 비감과 역설 [.txt]",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mWVNJN2podW1xMjVYbFpKRnpRT1AzTUxRakdTSTk1RjRQLTVMdG1mSEdsWFdPQktVNkFobE5IWHBkQnh0dGpXb2wySndSWENDSVZoaUNldVpzMVl3Z0UyN0lpbw?oc=5",
+        "source": "한겨레",
+        "date": "2026-11-14"
       }
     ],
     "ENTERTAINMENT": [
@@ -1197,6 +1481,84 @@
         "title": "UFC 챔피언 출신 메랍, 앙숙 패거리에 집단 구타 당해",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTDNWVEQwY0g3Zk0yRlV2OG1aZzZLQUZsaTFwNFFiRHVrN2t2cHJLSmI0MGpWVzZVQlo3VVVFdUZNbnFGNEVwRVlqNTYwcHZLNXU3UjhOQURORUQzaVlodUdDMEZQaTlVUGlZaUI1dy1JX202cEVSV1RVX1J5TkhJVHFmWjQ4MWdfMlVHczJZMmdBOENzbG9zbTRfUUFGZw?oc=5",
         "source": "조선일보",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "축구대표팀, 사우디전 패배 후 회복 훈련…17일 카타르전 대비",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xTFladnZndUJWeGVIWVptQ3NzQk5oS1cxV0l3NlNxYmlqMi00ZHZMZVo3b3NJcGRaVExLM0h5ZThHSXFHci11ZDM0cFFVTU5DTjMtMEFzazhuNnJQN2RwZFFZbEJacWN0VWc?oc=5",
+        "source": "SBS 뉴스",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "삼성물산 패션, '삼성라이온즈 챔피언 페스타' ...빈폴·갤럭시·아미 등 온오프라인 행사",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05WHJnQWVzdC1YUVNjQXlVT2dHdGVRRnd5cUpZMTRZci1kS2RLQWZNcEdfbHQzWWlIa3hLcXpOREIwcmt5X0JhbVZKa1F4ckpoLXRISU9WTUZJVVVxZlNMLXh6cE5KUTVIeFNNR0E3aw?oc=5",
+        "source": "이코노뉴스",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "슛감각 찾은 이현중...3점슛 4방 등 G리그 개인 최다 21점 폭발",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VdWxwYnQxcFRVSEZZNXdKUkl1bmVacFVoZk1TMzM0OW5UamJ1T3NXdDZOMUZhdVhzaWVEQzhLZ3JRU2cxZnB6dlZLUElyLWdsMTl6Umw0WUVjN3hj?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "유도훈 감독의 찬사 “박지훈, 큰 역할 했다”…정관장, 4연승 신바람",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XSjJCcC02VmVrSWxxSjZQVjFOYjFpX3NEWFpvWjFvODVNczR4b0h5Z0dQdUw3V2VVaFFNRWh1N3o0cDNEUGk3YTBDTF9uSS1SQkdGaEZwdjl3VWhDTVHSAWNBVV95cUxPX1hYTkxiNGRpRDExRXlIaV9VRDJRVUpmOEQtVGdkMVJPanV6OHI3SGtvYXJGVWI1M3Fva0t4U2RfYkNzWFlfZHp3UW5ma2JReHhtbkFzVEdac1RROEhGcC1EVkk?oc=5",
+        "source": "스포츠경향",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82LWJDSnA2Nzl3QVRjSnhDX0QwZ3d0dVhCU0Z0RlYzV2pyRWRPcWZSc1lwRW8zS2U5YlZTVTBmbVU4dnJvb0QzNW96NHBFcG5LS2UxZHRTckVGdjjSAWBBVV95cUxOMTlySUxUN2d5azVmQVBMX1o0RENQdDhVSl85V2lRNU9RLS1NMmF6VGZFZDFmcVZiOFJ4b19VVnNWdE9ESWdOTFZPRGtzVjY4SWJ0YnY3NG5LdW5qbG9OSEo?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "일본전 12연패 당한 한국…이승엽 “수준 차이 크다, 더 벌어질 수도”",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16a3ZRTVFqY1Jwc0Naa2c2YkFvUHhUcTRkY2JiLU40SDdmRHJnaWxXU0hDdUhyLUpCNmtPMnh6TE1WU0MtLVV3SENxN3owLXhwOFJpdW4tQzBIbXMwZWNqVl82VEdvWUUzdnhZMWY3d3pILTVw0gFmQVVfeXFMTzJtQ1pIaVFUcDFrTm12TFMyVHBiT25TWHk1MHJjVHFvVFJIb1NrOXhqaFRzNGxvUFp0bGFfSWhhc09NTU9SREFtUENyR2h4XzNQNEl4T1Q5cGxKNW16N0o4bFlDRTh3?oc=5",
+        "source": "동아일보",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "\"보상선수 없이 달랑 3.75억? 이건 거저나 다름없다\"… 김호령 C등급 대반전, 최악의 딜레마 마주한 KIA",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsYkkyVW0yN295RGNzd2RYRTJ2ak40U3doYTV5bWY2cTNTeHpvdHJ6UmpiU0NyRkR4dFpFNHJCWW1NRlcwYTREMkdiNmp6T2twbldUUjREemkxUQ?oc=5",
+        "source": "파이낸셜뉴스",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "[프로농구] '이해란 더블더블' 삼성생명, 박지수 돌아온 KB에 79-72",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvR3VuQnZIMEhCTmNLc3FubDNYMDFIR1NkQm95MkZybm5tQWo2amZiWjFLYjktdEUwM2hjS2hQa2FYclE2eUZLVDdvTkJmRWZjcHBCb2J5MG9BcjA0?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "눈물 흘린 포체티노 \"맨유 같은 기회 거절하기 어려워\"",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nZU8zV2ZCeFFKTVVqc2ZQQl9PbFNvc3dNSzNKdnRVWW04MlotUmZhQTdGNVZQQWg1dHJ0TlZGSTF0anBPSE1BMzFtRzZNYW03MUh5QjNOQ1BHWUl1d3hWVkVZekQ5b2hUN1AzLWZIOWFGOEZS?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "[핌in아산] 우리은행 3연승 이끈 김단비 \"내가 코트에 있는 이유 있다\"",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zdks3eHhIRi1lZXJNVHo0TlNLM09UNGRzVlh5QjJnc2VfV3FtLTB5REJxdUZZVzlfcDBfOVN5R3hlekxNRERuZXFXR0hIQ1RyRUx5LTNnaWd4VVNj?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "최혜진, 디 안니카 2R도 공동 선두… 첫 LPGA 우승 조준",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nTDJ4QW9CaFN2WGlrQXZXZ0xjeXJwc3dPWEtEQmUzNzYyS3Q5YndQaUpaMkdzSGFIbnJ1encyMktJcnpIWUVGNGlLb2lxNGRnNk1qTUhFZnFNRWlzVkEteHVwbTJ5X20yWjZhbzZBclNmZ2l3OWlBS3B6VzZSdw?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "46세 호나우지뉴, 11년 만에 공식전 선발 출격…300호골 정조준",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80M3ZYSnJFUUw3c3pIWDVLMDdVelpzYVBvTEx4WTQ2dGszeEdvQm00TXpHSm9XU2N2T1o1V2RKOEtMRFExeTdMQVpiemtwUktOZEFxR2FPa3VGWTjSAWBBVV95cUxPZjVuTmY1TTE0LVZiWFNMX0VkVExXdkdhRUVIckRmSk5yRWlZYXViT00yaC0zbVF0Ny1fRkttdzg4U29GbHhEMklhYjNNemVoTTlRaU9JRVN0dnAwREJ0b1c?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "구자욱 미국 에이전트 제이런은 누구? 선수로는 마이너리거, 에이전트 이력은 메이저",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DWUpNS0pfZXVHZFBEWFIxMFAxQm1ReHU1QTdjcVRGdDRHWGRuMWRnMFRZbjNQdXNldkdoWEdRVDVxc09TMkVpNGUxbTBwR2YwTDk5UEN3WndnXzg?oc=5",
+        "source": "일간스포츠",
         "date": "2026-11-13"
       }
     ]
