@@ -755,6 +755,247 @@
           "date": "2026-11-14"
         }
       ]
+    },
+    "부산 kcc 대 대구 한국가스공사": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-15T17:16:00+09:00",
+      "lastSeen": "2026-11-15T17:16:00+09:00",
+      "news": []
+    },
+    "구자욱": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-15T17:16:00+09:00",
+      "lastSeen": "2026-11-15T17:16:00+09:00",
+      "news": [
+        {
+          "title": "삼성 구자욱, MLB 도전 추진…“좌타자 전문 에이전트 선임”",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712231",
+          "source": "KBS 뉴스",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "미네소타 1루수 고민, KBO리그에서 답 찾나? 美 매체가 주목한 삼성 우승 영웅",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/15/GVRDAYJWHFTGEZBQG4ZTEYLFG4/",
+          "source": "조선일보",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "구자욱-원태인 필요성 역설한 삼성 이종열 단장…구자욱은 MLB 도전 위해 에이전트 선임 변수",
+          "url": "https://sports.donga.com/sports/article/all/20261115/135026508/1",
+          "source": "스포츠동아",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    "금오산": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-15T17:16:00+09:00",
+      "lastSeen": "2026-11-15T17:16:00+09:00",
+      "news": [
+        {
+          "title": "구미 금오산 하늘다리 개통…관광 새 랜드마크",
+          "url": "https://view.asiae.co.kr/article/2026111510595800590",
+          "source": "아시아경제",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "도로가 갈라놓은 금오산 등산로, 35m 하늘다리로 이어졌다",
+          "url": "https://www.dailian.co.kr/news/view/1715180/%EB%8F%84%EB%A1%9C-%EA%B0%88%EB%9D%BC%EB%86%93-%EA%B8%88%EC%98%A4%EC%82%B0-%EB%93%B1%EC%82%B0%EB%A1%9C-35m-%ED%95%98-2026",
+          "source": "데일리안",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "구미시, 금오산 관광의 지도 새로 그린다",
+          "url": "https://www.dailydgnews.com/news/article.html?no=269175",
+          "source": "데일리대구경북뉴스",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    "의료": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-15T17:16:00+09:00",
+      "lastSeen": "2026-11-15T17:16:00+09:00",
+      "news": [
+        {
+          "title": "[전남광주소식]재난응급의료 종합훈련대회 최우수상 등",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867877",
+          "source": "뉴시스",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "대전시, 재난응급의료 종합훈련대회 전국 3위…장관상 수상",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1110980",
+          "source": "충청매일",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "사천시보건소, ‘2026년 재난응급의료 종합훈련대회’ 전국 1위…‘종합 최우수상’ 수상",
+          "url": "https://www.viva100.com/article/20261113500108",
+          "source": "브릿지경제",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    "유람선": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-15T17:16:00+09:00",
+      "lastSeen": "2026-11-15T17:16:00+09:00",
+      "news": [
+        {
+          "title": "‘미시시피의 기적’…유람선-화물선 충돌, 180명 전원 구조",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712959",
+          "source": "KBS 뉴스",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "대형 크루즈 ‘쾅!’ 전복됐는데…탑승객 180여명 모두 무사 ‘기적’",
+          "url": "https://www.donga.com/news/Inter/article/all/20261114/135024107/1",
+          "source": "동아일보",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "\"사망자 0명\"… 선장은 마지막에 빠져나왔고, 시민들은 배를 띄웠다",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752420",
+          "source": "국제뉴스",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    "레버리지": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-15T17:16:00+09:00",
+      "lastSeen": "2026-11-15T17:16:00+09:00",
+      "news": [
+        {
+          "title": "증시 폭락 후 초고수는 \"반등에 베팅\"…'레버리지·급락주' 담았다",
+          "url": "https://www.hankyung.com/article/202611157013i",
+          "source": "한국경제",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "[심양섭의 정론직격] 고위험 고수익 레버리지의 저주",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=131722",
+          "source": "펜앤마이크",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "SOXL, TQQQ로 손실 복구? 매수 전에 꼭 보세요",
+          "url": "https://contents.premium.naver.com/finfarmer00/finfarmer/contents/261111221333083bz",
+          "source": "네이버 프리미엄콘텐츠",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    "젠틀몬스터": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-15T17:16:00+09:00",
+      "lastSeen": "2026-11-15T17:16:00+09:00",
+      "news": [
+        {
+          "title": "삼성 AI 안경 베일 벗었다…12월 10일 국내 출시·65만원부터",
+          "url": "https://www.yna.co.kr/view/AKR20261112140300017",
+          "source": "연합뉴스",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "예쁜 뿔테 안경인 줄 알았는데, AI 안경입니다",
+          "url": "https://www.elle.co.kr/article/1913095",
+          "source": "엘르 코리아 │ ELLE KOREA",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "이번 주 주요 패션 뉴스: 젠틀몬스터 스마트 글라스 전격 공개 & 리모와 x 메종 마르지엘라 협업 외",
+          "url": "https://hypebeast.kr/2026/11/gentle-monster-intelligent-balenciaga-on-rimowa-maison-margiela-jw-anderson-info",
+          "source": "Hypebeast.KR",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    "서버": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-15T17:16:00+09:00",
+      "lastSeen": "2026-11-15T17:16:00+09:00",
+      "news": [
+        {
+          "title": "\"북한 라자루스, 국내 서버 30곳 노렸다\"",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6865762_36967.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+          "url": "https://www.yna.co.kr/view/AKR20261115016000011",
+          "source": "연합뉴스",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "北 연계 해킹조직, 한국 서버 30곳 공격 표적…정부·금융기관 겨냥",
+          "url": "https://www.kyeonggi.com/article/20261115580015",
+          "source": "경기일보",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    "다니엘": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-15T17:16:00+09:00",
+      "lastSeen": "2026-11-15T17:16:00+09:00",
+      "news": [
+        {
+          "title": "\"착취\"라는 NYT, \"선투자\"라는 韓… 뉴진스가 쏘아올린 K-팝 딜레마 [박지현의 아트월드]",
+          "url": "https://www.fnnews.com/news/202611140300483483",
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "뉴진스 계약서가 말하지 않은 것…K-팝 '인큐베이팅'의 맥락",
+          "url": "https://www.newsis.com/view/NISX20261110_0003862019",
+          "source": "뉴시스",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "'뉴진스 퇴출' 다니엘, 뉴욕타임즈 보도 지지 \"어도어 계약서 지적\" 인증샷 공개",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019842",
+          "source": "SPOTV NEWS",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    "변동성": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-15T17:16:00+09:00",
+      "lastSeen": "2026-11-15T17:16:00+09:00",
+      "news": [
+        {
+          "title": "\"주식 사려고 빚 냈어요\"…7조 폭풍매수 몰린 '두 종목'",
+          "url": "https://www.hankyung.com/article/2026111567997",
+          "source": "한국경제",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "“언젠가는 오르겠지”...국내 ‘빚투’ 30% 삼성전자·SK하이닉스에 몰렸다",
+          "url": "https://www.chosun.com/economy/money/2026/11/15/64JZ42M7AVCT3AZTQBEZRMZGKI/",
+          "source": "조선일보",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "'빚투' 속 개미 여윳돈 말라가나…마통 4년 3개월 만에 최대",
+          "url": "https://www.yna.co.kr/view/AKR20261114040800002",
+          "source": "연합뉴스",
+          "date": "2026-11-15"
+        }
+      ]
     }
   },
   "sections": {
@@ -1300,6 +1541,66 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONXB1S1hsbjBrMmxQZDFDZV9JZXhRTGlPZmRVMWhRLWlHWW1oTlRsaTIteURrRUtIbUdJdVJuZjJZMGw2Sk53Sk1lTVUtbmo2MFJOLWtUZEZRazBYSTZ2bmxwR0V3SXgxcHNnN01ieHdIWnlRSVJNSlBZcjFHbS1KVkFxamdwa0Nsb3F2ajVCLV9NRmpiYkM5aVJNeFhQZw?oc=5",
         "source": "조선일보",
         "date": "2026-11-13"
+      },
+      {
+        "title": "한국 해군, F-35B 항모 접고 무인기 20대 탑재 270m 대형 모함 택했다",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSl9LZlZuTVlCMXhIX2hQQmxOM3EwcF80OGsxcENmWTlJMlQtZ3FLdmt1R1piQ3pkTGVZRUN5eVlRenBNS3Y2bEQ5OUtoUWFqcGc3T0RQUE9xSHUyQ01vbzRHazdYbG1BMEs2eU0tT0ZCNDJmOE5CRW9qLUNRWF96SzVkQzNEYUZx?oc=5",
+        "source": "글로벌이코노믹",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "운전대 없는 테슬라 ‘사이버캡’, 美서 4000만원에 개인 판매",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CdGxPTVQ2UDI5MUtyZ1pPOS1NbkpzcXBuTEFldmNwRWk4cENod0E5VkxTd0xYZ2N4NC0yV0wteVdxY19ZMl9zemRNbTBocUZqZWNPaWhRM3MxOEk5NXpGT192WEtsOUlpR3l6bUppVUE1NHl5MlJsSzFMRk52ZTg?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "[속보]트럼프, 반도체 규제 풀어주며 엔비디아 ‘풀매수’",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IaXFDZ1pKUktSSG9lYlFRUUoxUDJKckctVnR2UWg4bXF5UThONFdudkxPWU53UHNMY3puRk42NzZ6N21LZ0VhemhCYWpPeDlU?oc=5",
+        "source": "문화일보",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "세무사 수석 “초소형 카메라 찍고, AI 전송” 부정행위 인정",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4OWN6UmUzenJLV3dISkZFVjE0cy1pVDJfSlVjVFVybWJwa1VHSWZlUFpiVlI4bE1xOFRXM0FEOTZZSzA5cXNpRXZjSVFpc0R0MmZiaVlITXo3RkFsOW9EbWRJaVB3RU0xd1RTZzFPZjJ2Zw?oc=5",
+        "source": "한겨레",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "[영상]‘쾅’ 충돌해도 멀쩡…고무공처럼 튕겨 나가는 이상한 무인기",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XeHVnX0Vsa0V1Y3VQZTNlYnVUZThuZlZhU25ldnc1LUdLRVJ4MmFjVktvVjdWcWcwTGdkcU1LeXp5Z2t5OGlQbFJuQVRKQ1haYVE4R2x3bTViQdIBX0FVX3lxTE9EaHUwdnlzQ2RGMzA0TE9ETm1YeVRsWDUtX0pVUTI5bHA1M3pHV3ZlaEhvRUg2Zk5zV3VZMVZ5MFNHbTBVRFBsSWFlN3hTVkE0dG1QbUZoQTdYWC1jNGZ3?oc=5",
+        "source": "경향신문",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "‘대규모 접속 장애’ MS 아웃룩·팀스, 약 36시간 만에야 정상화",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbHhlTzF4ZzlrVTFabS1rR0Z6WGJHV0FRdHRBTkhpZi1Ra1dmc3Q2Vy05WFJYY1d0dkFKc0oyUmtCb2wzNHAyYU9PQ1RoVWRXTkJmNUx3U0NYSXZMYnZEbXZRekV5dHBpQ3BBbVZCSXp0TE9YU2o4elpoRk9BM0NTeF9wbw?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "“한국 IP 대역 유망” 北 해킹조직 라자루스, 국내 서버 30곳 노렸다",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94bTZsdmJuZE9sMGZ4bkhkWmhnbW1oZ1JvRGQ2b05CLVdORTZwU1UwSlY2a1RsaFdqR0pVdzU4VVVXeXhoV2c1M2RsS1BLRkdiSVluNkNIdXBiOWdUU05aNzc1QWFST3J6X2Q5MElQQdIBZkFVX3lxTE1yRHNLNzNZN0VuTVFHc1JVRFNKNzhRYTljOGZ3UWVWRzdSSGRxVUFRdmxLYS1Ta1RaQ25KRzFiYzNqOUNVOWg4d0QxYjBwVG9iS252MUttT0lGdzI0ejhWU1ppR3Fndw?oc=5",
+        "source": "동아일보",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "李-소방관들 ‘식사 사진’에 담긴 의미[청계천 옆 사진관]",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XbWZYRmlqWi1fM19aRzVfaGFub3ZVX3JHYV81anM3SUZBd1NRTTZXbFJEU25kNTRfU0pLUTB1cjNfTXhBcW90UWpmdUlJTlVzcE85WVJBeFJONFNITHoycHZiMFd4MGV3TjJuSWFjdkFLZnJ0Z1E?oc=5",
+        "source": "동아일보",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "중국, 동남아 서버 빌려 첨단 AI칩 이용…120억달러 ‘중국행’ 거래 기록도",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT0V3NTNqVTJfdVNMZGs5eGpwN3ZLa1pEczBGTEFQaW1fRUZNa3YzTmU0V0k2TjNoWFNwQWlLclc5aFZPOGxfVFI4NWl4VExGb3MwVFVDN2s2WkhqTnJ5TmJGa1p3WU5KaURjamF5Q2JrSVhZQ1pSWGZrYmV2R0VkdnVyYw?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "[영상]거대 우주 태양광 발전소 들어설까…지구 밖에서 조립용 로봇 작동 성공",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10YTBoY25TRWFhVEVKdDJNZnhQNlVtWWpHc1VpUVBiYlVEdHZxaXl1Q3YwWVl3ZTNnMU9qVHA2Ri1CRmxPeGp3WUFzSzNsLVdLRWlndXhCV2I5UdIBX0FVX3lxTE1KYXBhOGVWUTZnMXlCTWdZU09FRjlTYnVyd0ZIOC16ZEU3a0R4YWNZWGZtNGVvT3RrMjBGTlF1RXJTaFh0anRWcEdwWU00Ri1tYVBPV0QxajBLcGVkOXd3?oc=5",
+        "source": "경향신문",
+        "date": "2026-11-14"
       }
     ],
     "ENTERTAINMENT": [
