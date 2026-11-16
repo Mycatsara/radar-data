@@ -766,6 +766,235 @@
           "date": "2026-11-15"
         }
       ]
+    },
+    "당구": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-16T16:44:00+09:00",
+      "lastSeen": "2026-11-16T16:44:00+09:00",
+      "news": [
+        {
+          "title": "조건휘, 시즌 3승 도전…프로당구 PBA-LPBA 6차 투어 열린다",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02187766645646376&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "PBA 시즌 후반부 돌입…21일부터 휴온스 챔피언십 개최",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435552",
+          "source": "데일리스포츠한국",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "프로당구 6차 투어 '휴온스 챔피언십' 21일 개막…조건휘 독주 이어질까",
+          "url": "https://www.etoday.co.kr/news/view/2648475",
+          "source": "이투데이",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    "신유열": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-16T16:44:00+09:00",
+      "lastSeen": "2026-11-16T16:44:00+09:00",
+      "news": [
+        {
+          "title": "‘롯데 3세’ 신유열 롯데지주 부사장, 사장 승진… 그룹 전략 총괄 맡는다",
+          "url": "https://www.chosun.com/economy/market_trend/2026/11/16/CJULONS2TNETZL7ICZYE6RLNFQ/",
+          "source": "조선일보",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "“오너 3세 경영 본격화”…신동빈 롯데 장남 신유열, 사장 승진",
+          "url": "https://www.khan.co.kr/article/202611161440021",
+          "source": "경향신문",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "롯데 3세 신유열, 지주사 사장 승진…경영전략실 총괄(종합)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444972",
+          "source": "연합인포맥스",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    "카카오뱅크 애플페이": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-16T16:44:00+09:00",
+      "lastSeen": "2026-11-16T16:44:00+09:00",
+      "news": [
+        {
+          "title": "[단독]카카오뱅크, 애플페이 서비스 시작",
+          "url": "https://www.etnews.com/20261116000304",
+          "source": "전자신문",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "카카오뱅크도 애플페이 뚫었다…체크·mini카드로 결제 가능 - 머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/11/16/2026111614423465991",
+          "source": "머니투데이",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "“애플 지갑에 등록만 하면 바로 결제”…카뱅 애플페이 써보니",
+          "url": "https://www.mk.co.kr/news/economy/12209953",
+          "source": "매일경제",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    "위메이드": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-16T16:44:00+09:00",
+      "lastSeen": "2026-11-16T16:44:00+09:00",
+      "news": [
+        {
+          "title": "[기자수첩] 위메이드 창업주의 무책임한 침묵",
+          "url": "https://dealsite.co.kr/articles/172677",
+          "source": "딜사이트",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "박관호(최대주주), 위메이드 보유주식 계약 변경",
+          "url": "http://www.dailyinvest.kr/news/articleView.html?idxno=72552",
+          "source": "데일리인베스트",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "레전드 오브 이미르 e스포츠 대회 세 번째 시즌, 28일 개최",
+          "url": "https://www.gamemeca.com/view.php?gid=1783479",
+          "source": "게임메카",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    "hiv": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-16T16:44:00+09:00",
+      "lastSeen": "2026-11-16T16:44:00+09:00",
+      "news": [
+        {
+          "title": "Zimbabwe’s HIV gains face a test among young people",
+          "url": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people",
+          "source": "Al Jazeera",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "Zimbabwe’s HIV Gains Face Test as Youth Infections Hit 4,400",
+          "url": "https://journalarta.com/en/2026/11/15/zimbabwes-hiv-gains-face-test-young-people/",
+          "source": "JournalArta",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "Zimbabwe’s HIV success story faces a test among the youth",
+          "url": "https://news.az/news/zimbabwes-hiv-success-story-faces-a-test-among-the-youth",
+          "source": "Latest news from Azerbaijan",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    "낙상": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-16T16:44:00+09:00",
+      "lastSeen": "2026-11-16T16:44:00+09:00",
+      "news": [
+        {
+          "title": "\"낙상 위험 미리 포착해 약사가 예방\"…새로운 약료 모델 '눈길'",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549019",
+          "source": "약사공론",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "노인 낙상·섬망 위험 예측하는 약물 평가도구 개발…75만명 의료정보 분석",
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623526",
+          "source": "메디컬투데이",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "낙상 막으려 쓴 신체억제대로 의사 유죄…무엇을 더 했어야 하나",
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044526",
+          "source": "청년의사",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    "서영교": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-16T16:44:00+09:00",
+      "lastSeen": "2026-11-16T16:44:00+09:00",
+      "news": [
+        {
+          "title": "서영교 “의원 150석 이상이면 탄핵…다음 사람이 대법원장하면 돼” [정치시그널]",
+          "url": "https://ichannela.com/news/detail/000000560122.do",
+          "source": "채널A",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "민주당 박희승 의원 나리, 권력에 취한 겐가 [아침햇발]",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1287400.html",
+          "source": "한겨레",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "박희승, 유권자에 “미쳤나” 막말··· 논란되자 “정중히 사과”",
+          "url": "https://www.segye.com/newsView/20261113501764",
+          "source": "세계일보",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    "임현주": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-16T16:44:00+09:00",
+      "lastSeen": "2026-11-16T16:44:00+09:00",
+      "news": [
+        {
+          "title": "임현주, MBC 퇴사 \"13년 8개월 재직…회사 밖 탐험할 것\"",
+          "url": "https://www.hankyung.com/article/202611169179H",
+          "source": "한국경제",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "임현주 아나운서, MBC 떠난다 \"이제 회사 밖 세계 탐험\"",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869250",
+          "source": "뉴시스",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "임현주 아나, 13년만에 MBC 퇴사 \"회사 밖 세상 탐험해보겠다\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6355292",
+          "source": "뉴스1",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    "논쟁": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-16T16:44:00+09:00",
+      "lastSeen": "2026-11-16T16:44:00+09:00",
+      "news": [
+        {
+          "title": "파키스탄 실종 여객기 PK404편, 위성 영상 공개로 37년 만의 재조사 논쟁",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/20261116031224791720990b2dc5_1",
+          "source": "글로벌이코노믹",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    "신세계": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-16T16:44:00+09:00",
+      "lastSeen": "2026-11-16T16:44:00+09:00",
+      "news": []
     }
   },
   "sections": {
@@ -1359,6 +1588,18 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YbmltRkdkSUZqYUVpR3dMa01YVkNfcGxCR1hfNEVuQ1FfdFp3NEpJWjFiYkQyZE0tRTd1TkhMVUNsYU1tbjdVVm1SR1V3eWJtb0xIaUd3?oc=5",
         "source": "헤럴드경제",
         "date": "2026-11-15"
+      },
+      {
+        "title": "“네가 죽었으면 좋겠다”…젠슨 황, 임원들에게 폭언·물병 투척 의혹",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tOU9JSkN1N0lTaFV2SlJKejlkck1mRkhVN2tQbG80T0I2a0ozSTRjZExDSldJemdxYkRBZE5URXhQX2EtS2c1MHVlOXdnRWpMSGh1TmpKOW9QMjM1VHZZUWxmWUVCRW1lOXRZc2JRYw?oc=5",
+        "source": "한겨레",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "“갱단 떠나라, 남으면 대가 치를 것”…아이티에 ‘총 장착 로봇개’ 투입한 부켈레",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVVdNcGdVdE1CcXJaeHM2SXJGbzBuMUl4X0VJWWdpOHJtS2RyN0JWSFBLek85ZG5sSFd4VnB0MmNDTkdJZzBINW1OSjB0WHBpb3kyMEVaYmx2MWM4QWlSLXJVVkxoTDRmTWJiZFdKU3Z2YVltXzdOWnB0ZDF6Q3UyQkVLb0JTZFRGLUR2SlRld29pYlBoSjlWMjMwaGk?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-16"
       }
     ],
     "ENTERTAINMENT": [
@@ -1909,6 +2150,60 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRjg2TFFFRjhnckt1QnNrSTVIMzZzaUZoM1Y3R1pjRk5WVjFUUzNaN3FuWnJ3NjBpNXNGdUJuNmJRYVlNSWhEclNwcENXT0lWblV6TUUzckpDNEZSOTRpTEZvN29UVmNWNmtyR2xqMzI5cnU2SlNhRk9ZcnQxdnRUVHBR?oc=5",
         "source": "한겨레",
         "date": "2026-11-15"
+      },
+      {
+        "title": "APBC 결승 일본에 완패, 한일전 14경기 연속 무승",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jODlhZVFBZnZUdldqQmVZQ1dCbzFTaUZ4ZWc2amJOMm9LMW5yVmdZb1d2QVpja2RONFZmTTY1RDBLTzZBTU5HZjRpZzM5ZmM1UnREb0EyOFRKSHEwdXE1QktNZVhLZw?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "KBO FA 승인 22명 공시…KT 6명·SSG 3명 시장 출격",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtNlNNR1dkcjhDSjVXNUR0VGVxaS1DRmdVRU9RaWtDaTlZXzJaWmVnel82T3JlT3FlQUNEUmdpdXRsV3hkOXlhV2VKU1dGZ05uMHVveHY0elJ3ZWc?oc=5",
+        "source": "경기일보",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "JTBC-IOC, 올림픽 중계권 해지",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Qa2RGNmFoTDFVaEJDbUthZmtVR216ZkhfVk8xZjFyYjAtT1EwZnpFcUxGTFhNcmtQZWVpTHpzVGdtLWtvME1sc3dkX2I2TTZQdXk5ZlE5cnpLdUEzZ0FLNEdPRy0zQW56WElRVHI5MnNBYVNS0gF0QVVfeXFMUGdaWWdnREpMQzRQZWRmNFV0RzFGU0ZseHpUUlZJdDBOeWJDSkVabXRRdGd2RHNyYTdkR19aRkdkX01EMmZkU3J0Tm1zYWJ6dGtCS3Axa1lsdFYxSUlvSjNuRnpEb3JQM1JiMjh0QlQ5aVFNdDg?oc=5",
+        "source": "MBC 뉴스",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "김연경 '필승 원더독스', 실업팀 전통강호 포항시체육회 상대로 세트 스코어 2:0 리드('신인감독2')",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTnVXYVJSekVzYXBYQkVxdTJMajhTUzVpenFhM0VhWjBOTDFNc3pWdWxJOC0ycWtObDlUNW1Sd0FmOTJTa0NyTGpJd2JFb1BoN0c4WnZhX2t1LUI5YVBZRVVjNDZfZGlNWmdvYkJiMFNjQ1gxeVFXcEtSSk14SVFYcWx6RUVTdzQ4MkVEeDZJTQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "이현중, G리그 개인 최다 25득점…3점슛 6개 폭발",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1reGpodGJEaERKaWRtZkFHdVA5Z0JCN0NtRVFQMnZnOFF4aHowclhfTEZaN21rY2hpOFJxSzRVbVo4ZG1pX2E4Y1NZYXpJc2d1NFhzS3BCVmowWmZ0TzhyMFpqQ2locjQ?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "더 무뎌진 손흥민 발끝...카타르전 투톱 변화 줄까?",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SSmJDRGhfUzFCSnl0RERrdENHanJLenJWYU5qVHUtbFoyTHluc29fWERwZ2FDS0JYbVE1a0JSQzFMcFRVS2RyNWd3MWRJV3R3bEpaMmpnN0FMN21SbWc?oc=5",
+        "source": "YTN",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "현대캐피탈·기업은행 선두 지킬까…20일 초반 판도 가를 빅매치",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IaW1mV3BSR1A5ejZGdWFNeTM0blZTdng5eEhZQnZKSjR3UUR2Wk0xLWNONHNKb25mRHNwMlIwTDFRTFBmYU1WQUh0bjBLOGZhaVJSNUdsdlRuYlHSAWBBVV95cUxPcHhuQ1pValVNZ1NtV0lVcjJNWnJRdGhBb21VVlZraFNVSFZhSXJvQlJ4M0NqR3VERzBxR3d1NkhJOU9DdEJvYmJEUTIxczBuOEc3NW1qdVllOGVRdVlWckk?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "“1~2년 안에 이런 FA 선수 없다”…구자욱·원태인 쟁탈전 시작",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MbW9TVWFjclpsaGlEUDBMb0NDZmN0Z1ltUHlpR2FLd3M3Tl9DUlN0anFnbGxvOHBlS01GamxjTVpjREpJMndnVl80NHVEMzVtZ0hvUVdDaUdBalpwWEhvVTFUZXlXMzQ?oc=5",
+        "source": "한겨레",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "최혜진, 지독한 준우승 징크스…벌써 10번째",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZMGxIalVMNHNyRFdNOGIzdFluTlkxNUVVWFc1bXYwdUFGaGZzSUpGY0F5Vy15b2dITFRGR2x4V2pXR3dlaWNLN2Y1SzI4NEl6cFRfbm9Tc3VNeW1HVnBwQWhGMnpqUQ?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-16"
       }
     ]
   }
