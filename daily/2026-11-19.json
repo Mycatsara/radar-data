@@ -482,6 +482,266 @@
           "date": "2026-11-18"
         }
       ]
+    },
+    "대법관": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-19T18:14:00+09:00",
+      "lastSeen": "2026-11-19T18:14:00+09:00",
+      "news": [
+        {
+          "title": "조희대 대법원, 민주당에 대법관 월급을 20% 올려달라고 요청",
+          "url": "https://www.yjb0802.com/news/articleView.html?idxno=62750",
+          "source": "정경시사 FOCUS",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "“조희대가 직접 나서라” 법원 공무직 노동자들 쟁의 선포",
+          "url": "https://vop.co.kr/A00001697542.html",
+          "source": "민중의소리",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "[속보] 대법원 \"계엄 선포 전, 국헌문란 목적 증명 어려워\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866990_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "수능 답지": {
+      "count": 1,
+      "maxTraffic": 50000,
+      "firstSeen": "2026-11-19T18:14:00+09:00",
+      "lastSeen": "2026-11-19T18:14:00+09:00",
+      "news": [
+        {
+          "title": "[수능] EBS \"수학, 작년 수능과 비슷…입시업계 \"약간 어려울 수도\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261119120151530",
+          "source": "연합뉴스",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "수능 영어, 지난해보다 쉽게 출제…9월 모평보다는 어려워[2027 수능]",
+          "url": "https://www.khan.co.kr/article/202611191727001",
+          "source": "경향신문",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "수능 국어 작년보다 쉬웠다…입시업계 “전반적으로 평이”",
+          "url": "https://www.donga.com/news/Society/article/all/20261119/135053743/1",
+          "source": "동아일보",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "수능 등급컷": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-19T18:14:00+09:00",
+      "lastSeen": "2026-11-19T18:14:00+09:00",
+      "news": [
+        {
+          "title": "[수능] 내 점수로 어디 갈까…오늘 저녁부터 입시학원 설명회",
+          "url": "https://www.yna.co.kr/view/AKR20261118182700530",
+          "source": "연합뉴스",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "오디바이스, 2027학년도 정시 합격예측 서비스 ‘입시캐스트’ 오픈",
+          "url": "https://zdnet.co.kr/view/?no=20261119172357",
+          "source": "지디넷코리아",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "수능 이후 대학입시 대비전략은?[2027 수능]",
+          "url": "https://www.newsis.com/view/NISX20261119_0003875583",
+          "source": "뉴시스",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "수능 끝": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-19T18:14:00+09:00",
+      "lastSeen": "2026-11-19T18:14:00+09:00",
+      "news": [
+        {
+          "title": "어쨌든 수능 끝! 수험생이여, 이제 할인을 즐겨라",
+          "url": "https://www.khan.co.kr/article/202611191716001",
+          "source": "경향신문",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "롯데백화점 광주점 화장품·베이커리, 수능 수험생 이벤트",
+          "url": "https://www.yna.co.kr/view/AKR20261119096800054",
+          "source": "연합뉴스",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "“목탁 스트레스볼에 퍼스널컬러까지”...‘합격 기원’에서 ‘경험·가족 소비’로 진화",
+          "url": "https://www.kyeonggi.com/article/20261118580425",
+          "source": "경기일보",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "라미란": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-19T18:14:00+09:00",
+      "lastSeen": "2026-11-19T18:14:00+09:00",
+      "news": [
+        {
+          "title": "'보검 매직컬2' 측 \"고경표 음주운전 유감…시청 불편 최소화\"",
+          "url": "https://www.yna.co.kr/view/AKR20261118043900005",
+          "source": "연합뉴스",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "유아인 마약에 3년 기다렸는데... 라미란, 고경표 음주운전에 차기작 날벼락",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MVRTEMZXMQZGMZTFGQ2GMOJWGU/",
+          "source": "조선일보",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "AI 부정행위 논란 속 고경표가 '최대 수혜자'? [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611181435551476",
+          "source": "YTN",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "lg 임원인사": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-19T18:14:00+09:00",
+      "lastSeen": "2026-11-19T18:14:00+09:00",
+      "news": [
+        {
+          "title": "LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행",
+          "url": "https://zdnet.co.kr/view/?no=20261119162858",
+          "source": "지디넷코리아",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "LG경영개발원 신임 대표에 하범종 ㈜LG 경영지원부문장",
+          "url": "https://www.yna.co.kr/view/AKR20261119137600003",
+          "source": "연합뉴스",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "CEO 유임하고 사업책임 강화…LG, ‘AI·냉각’ 키우고 ‘석화·디스플레이’ 재편",
+          "url": "https://www.ekn.kr/web/view.php?key=20261119024452129",
+          "source": "에너지경제신문",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "해군": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-19T18:14:00+09:00",
+      "lastSeen": "2026-11-19T18:14:00+09:00",
+      "news": [
+        {
+          "title": "“전 세계가 날 주목해”…‘방중 관심’ 속 현지시찰 노출 [지금뉴스]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8717260",
+          "source": "KBS 뉴스",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "[속보] 경찰, 리트 만점자 \"사망으로 최종 판정시 감식 등 진행\"",
+          "url": "https://www.hankyung.com/article/2026111972367",
+          "source": "한국경제",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "북·미회담 기대감에도… 김정은은 지방 시찰, 美는 비핵화 원칙 재확인",
+          "url": "https://www.segye.com/newsView/20261119509212",
+          "source": "세계일보",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "주얼리": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-19T18:14:00+09:00",
+      "lastSeen": "2026-11-19T18:14:00+09:00",
+      "news": [
+        {
+          "title": "올리아, 서울 주얼리 쇼룸에서 팝업 진행",
+          "url": "https://www.handmk.com/news/articleView.html?idxno=45236",
+          "source": "핸드메이커",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "논논X하츠투하츠, ‘Lemon Tang’ 콜라보 주얼리 3종 선보여",
+          "url": "https://www.beyondpost.co.kr/view.php?ud=20261119130424646637600e7ec7_30",
+          "source": "비욘드포스트",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "논논, 하츠투하츠와 협업한 ‘Lemon Tang’ 주얼리 컬렉션 공개",
+          "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=602616",
+          "source": "스타데일리뉴스",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "수능 결시율": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-19T18:14:00+09:00",
+      "lastSeen": "2026-11-19T18:14:00+09:00",
+      "news": [
+        {
+          "title": "AI 커닝 단속 강화 영향?…수능 결시자 3000명 넘게 늘었다(종합)",
+          "url": "https://www.news1.kr/society/education/6359569",
+          "source": "뉴스1",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "수능 1교시 응시자 49만 1천 명‥결시율 작년보다 높아",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866952_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "경기도 수능 16만5천595명 응시…1교시 결시율 10.80%, 전년보다 상승",
+          "url": "https://www.kyeonggi.com/article/20261119580334",
+          "source": "경기일보",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "한성숙": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-19T18:14:00+09:00",
+      "lastSeen": "2026-11-19T18:14:00+09:00",
+      "news": [
+        {
+          "title": "한 총리 \"작년 수능 시험지 보관하라\" 긴급 지시",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6866921_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "작년 수능 부정행위 찾나···교육부, 전국 시도교육청에 “지난해 수능 시험지 폐기 말라” 공문",
+          "url": "https://www.khan.co.kr/article/202611191450011",
+          "source": "경향신문",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "한성숙 총리, 작년 수능 시험지 보관 긴급 지시 \"별도 지시 있을 때까지\" - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/11/19/2026111915034124791",
+          "source": "머니투데이",
+          "date": "2026-11-19"
+        }
+      ]
     }
   },
   "sections": {
