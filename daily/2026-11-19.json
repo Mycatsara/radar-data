@@ -241,6 +241,247 @@
       "firstSeen": "2026-11-19T04:16:00+09:00",
       "lastSeen": "2026-11-19T04:16:00+09:00",
       "news": []
+    },
+    "시즌2": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-11-19T10:22:00+09:00",
+      "lastSeen": "2026-11-19T10:22:00+09:00",
+      "news": [
+        {
+          "title": "넷플릭스 '피지컬: 아시아' 시즌2 내년 공개",
+          "url": "https://www.yna.co.kr/view/AKR20261119043100005",
+          "source": "연합뉴스",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "‘피지컬: 아시아’, 2027년 시즌2로 귀환…더 커진 스케일·새 퀘스트 예고",
+          "url": "https://sports.donga.com/ent/article/all/20261119/135051869/1",
+          "source": "스포츠동아",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "넷플릭스, '피지컬: 아시아' 시즌2 내년 공개",
+          "url": "https://www.newsis.com/view/NISX20261119_0003874452",
+          "source": "뉴시스",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "올랜도 대 필라데피아": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-19T10:22:00+09:00",
+      "lastSeen": "2026-11-19T10:22:00+09:00",
+      "news": [
+        {
+          "title": "Philadelphia 76ers Visit Orlando Magic Wednesday Night",
+          "url": "https://sixers.com/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026",
+          "source": "NBA.com",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "How Franz Wagner, Magic Can Make Biggest Statement Against LeBron James, 76ers",
+          "url": "https://sports.yahoo.com/articles/franz-wagner-magic-biggest-statement-185057625.html",
+          "source": "Yahoo Sports",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "Sixers head to Orlando for showdown with Franz Wagner and the Magic",
+          "url": "https://www.libertyballers.com/76ers-game-previews/102197/sixers-head-to-orlando-for-showdown-with-franz-wagner-and-the-magic",
+          "source": "Liberty Ballers",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "전도연": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-19T10:22:00+09:00",
+      "lastSeen": "2026-11-19T10:22:00+09:00",
+      "news": [
+        {
+          "title": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/",
+          "source": "조선일보",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "뉴욕·LA…오스카 위해 뛰는 ‘가능한 사랑’",
+          "url": "https://www.koreadaily.com/article/20261118070139540",
+          "source": "미주중앙일보",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "전도연, 오스카 레이스 뛰어드나…데뷔 후 첫 SNS 개설",
+          "url": "https://www.newsis.com/view/NISX20261118_0003873770",
+          "source": "뉴시스",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "이적 시장": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-19T10:22:00+09:00",
+      "lastSeen": "2026-11-19T10:22:00+09:00",
+      "news": [
+        {
+          "title": "축구의 묘미는 역시 ‘바이시클킥’",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627",
+          "source": "KBS 뉴스",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853000",
+          "source": "SBS 뉴스",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "포체티노 고별전서 풀리식 바이시클킥…미국, 아이티 2-0 제압",
+          "url": "https://www.yna.co.kr/view/AKR20261118096400007",
+          "source": "연합뉴스",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "수능날 주식": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-19T10:22:00+09:00",
+      "lastSeen": "2026-11-19T10:22:00+09:00",
+      "news": [
+        {
+          "title": "“10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭",
+          "url": "https://www.mk.co.kr/news/business/12213210",
+          "source": "매일경제",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "\"수능날 착각하지 마세요\"...프리마켓은 휴장, 정규장은 10시부터",
+          "url": "https://www.hankyung.com/article/202611185520i",
+          "source": "한국경제",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "오늘 수능시험으로 증시 1시간 늦게 개장",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8716754",
+          "source": "KBS 뉴스",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "nginx": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-19T10:22:00+09:00",
+      "lastSeen": "2026-11-19T10:22:00+09:00",
+      "news": [
+        {
+          "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
+          "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+          "source": "wiz.io",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "“World’s Best AI Hacker” Just Uncovered A Massive Web Vulnerability",
+          "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/",
+          "source": "Forbes",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+          "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+          "source": "The Hacker News",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "gemini neon": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-19T10:22:00+09:00",
+      "lastSeen": "2026-11-19T10:22:00+09:00",
+      "news": [
+        {
+          "title": "Introducing Gemini 4 Neon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+          "source": "blog.google",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+          "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+          "source": "Google for Developers Blog",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
+          "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
+          "source": "9to5Google",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    "test alert": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-19T10:22:00+09:00",
+      "lastSeen": "2026-11-19T10:22:00+09:00",
+      "news": []
+    },
+    "현금": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-19T10:22:00+09:00",
+      "lastSeen": "2026-11-19T10:22:00+09:00",
+      "news": [
+        {
+          "title": "\"현금 결제 안 된다\" 말에 내리려던 할아버지…함께 움직인 승객들",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118171840KHo",
+          "source": "연합뉴스TV",
+          "date": "2026-11-18"
+        },
+        {
+          "title": "\"현금 안 돼요\" 어르신 버스 못 타게 되자…'감동'의 손길",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852779",
+          "source": "SBS 뉴스",
+          "date": "2026-11-18"
+        },
+        {
+          "title": "'천 원 두 장' 쥔 할아버지…\"현금 안 됩니다\" 거절에 옆 승객이 나섰다",
+          "url": "https://www.newsis.com/view/NISX20261118_0003874008",
+          "source": "뉴시스",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    "수원 fc 위민": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-19T10:22:00+09:00",
+      "lastSeen": "2026-11-19T10:22:00+09:00",
+      "news": [
+        {
+          "title": "꼴찌→PO 막차→리그 1위 꺾고 챔피언 등극, '캡틴' 장슬기도 놀랐다 \"감히 우승할 수 있을까 생각했는데...\" [수원 현장] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111817230218434",
+          "source": "머니투데이",
+          "date": "2026-11-18"
+        },
+        {
+          "title": "10년만의 복귀 감독과 창단 첫 우승…WK리그 한수원 '기쁨 두배'",
+          "url": "https://www.yna.co.kr/view/AKR20261118189000007",
+          "source": "연합뉴스",
+          "date": "2026-11-18"
+        },
+        {
+          "title": "4번이나 준우승했던 한수원, 드디어 해냈다! 정규리그 3위의 대반란...화천KSPO 이어 수원FC위민까지 제압",
+          "url": "https://www.chosun.com/sports/football/2026/11/18/MM4WIZRUHFRDENDEMU4TSY3FGM/",
+          "source": "조선일보",
+          "date": "2026-11-18"
+        }
+      ]
     }
   },
   "sections": {
@@ -804,6 +1045,48 @@
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uZ2hQcWFCVUloSDJWQVJaY19BT2ZGX004b0ZHSGxEd0sydm51LUdqeW50SDJUOVgxTTduc0tyNUl1N2hJdXd0SndRR2doODRYeGVNcW9lblhfM3pyWkdGZVlnNEc?oc=5",
         "source": "www.bntnews.co.kr",
         "date": "2026-11-18"
+      },
+      {
+        "title": "Java4Shell: OpenJDK Base64 디코더에서 인증 없는 원격 코드 실행 취약점 발견 (CVE-2026-114938)",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83bmlpWE9HRmFLMDFiNVJZSGVYQ01wbWZMTTFfTG1YTk5PWGhWUkhEb3pFcUh3VUdBY21VN1luVWNPLUhoRUJrbXk3Zw?oc=5",
+        "source": "GeekNews",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "아내가 젠슨 황과 연인 관계 있는 동안…앨리스 황의 남편이 중국서 한 일",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52MjNCUE1DU2dpYjBoRlNPQ0xFMlFoMWVyYlc4QUdUQWlnbDZ3X0lGQTQxMHJoa2FhcXNRRGRpWUl1ZG9Sd1ViTEtzd29PdWdsdnc?oc=5",
+        "source": "매일경제",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "앤트로픽 공모가, 예상 넘긴 83달러…기업가치 1.5조달러 전망",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRZTJzRU9aOW5FWGQxR2Z3dVAwYllXY3pXZmRqVUFxYnRtdWg2cG1MdlZnTjFoampjNEpoc0YzNE9mdUloSjY0MTM4S3dnTjQ3dWRJR0RrRjBsdGF1cW9Zc0U0dzZ3WGxicHhPLTRrbw?oc=5",
+        "source": "한겨레",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "“도면 몰라도 말로 설계하고 금속 깎는다”…‘바이브 코딩’ 넘어 ‘바이브 제조’ 확산",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmh4OGJWYWdURlZoYlBwX3Q5cDQtdGpMdnk3WnJ2RFlVSWxBQkZ2TC1tenBKMF9pVkd5Ni1Pc3F5YXVGQVh3MWNzYVRBRFlDUW52WXpJZ2hnVzRyYnk3OGZZUEJhU1RiSFpWY1BGNk03SzU0VmJRY2lFU05rMXBFck80aw?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "미국, 중국의 AI 원격 접속 차단…중국, 강력 반발",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fUEkwaGpUUXVMNlcxYWFXZVJ6ZVJDV3I0RWV6QVM4eHJmWVdNd1QzUXBWZlZvVl9ZeUdxUmVOQUlWNXdDTlByd2IxWk00c2hYWlgwWmZ2Y0RTVzA?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "코인판된 증시에 뺨 맞은 진짜 코인판",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTzg1alp3T25KWFhGTDRma2RlUmtnVFFmdVYtT0ZhYmV6bXh5N0RiOWlYOXBGUHVVcExjeW9RUEJ4cGcybjJGVG81cHpKZGxVd2RpNHZDeURDNnV6YXRFMWR4UFR3bVFjcHBCUTlMV202TmFuWVg1S0ZSd29vUmU2dFVVVlZ1Vzh4Z1g4?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "중국이란 호랑이 키운 美 빅테크… 30년 공생의 종말",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZDV4VHN4RzFXODFya0FlQ1Jja190UEI3TXByRno4RG5SM0t4YnNvT0JKNm9BUlBlQXdoUVhCT2o2YVBZZThDaWdXQVl2OVA1bnBtZTIzeTNKNHd6d000ekVvWE5IX0NtVEJTNktnWEdadG5UUmZnelRwZkFnWUlWSzJ0VHVmdlow?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-18"
       }
     ],
     "ENTERTAINMENT": [
@@ -1342,6 +1625,72 @@
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55ZWF1UU8xX2lOSXk1bE0yamtkWl95bUE1RlFUbUlncG1DX3RvVktVSlFOaVV2RjRSZmtXeTVsazMyalA3TmVacEt1eENrNXpnX2k0dEczcmw0WUJTQXc?oc=5",
         "source": "인벤",
         "date": "2026-11-17"
+      },
+      {
+        "title": "데이비슨·알칸타라·히우라, 2027시즌도 키움과…유토는 결별",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wTHVvSTJNVzVQTnM0N3Q3eHJwODU2YUJSRVJnVTZpZC1aNVM4WW9NaWR6bWRTaFpIQjlrSVlyTGJzcW1FdDA1Z3BUZXVKNTU4SHo5VTBLNnlJeHNYTEJwQmt0MnN2WE0?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "'모두의 구자욱' 허언 아니다! '삼성+SSG·두산' 3파전이라고? 4~5파전 될 수도 있다 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xX014aGJtRDE2QzlDdGtKMjdUWmpLMVVEb1VsYkxzdzFaZlNRcy1zcXJaUENHRDVoSkUxR0RiZHExUmxzRS01V3VVaWozdDRpa3VKVS1GSmpLaDJ6eFhGUVRMcjZSeVdDdFHSAW9BVV95cUxNTmNVLTBpdXlrd3ZEcE95V3Z4MkZpRGFiX1lPSC1pUHFPc0I5aGVhYzJYcTVvV1p0Xy0tRjFGQ2E0N3VMUWFPQXBCVmRiRWJLUHgyWWVpTGdHUWhVMVBXaGZnNVJaazh0U2lIeFo5OEk?oc=5",
+        "source": "머니투데이",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "'쇼트트랙 여제'의 라스트댄스?...최민정 \"생각해봐야죠\"",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yME5JcGNsTHVtQU1wUUhmWlFCVm94cWZoV01tZ3RaRkw1c1c3aFRCcnFubzJ1V1pwSTJ3WEZ4ZUdYREdtMUVKRFdxcVZsTko3TExQeTdkZFRoTE1mYlE?oc=5",
+        "source": "YTN",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "SSG 최지훈 4년 67억원·오태곤 3년 11억원 인천 남는다 \"다시 한번 우승\"",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xNlNUWXlFV0poTGN3SzVpNEpnVURwY1g5TUtqMXNqVk80dFlic3FFNUlkVld4WkR5WXk1WXV6d0cyX1RsVlBLOGJIVm1za1QzZC1aMnBHSTBkWVJLOGMtLUdJYlE0LWVpVUNvU1hTb1A?oc=5",
+        "source": "인천투데이",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "김은중호 안착하는 18세 김예건 \"이강인 선수 보며 많이 배워\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85Q1czenBGOS1kWjlPbU9yM0hrb1ExOHpzSUJfZkRnNkZ5dnJnUUVXSGZmcFBUSU9zd3JITVZlVDZXRUxudmhDTUZwSFFrX0hmclQ2MkdlQWk1RGfSAWBBVV95cUxNZ3FuUEhKLXFTeEVPVlZxdlg2V0UwN3hCYVBsZUNTQW1qNzFHMG5VRTY4MllfQUQ4VDlRaEdQUmh2bFRkQzJqZTZJZ0pRVzF4R0llaWtwUUdON0llSzV3WWg?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "여자농구 신한은행, 디펜딩 챔프 KB 잡고 공동 선두",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPeUtDZTdrbGRfMlAycUNQZ0NxNkNqTk5OaFUtT2VnTlQ5c09UcURWTW10SEdIRm5RR2Q2cjlrQVZvbkJRUnhncFo4UVRNZUtDNlRxUXYtbkdwWmgtclE4Q0tzYjZLWnFvSnc?oc=5",
+        "source": "SBS 뉴스",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "‘일구대상’에 KIA 내야수 김도영, 고교야구 MVP엔 부산고 하현승",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vX1pQejBvdkJ4ZFlxTm9hanRFbE9ieDV4RnVmZWtZdEk1RkFfbVBrcUgzdnRQbDFBMGhQNTZpb2dGQ2xNM1BabXlULTk3UG8yNnNvMURYWUNLQdIBX0FVX3lxTFBqdmRGaU5qZ3FLSFpKMk9SZWd1NWJHUUVrdjFGNEt5SnNXazhjejl5SDR5cExuQTZxOUVGNEJBeEM4NmdJSFR1cjhHdmxRcWJBRmZZSFpvVWoxb2NXNGQ0?oc=5",
+        "source": "경향신문",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "내분설 주범 논란→리더십 흔들 '캡틴' 손흥민 토로 \"대표팀 쉽지 않다…잘 이끄는 것에 대한 고민과 생각 많아진다\"",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXo3NjFHTFZGdXFaX0xtWDhEVEhyX1lBeFJQOU14eTRtM0lZSTNja3diQUtvZjZYTHNfckgxTThnOE02T3cwc2lxQVU2a3g2cWZEZVBhOXJRa25DQ2N4SjVoUFEzbFlkYzNYckc0bGpLc1RJaTAtVWNRMl9lR2c3TVVaaw?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSdkdrWTROZm9rV1l6OS14d0NuYmRjWmk4LU9VOUx5UU5EcFVpN2R3NXYyY0lKeHV5UE5MeWU3ZWJSc2tRVEdMS3JpZGhUSmkyekw3VTAySFZITjjSAWBBVV95cUxNT2xNTkNYYW82THBjREhCUjhpM1hBRFlBem81UG9QaWRqY1pxTU5JY3dhOFJrTlV2WFBPZVdJa0NDS3ZJOXZTSHoyT29PVXIxemtyWmV0RUphdXdiLUx2clA?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "[AI상보] '개막 4연패 탈출' 현대건설, SOOP 3-1 꺾고 시즌 첫 승...정지윤 306일 만에 복귀",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rVXl1VEszbzFCb3VCVFlyTHJsWEhmVEtKUndlYVEzVzd6NElpcU5ESE5xQm5RcEhUS0Q2N24yNGdMTXBQUVJvcUFpeVlMRjJ3TVJVdXFFSGdBUlZw?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "박길영 수원FC 위민 감독 “패배 책임은 제게…W코리아컵 우승으로 보답”",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkNlFqNFFSWjA1OG15MDVZZXVnLXFfMXc5X3JlcVhQbC1LVzNhdENUU2hUWjJXQXc2aHJISERjUW8yY29RWXVMUGE2c3lMV1FITjVfdk8wdE1EMm8?oc=5",
+        "source": "경기일보",
+        "date": "2026-11-18"
       }
     ]
   }
