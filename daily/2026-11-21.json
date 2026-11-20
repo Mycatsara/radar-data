@@ -241,6 +241,228 @@
       "firstSeen": "2026-11-21T02:41:00+09:00",
       "lastSeen": "2026-11-21T02:41:00+09:00",
       "news": []
+    },
+    "mu": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-21T08:46:00+09:00",
+      "lastSeen": "2026-11-21T08:46:00+09:00",
+      "news": [
+        {
+          "title": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap",
+          "url": "https://www.barrons.com/articles/micron-stock-memory-price-catalyst-58e84734",
+          "source": "Barron's",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "Micron Stock Draws Big Hedge Fund Bets as AI Memory Demand Surges",
+          "url": "https://www.tradingview.com/news/gurufocus:21138983e094b:0-micron-stock-draws-big-hedge-fund-bets-as-ai-memory-demand-surges/",
+          "source": "TradingView",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "Micron Stock (MU) Crashes Over 11% to Historic Bargain Levels. Wall Street Still Sees 169% Upside.",
+          "url": "https://www.tipranks.com/news/micron-stock-mu-crashes-over-11-to-historic-bargain-levels-wall-street-still-sees-169-upside",
+          "source": "TipRanks",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "경찰관": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-21T08:46:00+09:00",
+      "lastSeen": "2026-11-21T08:46:00+09:00",
+      "news": [
+        {
+          "title": "서울대생도 경찰관도 \"내꺼 써\"...잇단 '수능 미담들' [나우쇼츠]",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611201235515564_005.html",
+          "source": "YTN",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "수능날 '시계 문제' 겪은 수험생…경찰관도 서울대생도 손목시계 풀었다",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01981126645647688&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "\"엄마, 시계 멈췄어\" 당황한 삼수생...경찰이 '수백만원 시계' 건넸다[오따뉴] - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/20/2026112006293468961",
+          "source": "머니투데이",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "nvda": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-21T08:46:00+09:00",
+      "lastSeen": "2026-11-21T08:46:00+09:00",
+      "news": [
+        {
+          "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
+          "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+          "source": "Reuters",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+          "source": "Yahoo Finance",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
+          "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+          "source": "CNBC",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "한국항공우주산업": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-21T08:46:00+09:00",
+      "lastSeen": "2026-11-21T08:46:00+09:00",
+      "news": []
+    },
+    "연예인": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-21T08:46:00+09:00",
+      "lastSeen": "2026-11-21T08:46:00+09:00",
+      "news": [
+        {
+          "title": "\"집 샀다\" 자랑하더니 3개월 만에…'영끌' 연예인도 한숨 [머니팁]",
+          "url": "https://www.hankyung.com/article/202611209874v",
+          "source": "한국경제",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "남유정, 영끌해서 서울에 집 샀다더니 “금리 상승으로 대출 이자 부담”[핫피플]",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/MQYWIYTCHFSGIYTCGJTGMNRWGU/",
+          "source": "Chosunbiz",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "“갚아야 할 빚 많은데”…‘영끌’로 집 산 걸그룹 출신女, 금리상승에 한숨",
+          "url": "https://www.mk.co.kr/news/culture/12214487",
+          "source": "매일경제",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "경기남부": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-21T08:46:00+09:00",
+      "lastSeen": "2026-11-21T08:46:00+09:00",
+      "news": [
+        {
+          "title": "\"오를 곳은 더 오른다\"…경기 남부 집값 고공행진 속 공급 급감",
+          "url": "https://www.fnnews.com/news/202611201430139857",
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "경기 남부 아파트값 고공행진…광교 22억 신고가에 서울 외곽 추월",
+          "url": "http://www.snakorea.com/news/articleView.html?idxno=1065174",
+          "source": "서울뉴스통신",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "기흥 국평이 16억…반도체벨트 집값 줄줄이 전고점 돌파",
+          "url": "https://www.newsis.com/view/NISX20261119_0003875586",
+          "source": "뉴시스",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "나스닥 100": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-21T08:46:00+09:00",
+      "lastSeen": "2026-11-21T08:46:00+09:00",
+      "news": [
+        {
+          "title": "나스닥 100, 사상 최고치 대비 약 20% 하락: 과거 데이터상 60거래일 후 상승 확률 80%",
+          "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262316128-nasdaq-100-drawdown-20-percent-intraday-15-percent-backtest-tradingkey",
+          "source": "TradingKey",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "나스닥 선물, 한때 26,280.5포인트로 밀려 4월 중순 이후 최저",
+          "url": "https://www.tokenpost.kr/news/breaking/441375",
+          "source": "토큰포스트",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "나스닥 선물 0.74%, S&P500 선물 0.34% 하락",
+          "url": "https://www.tokenpost.kr/news/market/441360",
+          "source": "토큰포스트",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "공매도": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-21T08:46:00+09:00",
+      "lastSeen": "2026-11-21T08:46:00+09:00",
+      "news": [
+        {
+          "title": "“주식 어디가 바닥인데요?” 외국인은 이미 탈출…이건 7.4조 샀다는데",
+          "url": "https://stock.mk.co.kr/news/view/1203507",
+          "source": "매일경제 마켓",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "외국인, 지난달 우리나라 주식 26조 원 '팔자'‥두 달 연속 순매도",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6867106_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "삼전닉스만 닷새간 7.6조…외국인, 두 달 새 국내 주식 45조 순매도",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04254166645647688",
+          "source": "마켓인",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "가덕도신공항": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-21T08:46:00+09:00",
+      "lastSeen": "2026-11-21T08:46:00+09:00",
+      "news": [
+        {
+          "title": "'모두의카드' 반값 할인, 내년 연중 상시화 - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/estate/2026/11/20/2026111920143897539",
+          "source": "머니투데이",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "가덕도신공항 내년 예산, 2200억 원 더해져 총 6511억 원으로 늘어",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261120.99099006399",
+          "source": "국제신문",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "경기 주요 철도·도로 사업 내년도 예산안 일부 증액",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=920374",
+          "source": "경기신문",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    "대전광역시": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-21T08:46:00+09:00",
+      "lastSeen": "2026-11-21T08:46:00+09:00",
+      "news": []
     }
   },
   "sections": {
