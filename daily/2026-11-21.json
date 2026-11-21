@@ -463,6 +463,247 @@
       "firstSeen": "2026-11-21T08:46:00+09:00",
       "lastSeen": "2026-11-21T08:46:00+09:00",
       "news": []
+    },
+    "유현 조": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-21T15:10:00+09:00",
+      "lastSeen": "2026-11-21T15:10:00+09:00",
+      "news": [
+        {
+          "title": "유현조, LPGA 퀄리파잉 시리즈 2R 공동 6위…김민선은 공동 21위",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719082",
+          "source": "KBS 뉴스",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "유현조, LPGA Q시리즈 최종전 1R서 공동 8위…선두와 3타 차",
+          "url": "https://www.yna.co.kr/view/AKR20261120014800007",
+          "source": "연합뉴스",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "유현조, LPGA Q시리즈 최종 예선전 2R 공동 6위…김민선은 공동 21위",
+          "url": "https://www.viva100.com/article/20261121500108",
+          "source": "브릿지경제",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    "피겨스케이팅": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-21T15:10:00+09:00",
+      "lastSeen": "2026-11-21T15:10:00+09:00",
+      "news": [
+        {
+          "title": "피겨 김서영, 개인 최고점으로 시니어 그랑프리 5차 쇼트 3위",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6867446_36946.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "피겨 김서영, 5차 그랑프리 쇼트 3위…김유성·이해인도 메달 도전",
+          "url": "https://www.donga.com/news/Sports/article/all/20261121/135064584/1",
+          "source": "동아일보",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "피겨 김서영, 시니어 그랑프리 5차 쇼트 3위…개인 최고점",
+          "url": "https://www.yna.co.kr/view/AKR20261121000500007",
+          "source": "연합뉴스",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    "의성군": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-21T15:10:00+09:00",
+      "lastSeen": "2026-11-21T15:10:00+09:00",
+      "news": [
+        {
+          "title": "지방소멸 위기 의성, 경북 첫 청년친화도시 됐다",
+          "url": "https://www.yna.co.kr/view/AKR20261120042100053",
+          "source": "연합뉴스",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "의성군, 국무조정실 주관 '2026년 청년친화도시' 선정…도내 최초 - 머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/11/20/2026112009040476615",
+          "source": "머니투데이",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "춘천 ‘청년 친화도시’ 지정…“실험하는 도시 조성!”",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716915",
+          "source": "KBS 뉴스",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    "전북 대 fc 서울": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-21T15:10:00+09:00",
+      "lastSeen": "2026-11-21T15:10:00+09:00",
+      "news": [
+        {
+          "title": "\"두 개 다 잡을 수는 없지만, 승점 3점이 목표\" 김기동 감독, 아시아 무대에 무게...우승 확정한 서울의 남은 시즌 운영 계획 [현장 인터뷰] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/21/202611211305774612O",
+          "source": "머니투데이",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "아시아 무대 절실한 전북 vs 챔피언 체면 걸린 서울...선발 라인업 공개 [오!쎈 전주]",
+          "url": "https://www.chosun.com/sports/football/2026/11/21/HA4GINRWGM4WKOBSGM3GCZTGHA/",
+          "source": "조선일보",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "'전주성에서 우승팀 잡는다' 전북 현대, FC서울 상대로 반격 준비...ACL 진출권 향한 중요한 승부 [오!쎈 프리뷰]",
+          "url": "https://www.osen.co.kr/article/G1112912557",
+          "source": "OSEN",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    "휴대 전화": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-21T15:10:00+09:00",
+      "lastSeen": "2026-11-21T15:10:00+09:00",
+      "news": [
+        {
+          "title": "이 대통령 \"국가시험 전면 개편\"‥범정부 TF",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867425_37012.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "수험생연대 “정부 수능 대책, 실효성 없고 혼란 초래”···교육부 장관 사퇴 촉구",
+          "url": "https://www.khan.co.kr/article/202611211414001",
+          "source": "경향신문",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "이번 주말부터 주요 대학들 논술 실시... ‘AI 부정행위’ 대응 총력",
+          "url": "https://www.chosun.com/national/education/2026/11/21/C76MBS6ZWZBNZB4LM6C6SK7KNY/",
+          "source": "조선일보",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    "보이저 1호": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-21T15:10:00+09:00",
+      "lastSeen": "2026-11-21T15:10:00+09:00",
+      "news": [
+        {
+          "title": "[그래픽] 보이저 1호 '1광일' 거리 통과",
+          "url": "https://www.yna.co.kr/view/GYH20261117000600044",
+          "source": "연합뉴스",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "우주 심연에서 날아온 ’생존 신호’…보이저 1호 ’1광일 전파’ 수신",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120140419XEz",
+          "source": "연합뉴스TV",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "광속 1일 거리…보이저 1호가 ‘픽’한 태양계 사진첩 [놀라운 우주]",
+          "url": "https://www.hani.co.kr/arti/science/science_general/1288424.html",
+          "source": "한겨레",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    "양산신문": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-21T15:10:00+09:00",
+      "lastSeen": "2026-11-21T15:10:00+09:00",
+      "news": []
+    },
+    "맥도날드": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-21T15:10:00+09:00",
+      "lastSeen": "2026-11-21T15:10:00+09:00",
+      "news": [
+        {
+          "title": "존박이 랩으로 주문한 그 버거 어디 갔지?…맥도날드 ‘빅아치’ 사라진 이유",
+          "url": "https://m.ddaily.co.kr/page/view/2026112015561438469",
+          "source": "디지털데일리",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "맥플러리 랩 터진 존박·곽진언…비프리도 알아본 ‘커플 부츠’[누구템]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01764646645648016&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "Everything K-POP and More! - 위버스 매거진",
+          "url": "https://magazine.weverse.io/article/view/2026",
+          "source": "Weverse Magazine",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    "탈선": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-21T15:10:00+09:00",
+      "lastSeen": "2026-11-21T15:10:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 일반열차 중단된 천안-대전에 임시열차 15대 투입",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6867466_36918.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "논술·면접 시험 봐야하는데…수험생 경부선 탈선에 어쩌나 ‘발동동’",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1288427.html",
+          "source": "한겨레",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "[속보] 코레일 \"천안∼조치원∼대전·서대전 구간 버스로 연계 수송\"",
+          "url": "https://www.kyeonggi.com/article/20261121580047",
+          "source": "경기일보",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    "전현무": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-21T15:10:00+09:00",
+      "lastSeen": "2026-11-21T15:10:00+09:00",
+      "news": [
+        {
+          "title": "'공개 연애 두 번' 전현무 \"밤바다 데이트…배가 끊겼다 하기도\"",
+          "url": "https://www.newsis.com/view/NISX20261120_0003877494",
+          "source": "뉴시스",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "이주연 \"매니저가 화장실까지 쫓아와\"...'이것' 감시 폭로 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112014004899150",
+          "source": "머니투데이",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "오렌지캬라멜 리지, '음주운전' 5년 지났지만 방송서 통편집",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/GQ4DMOJXMVTGCNJUG42GKM3DMM/",
+          "source": "조선일보",
+          "date": "2026-11-21"
+        }
+      ]
     }
   },
   "sections": {
@@ -1032,6 +1273,42 @@
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4dDFCTlFnUHZTeGlhNlZ0MFRicU9vako3SHU1Y0Z5VGctSWIzWlRHSTFQZXhwaXg0cVNOUURTeE9vbGFfQV95X1lYV0tSRDVBa3UyXzU2ME9hQQ?oc=5",
         "source": "한국경제",
         "date": "2026-11-19"
+      },
+      {
+        "title": "젠슨 황 떠난 엔비디아, AI주 매도세 겹치며 아마존 시총만큼 증발",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUlyelBkN0tucVotWUQtNlN1Yml3Z0ZybGZ1SzQ3NUtYdDhwRGNoeWlIYjZDSkh2MU9DVGhXRnREY1VUbHp1T2lsTE9JSHJMNFFxN2FXWW1reFEwQTYwcm16MEFXOFZFZWxudklxbEhZc2ZJZ0VuWGVpZ2wxNmxlMnFoZlppWTdfZWZEV1hR?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "중국행 반도체 막는다더니…미국, 엔비디아·AMD 칩 88만개 수출 허가 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wMHpndVF1N01xUmVyekFDamtTcHNTNVFEa193S05MOVRGSnpfTktES1doNVVqemY5MXR6d2x2RlZqemhmX2Jvc0FOcDJmRGUzcHpueDZCWnRPelJUZU5odGRGaWNOa3dD0gFuQVVfeXFMTmQ4OHdtd2d5YkwxWnIxWkE5SFVSTldFd1Q2UF9QYktNekdCc2VDaGN2ZzFOTFdFRm84Zk5jaGlaOUhtVE5aMk0wVF93RnBSb0xlYkoxUl9rNldmQm82QnkxTFpSRUZlb0FvUVVSUGc?oc=5",
+        "source": "머니투데이",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "\"돈 싸들고 줄 서더니\"…4개월 만에 75% 증발 '줄도산 공포' [차이나 워치]",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTd1ZCekNNb25VbG9LVUotQnM3Y0g4MHZJSDVqRTVyLUNkRTdIR0gxNTFnb1lHd1ZwOG1RZ2pONnVFdzJsNEIxRktQRGt5eTNZa2xWWHo1Slk3QQ?oc=5",
+        "source": "한국경제",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "기요사키 \"비트코인 폭락 기다렸다\"…추가 매수 예고",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByNGg3UjBuSXp5T2VVSm5RdUhvcmpUUjZsRGVLTnE2WDRPVlhBWWkwck1NQTYzcUtiLWY4WHFERlFTUi1iR1hVSC1CclczNDNka0lWNl9KcVA?oc=5",
+        "source": "블록미디어",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "AI안경 쓰고 수능 풀어보니… 수학 15분 만에 풀고 90점 획득 [2027 ��능]",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxUGNlTGVSb3dTUUVUT1huS0ZCc1FLbHNjcV9mVkh1U1o0eUJyd3NJWndsX1RHc3Z6d2pNQkJLWklVQmRjVHRxUUdINTZBRjF3WmdNblBmLUrSAVRBVV95cUxQS1ZKNmsyc2JhNXk1c2w2TVc0VllXT0Y0NXVPY1dudDBWbXYtaEFORzRQSG5Mb2puUmJUTUwyRmw0TGd4Smw4QmVXWVJPRDVYREVZSFg?oc=5",
+        "source": "세계일보",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "삼전 7만, 하닉 20만원 전망한 전문가…\"엔비디아, 장기적으로 경쟁력 없어\"",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5haXMyWUNtZWFXQUQ3OEU2STFDeWxyQjRVa0Z0NHpzMlNURkhEa3J0ZnhCaW1NelYxcHJIcXp0cVVBRGxRWHVjZkozQklUMUVmSWtncHdvNXdqSmZOU0p1TEl5eWzSAXhBVV95cUxPalBINnRSRG9qUzdQdkItd0U5N2o3RVVtOUczdlQzNkgwYU94Tzk1LXc5YWQ5WVRreW43bTV6OWVxaExhZHlJWHJtY0ZOTDdkVXlBTXlib0l1X0ZZb2xZdHdsLTFqcFQzYUFZU0VuRHEwRU1pSmFlWDM?oc=5",
+        "source": "뉴시스",
+        "date": "2026-11-20"
       }
     ],
     "ENTERTAINMENT": [
@@ -1545,6 +1822,96 @@
         "title": "김호령 비싸네.. 롯데 중견수 묘수 탐색! → 日선수 마캠 전격 초청",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EYk5iS3FrRTNQOE90TUZpZlNOQXFwNHFCb2RFYUF5YlNfbFpjQ2Rtcmc3cmNTSWFEbXZmLTlXVmc5bUNoSk9ULVRpbjcxR1dxYVhSUE9ya1VsNkhrbFVrLTQ5NXFBYloxWVNNbW5zcS1HWVcxS2ZYdVY3MVNYQQ?oc=5",
         "source": "스포츠조선",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "[LPGA] 김아림, 짜릿한 홀인원…티띠꾼에 3타차 앞선 단독 선두",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tdTlUclM2UEtkYmZYdDRoQ0hJVGtRc1pWMDM3NlA2emZDaHRHcmxuTjJwVjgtRkcyeXZ4SE1qVjBsajdOUXY5LWZreXRzSnN3ZmNoT1BzaGlEQQ?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "‘MLB 사무국 신분조회 요청’ FA 최대어 구자욱, 정말 ML 진출할까…12월 직장폐쇄 전 결정된다 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xaXZsMlpnclN1ZGwySkxQR2poSWdkQVdEUE9Pcm92WEtFdHVXQTRnMVlwOEhpdXg1d1d1dFlIeXg5OW5oM3FxYVBEbENLSElKY0xlYTJET1F6eXZvdzBNRUdXX3RHYVVvNmfSAW9BVV95cUxPWk42MzVpZ3ZNSGVWTEh1Z1B2NFlacUpqbHRFN1dCMWRIejRzZFcyNG1OZWJUY2dyZXZTb3JKeHMtQmVSOUVrSHRFSDNud3dYeHVTWkswTTZCcXJmZGdxdExxYjRmNzZabHNGOXV5S0E?oc=5",
+        "source": "머니투데이",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "노승열, PGA 최종전 RSM 클래식 2R 공동 19위…선두와 4타 차",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0aWpEWjNKV0h6LWxyMm5felhscFRZalp3Unh0eG9RekZSMWNVOVJHSE1VdWcwcmNuREdlcmh2c2RobnNkQzNOZ1V4NnJXX0tRYm1haWJiQXNZV2vSAWBBVV95cUxOQ0x0R195ZEZRN1ZrWWFvVHZ6bDNHZzIzMURlSUZFZHJtTFQwUWxFaVkxQU1TX0paLUZqcXBacWZZZXdRRE9aYlpsdElNVFhQNXBCTWl5Rk1HS0RQS21PY2Y?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "삼성생명 이해란, 2026-2027 여자 프로농구 1라운드 MVP",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRzUyeFJRd0d6Rkhqc2lKd0tnUU1jMG5ZZmlrVXdKN1YzVjFrYTdBNjRKWHVBT21sdEcySWhDT0N2WUIxd3JnX3hEMEpra2NaQUYxMG5IM3Ixdkt3dVQ2MzVZT3NIWW9mazVyWjVQYkJqVWVWTlNZR182c0NVcXdPcW45dU5mZw?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "피겨 김서영, 개인 최고점으로 시니어 그랑프리 5차 쇼트 3위",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vWW9RV1VrUy1zMFZsNEl6Qk9WUktSdVc0anpadUF6NllMcmo0OUpuZ3k5WDZaU2ZnRkExNC10eThOUk1wMnZTajZna2Q1RGtqMk5lb2hRYnRSb3FUVFJ5ZHlFbG0tUldUSGt1TWlTZ0JXdlkyZmfSAXZBVV95cUxPVWNEemFaYnF1Q1BzSFI4dmRvOGdLa0xiMU5hNzVzTEpUMkpBZ09zRkN6Nzlnb1MxVnNLd2FFeEdHdENBcFpIWTZBejljdjdlUi1GRlpjSjVCWVZwTnRheVlnRlJQUTR2NUZ3TE9iLU1lY0VWbFVn?oc=5",
+        "source": "MBC 뉴스",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "‘기적의 역전승’ 변상일 9단, 생애 첫 삼성화재배 우승",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13eTBFTjlVWDJhaTlGV2lDM1Q4ZWhsOG03clcxazFnY1p3TW1YeVRDWmU2dWRFTVVmU3RGdUZuR1lIcFVFeG9TRFpzQWhKSV9xVFE4UUcyb081MzFMUWpDZ2dNeDBsdw?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "'축구의 신 맞네!' 메시 연봉 379억, 손흥민의 2.5배 받는다…손흥민 MLS 전체 연봉 4위 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HSGlJaHVXN2NxelNraVBkYU4zWDZTUHpUNV9aRXZQaWI3dUNkWU5yd25oa2RYbkppOUI3ZFpqOHZWZ3lpYUEwWG15cjRud3RpbHJLRnBOQmt6OGpLcEViYWpJY1RUYkN2c3fSAW9BVV95cUxQcHhRdEZlNEZHblRuQUhpdmJUXzdBbmQtVHlaQVpMci1OSzVNcXNVa2U2bHg1TTJBTC1Oa1NaRHlQVWZ1a3RlV2pIQnF3cGktR1RaSEdvVXI5cllCWEhYLTB5LUl5ajN1ekxqNEI1eUE?oc=5",
+        "source": "머니투데이",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "남자배구 한국전력, 현대 꺾고 5년 만에 1위로 1라운드 마쳐",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FeDlFcDZ5bU1kamJyWTlCclJKYVhPS2Nxd0o0eG5nNDM1Mkk2eWxHbFBDQzZlNHI1Tk5sWGt4WHZRNFN1VWppdWtNbmdVR0VnVnZhMmxqeDF3WlXSAWBBVV95cUxNbWEtR2tEeTlCUV9pMVozejVZQ1JVd1R4UzNUX2FWQ2pPQVRfYW9sMGxrRlg5QVdlbTYzRGUzVjQ3cFRsQVcyN09ibnhsSEdUVVVxbGdoRVYzR3BUSXEwazE?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "유현조, LPGA Q시리즈 2R 공동 6위 도약…미국 무대 진출 청신호",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nMXhGbUtZX2J4RUhHLWRoTldGZDV2N2ZuekdWMWJRM2NHVjRPS1F4TFpxeVYxc2VpT3ZjT2t3QnNuSVFjY3ppWHRZTXhIdlhEMGc?oc=5",
+        "source": "뉴스1",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "'쿠팡 특혜 의혹' 축구협회 정면 반박…\"독점권 부여 없었다, 규정 따른 조치\"",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UdllWSjYtaVAtTGUxZ08wT1N5WnN2X0gxeV90ZWRybjFiU1FjMExYWE50U2xsMTVmWmJUa19VUjk0eTlqX3NjRHI3WkxfT2RjLUQ3WHN2cnhoX3pV?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "’황인범 후반 교체투입’ 포르투, FA컵 16강행",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vdGNzLUxpdDNNTmlqVW1aai1CLWtOWFdZeXdLbjd6ZFc3X3d5cHA0a1ZKRWpibUNoc1FGTmt1RnE4Zkl5RUItR1A4RTNNYUZYTXlzQTEwNWxhVVF4aUQ3dG1WSk93cnM?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "'뼈아픈 저격? 만감의 표현?'…정철원 SNS 작별사, 임지열 손편지와 '극명한 대비'",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93ZkxFYTMzdEd3Z2hRMlRhR05fZVI3bjZ1RGNma3dGaDdxaGo0ZjBxTExEVFNZamR6SzllOGRkVFhvVTVYeVMtVjB1RElTMWFObGc?oc=5",
+        "source": "노컷뉴스",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "프로배구 관람 중이던 관객 사망에…KOVO·흥국생명 “깊은 애도”",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82aHQxcXFFU2V5d1puMmJWcHNoUWhYeHoxN1p1TE5RR3hCZUVfUGY5ZHpiZlZuTVRQVHh1UWJXTTc0dWl1SWJkdmZ6MS0xXzZOcHdUaVUzaDFWQTI0NXN6MnR5NmJlUDAzY0RVcHI1SkRoZw?oc=5",
+        "source": "한겨레",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "프로농구 수원 KT, 신인 드래프트 전체 1순위로 'AG 3대3 금메달 주역' 이동근 지명",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pV2Z3VVBsVTg0MEQtN2otckZhNFVVY0hMeUtXdDc1TWZLS29tdWZiamJhWTFzVnFFbjFWSHRXaFlZRFZsRTdaZW01UmdGRHZxRkNGUUN0MEFrcDg2c0VJRTFB?oc=5",
+        "source": "경기신문",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "‘왕조 부활’ 외친 삼성, 구·원 잡는 게 전부 아니다",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CT3RIdXg3Y1lBa3AyQ1Z0Q3c4UXlRWWlWNThrNFpqQTI1aTBTbF9zY2NNZUZsSmVYSlRkZ1llQTJUenZZWVdabWJEdm90dVlmcnJSRUVBTlE4dU96T3RMcHNPRTNhTXRwd1HSAW5BVV95cUxPclp1NEo2U0Z2RS1uaGhNa2dZeWFfU19aYmFJLWlCTGVLTHprQ1QyT1d1TVhfUEhLQlJmUHk1di1oODZNeFRVcklGOXdYME5WMjI3eVhJaTlXblppdXVfMFU1QVY2eUlXUWtGRWsyZw?oc=5",
+        "source": "주간조선",
         "date": "2026-11-20"
       }
     ]
