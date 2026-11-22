@@ -520,6 +520,266 @@
           "date": "2026-11-21"
         }
       ]
+    },
+    "정부": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-22T17:36:00+09:00",
+      "lastSeen": "2026-11-22T17:36:00+09:00",
+      "news": [
+        {
+          "title": "김영훈 노동장관 “정년연장, 27일 여당 특위서 결론 못 내면 정부안 발표”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719343",
+          "source": "KBS 뉴스",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "정년연장 논의 재개 앞두고…김영훈 \"합의 안 되면 정부가 나설 것\"",
+          "url": "https://www.chosun.com/national/labor/2026/11/22/4ENU5B5NBFH2NE3ME22UYORJPY/",
+          "source": "조선일보",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "노동장관 “정년연장, 27일까지 결론 안나면 정부안 先발표”",
+          "url": "https://www.munhwa.com/article/11633102",
+          "source": "문화일보",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "코스닥": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-22T17:36:00+09:00",
+      "lastSeen": "2026-11-22T17:36:00+09:00",
+      "news": [
+        {
+          "title": "엠비디 코스닥 데뷔…수요예측 흥행 실패한 아델은 공모 철회 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/22/2026112015454779704",
+          "source": "머니투데이",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "공모가 낮춘 엠비디, 이번주 코스닥 입성…마더스제약 등 2곳 수요예측",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445888",
+          "source": "연합인포맥스",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "엠비디 상장…케이엠에프·에이엔에이치스트럭쳐 청약",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01220166645648344",
+          "source": "마켓인",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "검은 월요일": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-22T17:36:00+09:00",
+      "lastSeen": "2026-11-22T17:36:00+09:00",
+      "news": [
+        {
+          "title": "증시 급락에 정부 긴급 F4 회의‥시장 안정 대책 논의",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6867594_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "이형일, 오늘 '긴급 F4회의' 소집…AI 투매發 증시 급락 점검",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445881",
+          "source": "연합인포맥스",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "野 \"역대급 '이재명 버블' 붕괴 … 블랙먼데이 대응해야\"",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/22/2026112250024.html",
+          "source": "뉴데일리",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "인수 합병": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-22T17:36:00+09:00",
+      "lastSeen": "2026-11-22T17:36:00+09:00",
+      "news": [
+        {
+          "title": "인텔, 클래식 인수에 … 삼성·미래에셋 '웃음'",
+          "url": "https://stock.mk.co.kr/news/view/1203777",
+          "source": "매일경제 마켓",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "인텔, 클래시크 인수에 성과 연동 3.5억 달러 추가 지급한다",
+          "url": "https://startuprecipe.co.kr/archives/5840722",
+          "source": "스타트업레시피",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "인텔, 클래식 인수에 … 삼성·미래에셋 '웃음'",
+          "url": "https://www.mk.co.kr/news/stock/12215625",
+          "source": "매일경제",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "류효영": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-22T17:36:00+09:00",
+      "lastSeen": "2026-11-22T17:36:00+09:00",
+      "news": [
+        {
+          "title": "이러다 결혼하나…류효영, 이태성에 직진 \"요리 해줄게\"",
+          "url": "https://www.newsis.com/view/NISX20261121_0003877731",
+          "source": "뉴시스",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "'류화영 쌍둥이 언니' 류효영, 이태성에 적극 호감 표시…\"마음 더 확실해져\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6361576",
+          "source": "뉴스1",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "“오빠 이제 집에 못 간다니까?” 태성을 납치한 용감한 그녀 효영?!",
+          "url": "https://ichannela.com/program/clip/000000560995.do",
+          "source": "채널A",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "소년 소녀 가장": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-22T17:36:00+09:00",
+      "lastSeen": "2026-11-22T17:36:00+09:00",
+      "news": [
+        {
+          "title": "100만원 든 봉투 겉엔…‘소년 소녀 가장을 위해 써주세요’",
+          "url": "https://www.donga.com/news/Society/article/all/20261120/135062120/2",
+          "source": "동아일보",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "복지센터에 전달된 ‘현금 100만원’…봉투에는 “소년소녀가장 위해 써주세요”",
+          "url": "https://www.segye.com/newsView/20261120513885",
+          "source": "세계일보",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "흰 봉투속 100만원…이름없이 떠난 수원의 '얼굴 없는 천사'",
+          "url": "https://www.newsis.com/view/NISX20261120_0003877122",
+          "source": "뉴시스",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "이대호": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-22T17:36:00+09:00",
+      "lastSeen": "2026-11-22T17:36:00+09:00",
+      "news": [
+        {
+          "title": "‘이대호 3구 삼진’ 삼성 1R 출신 이호범, 팔꿈치 수술 딛고 다시 시작된 도전…“공 던질 생각에 설렌다” [오!쎈 경산] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/22/202611220131775873O",
+          "source": "머니투데이",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "‘불꽃야구2’ ‘믿을맨’ 신재영, 삼성 지명 신인과 살 떨리는 맞대결…실점 위기 넘길까",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/GJQTKYZUMY3GIYRVGQ3TSMTFMM/",
+          "source": "조선일보",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "'불꽃야구2' 파이터즈, VS 강릉영동대 '집중력 시험대'",
+          "url": "https://www.etnews.com/20261122000037",
+          "source": "전자신문",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "김정은": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-22T17:36:00+09:00",
+      "lastSeen": "2026-11-22T17:36:00+09:00",
+      "news": [
+        {
+          "title": "“트럼프, 김정은 만나기 위해 ‘종전선언’ ‘북핵폐기 미요구 성명’까지 검토했다”",
+          "url": "https://www.chosun.com/international/international_general/2026/11/22/RWKEIN6GM5EBHAGVL4MYRNCWEQ/",
+          "source": "조선일보",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "\"트럼프, 김정은에 만나자 제안했지만 北 '조건' 내걸어 무산\"",
+          "url": "https://www.yna.co.kr/view/AKR20261122023100009",
+          "source": "연합뉴스",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "[반도 앨리스] 트럼프 집요한 구애에도 ‘이벤트성 회담’ 거부한 김정은…다시 만날 기회 있을까",
+          "url": "https://www.khan.co.kr/article/202611210800021",
+          "source": "경향신문",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "해저": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-22T17:36:00+09:00",
+      "lastSeen": "2026-11-22T17:36:00+09:00",
+      "news": [
+        {
+          "title": "태안 서격렬비열도 인근서 선박 추정 물체 발견···실종 ‘해광호’ 여부 확인 중",
+          "url": "https://www.khan.co.kr/article/202611221013001",
+          "source": "경향신문",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "충남도 \"해광호 실종자 수색에 예비비 긴급 투입\"",
+          "url": "https://www.yna.co.kr/view/AKR20261122038300063",
+          "source": "연합뉴스",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "[속보] 실종 어선 ‘해광호’ 5일 만에 발견…마지막 위치서 ‘침몰’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719379",
+          "source": "KBS 뉴스",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "이스라엘": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-22T17:36:00+09:00",
+      "lastSeen": "2026-11-22T17:36:00+09:00",
+      "news": [
+        {
+          "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적인 합의 할 것\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122024936e1r",
+          "source": "연합뉴스TV",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "트럼프 “핵무기 갖게 두지 않겠다…이란과 영구적인 합의 만들 것”",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1288468.html",
+          "source": "한겨레",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "트럼프 “무능한 대통령 나와도 이란 핵 못 갖게 영구 합의”",
+          "url": "https://www.donga.com/news/Inter/article/all/20261122/135065558/1",
+          "source": "동아일보",
+          "date": "2026-11-22"
+        }
+      ]
     }
   },
   "sections": {
@@ -1717,6 +1977,18 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6UDRfcENZOVQxb3BDZ2p1TWFBNnlVcVl3ZG96WmktSHUyQWM5MUtZV0pnNEZ0ZlBJemdNQ1ZpSG10MEpKcDRRRWNzY1RQM2EySzcxdFV1MHlqX3Y3M2tFVlVVc29Zdw?oc=5",
         "source": "마이데일리",
         "date": "2026-11-21"
+      },
+      {
+        "title": "[핌in청주] 노구치, 신한은행의 KB전 2승 견인 \"다같이 리바운드 참가 승인\"",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rQjA5YThiRUJqbW1hcEZHOTJNYkdhNUwzTEpka3hBQVRUNnptT0xwTlEweWNmWFl5UlNNRFRoM2RBcnVsZlgzMUVsQmt5NUU3TWFQaDJIcTlqQQ?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "[핌in청주] 단독 선두 노리는 삼성생명 하상윤 감독 \"이해란, 에이스로 많이 성숙\"",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ST1l5NS1fLXhQSVlNRnpZOFNscUlWejk5Q0tCd3Bob2NoUUZ6N2kxdEJJczVRYkhIYUZ6MzVJRkd5NVBVeGJDX3JaY3p5Q21lbnBvalhzNU9xRzIy?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-22"
       }
     ]
   }
