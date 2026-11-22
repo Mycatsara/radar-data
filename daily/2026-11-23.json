@@ -241,6 +241,247 @@
       "firstSeen": "2026-11-23T01:57:00+09:00",
       "lastSeen": "2026-11-23T01:57:00+09:00",
       "news": []
+    },
+    "양산시": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-23T07:23:00+09:00",
+      "lastSeen": "2026-11-23T07:23:00+09:00",
+      "news": []
+    },
+    "홍창기": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-23T07:23:00+09:00",
+      "lastSeen": "2026-11-23T07:23:00+09:00",
+      "news": [
+        {
+          "title": "세대교체 필요한 LG, 박동원과 홍창기 잡아야할까",
+          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003287083",
+          "source": "오마이스타",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "FA 박동원·김태군·최재훈 뜻밖의 아킬레스건? 포수 수비 탑3에 없다…연쇄이동 제동 걸리나, 장기전 예고인가",
+          "url": "https://mydaily.co.kr/page/view/2026112004102210618",
+          "source": "마이데일리",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "염경엽 LG 감독 \"김범석, 나는 포기하지 않았다\"",
+          "url": "https://www.yna.co.kr/view/AKR20261117137700007",
+          "source": "연합뉴스",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "삼성전자": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-11-23T07:23:00+09:00",
+      "lastSeen": "2026-11-23T07:23:00+09:00",
+      "news": [
+        {
+          "title": "\"삼전 30만원·하닉 200만원 이상에 물린 사람…3년은 마음 비워야\"",
+          "url": "https://www.newsis.com/view/NISX20261118_0003873510",
+          "source": "뉴시스",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "'7만전자·20만닉스' 전망한 전문가...\"AI 거품, 폭락 시작도 안 했다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/21/2026112110581031975",
+          "source": "머니투데이",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "\"삼전닉스, 전고점 당분간 다시 뚫기 어려울 것\"…헤지펀드 고수의 '쓴 조언'",
+          "url": "https://www.hankyung.com/article/202611198555i",
+          "source": "한국경제",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "교장": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-23T07:23:00+09:00",
+      "lastSeen": "2026-11-23T07:23:00+09:00",
+      "news": [
+        {
+          "title": "\"지우개 없어? 반으로 잘라!\" 감독관이 전한 ‘초유의 수능’",
+          "url": "https://news.jtbc.co.kr/video/NB12329097",
+          "source": "JTBC",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "수능날 지우개가 안왔다…“반으로 잘라, 내가 책임” 기지 발휘한 교장",
+          "url": "https://www.donga.com/news/Society/article/all/20261122/135065591/1",
+          "source": "동아일보",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "수능 시험장에 지우개가 안왔다…“내 책임이여” 교장이 내린 결단은",
+          "url": "https://www.etnews.com/20261121000038",
+          "source": "전자신문",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "지스타": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-23T07:23:00+09:00",
+      "lastSeen": "2026-11-23T07:23:00+09:00",
+      "news": [
+        {
+          "title": "[대담한K] 지스타 개막 D-2…부산 게임 산업의 과제는?",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715323",
+          "source": "KBS 뉴스",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "[인터뷰] 김동현 대표 “지휘의 재미와 원작의 특징 살린 ‘디겜폭: LAST STAGE’”",
+          "url": "https://www.viva100.com/article/20261120500584",
+          "source": "브릿지경제",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "원작 몰라도 즐겁다… 전략으로 승부하는 ‘디겜폭’ [지스타2026]",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001574",
+          "source": "IT조선",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "라면": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-23T07:23:00+09:00",
+      "lastSeen": "2026-11-23T07:23:00+09:00",
+      "news": [
+        {
+          "title": "통상본부장, 굴 수출기업·딸기 농가 찾아 K-푸드 수출지원 논의",
+          "url": "https://www.yna.co.kr/view/AKR20261122033000003",
+          "source": "연합뉴스",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "'K-라면 구입해 볼까'",
+          "url": "https://www.news1.kr/photos/8226844",
+          "source": "뉴스1",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "“한국 오면 무조건 먹어야 해” 외국인들 푹 빠지더니…역대급 기록 세웠다",
+          "url": "https://www.sedaily.com/article/20117387",
+          "source": "서울경제",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "엔비디아": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-23T07:23:00+09:00",
+      "lastSeen": "2026-11-23T07:23:00+09:00",
+      "news": [
+        {
+          "title": "‘1인 독주’ 젠슨 황 사태, 이사회가 멈췄다",
+          "url": "https://www.chosun.com/economy/weeklybiz/2026/11/23/MLPUPUEVJZD3BKET4VXRPATAZI/",
+          "source": "조선일보",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "“불륜 아니다” “너의 뇌에 오줌 누겠다”···젠슨 황 퇴출 부른 건 거짓말과 상습 폭언",
+          "url": "https://www.khan.co.kr/article/202611211444001",
+          "source": "경향신문",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "미 재무 “엔비디아 수출통제 준수 여부가 핵심”…젠슨 황 복귀 가능성 배제 안 해",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719528",
+          "source": "KBS 뉴스",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "김다현": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-23T07:23:00+09:00",
+      "lastSeen": "2026-11-23T07:23:00+09:00",
+      "news": [
+        {
+          "title": "[ET포토] 권은진. '돋보이는 비율'",
+          "url": "https://www.etnews.com/20261123000044",
+          "source": "전자신문",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "[ET포토] 와타나베 켄, '부인과 함께 왔어요'",
+          "url": "https://www.etnews.com/20261123000039",
+          "source": "전자신문",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "5개국 대사 한복·염색체험…강원랜드, 하이원 K컬처위크",
+          "url": "https://www.newsis.com/view/NISX20261122_0003878127",
+          "source": "뉴시스",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "임영웅": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-23T07:23:00+09:00",
+      "lastSeen": "2026-11-23T07:23:00+09:00",
+      "news": [
+        {
+          "title": "[브랜드평판] 가수 브랜드 2026년 11월 빅데이터 분석결과...1위 리센느, 2위 에이티즈, 3위 임영웅",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=805422",
+          "source": "일간투데이",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "5년11개월째 아무도 못넘었다…임영웅, 영화관까지 접수하며 71개월 ‘연속 1위’",
+          "url": "https://www.sportsseoul.com/news/read/1651368",
+          "source": "스포츠서울",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "임영웅, 가수 브랜드평판 ‘톱3’…리센느 1위",
+          "url": "https://sports.khan.co.kr/article/202611211132003",
+          "source": "스포츠경향",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    "기관 투자자": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-23T07:23:00+09:00",
+      "lastSeen": "2026-11-23T07:23:00+09:00",
+      "news": [
+        {
+          "title": "美 기관투자자, 비트코인 ETF 3분기 순매수 전환…보유량 사상 최대",
+          "url": "https://zdnet.co.kr/view/?no=20261122091755",
+          "source": "지디넷코리아",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "은행부터 국부펀드까지…비트코인으로 향한 월가 자금",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716248",
+          "source": "디지털투데이",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "제프 베이조스 전 헤지펀드, 비트코인 재매수",
+          "url": "https://kr.beincrypto.com/de-shaw-bitcoin-etf-strategy-strive/",
+          "source": "BeInCrypto",
+          "date": "2026-11-22"
+        }
+      ]
     }
   },
   "sections": {
@@ -1318,6 +1559,120 @@
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qUndtcV83aE1uWTJxanN5RXpWVEJRa3RNaGVfTjVMS3RaR0RBRGlydDZCZnhxWFdkSlJNSjJBb2NUdFNPQWdYS09tM2RjNVhmczlYSGtFV1laQQ?oc=5",
         "source": "한국경제",
         "date": "2026-11-22"
+      },
+      {
+        "title": "대구FC, 시즌 마지막 홈 경기서 김해FC에 3대0 완승",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MbTJTV0N4TlBUTmN5WWZVNXV3RTk4UzRZSEtoVDhuQ3dLelAzdnlVbTdHU0xJYjNPMzgtYzlyTVFoNHhfZG1LUTVwUXhhYVRGaUtORDlpbDFrNlNKR2ZWbkYxRjdQakQ5dDRtMGlfQQ?oc=5",
+        "source": "경북일보",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "수원 삼성·수원FC, K리그2 우승·준우승으로 1부 승격…‘수원 더비’ 부활한다",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PejQxY1hGZEJ6SE9OVENPZmZjV0N1RFU4a2xsMUo0OUVENUJZTkZMOUdyVFpOcnY4Zm9uN3ZUWG9kV2REOVJYZUl1ckw4TDE4aTBSaEZjRG5iU0FRSkQxYmlic05QZlk2YkVTVHBLU0ZUN01i0gFmQVVfeXFMT2F3MVBmMXpMaGpMOFAzQ3hreEFTcERWMFpicS1MeWREX2dwZDRCVzJNcVRjNEp4eHlTZVBwSjdOYkhRczFlOUFBajFNWVBmM3ZRaVlnMkE1RUJrX3FwTmkxTDlzQnRB?oc=5",
+        "source": "동아일보",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "김아림, LPGA 시즌 최종전 공동 7위…티띠꾼, 3년 연속 우승(종합)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQeXZjNmtWblhYaXBnZk9rYmd5ZGlfXzlzcm5CMGNTaTJVa3IwcHA5QTNWWEZ1eE5UbXd2SXRoeC01em0xam1VaTZfNEdhd1Z0OUxqa1pmVGZFMUnSAWBBVV95cUxNejItTHNRVmlRMXVIZDF4U0NoX29NVTFFSU9yTndwZWJlR0Y4VXh4T0dVZExuRW9Seng4cXE2cXh3Q1pYZmVQX1haQ2V1WFBYRkppYmJnb3RXX0RNNU1ESDk?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "추사랑→야노시호도 울었다..전광판에 찍힌 '♥추성훈 은퇴경기' 뭉클 [핫피플]",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzUxMHJTMDhyUlpyOEFqYzJwZFRhNGZjY1VMeXhZWkRHU0pjdWV1SjhIbGpxYzVHOGxuLXU5R05zaXFOeTIwXzdyaVlDYkVOUHlhd1I2d3pNMzVQRU1KelZScDlBYnh1RWpfUjQxVDVzRVJJODFGUHhHcjBCS0liYkRTWGNVUGpYck03TnBmNA?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "내부 FA 3명 붙잡은 SSG, 이제 외부 FA에 눈길…영입 1순위는 야수",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hRTNTbkZOS01UU2pLLUhkV0xoZ3RoaVBGaXR2ay1oUW4zWjQ2TzBmc295Tk9ESGoydm1EMk85QzVaQVlQLWRZZldWSWctTmctbHQ0RU9lQQ?oc=5",
+        "source": "뉴스1",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "'두현석 1골 1도움' 광주FC, 부천FC1995에 4-2 역전승 거두고 잔류 희망 살려",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KSTV6cWs0aFVkVWtlVlN6VEU1MkFTN1BleUlNc1hRNnRQTnIxdmdoTmtyenQxUER1Y1ZuWm40TE44dldQZXJLbk1tbVpObHdzRGVXbjhrV3c5cFZWRm5mZndKbVJuMkpkUVVRRlN3?oc=5",
+        "source": "국제뉴스",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "“최민정 언니와 같이 포디엄에 서고 싶었는데…” 은메달 따고도 기뻐하지 못한 ‘람보르길리’ 김길리 [현장 인터뷰] - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EbkxsUUE3TWhOVWVxTlNmY200T2psb3diWDc0S3pETXJPSGVzcEI1SDFlcGFnQk93azdtMHhHOER2cXR0aW1mS21ucHdyUndBRzNsSGJIQ3lESFZacmxfcGVQOUhKWkFkY3fSAW9BVV95cUxPZU1zRmpGM1BJVlRvRzA3V1M1Vk1fck9jNWpZSDBhRU9QQU1VaTQ3TmtmUER2WXpDU3BnWnJEMnhSb0p0Q2pQd1ZHWEtrdnNybTFOUFBYOXlGWEVCcHl0bWlvQzJSQ3l4NUMtamJpaEk?oc=5",
+        "source": "머니투데이",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "여자배구 현대건설, 흥국생명 4연패 빠뜨리고 첫 연승(종합)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaMkZ5MUlrdVR5RGxZU19QbGxfQkllWEx1QzdadGlGLU9Uek9XSm9qbUNQeDJ0R21vMjZjU1V0b0g3aHgyVDRCYnRTSVBQVnpESHRIaGZhLXhIUjTSAWBBVV95cUxNakN4eGkyTEo1RTVia1hiMkRSNFRuWjAzdmVWelJzQThrN2lnV0trNzlZRmNjS2ZpeEdzX0FTNkRGc09IYjZMcjJFRlRBSUM3Rk91NWdjTXBWYy1nZTJHZGE?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "손편지부터 적극적인 전력 보강까지…수원 삼성과 이정효 감독이 입증한 진리, 진심과 투자는 성적으로 이어진다",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qeGZqZFpjYTZxdWZCbEZIeXJkTWN2alhzbmsxVnprTnZRa191Qlc5SXh1bkZYRHA1c3FoQTBBUF8wekkxbkR5NTdCQUpLRzV1Q0U0ZTRUUGhfa2dhR3d0cW9QNkpUd21DMW1OdXYxUzUtZw?oc=5",
+        "source": "스포츠동아",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "'리누스 41점' KB손보, 우리카드 꺾고 개막 6경기 만에 첫 승리",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fTUxCeUFmZFZtWWtJbWRvWUxxQmdTdUEtM1RLUlItVkl0b1dNczdWWTYzSWlLS2diVk9yQU9XY2VXLW1yZ2xTUFZMTUJROTRNNUx6THE0alRxQQ?oc=5",
+        "source": "뉴스1",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "[단독] 대한축구협회·시도민구단, '혈세낭비' 조사 받는다…감사원, 3주간 공적재원 집행실태 점검",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15RENBZVN1cDRNemhhZi1FcnJpMkMya3lqZnNfUC1vcE8tTmdwbFFxVEpJbktfRi1uTjVSb09LZGJ5d0o5UGlQV3JDb085dmlHQVN3VVNmN1VrNDZlX1FCXzU1VEZXbEk?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "한화이글스, 메이저리거 숄튼스 영입..최고 시속 154km",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jVnVWcmRtd2otS25IMjdaU0dzTEJ0MHlQd3VGcXlSLUFpQThQN2Y5bXRuM2VVamtGRF9HVGdHOE5DcEpvTVVrRm9UYVdZZmR1SG51MzRvNS03YngxaDU5T25B?oc=5",
+        "source": "티제이비",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "여자농구 KB, 삼성생명 26점 차로 대파하고 4연패 탈출",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqRDhsUkFXdmo4ck8tckR4UW5VRFFyNUFfWnA5OXJSS0c0N2REU1dleDhXd3NyLXJxcmQ0cHFSM21qMUZwZ1NpWGRBYnVUQ3ptSGlJQ0V5ZzhLTm_SAWBBVV95cUxQVDFOS0ZIYWk2VThpazZ1ZXJsV2I5a0NlbnhFejBocjM4OVRsTFZ0VFRuV0Njd0tha1N6QVprMjhKZUJPQ0tESkt0cldOU05YaDZ1dV9LdVk5NkM0aVhzM3g?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "김민선7, LPGA Q 시리즈 4라운드 공동 4위 도약",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aN0hZcmFjZ2plSU83Y2tVYWMtOUdZdHkyZDJnN19ueDFzUVQxbmNjLVg1LWFTa3ZVLWViMXEydVdubXFzRWRzLVlUc0JrOENqNkE?oc=5",
+        "source": "뉴스1",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "김민수·엄지성 나란히 도움…유럽 무대서 존재감",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBSHVfZ0xGd3JxNU1KSXVlQ3ktRm14dGhXSzhzYTdnLVJRRFJESEdyWlFVcWsyZjVpWUVaeUhpblpaZmllYlNYaWdWX0pIczdUVXhhOV9QVHJJMldidExwUkkwcTdIeTA?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "박연수, 송종국과 이혼 후 12년의 아픔 ��백 “우리 애들 건강하지 못했을 것”",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVJTOHpaR1dxQV9fTHRPRG1mQ1haQVpqQlMtQlp4RDBoUDRxVkxJS1hNYWFUcXFMNEQ2dG15ZVpXTnZqdk9oMnFMSXRoVHkzZTBpQzVjWVJUZzAydWhvRVNDbE9HeUNfT3JJZXRES0ZuU2RuazVnRkVmWG9EMUluY0ZZV0FTR0ZyN3A3NVRCczZ3ZXPSAacBQVVfeXFMT1RlZ3NtY25NLTlTR2tmTFlDR2F4X052QmN3RFlaemhiek5GSlNrSXRNTTFzZVVpQjQxZ3pZYm14d041RkI5RzdRZVhVME1rTG5KRTVEZk41MHBqbzk2aVVjTWJZOVM3R1N2SnluRGJ5WU9RN2VVVWwzVk83NFZhTTVkVFNfSTNHR0V3d3YzSFNXMHYxamZsODNsWkNtRjJIRkRFUXljVVU?oc=5",
+        "source": "Chosunbiz",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "35세 아르헨티나 축구선수, 훈련 중 낙뢰 맞아 사망",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55ZW14dXRYOUhkbzg3eHNTTndXQnhlYlJ2LVNaTzVRLWY3b1M0Ui1YclZhOVRYUVJqX1hqMEw1RWpRbzBRcGZjdGhESjhFS1Utal83MS1XMERiMTQyYlR5S1hxOGlnUmh5cU43NHMzVmQzUE3SAWZBVV95cUxOMzlRS2h3dTdqLVVKd2llelp3ZDNNRVhTWjU3czVGZWo0T1FMc0gyS2theHNHMkpfY2wzbElRZm1WNndaWXA1ajBlMUp5TlIwVlBnMGJXS24yWGlPT2JWSUdGOE5CN0E?oc=5",
+        "source": "동아일보",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "김보빈·츠바키·인쿠시 출전 불발...원더독스, 라오까이와 대결 전 위기",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jUTJQRllGdEpCeTNBdV9hT015eTZ2WHZfSDQtYlFjVExCTVY3MHBlTDRnSm5UUkVCODJCMWlSQ0dqemJxTW9VTEd1NWxmZEtlVE9wV2JKUU45RHl3a2hfbTFTVXlnZw?oc=5",
+        "source": "싱글리스트",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "아빠는 떠났고, 잠실마저 사라진다…35세 두산 팬이 끝내 눈물 흘린 이유 [29면]",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OSUVkM0pGRWpVQy1mSGx4bk9MWGJkeUV1MnkzLTdSbWRab0FjUjZmT0lPNFN5b2hpbGJHS1lyUEw3NHE3RDRXTUNmVGJBVzJNbks0cTRYU3jSAVRBVV95cUxOaDlPRERtRm1nWTRIenJRZEdkNVM2ZVBKWkN2WXdabTJCSG92eWR4R2hGa3M0VzRfMWV4b0xLeVFGblNld3pQZUUwZDdiQkdNTUk4ZWw?oc=5",
+        "source": "세계일보",
+        "date": "2026-11-21"
       }
     ]
   }
