@@ -260,6 +260,266 @@
           "date": "2026-11-24"
         }
       ]
+    },
+    "반도체": {
+      "count": 1,
+      "maxTraffic": 20000,
+      "firstSeen": "2026-11-25T12:59:00+09:00",
+      "lastSeen": "2026-11-25T12:59:00+09:00",
+      "news": [
+        {
+          "title": "코스피 5% 급락에 ‘매도 사이드카’...하루만에 5000선 반납",
+          "url": "https://www.chosun.com/economy/money/2026/11/25/QHFODM73WVFFXAHXLRNKGUIPFA/",
+          "source": "조선일보",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "'젠슨황 랠리' 하루만에 끝?…메모리과잉·관세우려 투심 냉기",
+          "url": "https://www.yna.co.kr/view/AKR20261125066900008",
+          "source": "연합뉴스",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "\"5천피 순식간에 와르르\" 4.9% 급락 '패닉'...외인 다시 던진다 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/25/2026112509174624848",
+          "source": "머니투데이",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    "한국대학신문": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-25T12:59:00+09:00",
+      "lastSeen": "2026-11-25T12:59:00+09:00",
+      "news": [
+        {
+          "title": "전북대, QS 세계대학 평가 국내 12위 ‘쾌거’",
+          "url": "https://sjbnews.com/news/news.php?number=893393&year=2026",
+          "source": "새전북신문",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "\"4년연속1위\" 부산대의 영향력... 환경·사회·파트너십 다잡아",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885493",
+          "source": "한스경제",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "인천대, 지속가능성 평가 국내 25위로 도약… 종합점수 1년 새 9.2점 상승",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202611181217063341d94aa4ada6_12",
+          "source": "로이슈",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    "서훈": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-25T12:59:00+09:00",
+      "lastSeen": "2026-11-25T12:59:00+09:00",
+      "news": [
+        {
+          "title": "5·18 진압 경찰 포상 취소…이 대통령 \"당연한 조치, 마지막 한 명까지 역사 교정\"",
+          "url": "https://news.jtbc.co.kr/article/NB12329695",
+          "source": "JTBC",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6868370_36911.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "경찰청, 5·18 진압·삼청교육 관련 정부포상 104점 취소",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976408&pWise=sub&pWiseSub=R4",
+          "source": "대한민국 정책브리핑",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    "연금 개혁": {
+      "count": 1,
+      "maxTraffic": 10000,
+      "firstSeen": "2026-11-25T12:59:00+09:00",
+      "lastSeen": "2026-11-25T12:59:00+09:00",
+      "news": [
+        {
+          "title": "‘73년생 66세, 77년생 67세, 81년생 68세’…국민연금 68세 수급개시설 어디서 나왔나",
+          "url": "https://weekly.khan.co.kr/article/202611250802011",
+          "source": "주간경향",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "\"국민연금 3년 더 늦게 받는다?\"…정은경, 직접 반박",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01958166645649328&mediaCodeNo=257",
+          "source": "이데일리",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "정은경 복지장관 “국민연금 68세부터 수령 사실 아냐…정부 검토 안 해”",
+          "url": "https://www.segye.com/newsView/20261125504579",
+          "source": "세계일보",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    "3기 신도시": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-25T12:59:00+09:00",
+      "lastSeen": "2026-11-25T12:59:00+09:00",
+      "news": [
+        {
+          "title": "부천대장 A2 548세대 청약 청구서 — 59㎡ 6.13억, 계약부터 입주까지 내 돈과 「미정」인 중도금 집단대출",
+          "url": "https://contents.premium.naver.com/plaform/bg/contents/261124235935226yz",
+          "source": "네이버 프리미엄콘텐츠",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "공공분양도 '고급화'...운동·여가 넘어 돌봄시설까지",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01751526645648344",
+          "source": "마켓인",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "철도가 가른 3기 신도시 청약… 부천대장 129대 1, 바로 옆 계양은 미달",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/25/3EJJHLPSV5FADCQSQEZIPXKGXY/",
+          "source": "Chosunbiz",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    "디에고 시메오네": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-25T12:59:00+09:00",
+      "lastSeen": "2026-11-25T12:59:00+09:00",
+      "news": [
+        {
+          "title": "\"이강인이 3번이나 떠먹여 줬는데!\" 스페인도 폭발했다...쇠를로트 '끔찍' 골 결정력에 분통→\"겨울에 어떻게든 매각해야\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/24/202611242141770861O",
+          "source": "머니투데이",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "이강인 후반 교체 출전…아틀레티코, 헤타페에 3대 0 완승",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719908",
+          "source": "KBS 뉴스",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "시메오네 ATM 감독, 라리가 역대 '최다승' 신기록 … '345승'",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450020.html",
+          "source": "뉴데일리",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    "김천(구미)": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-25T12:59:00+09:00",
+      "lastSeen": "2026-11-25T12:59:00+09:00",
+      "news": [
+        {
+          "title": "'한반도KTX' 대전 패싱 논란에 '세종역' 반발까지…대전·세종 철도 소외 우려",
+          "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2315819",
+          "source": "대전일보",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "경남도, 도내 핵심 철도사업 제5차 국가철도망 반영 총력",
+          "url": "https://www.newsis.com/view/NISX20261124_0003881691",
+          "source": "뉴시스",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "경남도, 제5차 국가철도망 11개 신규 노선 반영 총력전",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6364768",
+          "source": "뉴스1",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    "폭설": {
+      "count": 1,
+      "maxTraffic": 1000,
+      "firstSeen": "2026-11-25T12:59:00+09:00",
+      "lastSeen": "2026-11-25T12:59:00+09:00",
+      "news": [
+        {
+          "title": "[그 영화 어때] 미스터리라더니 미스터리는 어디에, 영화 ‘폭설’",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/25/CFQWTKDOLFDTBC23ZRS3D5SMXE/",
+          "source": "조선일보",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "김윤석·구교환 '폭설', 7일 연속 박스오피스 정상 차지",
+          "url": "https://news.tf.co.kr/read/entertain/2393030.htm",
+          "source": "더팩트",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "'폭설', 7일 연속 1위...임영웅 영화 5일 연속 TOP 5 [박스오피스] - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112510157272732",
+          "source": "머니투데이",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    "디트로이트 타이거스": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-25T12:59:00+09:00",
+      "lastSeen": "2026-11-25T12:59:00+09:00",
+      "news": [
+        {
+          "title": "김하성, 디트로이트서 재기 도전... 1년 500만달러",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/11/25/GYGJHEHQ35B4ROA3TGRE3XHHTU/",
+          "source": "조선일보",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "'268억→80억' 사라진 188억... DET행 김하성 향한 싸늘한 시선 \"공격력 메우기엔 역부족, 스스로 증명해야 해\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/25/2026112511084645242",
+          "source": "머니투데이",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "‘MLB 생존’ 김하성, 디트로이트와 1년 최대 80억원 계약 합의",
+          "url": "https://www.donga.com/news/Sports/article/all/20261125/135085978/1",
+          "source": "동아일보",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    "южная корея": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-25T12:59:00+09:00",
+      "lastSeen": "2026-11-25T12:59:00+09:00",
+      "news": [
+        {
+          "title": "Южная Корея подняла истребители из-за российских военных самолетов. На одном из островов объявили эвакуацию",
+          "url": "https://meduza.io/news/2026/11/24/yuzhnaya-koreya-podnyala-istrebiteli-iz-za-rossiyskih-voennyh-samoletov-na-odnom-iz-ostrovov-ob-yavili-evakuatsiyu",
+          "source": "Meduza",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "Южная Корея поднимает истребители и велит жителям острова укрыться из‑за российских самолётов",
+          "url": "https://ru.euronews.com/2026/11/24/ru-south-korea-tells-island-residents-to-take-shelter-as-ru-warplanes-near-its-airspace",
+          "source": "Euronews.com",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "Южная Корея подняла истребители из-за пролета российских военных самолетов",
+          "url": "https://www.interfax.ru/world/1130910",
+          "source": "Интерфакс",
+          "date": "2026-11-25"
+        }
+      ]
     }
   },
   "sections": {
@@ -781,6 +1041,90 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ETUk3U3lSMzhOU2wtVVB5WXEtQ04yZDFNODVaTjUxOUJiYTYtYVZZanpMd1hTU3NwcEgzWjh6NjVUbHFESFI2UnIwNXFLSlBneWtqOTdxeUtYN1RKVUtXcVVhdW9OYTk2dGc?oc=5",
         "source": "AI타임스",
         "date": "2026-11-23"
+      },
+      {
+        "title": "‘언터처블’ 된 젠슨 황... 통과해야 할 3대 관문",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMElmb2ZwSENMWUhxMmNMWHBKbnVpR1JpMzc2ZEs3ZUNLSmlPamdLWjNsMF9MLWQzcWQ0VlctQi1sZXlKUmdRbGkwdnlYeU9uMnhndV8yQTZyUk02VWlCVDRqUTBkZ1p4Nk1FR1NRa1FCZzk3WGJZd1lPX1BPcmFhNHYyOA?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "\"이 악물고 버티길 잘했다\"…29% 축포에 종토방 들썩 [분석+]",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53UWlBaFJIamZNUUl3U3NkSVlDWnF2Qmd0Q1NidEk5UFVaTUFUM3MzeGV2OFhRbVdvanBzcVVEZEQ3bkxmUjlmaktNMF84Z0lCb1k0OGVjRWlHQQ?oc=5",
+        "source": "한국경제",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "하루 만에 314조 원 증발…엔비디아 시총 이틀간 ‘롤러코스터’",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KalBVd0MyV2Q2LXZ3Nkd5UjV0cVJGNzY1YUdmdjdJQmFvaGIyemRIUUE3MzAtR3lkVkg3UTh3UjlHNXF2ZFRJWURmYXM4TjZxQk8zLQ?oc=5",
+        "source": "JTBC",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "FTX 사태 때 악몽 떠오르네…비트코인, 끝모를 추락",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mNkdSRFFHa2h5bTQxcFFSSGFOSENyMnBuMmJ1RUhpZk5NRDVqV0xTWlhfdjFwLU5jOXNEMGtuVlJ6QXNsRzZvbnVlSW5BTEkwNnc?oc=5",
+        "source": "매일경제",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "AI 비서 '피클' 이용자 급증…네이버·카카오, 어디까지 문 열까",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5weVJTYmF1Q2dONEJVWHktVFI3bzJNVnkwVGpWeGtGczZZOG9pOVAzVmZhT3haRFRlNGtKZkxMWnZfZG1ydkpYU0V4VDJoSEoyZmQ4YlJ3?oc=5",
+        "source": "지디넷코리아",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "하루천하 ‘젠슨 황 효과’…코스피 4% 급락하며 매도 사이드카",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KcGFDUk5lM0VUOHVCZ2ZOVUZLcGlNX3poaTczTWdyeGxpWExqNnBxS1dDbjlqdG0weF9Wb2E0VnZZdTMzQzVkVnBORDJ3Y2h5LTRBTDZGOHp6LUxaNmszaG56aXVtVUE?oc=5",
+        "source": "한겨레",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "[단독] \"삼성·SK하이닉스, 美 차세대 AI칩 광(光)연결에 1억달러 동반 투자\"",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb3U1ZHVxWkRFZW1YcnlQa0U5RjJEN3lyTFlfSFd1aHhlUnNFZW5jMnRLRUFVaGlBb0liNW1jbWN3VHJlZWc5Q2RWd2ppNmpjREd0NzFlbWY5U0hTRS1Dc0ZubGo?oc=5",
+        "source": "뉴스버스",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "빅테크 먹통·보안 우려에 ‘탈(脫)클라우드’...온프레미스·엣지 컴퓨팅 뜬다",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa1pTajhMRHhTemUwV2FlLXBGZU1MVjJJR0hrMnNnUnZxMmgtTXJtZDBuUW1vdjZ6cG9yRG5pal93NUlFak1rNGl1WFlzc3pzQ1F3QUxJVVZBZ2VldVFCOERXVGsxT0lMNllMbFB2dWNsbmtpT19VQjRSMldiT3B6OUdtVQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "“문 열자 똥물이…” 폭우 감당 못한 ‘첨단 도시’ 샌프란시스코의 굴욕",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zSlVuNXE2eFZ4OV8xZlNsU1NvX2V3dzR1Ujk2bC1iZ1NINWUteE9aRkFsSWh0ZXBTVkdlNmpIU0Rsd3lvNTlaZHlGakFjSjlma1VsdkFnb0ZpY25hLWxPdTdlbUt3S2xYMjlidjhyYw?oc=5",
+        "source": "한겨레",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "[기타] [루머]삼성, S27 울트라 카메라 기능 줄이고 AI에 집중",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13YWlTdEVnR2hrc0h2ZjJ3NENsSTFzWkZCVE9meXZoZWlkRS0tQmNTZ3NjNHVoR2dHaEFYRE5INlI1bXU5LXZVdUVMc1BZOXlva3d2X3pQMzRLUkpi?oc=5",
+        "source": "인벤",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "'1호' 원화코인 발행 시동 … 금융권 합종연횡 빨라질듯",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjdmcyMU5GLU9YUU1YNUpBczBCLVAxYTRISm1iaWNyR1FKZG92Q01kWEEtXzV6WUpXU0VNenBMczJEc29JM0t0YTQ1UEpVaEtiREE?oc=5",
+        "source": "매일경제",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "매출 사상 최대, 주가는 7년 전으로…AI 시대 위기 맞은 네카오 ‘플랫폼 성공 공식’",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zMUpySkVyX3VmVlJoUzZkVGd5UUZhVzNfTlQ3Vkc2ZlBQV2x2dUhjVHhGeUdjaTVTbE8zQm9ISXd4bFNKWm9wcUtyY2JURU44elMyaVVXbnVxQdIBX0FVX3lxTE5ZY3hqNUtvdnVkWFp3Y0VXclczcVMtcm9wR01RZW5ndzl2U2xrUDdBdmRHMi16ZUk5NDVGdlh3THZ3Mko3UEJmbVpNOGdCWEktd2tGS1NoMzNZYnc3anBZ?oc=5",
+        "source": "경향신문",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "[단독] '로봇 두뇌 국산화' 삼성전자도 하기 어려운 이유는",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96QWxhYkVBS0N4V3Q5ZF83d2FBa1lXcE95TmhTWl83Zk9JOThRSEFhRjBNRWlMZFQ0REJnQ2h5OFNjU0VLX2YtaGV4NmtwRG1FZXVhR1N2N0p5WGIydnM4?oc=5",
+        "source": "MTN 머니투데이방송",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "화장품 잘 파는 올리브영이 '테크 기업' 되려는 이유",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PR2pwZUJfQjRoOFNfcGhyUllyV1dBNEJMOS1zOGphN3M0X0VTQzROOVBsVFdXR1p2Ql9MVHhMdEthNmVvUDg0aktmWjZ0WHdPZk5Tb3NB?oc=5",
+        "source": "지디넷코리아",
+        "date": "2026-11-25"
       }
     ],
     "ENTERTAINMENT": [
@@ -1277,6 +1621,114 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vMUlPNHBNdVRuSndwOE5BVV9yZW9SdjduQnpLMy1RakRNRnlES1RCNU5MUHNveEVuYmZNVE1zQlBWZ0F6UEs0Mnp5WjJlZlotR1pfTW1rSUVDZGZhT3F4QXQ2WjRnQQ?oc=5",
         "source": "KBS 뉴스",
         "date": "2026-11-23"
+      },
+      {
+        "title": "김하성, MLB 디트로이트에 새 둥지…1년 500만달러에 합의(종합)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02em5QSFlISVBrWnZnUHcwMjRSbDc5LXljdFZ5V0h5dXYzelFBZVk0ZUtMcUxKRndvLV9vM215MW94RVBsU0xEODhUbW5PUmJYSV8wVDlZVjZvV1HSAWBBVV95cUxNX0RHOEJ6STVKTHhlQ3hDTWtIUzJpTjR5bE85aDlVY2ZjT3B6aV9uR0h0MTlrUjVhN0NoOGp4UXhXdGkwbWljSmYyQ0JQRzRBekhrLUdVcTRKeU9meFpGWkY?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "한국 남자 테니스, 66년 만의 데이비스컵 8강 격돌, 26일 자정 '디펜딩 챔피언' 이탈리아와 격돌, 아시아 국가 최초 8강 진출 쾌거",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXFYR0ZVWXh5U1VSbW8zZG9fQVpNWWFJXzVMemx0clhIdnNzZVZyYkdTdlZGUTRScVhJTFh4cDZBMGtCemJzZlhCcDBneE9QOVp5MWVtQW5WV2hfNGFzQ2Q3UmptNU5LOFUtV0ZhT3pxckxNb1VESkVraHFUQWlrLU9FcTdwYzZId0lJ?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "선수는 대출도 막히고 카드값도 못 내는데…K리그는 ‘엔트리 제한만?’",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tc3Rvb0JiSk5wNklIcU9tQ0FfQVJxRFp3eV9maTZSaFhlRklneXl0M29FNVgzcTlXSllYTENRM1NaWUJVTUdmdU80Tmd0V1BNZ3BzUHJQbmJxYzg?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "FIFA냐 체육회냐..회장 선거 놓고 축구협회 진퇴양난",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TQm4ydURJX2FSVGxHdy01RmZQMkp5RGFJWFBOVkYyR1dwajUtakhRN0xlM0RGLTdMci1yTzNIRF9GcEQzLXExOFJveUJYaDBxLUFuU2xqU1VkTWs?oc=5",
+        "source": "경기일보",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "일본 야구 타격 3관왕 사토, 6년 1억2천만달러에 MLB 컵스행",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UOS1SNHN1T2E4aVl4dldTZXRxQmFiaXcyQVlqNDZDV2V4YUVoVmlQUTJIUmYxZ05tYXR5VU1BaWwyNXIyZ0ZmcnEtTWJ6YVVmZEFKZGw3NU5yVThDMU9IWEFMUTVjUTBrdjRUQ1Frb3ZBaE1F?oc=5",
+        "source": "연합뉴스 한민족센터",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "[프로야구] NC, 'FA 최대어' 삼성 우완 원태인 영입전 가세",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NcmdMRlhOVVdjSk5pX1hQS1JuNm90d0VPM0NMVUYxeVFhZkZJUWpqTHpMYXFpWlZLYng5MjlFTUpTRUdvSndRbnlvMmhZR2RCSmdEcEFHNV9TU0N0?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "\"빠르면 2년 뒤 빅 리그로\"...김도영, 미·일 제치고 유망주 1위 [자막뉴스]",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvellUSUhxY1h6SGNBb24yRXVhQVdmWlpLMVR3MHJIeU05bFVZaFA2eDMzdnpxNDEtZHo3U2d6UTNnemM3M2pXV3htMUdhazZyaXNweEJ6aE9rTTJvN0E?oc=5",
+        "source": "YTN",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "황인범, 친정팀과 맞대결에 교체 출전…포르투, 1-0 승리",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMRnppQlBhdzlVRE5jLUZrOFIyMElYRVBJTm9FNlB2c05kVzZUR1ZOVVBXeGFQa0xWSW83TE9EczZyeFZmZldPckVlYnVQYkpUOHVvMUduWEVyUmlQTm1UejN5eDVNcWc?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "\"50%만 하자\" 주문이 '커리어하이'를 부른다니…'디펜딩챔피언' 또 한 번 일내나",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQckdNdDRWYThpWGhlVDFKN2pBSzR1VGl1bXI5eXFKWXctRXpEbGdBdy1TNVBaRVctdlZDOEJRcVpjRnVuMWsxZDNPQjVVTV95TUFpOEtYRjlPZmFXQXcxc29mSGJFU2tiTTlEcmw1RlJCSFRNQVdUUnN2QWI4WVVEa3Q3Z0t5UQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "조성환, 감독 대행했던 두산 2군 사령탑으로 복귀",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nX3VDdUQyOW1VeVVXM2FiMHVOYk04NThjMWI5MnRDVjFlckZablB2dWFqSE5xREwyQUVCOVo4ZGJiYWI5anprTE5RTUZ6YUtjT3NuY1hWaThNajA?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "김도영이냐 곽빈이냐…KBO ‘별 중의 별’ 26일 빛난다",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KZDVJRVBmTnFWRmtZdHpES2cyZEtxRXdSZEVNTmF4WS0xQ3I3dkRiRHRXd0lzeHNyWkZaOEU1ejdYaXZ0dHVITjRpaURORVQ2ZzA5LTNuZGZFa0dWd2hQMnlVd3dnSnM?oc=5",
+        "source": "한겨레",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "김민선7·유현조·이다연, LPGA 투어 직행티켓",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oTC1hNkl2QXlicGZtMC1yc2lMM3FxWTFJMDB5czJQNW1JZF9xN3ljM3Q0NEFlU2t3WHVxSnNEVUZ0a3RRak82MlBfcDRtOWhKUWV5dmFn?oc=5",
+        "source": "중앙일보",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "이정효만 있냐? 박건하도 있다!",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1Wlo1cUFYT3RJNWl1bXBPdHBPUF81MkZxUi1GYU4tYVlIZzBNS3dWOW11dVpPRElGbTB6alRkYTVzZEVmekkxRTZObUhfX0hreFlScTcyMERsdUpNRGlHQm1McHlqdw?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "지난 시즌 꼴찌 맞아? 신한은행, 하나은행 잡고 4연승 선두 질주",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUjdMVjlCcDBqVFVEMVFneFlDZ2xESk4xdWhzbW9UMjVYa0xXbF9jRGY2cFdSZ0lkMEFvTk9uRjFsbElKZkVDYmRKWHRaZ3NxYmk5M1hWRURuTWVzUjdSLWpYdTYyWjhTUlBEQ2NlN0Q3VklFcW04RFZTYURSUUdFeExvQjJVQQ?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "대한항공, OK저축은행에 풀세트 진땀승…헤난 감독 복귀 후 연승(종합)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tOENkdFVydjNaS3hucEdKb1RsSTJNOVhZMWVIV21fc3ZnRjh4Z0N1bEtsbWNHSnRXbHJ4QUJhaXlaaVJRcGhJRWJCbXEwM3ZLdlFDVHlwSEpCZUHSAWBBVV95cUxNQl9rTkM0Vy1faVNQamFlZ0tIWTRhcGZoY0dfN3ljZ3B6WnVEQ3U0ZEttcndxYVdIZmt0WHJ3MS1pbjYxY1dpNHo4QXRxSjVwVzlyalFhbjlTNktZUUtzRHg?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "삼성라이온즈 20년 만의 우승 카퍼레이드…29일 대구 도심",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfZGFOYy1LSjdOdXNHcDJxbjlPWXdWSjZOWi1QOFFPMzRkYnBVNldUVzVvdVZ0MDVXQzdIWkkybzhTLVNWWDMzUkxMbVRtNHpkZHNVS0R3eUh0VThTYVdwYlJPMVg4MGNxUE1RSGJxU0VMZ9IBdkFVX3lxTE8wUTcwNTdGNndmeHRHZzNGRkFYZzg2YU0ta1FMMExtaW9Ba0h1OUJKcWRJcURCVVBrN0lmUGRScTBYcE9mTGszallaRE93eVMtb1BtWE1IdkdzQ3o1bTF5bFhfaGswUWx6VU9aQXdEUFZDdmNVaUE?oc=5",
+        "source": "LG헬로비전",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "아라우조 공백에 3연패 우리카드, 비예나 합류로 반등할 수 있을까",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pQ09DMnRYSGxWRWtobnNzUU9DdDVfR3FjaHlSOWpnaktmZzJYQUp3TVlzREd3SmpOaDV0b2tIemdadGhnY182UENCYmRPXzNSNlFUQ2pLNDBYQQ?oc=5",
+        "source": "뉴스1",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "‘최종전 우승’ 티띠꾼, ‘역대 상금 랭킹 1위’→내년엔 ‘세계 1위 탈환’",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YNUVRRDZ3bW9RQkFCeGJwYUJvc3J2c1QzdzBNLVJvMUZwbDRGSDNVckRLQXEzVVBCVmZSejg1Z0haMzhuajZfV044MExqcVlualdKZjFJMHBlS01EWGJPRGVfdTI1MnNyTTBRMTJBdEhyQQ?oc=5",
+        "source": "스포츠동아",
+        "date": "2026-11-24"
       }
     ]
   }
