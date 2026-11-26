@@ -254,6 +254,266 @@
           "date": "2026-11-25"
         }
       ]
+    },
+    "경찰": {
+      "count": 1,
+      "maxTraffic": 5000,
+      "firstSeen": "2026-11-26T14:19:00+09:00",
+      "lastSeen": "2026-11-26T14:19:00+09:00",
+      "news": [
+        {
+          "title": "경찰, '리트 만점자' 집·수능시험지 보관 압수수색",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6868750_36967.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "경찰, 고 이진우 자택·시험지 보관장소 압수수색",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261126133720DEs",
+          "source": "연합뉴스TV",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "[속보]‘리트 만점자’ 생명과학 과외선생 “죽음이 범죄 도주처 되면 안돼···그래서 경찰 출석”",
+          "url": "https://www.khan.co.kr/article/202611251415001",
+          "source": "경향신문",
+          "date": "2026-11-26"
+        }
+      ]
+    },
+    "김용빈": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-26T14:19:00+09:00",
+      "lastSeen": "2026-11-26T14:19:00+09:00",
+      "news": [
+        {
+          "title": "황신혜·붐, 첫 녹화부터 오열…역대급 시즌 (미스터트롯4)",
+          "url": "https://sports.donga.com/ent/article/all/20261126/135095296/1",
+          "source": "스포츠동아",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "'미스터트롯4' 안정환 \"역대 최고 시청률\"…김호영·최유정 공약까지",
+          "url": "https://www.etoday.co.kr/news/view/2652371",
+          "source": "이투데이",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "태평, 새 프로필 공개",
+          "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1072577",
+          "source": "내외뉴스통신",
+          "date": "2026-11-26"
+        }
+      ]
+    },
+    "조국": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-26T14:19:00+09:00",
+      "lastSeen": "2026-11-26T14:19:00+09:00",
+      "news": [
+        {
+          "title": "[속보] 조국 “공공기관 떠난 서울·수도권 알짜 땅에 공공주택 짓자”",
+          "url": "https://www.kyeonggi.com/article/20261126580059",
+          "source": "경기일보",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "“공공기관 12곳 부지로 1만8000채 공급”",
+          "url": "https://www.khan.co.kr/article/202611252038005",
+          "source": "경향신문",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "인사말하는 박능후 포럼 사의재 대표",
+          "url": "https://www.news1.kr/photos/8231682",
+          "source": "���스1",
+          "date": "2026-11-26"
+        }
+      ]
+    },
+    "k-라면": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-26T14:19:00+09:00",
+      "lastSeen": "2026-11-26T14:19:00+09:00",
+      "news": [
+        {
+          "title": "세계가 눈 뜬 K라면 맛…“공장 모자랄 판” 난리에 결국",
+          "url": "https://www.joongang.co.kr/article/25482068",
+          "source": "중앙일보",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "수출 1조 달러의 빛나는 조연, K-소비재",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=458781",
+          "source": "서울Pn",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "글로벌 식품시장 10조 달러 시대.. K푸드, 현지화·유통망이 성장 열쇠",
+          "url": "https://www.fnnews.com/news/202611241440278751",
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-26"
+        }
+      ]
+    },
+    "김희영": {
+      "count": 1,
+      "maxTraffic": 100,
+      "firstSeen": "2026-11-26T14:19:00+09:00",
+      "lastSeen": "2026-11-26T14:19:00+09:00",
+      "news": [
+        {
+          "title": "김희영 의원, 충남청소년수련시설협회와 현장 간담회 개최 및 감사패 수상",
+          "url": "https://www.megaccnews.com/news/articleView.html?idxno=19246",
+          "source": "메가충청뉴스",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "김희영 충남도의원, 청소년시설 현장 간담회 개최… 협회 감사패 받아",
+          "url": "https://asandaily.kr/View.aspx?No=4330848",
+          "source": "아산데일리",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "충남소방, AI 도입해 신고부터 출동명령까지 52초→48초",
+          "url": "https://www.yna.co.kr/view/AKR20261125142400063",
+          "source": "연합뉴스",
+          "date": "2026-11-26"
+        }
+      ]
+    },
+    "은평구": {
+      "count": 1,
+      "maxTraffic": 500,
+      "firstSeen": "2026-11-26T14:19:00+09:00",
+      "lastSeen": "2026-11-26T14:19:00+09:00",
+      "news": [
+        {
+          "title": "은평구, 지방자치 혁신대상 최우수상…전동보장구 이동안전 체계",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763604",
+          "source": "국제뉴스",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "은평구, 보행환경 우선 점검할 후보 권역 16곳 선정",
+          "url": "https://www.fnnews.com/news/202611161514597849",
+          "source": "파이낸셜뉴스",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "전동휠체어 사고 ‘12초’ 만에 감지, 곧바로 119 신고…은평구, 혁신대상 최우수상",
+          "url": "https://www.munhwa.com/article/11634212",
+          "source": "문화일보",
+          "date": "2026-11-26"
+        }
+      ]
+    },
+    "이정재": {
+      "count": 1,
+      "maxTraffic": 2000,
+      "firstSeen": "2026-11-26T14:19:00+09:00",
+      "lastSeen": "2026-11-26T14:19:00+09:00",
+      "news": [
+        {
+          "title": "'사익 추구 의혹' 이정재, 수척한 얼굴로 청룡 무대…\"많이 망설였다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112607173970598",
+          "source": "머니투데이",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "“배우 안성기와 함께해주셔서 고맙습니다” 아들이 전한 청룡 공로상 소감 [이런뉴스]",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723214",
+          "source": "KBS 뉴스",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "'청담부부' 결국 파국?…정우성, 아티스트컴퍼니 지분 매각 [엔터X스탁]",
+          "url": "https://www.hankyung.com/article/202611246138H",
+          "source": "한국경제",
+          "date": "2026-11-26"
+        }
+      ]
+    },
+    "광고": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-26T14:19:00+09:00",
+      "lastSeen": "2026-11-26T14:19:00+09:00",
+      "news": [
+        {
+          "title": "\"시리 한국어 18개월 지연, 기만 광고\"‥애플, 공정위 심판대에",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6868771_36932.html",
+          "source": "MBC 뉴스",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "애플, 아이폰16 AI 기능 허위 광고 혐의로 공정위 심판대…과징금 최대 640억",
+          "url": "https://www.kyeonggi.com/article/20261126580176",
+          "source": "경기일보",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "아이폰에 '애플 인텔리전스' 9개 기능 탑재 광고 해놓고 실제는 5개만...공정위, 애플 제재 절차 착수",
+          "url": "https://www.chosun.com/economy/economy_general/2026/11/26/E4EUWNTAPNDJXDEWDPYAQUFSE4/",
+          "source": "조선일보",
+          "date": "2026-11-26"
+        }
+      ]
+    },
+    "미스 유니버스": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-26T14:19:00+09:00",
+      "lastSeen": "2026-11-26T14:19:00+09:00",
+      "news": [
+        {
+          "title": "엄마 '미스 유니버스' 첫 탄생…7살 딸 둔 기혼자가 왕관 썼다",
+          "url": "https://www.yna.co.kr/view/AKR20261126001600087",
+          "source": "연합뉴스",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "엄마 ‘미스 유니버스’ 첫 우승…117명 경쟁 뚫고 왕관 [소셜픽]",
+          "url": "https://news.jtbc.co.kr/article/NB12329870",
+          "source": "JTBC",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "미스 유니버스 75년 만에 첫 ‘엄마 우승자’ 탄생···7세 딸 둔 미 국방부 직원",
+          "url": "https://www.khan.co.kr/article/202611260714001",
+          "source": "경향신문",
+          "date": "2026-11-26"
+        }
+      ]
+    },
+    "불꽃야구": {
+      "count": 1,
+      "maxTraffic": 200,
+      "firstSeen": "2026-11-26T14:19:00+09:00",
+      "lastSeen": "2026-11-26T14:19:00+09:00",
+      "news": [
+        {
+          "title": "박용택 vs 이대호, 고척돔서 펼치는 ‘불꽃 파이터즈 시빌 워’ ('불꽃야구2')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MZRTGYRXMNRTSZDBGYYTEYZTGU/",
+          "source": "조선일보",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "'불꽃야구2' 박용택 vs 이대호 감독 맞대결…최지만·노시환 출격",
+          "url": "https://www.etoday.co.kr/news/view/2652825",
+          "source": "이투데이",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "‘박용택 vs 이대호’ 진짜 붙는다…최지만·노시환까지 불러모은 ‘불꽃야구 시빌 워’",
+          "url": "https://www.sportsseoul.com/news/read/1652102",
+          "source": "스포츠서울",
+          "date": "2026-11-26"
+        }
+      ]
     }
   },
   "sections": {
@@ -1349,6 +1609,120 @@
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfX2hYbkh2VjlCb0RjR1d0UHpzNHF2NExTOFZ3VnhEVWFpNjRlVnowb3cxVlV0Zm5oWXlid1FCVlJrYTNENmw0aDVZWWNLY0hzcThjUzczTTRsbEw0RGc?oc=5",
         "source": "인벤",
         "date": "2026-11-24"
+      },
+      {
+        "title": "김하성 영입한 디트로이트, 이번엔 355억 쏜다…'올스타 2회' 베테랑 선발 가우스먼과 1년 계약 합의",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMmRHZkhUUzFOYlZkWjhQUHFBVGUxZi1XOUwyNGxxcUdlN3FkUjJqTmlPVm1MUjFCMHhoX2h1aGhQUlV1LVhzWFRtbXhWNzBSXzhaWmZVNnJYWXRBcXptbThyMG5tajNEM29JTnpqMDl0MkNEd1dlVk0tNV91Ri1jbDhjZ0hVM3lhMkIw?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "韓테니스, 데이비스컵 파이널 8 무대서 세계 최강 이탈리아에 1-2 석패",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hbzZTaVM4UnlPZEpjbkNRUXZvd2RnQWk5YjRBbUNBRnNldzhyb3BadUlvRzNLSHZhM3hJRG95WXFja3NWZ1g2QkxhYkc3Ql9VeVlzTUFzaUNCaHhnRWdFV1E4bHRUX0pySDloNUhJN2NCckl00gFmQVVfeXFMTUdHMXVtaWdhU2lTVC11WXB4cmY5Y1lsSTZoMHYwczBneWRGWVRZak1xZ2dzS2p1R3liS0ZzYlFfRVhWTEIxcjI5b0FXQ0Jhb20ySmN5bUp5TXNoVnZMX1ZuR29VOV9B?oc=5",
+        "source": "동아일보",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "\"저는 수원 감독입니다\"…이정효, 국대 감독설 선 그었다 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42ZnB1Qlp6SkJSRFJMMkJSUXltWlRVcVJsV2U3N1AzbDJHbGVVenVxaHhCMl9MTVR2THZwVDNTS0oyLVBmSWRaTjBMYTFHa1pseXdhRjlGV1AyNFl5WXRzN2treW14QXpxS1HSAW9BVV95cUxOUFktVUNSM2NOdW5lVlBvUGlsdnZueVU5UlNDNGF5OXdLdnlNMEVfekstOUxRb1Rvamo4aXM4THVHRmo1MTE3b3A5SDVnNVljU2ZBbUFLOXh2LW1oY2VQeFdXZjZYbi01T2N4OFlvVjQ?oc=5",
+        "source": "머니투데이",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "역시 국보 센터! 돌아온 박지수, 또 역사 썼다...'무려 159회' WKBL 역대 최다 더블더블 달성→KB스타즈 2연승 질주",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfZWpqWFVibnN1ZS05TE5IYnkwU1M5VDRYNzNWQzY3dnNieWVmNTRXU1c4MmxRLTY2bmVObmUwY3JYX2U3RTdXNWJqSEgwYTNXaDZPZVZoODJvWEFSOTJfN1dR?oc=5",
+        "source": "미주중앙일보",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "'대세' 김민솔, 김민솔 웰컴저축은행 대상·상금왕·신인상 3관왕 등극...서교림, 다승왕",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWNDYTE5LUxGc1paYmxhUmZRTE5ObkVXR2w1dWNsSm9GV05Hd09hUkUteGZfcWRpb1BMNDQ5WGdSNUo5QnpuQkNtSWdGSUc4NkpJLW1OelRKWEQxSTY1WXRodG8xaVl5b3BhOXNBZHI5YW1ST21CcEdydkluTnozTEJQcUVXRC10SDVz?oc=5",
+        "source": "글로벌이코노믹",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "U-17 축구대표팀, 조별리그 전승으로 월드컵 32강행‥에콰도르 3-2 제압",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OdzZvTG9KUldVOEs5c3VNX2lNa3p3ZExWX0l6dTJvcmtnMGVGRjdnRWE2ZjZnQW9DUGVQVVJqRHlHbl9YQTZZd1FWLXpINS1zYVo1dGVFX29LTG83cVU1Sld6WnRmNTJzV3h2VllFcTZJLUlweFHSAXZBVV95cUxQWjB1QXl3QlltcDBwZFg4SjRHLVVKZFkwOXRvZm9IbllmOXNGQnVoNUFoY2E1a3Q4ODBPcUY2Z0Z3RGtZSUk2UGtwVlB0bExoRWZiVlNPZnpiMVZETHFkbGZ3ckNudW16NUR0TUIwQkJUZDlhbVlB?oc=5",
+        "source": "MBC 뉴스",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "'D-3' 원태인 구자욱 '극적 합류 가능할까…'12년 만에 KS 정상' 삼성, 우승 기념 행사 연다",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMllWNUNZTGRHd2xGMC1xRVMyaXdIRVUyN1R2dGpZQk1WdlZYcWRpbFZRQnF4cEFPdlhPb0YxZUFXYUF4MW9JZnl0cXI1OHBvNS1ONXZlbTFiYkxRaHBMSWxibHRoQnJpUW01YnNybDBVMkdBdE5lVU5WZzZVai1GVFcxMA?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "신진서 110억 5천여만 원…한국 바둑 통산 상금 1위 등극",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rblV2Y2xkcVI0TDM1VTlFeXpGQXVCVV9kb1BMQXp0cUtmYnR2MWhYc0hybUlROUw1dXNiVG1VMS1NbmtObzJsbXFaS2lIREF5UXB6eXI5N1BlcFA2dmpESWg4bzc3Zw?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "LPBA 8강 김가영-스롱 피아비 격돌…PBA선 국내 강자 대거 탈락",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NaXNseDVQVFBsYVNNTENKckh2VW9EVUpfSHRpX2ZoUU94WFBkYXBvT3Z2elpvWmNVbXZvUU9aV0NHZmRhRWJnZ1N4bHdBeHJoWk1CQWJ6eGlvcDTSAWBBVV95cUxQbG5wN1FxMVNHa2dpdTRzc0VOZ0o5UGI0SjV5Y01WZE0zVWp5X3BodVp4NlhsTWNXalU3NE54ZG01LXI3U1dvRFRqMGx0ckR1elp0b2lPazZISmp2VndIOUc?oc=5",
+        "source": "연합뉴스",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "LG, ’2차례 우승’ 김민식 영입…“젊은 포수들 성장에 역할“",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yZURCN2hJNXVYMDNtRUE5U0dTQVFmaU9Cczh4MjBwOXhJWjU1ZlEzZ1Rxb09kTlhBX1pwemJJUkxQZHRURjZhQTRnYThvamV5LU5rckdvMi1WaW10X19GY1hPWGZWaWc?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "[프로야구] 롯데, '안타왕' 레이예스와 180만달러에 재계약",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QUmdka0EyVnFORko4V083YlFfeHp2VjR4SVNQUlFUcUVTcXV1YTN1Wm9iYVRaLW00SWdaQkwxU2VSN3FoeVNLMjNhcjJtTE1nM1BidXl0Z3hKZw?oc=5",
+        "source": "뉴스핌",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "[영상] 오버네트 논란…석진욱 분노 “기준이 없어…손이 넘어갔잖아요”",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JMHh3SXM1MjExR05MdWxzYWRZRTU1c2doQVVZMHlqeHM0ODd1UVBlNVZBWmpoeWV2NXZaN21kc2ZtV2t1ZmNpQjhIaHVhbVBucm9DMlFkYkJwTHZXejFacW41bUNwUQ?oc=5",
+        "source": "KBS 뉴스",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "‘45홈런’ 김도영 vs ‘197탈삼진’ 곽빈…정규시즌 MVP는 누구",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83OV9uaDdiV2tUV0R6b3NMMFJab2xLcUJxWVR3QUVYakozaGd4RWxjc2w4cUxZcHAtRDM2QnF6dl9BUi1ibTBJMGdhQmVndjE0OE1taU12T3NleWZoNndmcHEwS2g5RlJadWU2SHoycFRuSnA40gFmQVVfeXFMT2NmLUpsUXY3WXpHVl9XdU9wWmNBZVc4UEhHeDZTSTRvQ2NYeFNqNkExZFpuc2JQQXM1ck02V1RVWVUzU2hmenhoS3pCMndjajZsSDhSWGpQQWF0Q2VkVU1PcEhtbUFB?oc=5",
+        "source": "동아일보",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "\"빠르면 2년 뒤 빅 리그로\"...김도영, 미·일 제치고 유망주 1위 [자막뉴스]",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvellUSUhxY1h6SGNBb24yRXVhQVdmWlpLMVR3MHJIeU05bFVZaFA2eDMzdnpxNDEtZHo3U2d6UTNnemM3M2pXV3htMUdhazZyaXNweEJ6aE9rTTJvN0E?oc=5",
+        "source": "YTN",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "\"황인범, 얼마나 사랑받았으면\" 페예노르트 직원 일부러 찾아와 인사... 포르투, '황인범 친정팀'에 1-0 신승 'UCL 2연승' - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jQXdpUl9oR0RQRUxTcnJiMk5JS0FMd2lqVTJzdkpsLXFkVy1WOUpKQUhOLXpQNUVyZzlLTWdjWm9kYTFnczREQ29xU3NXcFItQjJQV0wyNlVKcDZHblFKcjFETGZEdmF1dUHSAW9BVV95cUxNN0RJbTVINTAwMWNBU3dsOF9aekM1TEl5a1loWEZaR3NrUVFQM3l1TWlYTnFobEJXVHhaeWFuNkliaHRLNlo3Tm81OHk5cUMtSHo1VkZDLVIyOXRpR29FRFVPX3owVlNabUttZkFWS2c?oc=5",
+        "source": "머니투데이",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "이승우, 일본 선수 멱살 잡고 거친 몸싸움…이유 있는 분노?",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01NG8wYWJSNFhlTHhPWXY4Ry02eVF6VjNCcV8tS3IxNllENC1SSFVCT3ppS3ZPRFpvUzZETm5xSFhtdlY0YTlVV2hySGJCWGRFeE1SS1BTdXA5anVSQnppVnRUemdvdzg?oc=5",
+        "source": "연합뉴스TV",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "결별 유력했던 모레노, ‘아시안컵까지 재계약’ 현실론 부상",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZENRUXRObnNEREtoLXZNck9OTkVGZ3FPdF9vSTlocEJKZkIwVUVkUHJ3akRNTUcwb05TWXBvdGtWOWdBZGczY1ZFdVB1MHA2N0FGYzkzZm4waGZHcWU0enpxZE43NVI4RHYyMzg2ME1Tb0FiVkh0QURfMWtrZmpFVDY3NA?oc=5",
+        "source": "조선일보",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "��게 무너지지 않는 신한은행 앞선…AS 1위 ‘최고의 수확’ 김지영의 재발견",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vOG1KQjBUTGxMNDFXSVJIWnJ2SDN6ZFFvYk00VWVIdnNaTWVUNjdMdVpyRzFYeUp0NUx0VktaTlJYZjFtZExsczBQbjJtNTFuVmt6bjZHQTJ6TEltZFRLbU1faXFTOHByeVc0NVJTckJjZw?oc=5",
+        "source": "스포츠동아",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "FIFA도 뚫렸다... 해킹 조직 데이터 공개",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zY2F3SVdUNjl4RzZQNXV5RFcxQUQ4cUhtcHZ1OGpQeEtrWUNzOF9DUzdCaXZxbkE4b1QwNnZIS3FDcWRMNS1YTzRqNVI0MmNUY1FSSVpERDhOV25UdENvV0JSTnUxT3FmMkhv?oc=5",
+        "source": "보안뉴스",
+        "date": "2026-11-26"
       }
     ]
   }
